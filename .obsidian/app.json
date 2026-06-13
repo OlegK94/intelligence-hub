@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "raw/assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "raw/inbox",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false,
+  "useTab": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

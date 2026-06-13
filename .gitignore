@@ -1,0 +1,43 @@
+# Secrets
+.env
+.env.local
+
+# OS & cache
+.DS_Store
+*.pyc
+__pycache__/
+Thumbs.db
+
+# Agent sessions (may contain sensitive context)
+.claude/
+.claudian/
+raw/Claude Memory/
+
+# Cafe HTML/PDF assets (large)
+raw/Cafe/*.pdf
+raw/Cafe/*.html
+
+# Obsidian — device-specific UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Large/sensitive finance binaries — keep .md summaries only
+raw/Finanzdaten/**/*.pdf
+raw/Finanzdaten/**/*.PDF
+raw/Finanzdaten/**/*.xlsx
+raw/Finanzdaten/**/*.xls
+raw/Finanzdaten/**/*.docx
+raw/Finanzdaten/**/*.pptx
+raw/Finanzdaten/**/*.numbers
+raw/Finanzdaten/**/*.html
+raw/Finanzdaten/**/*.csv
+raw/Finanzdaten/**/*.CSV
+raw/Finanzdaten/**/*.png
+raw/Finanzdaten/**/*.PNG
+raw/Finanzdaten/**/*.jpg
+raw/Finanzdaten/**/*.jpeg
+raw/Finanzdaten/**/.~lock*
+
+# Nested duplicate vault folder
+Intelligence Hub/
