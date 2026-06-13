@@ -8,25 +8,32 @@
 
 - [x] **Marp** — BRAT → `JichouP/obsidian-marp-plugin` → aktivieren
 - [x] **Periodic Notes** — Weekly Template: `templates/Weekly Review.md`
-- [ ] **Obsidian Git** — siehe Anleitung unten
+- [x] **Obsidian Git** — installiert, Auto-Backup konfiguriert
+- [ ] **GitHub Remote verbinden** — siehe unten ⬇️
 - [ ] **Web Clipper** Zielordner prüfen: `Clippings/` oder `raw/inbox/`
 - [ ] **`Cmd+Shift+D`** testen: Clipping öffnen → Bilder nach `raw/assets/`
 
-### Obsidian Git installieren
+### GitHub verbinden (noch offen — kein Remote gesetzt)
 
-**Option A — Community Plugins (empfohlen):**
-1. Obsidian → **Einstellungen** (Zahnrad)
-2. **Community Plugins** → ggf. erst aktivieren
-3. **Durchsuchen** → **„Obsidian Git“** (Autor: **Vinzent03**)
-4. **Installieren** → **Aktivieren**
+**Status:** Lokaler Commit ✅ · GitHub Remote ❌
 
-**Option B — BRAT:**
-1. `Cmd+P` → **BRAT: Add a beta plugin**
-2. `vinzent03/obsidian-git` eingeben → aktivieren
+1. https://github.com/new → **Private** Repo: `intelligence-hub`
+2. Kein README/gitignore hinzufügen
+3. Im Terminal:
 
-**Danach:** Einstellungen → **Obsidian Git** → Vault-Root = Intelligence Hub. Optional: Auto commit+push nach Ingest.
+```bash
+cd "/Users/oleg.k/Library/Mobile Documents/com~apple~CloudDocs/Intelligence Hub"
+git remote add origin git@github.com:DEIN-USERNAME/intelligence-hub.git
+git push -u origin main
+```
 
-Git auf dem Mac testen: `git --version` im Terminal. Dein Vault ist bereits ein Git-Repo.
+4. Obsidian Git → Auto commit-and-sync interval: **60** Min ✅ (bereits gesetzt)
+
+**Git-Identity setzen** (für saubere Commits in Obsidian):
+```bash
+git config user.name "Oleg Kober"
+git config user.email "deine@email.com"
+```
 
 ## 🔴 Einmalig — Inhalt ausfüllen (~25 Min)
 
