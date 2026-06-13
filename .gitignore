@@ -10,9 +10,16 @@
 
 # Large or sensitive raw exports
 raw/Claude Memory/
-raw/Finanzdaten/Privat/Kontoauszüge/
-raw/Finanzdaten/Privat/**/*.pdf
+raw/Finanzdaten/Privat/
+raw/Finanzdaten/Business/
+raw/Finanzdaten/*.xlsx
+raw/Finanzdaten/*.numbers
+raw/Finanzdaten/.~lock.*
 raw/Cafe/*.pdf
 raw/Cafe/*.html
+raw/assets/
+
+# Nested duplicate vault folder (legacy)
+Intelligence Hub/
 
 # QMD index lives in ~/.cache/qmd/
