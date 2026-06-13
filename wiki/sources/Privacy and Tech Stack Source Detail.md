@@ -2,7 +2,7 @@
 title: Privacy and Tech Stack Source Detail
 type: source
 tags: [tech, privacy, infrastruktur, proton, apple, brave, safari, dns, 2fa, vpn, password-manager, aktiv]
-sources: ["raw/03-Tech-Setup/Privacy & Tech Stack.md"]
+sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-05-10
 updated: 2026-06-16
 summary: Raw source for Oleg's Privacy & Tech Stack — devices, browser rationale per device, full Proton ecosystem status table, domain/DNS config, and security measures

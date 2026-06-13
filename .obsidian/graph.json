@@ -9,35 +9,23 @@
   "colorGroups": [
     {
       "query": "path:wiki",
-      "color": {
-        "a": 1,
-        "rgb": 3066993
-      }
+      "color": { "a": 1, "rgb": 3066993 }
     },
     {
       "query": "path:raw",
-      "color": {
-        "a": 1,
-        "rgb": 3447003
-      }
+      "color": { "a": 1, "rgb": 3447003 }
     },
     {
       "query": "path:Clippings",
-      "color": {
-        "a": 1,
-        "rgb": 10181046
-      }
+      "color": { "a": 1, "rgb": 10181046 }
     },
     {
       "query": "path:outputs",
-      "color": {
-        "a": 1,
-        "rgb": 15105570
-      }
+      "color": { "a": 1, "rgb": 16750848 }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -46,6 +34,5 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9012805383668593,
-  "close": true
+  "scale": 1
 }

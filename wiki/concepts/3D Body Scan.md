@@ -2,7 +2,7 @@
 title: 3D Body Scan
 type: concept
 tags: [body-composition, tracking, measurement, assessment]
-sources: ["02-Performance-Leben/Health Protocol — Master.md", "raw/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md"]
+sources: ["02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
 created: 2024-12-19
 updated: 2026-06-06
 summary: Advanced body composition analysis using 3D scanning technology for precise fitness tracking — including Scaneca baseline data and follow-up protocol

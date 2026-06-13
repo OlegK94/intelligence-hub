@@ -52,12 +52,14 @@ add_context() {
 
 echo "=== QMD collections ==="
 add_collection hub-wiki "$VAULT/wiki" "**/*.md"
-add_collection hub-raw "$VAULT/raw" "**/*.md"
+add_collection hub-privat "$VAULT/raw/Privat" "**/*.md"
+add_collection hub-business "$VAULT/raw/Business" "**/*.md"
 add_collection hub-outputs "$VAULT/outputs" "**/*.md"
 
 echo "=== QMD context ==="
 add_context "qmd://hub-wiki" "LLM-maintained wiki: entities, concepts, sources, syntheses, comparisons"
-add_context "qmd://hub-raw" "Immutable private source notes (Karpathy raw/ layer)"
+add_context "qmd://hub-privat" "Personal raw sources: performance, tech, private finance, insurance"
+add_context "qmd://hub-business" "Business raw sources: Wagglz GmbH, Café Berlin, OK Capital UG"
 add_context "qmd://hub-outputs" "Query answers, slides, batch logs from tools/"
 
 echo "=== Index update ==="

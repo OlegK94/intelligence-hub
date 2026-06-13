@@ -2,7 +2,7 @@
 title: Claude Projects Setup
 type: entity
 tags: [AI, claude, anthropic, productivity, knowledge-management, LLM, projects, deutsch, no-code, setup, tools]
-sources: ["raw/00-MOC/MOC Tech & Setup.md", "raw/03-Tech-Setup/Claude Projects Setup.md"]
+sources: ["raw/00-MOC/MOC Tech & Setup.md", "raw/Privat/Tech/Claude Projects Setup.md"]
 created: 2026-06-13
 updated: 2026-06-07
 summary: Oleg's fully configured Claude AI Projects setup — 7 projects spanning creative, strategy, tech, performance, and café domains; context-driven vs task-driven distinction; global German-language output preference and no-code tech stack

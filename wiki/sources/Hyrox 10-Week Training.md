@@ -2,7 +2,7 @@
 title: Hyrox 10-Week Training
 type: source
 tags: [hyrox, training, endurance, functional-fitness, competition-prep]
-sources: ["raw/02-Performance-Leben/Hyrox — 10-Week Training.md"]
+sources: ["raw/Privat/Performance/Hyrox — 10-Week Training.md"]
 created: 2024-12-19
 updated: 2024-12-19
 summary: 10-week training plan for first Hyrox competition finish, addressing aerobic capacity weakness while leveraging strength

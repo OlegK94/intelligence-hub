@@ -2,7 +2,7 @@
 title: Sunday Natural
 type: entity
 tags: [supplement-brand, german, clean-formulation, sulforaphane]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: German supplement brand used by Oleg as the sole non-Momentous exception in his supplement stack — specifically for Sulforaphane (broccoli sprout extract) per Rhonda Patrick protocol

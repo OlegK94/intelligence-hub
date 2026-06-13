@@ -2,7 +2,7 @@
 title: Proton VPN
 type: concept
 tags: [vpn, privacy, proton, security, kill-switch, tool, aktiv]
-sources: ["raw/03-Tech-Setup/Privacy & Tech Stack.md"]
+sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-06-16
 updated: 2026-06-16
 summary: Privacy-focused VPN by Proton AG — active on all of Oleg's devices with Kill Switch enabled; part of the Proton ecosystem alongside Proton Mail, Pass, Drive

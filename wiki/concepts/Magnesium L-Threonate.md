@@ -2,7 +2,7 @@
 title: Magnesium L-Threonate
 type: concept
 tags: [supplement, magnesium, sleep, cognition, momentous, brain-health]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Brain-bioavailable form of magnesium included in the Momentous Complete Expert Stack — supports sleep quality, synaptic density, and cognitive function

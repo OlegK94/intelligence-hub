@@ -2,7 +2,7 @@
 title: FFMI
 type: concept
 tags: [body-composition, muscle-mass, fitness-metrics, natural-athlete, tracking]
-sources: ["raw/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Fat-Free Mass Index — a body composition metric measuring muscle mass relative to height, used to assess natural muscular development; Oleg's baseline = 21.3

@@ -2,7 +2,7 @@
 title: Proton Pass
 type: concept
 tags: [password-manager, privacy, proton, tool, aktiv, migration]
-sources: ["raw/03-Tech-Setup/Privacy & Tech Stack.md", "raw/03-Tech-Setup/Password Manager Migration.md"]
+sources: ["raw/Privat/Tech/Privacy & Tech Stack.md", "raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-16
 updated: 2026-06-16
 summary: Proton's privacy-first password manager — current password manager in Oleg's stack; migration to Apple Passwords is under evaluation; supports Custom Fields, Vaults, Secure Notes, multi-URL, Credit Cards, Identities

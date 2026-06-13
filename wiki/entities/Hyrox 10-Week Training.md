@@ -2,7 +2,7 @@
 title: Hyrox 10-Week Training
 type: entity
 tags: [hyrox, training, fitness, competition, berlin, performance, project, open]
-sources: ["raw/02-Performance-Leben/Hyrox — 10-Week Training.md", "raw/05-Inbox/📥 Offene Actions.md"]
+sources: ["raw/Privat/Performance/Hyrox — 10-Week Training.md", "raw/inbox/_merged/📥 Offene Actions.md"]
 created: 2026-06-13
 updated: 2026-06-13
 summary: Oleg's 10-week Hyrox competition preparation program — next step is choosing a competition date and researching the next Berlin event; registration is open/pending

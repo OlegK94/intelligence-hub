@@ -2,7 +2,7 @@
 title: L-Theanin
 type: concept
 tags: [supplement, sleep, cognition, amino-acid, momentous, huberman, relaxation]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Amino acid from green tea included in the Momentous Complete Expert Stack — promotes relaxation without sedation, supports sleep quality, and reduces stimulant-related anxiety

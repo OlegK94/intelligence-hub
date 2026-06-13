@@ -2,7 +2,7 @@
 title: Proton Mail
 type: concept
 tags: [email, privacy, proton, zero-knowledge, encryption, tool, aktiv]
-sources: ["raw/03-Tech-Setup/Privacy & Tech Stack.md"]
+sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-06-16
 updated: 2026-06-16
 summary: Privacy-first, end-to-end encrypted email service by Proton AG (Switzerland) — Zero-Knowledge architecture; used as Oleg's primary email with domain ok-holding.com

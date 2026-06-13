@@ -2,7 +2,7 @@
 title: Proton Pass
 type: entity
 tags: [tool, password-manager, security, privacy, proton, tech-stack]
-sources: ["raw/03-Tech-Setup/Password Manager Migration.md"]
+sources: ["raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-09
 updated: 2026-06-09
 summary: Privacy-first password manager by Proton AG — part of the Proton suite; supports Custom Fields, multi-URL, Vault structure, Credit Cards, Identity entries, and Secure Notes; currently used by Oleg but under migration review

@@ -178,7 +178,7 @@ def main() -> None:
     parser.add_argument(
         "-c",
         "--collection",
-        choices=["hub-wiki", "hub-raw", "hub-outputs"],
+        choices=["hub-wiki", "hub-privat", "hub-business", "hub-outputs"],
         help="Limit to one QMD collection",
     )
     args = parser.parse_args()

@@ -2,7 +2,7 @@
 title: Sleep Optimization
 type: concept
 tags: [sleep, schlafen, recovery, circadian, matratze, performance, health-protocol]
-sources: ["raw/04-Recherchen/TEMPUR Matratzenkauf.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/02-Performance-Leben/Supplement Stack.md"]
+sources: ["raw/Privat/Recherchen/TEMPUR Matratzenkauf.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-15
 updated: 2026-06-15
 summary: Sleep optimization strategies and hardware in Oleg's performance protocol — covers mattress/pillow selection (TEMPUR), sleep supplements (Apigenin, Magnesium L-Threonate, L-Theanin), and the connection between sleep posture and Forward Head Posture correction

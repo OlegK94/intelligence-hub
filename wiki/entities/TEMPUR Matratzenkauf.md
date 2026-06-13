@@ -2,7 +2,7 @@
 title: TEMPUR Matratzenkauf
 type: entity
 tags: [kauf, matratze, tempur, schlafen, schlafoptimierung, abgeschlossen, hardwaregrade, smartcool]
-sources: ["raw/04-Recherchen/TEMPUR Matratzenkauf.md"]
+sources: ["raw/Privat/Recherchen/TEMPUR Matratzenkauf.md"]
 created: 2026-05-14
 updated: 2026-06-15
 summary: Abgeschlossene Kaufentscheidung — 2× TEMPUR PRO Plus SmartCool 90×200 in unterschiedlichen Härtegraden; Medium Firm für Oleg (~100 kg, Rücken+Seite), Medium für Partnerin (~60 kg); SmartCool wegen waschbarem Bezug gewählt

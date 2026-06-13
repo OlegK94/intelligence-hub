@@ -2,7 +2,7 @@
 title: Password Manager Migration
 type: entity
 tags: [tool, password-manager, proton-pass, apple-passwords, migration, privacy, tech-stack, decision, open]
-sources: ["raw/00-MOC/MOC Tech & Setup.md", "raw/03-Tech-Setup/Password Manager Migration.md", "raw/05-Inbox/📥 Offene Actions.md"]
+sources: ["raw/00-MOC/MOC Tech & Setup.md", "raw/Privat/Tech/Password Manager Migration.md", "raw/inbox/_merged/📥 Offene Actions.md"]
 created: 2026-06-09
 updated: 2026-06-13
 summary: Open decision on whether to migrate from Proton Pass to Apple Passwords — blocked by Custom Fields audit; key gate is counting how many entries actually use Custom Fields

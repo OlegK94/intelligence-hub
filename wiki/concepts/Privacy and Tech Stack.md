@@ -2,7 +2,7 @@
 title: Privacy and Tech Stack
 type: concept
 tags: [tech, privacy, tools, stack, security, proton, apple]
-sources: ["raw/03-Tech-Setup/Password Manager Migration.md"]
+sources: ["raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-09
 updated: 2026-06-09
 summary: Stub concept page for Oleg's privacy and tech stack — referenced in the Password Manager Migration source as a linked context page

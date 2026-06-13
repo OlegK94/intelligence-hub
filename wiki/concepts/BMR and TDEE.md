@@ -2,7 +2,7 @@
 title: BMR and TDEE
 type: concept
 tags: [metabolism, nutrition, energy-expenditure, caloric-deficit, body-composition, tracking]
-sources: ["raw/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: BMR (Basal Metabolic Rate) and TDEE (Total Daily Energy Expenditure) — metabolic rate metrics; Oleg's baseline BMR = 2,113 kcal, TDEE = ~3,645 kcal, daily caloric target = 2,800 kcal (845 kcal deficit)

@@ -2,7 +2,7 @@
 title: Apigenin
 type: concept
 tags: [supplement, sleep, flavonoid, chamomile, momentous, estrogen, huberman]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Plant flavonoid (from chamomile) included in the Momentous Complete Expert Stack — promotes sleep onset; part of the Huberman sleep cocktail; mild estrogen modulator

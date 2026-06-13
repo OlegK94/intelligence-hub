@@ -2,7 +2,7 @@
 title: Brick Training
 type: concept
 tags: [transition-training, hybrid-fitness, metabolic-conditioning, hyrox, triathlon]
-sources: ["raw/02-Performance-Leben/Hyrox — 10-Week Training.md"]
+sources: ["raw/Privat/Performance/Hyrox — 10-Week Training.md"]
 created: 2024-12-19
 updated: 2024-12-19
 summary: Training method that combines two different exercise modalities back-to-back without rest to improve transitions

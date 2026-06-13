@@ -25,11 +25,23 @@ tools/        CLI scripts the LLM can shell out to
 
 ### raw/ conventions
 
-- Sources are **immutable**. Never edit, move, or delete files in `raw/`.
-- Drop new material anywhere under `raw/`, or use `raw/inbox/` for items awaiting first ingest.
+```
+raw/
+  inbox/       Drop zone for new sources awaiting ingest
+  assets/      Images and attachments
+  data/        Structured exports (CSV, wearable data)
+  MOC/         Vault home & navigation
+  Privat/      Personal — Performance, Tech, Finanzen, Versicherungen, Recherchen, Auswandern
+  Business/    Wagglz/, Cafe/, OK-Capital/
+  _archiv/     Excluded topics (e.g. work automations) — low ingest priority
+```
+
+- Sources are **immutable after ingest**. One-time vault migrations update paths in `.ingest_manifest.json`.
+- Drop new material in `raw/inbox/`, or the relevant `Privat/` / `Business/` subfolder.
 - Images and attachments live in `raw/assets/`.
 - Web clippings from Obsidian Web Clipper go to `Clippings/` or `raw/inbox/`.
 - Supported ingest types: `.md`, `.txt`, `.pdf` (text extracted if possible).
+- **Nicht ingesten:** `_archiv/Work/` (Firmen-Automations), bulk PDF-Kontoauszüge — nur Monatsübersichten.
 
 ### wiki/ conventions
 
@@ -162,8 +174,8 @@ Hybrid local search via [QMD](https://github.com/tobi/qmd) (BM25 + vectors + rer
 
 ```bash
 python3 tools/search.py "supplement stack"              # hybrid (best)
-python3 tools/search.py "Wagglz" -c hub-wiki           # wiki only
-python3 tools/search.py "Fixkosten" --engine search    # keyword only (fast)
+python3 tools/search.py "Wagglz" -c hub-business       # business only
+python3 tools/search.py "Hyrox" -c hub-privat          # personal only
 python3 tools/search.py "health" --engine bm25         # legacy wiki-only
 
 # QMD setup (once) + re-index after ingest
@@ -172,7 +184,7 @@ bash scripts/qmd-setup.sh --embed   # download models + semantic search
 bash scripts/qmd-sync.sh            # after ingest / wiki edits
 ```
 
-QMD collections: `hub-wiki`, `hub-raw`, `hub-outputs`. Index lives in `~/.cache/qmd/` (not in git).
+QMD collections: `hub-wiki`, `hub-privat`, `hub-business`, `hub-outputs`. Index lives in `~/.cache/qmd/` (not in git).
 
 ## outputs/ conventions
 

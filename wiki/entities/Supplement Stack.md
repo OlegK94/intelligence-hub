@@ -2,7 +2,7 @@
 title: Supplement Stack
 type: entity
 tags: [supplements, performance, momentous, creatine, omega3, whey, sulforaphane, vitamin-d, alpha-gpc, l-tyrosine, aktiv, rhonda-patrick]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Oleg's active supplement stack — Momentous-primary with 6 active supplements, Sulforaphane as sole non-Momentous exception per Rhonda Patrick protocol, situational pre-workout (Alpha-GPC + L-Tyrosine), and explicit exclusion list

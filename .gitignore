@@ -10,13 +10,12 @@
 
 # Large or sensitive raw exports
 raw/Claude Memory/
-raw/Finanzdaten/Privat/
-raw/Finanzdaten/Business/
-raw/Finanzdaten/*.xlsx
-raw/Finanzdaten/*.numbers
-raw/Finanzdaten/.~lock.*
-raw/Cafe/*.pdf
-raw/Cafe/*.html
+raw/_archiv/
+raw/Privat/Finanzen/Daten/
+raw/Business/Wagglz/Daten/
+raw/Business/OK-Capital/Daten/
+raw/Business/Cafe/*.pdf
+raw/Business/Cafe/*.html
 raw/assets/
 
 # Nested duplicate vault folder (legacy)

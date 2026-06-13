@@ -2,7 +2,7 @@
 title: Forward Head Posture
 type: concept
 tags: [posture, corrective-exercise, neck, biomechanics, health, assessment]
-sources: ["raw/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md", "Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
+sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md", "Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Forward Head Posture (FHP) — anterior displacement of the head relative to the shoulders; Oleg's baseline = 30° deviation; corrective protocol includes neck stretching and face pulls

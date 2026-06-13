@@ -2,7 +2,7 @@
 title: Claude Projects Setup Source Detail
 type: source
 tags: [claude, anthropic, AI, setup, tools, productivity, projects, LLM, deutsch, no-code, make, tally, notion, salesforce, dust]
-sources: ["raw/03-Tech-Setup/Claude Projects Setup.md"]
+sources: ["raw/Privat/Tech/Claude Projects Setup.md"]
 created: 2026-06-07
 updated: 2026-06-07
 summary: Source document detailing Oleg's 7 Claude AI Projects — structure, roles, context-driven vs task-driven distinction, instruction schema, global preferences, and no-code tech stack (Make, Tally, Notion, Salesforce, Dust)

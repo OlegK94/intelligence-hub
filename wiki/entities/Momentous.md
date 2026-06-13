@@ -2,7 +2,7 @@
 title: Momentous
 type: entity
 tags: [supplement-brand, performance, huberman, evidence-based, whey, creatine, omega3, sleep-supplements]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Premium supplement brand and official Huberman Lab partner — primary brand for Oleg's supplement stack, covering protein, creatine, omega-3, and the Complete Expert Stack bundle

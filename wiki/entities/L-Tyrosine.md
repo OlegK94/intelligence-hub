@@ -2,7 +2,7 @@
 title: L-Tyrosine
 type: entity
 tags: [supplement, nootropic, dopamine, cognition, pre-workout, amino-acid]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Amino acid precursor to dopamine and norepinephrine — taken situationally pre-workout alongside Alpha-GPC for dual-pathway cognitive enhancement during drive to gym

@@ -2,7 +2,7 @@
 title: Apple Passwords
 type: entity
 tags: [tool, password-manager, apple, ios, macos, tech-stack, autofill]
-sources: ["raw/03-Tech-Setup/Password Manager Migration.md"]
+sources: ["raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-09
 updated: 2026-06-09
 summary: Apple's native password manager (iOS 18+ / macOS 15+ standalone app) — supports username/password/TOTP/Passkeys but lacks Custom Fields, multi-URL, Vault structure, Credit Cards, and Identity entries; target of Oleg's migration evaluation from Proton Pass

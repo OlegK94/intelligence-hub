@@ -2,7 +2,7 @@
 title: Offene Actions Inbox
 type: source
 tags: [inbox, actions, planning, weekly-review, tasks, private]
-sources: ["raw/05-Inbox/📥 Offene Actions.md"]
+sources: ["raw/inbox/_merged/📥 Offene Actions.md"]
 created: 2026-06-13
 updated: 2026-06-13
 summary: Master inbox for open private actions — organized by urgency (diese Woche / kurzfristig / mittelfristig / someday); links to all active projects; work items explicitly excluded

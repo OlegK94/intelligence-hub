@@ -2,7 +2,7 @@
 title: Supplement Stack Source Detail
 type: source
 tags: [supplements, performance, momentous, creatine, omega3, whey, sulforaphane, vitamin-d, alpha-gpc, l-tyrosine, aktiv]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Raw source document for Oleg's active supplement stack — Momentous-primary protocol with 5 daily supplements, Sulforaphane as sole non-Momentous exception, situational pre-workout stack (Alpha-GPC + L-Tyrosine), and explicit exclusion rationale for L-Glutamin, Collagen, and Fiber+

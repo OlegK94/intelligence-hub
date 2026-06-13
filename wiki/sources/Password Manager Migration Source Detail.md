@@ -2,7 +2,7 @@
 title: Password Manager Migration Source Detail
 type: source
 tags: [tech, passwords, migration, proton-pass, apple-passwords, csv, locale, entscheidung-offen]
-sources: ["raw/03-Tech-Setup/Password Manager Migration.md"]
+sources: ["raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-09
 updated: 2026-06-09
 summary: Source document for the attempted Proton Pass → Apple Passwords migration — CSV delimiter issue (German locale), field incompatibility analysis, decision framework, and CSV fix via VS Code

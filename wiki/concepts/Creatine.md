@@ -2,7 +2,7 @@
 title: Creatine
 type: concept
 tags: [supplement, performance, strength, cognition, creatine-monohydrate, momentous]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Creatine monohydrate — one of the most evidence-backed supplements for strength, power, and cognitive performance; Oleg takes 5g daily via Momentous with flexible timing

@@ -2,7 +2,7 @@
 title: Sulforaphane
 type: concept
 tags: [supplement, sulforaphane, broccoli-sprouts, nrf2, rhonda-patrick, sunday-natural, cancer-prevention, antioxidant]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Sulforaphane — broccoli sprout-derived compound activating the NRF2 pathway; Oleg takes it via Sunday Natural per Rhonda Patrick's protocol; the only non-Momentous supplement in his stack

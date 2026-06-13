@@ -2,7 +2,7 @@
 title: Privacy and Tech Stack
 type: entity
 tags: [tech, privacy, infrastruktur, proton, apple, brave, safari, dns, 2fa, vpn, password-manager, aktiv]
-sources: ["raw/03-Tech-Setup/Privacy & Tech Stack.md"]
+sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-05-10
 updated: 2026-06-16
 summary: Oleg's privacy-first tech stack — Apple devices, Brave on Mac / Safari on iOS, full Proton ecosystem (Mail, Calendar, VPN, Pass, Drive), domain ok-holding.com with full email authentication; Proton for all privacy-sensitive data

@@ -2,7 +2,7 @@
 title: 3D Body Scan Scaneca Mai 2026 Source Detail
 type: source
 tags: [health, baseline, scan, body-composition, scaneca, labor-berlin, ffmi, bmr, tdee, posture]
-sources: ["raw/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md"]
+sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
 created: 2026-05-29
 updated: 2026-06-06
 summary: Raw source document for the Scaneca 3D body scan conducted 29.05.2026 — full measurement table, interpretation, target values, and follow-up timeline

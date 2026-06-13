@@ -2,7 +2,7 @@
 title: 3D Body Scan Scaneca Mai 2026
 type: entity
 tags: [body-composition, tracking, measurement, assessment, baseline, scaneca, labor-berlin, ffmi, posture, forward-head-posture]
-sources: ["raw/00-MOC/MOC Performance & Leben.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md"]
+sources: ["raw/00-MOC/MOC Performance & Leben.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
 created: 2026-06-13
 updated: 2026-06-06
 summary: Specific May 2026 Scaneca 3D body scan event at Labor Berlin establishing Oleg's health protocol baseline — full measurements, interpretation, and targets including 15–17% KFA goal

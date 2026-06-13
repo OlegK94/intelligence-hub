@@ -30,9 +30,17 @@ python3 tools/status.py
 | P2 | [[Password Manager Migration]] | Proton Pass evaluieren |
 | P2 | [[Allianz Insurance Consolidation]] | 3 Angebote |
 
-_Arbeit (Doctolib, Automations) & Relocation → nicht in diesem Vault._
+## Ordnerstruktur raw/
 
-→ Details: `raw/inbox/00-Master-Context.md` · Alle TODOs: `SETUP-TODOS.md`
+| Bereich | Pfad |
+|---------|------|
+| **Privat** | `raw/Privat/` — Performance, Tech, Finanzen, Versicherungen |
+| **Business** | `raw/Business/Wagglz/`, `Business/Cafe/`, `Business/OK-Capital/` |
+| **Inbox** | `raw/inbox/` — neue Quellen |
+| **Archiv** | `raw/_archiv/Work/` — nicht ingesten |
+
+→ Details: `raw/README.md`
+
 
 ## Wiki Status
 

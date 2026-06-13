@@ -2,7 +2,7 @@
 title: Rhonda Patrick
 type: entity
 tags: [scientist, nutrition, longevity, sulforaphane, sauna, health-optimization, podcast, foundmyfitness]
-sources: ["raw/02-Performance-Leben/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
 summary: Biomedical researcher and host of FoundMyFitness podcast; known for sulforaphane protocol, sauna research, and evidence-based nutrition — sulforaphane protocol directly influences Oleg's supplement stack
