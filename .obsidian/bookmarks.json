@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1749801600000,
+      "path": "wiki/Dashboard.md",
+      "title": "🏠 Wiki Dashboard"
+    },
+    {
+      "type": "file",
+      "ctime": 1749801600001,
+      "path": "wiki/index.md",
+      "title": "Wiki Index"
+    },
+    {
+      "type": "file",
+      "ctime": 1749801600002,
+      "path": "CLAUDE.md",
+      "title": "LLM Wiki Schema"
+    }
+  ]
+}
