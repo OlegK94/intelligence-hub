@@ -1,133 +1,113 @@
 ---
 title: Oleg Financial Situation
 type: entity
-tags: [finance, privatfinanzen, rehabilitation, deficit, insolvency-risk, dispo, unternehmen, wagglz, ok-capital, haftung, provisionen]
-sources: ["raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Oleg's complete financial picture — structural private deficit of −7,970 €/year, two capital-consuming companies, overdraft account, zero savings, critical insolvency and GF-liability risks; target is three-phase financial rehabilitation
+tags: [finance, privat, cashflow, defizit, schulden, dispo, kredit, vw-bank, crypto, gesellschafterdarlehen, oleg, berlin]
+sources: ["raw/Finanzdaten/ObsidianVault/Finance/Master Prompt – Gesamtanalyse.md"]
+created: 2026-06-10
+updated: 2026-06-10
+summary: Oleg Kober's consolidated personal financial situation — structural annual deficit of −7.970 €, Dispo-Konto, VW-Bank personal credit for crypto (→ Wagglz GmbH), Kieferorthopädie rates, and ~8.000 €/year company burden; total pressure ~−16.000 €/year before provisions
 ---
 
-# Oleg Financial Situation
+# Oleg — Finanzielle Gesamtsituation
 
 ## Overview
 
-[[Oleg Personal Context|Oleg]]'s financial situation is characterised by a **Strukturdefizit** (structural deficit) at the private level combined with two company entities that consume capital without generating returns. The stated goal is **vollständige finanzielle Rehabilitation** in three phases.
+Diese Seite dokumentiert die **privaten Finanzen** von [[Oleg Personal Context|Oleg Kober]] basierend auf dem [[Master Prompt Gesamtfinanzanalyse]]. Die Situation ist durch ein strukturelles Jahresdefizit und erhebliche Unternehmensbelastungen geprägt.
 
-> For source detail, see [[Finanz-Übersicht Source Detail]].
+## Einkommensstruktur
 
-## Income Summary
-
-| Quelle | Betrag | Rhythmus |
+| Einkommensquelle | Betrag | Rhythmus |
 |---|---|---|
-| Fixgehalt netto ([[DoktorLib]]) | 3.638,82 € | monatlich |
-| Provision netto | ~4.611 € | quartalsweise (Jan/Apr/Jul/Okt) |
-| Firmenwagen geldwerter Vorteil | ~348 € brutto | monatlich |
+| Fixgehalt netto ([[DoktorLib]]) | 3.638,82 € | Monatlich |
+| Provision netto | ~4.611 € | Quartalsweise (Jan/Apr/Jul/Okt) |
+| **Monatsdurchschnitt inkl. Provision** | **~5.173 €** | Geglättet |
 
-- **Approximate annual net:** ~62.110 € (Fixgehalt + 4× Provision)
-- **Provisionen:** Variable, quarterly — currently absorbed entirely by structural deficit
+> **Jahresnettoeinkommen (geschätzt):** ~61.079 € (Fix: 43.666 € + Provision: 18.444 €)
 
-## Known Fixed Expenses
+### Firmenwagen
+- Doctolib-Firmenwagen: **~348 € geldwerter Vorteil brutto/Mo** → erhöht steuerlich relevantes Einkommen, ist kein Cashzufluss
 
-| Position | Betrag/Mo |
+## Ausgaben und Belastungen
+
+### Feste Privatausgaben
+
+| Posten | Betrag/Mo | Anmerkung |
+|---|---|---|
+| VW-Bank Kredit | 681,57 € | Bis 11/2028; für Crypto → Wagglz |
+| Kieferorthopädie (Dr. Wiemann) | 176,53 € | Ratenzahlung |
+| **Feste Sonderbelastungen** | **858,10 €** | Summe |
+
+### Unternehmensbelastungen
+
+| Posten | Betrag | Rhythmus |
+|---|---|---|
+| Gesellschafterdarlehen Privat → Unternehmen | ~357 €/Mo | Monatlich |
+| Jahresabschlüsse (aktuell fällig) | 5.000 € | Einmalig |
+| Jahresabschlüsse (nächstes Jahr) | 2.500 € | Einmalig |
+| **Laufende Unternehmensbelastung** | **~4.284 €/Jahr** | Darlehen |
+| **Jahresabschluss-Kosten** | **7.500 € über 2 Jahre** | Buchhalter/Steuerberater |
+| **Gesamtbelastung Unternehmen** | **~8.000 €/Jahr** | Laut Prompt |
+
+## Kontostand & Liquidität
+
+| Asset | Stand |
 |---|---|
-| VW-Bank Kredit | 681,57 € |
-| Kieferorthopädie (Dr. Wiemann) | 176,53 € |
-| Gesellschafterdarlehen (→ Unternehmen) | ~357,00 € |
-| **Bekannte Fixblöcke gesamt** | **~1.215 €** |
-
-> These are confirmed fixed expenses only. Total monthly outgoings are higher once all living costs are included.
-
-## Asset / Liability Status
-
-| Position | Wert |
-|---|---|
-| Kontostand | **−1.405 € (Dispo)** |
+| Girokonto | **−1.405 € (Dispo)** |
 | Ersparnisse | **1,10 €** |
-| Depot / Investments | **keines** |
-| Strukturelles Jahresdefizit | **−7.970 €** |
+| Depot/Investments | **keines** |
 
-**Effective financial buffer: zero.** The account is in overdraft; savings are negligible.
+> 🔴 **Kritisch:** Oleg befindet sich im Dispo-Bereich ohne Sicherheitspuffer.
 
-## Company Burden
+## Strukturelles Jahresdefizit
 
-Oleg is Gesellschafter and Geschäftsführer (GF) of **two companies:**
+```
+Privates Jahresdefizit:    −7.970 €/Jahr
+Unternehmensbelastung:    −8.000 €/Jahr
+────────────────────────────────────────
+Gesamtdruck (geschätzt):  ~−16.000 €/Jahr
+```
 
-| Unternehmen | Typ |
+Dieses Defizit wird (teilweise) durch Quartalsprovisionen (~18.444 €/Jahr) aufgefangen — aber die Zeitpunkte der Provisionsauszahlung (Quartalsende) schaffen temporäre Liquiditätsengpässe.
+
+## Kritischer Sachverhalt: VW-Bank-Kredit
+
+> ⚠️ **VW-Bank-Kredit = Persönliches Risiko für Unternehmensscheitern**
+
+- Oleg nahm einen persönlichen Kredit bei der VW Bank auf
+- Zweck: Crypto-Investment
+- Erlös floss in die [[Wagglz GmbH]]
+- Rückzahlung: 681,57 €/Mo bis **November 2028**
+- Rückflüsse aus Wagglz: **keine erkennbaren**
+- Resultat: Persönliche Haftung für Unternehmens-Investitionsverlust
+
+**Geschätzte Restschuld (ohne Zinsinformation):**
+Bei 681,57 €/Mo und Laufzeit bis 11/2028 (ca. 29 Monate ab 06/2026) ≈ **~19.765 € Restschuld** (Annahme: gleichmäßige Tilgung, keine Zinsstaffelung bekannt)
+
+> ⚠️ **Assumption [A]:** Restschuld-Schätzung ohne Zinssatz/Tilgungsplan — Kreditvertrag erforderlich für genaue Berechnung.
+
+## Steuerliche Aspekte
+
+| Aspekt | Status |
 |---|---|
-| [[Wagglz GmbH]] | GmbH |
-| [[OK Capital UG]] | UG |
+| Steuererklärungen ESt 2021–2024 | Status unklar — Dokumente angefordert |
+| Verlustvorträge aus Unternehmen | Unbekannt — zu prüfen |
+| Firmenwagen geldwerter Vorteil | Erhöht zu versteuerndes Einkommen |
+| Gesellschafterdarlehen | Steuerliche Qualifikation offen |
 
-| Kennzahl | Wert |
-|---|---|
-| Jahresabschlüsse fällig (aktuell) | 5.000 € (beide Firmen) |
-| Jahresabschlüsse nächstes Jahr | 2.500 € |
-| Gesamtbelastung durch Unternehmen | ~8.000 €/Jahr |
-| Rückflüsse | keine erkennbaren |
-| Kapitalherkunft | VW-Bank-Kredit → Crypto → Wagglz GmbH |
+## To-Do: Erforderliche Dokumente
 
-**Combined private + company deficit load: ~15.970 €/year** (−7.970 private + ~8.000 company burden).
-
-## Critical Risks
-
-### 🔴 Insolvency Risk (Both Companies)
-- Überschuldung / Zahlungsunfähigkeit status **unknown until documents reviewed**
-- Cannot exclude insolvency at either entity without financial document audit
-
-### 🔴 GF Personal Liability (§ 17/19 InsO)
-- As GF of both entities, Oleg has a **21-day obligation** to file for insolvency once insolvency is established
-- Failure = Insolvenzverschleppung → **personal criminal liability**
-- **Double exposure:** two companies, one GF
-
-### 🔴 Provisions Provide No Real Buffer
-- Each quarterly provision (~4.611 €) is immediately absorbed by the accumulated deficit
-- No provision functions as savings or investment capital
-
-### 🟡 Tax Situation Unclear
-- Steuererklärungen filing status: unknown
-- Potential **Verlustvorträge** (loss carryforwards) ungenutzt — value unquantified
-
-## Rehabilitation Plan (July Provision Allocation)
-
-Phase 2 priority order for the next (July) provision:
-
-1. Accountant-Fee-Rückzahlung
-2. Dispo-Ausgleich (clear overdraft)
-3. Notfall-Puffer (emergency buffer — target: 1 Monatsgehalt)
-4. Rest: structured deficit management
-
-> Full three-phase plan: [[Rehabilitation Plan]]
-
-## Relationship to Strategic Goals
-
-| Goal | Financial Impact |
-|---|---|
-| [[Café Berlin Partnership Hai]] | Requires startup capital; no current buffer to fund this |
-| [[Cyprus Relocation]] | Requires 30.000–35.000 € startup capital; blocked by current deficit |
-| [[Financial Independence]] | Structurally incompatible with current position without rehabilitation |
-| [[DoktorLib]] salary | Primary income — insufficient alone to resolve deficit |
-
-## ⚠️ Contradictions with Existing Wiki
-
-### GmbH Identity Clarification
-Existing wiki pages (e.g., [[Oleg Business Entity Structure]], [[Cyprus Relocation Detail]]) reference "Oleg's active GmbH" and "dormant UG" without naming them explicitly. This source names both:
-- **Wagglz GmbH** = GmbH
-- **OK Capital UG** = UG
-
-However, this source describes **both** as consuming capital — it does not confirm the dormant/active distinction made in other pages. The UG's "dormant" designation from [[Oleg Business Entity Structure]] may need verification once financial documents are reviewed.
-
-### Financial Scale vs. Cyprus Plan
-The [[Cyprus Relocation]] plan assumes 30.000–35.000 € startup capital and a favorable combined income scenario. The current financial picture (−1.405 € Dispo, 1,10 € savings, −7.970 € annual deficit) reveals a **significant gap** between the capital requirement and the current position. This tension is not addressed in the Cyprus Relocation source documents.
+- [ ] VW-Bank Kreditvertrag (Ursprungsbetrag, Zinssatz, Restschuld, Tilgungsplan)
+- [ ] Kontoauszüge alle Jahre (CSV-Export Consorsbank)
+- [ ] Steuererklärungen ESt 2021–2024 inkl. Bescheide
 
 ## Related Pages
 
-- [[Finanz-Übersicht Source Detail]] — raw source document
-- [[Wagglz GmbH]] — company entity (GmbH)
-- [[OK Capital UG]] — company entity (UG)
-- [[Rehabilitation Plan]] — three-phase recovery plan
-- [[Oleg Business Entity Structure]] — entity structure (may need update with company names)
-- [[Oleg Personal Context]] — subject
-- [[Financial Independence]] — strategic goal
-- [[Cyprus Relocation]] — capital gap noted
-- [[DoktorLib]] — primary income source
-- [[MOC Strategie und Business]] — strategic context
+- [[Master Prompt Gesamtfinanzanalyse]] — Analyse-Prompt Source
+- [[Wagglz GmbH]] — Unternehmensschuld-Verbindung
+- [[OK Capital UG]] — zweite Gesellschaft
+- [[Oleg Personal Context]] — Person
+- [[Oleg Business Entity Structure]] — Unternehmensstruktur
+- [[Insolvenzprüfung]] — Risikobewertung
+- [[Gesellschafterdarlehen]] — Konzept
+- [[DoktorLib]] — Arbeitgeber / Einkommensquelle
+- [[Financial Independence]] — strategisches Ziel

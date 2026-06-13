@@ -17,3 +17,4 @@
 - ❌ `raw/Cafe/cafe_masterplan_2026.md` — Expecting ',' delimiter: line 32 column 6 (char 40595)
 - ❌ `raw/Finanzdaten/GESAMTANALYSE_Oleg_Kober_2025-2026.md` — Expecting ',' delimiter: line 16 column 4494 (char 19128)
 - ✅ `raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md`
+- ✅ `raw/Finanzdaten/ObsidianVault/Finance/Master Prompt – Gesamtanalyse.md`
