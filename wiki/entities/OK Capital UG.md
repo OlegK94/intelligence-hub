@@ -1,58 +1,72 @@
 ---
 title: OK Capital UG
 type: entity
-tags: [company, ug, berlin, oleg-kober, geschäftsführer, kapital, insolvenzrisiko, unternehmen, dormant]
-sources: ["raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: OK Capital UG — second of two companies held by Oleg Kober as Gesellschafter/GF; consuming capital without detectable returns; described as dormant in other wiki sources but listed here as a capital-consuming liability
+tags: [company, ug, haftungsbeschraenkt, oleg, berlin, dormant, finanzen, insolvenz-risiko]
+sources: ["raw/Finanzdaten/ObsidianVault/Finance/Master Prompt – Gesamtanalyse.md"]
+created: 2026-06-10
+updated: 2026-06-10
+summary: OK Capital UG (haftungsbeschränkt) — second company entity owned by Oleg Kober alongside Wagglz GmbH; dormant or low-activity; subject to open insolvency assessment and annual report obligations
 ---
 
-# OK Capital UG
+# OK Capital UG (haftungsbeschränkt)
 
 ## Overview
 
-**OK Capital UG** (Unternehmergesellschaft haftungsbeschränkt) is a UG for which [[Oleg Personal Context|Oleg Kober]] serves as both Gesellschafter (shareholder) and Geschäftsführer (managing director / GF).
+**OK Capital UG (haftungsbeschränkt)** ist die zweite Unternehmensstruktur von [[Oleg Personal Context|Oleg Kober]], neben der [[Wagglz GmbH]]. Eine UG (Unternehmergesellschaft) ist die deutsche Mini-GmbH-Variante mit Mindestkapital ab 1 €.
 
-It is one of two company entities referenced in [[Oleg Financial Situation]], alongside [[Wagglz GmbH]].
+## Status
 
-## Current Status
+Basierend auf vorhandenen Wiki-Quellen ([[Oleg Business Entity Structure]]-Kontext) ist die OK Capital UG als **dormant** (ruhend) klassifiziert — im Gegensatz zur aktiv operierenden [[Wagglz GmbH]].
 
-| Kennzahl | Status |
+Der [[Master Prompt Gesamtfinanzanalyse]] behandelt beide Gesellschaften gleichrangig in der Analyse und listet folgende offene Fragen für die UG:
+
+## Bekannte Finanzdaten
+
+| Posten | Wert |
 |---|---|
-| Rückflüsse (returns to Oleg) | Keine erkennbaren |
-| Insolvenzstatus | Unklar — Dokumente ausstehend |
-| Jahresabschlüsse | Fällig (anteilig von ~5.000 € für beide Firmen) |
+| Gesellschafter/Geschäftsführer | Oleg Kober |
+| Bekannte Rückflüsse bisher | **keine erkennbaren** |
+| Aktuelle Jahresabschlüsse | fällig — Teil der 5.000 € (für beide Gesellschaften) |
+| Rechtsform | UG (haftungsbeschränkt) |
 
-## Risk Flags
+## Offene Kritische Fragen
 
-### 🔴 Insolvency Risk
-- Überschuldung / Zahlungsunfähigkeit status unknown
-- Requires document review
+1. **Zahlungsunfähigkeit (§ 17 InsO):** Kann OK Capital UG fällige Verbindlichkeiten bedienen?
+2. **Überschuldung (§ 19 InsO):** Ist das bilanzielle Eigenkapital negativ?
+3. **Insolvenzantragspflicht:** Besteht für Oleg als GF eine 21-Tage-Antragspflicht?
+4. **Dormancy-Status:** Ist die UG formal ruhend gestellt oder nur inaktiv?
 
-### 🔴 GF Liability (§ 17/19 InsO)
-- Oleg's GF role creates personal liability exposure independent of [[Wagglz GmbH]]
-- 21-day filing obligation once insolvency is established
+## Besonderheiten UG vs. GmbH
 
-## ⚠️ Contradiction: Dormant vs. Capital-Consuming
+| Merkmal | UG (haftungsbeschränkt) | GmbH |
+|---|---|---|
+| Mindestkapital | 1 € | 25.000 € |
+| Thesaurierungspflicht | 25% des Jahresüberschusses bis 25k € | Nein |
+| Haftung | Auf Gesellschaftsvermögen beschränkt | Auf Gesellschaftsvermögen beschränkt |
+| Insolvenzpflichten | Gleich wie GmbH (§§ 17, 19 InsO) | Standard |
 
-Existing wiki pages ([[Oleg Business Entity Structure]], [[Cyprus Relocation Detail]], [[Café Berlin Partnership Hai — Planning Detail]]) consistently describe Oleg's UG as **dormant (ruhend)**. However, this source document lists **OK Capital UG** among the companies with:
-- Jahresabschlüsse fällig (annual accounts due)
-- ~8.000 €/year combined burden
-- No detectable returns
+## Exit-Optionen
 
-**Resolution options:**
-1. The UG is dormant in the sense of not trading, but **still incurs annual accounting costs** — dormant ≠ zero cost
-2. The UG was previously active and has residual obligations (accounts due for prior periods)
-3. "Dormant" classification in other sources was inaccurate
+| Option | Kosten/Aufwand |
+|---|---|
+| **Liquidation** | Beschluss + Handelsregister + Gläubigeraufruf (ca. 6-12 Monate) |
+| **Dormancy** | Keine aktiven Geschäfte — aber laufende Pflichten bleiben |
+| **Insolvenzantrag** | Falls Insolvenzreife gegeben |
+| **Umwandlung → GmbH** | Wenn Kapital 25k € erreicht (thesauriert) |
 
-**Best interpretation:** The UG is likely legally dormant (not trading) but still requires annual Jahresabschluss filings and potentially has legacy obligations. The ~8.000 €/year total covers both companies' accounting and compliance costs. **This needs confirmation during the financial document review.**
+## Dokumente-Status (offen)
+
+- [ ] Jahresabschluss / BWA (alles Vorhandene)
+- [ ] Kontoauszüge
+- [ ] Gesellschaftsvertrag
+- [ ] Darlehensverträge (falls vorhanden)
 
 ## Related Pages
 
-- [[Oleg Financial Situation]] — financial overview
-- [[Finanz-Übersicht Source Detail]] — source document
-- [[Wagglz GmbH]] — first company entity
-- [[Oleg Business Entity Structure]] — entity structure context
-- [[Oleg Personal Context]] — GF and Gesellschafter
-- [[Rehabilitation Plan]] — remediation path
+- [[Master Prompt Gesamtfinanzanalyse]] — Analyse-Prompt Source
+- [[Wagglz GmbH]] — Schwestergesellschaft
+- [[Oleg Business Entity Structure]] — Unternehmensstruktur-Übersicht
+- [[Oleg Personal Context]] — Gesellschafter/GF
+- [[Oleg Financial Situation]] — konsolidierte Finanzsituation
+- [[Insolvenzprüfung]] — rechtlicher Kontext
+- [[Gesellschafterdarlehen]] — Finanzierungsinstrument
