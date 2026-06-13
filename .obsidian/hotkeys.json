@@ -1,0 +1,16 @@
+{
+  "editor:download-attachments": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "D"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "G"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "file-explorer:reveal-active-file": []
+}

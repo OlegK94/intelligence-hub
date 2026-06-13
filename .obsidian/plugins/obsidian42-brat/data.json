@@ -1,0 +1,29 @@
+{
+  "pluginList": [
+    "vinzent03/obsidian-git",
+    "JichouP/obsidian-marp-plugin"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "vinzent03/obsidian-git",
+      "version": "latest"
+    },
+    {
+      "repo": "JichouP/obsidian-marp-plugin",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
