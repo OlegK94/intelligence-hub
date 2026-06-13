@@ -1,0 +1,18 @@
+.env
+.DS_Store
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+*.icloud
+
+# Claude / agent caches
+.claudian/
+
+# Large or sensitive raw exports
+raw/Claude Memory/
+raw/Finanzdaten/Privat/Kontoauszüge/
+raw/Finanzdaten/Privat/**/*.pdf
+raw/Cafe/*.pdf
+raw/Cafe/*.html
+
+# QMD index lives in ~/.cache/qmd/
