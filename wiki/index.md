@@ -1,5 +1,5 @@
 ---
-title: Intelligence Hub Index
+title: Wiki Index
 type: index
 tags: [index, navigation]
 created: 2024-12-19
@@ -7,133 +7,127 @@ updated: 2026-06-13
 summary: Master index of all wiki pages organized by type
 ---
 
-# Intelligence Hub — Index
+# Intelligence Hub — Wiki Index
 
-> Auto-maintained. One-line summaries. Use [[wikilinks]] to navigate.
+> Organized by type. One-line summaries. All pages link internally via [[Wikilinks]].
 
 ---
 
-## 🗂 Entities
+## Entities
 
-*People, projects, products, organizations, events — specific named things.*
+*People, companies, projects, events, and named objects.*
 
 | Page | Summary |
 |---|---|
-| [[3D Body Scan Scaneca Mai 2026]] | May 2026 Scaneca baseline scan at Labor Berlin — full measurements, 15–17% KFA target, 12-week follow-up |
-| [[Allianz Insurance Consolidation]] | Consolidate 3 policies to Allianz for 20% colleague discount; Risikolebensversicherung excluded; status open |
-| [[Alpha-GPC]] | Choline compound for pre-workout cognitive enhancement; part of supplement stack |
-| [[Apple Passwords]] | Apple's native password manager (iOS 18+) — lacks Custom Fields, multi-URL, Vaults; migration target from Proton Pass |
+| [[3D Body Scan Scaneca Mai 2026]] | Specific May 2026 Scaneca baseline scan at Labor Berlin — full measurements, FFMI 21.3, KFA 20.3%, 30° FHP, 15–17% KFA target |
+| [[Allianz Insurance Consolidation]] | Insurance consolidation project — 5-policy threshold for 20% colleague discount; Risikolebensversicherung excluded; status open |
+| [[Alpha-GPC]] | Choline compound for pre-workout cognitive enhancement — taken with L-Tyrosine at 06:05 |
+| [[Apple Passwords]] | Apple's native password manager (iOS 18+/macOS 15+) — target of migration evaluation from Proton Pass |
 | [[Bryan Johnson]] | Entrepreneur/biohacker known for Blueprint longevity protocol |
-| [[Café Berlin Partnership Hai]] | Priority 1 business venture — co-founding a Berlin café with Hai; planning session 14.06.2026 |
+| [[Café Berlin Partnership Hai]] | Priority 1 business venture — Berlin café co-founding with Hai; planning session 14.06.2026 |
 | [[Café Berlin Solo Analyse]] | Rejected solo café analysis — predecessor to the partnership model; archived |
-| [[Claude Projects Setup]] | Oleg's 7 Claude AI Projects — context-driven (Café, Performance) vs task-driven; global German-output preference |
-| [[Cyprus Relocation]] | Strategic goal to relocate to Cyprus for 50% tax exemption + location freedom; blocked by EOR + tax advisor; timeline 2027 |
-| [[DoktorLib]] | B2B SaaS company (Praxissoftware for medical practices); Oleg's employer |
-| [[DoktorLib Automation Pipeline]] | Active automation project — Tally→Make→Salesforce/Notion→Dust for inbound lead Discovery & Onboarding; Priority 2 |
-| [[Friedrichshain]] | Berlin neighborhood; target location for Café Berlin Partnership Hai |
-| [[Hai]] | Oleg's co-founder for the Café Berlin venture |
-| [[Health Protocol Master]] | Oleg's comprehensive daily health protocol — nutrition, training, supplements, sleep, corrective work |
-| [[Hyrox 10-Week Training]] | 10-week Hyrox competition prep plan — registration pending; next Berlin event to be researched |
-| [[MOC Performance und Leben]] | Map of Content for Oleg's performance and health domain |
-| [[MOC Strategie und Business]] | Map of Content for Oleg's strategy and business domain |
-| [[MOC Tech und Setup]] | Map of Content for Oleg's tech stack and setup domain |
-| [[Oleg Business Entity Structure]] | GmbH (active) + UG (dormant) corporate structure; implications for Cyprus relocation |
-| [[Oleg Home MOC]] | Master home MOC — all active priorities and life domains |
-| [[Oleg Personal Context]] | Oleg — vault owner; B2B SaaS sales at DoktorLib, Berlin-based, pursuing FI + location freedom |
-| [[Password Manager Migration]] | Open decision: stay with Proton Pass or migrate to Apple Passwords — blocked by Custom Fields audit |
-| [[Prenzlauer Berg]] | Berlin neighborhood; target location for Café Berlin Partnership Hai |
-| [[Proton Pass]] | Current password manager — supports Custom Fields, multi-URL, Vaults; evaluation ongoing |
+| [[Claude Projects Setup]] | Oleg's 7 Claude AI Projects — context-driven vs task-driven; global German output preference; no-code stack |
+| [[Cyprus Relocation]] | Strategic goal to relocate to Cyprus — 50% income tax exemption; blocked by EOR and tax advisor gate items; timeline 2027 |
+| [[DoktorLib]] | Oleg's employer — B2B SaaS Praxissoftware for medical practices |
+| [[DoktorLib Automation Pipeline]] | Active automation project — Tally → Make → Salesforce/Notion → Dust Agent pipeline for inbound lead onboarding; Priority 2 |
+| [[Friedrichshain]] | Berlin neighborhood identified as target location for Café Berlin venture |
+| [[OK Capital UG]] | Second of Oleg's two companies (UG) — consuming capital without returns; insolvency status unclear; described as dormant in other sources |
+| [[Oleg Financial Situation]] | Oleg's complete financial picture — −7,970 €/year structural deficit, zero savings, Dispo overdraft, two capital-consuming companies, critical insolvency risks |
+| [[Rehabilitation Plan]] | Three-phase financial rehabilitation plan — July provision allocated to Accountant fee → Dispo → emergency buffer |
+| [[Wagglz GmbH]] | First of Oleg's two companies (GmbH) — funded via VW-Bank-Kredit → Crypto; consuming capital; insolvency status unclear |
 
 ---
 
-## 💡 Concepts
+## Concepts
 
-*Ideas, methodologies, frameworks, tools, scientific concepts.*
+*Ideas, methods, frameworks, tools, and categories.*
 
 | Page | Summary |
 |---|---|
 | [[3D Body Scan]] | Advanced body composition analysis technology — Scaneca baseline data and follow-up protocol |
-| [[Apigenin]] | Plant flavonoid (chamomile) in Momentous sleep stack — mild GABA-A modulator; mild estrogen effect |
-| [[BMR and TDEE]] | Metabolic rate metrics — Oleg's BMR 2,113 kcal, TDEE ~3,645 kcal, daily target 2,800 kcal |
-| [[Brick Training]] | Two-exercise back-to-back training for transition adaptation — core Hyrox prep methodology |
-| [[Corrective Exercise]] | Targeted movements addressing muscle imbalances and dysfunction — "small things enable big things" |
-| [[Creatine]] | Evidence-backed supplement for strength and cognition — 5g daily, consistency over timing |
-| [[Cyprus Tax Regime]] | Cyprus 50% income tax exemption for new residents; Non-Domicile status; applicable to sales roles |
-| [[Dust Agent]] | Internal AI platform (Dust.tt) used as KEB-Generator in DoktorLib pipeline — reads Salesforce, outputs KEB |
-| [[Employer of Record]] | Third-party legal employer enabling compliant cross-border remote work — gate item for Cyprus Relocation |
-| [[FFMI]] | Fat-Free Mass Index — muscle mass relative to height; Oleg's baseline 21.3 (upper athletic range) |
-| [[Financial Independence]] | Core strategic goal — sufficient passive/scalable income + location freedom; Cyprus as target destination |
-| [[Forward Head Posture]] | 30° head deviation found at May 2026 scan — corrective protocol: neck stretching + face pulls |
-| [[Kundenerfassungsbogen]] | Customer registration document at DoktorLib — being replaced by Dust Agent auto-generation |
-| [[L-Theanin]] | Amino acid in sleep supplement stack — reduces anxiety without sedation |
-| [[Magnesium L-Threonate]] | Magnesium form with superior brain bioavailability — part of sleep supplement stack |
-| [[Momentous]] | Premium supplement brand used for creatine, sleep stack, and Expert Stack |
-| [[Portugal IFICI]] | Portugal's NHR successor regime — rejected because sales professions explicitly excluded |
-| [[Supplement Stack]] | Oleg's full supplement protocol organized by timing and purpose |
-| [[Zone 2 Cardio]] | Low-intensity aerobic training at 60–70% max HR — foundation of Hyrox training and metabolic health |
+| [[Apigenin]] | Plant flavonoid (chamomile) in Momentous Expert Stack — sleep onset support; part of Huberman sleep cocktail |
+| [[BMR and TDEE]] | Metabolic rate metrics — Oleg's BMR 2,113 kcal, TDEE ~3,645 kcal, daily target 2,800 kcal (845 kcal deficit) |
+| [[Brick Training]] | Training method combining two modalities back-to-back — core Hyrox preparation methodology |
+| [[Corrective Exercise]] | Targeted movements addressing movement dysfunction and muscle imbalances — "small things enable big things" |
+| [[Creatine]] | Creatine monohydrate 5g daily via Momentous — strength, power, and cognitive performance; consistency > timing |
+| [[Cyprus Tax Regime]] | Cyprus 50% income tax exemption for new residents — applicable to sales roles; Non-Dom status; DE-CY treaty |
+| [[Dust Agent]] | Internal AI platform (dust.tt) used as KEB-Generator in DoktorLib pipeline — reads Salesforce, outputs KEB |
+| [[Employer of Record]] | EOR — third-party legal employer enabling compliant cross-border remote work; gate item for Cyprus relocation |
+| [[FFMI]] | Fat-Free Mass Index — lean muscle mass metric; Oleg's baseline 21.3 (solid natural athlete range) |
+| [[Financial Independence]] | Core strategic goal — FI + location freedom; Cyprus as target destination |
+| [[Forward Head Posture]] | 30° FHP found in Oleg's scan — corrective protocol includes neck stretching and face pulls |
 
 ---
 
-## 📄 Sources
+## Sources
 
-*Processed raw documents — one source page per raw file ingested.*
+*Raw source document summaries — one per ingested file.*
 
 | Page | Summary |
 |---|---|
-| [[3D Body Scan Scaneca Mai 2026 Source Detail]] | Raw source: full measurement table, interpretation, targets, and follow-up timeline from 29.05.2026 scan |
-| [[Allianz Insurance Consolidation Detail]] | Raw source: 5-policy threshold strategy, policy decision table, next steps as of 2026-04-25 |
-| [[Andrew Huberman]] | Stanford neuroscientist and Huberman Lab podcast host — evidence-based health optimization protocols |
-| [[Build Muscle Great Posture and Resilience to Injury Jeff Cavaliere]] | Huberman + Cavaliere discussion on injury prevention, corrective exercise, and training longevity |
-| [[Café Berlin Partnership Hai — Planning Detail]] | Raw source: full kickoff agenda for 14.06.2026 — capital structure, role split, legal entity, location economics |
-| [[Claude Projects Setup Source Detail]] | Raw source: 7 Claude projects, instruction schema, global preferences, no-code tech stack |
-| [[Cyprus Relocation Detail]] | Raw source: country comparison, cost structure, gate items (EOR + tax advisor), lifestyle fit, 2027 timeline |
-| [[DoktorLib Automation Pipeline Source Detail]] | Raw source: full pipeline architecture (Tally→Make→SF/Notion→Dust), build phases, decisions made |
-| [[Offene Actions Inbox]] | Raw source: private action inbox organized by urgency — all active projects cross-referenced |
-| [[Oleg Home MOC Source Detail]] | Raw source: Home MOC with active priorities, project statuses, and life domain overview |
-| [[Supplement Stack Source Detail]] | Raw source: full supplement protocol with timing, doses, and rationale |
+| [[3D Body Scan Scaneca Mai 2026 Source Detail]] | Raw source for Scaneca scan 29.05.2026 — full measurement table, targets, follow-up timeline |
+| [[Allianz Insurance Consolidation Detail]] | Source doc: 5-policy threshold, 3 policies to switch, Risikolebensversicherung excluded with actuarial rationale |
+| [[Andrew Huberman]] | Stanford neuroscientist, Huberman Lab podcast — evidence-based health and performance protocols |
+| [[Build Muscle Great Posture and Resilience to Injury Jeff Cavaliere]] | Huberman × Cavaliere on injury prevention, corrective exercise, training longevity, and nutrition |
+| [[Café Berlin Partnership Hai — Planning Detail]] | Full kickoff planning doc for café co-venture — capital structure, role split, legal entity, location economics |
+| [[Claude Projects Setup Source Detail]] | Source for Oleg's 7 Claude Projects — roles, context vs task-driven distinction, instruction schema, no-code stack |
+| [[Cyprus Relocation Detail]] | Full source for Cyprus relocation — country comparison, cost structure, gate items, lifestyle fit, 2027 timeline |
+| [[DoktorLib Automation Pipeline Source Detail]] | Full architecture for the DoktorLib pipeline — Tally → Make → SF/Notion → Dust; replaces Excel KEB |
+| [[Finanz-Übersicht Source Detail]] | Source for Oleg's financial overview — structural deficit, two companies, insolvency risks, July provision allocation |
 
 ---
 
-## 🔬 Syntheses
+## Syntheses
 
-*Cross-source analytical pages — patterns, protocols, aggregated insights.*
+*Cross-source analytical pages synthesizing multiple inputs.*
 
-| Page | Summary |
-|---|---|
-| [[Health Protocol Master]] | Synthesized daily health protocol — integrates nutrition, training, supplements, sleep, corrective work |
+*(No synthesis pages yet — to be added as cross-source patterns emerge.)*
 
 ---
 
-## ⚖️ Comparisons
+## Comparisons
 
 *Side-by-side evaluations of alternatives.*
 
-| Page | Summary |
+*(No comparison pages yet — to be added as evaluation frameworks are documented.)*
+
+---
+
+## MOCs (Maps of Content)
+
+*Navigation hubs referenced from raw sources.*
+
+| Referenced Page | Notes |
 |---|---|
-| [[Cyprus Relocation]] | Cyprus vs. Portugal vs. Greece vs. Italy — Cyprus wins for sales professionals on tax grounds |
-| [[Password Manager Migration]] | Proton Pass vs. Apple Passwords — Custom Fields audit is the blocking gate |
+| [[MOC Performance und Leben]] | Health, training, and lifestyle MOC |
+| [[MOC Strategie und Business]] | Strategy and business projects MOC |
+| [[MOC Tech und Setup]] | Technology stack and tools MOC |
+| [[Oleg Home MOC]] | Master home MOC (🏠 Home) |
 
 ---
 
-## 🗺 Maps of Content (MOCs)
+## Stub Pages (Referenced but not yet fully built)
 
-- [[Oleg Home MOC]] — master home with all active priorities
-- [[MOC Performance und Leben]] — health, training, body composition
-- [[MOC Strategie und Business]] — business ventures, strategy, finance
-- [[MOC Tech und Setup]] — tools, automation, tech stack
-
----
-
-## ⚠️ Tracked Contradictions
-
-| Contradiction | Pages Involved | Resolution |
-|---|---|---|
-| KFA target: 15% vs 15–17% | [[3D Body Scan Scaneca Mai 2026]], [[Health Protocol Master]] | 15–17% (range from scan doc) treated as authoritative |
-| Allianz status: open vs. archived | [[Allianz Insurance Consolidation]], [[MOC Strategie und Business]] | Open (source doc + Home MOC override) |
-| GmbH "ruhend" vs. active | [[Café Berlin Partnership Hai — Planning Detail]], [[Oleg Business Entity Structure]] | GmbH active; "ruhend" = not yet deployed for café |
-| Cyprus: Someday vs. Priority 3 | [[Offene Actions Inbox]], [[Cyprus Relocation]] | Priority 3 (MOC) authoritative; inbox reflects no active actions needed now |
-| Tally vs. Dust as "options" vs. complementary tools | [[DoktorLib Automation Pipeline]] (old), [[DoktorLib Automation Pipeline Source Detail]] | Both used in different phases; entity page corrected |
-
----
-
-*Last updated: 2026-06-13 · Maintainer: LLM Wiki Agent*
+| Page | Context |
+|---|---|
+| [[Hai]] | Co-founder for Café Berlin |
+| [[Health Protocol Master]] | Master health and training protocol |
+| [[Hyrox 10-Week Training]] | 10-week Hyrox competition preparation |
+| [[Jeff Cavaliere]] | Athlean-X coach, injury prevention expert |
+| [[KfW ERP-Gründerkredit]] | German state startup loan instrument |
+| [[Kundenerfassungsbogen]] | Customer registration form artifact being automated |
+| [[L-Theanin]] | Sleep supplement (Momentous stack) |
+| [[L-Tyrosine]] | Pre-workout cognitive supplement |
+| [[Magnesium L-Threonate]] | Sleep supplement (Momentous stack) |
+| [[Make]] | Automation middleware tool |
+| [[Master Prompt – Gesamtanalyse]] | Full financial analysis reference document |
+| [[Momentous]] | Supplement brand used by Oleg |
+| [[Notion]] | Knowledge management / project planning tool |
+| [[Oleg Business Entity Structure]] | GmbH + UG entity overview |
+| [[Oleg Personal Context]] | Master personal context page |
+| [[Password Manager Migration]] | Proton Pass → Apple Passwords evaluation |
+| [[Prenzlauer Berg]] | Alternative Berlin café location target |
+| [[Proton Pass]] | Current password manager |
+| [[Salesforce]] | CRM data backbone at DoktorLib |
+| [[Supplement Stack]] | Full supplement protocol overview |
+| [[Tally]] | Form builder tool (DSGVO-compliant) |

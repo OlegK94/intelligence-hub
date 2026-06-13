@@ -14,3 +14,6 @@
 - ✅ `raw/03-Tech-Setup/Privacy & Tech Stack.md`
 - ✅ `raw/04-Recherchen/TEMPUR Matratzenkauf.md`
 - ✅ `raw/05-Inbox/📥 Offene Actions.md`
+- ❌ `raw/Cafe/cafe_masterplan_2026.md` — Expecting ',' delimiter: line 32 column 6 (char 40595)
+- ❌ `raw/Finanzdaten/GESAMTANALYSE_Oleg_Kober_2025-2026.md` — Expecting ',' delimiter: line 16 column 4494 (char 19128)
+- ✅ `raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md`
