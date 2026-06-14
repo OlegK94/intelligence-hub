@@ -79,6 +79,33 @@ Oleg's waist (97.2 cm) and abdomen (101.4 cm) from Scaneca scan are approaching 
 - [[Andrew Huberman]] — frequent host/guest; episode source
 - [[Bryan Johnson]] — shared longevity optimization focus
 
+## Coffee-Protokoll (2026, aus Clipping)
+
+Rhonda Patrick hat 2026 ein vollständiges Coffee-Longevity-Protokoll veröffentlicht:
+- **Gefilterter Kaffee** (Papierfilter) → entfernt Diterpene (Cafestol/Kahweol) → kein LDL-Anstieg
+- **Light-Medium Roast** → erhält Chlorogen-Säuren (Antioxidantien) 
+- **Nur morgens** (vor Mittag) → 31% geringeres kardiovaskuläres Todesrisiko
+- **L-Theanin 100–200 mg** kombiniert mit Koffein empfohlen
+- Koffein-Stop **8–10h vor Schlaf**
+- **Kritisch für Oleg:** Aktueller letzter Kaffee 14:00 bei Schlaf 20:30 = zu spät → [[Performance Coffee]]
+
+## Creatine 10g Protokoll (2026 bestätigt)
+
+Aus dem Huberman-Clipping: Rhonda bezeichnet 2026 Kreatin als "Supplement des Jahres" und empfiehlt:
+- **Baseline: 10 g täglich** (vs. Olegs aktuell 5 g)
+- Bei Schlafentzug: bis 25 g für kognitive Kompensation
+- Mechanismus: Gehirn macht eigenes Kreatin (1–3 g), aber unter Stress (Schlafentzug, kognitiver Stress) ist Supplementierung hochwirksam
+- Synergistisch: Omega-3 + Vitamin D + Resistance Training → 66% niedrigeres Krebsrisiko (Swiss RCT)
+
+## Omega-3 Empfehlung
+
+- **Minimum 2 g EPA/DHA täglich** → erhöht Omega-3-Index von 4% auf 8%
+- 90% Reduktion plötzlicher Herztod bei hohem Omega-3-Index
+- 5 Jahre längere Lebenserwartung
+- Epigenetische Uhren verlangsamt
+- Lovaza (Rezept) oder hochqualitativer Fischöl (frei von PCB/Schwermetallen)
+- **Synergie: Omega-3 + Vit D + Resistance Training** → 66% weniger invasive Krebserkrankungen
+
 ## Related Pages
 
 - [[Supplement Stack]] — Rhonda Patrick protocol referenced
