@@ -494,14 +494,54 @@ Woche 12: Volles Blutbild + Scaneca Scan (Follow-up)
 
 ---
 
-## OFFENE FRAGEN — Prüfe diese
+## OLEG PERSÖNLICHE DATEN — Stand 2026-06-15
 
-1. **Wie viel EPA+DHA enthält dein Momentous Omega-3?** (Etikett prüfen)
+| Parameter | Status | Konsequenz |
+|---|---|---|
+| Omega-3 Index | **Noch nicht getestet** | Sofort bestellen: Cerascreen DE (~35€). Bis Test: 3g EPA/DHA täglich als konservative Basis |
+| Alkohol | **Gelegentlich Sa, nicht jede Woche** | Kalkulierbar — siehe Alkohol-Protokoll unten |
+| Schlaftracker | Offen | Oura Ring empfohlen |
+| Vitamin D Blutspiegel | Offen | Im nächsten Blutbild abfragen |
+
+### Alkohol-Protokoll (gelegentliches Wochenende)
+
+**Impact auf deine Ziele:**
+- Visceral Fat: Alkohol → Leber priorisiert Ethanolabbau → Fettverbrennung pausiert 24–36h
+- Schlaf: Schon 2 Bier → REM-Schlaf −20–30% → am nächsten Tag erhöhter Cortisol → Visceral Fat
+- Testosteron: −6–20% je nach Menge, erholt sich innerhalb 24–48h
+
+**Oleg-Regel (nicht abstinent, aber optimiert):**
+```
+✓ Max 1–2 Getränke (kein Binge)
+✓ Kein Alkohol nach 20:00 (sonst Schlaf zerstört)
+✓ Vor Alkohol: großes Essen + Elektrolyte (reduziert Resorption)
+✓ Nach Alkohol-Nacht: Schlafzeit verlängern auf 9h, Training leichter
+✗ Kein Alkohol in der Nacht vor einem Hyrox oder wichtigen HIIT-Session
+✗ Nicht 2 Wochenenden in Folge (Recovery braucht Pause)
+```
+
+**Quantifizierter Impact auf 12-Wochen-Ziel:**
+- 0× Alkohol/Monat: 6 kg Fett in 12 Wochen ✓
+- 2× moderate Abende/Monat: 6 kg Fett in 14 Wochen (+2 Wochen)
+- 4× moderate Abende/Monat: erheblich langsamer, Visceral-Fat-Reduktion gebremst
+
+### Omega-3 — Interim-Protokoll (bis Test-Ergebnis)
+
+Ohne gemessenen Index: konservative Basis-Dosis.
+```
+Aktuell (Momentous): wahrscheinlich 1–1,5g EPA/DHA
+Sofortige Erhöhung auf: 3g EPA/DHA täglich
+Methode: 2 Momentous-Kapseln morgens + 1 abends (oder hochdosiertes Produkt)
+Nach Test: Dosis anpassen (Ziel Omega-3-Index ≥8%)
+```
+
+## OFFENE FRAGEN — Verbleibend
+
+1. **Wie viel EPA+DHA enthält dein Momentous Omega-3?** (Etikett prüfen — Anzahl Kapseln für 3g/Tag?)
 2. **Wie ist dein aktueller Vitamin D Blutspiegel?** (Letzte Messung?)
-3. **Trainierst du tatsächlich nüchtern oder mit Pre-Workout vor dem Training?** (Timing optimierbar)
-4. **Hast du einen Schlaftracker?** Oura Ring wäre hier sehr wertvoll für Daten-Basis
-5. **Alkohol aktuell — wie oft / wie viel?** (Absolut kritisch für Visceral-Fat-Ziel)
-6. **Ist 17:30 letzte Mahlzeit realistisch?** Bei Abendverpflichtungen Alternative: Schlafzeit auf 22:00 verschieben
+3. **Trainierst du nüchtern oder mit Pre-Workout?** (Timing Alpha-GPC optimierbar)
+4. **Hast du einen Schlaftracker?** Oura Ring empfohlen für Daten-Basis
+5. **Ist 17:30 letzte Mahlzeit realistisch an Arbeitstagen?** Falls nein → Schlafzeit auf 21:30 verschieben als Alternative
 
 ---
 
