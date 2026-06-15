@@ -1,0 +1,25 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /Users/$(whoami)/Documents/Intelligence-Hub/scripts/post-session.sh 2>> /Users/$(whoami)/Documents/Intelligence-Hub/outputs/notes/hooks.log"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash /Users/$(whoami)/Documents/Intelligence-Hub/scripts/on-file-change.sh 2>> /Users/$(whoami)/Documents/Intelligence-Hub/outputs/notes/hooks.log"
+          }
+        ]
+      }
+    ]
+  }
+}
