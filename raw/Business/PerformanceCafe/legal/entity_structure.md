@@ -79,12 +79,20 @@ Bei 50/50 und unauflösbarem Konflikt:
 - Option A: Mediationsverfahren (60 Tage)
 - Option B: Buy-Sell Klausel (Russian Roulette) — ein Partner bietet Preis, anderer kauft oder verkauft
 
-### Aufgabenteilung (empfohlen klären)
+### Was Hai einbringt (bestätigt 2026-06-15)
+- **Kapital** — Mitfinanzierung ab UG-Gründung
+- **Wissen** — fachliche Expertise (Produkt / Markt)
+- **Netzwerk** — Kontakte für Produktion, Vertrieb oder Investoren
+- **Operative Rolle** — aktive Mitarbeit im Tagesgeschäft
+
+→ 50/50 ist bei gleichwertigem Beitrag fair. Vesting-Klausel trotzdem empfohlen (schützt beide).
+
+### Aufgabenteilung (noch zu klären)
 | Bereich | Oleg | Hai |
 |---|---|---|
 | Produkt & Rezeptur | Lead | Support |
 | Vertrieb & Marketing | Lead | Support |
-| Operations & Produktion | ? | ? |
+| Operations & Produktion | Support | Lead |
 | Finanzen | Lead (OK Capital) | Support |
 | Regulatorik | Beide | Beide |
 
