@@ -1,61 +1,74 @@
 """
-Performance Café — Unit Economics Modell
-========================================
-Ausfüllen mit Daten aus research/02_ingredienzen_db.md und research/05_prototyp_partner.md
+Performance Coffee Brand — Unit Economics Modell
+=================================================
+Basiert auf Recherche-Daten aus research/02_ingredienzen_db.md
+und research/05_prototyp_partner.md (Stand 2026-06)
 
 Ausführen: python3 models/unit_economics.py
 """
 
 # ============================================================
-# KONFIGURATION — hier Zahlen eintragen wenn Daten vorliegen
+# KONFIGURATION — Bulk-Preise DACH 2025/2026
 # ============================================================
 
 PORTIONEN_PRO_SACHET = 1  # 1 Sachet = 1 Portion
 
-# --- ROHSTOFFE (€ pro Portion) ---
-# Aus research/02_ingredienzen_db.md befüllen
-rohstoffe = {
-    "Kaffee (Freeze-Dried, Specialty)":  0.00,  # TODO
-    "L-Theanin":                         0.00,  # TODO
-    "Alpha-GPC":                         0.00,  # TODO
-    "Lion's Mane Extrakt":               0.00,  # TODO
-    "Cordyceps Militaris":               0.00,  # TODO
-    "Ashwagandha KSM-66":                0.00,  # TODO
-    "NAC":                               0.00,  # TODO
-    "Urolithin A":                       0.00,  # TODO — Amazentis Patent prüfen!
-    "Spermidine":                        0.00,  # TODO — Novel Food Status prüfen!
-    "Astaxanthin":                       0.00,  # TODO
-    "CoQ10 Ubiquinol":                   0.00,  # TODO
-    "Sonstige Inhaltsstoffe":            0.00,  # TODO
+# --- ROHSTOFFE (€ pro Portion, Bulk-Preise DE/EU) ---
+# Tier-1 Stack (Morning Performance SKU) — sofort launchbar
+rohstoffe_tier1 = {
+    "Kaffee Light Roast Instant":        0.054,  # 3g × 18€/kg
+    "L-Theanin":                         0.007,  # 200mg × 35€/kg
+    "Alpha-GPC 50%":                     0.036,  # 300mg × 120€/kg
+    "Lions Mane 8:1 Extrakt":            0.040,  # 500mg × 80€/kg
+    "Ashwagandha KSM-66":               0.018,  # 300mg × 60€/kg
+    "Kreatin Monohydrat Creapure":       0.032,  # 2g × 16€/kg
+    "Taurin":                            0.006,  # 500mg × 12€/kg
+    "Aromen + Stevia":                   0.008,  # pauschal
 }
+
+# Tier-2 Stack (Longevity Pro SKU) — nach Novel-Food-Klärung
+rohstoffe_tier2_zusatz = {
+    "NMN":                               0.300,  # 250mg × 1200€/kg ⚠️ Novel Food
+    "Urolithin A":                       1.250,  # 500mg × 2500€/kg ⚠️ Patent
+    "Spermidine (Weizenkeimextrakt)":   0.004,  # 5mg × 800€/kg
+    "NAC":                               0.009,  # 300mg × 30€/kg
+    "Curcumin Mizellar":                0.030,  # 200mg × 150€/kg
+    "Quercetin":                         0.018,  # 250mg × 70€/kg
+    "Astaxanthin":                       0.005,  # 6mg × 900€/kg
+    "CoQ10 Ubiquinol":                  0.040,  # 100mg × 400€/kg
+}
+
+# Aktiver Stack (Tier-1 als Standard)
+rohstoffe = rohstoffe_tier1
 
 # --- PRODUKTION & PACKAGING ---
-cmo_manufacturing_pro_portion   = 0.00  # TODO: aus research/05_prototyp_partner.md
-sachet_packaging_pro_portion    = 0.00  # TODO: Stick-Pack Material + Druck
-box_packaging_pro_portion       = 0.00  # TODO: Outer Box (30er Pack)
-zertifizierung_pro_portion      = 0.00  # TODO: Kölner Liste / Informed Sport amortisiert
+cmo_manufacturing_pro_portion   = 0.20   # CMO-Aufschlag ~35% auf Rohstoffe (Schätzung)
+sachet_packaging_pro_portion    = 0.05   # Aluminium Stick-Pack
+box_packaging_pro_portion       = 0.03   # 30er Box Outer
+zertifizierung_pro_portion      = 0.005  # Kölner Liste amortisiert auf 10K Einheiten/Jahr
 
 # --- LOGISTIK & FULFILLMENT ---
-fulfillment_pro_portion         = 0.00  # TODO: Lager + Pick & Pack + Versand
-retouren_pro_portion            = 0.00  # TODO: ~3-5% Retourenrate
+fulfillment_pro_portion         = 0.40   # Lager + Pick & Pack (DTC, 30er Box = 12€/Box)
+retouren_pro_portion            = 0.03   # ~3% Retourenrate
 
 # --- VERKAUFSKANAL-KOSTEN ---
-dtc_payment_fee_pct             = 0.025  # 2,5% Stripe/Zahlungsabwicklung
-amazon_fee_pct                  = 0.15   # ~15% Amazon Referral Fee (Kategorie abhängig)
-subscription_discount_pct       = 0.10   # 10% Subscription-Rabatt
+dtc_payment_fee_pct             = 0.025
+amazon_fee_pct                  = 0.15
+subscription_discount_pct       = 0.10
 
-# --- PREISE (Zielkorridor) ---
+# --- PREISSZENARIEN (aus Marktanalyse research/04_marktanalyse.md) ---
 preise_szenarien = {
-    "Entry (30er Box)":     0.00,   # TODO: Zielpreis pro Portion
-    "Premium (30er Box)":   0.00,   # TODO
-    "Ultra (30er Box)":     0.00,   # TODO
+    "Entry (Abo-Preis)":   2.99,
+    "Standard (VK)":       3.49,
+    "Premium (VK)":        3.99,
 }
 
-# --- BENCHMARKS (Recherche) ---
-BENCHMARK_BLUEPRINT_LONGEVITY_MIX   = 1.63  # USD/Portion (49 USD / 30 Portionen)
-BENCHMARK_TIMELINE_MITOPURE         = 3.30  # EUR/Portion (~100 EUR / 30 Portionen)
-BENCHMARK_FOUR_SIGMATIC             = 3.00  # EUR/Portion (ca.)
-BENCHMARK_RYZE                      = 2.00  # EUR/Portion (ca.)
+# --- BENCHMARKS (aus research/04_marktanalyse.md) ---
+BENCHMARK_BLUEPRINT_LONGEVITY_MIX   = 1.50  # EUR/Portion (49 USD / 30 Portionen)
+BENCHMARK_TIMELINE_MITOPURE         = 4.17  # EUR/Portion (~125 EUR / 30 Portionen)
+BENCHMARK_FOUR_SIGMATIC             = 1.75  # EUR/Portion
+BENCHMARK_RYZE                      = 1.00  # EUR/Portion
+BENCHMARK_PUROVITALIS_NMN           = 2.00  # EUR/Tag (EU-Referenz Longevity)
 
 
 # ============================================================
