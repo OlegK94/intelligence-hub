@@ -15,7 +15,7 @@
 
 # ── Konfiguration ────────────────────────────────────────────────────
 ICLOUD_DIR="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Clipper"
-VAULT_DIR="$HOME/Documents/intelligence-hub"          # ← MAC-PFAD ANPASSEN
+VAULT_DIR="$HOME/Documents/Intelligence-Hub"          # iCloud-Vault: $HOME/Library/Mobile\ Documents/com~apple~CloudDocs/Intelligence-Hub
 CLIPPINGS_DIR="$VAULT_DIR/Clippings"
 INBOX_DIR="$VAULT_DIR/raw/inbox"
 TOO_LARGE_DIR="$VAULT_DIR/raw/inbox/zu_lang_autosync"
