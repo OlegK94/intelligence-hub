@@ -1,0 +1,51 @@
+---
+description: Performance Café — Projektkontext für alle Dateien
+globs: "**/*"
+alwaysApply: true
+---
+
+# Performance Café — Cursor Projektkontext
+
+## Was wir bauen
+Functional Coffee + Longevity Stack. Instant-Sachet als MVP.
+Kernversprechen: **Perform now. Live longer.**
+Zielgruppe: Hyrox-Athleten, Executives, Biohacker/Blueprint-Follower.
+
+## Strategischer White Space
+Blueprint by Bryan Johnson (blueprint.bryanjohnson.com) hat KEIN Kaffeeprodukt.
+Wir sind "The Longevity Coffee Blueprint doesn't make."
+Qualitätsanspruch: science-backed, precision-dosed, kein Pixie-Dusting.
+
+## Stack-Kern (vorläufig)
+Performance: Koffein + L-Theanin + Alpha-GPC + Lion's Mane + L-Tyrosin + Cordyceps
+Longevity: NAC + Urolithin A + Spermidine + Astaxanthin + CoQ10
+Kaffee-Basis: Vietnamesischer Robusta (Light-Medium Roast, max. Chlorogensäure + Trigonellin)
+
+## Kritische Blocker (vor Entscheidungen prüfen)
+- NMN/NR: EU Novel Food Status 2025 → `research/06_regulatorik.md`
+- Urolithin A: Amazentis Patent (Mitopure) → `legal/ip_landscape.md`
+- NAC: Schwefelgeruch → Flavorist nötig → `research/05_prototyp_partner.md`
+- Zertifizierung: Kölner Liste zuerst, dann Informed Sport → `ops/certification_roadmap.md`
+
+## Dateistruktur
+```
+research/   → Module 0–7 Recherche-Outputs (Markdown)
+brand/      → Naming, Positioning
+legal/      → IP, Patent-Landschaft, Entity Structure
+models/     → unit_economics.py, ingredient_db.csv
+ops/        → Lieferanten, Zertifizierung
+```
+
+## Arbeitsregeln
+- Antworten auf Deutsch
+- Outputs direkt in Zieldatei schreiben (nicht nur in Chat)
+- Frontmatter in jede Datei: status, priority, date, modul
+- Quellenangaben bei Recherche-Outputs
+- Konkret: Firmennamen, Dosierungen, Preise — keine Platzhalter
+- Vor Stack-Entscheidungen: Regulatorik-Status prüfen
+
+## Referenzen
+- blueprint.bryanjohnson.com (Qualitäts-Benchmark)
+- Huberman Lab, Peter Attia (Wissenschaft-Kommunikation)
+- Hyrox.com (Athleten-Community)
+- CLAUDE.md (vollständiger Kontext)
