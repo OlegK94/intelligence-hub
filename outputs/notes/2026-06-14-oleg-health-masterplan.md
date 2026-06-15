@@ -397,32 +397,71 @@ Deine 30° Kopfvorneigung ist ein Verletzungsrisiko. Täglich 10 Minuten:
 
 ---
 
-## SCHRITT 6: SCHLAFPROTOKOLL (Größte Stellschraube für Visceral Fat!)
+## SCHRITT 6: TAGESSTRUKTUR — REALE KALIBRIERUNG (Stand 2026-06-15)
+
+### Reale Tagesstruktur (korrigiert)
+
+| | Alt (falsch angenommen) | Real (bestätigt) |
+|---|---|---|
+| Aufwachen | 05:00 | **07:30** |
+| Schlaf | 20:30 | **23:30** |
+| Schlafdauer | 8,5h | **8,0h ✓ Sehr gut** |
+| Letzte Mahlzeit | 17:30 (Ziel) | **22:00 (Realität)** |
+
+### Koffein-Neuberechnung mit echten Zeiten
 
 ```
-DERZEITIGE PROBLEME:              NEUE REGELN:
-─────────────────────────────────────────────────────────
-Letzter Kaffee: 14:00 (6,5h)  →  Letzter Kaffee: 10:30
-Letztes Essen:  19:30 (1h)    →  Letzte Mahlzeit: 17:00–17:30
-─────────────────────────────────────────────────────────
+Schlaf: 23:30 | Koffein-Halbwertszeit: 6h
 
-05:00  Aufwachen, Tageslicht (sofort raus oder Lichtlampe)
-08:30  Erster Kaffee + L-Theanin
-10:30  LETZTER Kaffee
-14:00  Grüner Tee (kein Kaffee mehr)
-17:00  LETZTE MAHLZEIT
-19:00  Licht dimmen (warmes Licht, kein Blaulicht)
-19:30  Telefon + Bildschirm aus (außer Film in Dimm-Modus)
-20:00  NSDR 20 Minuten (Huberman / Yoga Nidra) + Magnesium Bisglycinate
-20:30  Schlaf
+Letzter Kaffee 14:00 → 9,5h vor Schlaf → 0,5^(9,5/6) = 33% Koffein aktiv
+Letzter Kaffee 13:00 → 10,5h vor Schlaf → 0,5^(10,5/6) = 26% aktiv ← optimal
+Letzter Kaffee 16:00 → 7,5h vor Schlaf → 0,5^(7,5/6) = 41% aktiv ← zu viel
 
-Ziel: 8–8,5 Stunden Schlaf
+ERGEBNIS: 14:00 ist grenzwertig OK. Ideal: 13:00. Kein Kaffee nach 14:00.
+(Früheres "Panik-Protokoll" 10:30 war für 20:30-Schlaf — falsch kalibriert!)
 ```
 
-**Warum Schlaf der stärkste Visceral-Fat-Hebel ist:**
-- Schlechter Schlaf → Cortisol chronisch erhöht → Visceral-Fat-Aufbau
-- 1 Woche schlechter Schlaf = messbar höhere Insulinresistenz (Rhonda Patrick)
-- Die 14:00 Kaffee-Regel löst viel deines Schlafproblems
+### Neues Tagesprotokoll (realistisch)
+
+```
+07:30  Aufwachen → Wasser 500ml, Tageslicht
+07:30–08:00  Hund / Spaziergang (nüchtern, Cortisol-Peak nutzen)
+08:30  Training (Alpha-GPC 300mg pre-workout)
+09:30  Sauna
+10:00  Mahlzeit 1 (Post-Workout: Protein + Kohlenhydrate)
+10:00  Erster Kaffee + L-Theanin 200mg (90min nach Aufwachen = 09:00, nach Training = 10:00)
+13:00  LETZTER KAFFEE ← neue Regel (optimal: 10,5h vor Schlaf)
+13:30  Mahlzeit 2 (Hauptmahlzeit — größte des Tages)
+15:00  Grüner Tee (kein Kaffee mehr)
+18:00  Mahlzeit 3 (leicht)
+20:30  LETZTE MAHLZEIT ← Ziel (3h vor Schlaf = 23:30)
+21:30  Licht dimmen, Screen reduzieren
+22:30  NSDR 20 min + Magnesium Bisglycinate
+23:00  Screen aus, Handy weg
+23:30  Schlaf
+```
+
+### Das einzige echte Problem: Letzte Mahlzeit
+
+```
+Aktuell: 22:00 essen bei 23:30 Schlaf = nur 1,5h Abstand ← Problem
+Ziel:    20:30 essen bei 23:30 Schlaf = 3,0h Abstand ✓
+
+Impact: 22:00 → schlechtere Schlaftiefe, erhöhter Cortisol nachts,
+        direkter Visceral-Fat-Aufbau durch nächtliche Insulinspitze
+
+Praktische Lösung:
+→ Größtes Essen auf 13:30 verlagern (Mittagessen als Hauptmahlzeit)
+→ Abendessen bis 20:30 leicht halten (Eiweiß + Gemüse, kein schweres Fett/Stärke)
+→ Nach 21:00: nur noch Wasser, Kräutertee, max. Proteinshake wenn Hunger
+```
+
+### Was sich von früher NICHT ändert
+- Kreatin 10g ✓
+- Omega-3 3g Interim ✓
+- Magnesium Bisglycinate vor Schlaf ✓
+- L-Theanin mit Kaffee ✓
+- Alkohol max 2×/Monat ✓
 
 ---
 
