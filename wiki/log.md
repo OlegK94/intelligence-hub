@@ -149,3 +149,14 @@ Contradiction noted: Health Protocol Master source states 15% body fat goal; raw
 ## [2026-06-13 16:46 UTC] ingest | raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md
 - Pages: [[OK Capital Finom 2026]], [[OK Capital UG]]
 - Ingested raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md. Created 2 new pages: (1) sources/OK Capital Finom 2026 — source summary page with full account detail, recurring costs (WestX 23,50 €/Mo + Google 8,10 €/Mo), and Oleg Darlehen 100 € (01.03.2026); (2) entities/OK Capital UG — new entity page for the UG business entity, cross-referencing existing Oleg Business Entity Structure wiki knowledge. Flagged potential contradiction: source references GmbH as 'ruhend' in Café Berlin Planning Detail context, but the UG (not GmbH) is the formally dormant entity per existing wiki — added ⚠️ Assumption [A] callout on OK Capital UG page. Also flagged that zero saldo + active 31,60 €/Mo costs suggests entity is operationally minimal but not fully dormant. Updated index.md with both new pages in their respective sections.
+
+## [2026-06-15 12:00] write | raw/Business/PerformanceCafe/research/01_longevity_science.md
+- Created/updated: [[Longevity Science Grundlagen]]
+- Notes: Modul 0 vollständig ausgearbeitet (280+ Zeilen). Abgedeckt: 12 Hallmarks of Aging (López-Otín 2023) mit Adressierbarkeits-Matrix, Kaffee als Longevity-Substanz (Chlorogensäure AMPK-Mechanismus, Trigonellin als NAD+-Vorstufe nach Nature Metabolism 2024, Cafestol/Kahweol LDL-Kontraindikation, Epidemiologie J-Kurve mit BMJ 2017 Metaanalyse n=3,8 Mio.), Biomarker-Profil (hs-CRP, HbA1c, ApoB, NAD+, IGF-1) mit DTC-Anbietern in DACH (Cerascreen, Lykon, Sanitas Health). Status in CLAUDE.md auf ✅ abgeschlossen gesetzt.
+
+## [2026-06-15 12:00] ingest | raw/Business/Wagglz/Wagglz GmbH.md + Wagglz GmbH — Finance Vault.md
+- Created/updated: [[Wagglz]]
+- Notes: Neue Entity-Seite wiki/entities/Wagglz.md erstellt. Abdeckt: Stammdaten (100% OK Capital UG, GF Oleg Kober), Kapitalstruktur (VW-Bank-Kredit → Crypto → GmbH), Finanzlage (0 € Umsatz 2026, 27.926,89 € Fehlbetrag, §19 InsO Überschuldung, Rangrücktritt noch nicht unterschrieben), laufende Kosten, monatliche Gesellschafterdarlehen 2026 (~2.170 €), strategische Optionen (Weiterführung / Auflösung §17 EStG / Dormancy), offene kritische Punkte. Wikilinks zu [[OK Capital UG]], [[Insolvenzprüfung]], [[Gesellschafterdarlehen]], [[Oleg Business Entity Structure]].
+
+## [2026-06-15 12:00] edit | raw/Business/PerformanceCafe/CLAUDE.md
+- Notes: Umbenennung "Performance Café" → "Performance Coffee Brand" (Aufgabe 3). Produktname-Feld aktualisiert auf "Performance Coffee Brand (Arbeitstitel)". Datum auf 2026-06-15 aktualisiert. Modul-0-Status auf ✅ abgeschlossen gesetzt.

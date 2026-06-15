@@ -1,13 +1,13 @@
-# Performance Café — CLAUDE.md
+# Performance Coffee Brand — CLAUDE.md
 
 Persistenter Projektkontext für Claude Code. Wird zu Beginn jeder Session gelesen.
-Zuletzt aktualisiert: 2026-06-14
+Zuletzt aktualisiert: 2026-06-15
 
 ---
 
 ## Produkt
 
-**Name:** Noch offen — siehe `brand/naming_brief.md`
+**Name:** Performance Coffee Brand (Arbeitstitel) — finaler Name siehe `brand/naming_brief.md`
 **Kategorie:** Functional Coffee / Performance Beverage mit Longevity-Stack
 **Kernversprechen:** Perform now. Live longer.
 **MVP-Format:** Instant-Sachet (Stick-Pack)
@@ -74,7 +74,7 @@ Referenzrahmen: Bryan Johnson, Huberman Lab, Peter Attia.
 
 | # | Modul | Status | Datei |
 |---|-------|--------|-------|
-| 0 | Longevity Science Grundlagen | ⬜ leer | research/01_longevity_science.md |
+| 0 | Longevity Science Grundlagen | ✅ abgeschlossen | research/01_longevity_science.md |
 | 1 | Ingredienzen Datenbank | ⬜ leer | research/02_ingredienzen_db.md |
 | 2 | Kaffee-Spezifikation | ⬜ leer | research/03_kaffee_specs.md |
 | 3 | Marktanalyse + Wettbewerb | ⬜ leer | research/04_marktanalyse.md |
