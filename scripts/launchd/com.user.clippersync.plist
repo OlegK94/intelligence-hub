@@ -8,7 +8,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/DEIN_BENUTZERNAME/Documents/intelligence-hub/tools/clipper_sync.sh</string>
+        <string>/Users/DEIN_BENUTZERNAME/Documents/Intelligence-Hub/tools/clipper_sync.sh</string>
     </array>
 
     <!-- Reagiert sofort wenn eine neue Datei im iCloud-Clipper-Ordner landet -->
@@ -23,8 +23,8 @@
 
     <!-- Logs für Debugging -->
     <key>StandardOutPath</key>
-    <string>/Users/DEIN_BENUTZERNAME/Documents/intelligence-hub/outputs/notes/launchd_stdout.log</string>
+    <string>/Users/DEIN_BENUTZERNAME/Documents/Intelligence-Hub/outputs/notes/launchd_stdout.log</string>
     <key>StandardErrorPath</key>
-    <string>/Users/DEIN_BENUTZERNAME/Documents/intelligence-hub/outputs/notes/launchd_stderr.log</string>
+    <string>/Users/DEIN_BENUTZERNAME/Documents/Intelligence-Hub/outputs/notes/launchd_stderr.log</string>
 </dict>
 </plist>
