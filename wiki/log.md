@@ -409,3 +409,35 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-15 22:18 UTC] ingest | raw/Business/PerformanceCafe/brand/naming_brief.md
 - Pages: [[Performance Cafe Naming Brief]], [[Performance Coffee Brand Naming]], [[Aevum Brand]], [[Performance Coffee Brand Voice and Positioning]], [[Performance Coffee Brand Packaging Concept]]
 - Ingested raw/Business/PerformanceCafe/brand/naming_brief.md. Created 5 new pages: (1) 'Performance Cafe Naming Brief' [source] — full source summary of the completed Modul 7 naming brief with all 15 candidates, domain/EUIPO analysis, positioning, and packaging specs; (2) 'Performance Coffee Brand Naming' [entity] — entity page for the naming decision process with top recommendation AEVUM and full candidate matrix; (3) 'Aevum Brand' [entity] — dedicated entity for the top-recommended brand name, etymology, IP assessment, and design implications; (4) 'Performance Coffee Brand Voice and Positioning' [concept] — brand voice framework, taglines, target audience messaging, and competitor matrix; (5) 'Performance Coffee Brand Packaging Concept' [concept] — packaging design spec, materials, color system, sachet dimensions, MOQ, and sachet manufacturer options. Updated index.md with all new pages in correct categories plus reorganized existing entries for clarity. Cross-linked to existing wiki entities: Bryan Johnson, Andrew Huberman, AG1, Alpha-GPC, L-Theanin, Ashwagandha KSM-66, Taurin, Kölner Liste, Informed Sport, NEM Konformität, CMO Sourcing Performance Coffee, Certification Roadmap Performance Coffee Brand, Amazentis, Longevity Stack Ingredients, Oleg Personal Context. No contradictions with existing wiki found — this is new brand/naming content not previously covered.
+
+## [2026-06-16 10:30] ingest | gap-fill — alle fehlenden raw/ Quelldateien
+- Erstellt: 26 neue wiki/sources/ Seiten für alle raw/.md-Dateien ohne entsprechende source page
+- Neue Seiten:
+  - [[GROVE Businessplan und Betriebshandbuch 2026]] — Vollständiger Businessplan (34 Sektionen)
+  - [[Café Berlin Partnership Hai Raw Source]] — Ursprüngliche Kickoff-Agenda
+  - [[OK Capital UG Finance Vault Source Detail]] — Holding-Stammblatt
+  - [[Performance Coffee Brand Master Research Brief]] — 9-Modul Forschungsauftrag
+  - [[Performance Coffee Brand Longevity Science Source Detail]] — Modul 0
+  - [[Performance Coffee Brand Ingredienzen Datenbank]] — Modul 1
+  - [[Performance Coffee Brand Kaffee-Spezifikation]] — Modul 2
+  - [[Performance Coffee Brand Marktanalyse]] — Modul 3
+  - [[Performance Coffee Brand Prototyp Partner Source Detail]] — Modul 4
+  - [[Performance Coffee Brand Regulatorik Report]] — Modul 5
+  - [[Performance Coffee Brand Business Case]] — Modul 6
+  - [[Performance Coffee Brand IP und Patent-Landschaft]] — Modul 8
+  - [[Performance Coffee Brand Supplier List]] — Ops Lieferantenliste
+  - [[Wagglz Finom 2026 Source Detail]] — Wagglz Finom-Konto 2026
+  - [[Cyprus Relocation Source Detail]] — Zypern Strategie-Dokument
+  - [[Cyprus Relocation Tracker Privat Source Detail]] — Kurznotiz pausiert
+  - [[Privat Finanz-Übersicht Source Detail]] — Überblick Privatfinanzen
+  - [[Finanzielle Gesamtanalyse Oleg Kober 2025-2026]] — Vollständige Analyse Juni 2026
+  - [[Master Prompt Gesamtfinanzanalyse Source Detail]] — Analyse-Prompt-Template
+  - [[Claude Session Finanzen Template]] — Kurzformat Finance-Session-Template
+  - [[MOC Performance und Leben Source Detail]] — Navigation Performance-Bereich
+  - [[MOC Tech und Setup Source Detail]] — Navigation Tech-Bereich
+  - [[Health Protocol Master Source Detail]] — 6-Tage-Split, 2.800 kcal, Tagesstruktur
+  - [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Privates Versicherungsdokument
+  - [[Offene Actions Inbox Source Detail]] — Privater Action-Tracker (inbox)
+  - [[Inbox 2026-06-13 Source Detail]] — Leere Inbox-Placeholder-Datei
+- Aktualisiert: wiki/index.md (Sections erweitert: Health, Finance, Business, Relocation, Inbox)
+- Notizen: Einige Seiten decken Dateien ab die unter neuem Vault-Pfad leben, während ältere wiki sources noch auf alte Pfade verweisen (01-Strategie-Business/ etc.)
