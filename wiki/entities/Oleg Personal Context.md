@@ -1,67 +1,133 @@
 ---
 title: Oleg Personal Context
 type: entity
-tags: [personal, identity, context, goals, vault-owner]
-sources: ["raw/00-MOC/🏠 Home.md"]
+tags: [oleg, profile, identity, berlin, master-context, goals, priorities, finanzen, health, café, hyrox, wagglz, ok-capital-ug, doctolib]
+sources: ["raw/inbox/00-Master-Context.md", "raw/00-MOC/🏠 Home.md", "raw/00-MOC/MOC Strategie & Business.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Identity and context profile for vault owner Oleg — career, companies, goals, training, and life situation as of June 2026
+summary: Central entity for Oleg Kober — Berlin-based B2B SaaS sales professional, founder of Wagglz GmbH (active) and OK Capital UG (dormant); top 12-month priorities are Café Berlin, Hyrox, Health Optimization, Finanzen, and Financial Independence; Cyprus relocation downgraded to Someday/Maybe as of June 2026
 ---
 
-# Oleg Personal Context
+# Oleg Kober — Personal Context
 
-## Overview
+## Identity
 
-Oleg is the owner of this personal knowledge vault. The vault serves as his active decision-making and knowledge management system. This page consolidates identity and context that informs all other wiki entries.
+| Field | Value |
+|---|---|
+| **Name** | Oleg Kober |
+| **Standort** | Berlin |
+| **Steuerresidenz** | Deutschland |
+| **Familie** | Partnerin (PM, Kosmetik), Hund |
 
-## Professional Profile
+---
 
-- **Role:** B2B SaaS Sales
-- **Employer:** [[DoktorLib]] — Praxissoftware for medical practices
-- **Office Setup:** Monday + Wednesday in Berlin office; rest remote
-- **Companies Owned:**
-  - GmbH — active operating entity
-  - UG — currently dormant
+## Professional Role
 
-## Personal Life
+- **Hauptjob:** B2B SaaS Sales (Doctolib) — work topics handled in separate company setup, not this vault
+- **Unternehmen privat:**
+  - [[Wagglz GmbH]] — aktiv
+  - **OK Capital UG** — ruhend (dormant) *(named in source: 2026-06-13)*
 
-- **Partner:** Partner in Kosmetik/PM field
-- **Business Partner:** [[Hai]] — Café Co-Founder (see [[Café Berlin Partnership Hai]])
-- **Pet:** Dog — used for daily [[Zone 2 Cardio]] walks
+---
 
-## Strategic Goals
+## Income Sources
 
-### Primary Life Goals
-- **[[Financial Independence]]** — building toward FI
-- **Location Freedom** — remote-first lifestyle
-- **[[Cyprus Relocation]]** — target destination (currently blocked by EOR + tax advisor questions)
+| Quelle | Betrag | Frequenz |
+|---|---|---|
+| Doctolib Fixgehalt netto | 3.638,82 € | Monatlich |
+| Doctolib Provision | ~4.611 € | Quartalsweise (Jan/Apr/Jul/Okt) |
+| Wagglz GF-Gehalt 2025 | ~30.000 € | 2025 (Lohnsteuer via STB) |
+| [[ALG I 2025]] | ~8.400 € | bis Jun 2025 (Progressionsvorbehalt) |
 
-### Active Projects (Juni 2026)
-1. [[Café Berlin Partnership Hai]] — business venture with Hai
-2. [[DoktorLib Automation Pipeline]] — internal automation at work
-3. [[Cyprus Relocation]] — relocation planning
-4. [[Hyrox 10-Week Training]] — competition preparation (active)
-5. [[Password Manager Migration]] — tech hygiene
-6. [[Allianz Insurance Consolidation]] — consolidating 3 insurance policies
+---
 
-## Training Profile
+## Top-Ziele (12 Monate) — Privat
 
-- **Split:** 6-day training split (see [[Health Protocol Master]])
-- **Competition Prep:** [[Hyrox 10-Week Training]] currently active
-- **Daily Activity:** Dog walks as [[Zone 2 Cardio]]
-- **Current Body Composition:** 96.7 kg, 20.3% body fat (May 2026 baseline — see [[3D Body Scan]])
-- **Goal:** Reduce body fat to 15%; build upper chest and triceps
+1. **[[Café Berlin Partnership Hai]]** — P0, Planning Session 14.06.2026
+2. **[[Hyrox 10-Week Training|Hyrox]]** — P1, erster Wettkampf anmelden
+3. **Health Optimization** — P1, [[Health Protocol Master]], [[3D Body Scan Scaneca Mai 2026|Scaneca]] Sep 2026, [[Supplement Stack]], 6-Tage-Split
+4. **Finanzen privat** — Cashflow, Fixkosten, Steuern ([[ESt 2025]])
+5. **[[Financial Independence]]** — langfristig
 
-## Knowledge System
+---
 
-- Uses Obsidian-based vault as active operating system
-- Four Maps of Content: Strategie & Business, Performance & Leben, Tech & Setup, Recherchen
-- Vault philosophy: *Wissens- und Entscheidungsbasis. Kein Archiv — aktives Betriebssystem.*
+## Aktive Prioritäten
+
+| P | Thema | Status |
+|---|---|---|
+| **P0** | [[Café Berlin Partnership Hai]] | Planung |
+| **P1** | [[Hyrox 10-Week Training]] | Aktiv |
+| **P1** | [[Health Protocol Master]] | Aktiv |
+| **P2** | [[Password Manager Migration]] | Offen |
+| **P2** | [[Allianz Insurance Consolidation]] | Offen |
+
+---
+
+## Deadlines & Fristen
+
+| Datum | Was |
+|---|---|
+| 2026-06-14 | [[Café Berlin Partnership Hai]] Planning Session |
+| 2026-09-01 | [[3D Body Scan Scaneca Mai 2026\|Scaneca 3D-Scan]] follow-up (Ziel) |
+| TODO | [[ESt 2025]] — Pflichtveranlagung wegen [[ALG I 2025]] |
+| offen | Hyrox Wettkampfdatum |
+
+---
+
+## Health & Performance Summary
+
+- **Training:** 6-Tage Split + Hyrox Prep + tägliche Zone 2 (Hund)
+- **Protokolle:** [[Health Protocol Master]], [[Supplement Stack]], NSDR, Sauna
+- **Tracking:** [[3D Body Scan Scaneca Mai 2026|Scaneca 3D-Scan]], [[Blutbild Panel]]
+- **Wearables:** Noch nicht festgelegt
+
+---
+
+## Someday / Maybe
+
+- **[[Cyprus Relocation]]** — Wunsch, kein aktives Projekt *(downgraded 2026-06-13)*
+- Proton Drive Backup-Struktur
+- iPad Setup finalisieren
+
+> **Note on Cyprus:** As of 2026-06-13, Cyprus/Auswandern is explicitly moved to Someday/Maybe. The strategic tension previously flagged between the Berlin café (requires physical presence) and Cyprus relocation is **resolved** in the source: café is Priority 1, relocation has no active timeline.
+
+---
+
+## Offene Entscheidungen
+
+- [ ] Password Manager: [[Proton Pass]] behalten oder [[Apple Passwords]] migrieren?
+- [ ] Café Rechtsträger: [[Wagglz GmbH]] aktivieren oder neue Gesellschaft gründen?
+
+---
+
+## Entity Notes
+
+### OK Capital UG
+The dormant private company is named **OK Capital UG** — first confirmed in [[Master Context Oleg Kober]] source (2026-06-13). Previous wiki pages referred to "the UG" or "dormant UG" without this name. This naming resolves prior ambiguity.
+
+### Vault Scope
+This vault covers **private** topics only:
+- ✅ Health, Café, Finanzen privat, Hyrox, Password Manager, Insurance
+- ❌ Doctolib, work automations → separate company setup
+
+---
 
 ## Related Pages
 
-- [[Health Protocol Master]] — training and nutrition system
-- [[Hyrox 10-Week Training]] — active competition prep
-- [[Cyprus Relocation]] — primary relocation goal
-- [[DoktorLib Automation Pipeline]] — work project
-- [[Zone 2 Cardio]] — daily dog walk activity
+- [[Master Context Oleg Kober]] — source document (primary)
+- [[Wagglz GmbH]] — active company
+- [[ALG I 2025]] — 2025 benefit (Progressionsvorbehalt)
+- [[ESt 2025]] — pending tax filing
+- [[Café Berlin Partnership Hai]] — P0 business venture
+- [[Hyrox 10-Week Training]] — P1 fitness goal
+- [[Health Protocol Master]] — P1 health system
+- [[3D Body Scan Scaneca Mai 2026]] — body composition baseline
+- [[Blutbild Panel]] — biomarker tracking
+- [[Supplement Stack]] — supplementation protocol
+- [[Financial Independence]] — long-term financial goal
+- [[Cyprus Relocation]] — Someday/Maybe (deprioritized)
+- [[Password Manager Migration]] — P2 tech task
+- [[Allianz Insurance Consolidation]] — P2 insurance task
+- [[MOC Finanzen]] — finance overview
+- [[MOC Performance und Leben]] — health/performance overview
+- [[MOC Strategie und Business]] — strategy overview

@@ -1,66 +1,89 @@
 ---
 title: Rehabilitation Plan
 type: entity
-tags: [finance, rehabilitation, deficit, plan, provisionen, phasen, oleg, privatfinanzen]
-sources: ["raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md"]
+tags: [finanzen, rehabilitation, schulden, deficit, phasen, provision, finanzielle-rehabilitation, oleg]
+sources: ["raw/Privat/MOC/Finanz-Home.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Three-phase financial rehabilitation plan for Oleg — target is complete financial rehabilitation from a structural deficit of −7,970 €/year with zero savings and Dispo overdraft; July provision allocation defined
+summary: Oleg's three-phase financial rehabilitation plan — the structured framework for eliminating the structural annual deficit (-7,970 €), clearing the overdraft (-1,405 €), and reaching financial stability; April commission (~4,611 € net) is the first major allocation event
 ---
 
-# Rehabilitation Plan
+# Rehabilitation Plan (Finanzielle Rehabilitation)
 
 ## Overview
 
-The **Rehabilitation Plan** is [[Oleg Personal Context|Oleg]]'s structured framework for achieving **vollständige finanzielle Rehabilitation** (complete financial rehabilitation) from a starting position of:
-- −1.405 € Kontostand (Dispo)
-- 1,10 € savings
-- −7.970 € structural annual deficit
-- ~8.000 €/year company burden
-- Zero investments or depot
+The **Rehabilitation Plan** is [[Oleg Personal Context|Oleg]]'s structured **three-phase framework** for achieving **Finanzielle Rehabilitation** — the process of moving from the current critical financial position to stability and ultimately [[Financial Independence]].
 
-> For the full financial context, see [[Oleg Financial Situation]] and [[Finanz-Übersicht Source Detail]].
+The plan is referenced throughout the finance domain as the **allocation target** for provisions and any surplus income.
 
-## Structure
+> ⚠️ **Stub page:** The full three-phase content of this plan has not yet been ingested from a dedicated source document. This page captures what is known from cross-references in other documents. See `raw/Privat/Finanzen/Rehabilitation Plan.md` for the source (not yet ingested).
 
-The plan is described as having **three phases** (Phasen). Detailed phase content is referenced in [[Master Prompt – Gesamtanalyse]] and the plan document itself. What is documented in the source overview:
+---
 
-### Phase 2 — Provisionsallokation (July Commission)
+## Current Financial Position (Starting Point)
 
-The July quarterly provision (~4.611 € net) is to be allocated in strict priority order:
+As of 2026-06-13, per [[Oleg Command Center]]:
 
-| Priorität | Maßnahme |
+| Metrik | Wert | Status |
+|---|---|---|
+| Strukturelles Jahresdefizit | −7.970 € | 🔴 |
+| Unternehmensbelastung/Jahr | ~−8.000 € | 🔴 |
+| Kontostand | −1.405 € (Dispo) | 🔴 |
+| Ersparnisse | 1,10 € | 🔴 |
+| Netto-Monatsgehalt | 3.638,82 € | — |
+
+**Total annual gap (salary vs. obligations):** ~−15,970 € before provisions.
+
+---
+
+## Three-Phase Structure
+
+The plan is described as operating in **3 Phasen** (3 phases). Full phase content is pending ingestion of the source document. Based on cross-references:
+
+### What Is Known
+
+| Phase | Likely Focus | Evidence |
+|---|---|---|
+| Phase 1 | Immediate stabilization — clear overdraft, stop bleeding | Overdraft (-1,405 €) is the most urgent item |
+| Phase 2 | Structural deficit elimination — reduce fixed costs, optimize business burden | [[Fixkosten Übersicht]] optimization tasks |
+| Phase 3 | Build reserves / transition to growth | Implied by [[Financial Independence]] as ultimate goal |
+
+> ⚠️ **Assumption [A]:** The phase structure above is inferred from the financial context. The actual phase definitions may differ from this inference. Ingestion of `raw/Privat/Finanzen/Rehabilitation Plan.md` required to confirm.
+
+---
+
+## Commission Allocation
+
+The **April-Provision (~4,611 € netto)** is explicitly directed to the Rehabilitation Plan per [[Finanz-Home Dashboard Source Detail]]:
+
+> *"April-Provision: ~4,611 € netto — Allokation nach Rehabilitation Plan"*
+
+This suggests the plan includes a **priority allocation waterfall** — a predefined rule for how any surplus or provision income is distributed across the rehabilitation objectives (overdraft → deficit reduction → savings buffer).
+
+---
+
+## Role in the Dual-Track System
+
+The Rehabilitation Plan operates as the **financial track** in Oleg's two-track system:
+
+| Track | Framework |
 |---|---|
-| 1 | Accountant-Fee-Rückzahlung |
-| 2 | Dispo-Ausgleich (clear overdraft) |
-| 3 | Notfall-Puffer aufbauen (target: 1 Monatsgehalt) |
-| 4 | Rest: strukturiertes Defizit-Management |
+| Finanzielle Rehabilitation | **Rehabilitation Plan** (this page) |
+| Performance / Körper | [[Health Protocol Master]] + [[Hyrox 10-Week Training]] |
 
-**Mathematical check on July provision:**
-- Dispo: −1.405 €
-- Accountant fee (amount unknown from this source)
-- Target buffer: 1 × 3.638,82 € = ~3.639 €
-- Total required: 5.044 € + Accountant fee → **July provision alone (~4.611 €) is likely insufficient** to complete all four steps
+Both tracks are explicitly **co-equal** — no trade-offs between them.
 
-## Critical Dependencies
-
-1. **Document review** — insolvency risk at [[Wagglz GmbH]] and [[OK Capital UG]] must be assessed before rehabilitation can proceed safely
-2. **Steuerberater engagement** — tax situation clarification (Verlustvorträge, Steuererklärungen)
-3. **Company decision** — whether to continue, restructure, or dissolve each entity
-
-## Relationship to Strategic Goals
-
-Financial rehabilitation is a **prerequisite** for:
-- [[Café Berlin Partnership Hai]] — requires startup capital currently unavailable
-- [[Cyprus Relocation]] — requires 30.000–35.000 € currently unavailable
-- [[Financial Independence]] — structurally incompatible with current deficit position
+---
 
 ## Related Pages
 
-- [[Oleg Financial Situation]] — current position
-- [[Finanz-Übersicht Source Detail]] — source document
-- [[Wagglz GmbH]] — company risk
-- [[OK Capital UG]] — company risk
-- [[Oleg Personal Context]] — subject
-- [[Financial Independence]] — target state
-- [[Master Prompt – Gesamtanalyse]] — full analysis reference
+- [[Oleg Command Center]] — dashboard where this plan is referenced
+- [[Finanz-Home Dashboard Source Detail]] — source confirming plan reference
+- [[Finanz-Übersicht]] — financial overview (likely contains plan detail)
+- [[Fixkosten Übersicht]] — cost structure being addressed by the plan
+- [[Wagglz GmbH]] — source of Unternehmensbelastung
+- [[OK Capital UG]] — co-business entity
+- [[ESt 2025]] — tax obligations in context
+- [[Financial Independence]] — ultimate goal
+- [[Oleg Personal Context]] — plan owner
+- [[MOC Finanzen]] — parent MOC

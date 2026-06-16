@@ -1,53 +1,78 @@
 ---
 title: Wagglz GmbH
 type: entity
-tags: [finance, unternehmen, gmbh, wagglz, oleg, insolvenz, deficit]
-sources: ["raw/Finanzdaten/ObsidianVault/Finance/OK Capital UG.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: One of Oleg's two corporate entities (GmbH); paired with OK Capital UG in a combined ~8,000 €/Jahr deficit; insolvency check pending; referenced in OK Capital UG source as a sister entity
+tags: [wagglz, gmbh, business, finanzen, geschäftsführer, 2025, 2026, auflösung, §17-estg, oleg-darlehen, kein-umsatz]
+sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
+created: 2026-06-12
+updated: 2026-06-12
+summary: Wagglz GmbH — Oleg's company with no revenue since January 2026; strategic decision required by 2026-07-01: continue (with concept) vs. dissolve (§17 EStG loss); ongoing costs ~120–255 €/month via Oleg-Darlehen
 ---
 
 # Wagglz GmbH
 
 ## Overview
 
-Wagglz GmbH is one of [[Oleg Personal Context|Oleg]]'s two corporate entities (alongside [[OK Capital UG]]). It is mentioned in the OK Capital UG source as the entity to which OK Capital UG is connected.
+**Wagglz GmbH** is a company in which [[Oleg Personal Context|Oleg]] serves (or served) as Geschäftsführer (GF). As of early 2026, the company has had **zero revenue since January 2026** and a strategic decision is required by **2026-07-01**.
 
-> ⚠️ **Stub page** — This entity page was created from a reference in [[OK Capital UG Source Detail]]. A dedicated source document for Wagglz GmbH has not yet been ingested. Details are limited to what appears in the OK Capital UG source.
+## Current Status (as of June 2026)
 
-## Known Facts (from OK Capital UG source)
-
-- **Rechtsform:** GmbH
-- **Gesellschafter/GF:** Oleg Kober
-- **Paired with:** [[OK Capital UG]] for annual accounts (Jahresabschlüsse)
-- **Combined annual cost (both entities):** 5,000 € current / 2,500 € next year
-- **Combined deficit (both entities):** ~8,000 €/Jahr
-- **Returns to private:** None identifiable
-
-## Pending Analysis (Same as OK Capital UG)
-
-- Eigenkapital positiv/negativ?
-- Zahlungsfähigkeit?
-- Insolvenzantragspflicht?
-- Haftungsrisiken GF?
+| Parameter | Status |
+|---|---|
+| Revenue since Jan 2026 | **0 €** — kein Umsatz |
+| Ongoing costs | ~120–255 €/Monat |
+| Cost financing | [[Oleg-Darlehen]] (Oleg personal shareholder loan) |
+| Strategic decision deadline | **2026-07-01** |
 
 ## Strategic Options
 
-1. Liquidation
-2. Dormancy
-3. Verschmelzung mit OK Capital UG (merger)
-4. Weiterführung
+### Option A: Weiterführen (Continue)
+- Requires: concrete Konzept / business plan
+- Ongoing costs continue to accrue via Oleg-Darlehen
+- Risk: further cash drain without revenue
+- Potential: if concept can be revived
 
-## Relationship to Broader Entity Structure
+### Option B: Auflösung (Dissolution)
+- Tax advantage: **§17 EStG Verlust** — loss from GmbH share disposal is tax-deductible against other capital income
+- Stops ongoing monthly costs (~120–255 €/Monat)
+- Requires: formal liquidation process
+- See §17 EStG note below
 
-See [[Oleg Business Entity Structure]] for the full picture. Note the existing wiki references an active GmbH and a dormant UG — Wagglz GmbH may be the active GmbH referenced there, though this has not been confirmed.
+## §17 EStG — Tax Loss Harvesting on Dissolution
+
+If Wagglz GmbH is dissolved:
+- §17 EStG allows Oleg to recognize the **loss on his GmbH stake** as a taxable loss
+- This loss can be offset against **capital gains and investment income** in the same or future tax years
+- The loss amount = invested capital + shareholder loans not repaid ([[Oleg-Darlehen]] balance)
+- This is a meaningful tax consideration — [[SP STB]] should model the benefit
+
+> ⚠️ **Assumption [A]:** The exact §17 EStG loss amount depends on Oleg's original capital contribution and the total Oleg-Darlehen balance — neither is available in current sources.
+
+## Oleg-Darlehen
+
+The [[Oleg-Darlehen]] is a shareholder loan from Oleg personally to Wagglz GmbH, currently financing ongoing operations:
+- Monthly cost range: **~120–255 €/Monat**
+- This loan balance would be part of the §17 EStG loss calculation upon dissolution
+- The wide range (120–255 €) suggests variable monthly costs (e.g., accounting, hosting, insurance)
+
+## Historical Income Reference
+
+See [[Wagglz GF-Gehalt 2025 Source Detail]] for the 2025 GF salary data. Oleg received a Geschäftsführer salary from Wagglz in 2025, which is:
+- Required for [[ESt 2025]] (Lohnsteuerbescheinigung 2025 — currently not yet available)
+- Subject to [[ALG I Progressionsvorbehalt]] interaction
+
+## Lohnsteuerbescheinigung 2025 Status
+
+> ⚠️ **Blocker for ESt 2025:** The Wagglz Lohnsteuerbescheinigung 2025 is **not yet available** as of 2026-06-12. Oleg must request it from [[SP STB]] or Wagglz payroll.
 
 ## Related Pages
 
-- [[OK Capital UG]] — sister entity, co-documented
-- [[OK Capital UG Source Detail]] — source where Wagglz is referenced
+- [[P1 Diese Woche Source Detail]] — task source
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — 2025 salary detail
+- [[ESt 2025]] — tax filing requiring Lohnsteuerbescheinigung
+- [[ALG I 2025]] — co-income source in 2025
+- [[ALG I Progressionsvorbehalt]] — tax mechanism
+- [[Oleg-Darlehen]] — shareholder loan financing Wagglz costs
+- [[SP STB]] — Steuerberater
 - [[Oleg Business Entity Structure]] — broader entity context
-- [[Master Prompt Gesamtanalyse]] — analysis framework
-- [[Oleg Personal Context]] — entity owner
-- [[Financial Independence]] — strategic context
+- [[MOC Finanzen]] — parent finance MOC
+- [[Oleg Personal Context]] — GF and shareholder

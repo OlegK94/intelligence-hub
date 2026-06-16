@@ -1,91 +1,63 @@
 ---
 title: Cyprus Relocation
 type: entity
-tags: [relocation, cyprus, zypern, tax, expat, location-freedom, financial-independence, project, blockiert, EOR, steuerberater]
-sources: ["raw/00-MOC/🏠 Home.md", "raw/01-Strategie-Business/Cyprus Relocation.md"]
+tags: [cyprus, relocation, someday, auswandern, steuer, portugal, expat, finanzen, paused]
+sources: ["raw/inbox/Cyprus Relocation Tracker.md"]
 created: 2026-06-13
-updated: 2026-06-14
-summary: Oleg's strategic goal to relocate to Cyprus for location freedom and favorable tax environment — 50% income tax exemption for new residents; currently blocked by EOR and tax advisor questions; realistic timeline 2027
+updated: 2026-06-13
+summary: Someday/paused relocation plan — Oleg considering Cyprus over Portugal for tax reasons (50% exemption for new residents); budget ~4,100 €/month for couple + dog, startup capital 30,000–35,000 €; not an active project, revisit in a few years
 ---
 
 # Cyprus Relocation
 
 ## Overview
 
-Cyprus Relocation is [[Oleg Personal Context|Oleg]]'s strategic goal to move to Cyprus, enabling location freedom and significant tax optimization as part of his [[Financial Independence]] journey. As of June 2026, this project is **blocked** (Priority 3) pending resolution of two gate items.
+**Cyprus Relocation** is a paused, someday-bucket relocation plan for [[Oleg Personal Context|Oleg]]. It is **not an active project** as of June 2026 — the file exists as a reference and requires no active tracking.
 
-## Project Status
+> **Status: Paused.** Oleg plans to revisit relocation in a few years. No active tracking needed.
 
-- **Status:** 🔴 Blockiert — 2 Gate-Items offen
-- **Priority:** 3 of 6 active priorities
-- **Realistic Timeline:** Frühestens 2027 (earliest 2027)
+## Why Cyprus (Over Portugal)
 
-## Country Decision
+Cyprus was favored over Portugal as a relocation destination primarily due to tax advantages:
 
-**Ranking: Zypern > Portugal > Griechenland > Italien**
+- **50% Steuer-Exemption** for new residents (Non-Dom status) — significantly more favorable than Portugal's NHR regime
+- Portugal's NHR scheme has been modified/discontinued in its original form, reducing its attractiveness
 
-| Kriterium | Zypern | Portugal (IFICI) |
-|---|---|---|
-| Einkommenssteuer-Exemption | 50% für Neuankömmlinge | ❌ Sales-Berufe explizit ausgeschlossen |
-| Mindestgehalt für Exemption | ~55.000 € | — |
-| Anwendbar auf Sales-Rolle | ✅ | ❌ |
-| Lebenshaltungskosten | Moderat | Stark gestiegen (Lissabon) |
+## Budget Parameters
 
-Portugal's IFICI was rejected because sales professions are **explicitly excluded** from the tax exemption. See [[Cyprus Tax Regime]] for full tax framework.
-
-## Financial Case
-
-### Cost Structure (2026)
-- **Monthly budget (couple + dog):** ~4,100 €
-- **Share of combined net income:** ~30% under Cyprus regime
-- **Result:** Substantial annual surplus for investment / Immobilie
-
-### Startup Capital
-- **Required:** 30,000–35,000 € for comfortable relocation
-
-## Gate-Items (Both Must Be Resolved Before Move)
-
-### Gate 1: EOR — DoktorLib
-- [ ] Klärung mit [[DoktorLib]]: Remote aus Zypern möglich?
-- [ ] Falls nein: EOR-Lösung (Deel, Remote.com) — wer trägt Kosten?
-- [ ] Arbeitsrechtliche Konsequenzen prüfen
-
-### Gate 2: EOR — Partnerin (PM, Kosmetik)
-- [ ] Gleiche Klärung für Arbeitgeber der Partnerin
-- [ ] ⚠️ Kosmetikbranche: Remote-Kultur tendenziell geringer → Risikofaktor
-
-### Gate 3: Deutsch-Zypriotischer Steuerberater
-- [ ] Kontakt herstellen (via Expat-Communities)
-- [ ] Themen: Exit-Besteuerung DE, Doppelbesteuerungsabkommen DE-CY, 50%-Exemption Antrag
-
-## Lifestyle Fit (Validated)
-
-| Category | Assessment |
+| Parameter | Richtwert |
 |---|---|
-| Sport | CrossFit/Gym in Limassol/Nikosia verfügbar |
-| Outdoor | Meer, Troodos-Gebirge, ganzjährig warm |
-| Hund (>20 kg) | Grundsätzlich hundefreundlich; EU-Heimtierausweis erforderlich |
-| Kinder | Noch kein Plan, gute Infrastruktur vorhanden |
+| Lebenshaltungskosten | ~4.100 €/Monat (Paar + Hund) |
+| Startkapital | 30.000–35.000 € |
 
-## Assumption [A] — Physical Presence
+These are rough reference figures from the initial planning phase — not validated against current Cyprus costs.
 
-> *Annahme [A]: 50%-Exemption setzt mindestens 60 Tage physische Präsenz auf Zypern voraus — Steuerberater bestätigen lassen.*
+## When It Becomes Relevant Again
 
-If confirmed, this creates a **constraint on Berlin time** — potentially in tension with [[Café Berlin Partnership Hai]] Phase 1 requirements.
+When relocation is revisited:
+- **EOR (Employer of Record)** arrangements to review — needed if maintaining employment while abroad
+- **Steuerberater** consultation — Cyprus tax residency, German exit taxation
+- **Timeline** — re-evaluate life circumstances and business situation
+- Either reactivate this file or create a new tracker
 
 ## Strategic Tensions
 
-> **Tension with [[Café Berlin Partnership Hai]]:** Priority 1 is a Berlin-based physical business requiring Oleg's presence in Phase 1. Priority 3 is leaving Berlin. The 2027 timeline for Cyprus partially resolves this (café Phase 1 may be complete by then), but the 60-day physical presence requirement and ongoing café management role create ongoing friction. **Not resolved in source documents.**
+This plan is in **direct tension** with [[Café Berlin Partnership Hai]], which is Priority 1 as of June 2026 and requires Oleg's physical presence in Berlin during Phase 1 build-out. The café venture is a multi-year commitment that effectively defers relocation further.
 
-> **Tension with [[Oleg Business Entity Structure]]:** Active GmbH in Germany + Cyprus residency requires careful tax structuring (Wegzugsteuer, permanent establishment risk). This is among the reasons the Steuerberater gate item exists.
+See also the tension flagged in [[Café Berlin Partnership Hai]] entity page:
+> *"Priority 1 is a Berlin-based physical business; Priority 3 is leaving Berlin. These goals are currently in tension."*
+
+## Context in Oleg's Strategy
+
+- Listed in the paused/someday bucket — not in the active priority stack
+- Prior to the café venture, this had more immediacy; now de-prioritized further
+- The 50% tax exemption is a meaningful financial lever for [[Financial Independence]] goals — relevant when business income scales
 
 ## Related Pages
 
-- [[Cyprus Relocation Detail]] — full source document with complete analysis
-- [[Cyprus Tax Regime]] — tax framework concept
-- [[Oleg Personal Context]] — decision maker
-- [[Financial Independence]] — overarching goal
-- [[DoktorLib]] — employer whose EOR policy is gate item
-- [[Café Berlin Partnership Hai]] — strategic tension (Berlin vs. Cyprus)
-- [[Oleg Business Entity Structure]] — GmbH implications
-- [[MOC Strategie und Business]] — strategic MOC
+- [[Oleg Personal Context]] — subject of the relocation
+- [[Café Berlin Partnership Hai]] — Priority 1 project creating strategic tension
+- [[Financial Independence]] — underlying motivation for tax-efficient relocation
+- [[MOC Strategie und Business]] — strategic overview
+- [[MOC Finanzen]] — financial planning context
+- [[Cyprus Relocation Tracker Source Detail]] — raw source document

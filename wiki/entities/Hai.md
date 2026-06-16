@@ -1,55 +1,79 @@
 ---
 title: Hai
 type: entity
-tags: [person, business-partner, café, berlin, co-founder, operatives, küche]
-sources: ["raw/00-MOC/🏠 Home.md", "raw/00-MOC/MOC Strategie & Business.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
-created: 2026-06-13
-updated: 2026-06-14
-summary: Oleg's business partner and co-founder of the planned Café Berlin venture; responsible for operations, concept, kitchen logic, and supplier relationships
+tags: [person, co-founder, partner, performance-cafe, café-berlin, berlin, 50-50, vesting]
+sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md", "raw/Business/PerformanceCafe/hai-onepager.md"]
+created: 2026-06-15
+updated: 2026-06-15
+summary: Hai is Oleg's business partner in two parallel ventures — the Performance Coffee Brand (50/50, Berlin) and the Café Berlin partnership; brings capital, product/market expertise, production/distribution network, and operational capacity to both ventures
 ---
 
 # Hai
 
 ## Overview
 
-Hai is [[Oleg Personal Context|Oleg]]'s business partner and co-founder of the planned [[Café Berlin Partnership Hai]] café venture in Berlin.
+**Hai** is [[Oleg Personal Context|Oleg Kober]]'s business partner in Berlin. As of June 2026, Hai is co-founder in **two parallel ventures** with Oleg:
 
-## Known Information
+1. **[[Performance Coffee Brand]]** — functional coffee/longevity product brand (50/50)
+2. **[[Café Berlin Partnership Hai]]** — Berlin café co-founding venture (Priority 1)
 
-- **Role:** Café Co-Founder
-- **Relationship to Oleg:** Business partner
-- **Shared Project:** [[Café Berlin Partnership Hai]] — Priority 1 for Oleg as of June 2026
-- **Planning Session:** 14.06.2026 kickoff with Oleg
+## Confirmed Contributions (Performance Coffee Brand, 2026-06-15)
 
-## Proposed Responsibilities
-
-Per the planning document (see [[Café Berlin Partnership Hai — Planning Detail]]):
-
-| Area | Detail |
+| Beitrag | Detail |
 |---|---|
-| Operatives | Day-to-day operational management |
-| Konzept | Café concept development |
-| Küchenlogik | Kitchen design and food logic |
-| Lieferanten | Supplier relationships |
+| **Kapital** | Co-financing from UG founding |
+| **Wissen** | Product/market expertise |
+| **Netzwerk** | Contacts for production, distribution, investors |
+| **Operative Rolle** | Active day-to-day involvement |
 
-This contrasts with Oleg's role (Strategie, Finance, Verhandlung, B2B-Netzwerk), indicating a **complementary skill split**.
+The 50/50 split is confirmed as fair based on these equal-weight contributions.
 
-## Unknown / To Be Documented
+## Role in Performance Coffee Brand
 
-- Full name (only first name "Hai" is documented)
-- Professional background (culinary, hospitality, or other?)
-- Capital contribution to the venture
-- Prior business relationship history with Oleg
-- Whether Hai serves as Geschäftsführer (GF) in Phase 1
+### Operational Lead Areas
+- **Operations & Produktion** — Lead
+- **Produkt & Rezeptur** — Support (Oleg leads)
+- **Vertrieb & Marketing** — Support (Oleg leads)
+- **Regulatorik** — Shared
 
-## Context Note
+### Legal / Equity Terms
+- **Share:** 50% of Performance Coffee Brand UG/GmbH
+- **Vesting:** 4-year vesting with 1-year cliff (recommended, not yet formalized)
+- **Deadlock:** Mediation (60 days) → Buy-Sell clause if unresolved
 
-Oleg previously analyzed a **solo café venture** (see [[Café Berlin Solo Analyse]]) which was rejected. The partnership with Hai represents the adopted path forward — Hai's operational and culinary capabilities appear to be the core reason the partnership model is viable where the solo model was not.
+## Role in Café Berlin Partnership
+
+From [[Café Berlin Partnership Hai — Planning Detail]]:
+- **Operatives, Konzept, Küchenlogik, Lieferanten** — operational lead
+- Oleg leads Strategie, Finance, Verhandlung
+- Planning session held 2026-06-14
+
+## Background
+
+Hai's specific professional background (nationality, prior work history) is not documented in available sources. The source documents confirm:
+- Based in Berlin (or accessible for Berlin ventures)
+- Has relevant expertise for both café operations and functional food/beverage markets
+- Has a network spanning production, distribution, and investors
+- Has capital to co-invest
+
+> ⚠️ **Gap:** Hai's full background and capital commitment are listed as "Offene Fragen" in the Café Berlin planning document. This detail is expected to be filled in post-planning session (2026-06-14).
+
+## Parallel Partnership Note
+
+Hai is involved in two simultaneous ventures with Oleg. This creates:
+- **Concentration risk** — two major ventures dependent on the same partnership
+- **Role clarity need** — the role splits across both ventures must be clearly defined
+- **Vesting alignment** — both ventures should have vesting clauses to protect both parties
+
+The source documents do not address whether these are meant to be complementary or separate business tracks.
 
 ## Related Pages
 
-- [[Café Berlin Partnership Hai]] — shared venture
-- [[Café Berlin Partnership Hai — Planning Detail]] — detailed planning source
-- [[Oleg Personal Context]] — business partner context
-- [[MOC Strategie und Business]] — strategic context
-- [[Café Berlin Solo Analyse]] — rejected predecessor analysis
+- [[Performance Coffee Brand]] — primary venture
+- [[Performance Coffee Brand Legal and Entity Structure]] — legal structure for coffee brand
+- [[Performance Coffee Brand Entity Structure Source Detail]] — source document
+- [[Café Berlin Partnership Hai]] — café venture
+- [[Café Berlin Partnership Hai — Planning Detail]] — café planning source
+- [[Oleg Personal Context]] — co-founder
+- [[OK Capital]] — Oleg's holding that sits above Performance Coffee Brand
+- [[Oleg Business Entity Structure]] — entity context
