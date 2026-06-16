@@ -1,71 +1,76 @@
 ---
 title: Forward Head Posture
 type: concept
-tags: [posture, corrective-exercise, neck, biomechanics, health, assessment]
-sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md", "Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
+tags: [posture, corrective-exercise, neck, breathing, performance, hyrox, scan, forward-head]
+sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Performance/_vault/Körper & Scan.md", "02-Performance-Leben/Health Protocol — Master.md", "Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
 created: 2026-06-06
-updated: 2026-06-06
-summary: Forward Head Posture (FHP) — anterior displacement of the head relative to the shoulders; Oleg's baseline = 30° deviation; corrective protocol includes neck stretching and face pulls
+updated: 2026-06-13
+summary: Forward head posture (30° deviation) identified in Oleg's May 2026 scan — directly impairs breathing efficiency via diaphragm compression; corrected via daily posture protocol including neck training and face pulls
 ---
 
 # Forward Head Posture
 
 ## Overview
 
-**Forward Head Posture (FHP)** is a postural condition in which the head is displaced anteriorly (forward) relative to the shoulders and cervical spine's neutral position. It is one of the most common postural deviations, often caused by prolonged desk work, screen time, and sedentary lifestyles.
+**Forward Head Posture (FHP)** is a postural deviation where the head is displaced anteriorly relative to the neutral spine position. It is one of the most common postural dysfunctions in the modern sedentary population, driven by screen use, desk work, and chronic anterior chain dominance.
 
-## Measurement
+## Oleg's Finding
 
-FHP is typically assessed as a **degree of deviation** from neutral:
-- **0°:** Ideal neutral head position
-- **<15°:** Mild deviation
-- **15–30°:** Moderate deviation
-- **>30°:** Severe deviation
+- **Measured deviation:** ~30°
+- **Identified by:** [[3D Body Scan Scaneca Mai 2026]] (Scaneca / Labor Berlin, 29.05.2026)
+- **Classification:** Ausgeprägte Kopfvorneigung (pronounced forward head position)
 
-## Oleg's Assessment (May 2026)
+## Mechanism: Impact on Breathing
 
-- **Finding:** 30° Forward Head Posture
-- **Source:** [[3D Body Scan Scaneca Mai 2026]]
-- **Classification:** Upper boundary of moderate / entering severe range
-- **Assessment:** Korrekturbedarf (correction required)
+The vault-level structural findings ([[Körper und Body Composition Scan Source Detail]]) add critical context not previously captured:
 
-## Consequences of Untreated FHP
+> *Forward Head Position → Zwerchfellkompression → verringerte Lungenkapazität*
 
-- Increased compressive load on cervical spine (each inch forward adds ~10 lbs effective load)
-- Upper trapezius overactivation and chronic tension
-- Reduced thoracic mobility
-- Shoulder internal rotation compensation
-- Headaches and cervicogenic neck pain
-- Long-term degenerative changes to cervical discs
+Mechanism:
+1. **Anterior head displacement** compresses the anterior neck muscles and cervical fasciae
+2. **Thoracic kyphosis** (usually co-occurring) rounds the upper back, compressing the thoracic cage
+3. **Diaphragm compression:** The compressed thoracic cage restricts full diaphragmatic excursion
+4. **Reduced lung capacity:** Less tidal volume per breath → reduced oxygen delivery during training
+5. **Performance impact:** Directly limits aerobic capacity and exercise tolerance
 
-## Corrective Protocol (from [[Health Protocol Master]])
+This is particularly relevant for [[Hyrox Competition]] performance, where breathing efficiency under load is critical.
 
-| Intervention | Detail |
-|---|---|
-| Deep neck stretching | Daily — targets Levator Scapulae, SCM (Sternocleidomastoid) |
-| Face pulls | 3×15 — integrated into upper body training sessions |
-| Monitor position | Monitor at eye level for desk work |
+**Intervention value:** *Correcting FHP = direct capacity increase* — not just aesthetic or comfort improvement.
 
-### Jeff Cavaliere's Neck Protocol
-From [[Build Muscle Great Posture and Resilience to Injury Jeff Cavaliere]]:
-- **4-directional neck work** with plate and towel
-- Very light weight, slow controlled movements
-- Benefits: posture improvement, injury prevention, aesthetic proportion
-- Frequency: 3x per week, 5–7 minutes
+## Correction Protocol
 
-## Causes
+### Daily Posture Protocol (from [[Health Protocol Master]])
 
-- Prolonged computer/desk work
-- Smartphone use ("text neck")
-- Driving posture
-- Weak deep neck flexors
-- Tight posterior cervical muscles and Levator Scapulae
+- **Face pulls:** External rotation and retraction of the shoulder girdle — counteracts anterior chain dominance
+- **Neck stretching:** Cervical flexion/extension and lateral stretches — restores cervical mobility
+- **Chin tucks:** Cervical retraction drill — resets deep cervical flexor activation
+
+### Neck Training (from [[Jeff Cavaliere]] / [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
+
+- **4-direction plate-and-towel series:** On bench, 4 directions (supine, prone, each lateral)
+- **Rationale:** Strong neck → better default cervical alignment → supports correction
+- **Frequency:** 3×/week as dedicated small-muscle session
+
+### Structural Considerations
+
+- Bilateral asymmetry (rightward CoG shift) noted in the same scan — may be causally related to FHP (compensatory pattern). See [[Corrective Exercise]].
+- Strong [[Glute Medius]] and posterior chain training supports global postural improvement
+
+## Progress Tracking
+
+- **Baseline:** 30° at [[3D Body Scan Scaneca Mai 2026]] (29.05.2026)
+- **Follow-up:** [[3D Body Scan Scaneca Mai 2026#Target Values]] — reassess at 12-week scan
+- **Subjective markers:** Reduced neck tension, improved breathing depth, reduced forward head appearance
 
 ## Related Pages
 
-- [[3D Body Scan Scaneca Mai 2026]] — assessment source
-- [[Corrective Exercise]] — correction methodology
+- [[3D Body Scan Scaneca Mai 2026]] — measurement event
+- [[Körper und Body Composition Scan Source Detail]] — structural findings source
+- [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]] — neck training protocol source
 - [[Health Protocol Master]] — correction protocol
-- [[Jeff Cavaliere]] — neck training expertise
-- [[Build Muscle Great Posture and Resilience to Injury Jeff Cavaliere]] — detailed protocol source
-- [[Oleg Personal Context]] — subject with 30° FHP
+- [[Jeff Cavaliere]] — expert source
+- [[Corrective Exercise]] — broader corrective framework
+- [[Glute Medius]] — related structural deficit
+- [[Hyrox Competition]] — performance context
+- [[Neck Training]] — specific protocol
+- [[Oleg Personal Context]] — subject

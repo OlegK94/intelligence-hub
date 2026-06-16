@@ -1,55 +1,51 @@
 ---
 title: OK Capital UG
 type: entity
-tags: [business, entity, ok-capital, ug, finanzen, konto, finom, dormant]
-sources: ["raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md"]
-created: 2026-06-12
-updated: 2026-06-12
-summary: OK Capital UG — Oleg's UG (Unternehmergesellschaft) business entity; Finom bank account shows 0,00 € saldo as of June 2026 with recurring costs of 31,60 €/Mo (WestX + Google) and a 100 € Oleg-Darlehen from March 2026
+tags: [unternehmen, ug, ok-capital, ruhend, jahresabschluss, finanzen, wagglz, finom, insolvenzrisiko]
+sources: ["raw/inbox/2026-06 Finance Monthly.md"]
+created: 2026-06-13
+updated: 2026-06-13
+summary: OK Capital UG — Oleg's dormant (ruhend) company; Jahresabschluss currently due at 5,000 €; Finom account balance unknown as of June 2026; insolvency risk flagged requiring document review
 ---
 
 # OK Capital UG
 
 ## Overview
 
-**OK Capital UG** is one of [[Oleg Personal Context|Oleg]]'s business entities. The UG (Unternehmergesellschaft — a German limited liability mini-company) holds a **Finom** business bank account, as documented in [[OK Capital Finom 2026]].
+**OK Capital UG** is [[Oleg Personal Context|Oleg]]'s **dormant (ruhend) UG** (Unternehmergesellschaft haftungsbeschränkt — the German "mini-GmbH"). It is the formally dormant entity in Oleg's business structure (contrast: [[Wagglz GmbH]] is the active entity).
 
-> ⚠️ **Assumption [A]:** Based on the source path (`Business/OK-Capital/`) and the UG designation, this is likely the dormant UG referenced in [[Oleg Business Entity Structure]], where the GmbH is the active entity and the UG is dormant. This must be confirmed against additional source documents.
+> This entity page is newly created from [[Finance Monthly 2026-06 Source Detail]]. Earlier wiki references to "OK Capital" (e.g., in [[Allianz Insurance Consolidation Detail]]) now link here.
 
-## Finom Account Status (June 2026)
+## Status
 
-| Metric | Wert |
+| Parameter | Stand |
 |---|---|
-| Saldo Jun 2026 | **0,00 €** |
-| Laufende Kosten | 31,60 €/Mo (WestX 23,50 + Google 8,10) |
-| Oleg Darlehen | 100 € (01.03.2026) |
+| **Betrieb** | Ruhend (dormant) |
+| **Jahresabschluss** | 5.000 € — aktuell fällig |
+| **Finom-Konto** | TODO (Balance not confirmed for June 2026) |
 
-## Key Observations
+## Financial Obligations
 
-- **Zero balance** despite active recurring costs — implies the account is being drawn down or freshly zeroed
-- **31,60 €/Mo in recurring costs** continue to accrue: WestX (23,50 €) and Google (8,10 €)
-- **Oleg Darlehen 100 €** dated 01.03.2026 — a small intra-entity or personal loan, terms unspecified
+- **Jahresabschluss-Kosten: 5.000 €** — currently due. Even dormant companies must file annual accounts in Germany.
+- Finom account balance unknown — must be confirmed from Finom dashboard.
 
-## Relationship to GmbH
+## Insolvency Risk
 
-Based on [[Oleg Business Entity Structure]] (existing wiki knowledge):
-- Oleg operates a **GmbH** (active Betriebsgesellschaft) and a **UG** (formally dormant)
-- The OK Capital UG is most likely the **dormant UG entity**
-- The Café Berlin Planning Detail source refers to a GmbH as Oleg's existing active entity
+The [[Finance Monthly 2026-06 Source Detail]] explicitly flags **Insolvenzrisiko** for both Wagglz and OK Capital, with a note to **prüfen (review) documents**. For a UG:
+- If the UG has liabilities exceeding assets (Überschuldung), the GF must assess insolvency
+- The **§ 15a InsO 21-Tage-Antragspflicht** (filing obligation within 21 days of insolvency) applies
+- Failure to file is Insolvenzverschleppung (a criminal offense)
 
-> ⚠️ **Contradiction risk:** If OK Capital UG is the formally dormant entity but is incurring 31,60 €/Mo in active costs (WestX, Google), it may be more accurately described as **operationally minimal but not fully dormant**. The zero saldo combined with ongoing costs suggests it is either being wound down or maintained at minimal cost.
+## Relationship to Oleg's Business Structure
 
-## Open Questions
-
-- What is WestX? (Likely a software/hosting subscription — not specified)
-- What are the Google costs? (Google Workspace / Google Ads — not specified)
-- Is the Oleg Darlehen a loan from Oleg to the UG, or vice versa?
-- Is OK Capital UG the same entity as the "ruhende UG" referenced in [[Café Berlin Partnership Hai — Planning Detail]]?
+See [[Oleg Business Entity Structure]] for the full picture. The UG is dormant while the GmbH (Wagglz) has been the active operating vehicle.
 
 ## Related Pages
 
-- [[OK Capital Finom 2026]] — source document (account detail)
-- [[Oleg Personal Context]] — entity owner
-- [[Oleg Business Entity Structure]] — full entity structure context
-- [[Café Berlin Partnership Hai]] — strategic context where UG/GmbH distinction matters
-- [[Financial Independence]] — overarching goal context
+- [[Finance Monthly 2026-06 Source Detail]] — source
+- [[Finanzübersicht 2026]] — financial overview (10.000 € combined Jahresabschluss)
+- [[Wagglz GmbH]] — the active GmbH entity
+- [[Oleg Business Entity Structure]] — entity structure
+- [[SP STB]] — Steuerberater (may handle Jahresabschluss)
+- [[MOC Finanzen]] — parent finance MOC
+- [[Oleg Personal Context]] — GF and shareholder
