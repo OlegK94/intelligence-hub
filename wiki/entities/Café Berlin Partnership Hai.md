@@ -1,14 +1,26 @@
 ---
 title: Café Berlin Partnership Hai
 type: entity
-tags: [business, partnership, café, berlin, venture, project, friedrichshain, prenzlauer-berg, co-founder, hai]
-sources: ["raw/00-MOC/🏠 Home.md", "raw/00-MOC/MOC Strategie & Business.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
+tags: [business, partnership, café, berlin, venture, project, friedrichshain, prenzlauer-berg, co-founder, hai, archiviert]
+sources: ["raw/Business/Cafe/Café Berlin — Partnership Hai.md", "raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-13
-updated: 2026-06-14
-summary: Business venture — Oleg co-founding a café in Berlin with partner Hai; Priority 1 as of June 2026, in planning phase with detailed kickoff agenda for 14.06.2026
+updated: 2026-06-16
+summary: "ARCHIVIERT: Ursprüngliches physisches Café-Konzept mit Hai (GROVE) — ersetzt durch Performance Coffee Brand (Instant-Sachet, skalierbar). GROVE-Businessplan als Referenz behalten."
 ---
 
-# Café Berlin Partnership Hai
+# Café Berlin Partnership Hai (GROVE → Performance Coffee Brand)
+
+## Status-Update 2026-06-16
+
+> ⚠️ **Pivot vollzogen.** Das ursprüngliche physische Café-Konzept (GROVE) wurde durch das **[[Performance Coffee Brand]]** ersetzt. Gleiche Partner (Oleg + [[Hai]]), anderes Produkt: Instant-Kaffee-Sachet statt Café-Standort.
+>
+> Grund: Performance Coffee Brand ist skalierbarer, kein physischer Standort nötig, höhere Margins, bessere FI-Kompatibilität.
+>
+> GROVE-Businessplan (`raw/Business/Cafe/cafe_masterplan_2026.md`) bleibt als Referenz im Vault — nicht gelöscht.
+
+---
+
+# GROVE — Ursprüngliches Café-Konzept (Archiv)
 
 ## Overview
 

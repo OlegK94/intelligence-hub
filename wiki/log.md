@@ -441,3 +441,8 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
   - [[Inbox 2026-06-13 Source Detail]] — Leere Inbox-Placeholder-Datei
 - Aktualisiert: wiki/index.md (Sections erweitert: Health, Finance, Business, Relocation, Inbox)
 - Notizen: Einige Seiten decken Dateien ab die unter neuem Vault-Pfad leben, während ältere wiki sources noch auf alte Pfade verweisen (01-Strategie-Business/ etc.)
+
+## [2026-06-16 12:20] update | GROVE → Performance Coffee Brand pivot dokumentiert
+- Updated: [[Café Berlin Partnership Hai]] — Status-Update: physisches Café-Konzept GROVE ersetzt durch Performance Coffee Brand
+- Updated: [[Performance Coffee Brand]] — GROVE-Pivot-Kontext ergänzt
+- Notes: GROVE-Businessplan (cafe_masterplan_2026.md) bleibt als Referenz erhalten, ist aber archiviert
