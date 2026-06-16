@@ -138,6 +138,39 @@ launchctl unload "$WEEKLY_PLIST" 2>/dev/null || true
 launchctl load "$WEEKLY_PLIST"
 echo "✅ Weekly Research Watcher geladen (Montag 07:00)"
 
+# ── 8. Raw-Folder Watcher — auto git+ingest bei neuen Dateien ─────────────────
+RAW_PLIST="$LAUNCH_AGENTS/com.user.rawwatcher.plist"
+
+cat > "$RAW_PLIST" << PLIST
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.en.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.rawwatcher</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>$VAULT/scripts/raw-watcher.sh</string>
+    </array>
+    <key>WatchPaths</key>
+    <array>
+        <string>$VAULT/raw</string>
+    </array>
+    <key>RunAtLoad</key>
+    <false/>
+    <key>StandardOutPath</key>
+    <string>$VAULT/outputs/notes/rawwatcher_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>$VAULT/outputs/notes/rawwatcher_stderr.log</string>
+</dict>
+</plist>
+PLIST
+
+launchctl unload "$RAW_PLIST" 2>/dev/null || true
+launchctl load "$RAW_PLIST"
+echo "✅ Raw-Folder Watcher geladen (auto git+ingest bei neuen Dateien)"
+
 # ── 8. Claude Code hooks prüfen ───────────────────────────────────────────────
 CLAUDE_SETTINGS="$VAULT/.claude/settings.json"
 if [ -f "$CLAUDE_SETTINGS" ]; then
