@@ -4,8 +4,8 @@ type: entity
 tags: [business, startup, functional-beverage, coffee, longevity, performance, berlin, b2c, instant-coffee, sachets, oleg, performance-cafe]
 sources: ["raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md", "raw/Business/PerformanceCafe/hai-onepager.md", "raw/Business/PerformanceCafe/brand/positioning.md", "raw/Business/PerformanceCafe/ops/certification_roadmap.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
-updated: 2026-06-15
-summary: Oleg's functional beverage startup — Instant-Kaffee-Sachet with Longevity + Performance stack; targeting biohacker and athlete segments; co-founded with Hai; CMO outreach active as of June 2026
+updated: 2026-06-16
+summary: "Oleg + Hai's functional beverage startup — evolved from GROVE café concept (Jun 2026 pivot). Instant-Kaffee-Sachet with Longevity + Performance stack; 50/50 via Wagglz GmbH; CMO outreach ready."
 ---
 
 # Performance Coffee Brand
