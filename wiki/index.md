@@ -80,16 +80,46 @@ Organized by type. One-line summaries. All pages use Obsidian [[wikilinks]].
 - [[Andrew Huberman]] — Channel-level YouTube reference; evidence-based health optimization
 - [[Blutbild Panel Source Detail]] — 24-marker panel source; longevity-optimized ranges; quarterly schedule
 - [[Build Muscle, Great Posture & Resilience to Injury Jeff Cavaliere]] — Huberman Lab episode 2026-05-25; corrective exercise, posture, injury prevention
+- [[Health Protocol Master Source Detail]] — Vollständiges Gesundheitsprotokoll: 6-Tage-Split, 2.800 kcal, Tagesstruktur 05:00–20:30
+- [[MOC Performance und Leben Source Detail]] — Navigation Performance-Bereich: aktive Protokolle, Baseline, Recherchen
+- [[MOC Tech und Setup Source Detail]] — Navigation Tech-Bereich: Proton-Stack, Passwörter, Geräte
 
 ### Finance Sources
 - [[ALG I 2025 Source Detail]] — ALG I facts; ~8,400 € until June 2025; Progressionsvorbehalt and §46 EStG
 - [[ALG I Progressionsvorbehalt Source Detail]] — §32b EStG mechanism; worked 2025 example; ~2,000 € Mehrbelastung
+- [[Finanzielle Gesamtanalyse Oleg Kober 2025-2026]] — Vollständige Finanzanalyse Juni 2026; konsolidierte Vermögensübersicht; 14 Aktionspunkte
+- [[Master Prompt Gesamtfinanzanalyse Source Detail]] — Prompt-Template für integrierte Finanzanalyse; 4 Expertenperspektiven; 6 Deliverables
+- [[Claude Session Finanzen Template]] — Kurzformat-Template für Finance-Sessions; 4 vordefinierte Session-Typen
+- [[Privat Finanz-Übersicht Source Detail]] — Überblick Privatfinanzen; strukturelles Defizit −7.970 €; kritische Unternehmensrisiken
+- [[Wagglz Finom 2026 Source Detail]] — Wagglz Finom-Konto; Saldo 0,00 €; finanziert durch Gesellschafterdarlehen Oleg
 
 ### Business Sources
 - [[Allianz Insurance Consolidation Detail]] — 5-policy consolidation strategy; Risikolebensversicherung excluded; status open
+- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Privates Dokument: 3 neue Policen → 5-Policen-Schwelle; Risikoleben bleibt
 - [[Café Berlin Partnership Hai — Planning Detail]] — Full planning document; capital structure, roles, legal entity, location economics
+- [[Café Berlin Partnership Hai Raw Source]] — Ursprüngliche Kickoff-Agenda für Planning Session 14.06.2026
 - [[CMO Erstkontakt Email Template]] — German CMO outreach templates; 5 candidates; NAC odor masking question
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — Vollständiger GROVE Businessplan; 165.000 € Kapital; Opening Feb 2027; 34 Sektionen
+- [[OK Capital UG Finance Vault Source Detail]] — OK Capital UG Holding; keine Einnahmen; ~380 €/Jahr; Insolvenzprüfung ausstehend
 - [[Performance Cafe Naming Brief]] — Completed naming brief; 15 candidates; AEVUM top pick; positioning, packaging specs
+- [[Performance Coffee Brand Master Research Brief]] — 9-Modul Forschungsauftrag; 6 Expertenperspektiven; alle Module dokumentiert
+- [[Performance Coffee Brand Longevity Science Source Detail]] — Modul 0: 12 Hallmarks, Kaffee als Longevity-Substanz, Biomarker-Profil
+- [[Performance Coffee Brand Ingredienzen Datenbank]] — Modul 1: vollständige Ingredienzen-DB; EU-Status, Hitzestabilität, Kosten/Portion
+- [[Performance Coffee Brand Kaffee-Spezifikation]] — Modul 2: Robusta vs. Arabica; Vietnamesischer Robusta; Röstgrad; Instant-Format
+- [[Performance Coffee Brand Marktanalyse]] — Modul 3: Blueprint-Analyse; Wettbewerbsmatrix; Pricing-Benchmarks; White Space
+- [[Performance Coffee Brand Prototyp Partner Source Detail]] — Modul 4: CMO-Empfehlungen (Goerlich Pharma); Experten; 7-Schritt Entwicklungsplan
+- [[Performance Coffee Brand Regulatorik Report]] — Modul 5: EU Novel Food Status alle Longevity-Stoffe; Health Claims; Zertifizierung
+- [[Performance Coffee Brand Business Case]] — Modul 6: COGS ~1,30–1,90 €; Go-to-Market DTC → Amazon → Retail → US
+- [[Performance Coffee Brand IP und Patent-Landschaft]] — Modul 8: Urolithin A/NMN/NR IP-Risiken; EUIPO-Strategie; Trade Secret
+- [[Performance Coffee Brand Supplier List]] — Ops: CMOs DACH/EU; Rohstofflieferanten; Analyselabore; Flavoristen
+
+### Relocation Sources
+- [[Cyprus Relocation Source Detail]] — Strategie: Zypern > Portugal; 50% Exemption; Gate-Items EOR; Zeithorizont 2027+
+- [[Cyprus Relocation Tracker Privat Source Detail]] — Kurznotiz: Projekt pausiert; Eckdaten eingefroren; Someday-Status
+
+### Inbox Sources
+- [[Offene Actions Inbox Source Detail]] — Privater Action-Tracker; Café Planning, Password, Allianz, Hyrox
+- [[Inbox 2026-06-13 Source Detail]] — Leere Inbox-Placeholder-Datei vom 13.06.2026
 
 ---
 
@@ -109,4 +139,4 @@ Organized by type. One-line summaries. All pages use Obsidian [[wikilinks]].
 
 ---
 
-*Index last updated: 2026-06-14*
+*Index last updated: 2026-06-16*
