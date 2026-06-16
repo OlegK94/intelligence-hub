@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.en.dtd">
+<!-- Vorlage — wird von mac-setup.sh automatisch mit echten Pfaden befüllt -->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.rawwatcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>VAULT_PATH/scripts/raw-watcher.sh</string>
+    </array>
+
+    <!-- Reagiert sofort wenn sich etwas in raw/ ändert -->
+    <key>WatchPaths</key>
+    <array>
+        <string>VAULT_PATH/raw</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>VAULT_PATH/outputs/notes/rawwatcher_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>VAULT_PATH/outputs/notes/rawwatcher_stderr.log</string>
+</dict>
+</plist>
