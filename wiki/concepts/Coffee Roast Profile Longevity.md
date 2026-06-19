@@ -12,7 +12,7 @@ summary: Optimal roast profile for longevity/performance coffee — City Roast (
 
 ## Overview
 
-The choice of roast grade is one of the most critical decisions in designing a longevity coffee product. Higher temperatures destroy the primary bioactive compounds ([[Chlorogenic Acid Longevity]] and [[Trigonellin NAD Precursor]]) while improving flavor. The optimal roast for [[Performance Coffee Brand]] is **City Roast (Medium-Light)** — a deliberate compromise that maximizes bioactive retention while achieving consumer-acceptable taste.
+The choice of roast grade is one of the most critical decisions in designing a longevity coffee product. Higher temperatures destroy the primary bioactive compounds ([[Chlorogenic Acid]] and [[Trigonellin NAD Precursor]]) while improving flavor. The optimal roast for [[Performance Coffee Brand]] is **City Roast (Medium-Light)** — a deliberate compromise that maximizes bioactive retention while achieving consumer-acceptable taste.
 
 ## Roast Grade Comparison
 
@@ -80,7 +80,7 @@ Counter-intuitively, acrylamid levels in coffee **decrease** at higher roasting 
 
 ## Related Pages
 
-- [[Chlorogenic Acid Longevity]] — primary bioactive preserved by this profile
+- [[Chlorogenic Acid]] — primary bioactive preserved by this profile
 - [[Trigonellin NAD Precursor]] — secondary bioactive preserved by this profile
 - [[Coffee Blend Ratios]] — blend decision that pairs with this roast profile
 - [[Coffee Extraction Methods Instant]] — next processing step after roasting

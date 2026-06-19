@@ -44,9 +44,9 @@ The **12 Hallmarks of Aging** framework, established by Carlos López-Otín et a
 
 | Hallmark | Rating | Key Substances |
 |---|---|---|
-| Mitochondriale Dysfunktion | ★★★★ | [[Chlorogensäure]], CoQ10, [[Urolithin A]], NMN/NR |
-| Inflammaging | ★★★★ | [[Chlorogensäure]], Cafestol/Kahweol, Curcumin, Quercetin |
-| AMPK/mTOR/Sirtuine | ★★★★★ | Koffein, [[Chlorogensäure]], [[Trigonellin]], NMN |
+| Mitochondriale Dysfunktion | ★★★★ | [[Chlorogenic Acid]], CoQ10, [[Urolithin A]], NMN/NR |
+| Inflammaging | ★★★★ | [[Chlorogenic Acid]], Cafestol/Kahweol, Curcumin, Quercetin |
+| AMPK/mTOR/Sirtuine | ★★★★★ | Koffein, [[Chlorogenic Acid]], [[Trigonellin]], NMN |
 | Zelluläre Seneszenz | ★★★ | Quercetin, Fisetin (pulsing) |
 | Proteostase | ★★★ | Spermidine, Koffein, Lion's Mane |
 | Genomische Instabilität | ★★ | Antioxidantien (CGA) — indirect |
@@ -64,7 +64,7 @@ The **12 Hallmarks of Aging** framework, established by Carlos López-Otín et a
 | Substance | Mechanism | Rating |
 |---|---|---|
 | Koffein | Indirect AMPK → mitophagy induction | ++ |
-| [[Chlorogensäure]] | AMPK activation, PGC-1α upregulation (mitochondrial biogenesis) | +++ |
+| [[Chlorogenic Acid]] | AMPK activation, PGC-1α upregulation (mitochondrial biogenesis) | +++ |
 | CoQ10 (Ubiquinol) | Direct component of respiratory chain (Complex I–III) | +++ |
 | [[Urolithin A]] | Strongest known mitophagy inducer; clinical data Amazentis 2022 | ++++ |
 | Cordyceps Militaris | Adenosine derivatives → VO2max improvement | ++ |
@@ -86,7 +86,7 @@ The **12 Hallmarks of Aging** framework, established by Carlos López-Otín et a
 
 | Substance | Mechanism | Evidence |
 |---|---|---|
-| [[Chlorogensäure]] | NF-κB inhibition; direct antioxidant | Meta-analyses available |
+| [[Chlorogenic Acid]] | NF-κB inhibition; direct antioxidant | Meta-analyses available |
 | Cafestol / Kahweol | Anti-inflammatory (COX-2 inhibition) | In vitro + animal |
 | Curcumin (liposomal) | NF-κB, IL-6, TNF-α inhibition | RCTs available |
 | Quercetin | NF-κB, NLRP3 inflammasome inhibition | Human RCTs |
@@ -109,7 +109,7 @@ The **12 Hallmarks of Aging** framework, established by Carlos López-Otín et a
 
 | Substance | Pathway | Effect |
 |---|---|---|
-| [[Chlorogensäure]] | AMPK ↑ | Insulin sensitivity ↑, glucose uptake ↑ |
+| [[Chlorogenic Acid]] | AMPK ↑ | Insulin sensitivity ↑, glucose uptake ↑ |
 | Koffein | AMPK ↑ (indirect via adenosine inhibition) | Fat oxidation ↑ |
 | [[Trigonellin]] | NAD+ precursor → SIRT1 ↑ | Mitochondrial function ↑ |
 | NMN / NR | NAD+ directly ↑ → SIRT1/3/6 ↑ | DNA repair, mitophagy |
@@ -176,7 +176,7 @@ EFSA does not permit "Anti-Aging" claims. All communication must use biomarker l
 ## Related Pages
 
 - [[Longevity Science Research Modul 0]] — source document
-- [[Chlorogensäure]] — primary coffee polyphenol and AMPK activator
+- [[Chlorogenic Acid]] — primary coffee polyphenol and AMPK activator
 - [[Trigonellin]] — NAD+ precursor (Hallmark 3)
 - [[Inflammaging]] — Hallmark 10 concept page
 - [[Mitochondriale Dysfunktion]] — Hallmark 6 concept page

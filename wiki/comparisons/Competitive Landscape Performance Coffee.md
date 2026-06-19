@@ -90,7 +90,7 @@ Longevity-Tiefe
 ## Strategic Conclusion
 
 Performance Coffee Brand targets a genuinely unoccupied market position. The key risks:
-1. **IP barriers** from [[Amazentis]] and [[Chromadex]] may prevent use of some longevity ingredients
+1. **IP barriers** from [[Amazentis]] and [[Chromadex Niagen Bioscience]] may prevent use of some longevity ingredients
 2. **Regulatory constraints** (EFSA, EU Novel Food) limit health claim language
 3. **Premium pricing** requires segment 3 (biohacker, high LTV) customers as early adopters to establish credibility before scaling to segment 1 (athletes)
 
@@ -100,7 +100,7 @@ Performance Coffee Brand targets a genuinely unoccupied market position. The key
 - [[Performance Coffee Brand Positioning]] — source document
 - [[Bryan Johnson]] — Blueprint competitor
 - [[Amazentis]] — Timeline Mitopure + IP blocker
-- [[Chromadex]] — NMN IP blocker
+- [[Chromadex Niagen Bioscience]] — NMN IP blocker
 - [[Longevity Stack Ingredients]] — ingredient differentiation
 - [[EU Novel Food Regulation]] — regulatory constraints
 - [[Urolithin A]] — key differentiating ingredient

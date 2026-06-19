@@ -42,7 +42,7 @@ This source document (date: 2026-06-15, status: bereit zum Teilen) is a one-page
 | [[Creatine\|Kreatin]] 2g | ATP, Muskeln, Kognition |
 | [[Taurin]] 500mg | Mitochondrien, Longevity (Science 2023) |
 
-**Note:** This is the Tier-1 stack described as "sofort launchbar" (immediately launchable) — notably it does NOT include [[NMN]], [[Urolithin A]], or [[Spermidine]] which are in the Tier-2/Tier-3 stacks due to regulatory complexity ([[EU Novel Food Regulation]], IP issues with [[Amazentis]] and [[Chromadex]]).
+**Note:** This is the Tier-1 stack described as "sofort launchbar" (immediately launchable) — notably it does NOT include [[NMN]], [[Urolithin A]], or [[Spermidine]] which are in the Tier-2/Tier-3 stacks due to regulatory complexity ([[EU Novel Food Regulation]], IP issues with [[Amazentis]] and [[Chromadex Niagen Bioscience]]).
 
 ## Markt & Zahlen
 
@@ -151,7 +151,7 @@ The Hyrox channel is particularly strategic: [[Oleg Personal Context|Oleg]] is h
 - [[Hyrox 10-Week Training]] — GTM channel fit
 - [[EU Novel Food Regulation]] — regulatory context
 - [[Amazentis]] — IP blocker for Tier-2 stack
-- [[Chromadex]] — IP blocker for NMN
+- [[Chromadex Niagen Bioscience]] — IP blocker for NMN
 - [[Alpha-GPC]] — Tier-1 ingredient
 - [[Creatine]] — Tier-1 ingredient
 - [[Taurin]] — Tier-1 ingredient

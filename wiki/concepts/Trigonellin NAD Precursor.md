@@ -105,7 +105,7 @@ Trigonellin offers the NAD⁺ channel **without additional ingredient cost or IP
 ## Related Pages
 
 - [[Coffee Blend Ratios]] — blend optimization incorporating Trigonellin
-- [[Chlorogenic Acid Longevity]] — complementary CGA pathway
+- [[Chlorogenic Acid]] — complementary CGA pathway
 - [[Coffee Roast Profile Longevity]] — roast temperature impact on Trigonellin
 - [[NMN]] — parallel NAD⁺ precursor
 - [[Chromadex / Niagen Bioscience]] — NR/NIAGEN IP context

@@ -21,7 +21,7 @@ It addresses three questions:
 
 > For synthesized entity pages, see:
 > - [[Hallmarks of Aging]] — full hallmark framework with ingredient ratings
-> - [[Chlorogensäure]] — CGA mechanistic deep-dive
+> - [[Chlorogenic Acid]] — CGA mechanistic deep-dive
 > - [[Trigonellin]] — NAD+ precursor 2024 discovery
 > - [[Cafestol und Kahweol]] — diterpene controversy
 > - [[Longevity Science Kaffee Stack]] — synthesis of coffee mechanisms and marketing narrative
@@ -284,7 +284,7 @@ SIRT1/3/6 ↑ → DNA-Reparatur + Mitophagie + Metabolismus
 ## Related Pages
 
 - [[Hallmarks of Aging]] — framework entity
-- [[Chlorogensäure]] — CGA deep-dive
+- [[Chlorogenic Acid]] — CGA deep-dive
 - [[Trigonellin]] — NAD+ precursor concept
 - [[Cafestol und Kahweol]] — diterpene concept
 - [[Longevity Science Kaffee Stack]] — mechanistic synthesis

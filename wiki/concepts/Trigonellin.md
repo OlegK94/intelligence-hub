@@ -55,7 +55,7 @@ DNA repair + Mitophagy + Metabolism regulation
 | Light/Medium Roast cup | **~30–50 mg per 250 ml** | |
 | Dark Roast cup | **~6–15 mg per 250 ml** | 50–80% degraded |
 
-**Critical finding:** Arabica has *higher* trigonellin than Robusta (opposite of [[Chlorogensäure]] where Robusta wins). This creates a potential blending optimization: Robusta for CGA, Arabica for trigonellin, in a light-roast instant base.
+**Critical finding:** Arabica has *higher* trigonellin than Robusta (opposite of [[Chlorogenic Acid]] where Robusta wins). This creates a potential blending optimization: Robusta for CGA, Arabica for trigonellin, in a light-roast instant base.
 
 ---
 
@@ -100,7 +100,7 @@ DNA repair + Mitophagy + Metabolism regulation
 This is:
 - ✅ Scientifically accurate (Nature Metabolism 2024)
 - ✅ Naturally occurring in food → no Novel Food issues
-- ✅ Not subject to [[Amazentis]] or [[Chromadex]] IP
+- ✅ Not subject to [[Amazentis]] or [[Chromadex Niagen Bioscience]] IP
 - ✅ Distinguishes the product from generic instant coffee
 - ✅ Consumer-translatable: "natural NMN alternative in your morning coffee"
 
@@ -120,7 +120,7 @@ The effect of trigonellin on NAD+ can theoretically be tracked, but:
 | Muscle NAD+ | Research biopsy only | Not practical for community |
 | Functional proxies | Muscle strength, fatigue, VO2max | Practical but indirect |
 
-**Community strategy:** Trigonellin's NAD+ effect is not easily tracked via affordable DTC tests. Position as a mechanistic claim supported by Nature Metabolism 2024, without promising measurable NAD+ increases in a 90-day protocol. Focus community biomarker challenge on hs-CRP, HbA1c, glucose — more tractable endpoints from [[Chlorogensäure]] and koffein effects.
+**Community strategy:** Trigonellin's NAD+ effect is not easily tracked via affordable DTC tests. Position as a mechanistic claim supported by Nature Metabolism 2024, without promising measurable NAD+ increases in a 90-day protocol. Focus community biomarker challenge on hs-CRP, HbA1c, glucose — more tractable endpoints from [[Chlorogenic Acid]] and koffein effects.
 
 ---
 
@@ -129,8 +129,8 @@ The effect of trigonellin on NAD+ can theoretically be tracked, but:
 | Compound | NAD+ Pathway | Source | IP Risk |
 |---|---|---|---|
 | **Trigonellin** | Preiss-Handler (slow) | Coffee (natural) | None |
-| NMN | Salvage (fast) | Synthetic | High ([[Chromadex]]) |
-| NR / NIAGEN | Salvage (fast) | Synthetic | High ([[Chromadex]]) |
+| NMN | Salvage (fast) | Synthetic | High ([[Chromadex Niagen Bioscience]]) |
+| NR / NIAGEN | Salvage (fast) | Synthetic | High ([[Chromadex Niagen Bioscience]]) |
 | Niacin (B3) | Preiss-Handler (same as trigonellin) | Food / supplement | None |
 
 The stack could theoretically combine trigonellin (from the coffee base) with a small supplemental niacin dose to amplify the Preiss-Handler pathway — without triggering IP issues. This is a formulation research question for the CMO.
@@ -142,7 +142,7 @@ The stack could theoretically combine trigonellin (from the coffee base) with a 
 - [[Longevity Science Research Modul 0]] — source document
 - [[Hallmarks of Aging]] — AMPK/mTOR/Sirtuine hallmark (★★★★★)
 - [[AMPK mTOR Sirtuine]] — pathway context for NAD+/SIRT1
-- [[Chlorogensäure]] — complementary coffee polyphenol (AMPK via different mechanism)
+- [[Chlorogenic Acid]] — complementary coffee polyphenol (AMPK via different mechanism)
 - [[Cafestol und Kahweol]] — other coffee diterpenes
 - [[NMN]] — synthetic alternative; IP comparison
 - [[Chromadex / Niagen Bioscience]] — NR/NMN IP holder

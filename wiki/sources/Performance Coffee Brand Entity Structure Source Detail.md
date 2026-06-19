@@ -177,5 +177,5 @@ Other candidates in search: **Kolvr**, **Orvyn** — EUIPO research pending.
 - [[Performance Coffee Brand AEVUM Naming]] — brand name candidate
 - [[EU Novel Food Regulation]] — regulatory layer
 - [[Amazentis]] — IP consideration for ingredient stack
-- [[Chromadex]] — IP consideration for ingredient stack
+- [[Chromadex Niagen Bioscience]] — IP consideration for ingredient stack
 - [[Café Berlin Partnership Hai]] — parallel partnership with Hai (different venture)

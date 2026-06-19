@@ -58,7 +58,7 @@ Ashwagandha has a particularly interesting synergy with coffee in the Tier-1 sta
 
 ## Brand IP Note
 
-KSM-66 is a **patented, branded ingredient** by Ixoreal Biomed. Unlike [[Urolithin A]] ([[Amazentis]]) or NMN ([[Chromadex]]) where IP creates major barriers, KSM-66 IP works differently:
+KSM-66 is a **patented, branded ingredient** by Ixoreal Biomed. Unlike [[Urolithin A]] ([[Amazentis]]) or NMN ([[Chromadex Niagen Bioscience]]) where IP creates major barriers, KSM-66 IP works differently:
 - Ixoreal actively licenses KSM-66 to supplement brands
 - Licensing is the **business model** — not a blocker
 - The brand/trademark "KSM-66" may be used on product if sourced from Ixoreal

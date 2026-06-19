@@ -107,6 +107,6 @@ Ingredient Stack (IP + Novel Food)
 - [[NMN]] — ingredient with Novel Food uncertainty
 - [[Urolithin A]] — ingredient with proprietary Novel Food authorization
 - [[Amazentis]] — Urolithin A IP + Novel Food holder
-- [[Chromadex]] — NMN IP consideration
+- [[Chromadex Niagen Bioscience]] — NMN IP consideration
 - [[CMO Sourcing Performance Coffee]] — CMO requirements
 - [[Bryan Johnson]] — Blueprint positioning strategy reference

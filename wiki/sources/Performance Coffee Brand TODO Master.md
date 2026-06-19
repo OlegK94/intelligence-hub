@@ -16,7 +16,7 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 > For the entity summary and strategic context, see [[Performance Coffee Brand]].
 > For ingredient detail, see [[Longevity Stack Ingredients]].
-> For regulatory IP blockers, see [[Amazentis]] and [[Chromadex]].
+> For regulatory IP blockers, see [[Amazentis]] and [[Chromadex Niagen Bioscience]].
 
 ## Product & White Space
 
@@ -207,7 +207,7 @@ Wenn CMO machbar + Prototyp vielversprechend:
 - [[NMN]] — regulatory blocker (EU Novel Food status)
 - [[Urolithin A]] — regulatory + IP blocker (Amazentis)
 - [[Amazentis]] — IP holder Urolithin A
-- [[Chromadex]] — IP holder NMN/NR
+- [[Chromadex Niagen Bioscience]] — IP holder NMN/NR
 - [[Trigonellin]] — NMN fallback ingredient
 - [[Alpha-GPC]] — Tier-1 stack ingredient
 - [[Longevity Stack Ingredients]] — full stack

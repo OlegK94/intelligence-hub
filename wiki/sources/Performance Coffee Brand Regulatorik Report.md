@@ -22,7 +22,7 @@ Amazentis hält Novel Food-Zulassung (2022, Antrag 2018-0538). Zulassung ist ant
 
 **NR (NIAGEN) — zugelassen via ChromaDex-Route:**
 
-Nicotinamid-Ribosid ist als Novel Food zugelassen. Nutzung über [[Chromadex]]-NIAGEN-Lizenz empfohlen. Kontakt: partnerops@niagenbio.com.
+Nicotinamid-Ribosid ist als Novel Food zugelassen. Nutzung über [[Chromadex Niagen Bioscience]]-NIAGEN-Lizenz empfohlen. Kontakt: partnerops@niagenbio.com.
 
 **Spermidine — zugelassen mit Mengenlimit:**
 

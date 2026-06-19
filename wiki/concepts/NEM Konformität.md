@@ -52,7 +52,7 @@ Two key [[Performance Coffee Brand]] ingredients have Novel Food status implicat
 - **Status:** Under EU Novel Food review; situation evolving as of 2026
 - **Risk:** If classified as Novel Food without existing authorization, commercial sale in EU is blocked
 - **Action required:** Legal check on current EU Novel Food catalog status
-- See [[NMN]] and [[Chromadex]] for IP context
+- See [[NMN]] and [[Chromadex Niagen Bioscience]] for IP context
 
 ### Urolithin A
 
@@ -131,7 +131,7 @@ The source recommends the **Blueprint-Strategie** for ingredients where no EFSA 
 - [[NMN]] — Novel Food check required
 - [[Urolithin A]] — Novel Food authorization (proprietary to [[Amazentis]])
 - [[Amazentis]] — Novel Food authorization holder
-- [[Chromadex]] — NMN IP holder
+- [[Chromadex Niagen Bioscience]] — NMN IP holder
 - [[Kölner Liste]] — voluntary certification (runs in parallel)
 - [[Informed Sport]] — voluntary certification (runs in parallel)
 - [[EFSA Health Claims]] — health claims framework

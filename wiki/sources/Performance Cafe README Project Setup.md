@@ -131,7 +131,7 @@ performance-cafe/
 
 **Amazentis/Urolithin A Patent:** [[Amazentis]] holds patents on [[Urolithin A]] (sold as MITOPURE). Using Urolithin A may require licensing from Amazentis — impacting COGS and viability. See [[Urolithin A]].
 
-**Chromadex/NMN Patent:** [[Chromadex]] holds relevant patents on [[NMN]] (Tru Niagen / NR). Patent landscape overlaps with NMN sourcing from certain manufacturers.
+**Chromadex/NMN Patent:** [[Chromadex Niagen Bioscience]] holds relevant patents on [[NMN]] (Tru Niagen / NR). Patent landscape overlaps with NMN sourcing from certain manufacturers.
 
 **NAC Odor:** [[NAC]] (N-Acetyl Cysteine) has a strong sulfurous odor that is difficult to mask in food/beverage formats — a formulation challenge for the coffee format.
 
@@ -148,7 +148,7 @@ performance-cafe/
 - [[NAC]] — formulation challenge
 - [[Spermidine]] — Novel Food candidate
 - [[Amazentis]] — patent holder for Urolithin A
-- [[Chromadex]] — patent holder for NMN/NR
+- [[Chromadex Niagen Bioscience]] — patent holder for NMN/NR
 - [[Kölner Liste]] — anti-doping certification
 - [[Longevity Stack Ingredients]] — full ingredient framework
 - [[EU Novel Food Regulation]] — regulatory framework
