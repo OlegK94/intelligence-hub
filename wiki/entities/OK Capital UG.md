@@ -22,7 +22,7 @@ summary: OK Capital UG — Oleg's dormant (ruhend) company; Jahresabschluss curr
 |---|---|
 | **Betrieb** | Ruhend (dormant) |
 | **Jahresabschluss** | 5.000 € — aktuell fällig |
-| **Finom-Konto** | TODO (Balance not confirmed for June 2026) |
+| **Finom-Konto** | 0,00 € (Stand Jun 2026) |
 
 ## Financial Obligations
 
