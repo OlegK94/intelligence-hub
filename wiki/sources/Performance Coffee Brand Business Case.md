@@ -24,10 +24,12 @@ Performance Coffee Brand Business Case ist Modul 6 der [[Performance Coffee Bran
 | NAC | 300 mg | ~0,005 € |
 | Curcumin (mizellar) | 250 mg | ~0,015 € |
 | Ashwagandha (KSM-66) | 300 mg | ~0,011 € |
-| **Rohstoffe gesamt** | | **~0,13 €** |
+| MCT-Pulver | 1,5 g | ~0,012 € |
+| Füll-/Trennstoff | 1,0 g | ~0,003 € |
+| **Rohstoffe gesamt** | | **~0,145 €** |
 
 **Vollständige COGS-Schätzung (MVP-Batch):**
-- Rohstoffe: ~0,13 €
+- Rohstoffe: ~0,145 €
 - CMO-Abfüllung + Packaging: ~0,35–0,50 €
 - Qualitätssicherung/Labor (amortisiert): ~0,05 €
 - Fulfillment + Versand (DTC): ~0,80–1,20 €
