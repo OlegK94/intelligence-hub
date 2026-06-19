@@ -2,97 +2,124 @@
 
 ## Entities
 
-- [[3D Body Scan Scaneca Mai 2026]] — Oleg's May 2026 Scaneca baseline body composition assessment at Labor Berlin
-- [[Aidea]] — Priority 4 CMO candidate for Performance Coffee Brand; Milan-based, sachets + RTD specialist
-- [[ALG I 2025]] — Arbeitslosengeld I received by Oleg in 2025 (~8,400 €, until June 2025); Progressionsvorbehalt applies
-- [[Allianz Insurance Consolidation]] — Insurance consolidation project targeting 5-policy Allianz threshold for 20% colleague discount
-- [[Amazentis]] — Swiss biotech (Lausanne) holding 50+ patents and EU Novel Food authorization for Urolithin A / MITOPURE
-- [[ARAG Wagglz Versicherung]] — ARAG insurance tied to Wagglz GmbH (100.88 €/quarter); cancellation required by 2026-06-30
-- [[Aevum Brand]] — Top-recommended brand name for Performance Coffee Brand; Latin for "lifespan"; 5-star IP rating
-- [[Apple Passwords]] — Apple's native password manager (iOS 18+); target of migration from Proton Pass
-- [[Barmenia]] — Health insurance (KV-Zusatz, 33 €/month) in Oleg's fixed costs; co-KV provider for ESt 2025
-- [[Blutbild Panel]] — Oleg's 24-marker quarterly blood biomarker panel with longevity-optimized reference ranges
-- [[Bryan Johnson]] — Biohacker and Blueprint entrepreneur; removed coffee from his stack, creating white space for Performance Coffee Brand
-- [[Café Berlin Partnership Hai]] — ARCHIVIERT: Original GROVE physical café concept with Hai; replaced by Performance Coffee Brand
-- [[CMO Sourcing Performance Coffee]] — CMO partner search for Performance Coffee Brand; 5 candidates prioritized
-- [[Performance Coffee Brand]] — Oleg's functional coffee brand project (instant sachet format, three SKUs)
-- [[Performance Coffee SKU Morning Performance]] — SKU 1: Focus + calm energy; L-Theanin, Lion's Mane, Citicoline, Mg L-Threonat; ~0.80 € COGS; VK 3.50–4.50 €
-- [[Performance Coffee SKU Pre-Workout]] — SKU 2: Athletic performance; Kreatin, Citrullin, Cordyceps, Beta-Alanin; ~0.975 € COGS; VK 4.50–5.50 €
-- [[Performance Coffee SKU Longevity Daily]] — SKU 3: Longevity stack; Spermidine, Reishi, Quercetin, NAC, Curcumin; ~0.995 € COGS; VK 5.00–6.50 €
-- [[Performance Coffee Blueprint Hypothetical Stack]] — Hypothetical "what Bryan Johnson would drink" stack with NMN + all Blueprint ingredients; VK 8–12 €
-- [[Timeline Nutrition]] — Amazentis consumer brand for MITOPURE (Urolithin A); B2B contact bd@timeline.as
-- [[Wagglz GmbH]] — Oleg's former company (winding down)
+### People
+- [[Andrew Huberman]] — Stanford neuroscientist, Huberman Lab podcast host; evidence-based health optimization protocols
+- [[Bryan Johnson]] — Entrepreneur/biohacker; Blueprint program founder; removed coffee from protocol creating Performance Coffee Brand white space
+- [[Hai]] — Co-founder of Performance Coffee Brand (formerly GROVE café concept)
+- [[Jeff Cavaliere]] — MSPT, CSCS; Athlean-X founder; corrective exercise and training longevity expert
+- [[Oleg Personal Context]] — Central subject of wiki; Berlin-based founder, biohacker, Hyrox athlete
+- [[Peter Attia]] — Longevity physician; ApoB and biomarker optimization framework
+- [[Rhonda Patrick]] — Biochemist; vitality protocols and supplementation research
+
+### Brands / Companies
+- [[Aidea]] — Priority 4 CMO candidate; Milan-based functional drinks and sachet specialist
+- [[Amazentis]] — Swiss biotech holding 50+ Urolithin A patents and EU Novel Food authorization; Timeline Nutrition parent
+- [[Blueprint by Bryan Johnson]] — Bryan Johnson's longevity supplement brand; no coffee product — creates Performance Coffee white space
+- [[Bulletproof Coffee]] — US/EU functional coffee brand; MCT-oil focus; concept dated (2015–2018 peak)
+- [[Chromadex / Niagen Bioscience]] — US biotech; NIAGEN NR patent holder; $129.4M revenue 2025 (+30% YoY)
+- [[Clevr Blends]] — US functional latte brand; $1.00/portion; no EU presence; no longevity stack
+- [[DoNotAge]] — UK longevity supplement brand; bulk NMN at lowest prices; post-Brexit EU shipping issues
+- [[Four Sigmatic]] — Helsinki/LA functional mushroom coffee brand; ~$15M revenue 2025 (down from $61.7M peak)
+- [[Herbafit]] — Priority 5 CMO candidate; DE-based powder sachets, IFS Food certified
+- [[Lehvoss Nutrition]] — Priority 2 CMO candidate; Hamburg-based custom formulation specialist
+- [[MUD\WTR]] — Anti-coffee functional blend brand; $25M funding; no coffee, no longevity stack; no EU presence
+- [[Nutri-Epitech]] — Priority 3 CMO candidate; Italy-based; longevity stack experience, small MOQ
+- [[Prinova]] — Priority 1 CMO candidate; Düsseldorf-based; largest functional ingredients experience
+- [[Purovitalis]] — Netherlands-based EU NMN brand; liposomal NMN €2.00/day; GMP/ISO certified; direct EU comparator
+- [[Qualia Senolytic]] — Neurohacker Collective; senolytic supplement; ~$39.50/dose; ultra-premium, low EU presence
+- [[RYZE Mushroom Coffee]] — Santa Monica DTC mushroom coffee; est. $30–50M ARR; 6 mushrooms, $1.00/portion; no longevity stack
+- [[Timeline Nutrition]] — Amazentis consumer brand; Mitopure (Urolithin A); $125/month; B2B contact bd@timeline.as
+- [[Tru Niagen]] — ChromaDex NR supplement brand; $49.99–$116.99; clinically studied NAD+ booster
+
+### Businesses / Projects
+- [[Aevum Brand]] — Top-recommended brand name for Performance Coffee Brand; Latin for "lifespan"
+- [[Café Berlin Partnership Hai]] — ARCHIVIERT: Physical café concept (GROVE) replaced by Performance Coffee Brand
+- [[Performance Coffee Brand]] — Oleg's functional coffee + longevity supplement business; instant sachet format; DACH/EU focus
+- [[Wagglz GmbH]] — Oleg's existing GmbH entity (potential operating vehicle)
+
+### Insurance / Finance Entities
+- [[ARAG Wagglz Versicherung]] — ARAG insurance at Wagglz; 100.88 €/quarter; cancellation due 2026-06-30
+- [[Allianz Insurance Consolidation]] — Project to consolidate 3 policies to Allianz for 20% colleague discount
+- [[ALG I 2025]] — ~8,400 € Arbeitslosengeld I until ~June 2025; triggers Progressionsvorbehalt
+- [[Barmenia]] — Health insurance supplement; 33 €/month; also co-KV provider for ESt 2025
+
+### Health / Performance Entities
+- [[3D Body Scan Scaneca Mai 2026]] — May 2026 Scaneca baseline scan; 96.7 kg, 20.3% KFA, FFMI 21.3
+- [[Blutbild Panel]] — 24-marker quarterly blood biomarker panel with longevity-optimized targets
+- [[Hyrox Competition]] — Functional fitness race format; Oleg's athletic competition goal
+
+---
 
 ## Concepts
 
-- [[3D Body Scan]] — 3D body composition scanning technology; Scaneca baseline data and follow-up protocol
-- [[Alpha-GPC]] — Choline compound (acetylcholine precursor); 50% form preferred for sachets; 300–600 mg/day
-- [[ALG I Progressionsvorbehalt]] — §32b EStG mechanism: ALG I tax-free but raises rate on all other income; ~2,000 € additional burden
-- [[Apigenin]] — Plant flavonoid (chamomile); sleep onset; part of Momentous Expert Stack and Huberman sleep cocktail
-- [[Ashwagandha KSM-66]] — Branded ashwagandha extract (Ixoreal Biomed, ≥5% withanolides); 300 mg in Tier-1 stack; cortisol reduction
-- [[Ashwagandha Sensoril]] — Ashwagandha extract (root + leaves, ≥10% withanolides); 125–250 mg; superior for sleep/anxiety
-- [[Bacopa Monnieri]] — Ayurvedic nootropic (45% Bacosides); memory consolidation; 4–8 week onset; fat required for absorption
-- [[Beta-Alanin]] — Amino acid for carnosine synthesis; muscle pH buffer; paresthesia limits use to SKU 2 with CarnoSyn SR form
-- [[Biomarker Testing]] — Systematic blood biomarker tracking with longevity-optimized reference ranges (24 markers quarterly)
-- [[BMR and TDEE]] — Metabolic rate metrics; Oleg baseline BMR 2,113 kcal, TDEE ~3,645 kcal, target 2,800 kcal
-- [[Brick Training]] — Training combining two modalities back-to-back without rest; Hyrox preparation
-- [[Citicoline]] — CDP-Choline; dual mechanism (ACh + membrane phospholipids); preferred for longevity; 250–500 mg/day
-- [[CoQ10 Ubiquinol]] — Mitochondrial electron transport chain; hydrophobic — requires emulsified form for coffee; 100–200 mg/day
-- [[Cordyceps Militaris]] — Functional mushroom; VO2max +11%, ATP, Cordycepin; 1000–3000 mg/day; EU-approved (cultured)
-- [[Curcumin Liposomal]] — Anti-inflammatory (NF-κB); mizellar form for solubility; 200–500 mg liposomal; Blueprint core ingredient
-- [[EU Novel Food Regulation]] — EU regulatory framework for novel foods; key blockers: NMN (pending), Urolithin A (pending); Spermidine ✅ approved
-- [[Fisetin]] — Potent natural senolytic (BCL-2/XL inhibitor); 100–500 mg intermittent; EU regulatory grey zone
-- [[Forward Head Posture]] — 30° cervical deviation found in Oleg's scan; corrective neck training required
-- [[Hitzestabilität Functional Ingredients]] — Heat stability at 90°C for coffee applications; critical parameter for ingredient selection
-- [[Ingredients EU Regulatory Status]] — Regulatory compliance overview for Performance Café ingredients; blockers: NMN, Urolithin A, Methylliberine
-- [[Kollagen Typ I und II]] — Collagen peptides (Typ I hydrolysiert 10–20 g/day; UC-II 40 mg/day); Blueprint-aligned
-- [[Kreatin Monohydrat]] — ATP regeneration; 3–5 g/day; heat stability critical: converts to creatinine in hot acidic liquid
-- [[L-Citrullin]] — Nitric oxide precursor; 6–8 g/day for pre-workout; slight sour taste compatible with coffee
-- [[L-Theanin]] — Alpha-wave inducer; 1:2 ratio with caffeine for SKU 1; 2:1 for SKU 2; EU Novel Food approved
-- [[Lion's Mane Dual Extract]] — Hericium erinaceus; NGF synthesis; 500–1000 mg dual extract (water + alcohol); Blueprint ingredient
-- [[Longevity Stack Ingredients]] — Master framework for longevity-relevant supplement ingredients; hallmarks of aging alignment
-- [[Magnesium Glycinat]] — Magnesium chelate; sleep, muscle, 300+ enzymatic reactions; stable in heat; ~0.04–0.08 €/portion
-- [[Magnesium L-Threonat]] — BBB-penetrating magnesium (Magtein); cognitive function; +15% hippocampal synapses (MIT); ~0.06–0.12 €/portion
-- [[NAC N-Acetyl-Cystein]] — Glutathione precursor; EU NEM status complex (dual NEM+pharma); sulfur odor challenge; 600 mg target dose
-- [[NEM Konformität]] — EU Nahrungsergänzungsmittel (food supplement) compliance framework for Germany
-- [[NMN Nikotinamidmononukleotid]] — NAD+ precursor; EFSA positive opinion 2025 but not yet formally approved; expected 2026/2027; 250–1000 mg/day
-- [[Phosphatidylserin]] — Cortisol reduction post-sport; EU Health Claim ≥100 mg; oxidation-sensitive in hot liquid
-- [[Quercetin]] — Senolytic flavonoid (BCL-2 inhibitor); 250–1000 mg; Sophora japonica source for EU compliance
-- [[Reishi Ganoderma]] — Functional mushroom; mTOR inhibition → autophagy; 1500–3000 mg/day; Blueprint Super Shrooms
-- [[Resveratrol]] — SIRT1 activator; Bryan Johnson removed from daily stack (2023/2024) — inhibits training-induced mitochondrial biogenesis
-- [[Rhodiola Rosea]] — Adaptogen; AMPK activation; anti-fatigue; 200–600 mg/day; Blueprint Ashwagandha+Rhodiola product
-- [[Supplement Stack]] — Oleg's personal supplement protocol
-- [[Taurin]] — Amino sulfonic acid; Science 2023 longevity data (+12% lifespan in mice); Bryan Johnson 2g/day; fully heat-stable
-- [[Theacrine]] — Adenosine antagonist without tolerance development; EU regulatory grey zone; 50–200 mg
-- [[Trigonellin]] — Natural NAD+ precursor in coffee (Light Roast ~1 g/100g); 2024 Nature Aging study; Performance Café marketing differentiator
-- [[Urolithin A]] — Mitophagy activator (PINK1/Parkin); EU Novel Food NOT YET approved; Amazentis patent blocker; pomegranate extract as alternative
-- [[Vitamin D3 K2]] — Fat-soluble; requires emulsification or separate capsule in coffee; D3 2000–5000 IU + K2 MK-7 100–200 mcg
+### Performance Coffee Brand — Market & Strategy
+- [[Functional Beverage Market]] — EU market €32.86B (2025) → €46.89B (2031); CAGR 6.12%; DE = 35% of EU market
+- [[Longevity Supplement Market]] — Global $7.4–28.6B (2024) → $18.9–62.4B; CAGR 9–11%; fastest-growing health category
+- [[Biohacking Market DACH]] — Germany €1.65B biohacking market (2024); CAGR 18.8% to 2030; 22.6% of EU biohacking market
+- [[Performance Cafe Pricing Strategy]] — €3.49/portion recommended launch price; full pricing structure with Einzelkauf/Abo/Starter tiers
+- [[Functional Coffee White Space]] — No competitor combines coffee + full longevity stack (NMN/NAD+/Urolithin A); core market opportunity
+- [[Blueprint Community White Space]] — Blueprint sells no coffee; community seeks Blueprint-compatible morning product
+
+### Performance Coffee Brand — Ingredients
+- [[Alpha-GPC]] — Choline compound; pre-workout cognitive enhancement; Tier-1 Performance Coffee ingredient
+- [[Ashwagandha KSM-66]] — Branded ashwagandha extract; 300mg in Tier-1 stack; cortisol reduction + coffee synergy
+- [[NMN]] — Nicotinamide mononucleotide; NAD+ precursor; key longevity ingredient in Performance Coffee stack
+- [[Taurin]] — Amino acid; Tier-1 Performance Coffee ingredient; cardiovascular and cognitive support
+- [[Urolithin A]] — Mitophagy activator; Amazentis patent; pomegranate extract as patent-free alternative for MVP
+- [[L-Theanin]] — Amino acid; calm focus synergy with caffeine; Tier-1 ingredient
+
+### Performance Coffee Brand — Operations & Legal
+- [[CMO Sourcing Performance Coffee]] — Contract manufacturing sourcing; 5 candidates prioritized; outreach underway
+- [[Certification Roadmap Performance Coffee Brand]] — Kölner Liste → Informed Sport certification pathway
+- [[Kölner Liste]] — German anti-doping supplement certification; key differentiator for athlete segment
+- [[NEM Konformität]] — EU food supplement regulatory compliance framework
+- [[EU Novel Food Regulation]] — Regulatory framework for novel ingredients; relevant for Urolithin A
+
+### Health & Performance Concepts
+- [[3D Body Scan]] — Advanced body composition analysis technology; Scaneca baseline established May 2026
+- [[ALG I Progressionsvorbehalt]] — §32b EStG mechanism; ALG I raises tax rate on all other income
+- [[Apigenin]] — Plant flavonoid; sleep onset support; part of Momentous Expert Stack and Huberman sleep cocktail
+- [[Ashwagandha KSM-66]] — Branded ashwagandha; Tier-1 Performance Coffee ingredient (see also Concepts above)
+- [[Biomarker Testing]] — Systematic blood biomarker measurement for health optimization; 24 markers quarterly
+- [[BMR and TDEE]] — Metabolic rate metrics; Oleg BMR 2,113 kcal, TDEE ~3,645 kcal, target 2,800 kcal
+- [[Brick Training]] — Combining two exercise modalities back-to-back; Hyrox-specific preparation method
+- [[Corrective Exercise]] — Targeted exercises for stability/mobility/posture; Cavaliere framework
+
+---
 
 ## Sources
 
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Raw scan document (29.05.2026); full measurement table, interpretation, targets
-- [[ALG I 2025 Source Detail]] — ALG I receipt facts: ~8,400 €, until June 2025; §32b/§46 EStG implications
-- [[ALG I Progressionsvorbehalt Source Detail]] — §32b EStG mechanics with worked 2025 example; ~2,000 € Mehrbelastung
-- [[Allianz Insurance Consolidation Detail]] — Full consolidation strategy; 3 policies to switch; Risikolebensversicherung excluded
-- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Privat-path consolidation document confirming same strategy
-- [[Andrew Huberman]] — Stanford neuroscientist; Huberman Lab podcast; clipping is channel-level reference
-- [[Blutbild Panel Source Detail]] — Raw source for 24-marker blood panel; full targets and base supplementation protocol
-- [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]] — Huberman Lab episode; injury prevention, corrective exercises, posture
-- [[CMO Erstkontakt Email Template]] — German outreach templates for 5 CMO candidates; technical specs and key questions
-- [[Performance Cafe Ingredienzen Datenbank]] — Full scientific ingredient database (46 ingredients, June 2026); EU status, dosing, COGS, heat stability
+### Performance Coffee Brand
+- [[Performance Cafe Marktanalyse Source Detail]] — Full EU/DACH market analysis; Blueprint benchmark, competitive landscape, pricing; June 2026
+- [[Performance Cafe Naming Brief]] — Naming brief with 15 candidates; Aevum top pick; IP assessment
+- [[Performance Coffee Brand Hai Onepager]] — Brand concept one-pager for Hai; Tier-1 stack defined
+- [[Performance Coffee Brand CLAUDE Project Context]] — CLAUDE.md project context and stack definition
+- [[Performance Café IP Landscape Modul 8]] — Patent landscape; Amazentis (UA) and Chromadex (NR) blockers
+- [[CMO Erstkontakt Email Template]] — German CMO outreach templates; 5 candidates; NAC odor masking challenge
+- [[Performance Cafe Supplier List]] — Supplier list with CMO candidates and contact details
+
+### Health & Personal
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Raw Scaneca scan data; full measurement table
+- [[Blutbild Panel Source Detail]] — Full 24-marker blood panel with longevity-optimized ranges
+- [[Andrew Huberman]] — Huberman Lab channel reference; evidence-based protocols
+- [[Build Muscle, Great Posture & Resilience to Injury Jeff Cavaliere]] — Huberman Lab episode; corrective exercise protocols
+- [[ALG I 2025 Source Detail]] — ALG I facts; ~8,400 € until June 2025
+- [[ALG I Progressionsvorbehalt Source Detail]] — §32b EStG mechanism with worked 2025 example
+
+### Financial
+- [[Allianz Insurance Consolidation Detail]] — Insurance consolidation strategy; 5-policy threshold
+- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Operative Planungsdokument Allianz-Konsolidierung
+
+---
 
 ## Syntheses
 
-- [[Health Protocol Master]] — Master daily protocol integrating training, nutrition, supplements, sleep, and biomarker tracking
-- [[MOC Performance und Leben]] — Parent MOC for all performance and health tracking
-- [[MOC Finanzen]] — Parent MOC for finance tracking
-- [[MOC Strategie und Business]] — Strategic MOC for business projects
+- [[IP Risk Matrix Performance Café]] — Consolidated IP risk assessment for Performance Coffee ingredient stack
+- [[Longevity Stack Ingredients]] — Full ingredient stack definition for Performance Coffee Brand across tiers
+
+---
 
 ## Comparisons
 
-- [[Ashwagandha KSM-66 vs Sensoril]] — Full comparison: KSM-66 better for sport/testosterone; Sensoril better for sleep/anxiety; both Blueprint-aligned
-- [[Alpha-GPC vs Citicoline]] — Alpha-GPC for acute ACh peak (sport); Citicoline for long-term neuroprotektion (longevity daily)
-- [[L-Tyrosin vs NALT]] — L-Tyrosine (54% bioavailability, cheaper) vastly superior to NALT (18% conversion, expensive, marketing product)
-- [[Kollagen Typ I vs Typ II]] — Typ I hydrolysiert for skin/tendons/bones (10–20 g/day); UC-II for joint cartilage (40 mg/day)
-- [[Magnesium Glycinat vs L-Threonat]] — Glycinat for sleep/general (SKU 3); L-Threonat for cognitive function/BBB (SKU 1)
-- [[NMN vs NR]] — NMN preferred (Bryan Johnson uses NMN); NR has Chromadex patent issues; both pending EU approval
+- [[Functional Coffee Competitive Landscape]] — Side-by-side: Four Sigmatic, RYZE, MUD\WTR, Clevr, Bulletproof vs. Performance Coffee Brand
+- [[Longevity Supplement Competitive Landscape]] — Side-by-side: Timeline, Tru Niagen, Purovitalis, DoNotAge, Qualia vs. Performance Coffee Brand

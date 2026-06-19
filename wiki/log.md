@@ -470,3 +470,11 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-19 20:03 UTC] ingest | raw/Business/PerformanceCafe/research/02_ingredienzen_db.md
 - Pages: [[Performance Cafe Ingredienzen Datenbank]]
 - Ingested Performance Café Ingredienzen-Datenbank (Modul 1) — created source summary + 15 new entity/concept pages covering all major ingredient categories, SKU formulations, regulatory blockers (NMN, Urolithin A), and the Blueprint Coffee hypothetical stack; updated Bryan Johnson entity with 2026 stack details; flagged multiple regulatory status items as wiki-searchable concepts.
+
+## [2026-06-19 20:08 UTC] ingest | raw/Business/PerformanceCafe/research/03_kaffee_specs.md
+- Pages: [[Kaffee Spezifikation Modul 2]], [[Chlorogenic Acid Longevity]], [[Trigonellin NAD Precursor]], [[Coffee Roast Profile Longevity]], [[Coffee Extraction Methods Instant]], [[Coffee Blend Ratios]]
+- Ingested Performance Café Modul 2 (Kaffee-Spezifikation): created source summary + 8 new entity/concept pages covering Robusta vs. Arabica, Vietnamese Robusta sourcing, chlorogenic acid, trigonellin, roasting profiles, and instant extraction methods; updated index.
+
+## [2026-06-19 20:13 UTC] ingest | raw/Business/PerformanceCafe/research/04_marktanalyse.md
+- Pages: [[Performance Cafe Marktanalyse Source Detail]], [[Blueprint by Bryan Johnson]], [[Bryan Johnson]], [[Four Sigmatic]], [[RYZE Mushroom Coffee]], [[MUDWTR]], [[Bulletproof Coffee]], [[Clevr Blends]]
+- Ingested Performance Café market analysis (04_marktanalyse.md) — created source summary, updated Bryan Johnson entity, created new entities for Blueprint, Four Sigmatic, RYZE, MUD\WTR, Timeline Nutrition (update), key market concept pages, and pricing analysis; updated index.
