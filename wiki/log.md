@@ -149,3 +149,14 @@ Contradiction noted: Health Protocol Master source states 15% body fat goal; raw
 ## [2026-06-13 16:46 UTC] ingest | raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md
 - Pages: [[OK Capital Finom 2026]], [[OK Capital UG]]
 - Ingested raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md. Created 2 new pages: (1) sources/OK Capital Finom 2026 — source summary page with full account detail, recurring costs (WestX 23,50 €/Mo + Google 8,10 €/Mo), and Oleg Darlehen 100 € (01.03.2026); (2) entities/OK Capital UG — new entity page for the UG business entity, cross-referencing existing Oleg Business Entity Structure wiki knowledge. Flagged potential contradiction: source references GmbH as 'ruhend' in Café Berlin Planning Detail context, but the UG (not GmbH) is the formally dormant entity per existing wiki — added ⚠️ Assumption [A] callout on OK Capital UG page. Also flagged that zero saldo + active 31,60 €/Mo costs suggests entity is operationally minimal but not fully dormant. Updated index.md with both new pages in their respective sections.
+
+## [2026-06-19 21:00] ingest | raw/Business/Wagglz/CI/Wagglz_Corporate_Identity.md
+- Created: [[Wagglz CI]]
+- Quellen: ZIP-Paket mit Logos (SVG/PNG/EPS/AI), Business Cards, Fonts, Social Assets, Design Concept PDF
+- Key findings:
+  - Primary: #2E54CB (Cobalt Blue, Pantone 2132C)
+  - Secondary: #A6A6FF (Lavender, Pantone 2705C)
+  - Accent: #CCFFB0 (Lime Green)
+  - Font: Poppins (alle Weights)
+  - Tagline: "We get tails wagging"
+- Applied to Wagglz-App: Theme und Layout auf echte CI-Farben umgestellt, Poppins als Font, Sidebar-Logo mit echtem W-Logomark
