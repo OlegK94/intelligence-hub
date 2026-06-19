@@ -1,125 +1,334 @@
-# Wiki Index
+---
+title: Intelligence Hub — Wiki Index
+type: index
+updated: 2026-06-19
+---
+
+# Intelligence Hub — Wiki Index
+
+Complete catalog of all wiki pages. Organized by category and subcategory. Updated after lint cleanup 2026-06-19.
+
+---
 
 ## Entities
 
 ### People
-- [[Andrew Huberman]] — Stanford neuroscientist, Huberman Lab podcast host; evidence-based health optimization protocols
-- [[Bryan Johnson]] — Entrepreneur/biohacker; Blueprint program founder; removed coffee from protocol creating Performance Coffee Brand white space
-- [[Hai]] — Co-founder of Performance Coffee Brand (formerly GROVE café concept)
-- [[Jeff Cavaliere]] — MSPT, CSCS; Athlean-X founder; corrective exercise and training longevity expert
-- [[Oleg Personal Context]] — Central subject of wiki; Berlin-based founder, biohacker, Hyrox athlete
-- [[Peter Attia]] — Longevity physician; ApoB and biomarker optimization framework
-- [[Rhonda Patrick]] — Biochemist; vitality protocols and supplementation research
 
-### Brands / Companies
-- [[Aidea]] — Priority 4 CMO candidate; Milan-based functional drinks and sachet specialist
-- [[Amazentis]] — Swiss biotech holding 50+ Urolithin A patents and EU Novel Food authorization; Timeline Nutrition parent
-- [[Blueprint by Bryan Johnson]] — Bryan Johnson's longevity supplement brand; no coffee product — creates Performance Coffee white space
-- [[Bulletproof Coffee]] — US/EU functional coffee brand; MCT-oil focus; concept dated (2015–2018 peak)
-- [[Chromadex / Niagen Bioscience]] — US biotech; NIAGEN NR patent holder; $129.4M revenue 2025 (+30% YoY)
-- [[Clevr Blends]] — US functional latte brand; $1.00/portion; no EU presence; no longevity stack
-- [[DoNotAge]] — UK longevity supplement brand; bulk NMN at lowest prices; post-Brexit EU shipping issues
-- [[Four Sigmatic]] — Helsinki/LA functional mushroom coffee brand; ~$15M revenue 2025 (down from $61.7M peak)
-- [[Herbafit]] — Priority 5 CMO candidate; DE-based powder sachets, IFS Food certified
-- [[Lehvoss Nutrition]] — Priority 2 CMO candidate; Hamburg-based custom formulation specialist
-- [[MUD\WTR]] — Anti-coffee functional blend brand; $25M funding; no coffee, no longevity stack; no EU presence
-- [[Nutri-Epitech]] — Priority 3 CMO candidate; Italy-based; longevity stack experience, small MOQ
-- [[Prinova]] — Priority 1 CMO candidate; Düsseldorf-based; largest functional ingredients experience
-- [[Purovitalis]] — Netherlands-based EU NMN brand; liposomal NMN €2.00/day; GMP/ISO certified; direct EU comparator
-- [[Qualia Senolytic]] — Neurohacker Collective; senolytic supplement; ~$39.50/dose; ultra-premium, low EU presence
-- [[RYZE Mushroom Coffee]] — Santa Monica DTC mushroom coffee; est. $30–50M ARR; 6 mushrooms, $1.00/portion; no longevity stack
-- [[Timeline Nutrition]] — Amazentis consumer brand; Mitopure (Urolithin A); $125/month; B2B contact bd@timeline.as
-- [[Tru Niagen]] — ChromaDex NR supplement brand; $49.99–$116.99; clinically studied NAD+ booster
+- [[Andrew Huberman]] — Stanford neuroscientist and host of Huberman Lab podcast — evidence-based health protocols; direct influence on Oleg's daily structure, supplement timing, and NSDR protocol (updated 2026-06-14)
+- [[Bryan Johnson]] — Entrepreneur and biohacker; Blueprint program founder (~2M X/Twitter followers); removed coffee from personal protocol but his community seeks Blueprint-compatible coffee — creating the white space for Performance Coffee Brand (updated 2026-06-14)
+- [[Hai]] — Oleg's business partner in the Performance Coffee Brand (50/50, Berlin) and Café Berlin partnership; brings capital, product/market expertise, production/distribution network (updated 2026-06-15)
+- [[Jeff Cavaliere]] — Physical therapist, strength coach, and founder of Athlean-X, known for science-based training and injury prevention (updated 2024-12-19)
+- [[Oleg Personal Context]] — Central entity for Oleg Kober — Berlin-based B2B SaaS sales professional, founder of Wagglz GmbH (active) and OK Capital UG (dormant); top priorities: Café Berlin, Hyrox, Health Optimization, Finanzen, Financial Independence (updated 2026-06-13)
+- [[Peter Attia]] — Physician and longevity medicine expert — host of The Drive podcast; emphasis on ApoB, Zone 2, metabolic health; one of three reference authorities in Oleg's performance system (updated 2026-06-13)
+- [[Rhonda Patrick]] — Biomedical scientist and founder of FoundMyFitness — expert in longevity, micronutrient optimization, and exercise biochemistry; key Biohacker segment influencer (updated 2026-06-15)
 
-### Businesses / Projects
-- [[Aevum Brand]] — Top-recommended brand name for Performance Coffee Brand; Latin for "lifespan"
-- [[Café Berlin Partnership Hai]] — ARCHIVIERT: Physical café concept (GROVE) replaced by Performance Coffee Brand
-- [[Performance Coffee Brand]] — Oleg's functional coffee + longevity supplement business; instant sachet format; DACH/EU focus
-- [[Wagglz GmbH]] — Oleg's existing GmbH entity (potential operating vehicle)
+### Organizations & Brands
 
-### Insurance / Finance Entities
-- [[ARAG Wagglz Versicherung]] — ARAG insurance at Wagglz; 100.88 €/quarter; cancellation due 2026-06-30
-- [[Allianz Insurance Consolidation]] — Project to consolidate 3 policies to Allianz for 20% colleague discount
-- [[ALG I 2025]] — ~8,400 € Arbeitslosengeld I until ~June 2025; triggers Progressionsvorbehalt
-- [[Barmenia]] — Health insurance supplement; 33 €/month; also co-KV provider for ESt 2025
+- [[Aidea]] — Priority 4 CMO candidate for Performance Coffee Brand — Milan-based functional drinks and sachet specialist; GMP and Halal certified (updated 2026-06-15)
+- [[Allianz Insurance Consolidation]] — Insurance consolidation project — switch 3 policies to Allianz to reach 5-policy threshold for 20% colleague discount; Risikolebensversicherung excluded (updated 2026-06-13)
+- [[Amazentis]] — Swiss biotech holding 50+ patents and EU Novel Food authorization for Urolithin A (MITOPURE); CHF 56M Series D investment; synthesis patent expires ~2034–2036 (updated 2026-06-14)
+- [[ARAG Wagglz Versicherung]] — ARAG insurance product tied to Wagglz GmbH — 100.88 €/quarter; cancellation required by 2026-06-30 (updated 2026-06-12)
+- [[Barmenia]] — Health insurance supplement (KV-Zusatz) costing 33 €/month in Oleg's fixed costs; also one of two KV providers for ESt 2025 (updated 2026-06-12)
+- [[Blueprint by Bryan Johnson]] — Bryan Johnson's commercial longevity supplement brand — sells Longevity Mix, Matcha, Super Shrooms, Creatine; NO coffee product; primary benchmark and white space source for Performance Coffee Brand (updated 2026-06-14)
+- [[Bulletproof Coffee]] — US/EU functional coffee brand; MCT oil concept peaked 2015–2018; no NMN/NAD+/Urolithin A/mushrooms; not a serious current competitor (updated 2026-06-14)
+- [[Clevr Blends]] — New York-based instant functional latte brand; low dosages; no longevity claims; no EU distribution (updated 2026-06-14)
+- [[CMO Sourcing Performance Coffee]] — Contract Manufacturing Organization sourcing process for Performance Coffee Brand — 5 candidates prioritized; key requirements: GMP, Kölner Liste readiness, NAC odor masking (updated 2026-06-15)
+- [[Chromadex Niagen Bioscience]] — US company (NASDAQ: NAGE) rebranded from ChromaDex to Niagen Bioscience in 2025; sole significant patent holder for NR (Nicotinamide Riboside); new NR salt form patent expires ~2034 (updated 2026-06-14)
+- [[Doctolib]] — Oleg's primary employer in 2026; net fixed salary of 3,638.82 €/month; sole confirmed income stream as of June 2026 (updated 2026-06-13)
+- [[Doctolib 2026]] — Oleg's employer Doctolib GmbH 2026 details — 6,300 € brutto/month + 364 € PKW-Sachbezug, Q1 bonus 8,533 € brutto; full-year projection ~105,568 € brutto (updated 2026-06-12)
+- [[DoktorLib]] — B2B SaaS company providing practice management software for medical practices; Oleg's employer (updated 2026-06-13)
+- [[DoktorLib Automation Pipeline]] — Active automation project at DoktorLib — end-to-end pipeline (Tally → Make → Salesforce/Notion → Dust Agent) to automate inbound lead onboarding for Arztpraxen (updated 2026-06-15)
+- [[DZR GmbH]] — Creditor from whom Oleg received a claim; total 363.20 € paid; written closure confirmation (Schlusserklärung) still outstanding (updated 2026-06-12)
+- [[ESB Naturkost]] — German BIO-certified CMO with small MOQ capability — listed in Performance Coffee Brand supplier list; relevant if organic/BIO product line pursued (updated 2026-06-15)
+- [[Four Sigmatic]] — Helsinki/Santa Monica functional mushroom coffee brand; ~$15M revenue (2025, down from $61.7M peak 2019); Lion's Mane + Chaga only; no longevity stack (updated 2026-06-14)
+- [[GSW Immobilien]] — Oleg's landlord for Auerstr. 29 Berlin; monthly rent 991.09 €; largest single fixed cost item (updated 2026-06-12)
+- [[GSW Miete]] — Monthly rent payment of 991.09 € to GSW — largest fixed cost line item; paid 17th from Consorsbank (updated 2026-06-12)
+- [[HEK]] — HEK (Hanseatische Krankenkasse) — one of Oleg's two health insurance providers in 2025; KV-Nachweis required for ESt 2025 (updated 2026-06-12)
+- [[Herbafit]] — Priority 5 CMO candidate for Performance Coffee Brand — Düsseldorf-based functional food and powder sachet specialist; IFS Food certified (updated 2026-06-15)
+- [[Informed Sport]] — Pan-European supplement certification by LGC Group — stricter than Kölner Liste with mandatory per-batch testing; Stufe 2 (scale phase) for Performance Coffee Brand (updated 2026-06-15)
+- [[Ingredient Suppliers Performance Coffee]] — Consolidated entity for all functional ingredient suppliers for Performance Coffee Brand — 12 ingredients with recommended suppliers and prices per kg (updated 2026-06-15)
+- [[Kölner Liste]] — German standard for athlete supplements — tests ~1,400 banned WADA substances; DACH market standard; Priority MVP certification for Performance Coffee Brand; cost 1,500–2,500 €/SKU (updated 2026-06-15)
+- [[Lehvoss Nutrition]] — Priority 2 CMO candidate for Performance Coffee Brand — Hamburg-based custom formulation expert; ISO 22000 certified (updated 2026-06-15)
+- [[Momentous]] — Premium supplement brand and official Huberman Lab partner — primary brand for Oleg's supplement stack (updated 2026-06-06)
+- [[MUDWTR]] — Anti-coffee functional blend brand; $25M funding; no coffee; no longevity stack; negligible EU presence (updated 2026-06-14)
+- [[NSF Certified for Sport]] — US gold standard supplement certification — mandatory for professional athletes in USA; Stufe 3 (US expansion phase) for Performance Coffee Brand; cost 5,000–10,000 € (updated 2026-06-15)
+- [[Nutri-Epitech]] — Priority 3 CMO candidate for Performance Coffee Brand — Italian manufacturer with longevity-stack experience and small MOQ capability; GMP certified (updated 2026-06-15)
+- [[Prinova]] — Priority 1 CMO candidate for Performance Coffee Brand — Düsseldorf-based with largest functional ingredient experience; FSSC 22000 certified (updated 2026-06-15)
+- [[Queisser Pharma]] — German CMO (Flensburg) listed in Performance Coffee Brand supplier list — NEM, sachets, powder specialist; ISO 22000 + GMP certified (updated 2026-06-15)
+- [[RYZE Mushroom Coffee]] — Santa Monica DTC mushroom coffee brand; est. $30–50M ARR; 6-mushroom blend; no longevity stack; zero EU presence (updated 2026-06-14)
+- [[SP STB]] — Oleg's Steuerberater responsible for ESt 2025 filing; recipient of tax document package due 2026-06-30; also handles Wagglz-related tax matters (updated 2026-06-12)
+- [[Sunday Natural]] — German supplement brand used by Oleg as the sole non-Momentous exception — specifically for Sulforaphane per Rhonda Patrick protocol (updated 2026-06-06)
+- [[Timeline Nutrition]] — Consumer brand for Urolithin A (MITOPURE); marketing subsidiary of Amazentis SA; L'Oréal and Nestlé Health Science investors; B2B contact bd@timeline.as (updated 2026-06-14)
+- [[Uelzener Tierversicherung]] — Pet (dog) insurance costing 132.48 €/month; third-largest insurance item in Oleg's fixed costs; flagged for market comparison by 2026-07-31 (updated 2026-06-12)
 
-### Health / Performance Entities
-- [[3D Body Scan Scaneca Mai 2026]] — May 2026 Scaneca baseline scan; 96.7 kg, 20.3% KFA, FFMI 21.3
-- [[Blutbild Panel]] — 24-marker quarterly blood biomarker panel with longevity-optimized targets
-- [[Hyrox Competition]] — Functional fitness race format; Oleg's athletic competition goal
+### Products & Projects
+
+- [[3D Body Scan Scaneca Mai 2026]] — Specific May 2026 Scaneca 3D body scan at Labor Berlin establishing Oleg's health protocol baseline — full measurements, interpretation, and targets (updated 2026-06-13)
+- [[Aevum Brand]] — AEVUM — top-recommended brand name for Performance Coffee Brand; Latin for "lifespan"; 5-star IP rating in EUIPO classes 30 and 5; directly embodies "Perform now. Live longer." tagline (updated 2026-06-14)
+- [[Café Berlin Partnership Hai]] — Archived: ursprüngliches physisches Café-Konzept mit Hai (GROVE) — ersetzt durch Performance Coffee Brand; GROVE-Businessplan als Referenz behalten (updated 2026-06-16)
+- [[Café Berlin Solo Analyse]] — Rejected solo analysis of a Berlin café venture — predecessor to the Café Berlin Partnership Hai project; archived (updated 2026-06-13)
+- [[Constantia Flexibles]] — DE/AT-based packaging supplier for Performance Coffee Brand — aluminium stick-pack 30×110mm with laser tearnotch (updated 2026-06-15)
+- [[Claude Projects Setup]] — Oleg's fully configured Claude AI Projects setup — 7 projects spanning creative, strategy, tech, performance, and café domains (updated 2026-06-07)
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — GROVE — complete café-bar business plan; Wagglz GmbH operating vehicle; 165,000 € capital; Berlin opening Feb 2027; break-even Month 4 (updated 2026-06-16)
+- [[GROVE Cashflow Trigger System]] — Five-tier cash reserve monitoring system for GROVE café — automatic salary and operational actions triggered at predefined cash thresholds (updated 2026-06-16)
+- [[GROVE Revenue Streams]] — Complete GROVE revenue stream overview across 8 channels — café sales, bar/DJ events, GROVE Sessions, online shop, Vietnamese Coffee brand, ROYCE chocolate, streaming, GROVE Records label (updated 2026-06-16)
+- [[Hyrox 10-Week Training]] — Oleg's 10-week Hyrox competition preparation program — next step is choosing a competition date; registration open/pending (updated 2026-06-13)
+- [[Hyrox Competition]] — Hyrox functional fitness race format — Oleg is an active competitor; primary limiter is aerobic capacity; 12-week prep protocol built on Zone 2 foundation (updated 2026-06-13)
+- [[Performance Coffee Brand]] — Oleg's Priority 1 business project — functional longevity instant coffee sachet brand targeting white space Bryan Johnson left; 9-module research framework active; CMO outreach underway (updated 2026-06-14)
+- [[Performance Coffee Brand AEVUM Naming]] — Brand naming candidates for Performance Coffee Brand — AEVUM identified as top trademark candidate; EUIPO research pending (updated 2026-06-15)
+- [[Performance Coffee Brand Legal and Entity Structure]] — Legal entity roadmap for Performance Coffee Brand — UG immediately, GmbH after first funding; 50/50 Oleg+Hai with 4-year vesting; IP at OK Capital (updated 2026-06-15)
+- [[Performance Coffee Brand Naming]] — Completed naming process for Performance Coffee Brand — top recommendation is AEVUM (lat. Lebenszeit); 15 candidates evaluated; positioning tagline "Perform now. Live longer." (updated 2026-06-14)
+- [[Performance Coffee Brand Packaging Concept]] — Packaging design and material specification for Performance Coffee Brand stick-pack sachets — monochrome with amber accent, matte foil, full ingredient transparency, triple-purpose QR code (updated 2026-06-14)
+- [[Performance Coffee Brand Voice and Positioning]] — Brand voice and positioning framework for Performance Coffee Brand — four core voice principles modeled on Blueprint and Huberman Lab; primary tagline "Perform now. Live longer." (updated 2026-06-14)
+- [[ROYCE Nama Schokolade]] — ROYCE' Nama Chocolate from Hokkaido — GROVE Phase 2 product; "Tokyo × Hanoi" pairing with Vietnamese Coffee; import via EU-Händler ~18–22 €/box (updated 2026-06-16)
+- [[Vietnamese Coffee GROVE]] — GROVE's signature Vietnamese coffee line — Cà Phê Sữa Đá as lead product; phin-filter ritual at counter; GROVE Signature (Robusta) + Smooth (Arabica) own-brand beans (updated 2026-06-16)
+- [[Wagglz]] — Wagglz is an existing business entity under Oleg Kober's OK Capital holding — operates as sibling entity to the planned Performance Coffee Brand (updated 2026-06-15)
+- [[Wagglz App UI Screens]] — Wagglz App UI Screens und Wireframes — Onboarding-Flow für Tierarztpraxen, Demo-Booking, Kalender-Integration (updated 2026-06-16)
+
+### Finance Entities
+
+- [[ALG I 2025]] — Arbeitslosengeld I received by Oleg in 2025 — approximately 8,400 € total, until ~June 2025; subject to §32b EStG Progressionsvorbehalt; triggers Pflichtveranlagung §46 EStG (updated 2026-06-12)
+- [[Consorsbank]] — Oleg's primary private current account; in overdraft (Dispo) at −1,405 € as of June 2026; indicates near-zero liquidity (updated 2026-06-13)
+- [[Consorsbank Depot 1117241081]] — Consorsbank investment depot linked to Oleg's main Girokonto — referenced in account overview; no holdings or valuation data available from source (updated 2026-06-12)
+- [[Consorsbank Girokonto 0250120493]] — Oleg's main Consorsbank current account — IBAN DE23760300800250120493; Dispo 5,000 €; saldo +971.67 € per 29.05.2026; primary salary receipt account for Doctolib (updated 2026-06-12)
+- [[Consorsbank Girokonto 260809254]] — Closed Consorsbank account — 11.32 € outstanding balance paid and account dissolved on 2026-06-12 (updated 2026-06-12)
+- [[Consorsbank Tagesgeld 253403894]] — Consorsbank savings (Tagesgeld) account linked to main Girokonto — interest rate 1.00% p.a. from 16.06.2026 (updated 2026-06-12)
+- [[Cyprus Relocation]] — Someday/paused relocation plan — Cyprus favored for 50% income tax exemption; budget ~4,100 €/month; startup capital 30,000–35,000 €; not an active project (updated 2026-06-13)
+- [[ESt 2025]] — Oleg's 2025 income tax filing — GF-Gehalt ~30,000 €, ALG I ~8,400 € (Progressionsvorbehalt); mandatory filing §46 EStG; handled by SP STB (updated 2026-06-12)
+- [[Finanz Rehabilitation Plan]] — 3-Phasen Finanz-Rehabilitationsplan — von strukturellem Jahresdefizit (−7.970 €) zu stabiler Liquidität; Wagglz GmbH + OK Capital UG als struktureller Kostenblock (updated 2026-06-13)
+- [[Finanzübersicht 2026]] — Überblick über Olegs Finanzlage 2026 — strukturelles Jahresdefizit ~7.970 €, Einnahmen ~3.639 €/Mo netto, Fixkosten ~1.215 €+, Consorsbank im Dispo (updated 2026-06-13)
+- [[Fixkosten Übersicht]] — Oleg's monthly fixed costs as of June 2026 — total ~2,120 € fixed (58% of Doctolib net); largest items: rent 991 €, VW Konsumkredit 682 €, Uelzener Tierversicherung 132 € (updated 2026-06-12)
+- [[Master Prompt Gesamtanalyse]] — Referenced analysis framework for comprehensive review of OK Capital UG and Wagglz GmbH — covers insolvency checks, strategic options, documentation review (updated 2026-06-13)
+- [[MOC Finanzen]] — Master navigation hub for Oleg's private finances — links to accounts, tax filing, costs, and income sources (updated 2026-06-12)
+- [[NMN EU Status 2026]] — Beta-NMN regulatory status in EU as of June 2026 — Novel Food not approved; EFSA positive Safety Opinion issued May 2026; Germany is a legal grey zone; re-evaluate 2027+ (updated 2026-06-14)
+- [[OK Capital]] — OK Capital is Oleg Kober's existing holding company — parent entity for Wagglz and the planned Performance Coffee Brand; holds IP (brand rights + recipes) via IP licensing structure (updated 2026-06-15)
+- [[OK Capital Finom 2026]] — OK Capital UG business banking account at Finom — running costs WestX 23.50 €/Mo + Google 8.10 €/Mo (updated 2026-06-12)
+- [[OK Capital Holding]] — IP holding entity for the Performance Coffee Brand — holds trademark and recipe IP in a tax-optimized structure; separate from Wagglz GmbH operating entity (updated 2026-06-15)
+- [[OK Capital UG]] — OK Capital UG — Oleg's dormant (ruhend) company; Jahresabschluss currently due at 5,000 €; insolvency risk flagged (updated 2026-06-13)
+- [[Oleg Business Entity Structure]] — Oleg's full business entity structure — OK Capital UG (holding, 100% Oleg) → Wagglz GmbH (operativ, 100% UG); monthly holding costs 31.60 € (updated 2026-06-12)
+- [[Oleg Command Center]] — Oleg's top-level personal Command Center — dual-track system: Financial Rehabilitation + Performance/Body; current critical state: -7,970 € structural annual deficit, -1,405 € overdraft (updated 2026-06-13)
+- [[Oleg Financial Situation]] — Oleg Kober's consolidated personal financial situation — structural annual deficit of −7,970 €, Dispo-Konto, VW-Bank personal credit; total pressure ~−16,000 €/year before provisions (updated 2026-06-10)
+- [[Oleg-Darlehen]] — Shareholder loan from Oleg personally to Wagglz GmbH — currently financing ongoing Wagglz operating costs of ~120–255 €/month (updated 2026-06-12)
+- [[P0 Sofortmaßnahmen]] — Oleg's P0 critical task list — two open items with hard legal/financial deadlines (Rangrücktritt Wagglz, Vollständigkeitserklärung SP STB); personal liability risk under §15a InsO (updated 2026-06-12)
+- [[P2 Diesen Monat]] — P2 priority task list — financial tasks due this month: PKW-Sachbezug optimization, Notfallfonds setup, DZR closure, ARAG Wagglz cancellation, Steamone payment, VW Sondertilgung (updated 2026-06-12)
+- [[VW Bank Kredit]] — VW-Bank loan at 681.57 €/month until November 2028 — question of early repayment (Sondertilgung) is open strategic decision (updated 2026-06-13)
+- [[VW Konsumkredit]] — VW Bank Konsumkredit — 50,000 € Darlehen, 84 Monate Laufzeit (Nov 2021–Nov 2028), Rate 681.57 €/Monat, Restschuld 18,858 € per Jun 2026 (updated 2026-06-12)
+- [[VW Kredit]] — Volkswagen vehicle loan — 18,858 € Restschuld confirmed as of 2026-06-12, running until November 2028 (updated 2026-06-12)
+- [[VW-Bank Finanzierung]] — VW Bank financing payment of 681.57 €/month debited 16th from Consorsbank — second-largest fixed cost after rent (updated 2026-06-12)
+- [[Wagglz Finom 2026]] — Wagglz GmbH business banking account at Finom — balance and transaction detail not available from current source (updated 2026-06-12)
+- [[Wagglz GmbH]] — Wagglz GmbH — Oleg's company with no revenue since January 2026; strategic decision required by 2026-07-01: continue vs. dissolve (§17 EStG loss) (updated 2026-06-12)
+
+### Health & Medical
+
+- [[Alpha-GPC]] — Choline compound used for cognitive enhancement and acetylcholine support in pre-workout protocols (updated 2024-12-19)
+- [[Apple Passwords]] — Apple's native password manager (iOS 18+ / macOS 15+) — lacks Custom Fields, multi-URL, Vault structure; target of Oleg's migration evaluation from Proton Pass (updated 2026-06-09)
+- [[Blutbild Panel]] — Oleg's structured blood biomarker panel — 24 markers across 4 quarterly timepoints with longevity-optimized target ranges; ApoB must be separately requested (updated 2026-06-13)
+- [[Friedrichshain]] — Berlin neighborhood identified as a target location for the Café Berlin Partnership Hai venture (updated 2026-06-14)
+- [[Glute Medius]] — Hip abduction muscle critical for pelvic stability and primary factor in lower back pain prevention (updated 2024-12-19)
+- [[L-Tyrosine]] — Amino acid precursor to dopamine and norepinephrine — taken situationally pre-workout alongside Alpha-GPC for dual-pathway cognitive enhancement (updated 2026-06-06)
+- [[Password Manager Migration]] — Open decision on whether to migrate from Proton Pass to Apple Passwords — blocked by Custom Fields audit (updated 2026-06-13)
+- [[Performance Overview]] — Master performance hub document for Oleg — links Hyrox prep, Blutbild Panel, 3D body scan, and health protocols into a unified performance system (updated 2026-06-13)
+- [[Prenzlauer Berg]] — Berlin neighborhood identified as a target location for the Café Berlin Partnership Hai venture (updated 2026-06-14)
+- [[Privacy and Tech Stack]] — Oleg's privacy-first tech stack — Apple devices, Brave on Mac / Safari on iOS, full Proton ecosystem (Mail, Calendar, VPN, Pass, Drive), domain ok-holding.com (updated 2026-06-16)
+- [[Proton Pass]] — Privacy-first password manager by Proton AG — supports Custom Fields, multi-URL, Vault structure, Credit Cards, Identity entries; currently used by Oleg but under migration review (updated 2026-06-09)
+- [[Rehabilitation Plan]] — Oleg's three-phase financial rehabilitation plan — framework for eliminating structural annual deficit (-7,970 €), clearing the overdraft (-1,405 €), reaching financial stability (updated 2026-06-13)
+- [[Supplement Stack]] — Oleg's active supplement stack — Momentous-primary with 6 active supplements, Sulforaphane as sole non-Momentous exception, situational pre-workout (Alpha-GPC + L-Tyrosine) (updated 2026-06-06)
+- [[Tagesstruktur and Schedule]] — Oleg's structured daily schedule — protocol-level document covering hourly time blocks from 05:00 wake to 20:30 sleep (updated 2026-06-13)
+- [[TEMPUR Matratzenkauf]] — Abgeschlossene Kaufentscheidung — 2× TEMPUR PRO Plus SmartCool 90×200 in unterschiedlichen Härtegraden (updated 2026-06-15)
 
 ---
 
 ## Concepts
 
-### Performance Coffee Brand — Market & Strategy
-- [[Functional Beverage Market]] — EU market €32.86B (2025) → €46.89B (2031); CAGR 6.12%; DE = 35% of EU market
-- [[Longevity Supplement Market]] — Global $7.4–28.6B (2024) → $18.9–62.4B; CAGR 9–11%; fastest-growing health category
-- [[Biohacking Market DACH]] — Germany €1.65B biohacking market (2024); CAGR 18.8% to 2030; 22.6% of EU biohacking market
-- [[Performance Cafe Pricing Strategy]] — €3.49/portion recommended launch price; full pricing structure with Einzelkauf/Abo/Starter tiers
-- [[Functional Coffee White Space]] — No competitor combines coffee + full longevity stack (NMN/NAD+/Urolithin A); core market opportunity
-- [[Blueprint Community White Space]] — Blueprint sells no coffee; community seeks Blueprint-compatible morning product
+### Health & Performance
 
-### Performance Coffee Brand — Ingredients
-- [[Alpha-GPC]] — Choline compound; pre-workout cognitive enhancement; Tier-1 Performance Coffee ingredient
-- [[Ashwagandha KSM-66]] — Branded ashwagandha extract; 300mg in Tier-1 stack; cortisol reduction + coffee synergy
-- [[NMN]] — Nicotinamide mononucleotide; NAD+ precursor; key longevity ingredient in Performance Coffee stack
-- [[Taurin]] — Amino acid; Tier-1 Performance Coffee ingredient; cardiovascular and cognitive support
-- [[Urolithin A]] — Mitophagy activator; Amazentis patent; pomegranate extract as patent-free alternative for MVP
-- [[L-Theanin]] — Amino acid; calm focus synergy with caffeine; Tier-1 ingredient
+- [[3D Body Scan]] — Advanced body composition analysis using 3D scanning technology for precise fitness tracking — including Scaneca baseline data and follow-up protocol (updated 2026-06-06)
+- [[BMR and TDEE]] — BMR (Basal Metabolic Rate) and TDEE (Total Daily Energy Expenditure) — Oleg's baseline BMR = 2,113 kcal, TDEE = ~3,645 kcal, daily caloric target = 2,800 kcal (updated 2026-06-13)
+- [[Biomarker Testing]] — Systematic blood biomarker testing as a health optimization and longevity tracking strategy — 24 markers quarterly with longevity-optimized reference ranges (updated 2026-06-13)
+- [[Brick Training]] — Training method combining two different exercise modalities back-to-back without rest to improve transitions (updated 2024-12-19)
+- [[Corrective Exercise]] — Targeted exercises designed to address movement dysfunction, muscle imbalances, and prevent injury (updated 2024-12-19)
+- [[Daily Protocol Checklist]] — Daily protocol checklist for Oleg's health and performance routines (updated 2026-06-15)
+- [[FFMI]] — Fat-Free Mass Index — body composition metric measuring muscle mass relative to height; Oleg's baseline = 21.3 (updated 2026-06-06)
+- [[Forward Head Posture]] — Forward head posture (30° deviation) identified in Oleg's May 2026 scan — directly impairs breathing efficiency via diaphragm compression (updated 2026-06-13)
+- [[HIIT Training]] — High-Intensity Interval Training for cardiovascular fitness and fat loss (updated 2024-12-19)
+- [[Neck Training]] — Comprehensive neck strengthening protocol for posture improvement, injury prevention, and aesthetic balance (updated 2024-12-19)
+- [[NSDR]] — Non-Sleep Deep Rest protocol for enhanced recovery and stress management (updated 2024-12-19)
+- [[Sauna]] — Heat therapy protocol for recovery, cardiovascular health, and longevity benefits (updated 2024-12-19)
+- [[Sleep Optimization]] — Sleep optimization strategies in Oleg's performance protocol — covers mattress/pillow selection (TEMPUR), sleep supplements, and sleep posture correction (updated 2026-06-15)
+- [[Zone 2 Cardio]] — Zone 2 training — aerobic intensity below the first lactate threshold; primary fat oxidation zone; key longevity and Hyrox preparation tool; primary limitator for Oleg's Hyrox performance (updated 2026-06-13)
+- [[Zone 2 Training]] — Low-to-moderate intensity aerobic training at Zone 2 heart rate — primary modality for visceral-selective fat loss and Hyrox aerobic base (updated 2026-06-13)
 
-### Performance Coffee Brand — Operations & Legal
-- [[CMO Sourcing Performance Coffee]] — Contract manufacturing sourcing; 5 candidates prioritized; outreach underway
-- [[Certification Roadmap Performance Coffee Brand]] — Kölner Liste → Informed Sport certification pathway
-- [[Kölner Liste]] — German anti-doping supplement certification; key differentiator for athlete segment
-- [[NEM Konformität]] — EU food supplement regulatory compliance framework
-- [[EU Novel Food Regulation]] — Regulatory framework for novel ingredients; relevant for Urolithin A
+### Business & Legal
 
-### Health & Performance Concepts
-- [[3D Body Scan]] — Advanced body composition analysis technology; Scaneca baseline established May 2026
-- [[ALG I Progressionsvorbehalt]] — §32b EStG mechanism; ALG I raises tax rate on all other income
-- [[Apigenin]] — Plant flavonoid; sleep onset support; part of Momentous Expert Stack and Huberman sleep cocktail
-- [[Ashwagandha KSM-66]] — Branded ashwagandha; Tier-1 Performance Coffee ingredient (see also Concepts above)
-- [[Biomarker Testing]] — Systematic blood biomarker measurement for health optimization; 24 markers quarterly
-- [[BMR and TDEE]] — Metabolic rate metrics; Oleg BMR 2,113 kcal, TDEE ~3,645 kcal, target 2,800 kcal
-- [[Brick Training]] — Combining two exercise modalities back-to-back; Hyrox-specific preparation method
-- [[Corrective Exercise]] — Targeted exercises for stability/mobility/posture; Cavaliere framework
+- [[ALG I Progressionsvorbehalt]] — German tax mechanism — ALG I is tax-free but raises the applicable tax rate on all other taxable income (§32b EStG); Mehrbelastung ~2,000 € for Oleg; Pflichtveranlagung triggered by §46 EStG (updated 2026-06-12)
+- [[Cyprus Tax Regime]] — Overview of Cyprus's favorable tax framework — 50% income tax exemption for qualifying employees, Non-Domicile status (updated 2026-06-14)
+- [[Doctolib PKW-Sachbezug]] — PKW-Sachbezug (company car benefit) from Doctolib — 364 €/month under 1%-Regelung; Fahrtenbuch alternative under review for potential tax savings (updated 2026-06-12)
+- [[EFSA Health Claims]] — EU framework for permitted health claims on food and supplements — governs what Performance Coffee Brand can and cannot say; anti-aging claims forbidden (updated 2026-06-15)
+- [[EUIPO Trademark Registration]] — EU trademark registration via EUIPO — required for Performance Coffee Brand before any public launch; covers Nice Classification Classes 30 and 5 (updated 2026-06-15)
+- [[EU Novel Food Regulation]] — EU Novel Food Regulation (EU) 2015/2283 — framework requiring pre-market authorization; critical blocker for NMN, Urolithin A, and Spermidine (updated 2026-06-15)
+- [[Employer of Record]] — EOR — third-party entity enabling compliant cross-border remote work; key gate item for Cyprus relocation strategy (updated 2026-06-14)
+- [[Financial Independence]] — Core strategic goal for Oleg — achieving financial independence combined with location freedom, with Cyprus as the target destination (updated 2026-06-13)
+- [[GROVE Sessions External]] — GROVE's pre-opening strategy of hosting coffee × DJ events in partner Berlin cafés — starts mid-2026, builds community before own café opens (updated 2026-06-16)
+- [[Gesellschafterdarlehen]] — Gesellschafterdarlehen (shareholder loans) — German legal and tax concept for loans from shareholders to their GmbH/UG; covers Rangrücktritt, eigenkapitalersetzend risk (updated 2026-06-10)
+- [[Insolvenzprüfung]] — German insolvency law concepts relevant to GmbH/UG management — §17 InsO (Zahlungsunfähigkeit), §19 InsO (Überschuldung), 21-day filing obligation (updated 2026-06-10)
+- [[KfW ERP-Gründerkredit]] — German state-backed startup loan program from KfW — relevant as a financing instrument for the Café Berlin venture (updated 2026-06-14)
+- [[NEM Konformität]] — Mandatory EU/DACH food law compliance framework for dietary supplements — covers NEM classification, LMIV labeling, Novel Food checks; must be completed before Performance Coffee Brand launch (updated 2026-06-15)
+- [[Notfallfonds]] — Emergency fund goal — 3× net monthly salary (~10,900 €) to be held in Consorsbank Tagesgeld; currently 0 € separated (updated 2026-06-12)
+- [[Portugal IFICI]] — Portugal's IFICI tax regime — explicitly excludes sales professions; rejected in favor of Cyprus (updated 2026-06-14)
+- [[Rangrücktritt §15a InsO]] — German insolvency law concept — Rangrücktritt (subordination declaration) prevents GmbH over-indebtedness from triggering §15a InsO filing obligation; without it, GF faces personal criminal liability; directly relevant to Wagglz GmbH's 27,926.89 € Fehlbetrag (updated 2026-06-12)
+- [[Risikolebensversicherung]] — German term life insurance — fixed-premium policy where entry age locks in premium rates permanently, making mid-contract switching costly (updated 2026-06-13)
+
+### Tech & Privacy
+
+- [[Dust Agent]] — Internal AI platform (Dust.tt) used in the DoktorLib pipeline as the KEB-Generator — reads Salesforce data and auto-generates the Kundenerfassungsbogen (updated 2026-06-15)
+- [[Kundenerfassungsbogen]] — The KEB — DoktorLib's customer registration document; currently a manually filled Excel, being replaced by AI-generated output from the Dust Agent pipeline (updated 2026-06-15)
+- [[Make]] — No-code automation platform (formerly Integromat) used as middleware in the DoktorLib pipeline (updated 2026-06-15)
+- [[Notion]] — Project planning tool used as secondary data layer in the DoktorLib pipeline — receives synchronized data from Make (updated 2026-06-15)
+- [[Proton Mail]] — Privacy-first, end-to-end encrypted email service by Proton AG — Zero-Knowledge architecture; used as Oleg's primary email with domain ok-holding.com (updated 2026-06-16)
+- [[Proton VPN]] — Privacy-focused VPN by Proton AG — active on all of Oleg's devices with Kill Switch enabled (updated 2026-06-16)
+- [[Salesforce]] — CRM platform selected as the Long-Term Data Backbone for the DoktorLib Automation Pipeline (updated 2026-06-15)
+- [[Tally]] — No-code form builder used in the DoktorLib Automation Pipeline for DSGVO-compliant data collection; EU-hosted in Belgium (updated 2026-06-15)
+- [[Vault Architecture]] — The two-layer vault architecture separating immutable raw sources from the living wiki — raw/ contains original notes, wiki/ contains integrated knowledge (updated 2026-06-15)
+
+### Ingredients & Supplements
+
+- [[Apigenin]] — Plant flavonoid (from chamomile) included in the Momentous Complete Expert Stack — promotes sleep onset; part of the Huberman sleep cocktail (updated 2026-06-06)
+- [[Ashwagandha KSM-66]] — Branded ashwagandha root extract (KSM-66 by Ixoreal Biomed) included at 300mg in Performance Coffee Brand Tier-1 stack — cortisol reduction, stress resilience (updated 2026-06-15)
+- [[Chlorogenic Acid]] — Chlorogenic acid (CGA) — primary longevity polyphenol in coffee; AMPK activator (same pathway as metformin and caloric restriction); improves insulin sensitivity via GLP-1 potentiation and NF-κB inhibition; Robusta contains 7–12% TG vs. Arabica 4–8%; 25–45 mg per 2g Freeze-Dried sachet (updated 2026-06-19)
+- [[Coffee Blend Ratios]] — Five Robusta/Arabica blend scenarios; 60/40 Robusta/Arabica recommended (Longevity Score 9/10) — optimal balance of CGA, Trigonellin, caffeine, and consumer taste (updated 2026-06-14)
+- [[Coffee Extraction Methods Instant]] — Four instant coffee extraction methods compared — Freeze-Dried recommended for Phase 1 (70–85% CGA retention, 15–25 €/kg) (updated 2026-06-14)
+- [[Coffee Roast Profile Longevity]] — Optimal roast profile for longevity coffee — City Roast (Medium-Light, 215–218°C internal) maximizes CGA and Trigonellin retention (updated 2026-06-14)
+- [[Creatine]] — Creatine monohydrate — one of the most evidence-backed supplements for strength, power, and cognitive performance; Oleg takes 5g daily via Momentous (updated 2026-06-06)
+- [[Flavorist Services Performance Coffee]] — Specialized flavorist services for NAC odor masking in Performance Coffee Brand sachets — three firms recommended (Givaudan, Symrise, IFF) (updated 2026-06-15)
+- [[Hallmarks of Aging]] — López-Otín 2023 framework — 12 hallmarks of aging in 3 categories; AMPK/mTOR/Sirtuine pathway is highest-addressability and main longevity channel for coffee (updated 2026-06-15)
+- [[L-Theanin]] — Amino acid from green tea included in the Momentous Complete Expert Stack — promotes relaxation without sedation, reduces stimulant-related anxiety (updated 2026-06-06)
+- [[Lion's Mane]] — Medicinal mushroom (Hericium erinaceus) included at 500mg in Performance Coffee Brand Tier-1 stack — supports neuroplasticity via NGF stimulation (updated 2026-06-15)
+- [[Longevity Stack Ingredients]] — Comprehensive classification of longevity-relevant supplement ingredients for Performance Coffee Brand — 7 categories from stimulants to vitamins (updated 2026-06-14)
+- [[Magnesium L-Threonate]] — Brain-bioavailable form of magnesium in the Momentous Complete Expert Stack — supports sleep quality, synaptic density, and cognitive function (updated 2026-06-06)
+- [[NAC]] — N-Acetyl Cysteine — glutathione precursor in the Performance Café longevity stack; key formulation challenge is strong sulfurous odor requiring masking (updated 2026-06-15)
+- [[NMN]] — Nicotinamide Mononucleotide — NAD+ precursor and key longevity supplement; EU Novel Food status is the critical regulatory blocker for Performance Coffee Brand Tier-2 stack (updated 2026-06-15)
+- [[Performance Cafe Research Team Roles]] — Six interdisciplinary research team roles defined for Performance Coffee Brand — LON, ING, COF, MKT, PRO, REG (updated 2026-06-14)
+- [[Performance Coffee]] — Wissenschaftlich optimiertes Kaffee-Protokoll für maximale kognitive und physische Performance ohne Schlafkompromisse (updated 2026-06-14)
+- [[Schutzgas-Versiegelung]] — Nitrogen gas (N₂) protective atmosphere sealing for Performance Coffee Brand sachets — critical for NMN and NR stability (updated 2026-06-15)
+- [[Spermidine]] — Polyamine compound that induces autophagy; candidate ingredient for Performance Café longevity stack; EU Novel Food status unclear as of 2025 (updated 2026-06-15)
+- [[Sulforaphane]] — Sulforaphane — broccoli sprout-derived compound activating the NRF2 pathway; Oleg takes it via Sunday Natural per Rhonda Patrick's protocol (updated 2026-06-06)
+- [[Taurin]] — Semi-essential amino acid with mitochondrial support and longevity properties — included at 500mg in Performance Coffee Brand Tier-1 stack (updated 2026-06-15)
+- [[Trigonellin]] — Coffee alkaloid and natural NAD+ precursor — Nature Metabolism 2024 discovery; metabolized to NAD+ via Preiss-Handler pathway; 30–50 mg/cup in light roast; enables "natural NMN precursor" marketing claim (updated 2026-06-15)
+- [[Trigonellin NAD Precursor]] — Trigonellin — coffee alkaloid identified by Yoshino et al. (Cell Metabolism 2024); Arabica contains more than Robusta; degrades above 192°C; key argument for including Arabica in Performance Coffee blend (updated 2026-06-14)
+- [[Urolithin A]] — Gut microbiome-derived longevity compound; induces mitophagy (mitochondrial autophagy); patented by Amazentis as MITOPURE (50+ patents, EU Novel Food authorized 2022); critical IP + regulatory blocker for Performance Coffee Brand Tier-2 stack; pomegranate extract precursor recommended for MVP (updated 2026-06-19)
 
 ---
 
 ## Sources
 
-### Performance Coffee Brand
-- [[Performance Cafe Marktanalyse Source Detail]] — Full EU/DACH market analysis; Blueprint benchmark, competitive landscape, pricing; June 2026
-- [[Performance Cafe Naming Brief]] — Naming brief with 15 candidates; Aevum top pick; IP assessment
-- [[Performance Coffee Brand Hai Onepager]] — Brand concept one-pager for Hai; Tier-1 stack defined
-- [[Performance Coffee Brand CLAUDE Project Context]] — CLAUDE.md project context and stack definition
-- [[Performance Café IP Landscape Modul 8]] — Patent landscape; Amazentis (UA) and Chromadex (NR) blockers
-- [[CMO Erstkontakt Email Template]] — German CMO outreach templates; 5 candidates; NAC odor masking challenge
-- [[Performance Cafe Supplier List]] — Supplier list with CMO candidates and contact details
-
-### Health & Personal
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Raw Scaneca scan data; full measurement table
-- [[Blutbild Panel Source Detail]] — Full 24-marker blood panel with longevity-optimized ranges
-- [[Andrew Huberman]] — Huberman Lab channel reference; evidence-based protocols
-- [[Build Muscle, Great Posture & Resilience to Injury Jeff Cavaliere]] — Huberman Lab episode; corrective exercise protocols
-- [[ALG I 2025 Source Detail]] — ALG I facts; ~8,400 € until June 2025
-- [[ALG I Progressionsvorbehalt Source Detail]] — §32b EStG mechanism with worked 2025 example
-
-### Financial
-- [[Allianz Insurance Consolidation Detail]] — Insurance consolidation strategy; 5-policy threshold
-- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Operative Planungsdokument Allianz-Konsolidierung
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Raw source for Scaneca 3D body scan 29.05.2026 — full measurement table, interpretation, target values, follow-up timeline (updated 2026-06-06)
+- [[ALG I 2025 Source Detail]] — Source document for ALG I 2025 — confirms ~8,400 € received; §32b EStG Progressionsvorbehalt; §46 EStG triggers Pflichtveranlagung (updated 2026-06-12)
+- [[ALG I Progressionsvorbehalt Source Detail]] — Source document explaining §32b EStG Progressionsvorbehalt mechanism with worked 2025 example — ~2,000 € additional tax burden (updated 2026-06-12)
+- [[Allianz Insurance Consolidation Detail]] — Source document detailing Allianz insurance consolidation strategy — 5-policy threshold for 20% colleague discount (updated 2026-06-13)
+- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Privat-Dokument zur Allianz-Konsolidierung — 3 neue Policen zu Allianz; 5-Policen-Schwelle für 20% Kollegenrabatt (updated 2026-06-16)
+- [[Andrew Huberman]] (source) — Stanford neuroscientist and host of Huberman Lab podcast — evidence-based health and performance protocols; channel-level reference (updated 2026-06-14)
+- [[Blutbild Panel Source Detail]] — Source document for Oleg's 24-marker Blutbild Panel — longevity-optimized target ranges, 4 quarterly fasting blood draws, Priority 1/2 marker split (updated 2026-06-13)
+- [[Build Muscle, Great Posture & Resilience to Injury Jeff Cavaliere]] — Full-transcript Huberman Lab episode with Jeff Cavaliere — injury prevention, corrective exercises, posture, training longevity (updated 2026-06-14)
+- [[CMO Erstkontakt Email Template]] — German-language CMO outreach email template for Performance Coffee Brand — initial contact and follow-up templates, 5 CMO candidates (updated 2026-06-15)
+- [[Café Berlin Partnership Hai Raw Source]] — Ursprüngliches Planungsdokument für Café Berlin Co-Founder-Projekt mit Hai — Agenda für Planning Session 14.06.2026 (updated 2026-06-16)
+- [[Café Berlin Partnership Hai — Planning Detail]] — Full planning document for the Café Berlin co-founder venture with Hai — covers capital structure, role split, legal entity, location economics, profitability model (updated 2026-06-14)
+- [[Claude Projects Setup Source Detail]] — Source document detailing Oleg's 7 Claude AI Projects — structure, roles, context-driven vs task-driven distinction, global preferences (updated 2026-06-07)
+- [[Claude Session Finanzen Template]] — Template für Claude Finance-Sessions — kompakter Kontext-Block + vier vordefinierte Session-Typen (updated 2026-06-16)
+- [[Claude Session Template Performance]] — Reusable Claude session template for Oleg's Performance & Leben domain — five session-type sub-templates (updated 2026-06-13)
+- [[Consorsbank Girokonto 0250120493 Source Detail]] — Source document for Oleg's main Consorsbank Girokonto — IBAN DE23760300800250120493, full 2026 balance history (updated 2026-06-12)
+- [[Cyprus Relocation Detail]] — Full source document for Oleg's Cyprus Relocation plan — country comparison, cost structure, startup capital, gate items (EOR + tax advisor) (updated 2026-06-14)
+- [[Cyprus Relocation Source Detail]] — Strategiedokument Cyprus Relocation — Zypern als beste Option (50% Einkommenssteuer-Exemption); blockiert durch EOR-Klärung (updated 2026-06-16)
+- [[Cyprus Relocation Tracker Privat Source Detail]] — Kurznotiz Cyprus Relocation — aktuell pausiert; Zypern favorisiert; Budget 4.100 €/Monat (updated 2026-06-16)
+- [[Cyprus Relocation Tracker Source Detail]] — Raw source for Cyprus/Auswandern someday tracker — paused project; Cyprus favored over Portugal (updated 2026-06-13)
+- [[Doctolib 2026 Source Detail]] — Source document for Doctolib GmbH salary 2026 — 6,300 € brutto/month + 364 € PKW-Sachbezug, 3,638.82 € netto; Q1 bonus 8,533 € brutto (updated 2026-06-12)
+- [[DoktorLib Automation Pipeline Source Detail]] — Full source document for the DoktorLib Automation Pipeline — end-to-end automation of inbound lead Discovery & Onboarding (updated 2026-06-15)
+- [[ESt 2025 Source Detail]] — Source document for Einkommensteuer 2025 — GF-Gehalt ~30,000 €, ALG I ~8,400 € (Progressionsvorbehalt), Pflichtveranlagung §46 EStG (updated 2026-06-12)
+- [[Finance Monthly 2026-06 Source Detail]] — Erste Monatsübersicht Juni 2026 — strukturelles Jahresdefizit ~7.970 €, Fixkosten ~1.215 €/Mo, Consorsbank im Dispo (−1.405 €) (updated 2026-06-13)
+- [[Finanz Rehabilitation Plan Source Detail]] — Source document for Oleg's 3-phase financial rehabilitation plan — structural annual deficit of −7,970 €; Wagglz GmbH + OK Capital UG as structural cost blocks (updated 2026-06-13)
+- [[Finanz-Home Dashboard Source Detail]] — Source document for Oleg's personal Command Center dashboard — dual-track system; critical financial metrics including -7,970 € structural annual deficit (updated 2026-06-13)
+- [[Finanz-Übersicht Source Detail]] — Source document for Oleg's personal financial overview — structural private deficit of −7,970 €/year, two capital-consuming companies (updated 2026-06-13)
+- [[Finanzielle Gesamtanalyse Oleg Kober 2025-2026]] — Vollständige Finanzanalyse — erstellt Juni 2026 aus allen Kontoauszügen, Lohnabrechnungen, GmbH-Daten; 14 priorisierte Aktionspunkte (updated 2026-06-16)
+- [[Fixkosten Übersicht Source Detail]] — Source document for Oleg's monthly fixed costs — total ~2,120 €; key items rent 991 €, VW Konsumkredit 682 €, Uelzener Tierversicherung 132 € (updated 2026-06-12)
+- [[Fragen an Hai Performance Coffee Brand]] — Due-diligence question list for potential co-founder Hai for the Performance Coffee Brand (updated 2026-06-15)
+- [[GESAMTANALYSE Archiv Source Detail]] — Archived consolidated source documentation from the initial financial analysis (Jan 2025 – Jun 2026); superseded by current MOC Finanzen (updated 2026-06-12)
+- [[GROVE Businessplan Source Detail]] — Complete GROVE Café & Bar business plan 2026/2027 — Wagglz GmbH operating vehicle, 165,000 € capital, Berlin opening Feb 2027 (updated 2026-06-16)
+- [[GROVE Businessplan und Betriebshandbuch 2026]] (source) — Vollständiger Businessplan für GROVE Café-Bar-Konzept in Berlin — Wagglz GmbH als Betriebsvehikel, 165.000 € Kapital, Opening Februar 2027 (updated 2026-06-16)
+- [[Health Protocol Master Source Detail]] — Vollständiges Health-Protokoll von Oleg Kober — 6-Tage-Trainingssplit, Ernährungsplan (2.800 kcal, 195–200g Protein), Tagesstruktur 05:00–20:30 (updated 2026-06-16)
+- [[Health Protocol Master]] — Comprehensive health optimization protocol with baseline metrics, 6-day training split, nutrition plan, and daily structure (updated 2024-12-19)
+- [[Hyrox 10-Week Training]] (source) — 10-week training plan for first Hyrox competition finish, addressing aerobic capacity weakness while leveraging strength (updated 2024-12-19)
+- [[Hyrox Prep Source Detail]] — Source document for Oleg's Hyrox competition preparation — Zone 2 as aerobic foundation, 12-week milestone plan, Hyrox station integration (updated 2026-06-13)
+- [[Inbox 2026-06-13 Source Detail]] — Leere Inbox-Datei vom 13. Juni 2026 — Platzhalter für geplante Notizen dieses Datums (updated 2026-06-16)
+- [[Kaffee Spezifikation Modul 2]] — Performance Café Modul 2 — scientific specification for coffee base: Robusta vs. Arabica, Vietnamese Robusta sourcing, 5 blend scenarios, roast grade analysis, 4 extraction methods (updated 2026-06-14)
+- [[Körper und Body Composition Scan Source Detail]] — Source document for Oleg's Scaneca body scan (29.05.2026) — structural findings, WHR 0.92, bilateral asymmetry, forward head posture (updated 2026-06-13)
+- [[Longevity Science Research Modul 0]] — Modul 0 of Performance Café research — comprehensive review of 12 hallmarks of aging and their addressability by beverage ingredients (updated 2026-06-15)
+- [[Master Context Oleg Kober]] — Central truth source for Oleg Kober's private knowledge management — identity, income sources, top-12-month goals, active priorities P0–P2 (updated 2026-06-13)
+- [[Master Prompt Gesamtfinanzanalyse Source Detail]] — Vollständiger Prompt-Template für integrierte Finanzanalyse Privat + Wagglz + OK Capital — vier Expertenperspektiven, sechs Deliverables (updated 2026-06-16)
+- [[Master Prompt Gesamtfinanzanalyse]] — Master-Prompt für integrierte Finanzanalyse Privat + Wagglz GmbH + OK Capital UG — multi-perspektivisches Expertenteam (updated 2026-06-10)
+- [[MOC Finanzen Source Detail]] — Finance dashboard MOC for Oleg Kober — quick-reference snapshot of income, fixed costs, debt, and account balance as of June 2026 (updated 2026-06-12)
+- [[MOC Performance and Leben]] — Map of Content for Oleg's Performance & Life domain — active protocols, baseline data, and research areas (updated 2026-06-13)
+- [[MOC Performance und Leben Source Detail]] — Map of Content für Performance & Leben — Navigation zu Health Protocol, Supplement Stack, Hyrox Training, 3D Body Scan und Recherchen (updated 2026-06-16)
+- [[MOC Strategie und Business]] — Map of Content for Oleg's Strategy & Business domain — active ventures, archived projects, and legal entity context (updated 2026-06-13)
+- [[MOC Tech und Setup Source Detail]] — Map of Content für Tech & Setup — Proton-Stack (Mail, VPN, Pass), Claude Projects, Password Migration (updated 2026-06-16)
+- [[MOC Tech und Setup]] — Map of Content for Oleg's Tech & Setup domain — active tech projects, infrastructure stack, and device inventory as of June 2026 (updated 2026-06-13)
+- [[OK Capital Finom 2026]] (source) — Kontoübersicht für das OK Capital Finom-Konto Stand Juni 2026 — Saldo 0,00 €; laufende Kosten WestX 23,50 €/Mo + Google 8,10 €/Mo (updated 2026-06-12)
+- [[OK Capital UG Finance Vault Source Detail]] — Stammblatt OK Capital UG — Holding-Gesellschaft für Wagglz GmbH; keine externen Einnahmen; ~380 €/Jahr Fixkosten (updated 2026-06-16)
+- [[OK Capital UG Source Detail]] — Source document for OK Capital UG — holding structure (100% Oleg → UG → Wagglz GmbH), Finom bank account, 31.60 €/Mo fixed costs (updated 2026-06-12)
+- [[Offene Actions Inbox Source Detail]] — Privater Action-Tracker — diese Woche Café Planning Session; kurzfristig Password Manager + Allianz + Hyrox-Anmeldung (updated 2026-06-16)
+- [[Offene Actions Inbox]] — Master inbox for open private actions — organized by urgency (diese Woche / kurzfristig / mittelfristig / someday) (updated 2026-06-13)
+- [[Oleg Home MOC]] — Personal vault home page for Oleg — active priorities, identity context, and navigation hub as of June 2026 (updated 2026-06-13)
+- [[P0 Sofortmaßnahmen Source Detail]] — Source document for Oleg's P0 task list — two open critical items (Rangrücktritt Wagglz, Vollständigkeitserklärung SP STB) (updated 2026-06-12)
+- [[P1 Diese Woche Source Detail]] — Source document for Oleg's P1 task list — three priority actions: ESt 2025 document collection, Wagglz strategy decision, fixed cost optimization review (updated 2026-06-12)
+- [[P2 Diesen Monat Source Detail]] — Source document for P2 priority tasks — covers PKW-Sachbezug optimization, Notfallfonds setup, DZR settlement, ARAG Wagglz cancellation, Steamone payment, VW Sondertilgung (updated 2026-06-12)
+- [[Password Manager Migration Source Detail]] — Source document for the attempted Proton Pass → Apple Passwords migration — CSV delimiter issue, field incompatibility analysis, decision framework (updated 2026-06-09)
+- [[Performance Cafe Ingredienzen Datenbank]] — Full scientific ingredient database for Performance Café — 46 ingredients across 7 categories; EU regulatory status, heat stability, COGS per portion, Blueprint alignment (updated 2026-06-14)
+- [[Performance Cafe Marktanalyse Source Detail]] — Full EU/DACH market analysis for Performance Café — Blueprint benchmark, 5 functional coffee competitors, market size data (Functional Beverage €32.86B EU, CAGR 6.12%) (updated 2026-06-14)
+- [[Performance Cafe Master Brief Source Detail]] — Master research prompt for Performance Coffee Brand — 9 research modules (Modul 0–8) plus Python unit economics model (updated 2026-06-14)
+- [[Performance Cafe Naming Brief]] — Completed naming brief for Performance Café brand — 15 name candidates, domain/EUIPO trademark analysis, top recommendation AEVUM (updated 2026-06-14)
+- [[Performance Cafe README Project Setup]] — Project setup README for Performance Café — 3-step Obsidian/Cursor/Claude Code workflow, research module priority order (updated 2026-06-15)
+- [[Performance Cafe Supplier List]] — Complete supplier list for Performance Coffee Brand — 7 CMO candidates, 4 coffee raw material suppliers, 12 functional ingredient suppliers, 2 packaging suppliers (updated 2026-06-15)
+- [[Performance Café IP Landscape Modul 8]] — IP & Patent landscape research document (Modul 8, June 2026) — three critical pre-launch blockers (Urolithin A, NMN, NR); EUIPO trademark strategy (updated 2026-06-14)
+- [[Performance Coffee Brand Business Case]] — Modul 6 — COGS-Kalkulation pro Portion, LTV:CAC-Korridor, Demand-Validation-Plan, Go-to-Market Sequenz DTC → Amazon → Retail → US (updated 2026-06-16)
+- [[Performance Coffee Brand CLAUDE Project Context]] — Claude Code project context file for the Performance Coffee Brand — functional coffee / longevity-stack instant sachet concept (updated 2026-06-15)
+- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Ops-level certification roadmap — 3-tier certification strategy (Kölner Liste → Informed Sport → NSF Certified for Sport) (updated 2026-06-15)
+- [[Performance Coffee Brand Entity Structure Source Detail]] — Source document for Performance Coffee Brand's legal/entity structure — UG→GmbH roadmap, 50/50 Oleg+Hai partnership with vesting (updated 2026-06-15)
+- [[Performance Coffee Brand Hai Onepager]] — One-pager pitch document for Hai — instant longevity coffee sachet, Tier-1 ingredient stack, market sizing, 50/50 Oleg/Hai split (updated 2026-06-15)
+- [[Performance Coffee Brand IP und Patent-Landschaft]] — Modul 8 der Performance Café Forschungsreihe — detaillierte IP/Patent-Analyse für Urolithin A, NMN, NR; EUIPO-Markenstrategie (updated 2026-06-16)
+- [[Performance Coffee Brand Ingredienzen Datenbank]] — Modul 1 — Vollständige Ingredienzen-Datenbank für alle Performance Café Inhaltsstoffe; Wirkung, Mechanismus, Dosis, EU-Status, Hitzestabilität (updated 2026-06-16)
+- [[Performance Coffee Brand Kaffee-Spezifikation]] — Modul 2 — Wissenschaftlicher Vergleich Robusta vs. Arabica für Longevity-Kaffee; Vietnamesischer Robusta, Mischverhältnisse, Röstgrad (updated 2026-06-16)
+- [[Performance Coffee Brand Longevity Science Source Detail]] — Modul 0 — Wissenschaftliche Grundlage für Performance Café; Longevity Hallmarks, Kaffee als Longevity-Substanz (updated 2026-06-16)
+- [[Performance Coffee Brand Marktanalyse]] — Modul 3 — Blueprint-Analyse als Benchmark, Direktwettbewerb (Four Sigmatic, RYZE, MUD\WTR), Positionierungsmatrix (updated 2026-06-16)
+- [[Performance Coffee Brand Master Research Brief]] — Vollständiger Forschungsauftrag für Performance Café mit 9 Modulen (updated 2026-06-16)
+- [[Performance Coffee Brand Positioning]] — Brand positioning document — tagline 'Perform now. Live longer.', 3 target segments, brand voice, pricing story at 3.49 €/sachet (updated 2026-06-15)
+- [[Performance Coffee Brand Prototyp Partner Source Detail]] — Modul 4 — Konkrete CMO-Empfehlungen für MVP-Produktion (Goerlich Pharma als erste Anfrage), Experten-Profile (updated 2026-06-16)
+- [[Performance Coffee Brand Regulatorik Report]] — Modul 5 — EU Novel Food Status für alle Longevity-Stoffe (Stand Juni 2026), Health Claims Strategie, Zertifizierungs-Roadmap (updated 2026-06-16)
+- [[Performance Coffee Brand Supplier List]] — Operative Lieferantenliste — CMOs (DACH/EU), Rohstofflieferanten für funktionelle Inhaltsstoffe, Analyselabore und Flavoristen (updated 2026-06-16)
+- [[Performance Coffee Brand TODO Master]] — Master ToDo document for the Performance Coffee Brand — all phases from regulatory research through validation, MVP launch, and scaling (updated 2026-06-15)
+- [[Performance Overview Source Detail]] — Master performance overview document — body baseline (96.7 kg, 20.3% KFA, 77.1 kg lean mass), nutrition targets (2,800 kcal, 220 g protein), primary limitators (updated 2026-06-13)
+- [[Privacy and Tech Stack Source Detail]] — Raw source for Oleg's Privacy & Tech Stack — devices, browser rationale, full Proton ecosystem status table, domain/DNS config (updated 2026-06-16)
+- [[Privat Finanz-Übersicht Source Detail]] — Überblick Privatfinanzen — strukturelles Jahresdefizit −7.970 €, Kontostand −1.405 € Dispo, zwei Unternehmenseinheiten ohne Rückflüsse (updated 2026-06-16)
+- [[Rangrücktritt §15a InsO Source Detail]] — P0 legal action — Rangrücktritt declaration to eliminate §19 InsO Überschuldung (27,926.89 € deficit); signature due 2026-06-15 (updated 2026-06-12)
+- [[Raw Vault Structure README]] — Immutable README for the raw/ directory — defines folder structure; documents the inbox → ingest → wiki workflow (updated 2026-06-15)
+- [[Structured Data Directory README]] — README for the raw/data/ directory — placeholder for CSV exports for Dataview and CLI tools (updated 2026-06-15)
+- [[Supplement Stack Source Detail]] — Raw source document for Oleg's active supplement stack — Momentous-primary protocol, Sulforaphane as sole non-Momentous exception (updated 2026-06-06)
+- [[TEMPUR Matratzenkauf Source Detail]] — Abgeschlossene Kaufrecherche — 2× TEMPUR PRO Plus SmartCool 90×200 in unterschiedlichen Härtegraden (updated 2026-06-15)
+- [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] — Full-transcript Huberman Lab episode with Dr. Rhonda Patrick — exercise protocols, nutrition, supplementation, longevity mechanisms (updated 2026-06-14)
+- [[VW Konsumkredit Source Detail]] — Quelldokument VW Bank Konsumkredit — Konditionen, Restschuld 18.858 € (Jun 2026), Sondertilgungsprüfung mit Q-Bonus (updated 2026-06-12)
+- [[Wagglz Finom 2026 Source Detail]] — Wagglz GmbH Finom-Konto 2026 — IBAN DE36100180000083465573; Saldo 0,00 €; finanziert durch Oleg-Gesellschafterdarlehen (updated 2026-06-16)
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Source document for Wagglz GmbH managing director salary 2025 — correctly taxed via SP STB; Lohnsteuerbescheinigung required for ESt 2025 filing (updated 2026-06-12)
+- [[Wagglz GmbH Finance Vault]] — Finance Vault for Wagglz GmbH — capital transfer history, monthly Gesellschafterdarlehen payments ~357 €/Mo, open insolvency assessment, three strategic options (updated 2026-06-13)
+- [[Wagglz GmbH Source Detail]] — Source document for Wagglz GmbH — company stammdaten, insolvency status (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), 2026 running costs (updated 2026-06-12)
 
 ---
 
 ## Syntheses
 
-- [[IP Risk Matrix Performance Café]] — Consolidated IP risk assessment for Performance Coffee ingredient stack
-- [[Longevity Stack Ingredients]] — Full ingredient stack definition for Performance Coffee Brand across tiers
+- [[Certification Roadmap Performance Coffee Brand]] — Synthesis of the three-tier certification strategy for Performance Coffee Brand — Kölner Liste (DACH MVP) → Informed Sport (EU scale) → NSF (US expansion) — plus mandatory NEM/LMIV compliance (updated 2026-06-15)
+- [[Oleg Business Entity Structure]] — Synthesis of Oleg's German legal entity structure — active GmbH, dormant UG, discontinued fashion brand, and open question of which entity to use for Café Berlin (updated 2026-06-14)
+- [[Oleg Financial Overview Synthesis]] — Cross-cutting synthesis of Oleg's complete financial picture — structural private deficit, two capital-consuming companies, insolvency risk, Rehabilitation Plan, linkage to strategic goals (updated 2026-06-14)
+- [[Oleg Health & Performance Synthesis]] — Cross-cutting synthesis of Oleg's entire health and performance system — body baseline, training splits, Hyrox prep, supplement stack, expert frameworks (Huberman/Patrick/Cavaliere), identified gaps (updated 2026-06-14)
 
 ---
 
 ## Comparisons
 
-- [[Functional Coffee Competitive Landscape]] — Side-by-side: Four Sigmatic, RYZE, MUD\WTR, Clevr, Bulletproof vs. Performance Coffee Brand
-- [[Longevity Supplement Competitive Landscape]] — Side-by-side: Timeline, Tru Niagen, Purovitalis, DoNotAge, Qualia vs. Performance Coffee Brand
+- [[Competitive Landscape Performance Coffee]] — Structured competitive comparison for the Performance Coffee Brand — five key competitors mapped by weakness and competitive advantage; positioning matrix shows empty high-performance + high-longevity quadrant (updated 2026-06-15)
