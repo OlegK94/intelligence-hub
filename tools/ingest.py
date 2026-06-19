@@ -77,7 +77,11 @@ def ingest_file(client, path) -> bool:
         SYSTEM,
         build_user_prompt(path, text, wiki_content),
     )
-    data = extract_json(response)
+    try:
+        data = extract_json(response)
+    except Exception as e:
+        print(f"Error parsing JSON for {rel_path(path)}: {e}", file=sys.stderr)
+        return False
 
     touched = apply_wiki_articles(data.get("articles", []))
     write_index(data.get("index_md"))
