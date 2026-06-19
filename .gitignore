@@ -26,3 +26,4 @@ Intelligence Hub/
 # QMD index lives in ~/.cache/qmd/
 __pycache__/
 .env
+.claude/worktrees/
