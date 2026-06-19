@@ -19,7 +19,7 @@ This source document (status: in-arbeit, date: 2026-06-14, Modul 2) is the scien
 > - [[Dak Lak Coffee Producers]] — Vietnamese producer profiles
 > - [[EU Green Coffee Importers]] — European import contacts
 > - [[German Coffee Roasters B2B]] — DACH Lohnröster contacts
-> - [[Chlorogenic Acid Longevity]] — CGA bioactivity concept
+> - [[Chlorogenic Acid]] — CGA bioactivity concept
 > - [[Trigonellin NAD Precursor]] — Trigonellin as NAD⁺ pathway concept
 > - [[Coffee Roast Profile Longevity]] — roast grade optimization concept
 > - [[Coffee Extraction Methods Instant]] — extraction method comparison concept
@@ -224,7 +224,7 @@ Key citations from source:
 - [[Dak Lak Coffee Producers]] — Vietnamese producers
 - [[EU Green Coffee Importers]] — European import contacts
 - [[German Coffee Roasters B2B]] — DACH roasters
-- [[Chlorogenic Acid Longevity]] — CGA bioactivity
+- [[Chlorogenic Acid]] — CGA bioactivity
 - [[Trigonellin NAD Precursor]] — Trigonellin pathway
 - [[Coffee Roast Profile Longevity]] — roast grade optimization
 - [[Coffee Extraction Methods Instant]] — extraction method comparison

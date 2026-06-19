@@ -46,12 +46,12 @@ NMN EU Novel Food Status:
 
 ## IP Landscape
 
-[[Chromadex]] holds patents on **Nicotinamide Riboside (NR)** (brand: Tru Niagen) with potential overlapping claims relevant to NMN:
+[[Chromadex Niagen Bioscience]] holds patents on **Nicotinamide Riboside (NR)** (brand: Tru Niagen) with potential overlapping claims relevant to NMN:
 - NMN converts to NR in the body as part of the NAD+ pathway
 - Some NMN synthesis routes may touch ChromaDex-adjacent IP
 - Requires audit of NMN supplier IP cleanliness
 
-See [[Chromadex]] for full IP context.
+See [[Chromadex Niagen Bioscience]] for full IP context.
 
 ## Role in Performance Coffee Brand Stack
 
@@ -67,7 +67,7 @@ The Tier-2 "Longevity Pro" SKU is explicitly deferred until NMN (and [[Urolithin
 - [[Performance Coffee Brand]] — primary application context
 - [[Performance Coffee Brand TODO Master]] — task list with regulatory actions
 - [[Trigonellin]] — natural NMN fallback in coffee
-- [[Chromadex]] — IP blocker
+- [[Chromadex Niagen Bioscience]] — IP blocker
 - [[Urolithin A]] — parallel regulatory blocker
 - [[Amazentis]] — Urolithin A IP holder
 - [[Longevity Stack Ingredients]] — broader ingredient context

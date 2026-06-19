@@ -49,7 +49,7 @@ The onepager specifically cites **Science 2023** as the primary longevity eviden
 
 Unlike [[NMN]], [[Urolithin A]], or [[Spermidine]], taurine:
 - Has established EU food ingredient status
-- No patent IP blockers (unlike [[Amazentis]] / [[Chromadex]])
+- No patent IP blockers (unlike [[Amazentis]] / [[Chromadex Niagen Bioscience]])
 - Can be sourced from multiple commodity suppliers
 - Has direct energy drink precedent for dosing and safety claims
 

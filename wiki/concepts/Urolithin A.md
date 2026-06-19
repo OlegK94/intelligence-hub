@@ -76,4 +76,4 @@ summary: Urolithin A — gut microbiome-derived longevity compound; induces mito
 - [[Longevity Stack Ingredients]] — ingredient framework
 - [[Bryan Johnson]] — longevity community reference (uses Urolithin A)
 - [[EU Novel Food Regulation]] — regulatory framework
-- [[Chromadex]] — parallel IP landscape entity
+- [[Chromadex Niagen Bioscience]] — parallel IP landscape entity

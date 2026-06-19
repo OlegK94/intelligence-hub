@@ -84,7 +84,7 @@ This is:
 
 ## Related Pages
 
-- [[Chlorogenic Acid Longevity]] — primary bioactive in Robusta component
+- [[Chlorogenic Acid]] — primary bioactive in Robusta component
 - [[Trigonellin NAD Precursor]] — secondary bioactive in Arabica component
 - [[Coffee Roast Profile Longevity]] — roast grade that processes this blend
 - [[Coffee Extraction Methods Instant]] — extraction of this blend

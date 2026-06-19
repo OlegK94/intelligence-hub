@@ -134,5 +134,5 @@ OK Capital (Holding — Oleg Kober, bestehend)
 - [[Wagglz]] — sibling entity
 - [[EU Novel Food Regulation]] — regulatory layer
 - [[Amazentis]] — IP blocker (ingredient stack)
-- [[Chromadex]] — IP blocker (ingredient stack)
+- [[Chromadex Niagen Bioscience]] — IP blocker (ingredient stack)
 - [[Café Berlin Partnership Hai]] — parallel Hai partnership

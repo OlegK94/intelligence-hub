@@ -14,7 +14,7 @@ Performance Coffee Brand IP und Patent-Landschaft ist Modul 8 der [[Performance 
 
 1. **Urolithin A**: [[Amazentis]] (jetzt Timeline/Nestlé) hält 50+ Patente. Direkter Einsatz ohne Lizenz riskant. Sicherste Alternative: Ellagsäure-reicher Granatapfelextrakt als Vorstufe.
 2. **NMN**: In der EU noch kein Novel Food (Stand Juni 2026, EFSA-Positivmeinung von Mai 2026 läuft noch). Regulatorische Grauzone — nicht für EU-MVP empfohlen.
-3. **NR (NIAGEN)**: [[Chromadex]] (jetzt Niagen Bioscience) hält aktive EU-Patente. Lizenzierung möglich, keine öffentlichen Konditionen.
+3. **NR (NIAGEN)**: [[Chromadex Niagen Bioscience]] (jetzt Niagen Bioscience) hält aktive EU-Patente. Lizenzierung möglich, keine öffentlichen Konditionen.
 
 ## Amazentis / Timeline — Urolithin A
 
@@ -75,5 +75,5 @@ GmbH-Gründung empfohlen **vor** EUIPO-Anmeldung (saubere Struktur). IP-Holding 
 - [[Performance Coffee Brand Certification Roadmap Source Detail]] — Kölner Liste, Informed Sport, NSF
 - [[Performance Coffee Brand Entity Structure Source Detail]] — Gesellschaftsstruktur
 - [[Amazentis]] — Urolithin-A-Patentinhaber
-- [[Chromadex]] — NIAGEN-Patentinhaber
+- [[Chromadex Niagen Bioscience]] — NIAGEN-Patentinhaber
 - [[Performance Coffee Brand Positioning]] — Brand-Strategie

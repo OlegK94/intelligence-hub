@@ -12,7 +12,7 @@ summary: Four instant coffee extraction methods compared for longevity/performan
 
 ## Overview
 
-For the [[Performance Coffee Brand]] Instant-Kaffee-Sachet, the choice of instant coffee production method significantly impacts both bioactive retention ([[Chlorogenic Acid Longevity]], [[Trigonellin NAD Precursor]]) and commercial viability. Four methods are evaluated.
+For the [[Performance Coffee Brand]] Instant-Kaffee-Sachet, the choice of instant coffee production method significantly impacts both bioactive retention ([[Chlorogenic Acid]], [[Trigonellin NAD Precursor]]) and commercial viability. Four methods are evaluated.
 
 ## Method Comparison
 
@@ -105,7 +105,7 @@ The Freeze-Dried recommendation directly informs [[CMO Sourcing Performance Coff
 
 ## Related Pages
 
-- [[Chlorogenic Acid Longevity]] — bioactive most affected by extraction choice
+- [[Chlorogenic Acid]] — bioactive most affected by extraction choice
 - [[Trigonellin NAD Precursor]] — secondary bioactive
 - [[Coffee Roast Profile Longevity]] — upstream process feeding into extraction
 - [[Coffee Blend Ratios]] — blend that goes into the extraction process

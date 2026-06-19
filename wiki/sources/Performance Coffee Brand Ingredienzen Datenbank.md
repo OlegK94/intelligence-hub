@@ -64,4 +64,4 @@ Basierend auf Datenbank: 8 Kernstoffe für Morning Performance Sachet:
 - [[Performance Coffee Brand IP und Patent-Landschaft]] — Detaillierte IP-Analyse
 - [[Performance Coffee Brand Kaffee-Spezifikation]] — Kaffee-Rohstoff-Details
 - [[Amazentis]] — Urolithin-A-Patenteinhaber
-- [[Chromadex]] — NIAGEN-Patentinhaber
+- [[Chromadex Niagen Bioscience]] — NIAGEN-Patentinhaber

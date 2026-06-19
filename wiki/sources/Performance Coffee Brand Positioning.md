@@ -50,7 +50,7 @@ This positioning directly exploits the white space identified from [[Bryan Johns
 - **Schmerzpunkt:** Bryan drinks no coffee — but they want to
 - **Message:** *"Wir haben den Kaffee gebaut, den Bryan Johnson nicht gebaut hat. Mit allem was er täglich nimmt."*
 - **Kanal:** Reddit (r/longevity, r/biohacking), X/Twitter, Blueprint Community
-- **Note:** This segment has highest LTV (Lifetime Value) despite being niche — matches the [[Amazentis]] / [[Chromadex]] ingredient premium audience
+- **Note:** This segment has highest LTV (Lifetime Value) despite being niche — matches the [[Amazentis]] / [[Chromadex Niagen Bioscience]] ingredient premium audience
 
 ---
 
@@ -167,6 +167,6 @@ The source document references additional internal files:
 - [[Longevity Stack Ingredients]] — ingredient stack context
 - [[EU Novel Food Regulation]] — regulatory constraint (anti-aging language)
 - [[Chlorogenic Acid]] — coffee longevity compound
-- [[Chromadex]] — IP blocker (NMN)
+- [[Chromadex Niagen Bioscience]] — IP blocker (NMN)
 - [[NMN]] — longevity stack ingredient
 - [[Oleg Personal Context]] — founder (Segment 1 persona match)
