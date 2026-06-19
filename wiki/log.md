@@ -446,3 +446,27 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 - Updated: [[Café Berlin Partnership Hai]] — Status-Update: physisches Café-Konzept GROVE ersetzt durch Performance Coffee Brand
 - Updated: [[Performance Coffee Brand]] — GROVE-Pivot-Kontext ergänzt
 - Notes: GROVE-Businessplan (cafe_masterplan_2026.md) bleibt als Referenz erhalten, ist aber archiviert
+
+## [2026-06-19 19:37 UTC] ingest | raw/Business/Cafe/cafe_masterplan_2026.md
+- Pages: [[GROVE Businessplan Source Detail]], [[GROVE Businessplan und Betriebshandbuch 2026]], [[Vietnamese Coffee GROVE]], [[ROYCE Nama Schokolade]], [[GROVE Cashflow Trigger System]], [[GROVE Revenue Streams]], [[GROVE Sessions External]]
+- Ingested GROVE Businessplan 2026 (cafe_masterplan_2026.md) — created source summary, updated GROVE Businessplan entity, created new entities for Wagglz GmbH context, GROVE Revenue Streams, Vietnamese Coffee concept, ROYCE Nama Schokolade, Espresso Club Radio reference, and Cashflow Trigger System; updated index.
+
+## [2026-06-19 19:43 UTC] ingest | raw/Business/PerformanceCafe/legal/ip_landscape.md
+- Pages: [[Performance Café IP Landscape Modul 8]], [[Amazentis]], [[Timeline Nutrition]], [[Chromadex Niagen Bioscience]], [[NMN EU Status 2026]], [[Urolithin A]]
+- Ingested Performance Café IP & Patent Landscape (Modul 8) — created source summary page, updated Amazentis entity with full patent detail, created new entities for Chromadex/Niagen Bioscience and NMN EU Status, created concept pages for EU Novel Food Regulation, EUIPO Trademark Strategy, Trade Secret Strategy, GmbH IP Structure, and IP Risk Matrix; updated index with all new pages.
+
+## [2026-06-19 19:48 UTC] ingest | raw/Business/PerformanceCafe/ops/supplier_list.md
+- Pages: [[Performance Cafe Supplier List]], [[Ingredient Suppliers Performance Coffee]], [[Prinova]], [[Lehvoss Nutrition]], [[Nutri-Epitech]], [[Aidea]], [[Herbafit]], [[Queisser Pharma]], [[ESB Naturkost]], [[Constantia Flexibles]], [[Flavorist Services Performance Coffee]], [[Schutzgas-Versiegelung]]
+- Ingested Performance Coffee Brand supplier list (raw/Business/PerformanceCafe/ops/supplier_list.md) — created source summary page and updated/created entity/concept pages for CMO suppliers, ingredient suppliers, analysis labs, and flavorists; linked to existing Performance Coffee Brand wiki pages.
+
+## [2026-06-19 19:53 UTC] ingest | raw/Business/PerformanceCafe/research/00_master_brief.md
+- Pages: [[Performance Cafe Master Brief Source Detail]], [[Performance Coffee Brand]], [[Performance Cafe Research Team Roles]], [[Longevity Stack Ingredients]]
+- Ingested Performance Café Master Research Brief (00_master_brief.md) — created source summary page and updated Performance Coffee Brand entity with full 9-module research structure, team roles, and module-to-file mapping.
+
+## [2026-06-19 19:58 UTC] ingest | raw/Business/PerformanceCafe/research/01_longevity_science.md
+- Pages: [[Longevity Science Research Modul 0]], [[Hallmarks of Aging]], [[Chlorogensäure]], [[Trigonellin]]
+- Ingested raw/Business/PerformanceCafe/research/01_longevity_science.md — created source summary page, plus entity/concept pages for Longevity Hallmarks of Aging, Chlorogensäure, Trigonellin, Cafestol/Kahweol, DTC Biomarker Tests DACH, and Longevity Science Kaffee Stack; updated index.
+
+## [2026-06-19 20:03 UTC] ingest | raw/Business/PerformanceCafe/research/02_ingredienzen_db.md
+- Pages: [[Performance Cafe Ingredienzen Datenbank]]
+- Ingested Performance Café Ingredienzen-Datenbank (Modul 1) — created source summary + 15 new entity/concept pages covering all major ingredient categories, SKU formulations, regulatory blockers (NMN, Urolithin A), and the Blueprint Coffee hypothetical stack; updated Bryan Johnson entity with 2026 stack details; flagged multiple regulatory status items as wiki-searchable concepts.
