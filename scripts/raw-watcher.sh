@@ -2,7 +2,14 @@
 # raw-watcher.sh — Automatisch triggered wenn neue Dateien in raw/ landen
 # Läuft via launchd WatchPaths auf raw/
 
-VAULT_DIR="$HOME/Documents/Intelligence-Hub"
+# Auto-detect vault path
+if [ -d "$HOME/Library/Mobile Documents/com~apple~CloudDocs/Intelligence Hub" ]; then
+    VAULT_DIR="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Intelligence Hub"
+elif [ -d "$HOME/Documents/Intelligence-Hub" ]; then
+    VAULT_DIR="$HOME/Documents/Intelligence-Hub"
+else
+    VAULT_DIR="$(dirname "$(dirname "$0")")"
+fi
 LOG="$VAULT_DIR/outputs/notes/raw-watcher.log"
 LOCK="$VAULT_DIR/.raw-watcher.lock"
 

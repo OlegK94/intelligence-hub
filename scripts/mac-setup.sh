@@ -1,11 +1,25 @@
 #!/bin/bash
 # Intelligence Hub — Mac Setup Script
-# Einmalig ausführen: bash ~/Documents/Intelligence-Hub/scripts/mac-setup.sh
+# Einmalig ausführen: bash /path/to/Intelligence-Hub/scripts/mac-setup.sh
+# Oder: VAULT=/path/to/vault bash scripts/mac-setup.sh
 # Danach läuft alles automatisch im Hintergrund.
 
 set -e
 
-VAULT="$HOME/Documents/Intelligence-Hub"
+# Auto-detect vault: use script location, or VAULT env var, or fallback paths
+if [ -n "$VAULT" ]; then
+    : # use provided VAULT
+elif [ -d "$(dirname "$(dirname "$0")")/wiki" ]; then
+    VAULT="$(cd "$(dirname "$(dirname "$0")")" && pwd)"
+elif [ -d "$HOME/Library/Mobile Documents/com~apple~CloudDocs/Intelligence Hub" ]; then
+    VAULT="$HOME/Library/Mobile Documents/com~apple~CloudDocs/Intelligence Hub"
+elif [ -d "$HOME/Documents/Intelligence-Hub" ]; then
+    VAULT="$HOME/Documents/Intelligence-Hub"
+else
+    echo "❌ Vault-Pfad nicht gefunden. Bitte angeben: VAULT=/pfad/zum/vault bash scripts/mac-setup.sh"
+    exit 1
+fi
+
 USER_NAME="$(whoami)"
 LAUNCH_AGENTS="$HOME/Library/LaunchAgents"
 
