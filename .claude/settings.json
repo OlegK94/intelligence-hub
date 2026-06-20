@@ -1,11 +1,42 @@
 {
+  "autoCompactEnabled": true,
+  "cleanupPeriodDays": 90,
+  "statusLine": {
+    "type": "command",
+    "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/status-line.sh\"",
+    "refreshInterval": 60
+  },
   "hooks": {
-    "Stop": [
+    "SessionStart": [
       {
         "hooks": [
           {
             "type": "command",
-            "command": "bash /Users/$(whoami)/Documents/Intelligence-Hub/scripts/post-session.sh 2>> /Users/$(whoami)/Documents/Intelligence-Hub/outputs/notes/hooks.log"
+            "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/session-start.sh\"",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/pre-compact.sh\"",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/bash-guard.sh\"",
+            "timeout": 10
           }
         ]
       }
@@ -16,7 +47,23 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash /Users/$(whoami)/Documents/Intelligence-Hub/scripts/on-file-change.sh 2>> /Users/$(whoami)/Documents/Intelligence-Hub/outputs/notes/hooks.log"
+            "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/on-file-change.sh\" 2>> \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/outputs/notes/hooks.log\""
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/post-session.sh\" 2>> \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/outputs/notes/hooks.log\"",
+            "async": true
+          },
+          {
+            "type": "command",
+            "command": "bash \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/scripts/notify-email.sh\" 2>> \"/Users/$(whoami)/Library/Mobile Documents/com~apple~CloudDocs/IntelligenceHub/outputs/notes/hooks.log\"",
+            "async": true
           }
         ]
       }
