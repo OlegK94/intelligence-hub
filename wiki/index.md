@@ -19,6 +19,7 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Kelly Starrett]] — Co-Gründer The Ready State, Bestseller-Autor; Momentous Scientific Advisor; Mobility und Verletzungsprävention (updated 2026-06-20)
 - [[Stacy Sims]] — Trainingsphysiologin, Expertin für weibliche Performance; Momentous Scientific Advisor (updated 2026-06-20)
 - [[Dan Garner]] — Olympic Strength & Nutrition Coach; Momentous Scientific Advisor; Elite-Athleten-Ernährung (updated 2026-06-20)
+- [[Brandon McDaniel]] — MLB VP of Player Performance; Momentous Scientific Advisor; Athletik-Management im Profisport (updated 2026-06-20)
 - [[Bryan Johnson]] — Entrepreneur and biohacker; Blueprint program founder (~2M X/Twitter followers); removed coffee from personal protocol but his community seeks Blueprint-compatible coffee — creating the white space for Performance Coffee Brand (updated 2026-06-14)
 - [[Hai]] — Oleg's business partner in the Performance Coffee Brand (50/50, Berlin) and Café Berlin partnership; brings capital, product/market expertise, production/distribution network (updated 2026-06-15)
 - [[Jeff Cavaliere]] — Physical therapist, strength coach, and founder of Athlean-X, known for science-based training and injury prevention (updated 2024-12-19)

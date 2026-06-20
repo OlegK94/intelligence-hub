@@ -76,6 +76,7 @@ Olegs Stack basiert auf den Frameworks folgender Experten — alle außer Rhonda
 | [[Kelly Starrett]] | Co-Gründer The Ready State | Mobility, Recovery, Verletzungsprävention |
 | [[Stacy Sims]] | Trainingsphysiologin | Weibliche Performance-Physiologie (Momentous-Advisor) |
 | [[Dan Garner]] | Olympic Strength & Nutrition Coach | Elite-Athleten-Ernährung und Supplementierung |
+| [[Brandon McDaniel]] | MLB VP of Player Performance | Athletik-Management im Profisport |
 - **[[Rhonda Patrick]]** — Sulforaphane protocol (broccoli sprout extract for NRF2 pathway activation, cancer risk reduction)
 
 ## Related Pages
