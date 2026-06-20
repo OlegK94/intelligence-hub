@@ -5,16 +5,16 @@ tags: [finanzen, notfallfonds, emergency-fund, tagesgeld, consorsbank, liquidit�
 sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Emergency fund goal — 3× net monthly salary (~10,900 €) to be held in Consorsbank Tagesgeld (1.00% p.a. from 16.06.2026); currently 0 € separated; to be funded from Q2 bonus (July 2026)
+summary: Ziel des Notfallfonds — 3× Netto-Monatsgehalt (~10.900 €), zu halten auf dem Consorsbank Tagesgeld (1,00 % p.a. ab 16.06.2026); aktuell 0 € separiert; Finanzierung geplant aus Q2-Bonus (Juli 2026)
 ---
 
 # Notfallfonds (Emergency Fund)
 
-## Overview
+## Überblick
 
-The **Notfallfonds** is [[Oleg Personal Context|Oleg]]'s planned emergency fund — a liquid cash reserve to cover unexpected expenses without disrupting ongoing financial obligations. As of June 2026, it has not yet been established.
+Der **Notfallfonds** ist [[Oleg Personal Context|Olegs]] geplanter Notgroschen — eine liquide Barreserve, um unerwartete Ausgaben zu decken, ohne laufende finanzielle Verpflichtungen zu gefährden. Stand Juni 2026 wurde er noch nicht aufgebaut.
 
-## Target Parameters
+## Zielparameter
 
 | Parameter | Wert |
 |---|---|
@@ -26,46 +26,46 @@ The **Notfallfonds** is [[Oleg Personal Context|Oleg]]'s planned emergency fund 
 | **Zinssatz** | 1,00 % p.a. (ab 16.06.2026, automatisch) |
 | **Geplante Finanzierung** | Q2-Bonus (Juli 2026 erwartet, ~8.250 € netto) |
 
-## Rationale
+## Begründung
 
-### Why 3× Net Monthly Salary?
-The standard German financial planning recommendation is 3–6 months of net income as an emergency buffer. Oleg's choice of the lower bound (3×) suggests:
-- Other liquid assets may exist (business accounts)
-- Priority is building the fund quickly over maximizing the buffer size
-- The Q2 bonus can fund the majority in one transfer
+### Warum 3× Netto-Monatsgehalt?
+Die gängige deutsche Finanzplanungsempfehlung lautet, 3–6 Monatsnettogehälter als Notfallpuffer zurückzulegen. Olegs Entscheidung für die untere Grenze (3×) deutet darauf hin:
+- Weitere liquide Mittel sind möglicherweise vorhanden (Geschäftskonten)
+- Priorität liegt darauf, den Fonds schnell aufzubauen, statt den Puffer zu maximieren
+- Der Q2-Bonus kann den Großteil in einer einzigen Überweisung decken
 
-### Why Consorsbank Tagesgeld?
-- **Immediate liquidity** — Tagesgeld allows daily access (no lock-in)
-- **1,00% p.a.** (from 16.06.2026) — modest but better than 0% in a Girokonto
-- **Separation** — keeping it in a dedicated account prevents accidental spending
-- **Automatic** — the rate applies automatically from 16.06.2026
+### Warum Consorsbank Tagesgeld?
+- **Sofortige Liquidität** — Tagesgeld ermöglicht täglichen Zugriff (keine Bindungsfrist)
+- **1,00 % p.a.** (ab 16.06.2026) — bescheiden, aber besser als 0 % auf einem Girokonto
+- **Trennung** — die Aufbewahrung auf einem separaten Konto verhindert unbeabsichtigtes Ausgeben
+- **Automatisch** — der Zinssatz gilt automatisch ab 16.06.2026
 
-## Gap Analysis
+## Lückenanalyse
 
-With the Q2 bonus expected at ~8.250 € netto:
-- **Bonus → Notfallfonds:** 8.250 € of 10.900 € target → **75% funded in one step**
-- **Remaining gap:** ~2.650 € to be built from subsequent salary months
+Da der Q2-Bonus voraussichtlich ~8.250 € netto beträgt:
+- **Bonus → Notfallfonds:** 8.250 € von 10.900 € Ziel → **75 % in einem Schritt finanziert**
+- **Verbleibende Lücke:** ~2.650 €, die aus den folgenden Gehaltsmonaten angespart werden
 
-> ⚠️ **Conflict with VW-Kredit Sondertilgung:** The same Q2 bonus is also a candidate for [[VW Konsumkredit]] early repayment. Oleg must decide whether to prioritize:
-> 1. Building the Notfallfonds first (security first approach), or
-> 2. VW Sondertilgung first (debt reduction approach), or
-> 3. Split the bonus between both goals
+> ⚠️ **Konflikt mit VW-Kredit Sondertilgung:** Derselbe Q2-Bonus kommt auch als Kandidat für die vorzeitige Tilgung des [[VW Konsumkredit|VW-Konsumkredits]] infrage. Oleg muss entscheiden, ob er priorisiert:
+> 1. Zuerst den Notfallfonds aufbauen (Sicherheit-zuerst-Ansatz), oder
+> 2. Zuerst die VW-Sondertilgung (Schuldenabbau-Ansatz), oder
+> 3. Den Bonus auf beide Ziele aufteilen
 
-## Opportunity Cost Comparison
+## Opportunitätskostenvergleich
 
-| Option | Return / Saving |
+| Option | Rendite / Ersparnis |
 |---|---|
-| Tagesgeld 1% p.a. on 8.250 € | ~82 €/Jahr |
-| VW-Kredit Sondertilgung (loan rate unknown) | Depends on loan interest rate |
+| Tagesgeld 1 % p.a. auf 8.250 € | ~82 €/Jahr |
+| VW-Kredit Sondertilgung (Kreditzinssatz unbekannt) | Abhängig vom Kreditzinssatz |
 
-If the VW loan rate is 4%+, early repayment saves significantly more than the Tagesgeld earns. However, having zero Notfallfonds is itself a financial risk — prioritizing liquidity first is defensible.
+Liegt der VW-Kreditzinssatz bei 4 %+, spart eine vorzeitige Tilgung deutlich mehr, als das Tagesgeld einbringt. Allerdings ist ein leerer Notfallfonds selbst ein finanzielles Risiko — Liquidität zuerst zu priorisieren ist vertretbar.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[VW Konsumkredit]] — competing use of Q2 bonus
-- [[Consorsbank Girokonto 0250120493]] — account for the fund
-- [[Doctolib 2026]] — salary source funding the account
-- [[P2 Diesen Monat Source Detail]] — task source
-- [[MOC Finanzen]] — parent finance MOC
-- [[Financial Independence]] — broader financial goal context
-- [[Oleg Personal Context]] — fund owner
+- [[VW Konsumkredit]] — konkurrierende Verwendung des Q2-Bonus
+- [[Consorsbank Girokonto 0250120493]] — Konto für den Fonds
+- [[Doctolib 2026]] — Gehaltsquelle zur Finanzierung des Kontos
+- [[P2 Diesen Monat Source Detail]] — Aufgabenquelle
+- [[MOC Finanzen]] — übergeordnete Finanz-Übersichtsseite
+- [[Financial Independence]] — übergeordneter finanzieller Zielkontext
+- [[Oleg Personal Context]] — Fondsinhaber

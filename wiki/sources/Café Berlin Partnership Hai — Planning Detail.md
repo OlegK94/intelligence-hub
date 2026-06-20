@@ -1,137 +1,137 @@
 ---
-title: Café Berlin Partnership Hai — Planning Detail
+title: Café Berlin Partnership Hai — Planungsdetail
 type: source
 tags: [café, berlin, partnership, hai, strategie, aktiv, planning, kapitalstruktur, rechtsträger, standort]
 sources: ["raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
 created: 2026-05-24
 updated: 2026-06-14
-summary: Full planning document for the Café Berlin co-founder venture with Hai — covers capital structure, role split, legal entity, location economics, profitability model, and legal prerequisites
+summary: Vollständiges Planungsdokument für das Café-Berlin-Co-Founder-Vorhaben mit Hai — umfasst Kapitalstruktur, Rollenaufteilung, Rechtsträger, Standortökonomie, Profitabilitätsmodell und rechtliche Voraussetzungen
 ---
 
-# Café Berlin Partnership Hai — Planning Detail
+# Café Berlin Partnership Hai — Planungsdetail
 
-## Overview
+## Überblick
 
-This source document (status: In Planung, planning session: 2026-06-14) captures the detailed kickoff agenda and background analysis for [[Café Berlin Partnership Hai]] — [[Oleg Personal Context|Oleg]]'s Priority 1 business venture with co-founder [[Hai]].
+Dieses Quelldokument (Status: In Planung, Planungssitzung: 2026-06-14) erfasst die detaillierte Kickoff-Agenda und Hintergrundanalyse für [[Café Berlin Partnership Hai]] — [[Oleg Personal Context|Olegs]] Business-Vorhaben mit höchster Priorität, gemeinsam mit Co-Founder [[Hai]].
 
-> For the entity summary and strategic context, see [[Café Berlin Partnership Hai]].
+> Für die Entitätszusammenfassung und den strategischen Kontext siehe [[Café Berlin Partnership Hai]].
 
-## Entscheidungshistorie (Decision History)
+## Entscheidungshistorie
 
-| Phase | Date | Decision |
+| Phase | Datum | Entscheidung |
 |---|---|---|
 | Solo-Analyse | Mai 2026 | Einzelcafé abgelehnt — Einkommensdeckel inkompatibel mit Finanzzielen |
 | Revival als Co-Founder-Venture | Juni 2026 | Neustart mit Hai; Co-Founder-Modell verändert die Gleichung |
 
-### Why the Solo Model Was Rejected
+### Warum das Solo-Modell abgelehnt wurde
 
-The solo café analysis (see [[Café Berlin Solo Analyse]]) was rejected because a single-operator café imposes an **Einkommensdeckel** (income ceiling) — a hard cap on revenue tied to the owner's direct involvement. This was deemed incompatible with [[Oleg Personal Context|Oleg]]'s [[Financial Independence]] goals.
+Die Solo-Café-Analyse (siehe [[Café Berlin Solo Analyse]]) wurde abgelehnt, weil ein Einzelbetreiber-Café einen **Einkommensdeckel** auferlegt — eine harte Umsatzobergrenze, die an die direkte Beteiligung des Inhabers geknüpft ist. Dies wurde als unvereinbar mit [[Oleg Personal Context|Olegs]] Zielen der [[Financial Independence]] eingestuft.
 
-### Why the Partnership Model Changes the Equation
+### Warum das Partnership-Modell die Gleichung verändert
 
-The co-founder model with [[Hai]] unlocks:
-- **Skalierung** (scalability) — shared operational capacity
-- **Geteilte Last** (shared burden) — risk and workload distribution
-- **Komplementäre Netzwerke** (complementary networks) — Oleg's B2B/finance network + Hai's operational/culinary network
+Das Co-Founder-Modell mit [[Hai]] erschließt:
+- **Skalierung** — geteilte operative Kapazität
+- **Geteilte Last** — Risiko- und Arbeitsverteilung
+- **Komplementäre Netzwerke** — Olegs B2B/Finance-Netzwerk + Hais operatives/kulinarisches Netzwerk
 
-## Planning Session Agenda — 14. Juni 2026
+## Agenda der Planungssitzung — 14. Juni 2026
 
-### 1. Kapitalstruktur (Capital Structure)
+### 1. Kapitalstruktur
 
-- [ ] Wie viel bringt jeder ein? (How much does each partner contribute?)
+- [ ] Wie viel bringt jeder ein?
 - [ ] Verhältnis Eigenkapital / Fremdkapital — [[KfW ERP-Gründerkredit]] prüfen
-- [ ] Puffer: min. 3 Monatsmieten + Umbau + Erstausstattung (buffer: min. 3 months rent + renovation + initial equipment)
+- [ ] Puffer: min. 3 Monatsmieten + Umbau + Erstausstattung
 
-**Key consideration:** The KfW ERP-Gründerkredit is a state-backed startup loan from Germany's development bank — relevant for minimizing equity required at founding.
+**Wesentliche Überlegung:** Der KfW ERP-Gründerkredit ist ein staatlich gefördertes Gründungsdarlehen der deutschen Förderbank — relevant, um den erforderlichen Eigenkapitaleinsatz bei der Gründung zu minimieren.
 
-### 2. Rollenaufteilung (Role Split)
+### 2. Rollenaufteilung
 
-| Partner | Role |
+| Partner | Rolle |
 |---|---|
 | Oleg | Strategie, Finance, Verhandlung, B2B-Netzwerk |
 | Hai | Operatives, Konzept, Küchenlogik, Lieferanten |
 
-**Open question:** Wer ist GF (Geschäftsführer)? Wer führt hauptamtlich in Phase 1?
+**Offene Frage:** Wer ist GF (Geschäftsführer)? Wer führt hauptamtlich in Phase 1?
 
-This role clarity question is critical: the GmbH already exists (see [[Oleg Business Entity Structure]]), and determining who serves as managing director has legal, tax, and operational implications — especially given [[Cyprus Relocation]] as a medium-term goal.
+Diese Frage der Rollenklarheit ist entscheidend: Die GmbH existiert bereits (siehe [[Oleg Business Entity Structure]]), und die Bestimmung, wer als Geschäftsführer fungiert, hat rechtliche, steuerliche und operative Konsequenzen — insbesondere im Hinblick auf [[Cyprus Relocation]] als mittelfristiges Ziel.
 
-### 3. Rechtsträger (Legal Entity)
+### 3. Rechtsträger
 
-Three options under consideration:
+Drei Optionen stehen zur Diskussion:
 
-1. **GmbH (Oleg, ruhend) als Betriebsgesellschaft aktivieren** — reactivate the existing dormant-adjacent GmbH
-2. **Neue GbR/GmbH gemeinsam gründen** — create a new joint entity
-3. **Gesellschaftervertrag** topics: Vesting, Exit-Regelungen (exit clauses), Stimmanteile (voting shares)
+1. **GmbH (Oleg, ruhend) als Betriebsgesellschaft aktivieren** — die bestehende, weitgehend ruhende GmbH reaktivieren
+2. **Neue GbR/GmbH gemeinsam gründen** — eine neue gemeinsame Gesellschaft gründen
+3. **Gesellschaftervertrag** Themen: Vesting, Exit-Regelungen, Stimmanteile
 
-> **Note:** The source references "GmbH (Oleg, ruhend)" — but the [[Oleg Business Entity Structure]] and [[MOC Strategie und Business]] indicate Oleg's GmbH is **active** (Betriebsgesellschaft) and his **UG** is dormant. This may mean: (a) the GmbH is active but not currently trading under this context, or (b) the source uses "ruhend" loosely to mean "not yet deployed for this venture." The UG is the formally dormant entity. **Potential contradiction flagged — see below.**
+> **Hinweis:** Die Quelle nennt „GmbH (Oleg, ruhend)" — die [[Oleg Business Entity Structure]] und der [[MOC Strategie und Business]] weisen jedoch darauf hin, dass Olegs GmbH **aktiv** ist (Betriebsgesellschaft) und seine **UG** ruhend ist. Dies kann bedeuten: (a) Die GmbH ist aktiv, wird aber in diesem Zusammenhang aktuell nicht betrieben, oder (b) die Quelle verwendet „ruhend" im weiteren Sinne als „für dieses Vorhaben noch nicht eingesetzt". Die UG ist die formal ruhende Gesellschaft. **Möglicher Widerspruch vermerkt — siehe unten.**
 
-### 4. Standortökonomie (Location Economics)
+### 4. Standortökonomie
 
 - **Zielgebiete:** [[Friedrichshain]] oder [[Prenzlauer Berg]]
 - **Ladenmiete Richtwert:** 25–40 €/m²
 - **Angestrebte Fläche:** 80–120 m²
-- **Monatliche Mietkosten (estimate):** 2,000–4,800 €/month
+- **Monatliche Mietkosten (Schätzung):** 2.000–4.800 €/Monat
 
-**Open questions:**
-- [ ] Laufkundschaft vs. Destinationskonzept — what is the model?
-- [ ] Outdoor-Fläche möglich? (Sondernutzungserlaubnis Berlin required for sidewalk seating)
+**Offene Fragen:**
+- [ ] Laufkundschaft vs. Destinationskonzept — was ist das Modell?
+- [ ] Outdoor-Fläche möglich? (Sondernutzungserlaubnis Berlin erforderlich für Außenbestuhlung)
 
-### 5. Profitabilitätsmodell (Profitability Model)
+### 5. Profitabilitätsmodell
 
 - **Ziel:** Break-even < 18 Monate
-- **Umsatzhebel (revenue levers):**
-  - Mittagsgeschäft (lunch trade)
+- **Umsatzhebel:**
+  - Mittagsgeschäft
   - Events
-  - Eigenmarke (own brand: Merch / Kaffee)
+  - Eigenmarke (Merch / Kaffee)
 
-**Formula to set together:**
+**Gemeinsam aufzustellende Formel:**
 ```
 Sitzplätze × Umdrehungen × APC × Öffnungstage = Jahresumsatz
 (Seats × Turns × Average Per Cover × Opening Days = Annual Revenue)
 ```
 
-## Rechtliche Voraussetzungen (Legal Prerequisites — Already Researched)
+## Rechtliche Voraussetzungen (bereits recherchiert)
 
-| Requirement | Notes |
+| Anforderung | Hinweise |
 |---|---|
-| Gaststättenerlaubnis | Ordnungsamt (local regulatory office) |
-| IHK Gaststättenunterrichtung | 1-day course, ~50 €; required for hospitality business operators |
-| Gesundheitsamt-Anmeldung | Health authority registration |
-| Mehrwegpflicht-Compliance | Germany's mandatory reusable container law (since 2023) |
-| Brandschutzkonzept | Fire safety concept required for renovations |
+| Gaststättenerlaubnis | Ordnungsamt |
+| IHK Gaststättenunterrichtung | Eintägiger Kurs, ~50 €; erforderlich für Betreiber eines Gastgewerbes |
+| Gesundheitsamt-Anmeldung | Anmeldung beim Gesundheitsamt |
+| Mehrwegpflicht-Compliance | Gesetzlich vorgeschriebene Mehrwegpflicht in Deutschland (seit 2023) |
+| Brandschutzkonzept | Erforderlich bei Umbaumaßnahmen |
 
-## Stärken Oleg (Oleg's Strengths for This Venture)
+## Stärken Oleg (für dieses Vorhaben)
 
-- Gastronomie-Hintergrund (professionell) — professional hospitality background
+- Gastronomie-Hintergrund (professionell)
 - Netzwerk in der Berliner Café-Bar-Szene
 - Unternehmensstruktur (GmbH) bereits vorhanden
 
-## Offene Fragen (Open Questions as of Planning Session)
+## Offene Fragen (Stand Planungssitzung)
 
-- **Hai:** Welcher Background, welche Kapitalbereitschaft? (Background and capital commitment?)
-- **Konzept:** Specialty Coffee / Café-Bar / hybrid?
-- **Zeithorizont:** Eröffnung wann realistisch? (Realistic opening timeline?)
+- **Hai:** Welcher Background, welche Kapitalbereitschaft?
+- **Konzept:** Specialty Coffee / Café-Bar / Hybrid?
+- **Zeithorizont:** Eröffnung wann realistisch?
 
-## ⚠️ Contradiction Note: GmbH Status
+## ⚠️ Widerspruchshinweis: GmbH-Status
 
-This source refers to "GmbH (Oleg, ruhend)" in the Rechtsträger section. However:
+Diese Quelle bezeichnet die „GmbH (Oleg, ruhend)" im Abschnitt Rechtsträger. Jedoch:
 
-| Source | GmbH Status |
+| Quelle | GmbH-Status |
 |---|---|
 | [[MOC Strategie und Business]] | GmbH = aktiv (Betriebsgesellschaft) |
-| [[Oleg Business Entity Structure]] | GmbH = active; UG = dormant |
-| This source | GmbH = "ruhend" (dormant?) |
+| [[Oleg Business Entity Structure]] | GmbH = aktiv; UG = ruhend |
+| Diese Quelle | GmbH = „ruhend" |
 
-**Best interpretation:** The source likely uses "ruhend" to mean "not yet activated for this specific venture" rather than formally dormant in a legal sense. The GmbH is the active holding entity; the question is whether to use it as the operating vehicle for the café or create a new entity. The formal dormant entity is the UG.
+**Beste Interpretation:** Die Quelle verwendet „ruhend" wahrscheinlich im Sinne von „für dieses konkrete Vorhaben noch nicht aktiviert" und nicht im Sinne einer formal ruhenden Gesellschaft im rechtlichen Sinne. Die GmbH ist die aktive Holdinggesellschaft; die Frage ist, ob sie als Betriebsgesellschaft für das Café genutzt werden soll oder ob eine neue Gesellschaft gegründet wird. Die formal ruhende Gesellschaft ist die UG.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Café Berlin Partnership Hai]] — entity summary page
-- [[Café Berlin Solo Analyse]] — rejected predecessor
-- [[Hai]] — co-founder
-- [[Oleg Personal Context]] — project owner
-- [[Oleg Business Entity Structure]] — entity structure context
-- [[MOC Strategie und Business]] — strategic MOC
-- [[Cyprus Relocation]] — strategic tension (Berlin café vs. relocation goal)
-- [[Financial Independence]] — underlying motivation
-- [[KfW ERP-Gründerkredit]] — financing instrument mentioned
+- [[Café Berlin Partnership Hai]] — Entitätszusammenfassungsseite
+- [[Café Berlin Solo Analyse]] — abgelehnter Vorläufer
+- [[Hai]] — Co-Founder
+- [[Oleg Personal Context]] — Projektverantwortlicher
+- [[Oleg Business Entity Structure]] — Kontext zur Gesellschaftsstruktur
+- [[MOC Strategie und Business]] — strategische MOC
+- [[Cyprus Relocation]] — strategische Spannung (Berliner Café vs. Umzugsziel)
+- [[Financial Independence]] — zugrundeliegende Motivation
+- [[KfW ERP-Gründerkredit]] — genanntes Finanzierungsinstrument

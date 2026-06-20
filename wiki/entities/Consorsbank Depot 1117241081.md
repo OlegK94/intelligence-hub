@@ -5,16 +5,16 @@ tags: [konto, consorsbank, depot, investitionen, finanzen, wertpapiere, 2026]
 sources: ["raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Consorsbank investment depot 1117241081 linked to Oleg's main Girokonto — referenced in account overview but no holdings or valuation data available from source
+summary: Consorsbank Wertpapierdepot 1117241081, verknüpft mit Olegs Hauptgirokonto — im Kontoüberblick referenziert, jedoch keine Bestands- oder Bewertungsdaten aus der Quelle verfügbar
 ---
 
 # Consorsbank Depot 1117241081
 
-## Overview
+## Überblick
 
-**Consorsbank Depot 1117241081** is an investment depot (Wertpapierdepot) at Consorsbank, linked to [[Oleg Personal Context|Oleg]]'s main [[Consorsbank Girokonto 0250120493]].
+**Consorsbank Depot 1117241081** ist ein Wertpapierdepot bei der Consorsbank, verknüpft mit [[Oleg Personal Context|Olegs]] Hauptkonto [[Consorsbank Girokonto 0250120493]].
 
-## Account Details
+## Kontodetails
 
 | Parameter | Wert |
 |---|---|
@@ -24,32 +24,32 @@ summary: Consorsbank investment depot 1117241081 linked to Oleg's main Girokonto
 | **Status** | Aktiv |
 | **Bestand** | Unbekannt — keine Daten in Quelle |
 
-## Current Knowledge Gaps
+## Aktuelle Wissenslücken
 
-The depot is referenced in the Girokonto source as a linked account but no holdings, valuation, or activity data is provided. Unknown:
-- Total depot value
-- Asset classes held (ETFs, stocks, bonds, funds)
-- Regular savings plan (Sparplan) active or not
-- Last transaction date
+Das Depot wird in der Girokonto-Quelle als verknüpftes Konto erwähnt, jedoch werden keine Bestands-, Bewertungs- oder Aktivitätsdaten bereitgestellt. Unbekannt:
+- Gesamtwert des Depots
+- Gehaltene Anlageklassen (ETFs, Aktien, Anleihen, Fonds)
+- Ob ein aktiver Sparplan vorhanden ist
+- Datum der letzten Transaktion
 
-## Context
+## Kontext
 
-Consorsbank is a common choice for German retail investors due to:
-- Broad ETF offering including free savings plans
-- Integration with BNP Paribas infrastructure
-- Competitive order fees
+Die Consorsbank ist eine verbreitete Wahl für deutsche Privatanleger, unter anderem wegen:
+- Breitem ETF-Angebot inklusive kostenloser Sparpläne
+- Integration in die BNP-Paribas-Infrastruktur
+- Wettbewerbsfähiger Ordergebühren
 
-The existence of a depot alongside the Tagesgeld and Girokonto suggests [[Oleg Personal Context|Oleg]] has a three-tier savings structure at Consorsbank:
-1. **Girokonto** (daily transactional)
-2. **Tagesgeld** (short-term savings, 1% p.a.)
-3. **Depot** (long-term investment)
+Die Existenz eines Depots neben dem Tagesgeld und Girokonto deutet darauf hin, dass [[Oleg Personal Context|Oleg]] bei der Consorsbank eine dreistufige Sparstruktur nutzt:
+1. **Girokonto** (täglicher Zahlungsverkehr)
+2. **Tagesgeld** (kurzfristige Geldanlage, 1% p.a.)
+3. **Depot** (langfristige Kapitalanlage)
 
-This structure is compatible with a [[Financial Independence]] strategy, though the Tagesgeld rate (1%) is below-market.
+Diese Struktur ist kompatibel mit einer [[Financial Independence]]-Strategie, obwohl der Tagesgeld-Zinssatz (1%) unter dem Marktniveau liegt.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Consorsbank Girokonto 0250120493]] — linked main account
-- [[Consorsbank Girokonto 0250120493 Source Detail]] — source
-- [[Financial Independence]] — investment context
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — account holder
+- [[Consorsbank Girokonto 0250120493]] — verknüpftes Hauptkonto
+- [[Consorsbank Girokonto 0250120493 Source Detail]] — Quelle
+- [[Financial Independence]] — Anlagekontext
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Kontoinhaber

@@ -5,30 +5,30 @@ tags: [krankenversicherung, gesetzliche-kv, finanzen, est-2025, versicherung]
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: HEK (Hanseatische Krankenkasse) — one of Oleg's two health insurance providers in 2025; KV-Nachweis required for ESt 2025
+summary: HEK (Hanseatische Krankenkasse) — eine von Olegs zwei Krankenversicherungen im Jahr 2025; KV-Nachweis erforderlich für die ESt 2025
 ---
 
 # HEK (Hanseatische Krankenkasse)
 
-## Overview
+## Überblick
 
-**HEK** (Hanseatische Krankenkasse) is a German statutory health insurance (gesetzliche Krankenversicherung) provider. It appears as one of [[Oleg Personal Context|Oleg]]'s two KV providers in 2025, alongside [[Barmenia]].
+**HEK** (Hanseatische Krankenkasse) ist eine deutsche gesetzliche Krankenversicherung (GKV). Sie erscheint als einer von [[Oleg Personal Context|Olegs]] zwei KV-Anbietern im Jahr 2025, neben der [[Barmenia]].
 
-## Relevance to ESt 2025
+## Relevanz für die ESt 2025
 
-- **KV-Nachweis required** for [[ESt 2025]] — health insurance contributions are deductible as Sonderausgaben
-- Oleg must request the annual KV-Beitragsbescheinigung from HEK
-- Both HEK and Barmenia are listed, which may indicate:
-  - HEK = gesetzliche Krankenversicherung (GKV) for the employed period
-  - [[Barmenia]] = supplementary or private insurance
-  - Or a switch between providers during 2025
+- **KV-Nachweis erforderlich** für die [[ESt 2025]] — Krankenversicherungsbeiträge sind als Sonderausgaben absetzbar
+- Oleg muss die jährliche KV-Beitragsbescheinigung bei der HEK anfordern
+- Sowohl HEK als auch Barmenia sind aufgeführt, was möglicherweise bedeutet:
+  - HEK = gesetzliche Krankenversicherung (GKV) für den Beschäftigungszeitraum
+  - [[Barmenia]] = Zusatz- oder Privatversicherung
+  - Oder ein Anbieterwechsel im Laufe des Jahres 2025
 
-> ⚠️ **Assumption [A]:** The specific coverage period and contribution amounts for HEK in 2025 are not available from current sources.
+> ⚠️ **Annahme [A]:** Der genaue Versicherungszeitraum und die Beitragshöhe bei der HEK im Jahr 2025 sind aus den aktuellen Quellen nicht ersichtlich.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[ESt 2025]] — filing requiring KV-Nachweis
-- [[Barmenia]] — co-KV provider in 2025
+- [[ESt 2025]] — Steuererklärung, für die der KV-Nachweis benötigt wird
+- [[Barmenia]] — zweiter KV-Anbieter im Jahr 2025
 - [[SP STB]] — Steuerberater
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — insured person
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — versicherte Person

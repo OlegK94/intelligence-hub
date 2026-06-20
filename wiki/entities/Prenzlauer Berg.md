@@ -5,33 +5,33 @@ tags: [berlin, neighborhood, location, café, retail, standort]
 sources: ["raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Berlin neighborhood identified as a target location for the Café Berlin Partnership Hai venture
+summary: Berliner Stadtviertel, das als Zielstandort für das Vorhaben Café Berlin Partnership Hai identifiziert wurde
 ---
 
 # Prenzlauer Berg
 
-## Overview
+## Überblick
 
-**Prenzlauer Berg** is a Berlin neighborhood (Bezirk) in the Pankow district, identified alongside [[Friedrichshain]] as a **target location** (Zielgebiet) for the [[Café Berlin Partnership Hai]] venture.
+**Prenzlauer Berg** ist ein Berliner Stadtviertel (Bezirk) im Bezirk Pankow, das gemeinsam mit [[Friedrichshain]] als **Zielstandort** (Zielgebiet) für das Vorhaben [[Café Berlin Partnership Hai]] identifiziert wurde.
 
-## Context in Café Planning
+## Kontext in der Café-Planung
 
-From the [[Café Berlin Partnership Hai — Planning Detail]] planning document:
+Aus dem Planungsdokument [[Café Berlin Partnership Hai — Planning Detail]]:
 
-- **Rent benchmark:** 25–40 €/m²
-- **Target floor area:** 80–120 m²
-- **Open decision:** Laufkundschaft (foot traffic) vs. Destinationskonzept (destination concept)
+- **Mietrichtwert:** 25–40 €/m²
+- **Zielfläche:** 80–120 m²
+- **Offene Entscheidung:** Laufkundschaft vs. Destinationskonzept
 
-## Neighborhood Profile (General)
+## Stadtviertel-Profil (Allgemein)
 
-- Affluent, family-oriented neighborhood
-- Strong café culture and density of specialty coffee shops
-- Higher average spending per customer (APC potential)
-- More destination-oriented than pure foot-traffic driven
-- Popular with professionals, families, and creatives
+- Wohlhabendes, familienorientiertes Viertel
+- Ausgeprägte Cafékultur und hohe Dichte an Specialty-Coffee-Shops
+- Höherer durchschnittlicher Umsatz pro Kunde (APC-Potenzial)
+- Eher destinationsorientiert als reiner Laufkundschaftsstandort
+- Beliebt bei Berufstätigen, Familien und Kreativen
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Café Berlin Partnership Hai]] — venture context
-- [[Café Berlin Partnership Hai — Planning Detail]] — source document
-- [[Friedrichshain]] — alternative target location
+- [[Café Berlin Partnership Hai]] — Unternehmenskontext
+- [[Café Berlin Partnership Hai — Planning Detail]] — Quelldokument
+- [[Friedrichshain]] — alternativer Zielstandort

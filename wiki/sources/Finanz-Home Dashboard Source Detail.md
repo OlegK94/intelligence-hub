@@ -1,43 +1,43 @@
 ---
-title: Finanz-Home Dashboard Source Detail
+title: Finanz-Home Dashboard Quelldokument
 type: source
 tags: [dashboard, moc, finanzen, performance, command-center, oleg, rehabilitation, kritische-zahlen, provision]
 sources: ["raw/Privat/MOC/Finanz-Home.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Source document for Oleg's personal Command Center dashboard — dual-track system (Financial Rehabilitation + Performance/Body), critical financial metrics including -7,970 € structural annual deficit, -1,405 € overdraft, 1.10 € savings, and ~4,611 € upcoming quarterly commission
+summary: Quelldokument für Olegs persönliches Command-Center-Dashboard — duales System (Finanzielle Rehabilitation + Performance/Körper), kritische Finanzkennzahlen inkl. -7.970 € strukturellem Jahresdefizit, -1.405 € Dispo, 1,10 € Ersparnissen und ~4.611 € bevorstehender Quartalsprovision
 ---
 
-# Finanz-Home Dashboard — Source Detail
+# Finanz-Home Dashboard — Quelldokument Detail
 
-## Overview
+## Überblick
 
-This source document (`raw/Privat/MOC/Finanz-Home.md`, created: 2026-06-13) is [[Oleg Personal Context|Oleg]]'s personal **Command Center** — a top-level dashboard MOC linking to all finance and performance sub-pages. It defines a **dual-track system** and surfaces critical KPIs at a glance.
+Dieses Quelldokument (`raw/Privat/MOC/Finanz-Home.md`, erstellt: 2026-06-13) ist [[Oleg Personal Context|Olegs]] persönliches **Command Center** — ein übergeordnetes Dashboard-MOC, das auf alle Finanz- und Performance-Unterseiten verlinkt. Es definiert ein **duales System** und zeigt kritische KPIs auf einen Blick.
 
-> For the entity summary and strategic context, see [[Oleg Command Center]].
-> For the financial overview sub-page, see [[Finanz-Übersicht]].
-> For the three-phase rehabilitation plan, see [[Rehabilitation Plan]].
+> Die Entitätszusammenfassung und den strategischen Kontext findest du unter [[Oleg Command Center]].
+> Die Finanzübersichts-Unterseite findest du unter [[Finanz-Übersicht]].
+> Den Drei-Phasen-Rehabilitationsplan findest du unter [[Rehabilitation Plan]].
 
 ---
 
-## Dual-Track Framing
+## Duales System — Rahmung
 
 > *"Zwei parallele Tracks: Finanzielle Rehabilitation und Performance/Körper. Beide laufen gleichzeitig. Keine Kompromisse bei keinem der beiden."*
 
-The document explicitly defines two co-equal, non-negotiable tracks:
+Das Dokument definiert ausdrücklich zwei gleichwertige, nicht verhandelbare Tracks:
 
-| Track | Domain |
+| Track | Bereich |
 |---|---|
-| **Finanzielle Rehabilitation** | Debt elimination, structural deficit repair, business cost reduction |
-| **Performance / Körper** | Body composition, Hyrox prep, biomarker optimization |
+| **Finanzielle Rehabilitation** | Schuldenabbau, Beseitigung des strukturellen Defizits, Reduktion der Unternehmenskosten |
+| **Performance / Körper** | Körperzusammensetzung, Hyrox-Vorbereitung, Biomarker-Optimierung |
 
-This framing is consistent with the structural separation in the wiki between [[MOC Finanzen]] and [[MOC Performance und Leben]].
+Diese Rahmung stimmt mit der strukturellen Trennung im Wiki zwischen [[MOC Finanzen]] und [[MOC Performance und Leben]] überein.
 
 ---
 
-## Schnellzugriff Links (Navigation Structure)
+## Schnellzugriff-Links (Navigationsstruktur)
 
-### Finance
+### Finanzen
 - [[Finanz-Übersicht]] (Finanz-Übersicht & Status)
 - [[Wagglz GmbH]]
 - [[OK Capital UG]]
@@ -47,18 +47,18 @@ This framing is consistent with the structural separation in the wiki between [[
 ### Performance
 - Performance-Übersicht
 - [[3D Body Scan Scaneca Mai 2026]] (Körper & Scan, 29.05.2026)
-- [[Hyrox 10-Week Training]] (Hyrox Vorbereitung)
+- [[Hyrox 10-Week Training]] (Hyrox-Vorbereitung)
 - Blutbild Panel — 24 Marker
 
 ### Templates
 - [[Claude Session Template Finanzen]] (Claude Session – Finanzen)
 - [[Claude Session Template Performance]] (Claude Session – Performance)
 
-> ⚠️ **New entities identified:** `Finanz-Übersicht`, `Blutbild Panel — 24 Marker`, and `Master Prompt – Gesamtanalyse` are referenced here but do not yet have wiki pages. `Rehabilitation Plan` is referenced throughout the wiki but also lacks a dedicated page. These are flagged as stubs.
+> ⚠️ **Neu identifizierte Entitäten:** `Finanz-Übersicht`, `Blutbild Panel — 24 Marker` und `Master Prompt – Gesamtanalyse` werden hier referenziert, haben aber noch keine Wiki-Seiten. `Rehabilitation Plan` wird im gesamten Wiki referenziert, besitzt jedoch ebenfalls keine eigene Seite. Diese sind als Stubs markiert.
 
 ---
 
-## Kritische Zahlen (Critical Metrics Table)
+## Kritische Zahlen (Kennzahlentabelle)
 
 | Metrik | Wert | Status |
 |---|---|---|
@@ -70,97 +70,97 @@ This framing is consistent with the structural separation in the wiki between [[
 | Körperfett | 20,3 % | 🟡 |
 | Taille-Hüfte-Ratio | 0,92 (Ziel: <0,86) | 🟡 |
 
-### Financial Metrics Analysis
+### Analyse der Finanzkennzahlen
 
-**Net monthly salary: 3,638.82 €**
-- Implied gross: significantly higher (depends on tax class, KV, RV)
-- See [[Wagglz GF-Gehalt 2025]] for salary context
-- Annual net: ~43,666 €
+**Netto-Monatsgehalt: 3.638,82 €**
+- Impliziertes Brutto: deutlich höher (abhängig von Steuerklasse, KV, RV)
+- Gehaltskontext siehe [[Wagglz GF-Gehalt 2025]]
+- Jährliches Netto: ~43.666 €
 
-**Structural annual deficit: −7,970 €**
-- Definition: Regular income minus regular fixed costs yields a shortfall of 7,970 €/year
-- This is *structural* — not a one-off event, but baked into the current cost/income architecture
-- Implies monthly average shortfall of ~664 €/month from regular income alone
-- See [[Fixkosten Übersicht]] for the cost side
+**Strukturelles Jahresdefizit: −7.970 €**
+- Definition: Regelmäßige Einnahmen abzüglich regelmäßiger Fixkosten ergibt einen Fehlbetrag von 7.970 €/Jahr
+- Dieses Defizit ist *strukturell* — kein Einzelereignis, sondern in der aktuellen Kosten-/Einnahmenarchitektur fest verankert
+- Entspricht einem monatlichen Durchschnittsdefizit von ~664 €/Monat allein aus dem regulären Einkommen
+- Kostenseite siehe [[Fixkosten Übersicht]]
 
-**Unternehmensbelastung: ~−8,000 €/year**
-- Business-related financial burden on personal finances
-- Combined with structural deficit: total annual gap ≈ −15,970 € (without provisions)
-- Likely references [[Wagglz GmbH]] and [[OK Capital UG]] obligations
+**Unternehmensbelastung: ~−8.000 €/Jahr**
+- Unternehmensbezogene finanzielle Belastung der Privatfinanzen
+- Kombiniert mit dem strukturellen Defizit: Gesamtjahreslücke ≈ −15.970 € (ohne Rücklagen)
+- Bezieht sich wahrscheinlich auf Verpflichtungen aus [[Wagglz GmbH]] und [[OK Capital UG]]
 
-**Kontostand: −1,405 € (Dispo)**
-- Currently in overdraft (Dispositionskredit)
-- Represents immediate liquidity crisis — no buffer whatsoever
+**Kontostand: −1.405 € (Dispo)**
+- Aktuell im Minus (Dispositionskredit)
+- Entspricht einer unmittelbaren Liquiditätskrise — keinerlei Puffer vorhanden
 
 **Ersparnisse: 1,10 €**
-- Effectively zero savings
-- Critical vulnerability: any unexpected expense must be covered by credit or provisions
+- Faktisch keine Ersparnisse
+- Kritische Verwundbarkeit: Jede unerwartete Ausgabe muss über Kredit oder Rücklagen gedeckt werden
 
-### Performance Metrics (Cross-Reference)
+### Performance-Kennzahlen (Querverweise)
 
-The body composition metrics in this dashboard are **consistent** with [[3D Body Scan Scaneca Mai 2026]]:
+Die Körperzusammensetzungskennzahlen in diesem Dashboard sind **konsistent** mit [[3D Body Scan Scaneca Mai 2026]]:
 
-| Metrik | Dashboard | Scan Source | Status |
+| Metrik | Dashboard | Scan-Quelle | Status |
 |---|---|---|---|
-| Körperfett | 20,3% | 20,3% | ✅ Match |
-| WHR (Taille/Hüfte) | 0,92 | 0,92 (97.2/105.5) | ✅ Match |
-| WHR Ziel | <0,86 | <0,86 | ✅ Match |
+| Körperfett | 20,3% | 20,3% | ✅ Übereinstimmung |
+| WHR (Taille/Hüfte) | 0,92 | 0,92 (97,2/105,5) | ✅ Übereinstimmung |
+| WHR-Ziel | <0,86 | <0,86 | ✅ Übereinstimmung |
 
-No contradictions between this source and the body scan data.
+Keine Widersprüche zwischen dieser Quelle und den Körperscan-Daten.
 
 ---
 
 ## Nächste Quarterkommission
 
-> **April-Provision: ~4,611 € netto — Allokation nach Rehabilitation Plan**
+> **April-Provision: ~4.611 € netto — Allokation nach Rehabilitation Plan**
 
-Key facts:
-- Amount: **~4,611 € netto**
-- Source: April quarterly commission (Quartalsprovision)
-- Allocation: Directed entirely to the [[Rehabilitation Plan]] (3-phase)
-- This commission is a **critical bridge** — without it, the structural deficit and overdraft cannot be addressed from salary alone
+Wesentliche Fakten:
+- Betrag: **~4.611 € netto**
+- Quelle: April-Quartalsprovision (Quartalsprovision)
+- Verwendung: Vollständig dem [[Rehabilitation Plan]] (3 Phasen) zugeführt
+- Diese Provision ist eine **kritische Überbrückung** — ohne sie können das strukturelle Defizit und der Dispo allein aus dem Gehalt nicht behoben werden
 
-> ⚠️ **Provision context:** The commission appears to be from Oleg's employment or B2B sales role. The exact source (which company/role generates this provision) is not specified in this document. Cross-reference with [[Wagglz GmbH]] or employment context needed.
+> ⚠️ **Provisionskontext:** Die Provision stammt offenbar aus Olegs Anstellungs- oder B2B-Vertriebstätigkeit. Die genaue Quelle (welches Unternehmen/welche Rolle diese Provision erzeugt) wird in diesem Dokument nicht spezifiziert. Abgleich mit [[Wagglz GmbH]] oder dem Beschäftigungskontext erforderlich.
 
 ---
 
-## Consistency with Existing Wiki
+## Konsistenz mit dem bestehenden Wiki
 
-| Claim | Existing Wiki Status | Verdict |
+| Aussage | Status im bestehenden Wiki | Bewertung |
 |---|---|---|
-| KFA 20.3% | [[3D Body Scan Scaneca Mai 2026]] — confirmed | ✅ Consistent |
-| WHR 0.92 | [[3D Body Scan Scaneca Mai 2026]] — confirmed | ✅ Consistent |
-| WHR target <0.86 | [[Claude Session Template Performance]], [[3D Body Scan Scaneca Mai 2026]] | ✅ Consistent |
-| Wagglz GmbH exists | Multiple pages | ✅ Consistent |
-| OK Capital UG exists | [[OK Capital UG]] referenced in [[MOC Finanzen]] | ✅ Consistent |
+| KFA 20,3% | [[3D Body Scan Scaneca Mai 2026]] — bestätigt | ✅ Konsistent |
+| WHR 0,92 | [[3D Body Scan Scaneca Mai 2026]] — bestätigt | ✅ Konsistent |
+| WHR-Ziel <0,86 | [[Claude Session Template Performance]], [[3D Body Scan Scaneca Mai 2026]] | ✅ Konsistent |
+| Wagglz GmbH existiert | Mehrere Seiten | ✅ Konsistent |
+| OK Capital UG existiert | [[OK Capital UG]] referenziert in [[MOC Finanzen]] | ✅ Konsistent |
 
 ---
 
-## Stub Pages Identified
+## Identifizierte Stub-Seiten
 
-The following linked pages do not yet have wiki entries and should be created:
+Die folgenden verlinkten Seiten haben noch keine Wiki-Einträge und sollten erstellt werden:
 
-| Page | Priority | Reason |
+| Seite | Priorität | Begründung |
 |---|---|---|
-| [[Rehabilitation Plan]] | HIGH | Referenced across multiple finance pages as the allocation target |
-| [[Finanz-Übersicht]] | HIGH | Top-level finance overview page |
-| Blutbild Panel — 24 Marker | MEDIUM | Performance tracking page |
-| Master Prompt – Gesamtanalyse | LOW | Finance AI analysis template |
+| [[Rehabilitation Plan]] | HOCH | Wird auf mehreren Finanzseiten als Allokationsziel referenziert |
+| [[Finanz-Übersicht]] | HOCH | Übergeordnete Finanzübersichtsseite |
+| Blutbild Panel — 24 Marker | MITTEL | Performance-Tracking-Seite |
+| Master Prompt – Gesamtanalyse | NIEDRIG | KI-Analysevorlage für Finanzen |
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Command Center]] — entity summary page for this dashboard
-- [[Oleg Personal Context]] — subject of the dashboard
-- [[MOC Finanzen]] — finance sub-MOC
-- [[MOC Performance und Leben]] — performance sub-MOC
-- [[Rehabilitation Plan]] — three-phase plan for financial recovery
-- [[Finanz-Übersicht]] — detailed finance status page
-- [[Wagglz GmbH]] — business entity (finance track)
-- [[OK Capital UG]] — business entity (finance track)
-- [[Fixkosten Übersicht]] — fixed costs (structural deficit context)
-- [[3D Body Scan Scaneca Mai 2026]] — performance baseline (metrics confirmed here)
-- [[Claude Session Template Finanzen]] — AI session template
-- [[Claude Session Template Performance]] — AI session template
-- [[Hyrox 10-Week Training]] — performance track
+- [[Oleg Command Center]] — Entitätszusammenfassungsseite für dieses Dashboard
+- [[Oleg Personal Context]] — Subjekt des Dashboards
+- [[MOC Finanzen]] — Finanz-Sub-MOC
+- [[MOC Performance und Leben]] — Performance-Sub-MOC
+- [[Rehabilitation Plan]] — Drei-Phasen-Plan zur finanziellen Erholung
+- [[Finanz-Übersicht]] — Detaillierte Finanzstatusseite
+- [[Wagglz GmbH]] — Geschäftsentität (Finanz-Track)
+- [[OK Capital UG]] — Geschäftsentität (Finanz-Track)
+- [[Fixkosten Übersicht]] — Fixkosten (Kontext strukturelles Defizit)
+- [[3D Body Scan Scaneca Mai 2026]] — Performance-Ausgangsbasis (Kennzahlen hier bestätigt)
+- [[Claude Session Template Finanzen]] — KI-Session-Vorlage
+- [[Claude Session Template Performance]] — KI-Session-Vorlage
+- [[Hyrox 10-Week Training]] — Performance-Track

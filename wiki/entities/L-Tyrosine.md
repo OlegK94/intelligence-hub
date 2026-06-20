@@ -1,74 +1,74 @@
 ---
-title: L-Tyrosine
+title: L-Tyrosin
 type: entity
 tags: [supplement, nootropic, dopamine, cognition, pre-workout, amino-acid]
 sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Amino acid precursor to dopamine and norepinephrine — taken situationally pre-workout alongside Alpha-GPC for dual-pathway cognitive enhancement during drive to gym
+summary: Aminosäure-Vorläufer von Dopamin und Noradrenalin — situativ vor dem Training zusammen mit Alpha-GPC eingenommen für duale Neurotransmitter-Optimierung auf dem Weg ins Fitnessstudio
 ---
 
-# L-Tyrosine
+# L-Tyrosin
 
-## Overview
+## Überblick
 
-**L-Tyrosine** is an amino acid that serves as a precursor to catecholamine neurotransmitters — specifically **dopamine**, **norepinephrine**, and **epinephrine**. It is used as a cognitive and performance enhancer, particularly in high-stress or demanding situations.
+**L-Tyrosin** ist eine Aminosäure, die als Vorläufer katecholaminerger Neurotransmitter dient — insbesondere **Dopamin**, **Noradrenalin** und **Adrenalin**. Es wird als kognitiver und leistungssteigernder Wirkstoff eingesetzt, besonders in stressreichen oder anspruchsvollen Situationen.
 
-## Protocol Usage
+## Protokoll-Anwendung
 
-In [[Oleg Personal Context|Oleg]]'s [[Supplement Stack]]:
-- **Timing:** Situational — taken in the car on the way to the gym (06:05, per [[Health Protocol Master]] schedule)
-- **Combination:** Taken **together with [[Alpha-GPC]]**
-- **Purpose:** Pre-workout cognitive activation — dual-pathway approach:
-  - Alpha-GPC → acetylcholine pathway
-  - L-Tyrosine → dopamine/catecholamine pathway
-- **Frequency:** Situational (not every session)
+In [[Oleg Personal Context|Olegs]] [[Supplement Stack]]:
+- **Zeitpunkt:** Situativ — wird im Auto auf dem Weg ins Fitnessstudio eingenommen (06:05 Uhr, gemäß [[Health Protocol Master]]-Zeitplan)
+- **Kombination:** Wird **zusammen mit [[Alpha-GPC]]** eingenommen
+- **Zweck:** Kognitive Aktivierung vor dem Training — dualer Ansatz über zwei Neurotransmitter-Wege:
+  - Alpha-GPC → Acetylcholin-Pfad
+  - L-Tyrosin → Dopamin/Katecholamin-Pfad
+- **Häufigkeit:** Situativ (nicht bei jeder Einheit)
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-### Neurotransmitter Synthesis
-- L-Tyrosine → DOPA → Dopamine → Norepinephrine → Epinephrine
-- Supports motivation, drive, and focused alertness
-- Rate-limiting step in catecholamine synthesis — supplementing increases substrate availability
+### Neurotransmitter-Synthese
+- L-Tyrosin → DOPA → Dopamin → Noradrenalin → Adrenalin
+- Unterstützt Motivation, Antrieb und fokussierte Wachheit
+- Geschwindigkeitsbestimmender Schritt in der Katecholamin-Synthese — Supplementierung erhöht die Substratverfügbarkeit
 
-### Stress Resilience
-- Depleted under high cognitive/physical stress
-- Supplementation during stress may maintain cognitive performance
-- Particularly effective when endogenous tyrosine is depleted
+### Stressresilienz
+- Wird unter hoher kognitiver/körperlicher Belastung abgebaut
+- Supplementierung unter Stress kann die kognitive Leistungsfähigkeit aufrechterhalten
+- Besonders wirksam, wenn das endogene Tyrosin erschöpft ist
 
-## Benefits
+## Vorteile
 
-### Cognitive
-- Enhanced focus and mental clarity
-- Improved working memory under stress
-- Better mood regulation through dopamine support
-- Increased motivation for training
+### Kognitiv
+- Verbesserte Konzentration und mentale Klarheit
+- Verbesserte Arbeitsgedächtnisleistung unter Stress
+- Bessere Stimmungsregulation durch Dopamin-Unterstützung
+- Erhöhte Trainingsmotivation
 
-### Physical Performance
-- Dopamine's role in perceived effort regulation
-- May reduce perceived fatigue
-- Supports willingness to sustain high-intensity effort
+### Körperliche Leistung
+- Rolle von Dopamin bei der Regulierung des wahrgenommenen Anstrengungsempfindens
+- Kann wahrgenommene Erschöpfung reduzieren
+- Unterstützt die Bereitschaft, intensive Belastungen durchzuhalten
 
-## Synergy with Alpha-GPC
+## Synergie mit Alpha-GPC
 
-The combination of [[Alpha-GPC]] + L-Tyrosine is a common evidence-informed pre-workout nootropic pairing:
-- **Alpha-GPC:** Cholinergic pathway (acetylcholine) → focus, mind-muscle connection
-- **L-Tyrosine:** Catecholaminergic pathway (dopamine) → drive, motivation, stress resilience
-- Together: Broader cognitive enhancement covering two distinct neurotransmitter systems
+Die Kombination aus [[Alpha-GPC]] + L-Tyrosin ist eine verbreitete, evidenzbasierte Pre-Workout-Nootropika-Paarung:
+- **Alpha-GPC:** Cholinerger Pfad (Acetylcholin) → Fokus, Geist-Muskel-Verbindung
+- **L-Tyrosin:** Katecholaminerger Pfad (Dopamin) → Antrieb, Motivation, Stressresilienz
+- Zusammen: Breitere kognitive Verbesserung über zwei unterschiedliche Neurotransmitter-Systeme
 
-## Source & Brand
+## Quelle & Marke
 
-- The source document does not specify brand for L-Tyrosine
-- Not listed under Momentous products — may be a separate purchase or included in a bundle
-- **Note:** Momentous does not appear to offer a standalone L-Tyrosine product — this may represent an unacknowledged third exception to the Momentous-exclusivity principle, or it may be part of a pre-workout blend
+- Das Quelldokument gibt keine Marke für L-Tyrosin an
+- Nicht unter Momentous-Produkten gelistet — möglicherweise ein separater Kauf oder Teil eines Bundles
+- **Hinweis:** Momentous scheint kein eigenständiges L-Tyrosin-Produkt anzubieten — dies könnte eine unerwähnte dritte Ausnahme vom Momentous-Exklusivprinzip darstellen oder Teil eines Pre-Workout-Blends sein
 
-> ⚠️ **Minor gap:** Source document does not specify L-Tyrosine brand or confirm it is Momentous-sourced. This may be a small inconsistency with the "Momentous-exklusiv" principle.
+> ⚠️ **Kleines Datenloch:** Das Quelldokument gibt keine Marke für L-Tyrosin an und bestätigt nicht, dass es von Momentous bezogen wird. Dies könnte eine kleine Inkonsistenz mit dem „Momentous-exklusiv"-Prinzip darstellen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context
-- [[Supplement Stack Source Detail]] — source document
-- [[Alpha-GPC]] — paired supplement
-- [[Health Protocol Master]] — timing (06:05 pre-gym)
-- [[Oleg Personal Context]] — user
-- [[Momentous]] — primary brand (L-Tyrosine source unclear)
+- [[Supplement Stack]] — Stack-Kontext
+- [[Supplement Stack Source Detail]] — Quelldokument
+- [[Alpha-GPC]] — kombiniertes Supplement
+- [[Health Protocol Master]] — Zeitplan (06:05 Uhr vor dem Training)
+- [[Oleg Personal Context]] — Anwender
+- [[Momentous]] — Hauptmarke (L-Tyrosin-Quelle unklar)

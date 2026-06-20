@@ -5,18 +5,18 @@ tags: [cafe, grove, finanzen, cashflow, trigger, monitoring, kpi, liquiditaet, g
 sources: ["raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-16
 updated: 2026-06-16
-summary: Five-tier cash reserve monitoring system for GROVE café — automatic salary and operational actions triggered at predefined cash thresholds; monthly 30-minute monitoring ritual; 5 KPIs tracked; stress scenario shows insolvency risk at < 10k by Jan 2028 without countermeasures
+summary: Fünfstufiges Kassenstand-Monitoring-System für das GROVE Café — automatische Gehalts- und Betriebsmaßnahmen bei vordefinierten Liquiditätsschwellen; monatliches 30-Minuten-Monitoring-Ritual; 5 KPIs werden verfolgt; Stress-Szenario zeigt Insolvenzgefahr bei < 10k ab Januar 2028 ohne Gegenmaßnahmen
 ---
 
 # GROVE Cashflow Trigger System
 
-## Overview
+## Überblick
 
-The **GROVE Cashflow Trigger System** is a mandatory monthly monitoring protocol and automatic action framework for [[GROVE Businessplan und Betriebshandbuch 2026|GROVE café]]. It converts cash reserve levels into predefined operational responses — removing emotional decision-making from financial management under stress.
+Das **GROVE Cashflow Trigger System** ist ein verbindliches monatliches Monitoring-Protokoll und automatisches Maßnahmen-Framework für das [[GROVE Businessplan und Betriebshandbuch 2026|GROVE Café]]. Es übersetzt Kassenstände in vordefinierte operative Reaktionen — und entzieht damit emotionalen Entscheidungen unter finanziellem Stress die Grundlage.
 
 ---
 
-## Five-Tier Trigger Matrix
+## Fünfstufige Trigger-Matrix
 
 | Kassenstand | Signal | Maßnahme |
 |---|---|---|
@@ -26,20 +26,20 @@ The **GROVE Cashflow Trigger System** is a mandatory monthly monitoring protocol
 | **< 20.000 €** | 🔴 Rot | Steuerberater einschalten, KfW informieren |
 | **< 10.000 €** | ⛔ Kritisch | Externe Beratung oder geordneter Rückzug |
 
-### Salary Impact at Each Level
+### Gehaltsauswirkung auf jeder Stufe
 
-| Trigger Level | Action | Monthly Cash Saving |
+| Trigger-Stufe | Maßnahme | Monatliche Cashflow-Einsparung |
 |---|---|---|
 | Gelb (< 45k) | Phase 3 Gehaltserhöhung einfrieren | ~2.000 €/Monat |
 | Orange (< 30k) | Beide auf 2.000 € reduzieren | ~6.000 €/Monat |
-| Rot (< 20k) | Steuerberater + Nachfinanzierung | Variable |
+| Rot (< 20k) | Steuerberater + Nachfinanzierung | Variabel |
 | Kritisch (< 10k) | Geordneter Rückzug | — |
 
 ---
 
-## Monthly Monitoring Ritual (30 Minuten, Pflicht)
+## Monatliches Monitoring-Ritual (30 Minuten, Pflicht)
 
-Checklist ab Opening:
+Checkliste ab Opening:
 - [ ] Kassenstand aus Orderbird/Banking auslesen
 - [ ] Gegen Trigger-Matrix prüfen
 - [ ] Umsatz vs. Plan (Abweichung > 15% = Ursache identifizieren)
@@ -59,21 +59,21 @@ Checklist ab Opening:
 
 ---
 
-## Stress Scenario Context
+## Kontext Stress-Szenario
 
-In the −25% revenue stress scenario, without countermeasures:
-- **Januar 2028 (Month 11):** Kassenstand = **4.049 €** → Insolvenzgefahr
+Im −25%-Umsatz-Stress-Szenario, ohne Gegenmaßnahmen:
+- **Januar 2028 (Monat 11):** Kassenstand = **4.049 €** → Insolvenzgefahr
 
-The trigger system is designed to intervene well before this point:
-- Low-point in base scenario: **40.924 €** (Januar 2028) — well above Rot/Kritisch thresholds
-- Stress scenario hits Gelb at Month 6, Orange at Month 8
+Das Trigger System ist darauf ausgelegt, deutlich vor diesem Punkt einzugreifen:
+- Tiefpunkt im Basisszenario: **40.924 €** (Januar 2028) — weit oberhalb der Rot/Kritisch-Schwellen
+- Stress-Szenario erreicht Gelb in Monat 6, Orange in Monat 8
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[GROVE Businessplan und Betriebshandbuch 2026]] — parent plan
-- [[Wagglz GmbH]] — operating entity
-- [[Oleg Personal Context]] — one of the two GF affected by salary triggers
-- [[Hai]] — second GF affected
-- [[KfW StartGeld ERP 067]] — informed at Rot level
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — übergeordneter Plan
+- [[Wagglz GmbH]] — operative Gesellschaft
+- [[Oleg Personal Context]] — einer der beiden GF, der von den Gehalts-Triggern betroffen ist
+- [[Hai]] — zweiter GF, betroffen
+- [[KfW StartGeld ERP 067]] — wird auf Rot-Stufe informiert

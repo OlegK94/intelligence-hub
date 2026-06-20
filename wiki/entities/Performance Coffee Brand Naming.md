@@ -1,148 +1,148 @@
 ---
-title: Performance Coffee Brand Naming
+title: Performance Coffee Marken-Naming
 type: entity
 tags: [performance-cafe, naming, brand, trademark, EUIPO, aevum, kolvr, orvyn, berlin, oleg-kober, longevity, functional-coffee, modul-7]
 sources: ["raw/Business/PerformanceCafe/brand/naming_brief.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Completed naming process for Performance Coffee Brand (Modul 7) — top recommendation is AEVUM (lat. Lebenszeit) with 5-star IP rating; 15 candidates evaluated across Latin/Greek, English minimalist, and made-up word categories; positioning tagline "Perform now. Live longer."
+summary: Abgeschlossener Naming-Prozess für die Performance Coffee Marke (Modul 7) — Top-Empfehlung ist AEVUM (lat. Lebenszeit) mit 5-Sterne-IP-Bewertung; 15 Kandidaten aus den Kategorien Latein/Griechisch, Englisch-Minimalist und Kunstwörter wurden bewertet; Positionierungs-Tagline „Perform now. Live longer."
 ---
 
-# Performance Coffee Brand — Naming
+# Performance Coffee Marke — Naming
 
-## Overview
+## Überblick
 
-The naming project for [[Performance Coffee Brand]] was completed on 2026-06-14 as **Modul 7 — Brand & Naming** by [[Oleg Personal Context|Oleg Kober]]. The brief evaluated 15 name candidates and recommends **AEVUM** as the top name for launch.
+Das Naming-Projekt für [[Performance Coffee Brand|Performance Coffee Marke]] wurde am 2026-06-14 als **Modul 7 — Brand & Naming** von [[Oleg Personal Context|Oleg Kober]] abgeschlossen. Das Briefing bewertete 15 Namenskandidaten und empfiehlt **AEVUM** als Top-Namen für den Launch.
 
-> For the full source document with all 15 candidates, domain/IP analysis, positioning, and packaging specs, see [[Performance Cafe Naming Brief]].
+> Das vollständige Quelldokument mit allen 15 Kandidaten, Domain-/IP-Analyse, Positionierung und Verpackungsspezifikationen findet sich unter [[Performance Cafe Naming Brief]].
 
 ---
 
-## Top Recommendation: AEVUM
+## Top-Empfehlung: AEVUM
 
-| Attribute | Detail |
+| Attribut | Detail |
 |---|---|
 | **Name** | AEVUM |
-| **Origin** | Latin — *"Lebenszeit"* (lifespan / the duration of a life) |
-| **IP Rating** | ⭐⭐⭐⭐⭐ |
-| **.com Status** | Wahrscheinlich frei — verify immediately |
-| **.de Status** | Wahrscheinlich frei |
+| **Herkunft** | Lateinisch — *„Lebenszeit"* (Lebensspanne / die Dauer eines Lebens) |
+| **IP-Bewertung** | ⭐⭐⭐⭐⭐ |
+| **.com-Status** | Wahrscheinlich frei — sofort prüfen |
+| **.de-Status** | Wahrscheinlich frei |
 | **EUIPO Kl. 30** | Hoch schutzfähig |
 | **EUIPO Kl. 5** | Hoch schutzfähig |
-| **Known Conflicts** | Keiner in Kl. 30/5 |
-| **Fallback Domains** | aevum.co, getaevum.com |
+| **Bekannte Konflikte** | Keiner in Kl. 30/5 |
+| **Fallback-Domains** | aevum.co, getaevum.com |
 
-### Why AEVUM
+### Warum AEVUM
 
-1. **Bedeutung passt perfekt:** Latin "aevum" = a lifespan — not a moment, not eternity, but the arc of a life. Directly mirrors the brand promise: *"Perform now. Live longer."*
-2. **Zeitlos:** Not a trend name. Relevant in 10 years.
-3. **International:** Immediately associable in Romance languages (it./sp./fr./lat.)
-4. **Trademark-safe:** No known conflict in supplement/coffee classes
-5. **Logo-flexibel:** Works as wordmark alone — no icon needed
-6. **European Premium signal:** Blueprint-adjacent aesthetic, no energy-drink connotation
+1. **Bedeutung passt perfekt:** Lateinisch „aevum" = eine Lebensspanne — kein Augenblick, keine Ewigkeit, sondern der Bogen eines Lebens. Spiegelt das Markenversprechen direkt wider: *„Perform now. Live longer."*
+2. **Zeitlos:** Kein Trend-Name. In 10 Jahren noch relevant.
+3. **International:** In romanischen Sprachen (it./sp./fr./lat.) sofort assoziierbar.
+4. **Markenrechtlich sicher:** Kein bekannter Konflikt in den Supplement-/Kaffee-Klassen.
+5. **Logo-flexibel:** Funktioniert als Wortmarke allein — kein Icon erforderlich.
+6. **Europäisches Premium-Signal:** Blueprint-nahes Erscheinungsbild, keine Energy-Drink-Konnotation.
 
-### Full Brand Statement for AEVUM
+### Vollständiges Marken-Statement für AEVUM
 
 > *Aevum ist der Kaffee, den Bryan Johnson für seine Community nicht macht. Precision-dosed. Evidence-based. Every ingredient earned its place. Perform now. Live longer.*
 
 ---
 
-## All 15 Candidates — Summary
+## Alle 15 Kandidaten — Zusammenfassung
 
-### Kategorie 1: Latin/Greek (5 Candidates)
+### Kategorie 1: Latein/Griechisch (5 Kandidaten)
 
-| Name | IP Rating | Status |
+| Name | IP-Bewertung | Status |
 |---|---|---|
-| **[[Aevum Brand]]** | ⭐⭐⭐⭐⭐ | **TOP RECOMMENDATION** |
-| Aethos | ⭐⭐⭐⭐ | Strong — only Aethos Hotels conflict (different class) |
-| Nexum | ⭐⭐⭐⭐ | Good — no direct conflict |
-| Kalon | ⭐⭐⭐ | Possible niche conflict, .com unclear |
-| Supra | ⭐⭐ | Rejected — Toyota Supra, weak trademark |
+| **[[Aevum Brand]]** | ⭐⭐⭐⭐⭐ | **TOP-EMPFEHLUNG** |
+| Aethos | ⭐⭐⭐⭐ | Stark — nur Konflikt mit Aethos Hotels (andere Klasse) |
+| Nexum | ⭐⭐⭐⭐ | Gut — kein direkter Konflikt |
+| Kalon | ⭐⭐⭐ | Möglicher Nischen-Konflikt, .com unklar |
+| Supra | ⭐⭐ | Abgelehnt — Toyota Supra, schwache Marke |
 
-### Kategorie 2: English Minimalist (5 Candidates)
+### Kategorie 2: Englisch-Minimalist (5 Kandidaten)
 
-| Name | IP Rating | Status |
+| Name | IP-Bewertung | Status |
 |---|---|---|
-| Lyne | ⭐⭐⭐⭐ | Clean short option — .de needs checking |
-| Vault | ⭐⭐ | .com taken, crypto connotation risk |
-| Dura | ⭐⭐ | .com taken, pharma conflicts |
-| Span | ⭐⭐ | .com taken, generically descriptive |
-| Form | ⭐ | Rejected — too generic, all domains taken |
+| Lyne | ⭐⭐⭐⭐ | Saubere Kurzoption — .de muss geprüft werden |
+| Vault | ⭐⭐ | .com vergeben, Risiko durch Krypto-Konnotation |
+| Dura | ⭐⭐ | .com vergeben, Pharma-Konflikte |
+| Span | ⭐⭐ | .com vergeben, generisch-beschreibend |
+| Form | ⭐ | Abgelehnt — zu generisch, alle Domains vergeben |
 
-### Kategorie 3: Made-Up Words (5 Candidates)
+### Kategorie 3: Kunstwörter (5 Kandidaten)
 
-| Name | IP Rating | Status |
+| Name | IP-Bewertung | Status |
 |---|---|---|
-| **Kolvr** | ⭐⭐⭐⭐⭐ | Strongest trademark safety, founder code (KOber) embedded |
-| **Orvyn** | ⭐⭐⭐⭐⭐ | Elegant, no conflict, long-term brand building |
-| Qvanta | ⭐⭐⭐⭐ | Scientific sound — Quanta Computer different class/spelling |
-| Volken | ⭐⭐⭐ | German-international crossover, family name risk |
-| Zevra | ⭐⭐ | REJECTED — Zevra Therapeutics conflict in Class 5 (pharma) |
+| **Kolvr** | ⭐⭐⭐⭐⭐ | Stärkste Markensicherheit, Gründer-Code (KOber) eingebettet |
+| **Orvyn** | ⭐⭐⭐⭐⭐ | Elegant, kein Konflikt, langfristiger Markenaufbau |
+| Qvanta | ⭐⭐⭐⭐ | Wissenschaftlicher Klang — Quanta Computer andere Klasse/Schreibweise |
+| Volken | ⭐⭐⭐ | Deutsch-internationaler Crossover, Risiko durch Familiennamen |
+| Zevra | ⭐⭐ | ABGELEHNT — Zevra Therapeutics-Konflikt in Klasse 5 (Pharma) |
 
 ---
 
-## Brand Tagline
+## Marken-Tagline
 
-**Primary:** **"Perform now. Live longer."**
+**Primär:** **„Perform now. Live longer."**
 
-**Rationale:** Two promises in one sentence. Neither exclusive. Directly answers the customer's core question: "What does it do *today*? What does it do *long-term*?"
+**Begründung:** Zwei Versprechen in einem Satz. Keines schließt das andere aus. Beantwortet direkt die Kernfrage des Kunden: „Was bewirkt es *heute*? Was bewirkt es *langfristig*?"
 
-**Best Social Alternative:** *"Your coffee has an agenda."* — provokant, Blueprint-adjacent
+**Beste Social-Alternative:** *„Your coffee has an agenda."* — provokant, Blueprint-nah
 
 ---
 
-## Positioning Framework
+## Positionierungs-Framework
 
 **Kernversprechen:** Perform now. Live longer.
 
 **Format:** Functional Coffee / Longevity Supplement Stick-Pack
 
-**Market:** EU/DACH-Markt
+**Markt:** EU/DACH-Markt
 
-**Reference Positioning:**
-- [[Bryan Johnson]] / Blueprint — quality standard and white-space identifier
-- [[Andrew Huberman]] — science communication model
-- [[AG1]] — category benchmark to differentiate from
+**Referenz-Positionierung:**
+- [[Bryan Johnson]] / Blueprint — Qualitätsmaßstab und White-Space-Identifikator
+- [[Andrew Huberman]] — Modell für wissenschaftliche Kommunikation
+- [[AG1]] — Kategorie-Benchmark zur Differenzierung
 
-### Target Audiences
+### Zielgruppen
 
-| Audience | Hook |
+| Zielgruppe | Hook |
 |---|---|
-| Hyrox-Athleten | "Du trainierst für 60 Minuten Wettkampf. Wir arbeiten für die nächsten 60 Jahre." |
-| Executive Biohacker | "Bryan Johnson hat Kaffee aus seinem Protokoll gestrichen. Für den Rest von uns gibt es eine Alternative." |
-| Blueprint-Community | "Protocol-compliant coffee. Every ingredient with a reason. Zero BS." |
+| Hyrox-Athleten | „Du trainierst für 60 Minuten Wettkampf. Wir arbeiten für die nächsten 60 Jahre." |
+| Executive Biohacker | „Bryan Johnson hat Kaffee aus seinem Protokoll gestrichen. Für den Rest von uns gibt es eine Alternative." |
+| Blueprint-Community | „Protocol-compliant coffee. Every ingredient with a reason. Zero BS." |
 
-### Key Differentiators vs. Competition
+### Wesentliche Differenzierungsmerkmale gegenüber dem Wettbewerb
 
-| Competitor | Not Us | Us |
+| Wettbewerber | Nicht wir | Wir |
 |---|---|---|
-| AG1 | Catch-all pulver | Kaffee-First, fokussierter Longevity-Stack |
+| AG1 | Catch-all-Pulver | Kaffee-First, fokussierter Longevity-Stack |
 | Blueprint/Bryan Johnson | Matcha-Alternative | Der Kaffee, den Bryan Johnson nicht baut |
-| Bulletproof | MCT-Nostalgie 2012 | 2024 Forschung, kein Hype |
+| Bulletproof | MCT-Nostalgie 2012 | 2024-Forschung, kein Hype |
 | Red Bull/Monster | Zucker + Marketing | Mechanismus-basierte Formulierung |
 | Nespresso | Kaffee für Geschmack | Kaffee als Performance-Protokoll |
 | Four Sigmatic | Wellness-Pilz-Trend | Klinische Dosierungen mit Nachweis |
 
 ---
 
-## Next Steps (IP)
+## Nächste Schritte (IP)
 
 - [ ] aevum.com — sofort prüfen (Namecheap/GoDaddy)
-- [ ] EUIPO-Datenbank-Suche (euipo.europa.eu/eSearch) — Klasse 30 + 5
+- [ ] EUIPO-Datenbanksuche (euipo.europa.eu/eSearch) — Klasse 30 + 5
 - [ ] Markenanwalt beauftragen für finale Prüfung
 - [ ] Fallback: aevum.co oder getaevum.com sichern
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Naming Brief]] — full source document
-- [[Aevum Brand]] — top-recommended brand name entity
-- [[Performance Coffee Brand]] — project entity
-- [[Performance Coffee Brand Hai Onepager]] — product overview
-- [[Bryan Johnson]] — reference positioning
-- [[Andrew Huberman]] — brand voice model
-- [[Kölner Liste]] — certification in packaging concept
-- [[CMO Sourcing Performance Coffee]] — packaging manufacturer
-- [[Certification Roadmap Performance Coffee Brand]] — certification strategy
-- [[Oleg Personal Context]] — founder
+- [[Performance Cafe Naming Brief]] — vollständiges Quelldokument
+- [[Aevum Brand]] — empfohlene Top-Marke (Entity)
+- [[Performance Coffee Brand|Performance Coffee Marke]] — Projekt-Entity
+- [[Performance Coffee Brand Hai Onepager]] — Produktübersicht
+- [[Bryan Johnson]] — Referenz-Positionierung
+- [[Andrew Huberman]] — Markensprach-Modell
+- [[Kölner Liste]] — Zertifizierung im Verpackungskonzept
+- [[CMO Sourcing Performance Coffee]] — Verpackungshersteller
+- [[Certification Roadmap Performance Coffee Brand|Zertifizierungs-Roadmap Performance Coffee Marke]] — Zertifizierungsstrategie
+- [[Oleg Personal Context|Oleg Kober]] — Gründer

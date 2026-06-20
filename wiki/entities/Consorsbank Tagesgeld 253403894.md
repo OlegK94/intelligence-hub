@@ -5,16 +5,16 @@ tags: [konto, consorsbank, tagesgeld, finanzen, banking, sparen, zinsen, 2026]
 sources: ["raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Consorsbank savings (Tagesgeld) account 253403894 linked to Oleg's main Girokonto — interest rate 1.00% p.a. from 16.06.2026; balance unknown
+summary: Consorsbank Tagesgeldkonto 253403894, verknüpft mit Olegs Hauptgirokonto — Zinssatz 1,00 % p.a. ab 16.06.2026; Kontostand unbekannt
 ---
 
 # Consorsbank Tagesgeld 253403894
 
-## Overview
+## Übersicht
 
-**Consorsbank Tagesgeld 253403894** is an overnight savings account (Tagesgeld) linked to [[Oleg Personal Context|Oleg]]'s main [[Consorsbank Girokonto 0250120493]] at Consorsbank.
+**Consorsbank Tagesgeld 253403894** ist ein Tagesgeldkonto, das mit [[Oleg Personal Context|Olegs]] Hauptkonto [[Consorsbank Girokonto 0250120493]] bei der Consorsbank verknüpft ist.
 
-## Account Details
+## Kontodetails
 
 | Parameter | Wert |
 |---|---|
@@ -25,23 +25,23 @@ summary: Consorsbank savings (Tagesgeld) account 253403894 linked to Oleg's main
 | **Saldo** | Unbekannt (nicht in Quelle angegeben) |
 | **Status** | Aktiv |
 
-## Interest Rate Context
+## Kontext zum Zinssatz
 
-1,00% p.a. (from 16.06.2026) is a modest rate for a German Tagesgeld account in mid-2026. For context:
-- ECB deposit rate as of mid-2026 is in the 2–3% range (following 2022–2023 rate cycle)
-- Competitive Tagesgeld rates from other banks (e.g., ING, DKB, Trade Republic) were 2,5–3,5% in the same period
+1,00 % p.a. (ab 16.06.2026) ist ein moderater Zinssatz für ein deutsches Tagesgeldkonto Mitte 2026. Zum Vergleich:
+- Der EZB-Einlagenzins lag Mitte 2026 im Bereich von 2–3 % (nach dem Zinserhöhungszyklus 2022–2023)
+- Wettbewerbsfähige Tagesgeld-Zinssätze anderer Banken (z. B. ING, DKB, Trade Republic) lagen im selben Zeitraum bei 2,5–3,5 %
 
-> ⚠️ **Assumption [A]:** The 1,00% rate may be a promotional rate that changes over time, or Consorsbank's standard Tagesgeld rate which was below-market. This account may be worth reviewing for consolidation with a higher-yield savings option.
+> ⚠️ **Annahme [A]:** Der Zinssatz von 1,00 % könnte ein zeitlich begrenzter Aktionszins sein oder dem unter dem Marktdurchschnitt liegenden Standard-Tagesgeldзins der Consorsbank entsprechen. Es könnte sich lohnen, dieses Konto im Hinblick auf eine Umschichtung in eine ertragreichere Sparoption zu überprüfen.
 
-## Linked Account
+## Verknüpftes Konto
 
-- Linked to: [[Consorsbank Girokonto 0250120493]]
-- Transfers between the Girokonto and this Tagesgeld are immediate (same-bank transfer)
+- Verknüpft mit: [[Consorsbank Girokonto 0250120493]]
+- Überweisungen zwischen dem Girokonto und diesem Tagesgeldkonto sind sofort verfügbar (bankinterne Überweisung)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Consorsbank Girokonto 0250120493]] — linked main account
-- [[Consorsbank Girokonto 0250120493 Source Detail]] — source
-- [[MOC Finanzen]] — parent finance MOC
-- [[Fixkosten Übersicht]] — financial context
-- [[Oleg Personal Context]] — account holder
+- [[Consorsbank Girokonto 0250120493]] — verknüpftes Hauptkonto
+- [[Consorsbank Girokonto 0250120493 Source Detail]] — Quelle
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Fixkosten Übersicht]] — finanzieller Kontext
+- [[Oleg Personal Context]] — Kontoinhaber

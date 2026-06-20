@@ -1,161 +1,161 @@
 ---
-title: Corrective Exercise
+title: Korrekturübungen
 type: concept
 tags: [rehabilitation, injury-prevention, movement-quality, functional-training]
 sources: ["Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
 created: 2024-12-19
 updated: 2024-12-19
-summary: Targeted exercises designed to address movement dysfunction, muscle imbalances, and prevent injury
+summary: Gezielte Übungen zur Behebung von Bewegungsdysfunktionen, Muskelungleichgewichten und zur Verletzungsprävention
 ---
 
-# Corrective Exercise
+# Korrekturübungen
 
-## Overview
+## Überblick
 
-[[Corrective Exercise]] refers to targeted movements designed to address muscle imbalances, movement dysfunctions, and biomechanical issues that can lead to pain or injury. [[Jeff Cavaliere]] emphasizes these as the "small things" that enable the "big things" in training.
+[[Corrective Exercise|Korrekturübungen]] bezeichnen gezielte Bewegungen, die Muskelungleichgewichte, Bewegungsdysfunktionen und biomechanische Probleme beheben sollen, welche zu Schmerzen oder Verletzungen führen können. [[Jeff Cavaliere]] betont diese als die „kleinen Dinge", die die „großen Dinge" im Training erst ermöglichen.
 
-## Philosophy
+## Philosophie
 
-### "Small Things Enable Big Things"
-- Minor corrections prevent major breakdowns
-- Address root causes rather than symptoms
-- Build stable foundation before adding load
-- Prevention is more effective than rehabilitation
+### „Kleine Dinge ermöglichen große Dinge"
+- Kleine Korrekturen verhindern größere Zusammenbrüche
+- Ursachen statt Symptome angehen
+- Stabiles Fundament aufbauen, bevor Belastung hinzugefügt wird
+- Prävention ist wirksamer als Rehabilitation
 
-### Individual Assessment
-- **Movement Screening:** Identify specific dysfunctions
-- **Pain Patterns:** Trace symptoms to source
-- **Compensation Analysis:** Recognize how body adapts to weakness
-- **Functional Testing:** Assess real-world movement capacity
+### Individuelle Beurteilung
+- **Bewegungsscreening:** Spezifische Dysfunktionen identifizieren
+- **Schmerzmuster:** Symptome zur Ursache zurückverfolgen
+- **Kompensationsanalyse:** Erkennen, wie der Körper sich an Schwächen anpasst
+- **Funktionstests:** Alltagsbewegungsfähigkeit beurteilen
 
-## Key Problem Areas
+## Wichtige Problembereiche
 
-### Lower Back Pain
-- **Root Cause:** Usually [[Glute Medius]] weakness, not back muscles
-- **Immediate Relief:** Side-lying pressure point release with movement
-- **Strengthening:** Hip slide wall exercise, functional walking drills
-- **Prevention:** Regular glute medius maintenance training
+### Rückenschmerzen im unteren Bereich
+- **Ursache:** Meist [[Glute Medius]]-Schwäche, nicht die Rückenmuskulatur
+- **Sofortige Linderung:** Seitliches Druckpunktrelease mit Bewegung
+- **Kräftigung:** Hüftgleiten an der Wand, funktionelle Gehübungen
+- **Prävention:** Regelmäßiges Erhaltungstraining des Glute Medius
 
-### Shoulder Dysfunction
-- **Modern Problem:** Chronic internal rotation from desk work/texting
-- **Solution:** External rotation training with bands
-- **Key Point:** Keep elbow pinned to prevent compensation
-- **Integration:** Include in all upper body training days
+### Schulterdysfunktion
+- **Modernes Problem:** Chronische Innenrotation durch Schreibtischarbeit/Tippen
+- **Lösung:** Training der Außenrotation mit Bändern
+- **Wichtiger Hinweis:** Ellbogen anlegen, um Kompensation zu verhindern
+- **Integration:** In alle Trainingstage für den Oberkörper einbeziehen
 
-### Neck Issues
-- **Undertraining:** Most neglected area in fitness
-- **Protocol:** Four-directional training with light resistance
-- **Benefits:** Posture improvement, injury prevention, aesthetics
-- **Safety:** Start very light, progress slowly
+### Nackenprobleme
+- **Untertraining:** Am meisten vernachlässigter Bereich im Fitnesstraining
+- **Protokoll:** Vierdirektionales Training mit leichtem Widerstand
+- **Vorteile:** Haltungsverbesserung, Verletzungsprävention, Ästhetik
+- **Sicherheit:** Sehr leicht beginnen, langsam steigern
 
-### Grip/Elbow Pain
-- **Cause:** Improper grip placement (bar too deep in fingers)
-- **Solution:** Keep weight in "meat of hand" not fingertips
-- **Application:** All pulling and pressing movements
-- **Prevention:** Conscious grip awareness during training
+### Griff-/Ellbogenschmerzen
+- **Ursache:** Falsche Griffposition (Stange zu tief in den Fingern)
+- **Lösung:** Gewicht im „Fleischbereich der Hand" halten, nicht an den Fingerspitzen
+- **Anwendung:** Alle Zug- und Druckbewegungen
+- **Prävention:** Bewusstes Griffbewusstsein beim Training
 
-## Implementation Strategy
+## Umsetzungsstrategie
 
-### Timing Options
-- **Dedicated Sessions:** 5-7 minutes, 3x per week focused work
-- **Post-Workout:** After main training when larger muscles are pre-fatigued
-- **Daily Habits:** Integration into routine activities (TV time, breaks)
-- **Pre-Workout:** Light activation for problem areas
+### Zeitliche Optionen
+- **Dedizierte Einheiten:** 5–7 Minuten, 3-mal pro Woche gezieltes Training
+- **Nach dem Training:** Nach dem Haupttraining, wenn größere Muskeln vorermüdet sind
+- **Tägliche Gewohnheiten:** Integration in Routineaktivitäten (TV-Zeit, Pausen)
+- **Vor dem Training:** Leichte Aktivierung für Problembereiche
 
-### Programming Principles
-- **Consistency Over Intensity:** Regular practice more important than heavy loads
-- **Quality Focus:** Perfect movement over resistance progression
-- **Individual Adaptation:** Modify based on specific limitations
-- **Progressive Loading:** Start bodyweight, add resistance gradually
+### Trainingsprinzipien
+- **Kontinuität vor Intensität:** Regelmäßige Praxis wichtiger als schwere Lasten
+- **Qualitätsfokus:** Perfekte Bewegung vor Widerstandssteigerung
+- **Individuelle Anpassung:** Modifizieren je nach spezifischen Einschränkungen
+- **Progressive Belastung:** Mit dem Körpergewicht beginnen, Widerstand schrittweise erhöhen
 
-## Assessment Tools
+## Bewertungswerkzeuge
 
-### Functional Tests
+### Funktionstests
 
-#### "Old Man Test"
-- Put on shoes/socks standing on one foot
-- Tests balance, hip strength, ankle mobility, back stability
-- Trainable skill that improves with practice
-- Daily implementation builds functional capacity
+#### „Old Man Test"
+- Schuhe/Socken anziehen, auf einem Fuß stehend
+- Testet Balance, Hüftkraft, Sprunggelenksmobilität, Rückenstabilität
+- Erlernbare Fähigkeit, die sich mit Übung verbessert
+- Tägliche Anwendung stärkt die funktionelle Kapazität
 
-#### Side Plank with Leg Raise
-- Side plank position with top leg at 45°
-- Tests lateral pillar strength and glute medius function
-- Hold for 30 seconds minimum
-- Identifies unilateral weaknesses
+#### Seitstütz mit Beinhebeübung
+- Seitstützposition mit dem oberen Bein in 45°-Winkel
+- Testet laterale Pfeilersstabilität und Glute-Medius-Funktion
+- Mindestens 30 Sekunden halten
+- Identifiziert einseitige Schwächen
 
-#### Single Leg Stance
-- Stand on one leg, observe pelvic stability
-- Hip drop indicates glute medius weakness
-- Can be done with eyes closed for vestibular challenge
-- Progression: add perturbations or unstable surface
+#### Einbeinstand
+- Auf einem Bein stehen, Beckenstabilität beobachten
+- Hüftabsenkung zeigt Glute-Medius-Schwäche an
+- Kann mit geschlossenen Augen für vestibuläre Herausforderung durchgeführt werden
+- Steigerung: Perturbationen oder instabile Unterlage hinzufügen
 
-### Movement Analysis
-- **Compensation Patterns:** Body's natural tendency to cheat
-- **Mirror Feedback:** Visual assessment of movement quality
-- **Video Analysis:** Slow-motion review of technique
-- **Professional Assessment:** Physical therapy evaluation when needed
+### Bewegungsanalyse
+- **Kompensationsmuster:** Natürliche Neigung des Körpers zu „schummeln"
+- **Spiegelrückmeldung:** Visuelle Beurteilung der Bewegungsqualität
+- **Videoanalyse:** Zeitlupenüberprüfung der Technik
+- **Fachliche Beurteilung:** Physiotherapeutische Untersuchung bei Bedarf
 
-## Exercise Categories
+## Übungskategorien
 
-### Stability Training
-- **Core Stabilization:** Anti-movement patterns
-- **Joint Stability:** Rotator cuff, glute medius, deep neck flexors
-- **Balance Training:** Single-leg stance progressions
-- **Proprioception:** Body awareness and position sense
+### Stabilitätstraining
+- **Rumpfstabilisation:** Bewegungshemmende Muster
+- **Gelenkstabilität:** Rotatorenmanschette, Glute Medius, tiefe Nackenflexoren
+- **Gleichgewichtstraining:** Einbeinstandsprogressionen
+- **Propriozeption:** Körperbewusstsein und Lagesinn
 
-### Mobility Work
-- **Dynamic Stretching:** Movement-based flexibility
-- **Joint Mobilization:** Restore normal range of motion
-- **Soft Tissue Release:** Address trigger points and adhesions
-- **Movement Prep:** Prepare body for training demands
+### Mobilitätsarbeit
+- **Dynamisches Dehnen:** Bewegungsbasierte Flexibilität
+- **Gelenkmobilisation:** Normalen Bewegungsumfang wiederherstellen
+- **Weichgewebsrelease:** Triggerpunkte und Verklebungen lösen
+- **Bewegungsvorbereitung:** Körper auf Trainingsanforderungen vorbereiten
 
-### Activation Exercises
-- **Glute Activation:** Wake up dormant glute muscles
-- **Rotator Cuff Activation:** Prepare shoulders for pressing/pulling
-- **Deep Neck Flexor Activation:** Counter forward head posture
-- **Core Activation:** Engage stabilizing muscles
+### Aktivierungsübungen
+- **Gesäßmuskel-Aktivierung:** Schlafende Gesäßmuskeln wecken
+- **Rotatorenmanschetten-Aktivierung:** Schultern auf Drücken/Ziehen vorbereiten
+- **Tiefe Nackenflexoren-Aktivierung:** Vorwärtskopfhaltung entgegenwirken
+- **Rumpfaktivierung:** Stabilisierungsmuskulatur einschalten
 
-## Integration with Training
+## Integration in das Training
 
-### Warm-up Integration
-- Include corrective exercises in movement preparation
-- Address known problem areas before training
-- Use as assessment tool for daily readiness
-- Progressive complexity leading to main exercises
+### Aufwärm-Integration
+- Korrekturübungen in die Bewegungsvorbereitung einbeziehen
+- Bekannte Problembereiche vor dem Training angehen
+- Als tägliches Bereitschaftsbeurteilungswerkzeug verwenden
+- Progressive Komplexität, die zu den Hauptübungen führt
 
-### Strength Training Modifications
-- **Athletic Positioning:** Staggered stance for better stability
-- **Movement Cues:** "Screw down" into joints for co-contraction
-- **Exercise Selection:** Choose variations that support corrections
-- **Load Management:** Reduce weight if form breaks down
+### Krafttraining-Modifikationen
+- **Athletische Position:** Versetzter Stand für bessere Stabilität
+- **Bewegungshinweise:** In Gelenke „einschrauben" für Ko-Kontraktion
+- **Übungsauswahl:** Varianten wählen, die Korrekturen unterstützen
+- **Belastungsmanagement:** Gewicht reduzieren, wenn die Form nachlässt
 
-### Recovery Enhancement
-- Post-workout corrective work for imbalances created
-- Address areas that become tight from training
-- Promote parasympathetic recovery through gentle movement
-- Maintain mobility gained during training session
+### Regenerationsunterstützung
+- Korrekturarbeit nach dem Training für entstandene Ungleichgewichte
+- Bereiche ansprechen, die durch das Training verspannen
+- Parasympathische Erholung durch sanfte Bewegung fördern
+- Während der Trainingseinheit gewonnene Mobilität erhalten
 
-## Long-term Approach
+## Langfristiger Ansatz
 
-### Lifestyle Integration
-- **Habit Stacking:** Attach to existing routines
-- **Environmental Cues:** Set up reminders for practice
-- **Social Support:** Family/training partner involvement
-- **Progress Tracking:** Document improvements in function
+### Lebensstil-Integration
+- **Gewohnheitsstapeln:** An bestehende Routinen anhängen
+- **Umgebungshinweise:** Erinnerungen für die Praxis einrichten
+- **Soziale Unterstützung:** Familie/Trainingspartner einbeziehen
+- **Fortschrittsverfolgung:** Verbesserungen der Funktion dokumentieren
 
-### Adaptation Over Time
-- **Seasonal Adjustments:** Modify based on activity demands
-- **Age-Related Changes:** Address changing needs over decades
-- **Injury History:** Maintain areas of previous dysfunction
-- **Sport-Specific Needs:** Counter sport-related imbalances
+### Anpassung im Laufe der Zeit
+- **Saisonale Anpassungen:** Je nach Aktivitätsanforderungen modifizieren
+- **Altersbedingte Veränderungen:** Sich verändernde Bedürfnisse über Jahrzehnte berücksichtigen
+- **Verletzungsgeschichte:** Bereiche früherer Dysfunktionen pflegen
+- **Sportspezifische Bedürfnisse:** Sportbedingte Ungleichgewichte ausgleichen
 
-## Related Concepts
+## Verwandte Konzepte
 
-- [[Injury Prevention]]
-- [[Movement Quality]]
-- [[Functional Training]]
-- [[Postural Restoration]]
-- [[Muscle Imbalance]]
-- [[Kinetic Chain Function]]
-- [[Pain-Free Movement]]
+- [[Injury Prevention|Verletzungsprävention]]
+- [[Movement Quality|Bewegungsqualität]]
+- [[Functional Training|Funktionelles Training]]
+- [[Postural Restoration|Haltungswiederherstellung]]
+- [[Muscle Imbalance|Muskelungleichgewicht]]
+- [[Kinetic Chain Function|Kinematische Kettenfunktion]]
+- [[Pain-Free Movement|Schmerzfreie Bewegung]]

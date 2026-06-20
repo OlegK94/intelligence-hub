@@ -5,38 +5,38 @@ tags: [performance-cafe, CMO, contract-manufacturing, Hamburg, ISO-22000, custom
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Priority 2 CMO candidate for Performance Coffee Brand — Hamburg-based custom formulation expert; ISO 22000 certified; bulk and bespoke formula development
+summary: Priorität-2-CMO-Kandidat für die Performance Coffee Brand — Hamburger Spezialist für maßgeschneiderte Formulierungen; ISO 22000 zertifiziert; Entwicklung von Bulk- und Individualrezepturen
 ---
 
 # Lehvoss Nutrition
 
-## Overview
+## Übersicht
 
-**Lehvoss Nutrition** is a [[Performance Coffee Brand]] **Priority 2 CMO candidate**, based in Hamburg, Germany. It specializes in custom formulation development, making it well-suited for the bespoke Performance Coffee sachet concept.
+**Lehvoss Nutrition** ist ein [[Performance Coffee Brand|Performance Coffee Brand]] **Priorität-2-CMO-Kandidat** mit Sitz in Hamburg, Deutschland. Das Unternehmen ist auf die Entwicklung individueller Formulierungen spezialisiert und damit gut geeignet für das maßgeschneiderte Performance Coffee Sachets-Konzept.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Country** | Germany (Hamburg) |
-| **Specialization** | Bulk + Custom Formulation |
-| **Certifications** | ISO 22000 |
+| **Land** | Deutschland (Hamburg) |
+| **Spezialisierung** | Bulk + Individualrezeptur |
+| **Zertifizierungen** | ISO 22000 |
 | **Website** | lehvoss.de |
-| **CMO Priority** | **#2** |
+| **CMO-Priorität** | **#2** |
 
-## Why Priority 2
+## Warum Priorität 2
 
-- **Custom formulation specialist** — directly relevant for complex multi-ingredient sachet
-- German-based → [[NEM Konformität]] familiarity
-- ISO 22000 food safety management system certification
-- Hamburg location (easy logistics for Northern Germany supply chain)
-- Strong for bespoke formula development where standard ingredient sourcing is secondary
+- **Spezialist für individuelle Formulierungen** — direkt relevant für komplexe Mehr-Zutaten-Sachets
+- Deutschlandbasiert → Vertrautheit mit [[NEM Konformität]]
+- Zertifizierung nach ISO 22000 Lebensmittelsicherheitsmanagementsystem
+- Standort Hamburg (einfache Logistik für norddeutsche Lieferkette)
+- Stark in der Entwicklung von Individualrezepturen, bei denen die Beschaffung von Standardzutaten zweitrangig ist
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — evaluation framework
-- [[CMO Erstkontakt Email Template]] — outreach template
-- [[Performance Cafe Supplier List]] — source document
-- [[Prinova]] — Priority 1 CMO candidate
-- [[Nutri-Epitech]] — Priority 3 CMO candidate
-- [[Performance Coffee Brand]] — project entity
+- [[CMO Sourcing Performance Coffee]] — Bewertungsrahmen
+- [[CMO Erstkontakt Email Template]] — Kontaktvorlage
+- [[Performance Cafe Supplier List|Performance Cafe Lieferantenliste]] — Quelldokument
+- [[Prinova]] — Priorität-1-CMO-Kandidat
+- [[Nutri-Epitech]] — Priorität-3-CMO-Kandidat
+- [[Performance Coffee Brand]] — Projektentität

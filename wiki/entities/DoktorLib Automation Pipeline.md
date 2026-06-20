@@ -1,50 +1,50 @@
 ---
-title: DoktorLib Automation Pipeline
+title: DoktorLib Automatisierungs-Pipeline
 type: entity
 tags: [automation, saas, workflow, doktorlib, project, tally, make, salesforce, notion, dust-agent, aktiv, onboarding, lead-management]
 sources: ["raw/00-MOC/🏠 Home.md", "raw/01-Strategie-Business/DoktorLib Automation Pipeline.md"]
 created: 2026-06-13
 updated: 2026-06-15
-summary: Active automation project at DoktorLib — end-to-end pipeline (Tally → Make → Salesforce/Notion → Dust Agent) to automate inbound lead Discovery & Onboarding for Arztpraxen, replacing manual Excel KEB; Priority 2 as of June 2026
+summary: Aktives Automatisierungsprojekt bei DoktorLib — End-to-End-Pipeline (Tally → Make → Salesforce/Notion → Dust Agent) zur Automatisierung von Inbound-Lead-Discovery & Onboarding für Arztpraxen, ersetzt das manuelle Excel-KEB; Priorität 2 Stand Juni 2026
 ---
 
-# DoktorLib Automation Pipeline
+# DoktorLib Automatisierungs-Pipeline
 
-## Overview
+## Überblick
 
-The DoktorLib Automation Pipeline is an active work project ([[Oleg Personal Context|Oleg]]'s Priority 2 as of June 2026) to automate the end-to-end **Discovery & Onboarding flow** for inbound leads (Arztpraxen / medical practices) at [[DoktorLib]]. The pipeline uses a combination of no-code and AI tools to eliminate manual data entry and replace the existing Excel-based KEB (Kundenerfassungsbogen / customer registration form).
+Die DoktorLib Automatisierungs-Pipeline ist ein aktives Arbeitsprojekt ([[Oleg Personal Context|Olegs]] Priorität 2 Stand Juni 2026) zur Automatisierung des End-to-End-**Discovery & Onboarding-Flows** für Inbound-Leads (Arztpraxen) bei [[DoktorLib]]. Die Pipeline kombiniert No-Code- und KI-Tools, um manuelle Dateneingabe zu eliminieren und den bestehenden Excel-basierten KEB (Kundenerfassungsbogen) zu ersetzen.
 
-> For full architecture, build phases, and source detail, see [[DoktorLib Automation Pipeline Source Detail]].
+> Für die vollständige Architektur, Build-Phasen und Quellendetails siehe [[DoktorLib Automation Pipeline Source Detail]].
 
-## Project Status
+## Projektstatus
 
-- **Status:** 🟡 In Bau (In Development)
-- **Priority:** 2 of 6 active priorities
-- **Next Step:** Build Tally Intake Form first (input defines the Dust Agent output)
-- **Source Created:** 2026-05-08
+- **Status:** 🟡 In Bau (In Entwicklung)
+- **Priorität:** 2 von 6 aktiven Prioritäten
+- **Nächster Schritt:** Zuerst das Tally-Intake-Formular bauen (der Input definiert den Output des Dust Agents)
+- **Quelle erstellt:** 2026-05-08
 
-## The Problem Being Solved
+## Das zu lösende Problem
 
 | Problem | Detail |
 |---|---|
-| Late data capture | Practice base data only collected during Demo Call — too late |
-| Unstructured discovery notes | Free-text in Salesforce → not scalable |
-| Manual KEB | Excel-based customer registration form → error-prone, fragmented |
-| No single source of truth | Deployment receives Excel → no connected handover |
+| Späte Datenerfassung | Praxis-Stammdaten werden erst beim Demo-Call erfasst — zu spät |
+| Unstrukturierte Discovery-Notizen | Freitext in Salesforce → nicht skalierbar |
+| Manueller KEB | Excel-basierter Kundenerfassungsbogen → fehleranfällig, fragmentiert |
+| Keine einheitliche Datenquelle | Deployment erhält Excel → keine verknüpfte Übergabe |
 
-## Technology Stack
+## Technologie-Stack
 
-| Tool | Role |
+| Tool | Rolle |
 |---|---|
-| [[Tally]] | Form builder — Intake Form (pre-demo) + IT Audit Form |
-| [[Make]] | Automation middleware — routes data from Tally to SF and Notion |
-| [[Salesforce]] | Long-term data backbone — primary system of record |
-| [[Notion]] | Project planning DB — secondary layer for deployment view |
-| [[Dust Agent]] | AI agent — reads Salesforce data, generates KEB automatically |
+| [[Tally]] | Formular-Builder — Intake-Formular (vor Demo) + IT-Audit-Formular |
+| [[Make]] | Automatisierungs-Middleware — leitet Daten von Tally an SF und Notion weiter |
+| [[Salesforce]] | Langfristiges Daten-Backbone — primäres System of Record |
+| [[Notion]] | Projektplanungs-DB — sekundäre Ebene für die Deployment-Ansicht |
+| [[Dust Agent]] | KI-Agent — liest Salesforce-Daten, generiert KEB automatisch |
 
-> ⚠️ **Correction from earlier version:** The original entity page described Tally and Dust as alternative options. The source document (see [[DoktorLib Automation Pipeline Source Detail]]) clarifies that **both are used** in complementary phases — Tally for data collection (Phase 1), Dust for KEB generation (Phase 3).
+> ⚠️ **Korrektur gegenüber früherer Version:** Die ursprüngliche Entity-Seite beschrieb Tally und Dust als alternative Optionen. Das Quelldokument (siehe [[DoktorLib Automation Pipeline Source Detail]]) stellt klar, dass **beide** in komplementären Phasen eingesetzt werden — Tally zur Datenerfassung (Phase 1), Dust zur KEB-Generierung (Phase 3).
 
-## Target Flow
+## Ziel-Flow
 
 ```
 Inbound Lead
@@ -66,36 +66,36 @@ Vertragsunterzeichnung
 Deployment erhält Notion-Link (kein Excel)
 ```
 
-## Build Phases
+## Build-Phasen
 
-1. **Phase 1 — Tally Intake Form:** Define fields (Praxistyp, Fachrichtung, Software, Labore, IT-Infrastruktur, Gerätelandschaft), DSGVO-compliant setup
-2. **Phase 2 — Make Automation:** Trigger on Tally submission → create SF Lead/Opportunity + Notion DB page, with error handling
-3. **Phase 3 — Dust Agent (KEB-Generator):** Prompt design, SF data input structure, KEB output format, trigger on contract signature
-4. **Phase 4 — Deployment Handover:** Notion template for deployment view, link-based handover replaces Excel
+1. **Phase 1 — Tally-Intake-Formular:** Felder definieren (Praxistyp, Fachrichtung, Software, Labore, IT-Infrastruktur, Gerätelandschaft), DSGVO-konformes Setup
+2. **Phase 2 — Make-Automatisierung:** Trigger bei Tally-Einreichung → SF Lead/Opportunity + Notion-DB-Seite erstellen, mit Fehlerbehandlung
+3. **Phase 3 — Dust Agent (KEB-Generator):** Prompt-Design, SF-Dateneingabestruktur, KEB-Ausgabeformat, Trigger bei Vertragsunterzeichnung
+4. **Phase 4 — Deployment-Übergabe:** Notion-Vorlage für die Deployment-Ansicht, linkbasierte Übergabe ersetzt Excel
 
-## Key Decisions Made
+## Getroffene Grundsatzentscheidungen
 
-- **Salesforce = Long-Term Data Backbone** (not just Notion)
-- **Tally = DSGVO-konform** for Praxisstruktur-Daten (EU-Hosting Belgien ✅; no patient data)
-- **Dust = internal AI platform** for KEB generation
-- **Excel KEB = replaced entirely** (not optimized)
+- **Salesforce = langfristiges Daten-Backbone** (nicht nur Notion)
+- **Tally = DSGVO-konform** für Praxisstruktur-Daten (EU-Hosting Belgien ✅; keine Patientendaten)
+- **Dust = interne KI-Plattform** zur KEB-Generierung
+- **Excel-KEB = vollständig ersetzt** (nicht optimiert)
 
-## Context
+## Kontext
 
-This project sits within [[Oleg Personal Context|Oleg]]'s broader work at [[DoktorLib]] in B2B SaaS sales targeting medical practices. The automation directly impacts the Sales → Deployment handover process and reduces manual overhead at every stage.
+Dieses Projekt ist Teil von [[Oleg Personal Context|Olegs]] übergeordneter Tätigkeit bei [[DoktorLib]] im B2B-SaaS-Vertrieb für Arztpraxen. Die Automatisierung wirkt sich direkt auf den Übergabeprozess von Sales → Deployment aus und reduziert den manuellen Aufwand in jeder Phase.
 
-The [[Tally]] DSGVO note is significant: collecting Praxisstruktur data (practice structure, not patient data) under GDPR is permissible with proper form labeling. EU hosting in Belgium satisfies data residency requirements.
+Der DSGVO-Hinweis zu [[Tally]] ist wesentlich: Die Erhebung von Praxisstruktur-Daten (Praxisstruktur, keine Patientendaten) ist unter der DSGVO mit entsprechender Formular-Kennzeichnung zulässig. Das EU-Hosting in Belgien erfüllt die Anforderungen an den Datenspeicherort.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[DoktorLib Automation Pipeline Source Detail]] — full source document with architecture
-- [[DoktorLib]] — parent company
-- [[Oleg Personal Context]] — project owner
-- [[MOC Strategie und Business]] — strategic MOC
-- [[MOC Tech und Setup]] — technical stack context
-- [[Tally]] — form builder tool concept
-- [[Make]] — automation middleware concept
-- [[Salesforce]] — CRM backbone concept
-- [[Notion]] — project planning layer
-- [[Dust Agent]] — AI KEB generator
-- [[Kundenerfassungsbogen]] — artifact being automated
+- [[DoktorLib Automation Pipeline Source Detail]] — vollständiges Quelldokument mit Architektur
+- [[DoktorLib]] — übergeordnetes Unternehmen
+- [[Oleg Personal Context]] — Projektverantwortlicher
+- [[MOC Strategie und Business]] — strategische MOC
+- [[MOC Tech und Setup]] — technischer Stack-Kontext
+- [[Tally]] — Konzept des Formular-Builder-Tools
+- [[Make]] — Konzept der Automatisierungs-Middleware
+- [[Salesforce]] — CRM-Backbone-Konzept
+- [[Notion]] — Projektplanungsebene
+- [[Dust Agent]] — KI-KEB-Generator
+- [[Kundenerfassungsbogen]] — zu automatisierendes Artefakt

@@ -5,134 +5,134 @@ tags: [food-law, NEM, LMIV, EU, regulatory, supplement, labeling, novel-food, NM
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Mandatory EU/DACH food law compliance framework for dietary supplements (Nahrungsergänzungsmittel) — covers NEM classification, LMIV labeling per EU 1169/2011, Novel Food checks (NMN, Urolithin A), and EFSA-compliant health claims; must be completed before any Performance Coffee Brand product launch
+summary: Verbindliches EU/DACH-Lebensmittelrecht-Compliance-Framework für Nahrungsergänzungsmittel (NEM) — umfasst NEM-Klassifizierung, LMIV-Kennzeichnung gemäß EU 1169/2011, Novel Food-Prüfungen (NMN, Urolithin A) und EFSA-konforme Health Claims; muss vor jedem Produktlaunch der Performance Coffee Brand abgeschlossen sein
 ---
 
 # NEM Konformität (Nahrungsergänzungsmittel Compliance)
 
-## Overview
+## Überblick
 
-**NEM Konformität** refers to the mandatory legal compliance framework for dietary supplements (**Nahrungsergänzungsmittel**, NEM) sold in the EU/DACH market. Unlike the [[Kölner Liste]] or [[Informed Sport]] certifications (which are voluntary trust signals), NEM compliance is **legally required before any product can be sold**.
+**NEM Konformität** bezeichnet das verbindliche gesetzliche Compliance-Framework für Nahrungsergänzungsmittel (**Nahrungsergänzungsmittel**, NEM), die im EU/DACH-Markt vertrieben werden. Im Gegensatz zu den Zertifizierungen [[Kölner Liste]] oder [[Informed Sport]] (die freiwillige Vertrauenssignale sind), ist die NEM-Konformität **gesetzlich vorgeschrieben, bevor ein Produkt verkauft werden darf**.
 
-For [[Performance Coffee Brand]], this track runs **in parallel** with the certification roadmap and must be completed before the MVP launch.
+Für [[Performance Coffee Brand]] läuft dieser Prozess **parallel** zur Zertifizierungs-Roadmap und muss vor dem MVP-Launch abgeschlossen sein.
 
 ---
 
-## Legal Framework
+## Rechtsrahmen
 
-### Primary Regulations
+### Primäre Rechtsvorschriften
 
-| Regulation | Scope |
+| Vorschrift | Geltungsbereich |
 |---|---|
-| **EU-Verordnung 1169/2011** (LMIV) | Food Information to Consumers — mandatory labeling requirements |
-| **NEM-Richtlinie 2002/46/EG** | EU Directive on food supplements — substances and max doses |
-| **German NemV** (Nahrungsergänzungsmittelverordnung) | German implementation — notification requirements |
-| **EU Novel Food Regulation 2015/2283** | Authorization for novel food ingredients |
-| **EFSA Health Claims Regulation (EC) 1924/2006** | Rules for permitted health claims |
+| **EU-Verordnung 1169/2011** (LMIV) | Lebensmittelinformationen für Verbraucher — verpflichtende Kennzeichnungsanforderungen |
+| **NEM-Richtlinie 2002/46/EG** | EU-Richtlinie zu Nahrungsergänzungsmitteln — Stoffe und Höchstmengen |
+| **German NemV** (Nahrungsergänzungsmittelverordnung) | Nationale Umsetzung — Meldepflichten |
+| **EU Novel Food Regulation 2015/2283** | Zulassung neuartiger Lebensmittelzutaten |
+| **EFSA Health Claims Regulation (EC) 1924/2006** | Regeln für zulässige gesundheitsbezogene Angaben |
 
 ---
 
-## Compliance Checklist (Pre-Launch Pflicht)
+## Compliance-Checkliste (Pre-Launch Pflicht)
 
 - [ ] **NEM-Konformitätsprüfung** durch Lebensmittelrechtler (DACH)
 - [ ] **LMIV-konforme Etikettierung** — Zutaten, Nährwerte, Allergene, Mindesthaltbarkeitsdatum
 - [ ] **Nährwertdeklaration** nach EU-Verordnung 1169/2011
 - [ ] **Novel Food Prüfung** für alle Zutaten — besonders [[NMN]] und [[Urolithin A]]
-- [ ] **Verkehrsbezeichnung** festlegen: "Nahrungsergänzungsmittel" oder "Lebensmittel für besondere Zwecke"
+- [ ] **Verkehrsbezeichnung** festlegen: „Nahrungsergänzungsmittel" oder „Lebensmittel für besondere Zwecke"
 - [ ] **Notification** beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)
 
 ---
 
-## Novel Food — Critical Ingredients
+## Novel Food — Kritische Zutaten
 
-Two key [[Performance Coffee Brand]] ingredients have Novel Food status implications:
+Zwei wichtige Zutaten der [[Performance Coffee Brand]] haben Auswirkungen auf den Novel Food-Status:
 
 ### NMN (Nicotinamide Mononucleotide)
 
-- **Status:** Under EU Novel Food review; situation evolving as of 2026
-- **Risk:** If classified as Novel Food without existing authorization, commercial sale in EU is blocked
-- **Action required:** Legal check on current EU Novel Food catalog status
-- See [[NMN]] and [[Chromadex Niagen Bioscience]] for IP context
+- **Status:** Unter EU Novel Food-Prüfung; Lage entwickelt sich Stand 2026 weiter
+- **Risiko:** Wird NMN als Novel Food ohne bestehende Zulassung eingestuft, ist der kommerzielle Verkauf in der EU gesperrt
+- **Erforderliche Maßnahme:** Rechtliche Prüfung des aktuellen Status im EU Novel Food-Katalog
+- Siehe [[NMN]] und [[Chromadex Niagen Bioscience]] für den IP-Kontext
 
 ### Urolithin A
 
-- **Status:** Received EU Novel Food authorization (held by [[Amazentis]] / MITOPURE brand)
-- **Risk:** Amazentis holds **proprietary Novel Food authorization** — other companies cannot freely use the authorization during the proprietary protection period (typically 5 years)
-- **Action required:** Confirm whether proprietary period has expired; if not, either license from Amazentis or exclude Urolithin A
-- See [[Urolithin A]] and [[Amazentis]] for IP and authorization details
+- **Status:** EU Novel Food-Zulassung erhalten (gehalten von [[Amazentis]] / MITOPURE-Marke)
+- **Risiko:** Amazentis hält eine **proprietäre Novel Food-Zulassung** — andere Unternehmen können die Zulassung während der Schutzfrist (typischerweise 5 Jahre) nicht frei nutzen
+- **Erforderliche Maßnahme:** Prüfen, ob die Schutzfrist abgelaufen ist; falls nicht, entweder Lizenz von Amazentis einholen oder Urolithin A ausschließen
+- Siehe [[Urolithin A]] und [[Amazentis]] für IP- und Zulassungsdetails
 
-> ⚠️ **Both NMN and Urolithin A are blocked pending legal IP and Novel Food clearance. The entire longevity stack validation depends on resolving these two ingredients.**
+> ⚠️ **Sowohl NMN als auch Urolithin A sind gesperrt, bis die IP- und Novel Food-Freigabe erteilt wurde. Die Validierung des gesamten Longevity-Stacks hängt von der Klärung dieser beiden Zutaten ab.**
 
 ---
 
-## LMIV Labeling Requirements (EU 1169/2011)
+## LMIV-Kennzeichnungsanforderungen (EU 1169/2011)
 
-All Performance Coffee Brand products must include on-pack:
+Alle Produkte der Performance Coffee Brand müssen auf der Verpackung folgendes ausweisen:
 
-| Requirement | Detail |
+| Anforderung | Detail |
 |---|---|
-| Ingredients list | All ingredients in descending order by weight |
-| Nutritional declaration | Per 100g and per serving — energy, fat, saturates, carbohydrates, sugars, protein, salt |
-| Allergen information | Bold/highlighted in ingredients list |
-| Net quantity | In grams or ml |
-| Best before date | Mindesthaltbarkeitsdatum (MHD) |
-| Manufacturer info | Name + address |
-| Country of origin | If required for the product type |
-| Verkehrsbezeichnung | Product classification name |
+| Zutatenliste | Alle Zutaten in absteigender Reihenfolge nach Gewicht |
+| Nährwertdeklaration | Pro 100 g und pro Portion — Energie, Fett, gesättigte Fettsäuren, Kohlenhydrate, Zucker, Eiweiß, Salz |
+| Allergeninformationen | Fett/hervorgehoben in der Zutatenliste |
+| Nettofüllmenge | In Gramm oder ml |
+| Mindesthaltbarkeitsdatum | Mindesthaltbarkeitsdatum (MHD) |
+| Herstellerangaben | Name + Adresse |
+| Herkunftsland | Sofern für die Produktart erforderlich |
+| Verkehrsbezeichnung | Produktklassifizierungsname |
 
-For **sachets** (the primary format), small-pack exemptions may apply for some label items — must be confirmed by the Lebensmittelrechtler.
+Für **Sachets** (das primäre Format) können für einige Kennzeichnungspunkte Ausnahmen für kleine Verpackungen gelten — muss vom Lebensmittelrechtler bestätigt werden.
 
 ---
 
-## EFSA Health Claims — What Is and Is Not Allowed
+## EFSA Health Claims — Was erlaubt ist und was nicht
 
-### Forbidden Claims
-- ❌ **Anti-Aging** — not an authorized EFSA claim; prohibited under Regulation 1924/2006
-- ❌ Disease prevention claims
-- ❌ Medical efficacy claims
-- ❌ Structure/function claims without EFSA authorization
+### Verbotene Angaben
+- ❌ **Anti-Aging** — keine zugelassene EFSA-Aussage; verboten gemäß Verordnung 1924/2006
+- ❌ Krankheitsvorbeugungsangaben
+- ❌ Angaben zur medizinischen Wirksamkeit
+- ❌ Struktur-/Funktionsangaben ohne EFSA-Zulassung
 
-### Permitted Claims (Example for Performance Coffee Brand Ingredients)
+### Zulässige Angaben (Beispiele für Zutaten der Performance Coffee Brand)
 
-| Ingredient | Permitted EFSA Claim | Reference |
+| Zutat | Zulässige EFSA-Angabe | Referenz |
 |---|---|---|
-| **Kreatin (Creatine)** | "Kreatin erhöht die körperliche Leistung bei kurzzeitigen, hochintensiven Übungen" | EFSA 2016 |
-| **Vitamin B6** | "Vitamin B6 trägt zu einem normalen Energiestoffwechsel bei" | EFSA authorized |
-| **Magnesium** | "Magnesium trägt zur normalen Muskelfunktion bei" | EFSA authorized |
-| **Vitamin C** | "Vitamin C trägt zur normalen Funktion des Immunsystems bei" | EFSA authorized |
+| **Kreatin (Creatine)** | „Kreatin erhöht die körperliche Leistung bei kurzzeitigen, hochintensiven Übungen" | EFSA 2016 |
+| **Vitamin B6** | „Vitamin B6 trägt zu einem normalen Energiestoffwechsel bei" | EFSA autorisiert |
+| **Magnesium** | „Magnesium trägt zur normalen Muskelfunktion bei" | EFSA autorisiert |
+| **Vitamin C** | „Vitamin C trägt zur normalen Funktion des Immunsystems bei" | EFSA autorisiert |
 
-### Blueprint Strategy (Alternative to Health Claims)
+### Blueprint-Strategie (Alternative zu Health Claims)
 
-The source recommends the **Blueprint-Strategie** for ingredients where no EFSA claims exist:
-- **Transparenz** — publish full ingredient list with doses
-- **COA (Certificate of Analysis)** — publicly share lab results
-- **Biomarker-Kommunikation** — reference scientific biomarker studies rather than making direct claims
-- This is how [[Bryan Johnson]]'s Blueprint communicates ingredient value without making prohibited health claims
+Die Quelle empfiehlt die **Blueprint-Strategie** für Zutaten, bei denen keine EFSA-Angaben existieren:
+- **Transparenz** — vollständige Zutatenliste mit Dosierungen veröffentlichen
+- **COA (Certificate of Analysis)** — Laborergebnisse öffentlich zugänglich machen
+- **Biomarker-Kommunikation** — auf wissenschaftliche Biomarker-Studien verweisen, anstatt direkte Angaben zu machen
+- So kommuniziert [[Bryan Johnson]]'s Blueprint den Mehrwert von Zutaten, ohne verbotene gesundheitsbezogene Angaben zu machen
 
 ---
 
-## Action Items for Performance Coffee Brand
+## Maßnahmen für die Performance Coffee Brand
 
-| Action | Owner | Timing |
+| Maßnahme | Verantwortlich | Zeitpunkt |
 |---|---|---|
-| Engage Lebensmittelrechtler (food law attorney, DACH) | Oleg / Legal | Pre-launch |
-| Novel Food status check: NMN + Urolithin A | Legal | Before stack finalization |
-| LMIV label design review | Legal + Design | Pre-production |
-| Verkehrsbezeichnung decision | Legal + Brand | Pre-production |
-| BVL notification | Legal | Before first sale |
+| Lebensmittelrechtler beauftragen (DACH) | Oleg / Recht | Vor Launch |
+| Novel Food-Status prüfen: NMN + Urolithin A | Recht | Vor Finalisierung des Stacks |
+| LMIV-Etikettengestaltung prüfen | Recht + Design | Vor Produktion |
+| Entscheidung zur Verkehrsbezeichnung | Recht + Marke | Vor Produktion |
+| BVL-Meldung | Recht | Vor erstem Verkauf |
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — project
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — source document
-- [[EU Novel Food Regulation]] — Novel Food framework
-- [[NMN]] — Novel Food check required
-- [[Urolithin A]] — Novel Food authorization (proprietary to [[Amazentis]])
-- [[Amazentis]] — Novel Food authorization holder
-- [[Chromadex Niagen Bioscience]] — NMN IP holder
-- [[Kölner Liste]] — voluntary certification (runs in parallel)
-- [[Informed Sport]] — voluntary certification (runs in parallel)
-- [[EFSA Health Claims]] — health claims framework
-- [[Bryan Johnson]] — Blueprint strategy reference for compliant communication
+- [[Performance Coffee Brand]] — Projekt
+- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Quelldokument
+- [[EU Novel Food Regulation]] — Novel Food-Framework
+- [[NMN]] — Novel Food-Prüfung erforderlich
+- [[Urolithin A]] — Novel Food-Zulassung (proprietär bei [[Amazentis]])
+- [[Amazentis]] — Inhaber der Novel Food-Zulassung
+- [[Chromadex Niagen Bioscience]] — NMN IP-Inhaber
+- [[Kölner Liste]] — freiwillige Zertifizierung (läuft parallel)
+- [[Informed Sport]] — freiwillige Zertifizierung (läuft parallel)
+- [[EFSA Health Claims]] — Framework für gesundheitsbezogene Angaben
+- [[Bryan Johnson]] — Blueprint-Strategiereferenz für konforme Kommunikation

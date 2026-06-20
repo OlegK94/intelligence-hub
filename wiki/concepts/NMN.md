@@ -5,32 +5,32 @@ tags: [supplement, longevity, NAD+, nicotinamide-mononucleotide, novel-food, EU,
 sources: ["raw/Business/PerformanceCafe/TODO.md", "raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Nicotinamide Mononucleotide — NAD+ precursor and key longevity supplement; EU Novel Food status as of 2025/2026 is the critical regulatory blocker for its inclusion in the Performance Coffee Brand Tier-2 stack; Chromadex holds overlapping IP
+summary: Nicotinamide Mononucleotide — NAD+-Vorläufer und zentrales Longevity-Supplement; der EU Novel Food-Status (Stand 2025/2026) ist der entscheidende regulatorische Blocker für die Aufnahme in den Tier-2-Stack der Performance Coffee Brand; Chromadex hält überschneidende IP-Rechte
 ---
 
 # NMN (Nicotinamide Mononucleotide)
 
-## Overview
+## Überblick
 
-**NMN (Nicotinamide Mononucleotide)** is a naturally occurring nucleotide that serves as a direct precursor to **NAD+ (Nicotinamide Adenine Dinucleotide)** — a coenzyme essential to cellular energy metabolism, DNA repair, and aging-related biological processes.
+**NMN (Nicotinamide Mononucleotide)** ist ein natürlich vorkommendes Nukleotid, das als direkter Vorläufer von **NAD+ (Nicotinamide Adenine Dinucleotide)** dient — einem Coenzym, das für den zellulären Energiestoffwechsel, die DNA-Reparatur und alterungsbedingte biologische Prozesse essenziell ist.
 
-## Why NMN Matters (Longevity Context)
+## Warum NMN wichtig ist (Longevity-Kontext)
 
-- NAD+ levels decline with age — a key driver of metabolic dysfunction and aging
-- NMN → NMN absorbed → converted to NAD+ intracellularly (bypasses NR conversion step)
-- Associated with improved mitochondrial function, energy metabolism, DNA repair
-- Studied by [[Bryan Johnson]] (Blueprint) and [[David Sinclair]] (Harvard) as core longevity interventions
-- Blueprint by Bryan Johnson uses NMN as a core longevity compound
+- NAD+-Spiegel sinken mit dem Alter — ein wesentlicher Treiber metabolischer Dysfunktion und Alterung
+- NMN → wird aufgenommen → intrazellulär zu NAD+ umgewandelt (umgeht den NR-Konversionsschritt)
+- Assoziiert mit verbesserter Mitochondrienfunktion, Energiestoffwechsel und DNA-Reparatur
+- Wird von [[Bryan Johnson]] (Blueprint) und [[David Sinclair]] (Harvard) als zentrale Longevity-Intervention untersucht
+- Blueprint von Bryan Johnson verwendet NMN als Kernverbindung für Longevity
 
-## Regulatory Status (EU) — CRITICAL BLOCKER
+## Regulatorischer Status (EU) — KRITISCHER BLOCKER
 
-### Current Situation (as of 2026-06-15)
+### Aktuelle Lage (Stand 2026-06-15)
 
-- **EU Novel Food status:** Under review / unclear — this is the **#1 regulatory blocker** for the [[Performance Coffee Brand]] Tier-2 stack
-- **Key databases to check:** BfR.de (German Federal Institute for Risk Assessment), EFSA Novel Food Catalogue
-- **Alternative:** Engage a Regulatory-Affairs-Berater (~500–1.500 €) for a definitive legal opinion
+- **EU Novel Food-Status:** In Prüfung / unklar — dies ist der **#1 regulatorische Blocker** für den [[Performance Coffee Brand|Performance Coffee Brand]] Tier-2-Stack
+- **Wichtige Datenbanken zur Prüfung:** BfR.de (Bundesinstitut für Risikobewertung), EFSA Novel Food Catalogue
+- **Alternative:** Beauftragung eines Regulatory-Affairs-Beraters (~500–1.500 €) für eine rechtlich verbindliche Einschätzung
 
-### Decision Tree
+### Entscheidungsbaum
 
 ```
 NMN EU Novel Food Status:
@@ -40,36 +40,36 @@ NMN EU Novel Food Status:
                          (natürlich im Kaffee — kein Novel Food Issue)
 ```
 
-### Trigonellin Fallback
+### Trigonellin-Fallback
 
-[[Trigonellin]] occurs naturally in coffee and has been shown to be a NAD+ precursor pathway activator. If NMN is not EU-authorized, [[Trigonellin]] serves as the natural, regulation-compliant NAD+ narrative for the product — differentiating the coffee base itself as a functional longevity delivery mechanism.
+[[Trigonellin]] kommt natürlich in Kaffee vor und wurde als Aktivator des NAD+-Vorläufer-Stoffwechselwegs identifiziert. Falls NMN in der EU nicht zugelassen ist, dient [[Trigonellin]] als natürliche, regulatorisch konforme NAD+-Argumentation für das Produkt — und positioniert die Kaffeebasis selbst als funktionalen Longevity-Wirkstoffträger.
 
-## IP Landscape
+## IP-Landschaft
 
-[[Chromadex Niagen Bioscience]] holds patents on **Nicotinamide Riboside (NR)** (brand: Tru Niagen) with potential overlapping claims relevant to NMN:
-- NMN converts to NR in the body as part of the NAD+ pathway
-- Some NMN synthesis routes may touch ChromaDex-adjacent IP
-- Requires audit of NMN supplier IP cleanliness
+[[Chromadex Niagen Bioscience]] hält Patente auf **Nicotinamide Riboside (NR)** (Marke: Tru Niagen) mit potenziell überschneidenden Ansprüchen, die für NMN relevant sind:
+- NMN wird im Körper als Teil des NAD+-Stoffwechselwegs zu NR umgewandelt
+- Bestimmte NMN-Syntheserouten könnten ChromaDex-angrenzende IP berühren
+- Erfordert eine Prüfung der IP-Sauberkeit des NMN-Lieferanten
 
-See [[Chromadex Niagen Bioscience]] for full IP context.
+Siehe [[Chromadex Niagen Bioscience]] für den vollständigen IP-Kontext.
 
-## Role in Performance Coffee Brand Stack
+## Rolle im Performance Coffee Brand Stack
 
-| Stack Tier | Inclusion | Status |
+| Stack-Tier | Aufnahme | Status |
 |---|---|---|
-| Tier-1 (Morning Performance) | ❌ Not included | Regulatory-safe stack avoids NMN |
-| Tier-2 (Longevity Pro SKU) | 🔴 Planned — blocked | Awaiting EU Novel Food clarity |
+| Tier-1 (Morning Performance) | ❌ Nicht enthalten | Regulatorisch sicherer Stack ohne NMN |
+| Tier-2 (Longevity Pro SKU) | 🔴 Geplant — blockiert | Wartet auf Klärung des EU Novel Food-Status |
 
-The Tier-2 "Longevity Pro" SKU is explicitly deferred until NMN (and [[Urolithin A]]) regulatory status is resolved.
+Die Tier-2-SKU „Longevity Pro" wird explizit zurückgestellt, bis der regulatorische Status von NMN (und [[Urolithin A]]) geklärt ist.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — primary application context
-- [[Performance Coffee Brand TODO Master]] — task list with regulatory actions
-- [[Trigonellin]] — natural NMN fallback in coffee
-- [[Chromadex Niagen Bioscience]] — IP blocker
-- [[Urolithin A]] — parallel regulatory blocker
-- [[Amazentis]] — Urolithin A IP holder
-- [[Longevity Stack Ingredients]] — broader ingredient context
-- [[Bryan Johnson]] — key NMN advocate in longevity community
-- [[EU Novel Food Regulation]] — regulatory framework
+- [[Performance Coffee Brand]] — primärer Anwendungskontext
+- [[Performance Coffee Brand TODO Master]] — Aufgabenliste mit regulatorischen Maßnahmen
+- [[Trigonellin]] — natürlicher NMN-Ersatz in Kaffee
+- [[Chromadex Niagen Bioscience]] — IP-Blocker
+- [[Urolithin A]] — paralleler regulatorischer Blocker
+- [[Amazentis]] — IP-Inhaber für Urolithin A
+- [[Longevity Stack Ingredients]] — übergeordneter Zutatenkontext
+- [[Bryan Johnson]] — wichtiger NMN-Befürworter in der Longevity-Community
+- [[EU Novel Food Regulation]] — regulatorischer Rahmen

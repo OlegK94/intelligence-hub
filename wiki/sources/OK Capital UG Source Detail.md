@@ -1,22 +1,22 @@
 ---
-title: OK Capital UG Source Detail
+title: OK Capital UG Quelldokument-Detail
 type: source
 tags: [holding, ug, ok-capital, wagglz, finanzen, bankkonten, finom, google-workspace, darlehen, kosten]
 sources: ["raw/Business/OK-Capital/OK Capital UG.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for OK Capital UG — holding structure (100% Oleg → UG → Wagglz GmbH), Finom bank account, 31.60 €/Mo fixed costs (WestX + Google Workspace), 0.00 € balance June 2026, 100 € shareholder loan from Oleg
+summary: Quelldokument für die OK Capital UG — Holdingstruktur (100 % Oleg → UG → Wagglz GmbH), Finom-Bankkonto, 31,60 €/Monat Fixkosten (WestX + Google Workspace), 0,00 € Saldo Juni 2026, 100 € Gesellschafterdarlehen von Oleg
 ---
 
-# OK Capital UG — Source Detail
+# OK Capital UG — Quelldokument-Detail
 
-## Overview
+## Übersicht
 
-This source document (raw/Business/OK-Capital/OK Capital UG.md, aktualisiert: 2026-06-12) captures the structure, bank accounts, and cost profile of [[OK Capital UG]], Oleg's holding company.
+Dieses Quelldokument (raw/Business/OK-Capital/OK Capital UG.md, aktualisiert: 2026-06-12) erfasst die Struktur, Bankkonten und das Kostenprofil der [[OK Capital UG]], Olegs Holdinggesellschaft.
 
-> For the entity summary and contradiction notes, see [[OK Capital UG]].
+> Für die Entitätszusammenfassung und Widerspruchshinweise siehe [[OK Capital UG]].
 
-## Struktur (as documented)
+## Struktur (wie dokumentiert)
 
 ```
 Oleg Kober (Privat)
@@ -28,7 +28,7 @@ OK Capital UG  ←── Holding
 
 ## Bankkonten
 
-- **Finom:** 
+- **Finom:**
   - WestX: 23,50 €/Mo
   - Google: 8,10 €/Mo
 - **Saldo Jun 2026:** 0,00 €
@@ -42,14 +42,14 @@ OK Capital UG  ←── Holding
 | Google Workspace | 8,10 € |
 | **Gesamt** | ~31,60 € |
 
-## Source Tags from Raw File
+## Quell-Tags aus der Rohdatei
 
 - tags: [unternehmen, holding, ok-capital]
 - aktualisiert: 2026-06-12
 
-## Related Pages
+## Verwandte Seiten
 
-- [[OK Capital UG]] — entity page
-- [[Wagglz GmbH]] — operational subsidiary
-- [[Oleg Business Entity Structure]] — broader entity context
-- [[Oleg Personal Context]] — owner
+- [[OK Capital UG]] — Entitätsseite
+- [[Wagglz GmbH]] — operative Tochtergesellschaft
+- [[Oleg Business Entity Structure|Oleg Business Entity Structure]] — übergeordneter Entitätskontext
+- [[Oleg Personal Context|Oleg Personal Context]] — Eigentümer

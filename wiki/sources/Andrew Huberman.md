@@ -5,63 +5,63 @@ tags: [neuroscience, health-optimization, podcast, stanford, protocols, huberman
 sources: ["Clippings/Andrew Huberman.md"]
 created: 2024-12-19
 updated: 2026-06-14
-summary: Stanford neuroscientist and host of Huberman Lab podcast — evidence-based health and performance optimization protocols; clipping is channel-level reference
+summary: Stanford-Neurowissenschaftler und Moderator des Huberman Lab Podcasts — evidenzbasierte Protokolle zur Gesundheits- und Leistungsoptimierung; das Clipping ist eine kanalweite Referenz
 ---
 
 # Andrew Huberman
 
-## Overview
+## Überblick
 
-[[Andrew Huberman]] is a Stanford University neuroscientist, tenured professor in the department of neurobiology and ophthalmology, and host of the popular **Huberman Lab** podcast. He translates cutting-edge neuroscience research into practical, evidence-based protocols for health and performance optimization. The Clippings source (`Clippings/Andrew Huberman.md`) is a channel-level reference to his YouTube presence rather than a specific episode.
+[[Andrew Huberman]] ist Neurowissenschaftler an der Stanford University, ordentlicher Professor in der Abteilung für Neurobiologie und Ophthalmologie sowie Moderator des populären **Huberman Lab** Podcasts. Er übersetzt neueste neurowissenschaftliche Forschung in praktische, evidenzbasierte Protokolle zur Gesundheits- und Leistungsoptimierung. Die Clippings-Quelle (`Clippings/Andrew Huberman.md`) ist eine kanalweite Referenz auf seine YouTube-Präsenz und kein spezifisches Episoden-Clipping.
 
-## Source Information
+## Quelleninformationen
 
-- **Platform:** YouTube (@hubermanlab)
+- **Plattform:** YouTube (@hubermanlab)
 - **URL:** https://www.youtube.com/@hubermanlab
-- **Format:** Long-form podcast episodes (typically 2–3 hours)
-- **Focus:** Neuroscience-based health optimization for the general public
-- **Guest format:** Subject-matter experts interviewed in depth
+- **Format:** Langformatige Podcast-Episoden (typischerweise 2–3 Stunden)
+- **Fokus:** Neurowissenschaftlich fundierte Gesundheitsoptimierung für die breite Öffentlichkeit
+- **Gastformat:** Fachexperten werden ausführlich interviewt
 
-## Key Content Areas
+## Wesentliche Themenbereiche
 
-### Sleep and Circadian Biology
-- Light exposure protocols for [[Circadian Rhythm]] regulation
-- Sleep hygiene and optimization strategies
-- Temperature regulation and [[Sleep Optimization]]
-- Morning and evening routine design
+### Schlaf und zirkadiane Biologie
+- Lichtexpositionsprotokolle zur Regulierung des [[Circadian Rhythm|zirkadianen Rhythmus]]
+- Schlafhygiene und Optimierungsstrategien
+- Temperaturregulation und [[Sleep Optimization|Schlafoptimierung]]
+- Gestaltung von Morgen- und Abendroutinen
 
-### Performance Enhancement
-- Supplement protocols based on scientific literature — see [[Supplement Stack]]
-- Exercise timing and programming
-- Cognitive enhancement strategies
-- Stress management and [[NSDR]] (Non-Sleep Deep Rest) techniques
+### Leistungssteigerung
+- Supplement-Protokolle auf Basis wissenschaftlicher Literatur — siehe [[Supplement Stack]]
+- Timing und Planung von Training
+- Strategien zur kognitiven Leistungssteigerung
+- Stressmanagement und [[NSDR]]-Techniken (Non-Sleep Deep Rest)
 
-### Notable Guests with Direct Relevance to Oleg's Protocols
-- **[[Jeff Cavaliere]]** — training longevity, corrective exercise, injury prevention (source: [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
-- **[[Rhonda Patrick]]** — vitality protocols, supplementation, exercise biochemistry (source: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
-- **[[Bryan Johnson]]** — biohacking and longevity engineering
+### Bemerkenswerte Gäste mit direkter Relevanz für Olegs Protokolle
+- **[[Jeff Cavaliere]]** — Trainingsbeständigkeit, korrekturbasiertes Training, Verletzungsprävention (Quelle: [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
+- **[[Rhonda Patrick]]** — Vitalitätsprotokolle, Supplementierung, Trainingsbiochemie (Quelle: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
+- **[[Bryan Johnson]]** — Biohacking und Longevity-Engineering
 
-## Scientific Approach
+## Wissenschaftlicher Ansatz
 
-- Emphasis on peer-reviewed research with mechanism-based explanations
-- Practical implementation guidance with specific timing and dosing
-- Regular protocol updates based on new research
-- Collaboration with researchers across disciplines
+- Schwerpunkt auf peer-reviewed Forschung mit mechanismusbasierten Erklärungen
+- Praktische Umsetzungshinweise mit konkreten Zeitangaben und Dosierungen
+- Regelmäßige Protokoll-Updates auf Basis neuer Forschungsergebnisse
+- Zusammenarbeit mit Forschern aus verschiedenen Disziplinen
 
-## Integration with Oleg's Wiki
+## Integration in Olegs Wiki
 
-Huberman's frameworks are directly referenced in:
-- [[Health Protocol Master]] — daily structure, sauna timing, supplement timing, NSDR
-- [[Supplement Stack]] — supplement selection informed by Huberman-endorsed research
-- [[Sleep Optimization]] — circadian protocols
-- [[Forward Head Posture]] — corrective neck training from Jeff Cavaliere episode
+Hubermans Frameworks werden direkt referenziert in:
+- [[Health Protocol Master]] — Tagesstruktur, Sauna-Timing, Supplement-Timing, NSDR
+- [[Supplement Stack]] — Supplement-Auswahl basierend auf von Huberman gestützter Forschung
+- [[Sleep Optimization|Schlafoptimierung]] — zirkadiane Protokolle
+- [[Forward Head Posture|Vorwärts-Kopfhaltung]] — korrekturbasiertes Nackenkrafttraining aus der Jeff-Cavaliere-Episode
 
-## Related Experts
+## Verwandte Experten
 
-- [[Rhonda Patrick]] — frequent guest and complementary biochemistry researcher
-- [[Jeff Cavaliere]] — guest expert on functional training and injury prevention
-- [[Bryan Johnson]] — systematic life extension approach
+- [[Rhonda Patrick]] — häufiger Gast und komplementäre Biochemie-Forscherin
+- [[Jeff Cavaliere]] — Gastexperte für funktionelles Training und Verletzungsprävention
+- [[Bryan Johnson]] — systematischer Ansatz zur Lebensverlängerung
 
-## Contradictions / Updates
+## Widersprüche / Aktualisierungen
 
-None identified. This page was updated 2026-06-14 to reflect the clipping as a channel-level bookmark and to add cross-links to specific Huberman Lab episode-derived pages now in the wiki.
+Keine identifiziert. Diese Seite wurde am 2026-06-14 aktualisiert, um das Clipping als kanalweites Lesezeichen zu kennzeichnen und Querverweise zu spezifischen, nun im Wiki vorhandenen Huberman-Lab-Episodenseiten hinzuzufügen.

@@ -5,33 +5,33 @@ tags: [performance-cafe, CMO, contract-manufacturing, Germany, BIO, organic, sma
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: German BIO-certified CMO with small MOQ capability — listed in Performance Coffee Brand supplier list; relevant if organic/BIO product line is pursued; not in top-5 email outreach priority
+summary: Deutscher BIO-zertifizierter CMO mit kleiner MOQ-Fähigkeit — gelistet in der Performance Coffee Brand Lieferantenliste; relevant falls eine Bio/BIO-Produktlinie verfolgt wird; nicht in der Top-5-E-Mail-Outreach-Priorität
 ---
 
 # ESB Naturkost
 
-## Overview
+## Überblick
 
-**ESB Naturkost** is a German CMO listed in the [[Performance Coffee Brand]] [[Performance Cafe Supplier List|supplier list]] as a small-MOQ, BIO-certified manufacturer. Its primary relevance is for an **organic/BIO product line** — which is not the current Tier-1 focus.
+**ESB Naturkost** ist ein deutscher CMO, der in der [[Performance Coffee Brand]] [[Performance Cafe Supplier List|Lieferantenliste]] als kleiner MOQ- und BIO-zertifizierter Hersteller geführt wird. Die primäre Relevanz liegt in einer **Bio/BIO-Produktlinie** — was aktuell nicht der Tier-1-Fokus ist.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Country** | Germany |
-| **Specialization** | Kleine MOQs, BIO-konform |
-| **Certifications** | BIO |
-| **CMO Priority** | Not in top-5 email list |
+| **Land** | Deutschland |
+| **Spezialisierung** | Kleine MOQs, BIO-konform |
+| **Zertifizierungen** | BIO |
+| **CMO-Priorität** | Nicht in der Top-5-E-Mail-Liste |
 
-## Strategic Context
+## Strategischer Kontext
 
-- **Small MOQ** — relevant for pilot batch phase
-- **BIO certification** — relevant only if an organic product line is pursued
-- The current [[Performance Coffee Brand Hai Onepager]] stack is not defined as BIO-certified
-- ESB Naturkost would become more relevant if Performance Coffee Brand later launches a BIO/organic variant
+- **Kleine MOQ** — relevant für die Pilotchargen-Phase
+- **BIO-Zertifizierung** — nur relevant, falls eine Bio/BIO-Produktlinie verfolgt wird
+- Der aktuelle [[Performance Coffee Brand Hai Onepager]]-Stack ist nicht als BIO-zertifiziert definiert
+- ESB Naturkost würde relevanter werden, wenn Performance Coffee Brand später eine BIO/Bio-Variante auf den Markt bringt
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Supplier List]] — source document
-- [[CMO Sourcing Performance Coffee]] — CMO evaluation
-- [[Performance Coffee Brand]] — project entity
+- [[Performance Cafe Supplier List|Lieferantenliste]] — Quelldokument
+- [[CMO Sourcing Performance Coffee]] — CMO-Evaluierung
+- [[Performance Coffee Brand]] — Projektentität

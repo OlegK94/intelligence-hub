@@ -1,5 +1,5 @@
 ---
-title: TEMPUR Matratzenkauf Source Detail
+title: TEMPUR Matratzenkauf Quelldokument
 type: source
 tags: [recherche, kauf, schlafen, matratze, tempur, schlafoptimierung, bware]
 sources: ["raw/Privat/Recherchen/TEMPUR Matratzenkauf.md"]
@@ -8,32 +8,32 @@ updated: 2026-06-15
 summary: Abgeschlossene Kaufrecherche — 2× TEMPUR PRO Plus SmartCool 90×200 in unterschiedlichen Härtegraden für Oleg (~100 kg, Medium Firm) und Partnerin (~60 kg, Medium); SmartCool gewählt wegen waschbarem Bezug; Kissen ebenfalls konfiguriert
 ---
 
-# TEMPUR Matratzenkauf — Source Detail
+# TEMPUR Matratzenkauf — Quelldokument
 
-## Overview
+## Überblick
 
-This source document (status: Abgeschlossen, created 2026-05-14) records the completed mattress purchase research for [[Oleg Personal Context|Oleg]] and his partner. The decision has been made: **2× TEMPUR PRO Plus SmartCool 90×200** in different firmness levels.
+Dieses Quelldokument (Status: Abgeschlossen, erstellt 2026-05-14) dokumentiert die abgeschlossene Matratzenkauf-Recherche für [[Oleg Personal Context|Oleg]] und seine Partnerin. Die Entscheidung steht fest: **2× TEMPUR PRO Plus SmartCool 90×200** in unterschiedlichen Härtegraden.
 
-> For the entity summary and sleep context, see [[TEMPUR Matratzenkauf]].
+> Für die Entitätszusammenfassung und den Schlafkontext siehe [[TEMPUR Matratzenkauf]].
 
-## Entscheidung (Decision — Concluded)
+## Entscheidung (Abgeschlossen)
 
-**Product:** 2× TEMPUR PRO Plus SmartCool, 90×200 cm  
-**Rationale:** 40 kg weight difference between Oleg (~100 kg) and his partner (~60 kg) means a single shared firmness level would be a compromise for both. Two separate 90×200 mattresses allow each person to sleep on their optimal firmness.
+**Produkt:** 2× TEMPUR PRO Plus SmartCool, 90×200 cm  
+**Begründung:** Der Gewichtsunterschied von 40 kg zwischen Oleg (~100 kg) und seiner Partnerin (~60 kg) bedeutet, dass ein gemeinsamer Härtegrad für beide ein Kompromiss wäre. Zwei separate 90×200-Matratzen ermöglichen es jeder Person, auf dem optimalen Härtegrad zu schlafen.
 
-## Konfiguration (Configuration)
+## Konfiguration
 
 | Person | Gewicht | Schlafposition | Härtegrad |
 |---|---|---|---|
 | [[Oleg Personal Context\|Oleg]] | ~100 kg | Rücken + Seite | **Medium Firm** |
 | Partnerin | ~60 kg | — | **Medium** |
 
-### Rationale for Firmness Selection
+### Begründung der Härtegradauswahl
 
-- **Oleg (100 kg, back + side sleeper):** Medium Firm provides adequate support for higher body weight, especially for back sleeping. Side sleeping adds a need for slight contouring — Medium Firm balances both.
-- **Partnerin (60 kg):** Medium provides appropriate contouring for lower body weight without excessive firmness.
+- **Oleg (100 kg, Rücken- und Seitenschläfer):** Medium Firm bietet ausreichend Unterstützung für höheres Körpergewicht, insbesondere beim Rückenschlafen. Das Seitenschlafen erfordert zusätzlich eine gewisse Anpassungsfähigkeit — Medium Firm balanciert beides.
+- **Partnerin (60 kg):** Medium bietet die passende Konturierung für geringeres Körpergewicht ohne übermäßige Festigkeit.
 
-## SmartCool vs. CoolQuilt — Product Comparison
+## SmartCool vs. CoolQuilt — Produktvergleich
 
 | Kriterium | SmartCool | CoolQuilt |
 |---|---|---|
@@ -42,43 +42,43 @@ This source document (status: Abgeschlossen, created 2026-05-14) records the com
 | Preis | Günstiger | Teurer |
 | **Empfehlung** | ✅ | — |
 
-**Decision:** SmartCool chosen over CoolQuilt because:
-1. Washable cover — hygiene advantage, especially relevant for long-term mattress care
-2. Lower price — CoolQuilt is more expensive despite identical core material
-3. The non-washable cover on CoolQuilt is a clear practical disadvantage with no compensating benefit
+**Entscheidung:** SmartCool wurde dem CoolQuilt vorgezogen, weil:
+1. Waschbarer Bezug — hygienischer Vorteil, besonders relevant für die langfristige Matratzenpflege
+2. Günstigerer Preis — CoolQuilt ist trotz identischen Kernmaterials teurer
+3. Der nicht waschbare Bezug des CoolQuilt ist ein klarer praktischer Nachteil ohne ausgleichenden Nutzen
 
-## Kissen (Pillows)
+## Kissen
 
 | Person | Modell | Größe |
 |---|---|---|
 | Oleg (188 cm, ~100 kg) | TEMPUR Shape SmartCool Queen | **L** |
 | Partnerin | TEMPUR Shape SmartCool Queen | **M** |
 
-**Rationale:** Larger pillow size (L) for Oleg reflects his height (188 cm) and body frame — taller individuals typically require greater loft/height from a pillow for proper cervical alignment. This is particularly relevant given Oleg's [[Forward Head Posture]] finding (30° deviation) from the [[3D Body Scan Scaneca Mai 2026]].
+**Begründung:** Die größere Kissengröße (L) für Oleg spiegelt seine Körpergröße (188 cm) und seinen Körperbau wider — größere Personen benötigen in der Regel mehr Höhe/Loft von einem Kissen für eine korrekte Halswirbelsäulenausrichtung. Dies ist besonders relevant angesichts von Olegs [[Forward Head Posture]]-Befund (30° Abweichung) aus dem [[3D Body Scan Scaneca Mai 2026]].
 
-> ⚠️ **Note:** Proper pillow height selection supports cervical spine alignment — an L-size pillow for a back+side sleeper at 188 cm is consistent with corrective goals for [[Forward Head Posture]].
+> ⚠️ **Hinweis:** Die richtige Kissenhöhe unterstützt die Ausrichtung der Halswirbelsäule — ein Kissen der Größe L für einen Rücken- und Seitenschläfer mit 188 cm ist konsistent mit den Korrekturzielen für [[Forward Head Posture]].
 
-## Deals (Researched)
+## Angebote (Recherchiert)
 
-| Deal | Detail |
+| Angebot | Detail |
 |---|---|
 | Hersteller-Aktion | Bis zu 600 € Rabatt auf SmartCool Matratzen (TEMPUR Website) |
 | Second Chance B-Ware | Bis zu 60% Rabatt (TEMPUR Website) |
 | Drittanbieter-Codes | Keine verifizierten Codes für XXXLutz oder TEMPUR gefunden |
 
-**Recommendation from source:** Check TEMPUR's own website for both promotions. No reliable third-party discount codes verified for XXXLutz or other retailers.
+**Empfehlung aus dem Quelldokument:** Die eigene TEMPUR-Website auf beide Aktionen prüfen. Keine zuverlässigen Drittanbieter-Rabattcodes für XXXLutz oder andere Händler verifiziert.
 
-## Cross-References
+## Querverweise
 
-This purchase is linked to the [[MOC Performance and Leben]] in the source document, indicating it falls within Oleg's broader health and performance optimization context.
+Dieser Kauf ist im Quelldokument mit dem [[MOC Performance and Leben]] verknüpft, was darauf hinweist, dass er in Olegs übergeordneten Kontext der Gesundheits- und Leistungsoptimierung fällt.
 
-**Relevant connection:** Pillow size L aligns with [[Forward Head Posture]] corrective needs — proper cervical alignment during sleep complements the face pulls and neck stretching protocol documented in [[Health Protocol Master]].
+**Relevante Verbindung:** Kissengröße L ist auf die Korrekturziele bei [[Forward Head Posture]] abgestimmt — eine korrekte Halswirbelsäulenausrichtung während des Schlafs ergänzt das Face-Pull- und Nackendehungs-Protokoll, das im [[Health Protocol Master]] dokumentiert ist.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[TEMPUR Matratzenkauf]] — entity page
-- [[Sleep Optimization]] — broader sleep context
-- [[Forward Head Posture]] — relevant health consideration (pillow height, cervical alignment)
-- [[Health Protocol Master]] — protocol containing sleep and posture correction goals
-- [[MOC Performance and Leben]] — parent MOC (linked in source)
-- [[Oleg Personal Context]] — purchaser
+- [[TEMPUR Matratzenkauf]] — Entitätsseite
+- [[Sleep Optimization]] — übergeordneter Schlafkontext
+- [[Forward Head Posture]] — relevante Gesundheitsüberlegung (Kissenhöhe, Halswirbelsäulenausrichtung)
+- [[Health Protocol Master]] — Protokoll mit Schlaf- und Haltungskorrekturzielen
+- [[MOC Performance and Leben]] — übergeordnete MOC (im Quelldokument verlinkt)
+- [[Oleg Personal Context]] — Käufer

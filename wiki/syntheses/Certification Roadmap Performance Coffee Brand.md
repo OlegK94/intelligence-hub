@@ -1,112 +1,112 @@
 ---
-title: Certification Roadmap Performance Coffee Brand
+title: Zertifizierungs-Roadmap Performance Coffee Brand
 type: synthesis
 tags: [performance-cafe, certification, strategy, ops, regulatory, koelner-liste, informed-sport, NSF, NEM, DACH, EU, USA, roadmap]
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Synthesis of the three-tier certification strategy for Performance Coffee Brand — Kölner Liste (DACH MVP) → Informed Sport (EU scale) → NSF (US expansion) — plus mandatory NEM/LMIV compliance; maps to business phases and cost model
+summary: Synthese der dreistufigen Zertifizierungsstrategie für die Performance Coffee Brand — Kölner Liste (DACH MVP) → Informed Sport (EU-Skalierung) → NSF (US-Expansion) — plus verpflichtende NEM/LMIV-Konformität; verknüpft mit Geschäftsphasen und Kostenmodell
 ---
 
-# Certification Roadmap — Performance Coffee Brand
+# Zertifizierungs-Roadmap — Performance Coffee Brand
 
-## Overview
+## Überblick
 
-This synthesis page maps the [[Performance Coffee Brand]]'s full certification strategy across three voluntary sport certifications and one mandatory food law compliance track, correlating each to business phase triggers and cumulative cost.
-
----
-
-## Three-Tier Voluntary Certification Ladder
-
-```
-Phase 1 (MVP Launch)
-  └─ 🔴 Kölner Liste — DACH market credibility
-         Cost: 1,500–2,500 €/SKU | Timeline: 4–8 weeks
-         Trigger: Immediately after pilot batch
-
-Phase 2 (Scale — after 500+ units)
-  └─ 🟡 Informed Sport — EU/International credibility
-         Cost: 3,000–6,000 € setup + 500–1,500 €/batch | Timeline: 3–4 months
-         Trigger: 500+ sold boxes + positive Phase 1 feedback
-
-Phase 4 (US Expansion)
-  └─ 🟢 NSF Certified for Sport — US gold standard
-         Cost: 5,000–10,000 € + annual re-cert | Timeline: 4–6 months
-         Trigger: Concrete US expansion planning
-```
+Diese Syntheseseite kartiert die vollständige Zertifizierungsstrategie der [[Performance Coffee Brand]] über drei freiwillige Sportzertifizierungen und einen verpflichtenden lebensmittelrechtlichen Compliance-Track, und ordnet diese jeweils den Geschäftsphasen-Auslösern und kumulierten Kosten zu.
 
 ---
 
-## Mandatory Parallel Track: NEM Konformität
+## Dreistufige freiwillige Zertifizierungsleiter
 
 ```
-BEFORE ANY PHASE:
+Phase 1 (MVP-Launch)
+  └─ 🔴 Kölner Liste — DACH-Marktglaubwürdigkeit
+         Kosten: 1.500–2.500 €/SKU | Zeitrahmen: 4–8 Wochen
+         Auslöser: Unmittelbar nach Pilotcharge
+
+Phase 2 (Skalierung — ab 500+ Einheiten)
+  └─ 🟡 Informed Sport — EU/internationale Glaubwürdigkeit
+         Kosten: 3.000–6.000 € Einrichtung + 500–1.500 €/Charge | Zeitrahmen: 3–4 Monate
+         Auslöser: 500+ verkaufte Boxen + positives Phase-1-Feedback
+
+Phase 4 (US-Expansion)
+  └─ 🟢 NSF Certified for Sport — US-Goldstandard
+         Kosten: 5.000–10.000 € + jährliche Rezertifizierung | Zeitrahmen: 4–6 Monate
+         Auslöser: Konkrete US-Expansionsplanung
+```
+
+---
+
+## Verpflichtender Paralleltrack: NEM Konformität
+
+```
+VOR JEDER PHASE:
   └─ 🔴 NEM + LMIV Compliance (PFLICHT)
-         Novel Food checks (NMN, Urolithin A)
-         EFSA-compliant claims
-         LMIV labeling
-         BVL notification
+         Novel Food-Prüfungen (NMN, Urolithin A)
+         EFSA-konforme Health Claims
+         LMIV-Kennzeichnung
+         BVL-Notifizierung
 ```
 
-> ⚠️ [[NEM Konformität]] is NOT optional — it is a legal prerequisite for selling any supplement in the EU. Without it, no sales can occur regardless of certifications held.
+> ⚠️ [[NEM Konformität]] ist NICHT optional — sie ist eine gesetzliche Voraussetzung für den Verkauf jeglicher Nahrungsergänzungsmittel in der EU. Ohne sie können keinerlei Verkäufe stattfinden, unabhängig von vorhandenen Zertifizierungen.
 
 ---
 
-## Cost Summary by Phase
+## Kostenzusammenfassung nach Phase
 
-| Phase | Certification | One-Time Cost | Recurring Cost |
+| Phase | Zertifizierung | Einmalige Kosten | Laufende Kosten |
 |---|---|---|---|
-| Pre-launch | NEM + Legal | ~2,000–5,000 € (attorney) | — |
-| Phase 1 | Kölner Liste | 1,500–2,500 €/SKU | Low (re-test per major change) |
-| Phase 2 | Informed Sport | 3,000–6,000 €/SKU | 500–1,500 €/batch |
-| Phase 4 | NSF Certified for Sport | 5,000–10,000 €/SKU | 3,000–8,000 €/year |
-| **Total to Phase 2** | | **~8,000–14,000 € per SKU** | **Variable** |
+| Vor dem Launch | NEM + Rechtsberatung | ~2.000–5.000 € (Anwalt) | — |
+| Phase 1 | Kölner Liste | 1.500–2.500 €/SKU | Gering (Neutest bei wesentlichen Änderungen) |
+| Phase 2 | Informed Sport | 3.000–6.000 €/SKU | 500–1.500 €/Charge |
+| Phase 4 | NSF Certified for Sport | 5.000–10.000 €/SKU | 3.000–8.000 €/Jahr |
+| **Gesamt bis Phase 2** | | **~8.000–14.000 € pro SKU** | **Variabel** |
 
 ---
 
-## Dependency Map
+## Abhängigkeitskarte
 
 ```
-CMO Selection
-  ├── GMP Certification required for Kölner Liste
-  ├── Informed Sport supplier approval required for Stufe 2
-  └── NSF facility audit required for Stufe 3
+CMO-Auswahl
+  ├── GMP-Zertifizierung erforderlich für Kölner Liste
+  ├── Informed Sport-Lieferantenzulassung erforderlich für Stufe 2
+  └── NSF-Werksaudit erforderlich für Stufe 3
 
-Ingredient Stack (IP + Novel Food)
-  ├── NMN → Chromadex IP + Novel Food check
-  ├── Urolithin A → Amazentis IP + Novel Food authorization
-  └── Both must be cleared BEFORE NEM compliance is final
+Zutaten-Stack (IP + Novel Food)
+  ├── NMN → Chromadex IP + Novel Food-Prüfung
+  ├── Urolithin A → Amazentis IP + Novel Food-Zulassung
+  └── Beide müssen geklärt sein, BEVOR die NEM-Konformität finalisiert wird
 ```
 
 ---
 
-## Key Insights
+## Wesentliche Erkenntnisse
 
-1. **Sequencing is critical** — Kölner Liste first (fastest, cheapest, DACH-focused), then scale certifications. Attempting Informed Sport or NSF at launch is premature and expensive.
+1. **Die Reihenfolge ist entscheidend** — Kölner Liste zuerst (schnellste, günstigste, DACH-fokussierte Option), dann Skalierungszertifizierungen. Informed Sport oder NSF bereits beim Launch anzustreben ist verfrüht und teuer.
 
-2. **NEM compliance is the true blocker** — Not certifications but food law compliance (Novel Food for NMN and Urolithin A) is what could actually prevent launch.
+2. **NEM-Konformität ist der eigentliche Blocker** — Nicht die Zertifizierungen, sondern die lebensmittelrechtliche Konformität (Novel Food für NMN und Urolithin A) kann den Launch tatsächlich verhindern.
 
-3. **EFSA claims constraint shapes positioning** — The inability to make "Anti-Aging" or longevity claims on the product label forces the Blueprint-Strategie (transparency + COA + content education).
+3. **EFSA-Claims-Beschränkung prägt die Positionierung** — Die Unmöglichkeit, „Anti-Aging"- oder Longevity-Aussagen auf dem Produktlabel zu machen, erzwingt die Blueprint-Strategie (Transparenz + COA + inhaltliche Aufklärung).
 
-4. **CMO selection feeds certification** — The CMO chosen must be GMP-certified (Kölner Liste) and ideally Informed Sport-capable (for Phase 2 without CMO switch).
+4. **CMO-Auswahl bestimmt die Zertifizierung** — Der gewählte CMO muss GMP-zertifiziert (Kölner Liste) und idealerweise Informed Sport-fähig sein (für Phase 2 ohne CMO-Wechsel).
 
-5. **Informed Sport recurring costs must enter COGS** — At 500–1,500 € per batch, this meaningfully impacts unit economics if batch sizes are small.
+5. **Laufende Informed Sport-Kosten müssen in den COGS eingehen** — Bei 500–1.500 € pro Charge wirkt sich dies spürbar auf die Stückökonomie aus, wenn die Chargengrößen klein sind.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — project entity
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — source document
+- [[Performance Coffee Brand]] — Projektentität
+- [[Performance Coffee Brand Certification Roadmap Source Detail|Performance Coffee Brand Zertifizierungs-Roadmap Quelldokument]] — Quelldokument
 - [[Kölner Liste]] — Stufe 1
 - [[Informed Sport]] — Stufe 2
 - [[NSF Certified for Sport]] — Stufe 3
-- [[NEM Konformität]] — mandatory compliance track
-- [[EFSA Health Claims]] — advertising constraint
-- [[EU Novel Food Regulation]] — Novel Food framework
-- [[NMN]] — ingredient with Novel Food uncertainty
-- [[Urolithin A]] — ingredient with proprietary Novel Food authorization
-- [[Amazentis]] — Urolithin A IP + Novel Food holder
-- [[Chromadex Niagen Bioscience]] — NMN IP consideration
-- [[CMO Sourcing Performance Coffee]] — CMO requirements
-- [[Bryan Johnson]] — Blueprint positioning strategy reference
+- [[NEM Konformität]] — verpflichtender Compliance-Track
+- [[EFSA Health Claims]] — Werbebeschränkung
+- [[EU Novel Food Regulation|EU Novel Food-Verordnung]] — Novel Food-Rahmenwerk
+- [[NMN]] — Zutat mit Novel Food-Unsicherheit
+- [[Urolithin A]] — Zutat mit proprietärer Novel Food-Zulassung
+- [[Amazentis]] — Urolithin A IP + Novel Food-Inhaber
+- [[Chromadex Niagen Bioscience]] — NMN IP-Überlegung
+- [[CMO Sourcing Performance Coffee|CMO-Beschaffung Performance Coffee]] — CMO-Anforderungen
+- [[Bryan Johnson]] — Blueprint-Positionierungsstrategie-Referenz

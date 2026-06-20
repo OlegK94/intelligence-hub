@@ -5,20 +5,20 @@ tags: [biomarkers, blood-panel, tracking, health, ApoB, longevity, performance, 
 sources: ["raw/Privat/Performance/_vault/Blutbild Panel.md", "raw/Privat/Performance/_vault/00 Performance-Übersicht.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Oleg's structured blood biomarker panel — 24 markers across 4 quarterly timepoints with longevity-optimized target ranges; Priority 1 (11 core markers) and Priority 2 (13 extended markers); ApoB must be separately requested; supplementation protocol linked to typical deficits
+summary: Olegs strukturiertes Blutbiomarker-Panel — 24 Marker über 4 quartalsweise Messzeitpunkte mit longevity-optimierten Zielbereichen; Priorität 1 (11 Kernmarker) und Priorität 2 (13 erweiterte Marker); ApoB muss separat angefordert werden; Supplementierungsprotokoll verknüpft mit typischen Defiziten
 ---
 
 # Blutbild Panel
 
-## Overview
+## Übersicht
 
-**Blutbild Panel** is [[Oleg Personal Context|Oleg]]'s structured blood biomarker tracking program. The panel consists of **24 markers** measured across **4 quarterly timepoints per year** with longevity-optimized target ranges. A PDF version has been generated.
+Das **Blutbild Panel** ist [[Oleg Personal Context|Olegs]] strukturiertes Programm zur Verfolgung von Blutbiomarkern. Das Panel umfasst **24 Marker**, gemessen über **4 quartalsweise Messzeitpunkte pro Jahr**, mit longevity-optimierten Zielbereichen. Eine PDF-Version wurde erstellt.
 
-> For the raw source document with full German-language detail, see [[Blutbild Panel Source Detail]].
+> Das Quelldokument mit vollständigen deutschsprachigen Details findet sich unter [[Blutbild Panel Source Detail]].
 
 ---
 
-## Abnahme-Zeitplan (Quarterly Schedule)
+## Abnahme-Zeitplan (Quartalsweise)
 
 | Zeitpunkt | Quartal | Nüchtern |
 |---|---|---|
@@ -27,11 +27,11 @@ summary: Oleg's structured blood biomarker panel — 24 markers across 4 quarter
 | T3 | Q3 (Jul/Aug) | Ja, 12h |
 | T4 | Q4 (Okt/Nov) | Ja, 12h |
 
-All four timepoints require **12-hour fasting** before blood draw.
+Alle vier Messzeitpunkte erfordern **12 Stunden Nüchternheit** vor der Blutabnahme.
 
 ---
 
-## Priority 1 — Kernmarker (11 markers)
+## Priorität 1 — Kernmarker (11 Marker)
 
 | Marker | Optimaler Zielbereich | Warum |
 |---|---|---|
@@ -47,14 +47,14 @@ All four timepoints require **12-hour fasting** before blood draw.
 | TSH | 1,0–2,0 mIU/L | Schilddrüsenfunktion |
 | Vitamin D (25-OH) | 50–80 ng/mL | Immunfunktion, Performance |
 
-### Key Note: ApoB
+### Wichtiger Hinweis: ApoB
 
-> [!important] **ApoB is NOT in standard German blood panels — must be specifically requested.**
-> ApoB measures actual lipoprotein particle count, making it a superior cardiovascular risk predictor vs. LDL-C. This aligns with [[Peter Attia]]'s emphasis on ApoB as the primary cardiovascular risk marker.
+> [!important] **ApoB ist NICHT in deutschen Standardblutpanels enthalten — muss explizit angefordert werden.**
+> ApoB misst die tatsächliche Anzahl der Lipoproteinpartikel und ist damit ein überlegener Prädiktor für das kardiovaskuläre Risiko im Vergleich zu LDL-C. Dies entspricht der Betonung von [[Peter Attia]], der ApoB als primären kardiovaskulären Risikomarker einstuft.
 
 ---
 
-## Priority 2 — Erweitertes Panel (13 markers)
+## Priorität 2 — Erweitertes Panel (13 Marker)
 
 | Marker | Zielbereich | Warum |
 |---|---|---|
@@ -73,13 +73,13 @@ All four timepoints require **12-hour fasting** before blood draw.
 | B12 | 400–700 pg/mL | Neurologie |
 | Cortisol (morgens) | 10–20 µg/dL | HPA-Achse, Stress |
 
-> **Note:** The source table lists 14 rows in Priority 2, but the panel total is stated as 24 markers (11 + 13). Cortisol is counted within the 24-marker total.
+> **Hinweis:** Die Quelltabelle enthält 14 Zeilen in Priorität 2, jedoch wird die Gesamtzahl des Panels mit 24 Markern angegeben (11 + 13). Cortisol ist im Gesamtwert von 24 Markern enthalten.
 
 ---
 
 ## Supplementierung — Basisprotokoll
 
-Based on typical deficits at this performance/longevity profile — to be individually adjusted after **T1 results**:
+Basierend auf typischen Defiziten bei diesem Performance/Longevity-Profil — individuell anzupassen nach den **T1-Ergebnissen**:
 
 | Supplement | Dosis | Timing |
 |---|---|---|
@@ -89,55 +89,55 @@ Based on typical deficits at this performance/longevity profile — to be indivi
 | [[Omega-3]] (EPA+DHA) | 2–4 g | Mit Mahlzeit |
 | [[Kreatin]] | 5 g | Täglich, Timing egal |
 
-This supplementation protocol directly addresses markers tracked in the panel:
-- Vitamin D3 → Vitamin D (25-OH) target 50–80 ng/mL
+Dieses Supplementierungsprotokoll adressiert direkt die im Panel erfassten Marker:
+- Vitamin D3 → Vitamin D (25-OH) Zielwert 50–80 ng/mL
 - Magnesium Glycinat → Magnesium (intrazellulär)
-- Omega-3 → Omega-3-Index target >8%
+- Omega-3 → Omega-3-Index Zielwert >8 %
 
-See also the broader [[Supplement Stack]] for Oleg's full supplementation context.
-
----
-
-## Integration with Health Protocol
-
-The Blutbild Panel is a diagnostic cornerstone of [[Health Protocol Master]]:
-- **Hormone markers** (Testosterone, SHBG, Free T, IGF-1) track progress of training and recovery protocols
-- **Metabolic markers** (Glucose, HbA1c, Insulin) track nutrition protocol effectiveness
-- **Inflammation markers** (hsCRP, Homocysteine) monitor systemic stress from training load
-- **Cortisol** tracks HPA-axis status — relevant to training, sleep, and [[Supplement Stack]] modulation
-
-Baseline body composition data from [[3D Body Scan Scaneca Mai 2026]] should be cross-referenced with T1 results to build a complete health baseline picture.
+Siehe auch den übergeordneten [[Supplement Stack]] für Olegs vollständigen Supplementierungskontext.
 
 ---
 
-## Comparison to Standard Blood Panels
+## Integration in das Gesundheitsprotokoll
 
-Key differences from a typical German Hausarzt panel:
+Das Blutbild Panel ist ein diagnostischer Eckpfeiler des [[Health Protocol Master]]:
+- **Hormonmarker** (Testosteron, SHBG, Freies T, IGF-1) verfolgen den Fortschritt der Trainings- und Regenerationsprotokolle
+- **Metabolische Marker** (Glucose, HbA1c, Insulin) messen die Wirksamkeit des Ernährungsprotokolls
+- **Entzündungsmarker** (hsCRP, Homocystein) überwachen den systemischen Stress durch die Trainingsbelastung
+- **Cortisol** erfasst den HPA-Achsen-Status — relevant für Training, Schlaf und die Modulation des [[Supplement Stack]]
 
-| Marker | Standard Panel | This Panel | Why Different |
+Die Körperzusammensetzungs-Basisdaten aus dem [[3D Body Scan Scaneca Mai 2026]] sollten mit den T1-Ergebnissen abgeglichen werden, um ein vollständiges Gesundheits-Baseline-Bild zu erstellen.
+
+---
+
+## Vergleich mit Standard-Blutpanels
+
+Wesentliche Unterschiede zu einem typischen deutschen Hausarzt-Panel:
+
+| Marker | Standard-Panel | Dieses Panel | Warum anders |
 |---|---|---|---|
-| ApoB | ❌ Not included | ✅ Priority 1 | Better CVD risk predictor |
-| LDL-C | ✅ Standard | ✅ Priority 2 | Standard but de-emphasized |
-| hsCRP | Sometimes | ✅ Priority 1 | Longevity inflammation marker |
-| Nüchtern-Insulin | Rarely | ✅ Priority 1 | Insulin resistance screening |
-| IGF-1 | Rarely | ✅ Priority 1 | Growth hormone axis |
-| Free Testosterone | Not standard | ✅ Priority 1 | Performance optimization |
-| Omega-3 Index | Not standard | ✅ Priority 2 | Inflammation optimization |
-| Homocysteine | Rarely | ✅ Priority 2 | CVD + neurological risk |
+| ApoB | ❌ Nicht enthalten | ✅ Priorität 1 | Besserer CVD-Risikoindikator |
+| LDL-C | ✅ Standard | ✅ Priorität 2 | Standard, aber nachrangig |
+| hsCRP | Manchmal | ✅ Priorität 1 | Longevity-Entzündungsmarker |
+| Nüchtern-Insulin | Selten | ✅ Priorität 1 | Screening auf Insulinresistenz |
+| IGF-1 | Selten | ✅ Priorität 1 | Wachstumshormonachse |
+| Freies Testosteron | Nicht Standard | ✅ Priorität 1 | Performance-Optimierung |
+| Omega-3-Index | Nicht Standard | ✅ Priorität 2 | Entzündungsoptimierung |
+| Homocystein | Selten | ✅ Priorität 2 | CVD + neurologisches Risiko |
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Blutbild Panel Source Detail]] — raw source document (full German-language detail)
-- [[Performance Overview]] — parent overview document
-- [[Performance Overview Source Detail]] — source referencing this panel
-- [[Health Protocol Master]] — master protocol context
-- [[3D Body Scan Scaneca Mai 2026]] — companion body composition baseline
-- [[Peter Attia]] — ApoB and longevity biomarker framework
-- [[Supplement Stack]] — supplementation context
-- [[Vitamin D3]] — supplement tracked by Vitamin D (25-OH) marker
-- [[Kreatin]] — supplement in base protocol
-- [[Biomarker Testing]] — broader tracking concept
-- [[Oleg Personal Context]] — subject
-- [[MOC Performance und Leben]] — parent MOC
+- [[Blutbild Panel Source Detail]] — Quelldokument (vollständige deutschsprachige Details)
+- [[Performance Overview]] — übergeordnetes Übersichtsdokument
+- [[Performance Overview Source Detail]] — Quelle mit Verweis auf dieses Panel
+- [[Health Protocol Master]] — Masterprotokoll-Kontext
+- [[3D Body Scan Scaneca Mai 2026]] — begleitende Körperzusammensetzungs-Baseline
+- [[Peter Attia]] — ApoB und Longevity-Biomarker-Framework
+- [[Supplement Stack]] — Supplementierungskontext
+- [[Vitamin D3]] — Supplement, das durch den Vitamin-D-(25-OH)-Marker erfasst wird
+- [[Kreatin]] — Supplement im Basisprotokoll
+- [[Biomarker Testing]] — übergeordnendes Tracking-Konzept
+- [[Oleg Personal Context]] — Subjekt
+- [[MOC Performance und Leben]] — übergeordnete MOC

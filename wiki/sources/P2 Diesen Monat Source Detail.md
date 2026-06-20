@@ -5,20 +5,20 @@ tags: [aufgaben, P2, finanzen, notfallfonds, sachbezug, kredit, versicherung, pk
 sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for P2 priority tasks due this month — covers PKW-Sachbezug optimization, Notfallfonds setup, DZR GmbH settlement confirmation, ARAG Wagglz cancellation, Steamone payment clarification, and VW-Kredit Sondertilgung evaluation
+summary: Quelldokument für P2-Prioritätsaufgaben des laufenden Monats — umfasst PKW-Sachbezug-Optimierung, Notfallfonds-Aufbau, DZR GmbH Abrechnungsbestätigung, ARAG Wagglz Kündigung, Steamone Zahlungsklärung und VW-Kredit Sondertilgungsprüfung
 ---
 
 # P2 – Diesen Monat (Source Detail)
 
-## Overview
+## Überblick
 
-This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Personal Context|Oleg]]'s medium-priority financial tasks due within the current month (June–September 2026). These are follow-up and optimization tasks — not emergencies, but time-sensitive.
+Dieses Quelldokument (Priorität: P2, aktualisiert: 2026-06-12) listet [[Oleg Personal Context|Olegs]] mittelpriorisierte Finanzaufgaben auf, die im laufenden Monat (Juni–September 2026) fällig sind. Es handelt sich um Nachverfolgungs- und Optimierungsaufgaben — keine Notfälle, aber zeitkritisch.
 
-> For P0 urgent tasks, see [[P0 Sofortmaßnahmen]]. For P1 weekly tasks, see [[P1 Diese Woche Source Detail]].
+> Für dringende P0-Aufgaben siehe [[P0 Sofortmaßnahmen]]. Für wöchentliche P1-Aufgaben siehe [[P1 Diese Woche Source Detail]].
 
 ---
 
-## Tasks
+## Aufgaben
 
 ### 1. Doctolib PKW-Sachbezug optimieren
 📅 Fällig: 2026-07-31
@@ -27,9 +27,9 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 - **Aufgabe:** Fahrtenbuch vs. 1%-Regelung prüfen lassen (mit [[SP STB]])
 - **Potenzial:** Steuerersparnis wenn Fahrtenbuch günstiger als 1%-Regel
 
-**Context:** The 1%-Regelung calculates the monthly taxable benefit as 1% of the car's gross list price. If actual private mileage is low, a Fahrtenbuch (mileage log) can result in a lower taxable benefit. Requires meticulous record-keeping but can yield significant tax savings.
+**Kontext:** Die 1%-Regelung berechnet den monatlichen geldwerten Vorteil als 1 % des Brutto-Listenpreises des Fahrzeugs. Wenn der tatsächliche private Kilometeranteil gering ist, kann ein Fahrtenbuch zu einem niedrigeren geldwerten Vorteil führen. Dies erfordert eine sorgfältige Dokumentation, kann aber zu erheblichen Steuerersparnissen führen.
 
-> See [[Doctolib PKW-Sachbezug]] for the full concept page.
+> Siehe [[Doctolib PKW-Sachbezug]] für die vollständige Konzeptseite.
 
 ---
 
@@ -41,9 +41,9 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 - **Aktuell separiert:** 0 €
 - **Finanzierungsquelle:** Q2-Bonus (Juli 2026 erwartet)
 
-**Context:** The emergency fund target of ~10.900 € implies a net monthly income of approximately 3.633 €. This aligns with [[Doctolib 2026]] net salary estimates. The 0 € currently separated indicates no dedicated emergency fund exists — a significant financial gap.
+**Kontext:** Das Notfallfonds-Ziel von ~10.900 € impliziert ein monatliches Nettoeinkommen von ca. 3.633 €. Dies stimmt mit den Netto-Gehaltsschätzungen aus [[Doctolib 2026]] überein. Die aktuell separierten 0 € zeigen, dass kein dedizierter Notfallfonds existiert — eine erhebliche finanzielle Lücke.
 
-> ⚠️ **Contradiction note:** The [[Fixkosten Übersicht]] and [[MOC Finanzen Source Detail]] reference a Consorsbank Tagesgeld account. This task confirms the account exists but is currently unfunded for emergency purposes.
+> ⚠️ **Widerspruchshinweis:** Die [[Fixkosten Übersicht]] und der [[MOC Finanzen Source Detail]] verweisen auf ein Consorsbank-Tagesgeldkonto. Diese Aufgabe bestätigt, dass das Konto existiert, aber derzeit für Notfallzwecke nicht befüllt ist.
 
 ---
 
@@ -54,7 +54,7 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 - **Aufgabe:** Quittung / Schlusserklärung von [[DZR GmbH]] schriftlich anfordern
 - **Kontext:** Überweisungsrückgabe vom 03.04 war Echtzeitüberw.-Problem (gelöst)
 
-**Context:** DZR GmbH appears to be a creditor (potentially a debt collection or billing company). The 03.04 transfer return was a technical Echtzeitüberweisung (instant transfer) failure, not an intentional non-payment. Total paid: 363,20 € including Verzugszins (late payment interest). The written confirmation (Schlusserklärung) is needed to close this matter formally.
+**Kontext:** Die [[DZR GmbH]] scheint ein Gläubiger zu sein (möglicherweise ein Inkasso- oder Abrechnungsunternehmen). Die Überweisungsrückgabe vom 03.04 war ein technisches Problem bei der Echtzeitüberweisung, keine absichtliche Nichtzahlung. Gesamtbetrag bezahlt: 363,20 € inklusive Verzugszins. Die schriftliche Bestätigung (Schlusserklärung) wird benötigt, um diese Angelegenheit formell abzuschließen.
 
 ---
 
@@ -65,9 +65,9 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 - **Begründung:** Vertrag nicht benötigt
 - **Zusatzkontext:** [[Wagglz GmbH]] schließt evtl. sowieso → Kündigung jetzt einreichen
 
-**Context:** ARAG is a German legal/insurance company. The "Wagglz" product ("ARAG Wagglz") appears to be an ARAG insurance product tied to [[Wagglz GmbH]]'s operations, potentially a business liability or legal protection policy. Given Wagglz may be winding down, this cancellation is doubly justified.
+**Kontext:** ARAG ist ein deutsches Rechts- und Versicherungsunternehmen. Das Produkt „ARAG Wagglz" scheint ein ARAG-Versicherungsprodukt zu sein, das mit dem Betrieb der [[Wagglz GmbH]] verbunden ist — möglicherweise eine Betriebshaftpflicht- oder Rechtsschutzversicherung. Da Wagglz möglicherweise aufgelöst wird, ist diese Kündigung doppelt gerechtfertigt.
 
-> See [[Wagglz GmbH]] entity page for closure context.
+> Siehe [[Wagglz GmbH]]-Entitätsseite für den Auflösungskontext.
 
 ---
 
@@ -78,7 +78,7 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 - **Problem:** Hoher Betrag — unklar was gekauft wurde
 - **Aufgabe:** Kaufinhalt klären; ggf. Rückgabe prüfen
 
-**Context:** Steamone is a home textile/garment care appliance brand (steam brushes, steamers). The 217,18 € PayPal charge may be a legitimate purchase that was forgotten, or a potential fraud/error. The task to "check for return" suggests this may have been an impulse purchase under review.
+**Kontext:** Steamone ist eine Marke für Heimtextilpflege- und Garment-Care-Geräte (Dampfbürsten, Dampfglätter). Die PayPal-Lastschrift über 217,18 € kann ein legitimer, aber vergessener Kauf sein oder ein möglicher Betrug/Fehler. Die Aufgabe, „Rückgabe zu prüfen", legt nahe, dass es sich um einen Impulskauf handeln könnte, der überprüft wird.
 
 ---
 
@@ -90,13 +90,13 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 - **Mögliche Quelle:** Q-Bonus (8.250 € netto erwartet)
 - **Aufgabe:** Zinsersparnis vs. Tagesgeld 1% gegenrechnen
 
-**Context:** The [[VW Konsumkredit]] is a consumer loan for a vehicle. A Sondertilgung (special/early repayment) with the Q2 bonus would reduce the 18.858 € principal faster, saving interest. However, with Tagesgeld at only 1% p.a. and typical consumer loan rates at 3–7%, early repayment is almost certainly beneficial unless the loan agreement charges a Vorfälligkeitsentschädigung (early repayment penalty).
+**Kontext:** Der [[VW Konsumkredit]] ist ein Verbraucherkredit für ein Fahrzeug. Eine Sondertilgung mit dem Q2-Bonus würde die Restschuld von 18.858 € schneller reduzieren und Zinsen einsparen. Da das Tagesgeld jedoch nur 1 % p.a. beträgt und typische Verbraucherkreditzinsen bei 3–7 % liegen, ist eine vorzeitige Rückzahlung fast immer vorteilhaft — es sei denn, der Kreditvertrag sieht eine Vorfälligkeitsentschädigung vor.
 
-> See [[VW Konsumkredit]] for full loan details.
+> Siehe [[VW Konsumkredit]] für vollständige Kreditdetails.
 
 ---
 
-## Financial Decisions Embedded in This List
+## In dieser Liste enthaltene Finanzentscheidungen
 
 | Entscheidung | Aufwand | Potenzieller Nutzen |
 |---|---|---|
@@ -107,16 +107,16 @@ This source document (priority: P2, aktualisiert: 2026-06-12) lists [[Oleg Perso
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[P0 Sofortmaßnahmen]] — higher priority tasks
-- [[P1 Diese Woche Source Detail]] — P1 tasks
-- [[Doctolib PKW-Sachbezug]] — PKW benefit optimization
-- [[SP STB]] — Steuerberater for Sachbezug advice
-- [[Notfallfonds]] — emergency fund concept
-- [[Consorsbank Girokonto 0250120493]] — main Consorsbank account
-- [[DZR GmbH]] — creditor requiring closure confirmation
-- [[Wagglz GmbH]] — company closing; ARAG contract to cancel
-- [[VW Konsumkredit]] — loan subject to Sondertilgung review
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — task owner
+- [[P0 Sofortmaßnahmen]] — Aufgaben mit höherer Priorität
+- [[P1 Diese Woche Source Detail]] — P1-Aufgaben
+- [[Doctolib PKW-Sachbezug]] — PKW-Sachbezug-Optimierung
+- [[SP STB]] — Steuerberater für Sachbezug-Beratung
+- [[Notfallfonds]] — Konzeptseite Notfallfonds
+- [[Consorsbank Girokonto 0250120493]] — Hauptkonto bei der Consorsbank
+- [[DZR GmbH]] — Gläubiger, der eine Abschlussbestätigung benötigt
+- [[Wagglz GmbH]] — Unternehmen in Auflösung; ARAG-Vertrag zu kündigen
+- [[VW Konsumkredit]] — Kredit mit zu prüfender Sondertilgungsoption
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Aufgabeninhaber

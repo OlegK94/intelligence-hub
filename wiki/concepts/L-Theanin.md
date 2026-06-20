@@ -5,45 +5,45 @@ tags: [supplement, sleep, cognition, amino-acid, momentous, huberman, relaxation
 sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Amino acid from green tea included in the Momentous Complete Expert Stack — promotes relaxation without sedation, supports sleep quality, and reduces stimulant-related anxiety
+summary: Aminosäure aus grünem Tee, enthalten im Momentous Complete Expert Stack — fördert Entspannung ohne Sedierung, unterstützt die Schlafqualität und reduziert stimulanzbedingte Angst
 ---
 
 # L-Theanin
 
-## Overview
+## Überblick
 
-**L-Theanin** (L-Theanine) is a naturally occurring amino acid found primarily in green tea. It promotes relaxed alertness and is often used to reduce anxiety associated with stimulants or to support sleep onset.
+**L-Theanin** (L-Theanine) ist eine natürlich vorkommende Aminosäure, die hauptsächlich in grünem Tee vorkommt. Es fördert entspannte Wachheit und wird häufig eingesetzt, um Angst im Zusammenhang mit Stimulanzien zu reduzieren oder den Schlafbeginn zu unterstützen.
 
-## Protocol Usage
+## Verwendung im Protokoll
 
-- **Included in:** [[Momentous]] Complete Expert Stack
-- **Role:** Relaxation, sleep quality support
-- **Timing:** Evening (per Momentous instructions)
-- **Context:** Part of [[Oleg Personal Context|Oleg]]'s [[Supplement Stack]]
+- **Enthalten in:** [[Momentous]] Complete Expert Stack
+- **Rolle:** Entspannung, Unterstützung der Schlafqualität
+- **Zeitpunkt:** Abends (gemäß Momentous-Anweisungen)
+- **Kontext:** Teil von [[Oleg Personal Context|Olegs]] [[Supplement Stack]]
 
-## Mechanisms
+## Wirkmechanismen
 
-- **Alpha brain wave promotion:** Increases alpha wave activity → calm, focused state
-- **GABA support:** Mild modulation of inhibitory neurotransmission
-- **Cortisol reduction:** May attenuate stress-induced cortisol elevation
-- **Stimulant modulation:** Commonly paired with caffeine to reduce jitteriness while preserving alertness
+- **Förderung von Alpha-Gehirnwellen:** Erhöht die Alpha-Wellenaktivität → ruhiger, fokussierter Zustand
+- **GABA-Unterstützung:** Leichte Modulation der inhibitorischen Neurotransmission
+- **Cortisolreduktion:** Kann stressbedingten Cortisolanstieg abschwächen
+- **Stimulanzmodulation:** Häufig mit Koffein kombiniert, um Nervosität zu reduzieren und dabei die Wachheit zu erhalten
 
-## In the Context of Sleep
+## Im Kontext des Schlafs
 
-At evening doses, L-Theanin promotes:
-- Reduced mental chatter / rumination
-- Faster sleep onset
-- Potentially improved sleep quality (subjective)
+Bei abendlicher Dosierung fördert L-Theanin:
+- Reduktion von mentalem Gedankenkarussell / Grübeln
+- Schnelleres Einschlafen
+- Potenziell verbesserte Schlafqualität (subjektiv)
 
-## Huberman Protocol Context
+## Huberman-Protokoll-Kontext
 
-Part of [[Andrew Huberman]]'s sleep supplement stack (with [[Magnesium L-Threonate]] and [[Apigenin]]). Included in the Momentous Expert Stack.
+Teil von [[Andrew Huberman]]s Schlaf-Supplement-Stack (zusammen mit [[Magnesium L-Threonate]] und [[Apigenin]]). Im Momentous Expert Stack enthalten.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context
-- [[Momentous]] — brand
-- [[Magnesium L-Threonate]] — co-supplement in sleep stack
-- [[Apigenin]] — co-supplement in sleep stack
-- [[Andrew Huberman]] — protocol source
-- [[Health Protocol Master]] — broader protocol
+- [[Supplement Stack]] — Stack-Kontext
+- [[Momentous]] — Marke
+- [[Magnesium L-Threonate]] — Co-Supplement im Schlaf-Stack
+- [[Apigenin]] — Co-Supplement im Schlaf-Stack
+- [[Andrew Huberman]] — Protokollquelle
+- [[Health Protocol Master]] — übergeordnetes Protokoll

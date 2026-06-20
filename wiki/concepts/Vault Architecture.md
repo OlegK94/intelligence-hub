@@ -1,99 +1,99 @@
 ---
-title: Vault Architecture
+title: Vault-Architektur
 type: concept
 tags: [vault, architecture, workflow, ingest, raw, wiki, obsidian, meta]
 sources: ["raw/README.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: The two-layer vault architecture separating immutable raw sources from the living wiki — raw/ contains original notes, wiki/ contains integrated knowledge; ingest script bridges them
+summary: Die zweischichtige Vault-Architektur trennt unveränderliche Rohquellen vom lebendigen Wiki — raw/ enthält Originalnotizen, wiki/ enthält integriertes Wissen; das Ingest-Skript verbindet beide Ebenen
 ---
 
-# Vault Architecture
+# Vault-Architektur
 
-## Overview
+## Überblick
 
-The vault uses a **two-layer architecture** that strictly separates raw source material from integrated wiki knowledge. This pattern (similar to the Karpathy LLM Wiki approach) ensures that:
-1. Original sources are preserved unchanged
-2. Knowledge synthesis happens exclusively in the wiki layer
-3. All wiki pages can be traced to specific source files
+Der Vault verwendet eine **zweischichtige Architektur**, die Roh-Quellmaterial strikt von integriertem Wiki-Wissen trennt. Dieses Muster (ähnlich dem Karpathy LLM Wiki-Ansatz) stellt sicher, dass:
+1. Originalquellen unverändert erhalten bleiben
+2. Wissenssynthese ausschließlich in der Wiki-Schicht stattfindet
+3. Alle Wiki-Seiten auf spezifische Quelldateien zurückverfolgt werden können
 
-## Two-Layer Model
+## Zweischichtiges Modell
 
 ```
-Layer 1: raw/           ← Immutable source material
-         ↓
-     python3 tools/ingest.py
-         ↓
-Layer 2: wiki/          ← Living, integrated knowledge base
+Schicht 1: raw/           ← Unveränderliches Quellmaterial
+           ↓
+       python3 tools/ingest.py
+           ↓
+Schicht 2: wiki/          ← Lebendige, integrierte Wissensbasis
 ```
 
-### Layer 1 — raw/
-- **Immutable after ingest** — files are never edited
-- Organized by life/business domain (Privat, Business, _archiv)
-- Contains original notes, exports, templates, and documents
-- Includes `inbox/` as the staging area for new material
-- See [[Raw Vault Structure README]] for the full directory map
+### Schicht 1 — raw/
+- **Unveränderlich nach dem Ingest** — Dateien werden nie bearbeitet
+- Gegliedert nach Lebens-/Geschäftsbereichen (Privat, Business, _archiv)
+- Enthält Originalnotizen, Exporte, Vorlagen und Dokumente
+- Beinhaltet `inbox/` als Staging-Bereich für neues Material
+- Siehe [[Raw Vault Structure README]] für die vollständige Verzeichnisübersicht
 
-### Layer 2 — wiki/
-- **Living, updateable** — continuously refined and extended
-- Organized by knowledge type:
-  - `wiki/entities/` — specific people, places, companies, events
-  - `wiki/concepts/` — ideas, methods, frameworks
-  - `wiki/sources/` — one source summary page per raw file ingested
-  - `wiki/syntheses/` — cross-source synthesis and analysis
-  - `wiki/comparisons/` — structured comparisons
-- Connected via [[Obsidian]] wikilinks throughout
+### Schicht 2 — wiki/
+- **Lebendig und aktualisierbar** — kontinuierlich verfeinert und erweitert
+- Gegliedert nach Wissenstyp:
+  - `wiki/entities/` — spezifische Personen, Orte, Unternehmen, Ereignisse
+  - `wiki/concepts/` — Ideen, Methoden, Frameworks
+  - `wiki/sources/` — eine Quellzusammenfassungsseite pro eingepflegter Rohdatei
+  - `wiki/syntheses/` — quellenübergreifende Synthese und Analyse
+  - `wiki/comparisons/` — strukturierte Vergleiche
+- Durchgehend verbunden über [[Obsidian]]-Wikilinks
 
-## Ingest Workflow
+## Ingest-Workflow
 
-1. **New content** arrives in `raw/inbox/`
-2. **Ingest script** (`python3 tools/ingest.py`) processes the file
-3. **Source summary page** created in `wiki/sources/` (one per raw file)
-4. **Entity/concept pages** created or updated as needed
-5. **Index updated** with new entries
-6. **Raw file remains immutable** — wiki is the single point of truth
+1. **Neue Inhalte** landen in `raw/inbox/`
+2. **Ingest-Skript** (`python3 tools/ingest.py`) verarbeitet die Datei
+3. **Quellzusammenfassungsseite** wird in `wiki/sources/` erstellt (eine pro Rohdatei)
+4. **Entitäts-/Konzeptseiten** werden bei Bedarf erstellt oder aktualisiert
+5. **Index wird** mit neuen Einträgen aktualisiert
+6. **Rohdatei bleibt unveränderlich** — das Wiki ist der einzige Wahrheitspunkt
 
-## Page Type Hierarchy
+## Seitentyp-Hierarchie
 
-| Type | Purpose | Location |
+| Typ | Zweck | Speicherort |
 |---|---|---|
-| `source` | Summary of a single raw file | `wiki/sources/` |
-| `entity` | Specific person, company, event, etc. | `wiki/entities/` |
-| `concept` | Method, framework, idea | `wiki/concepts/` |
-| `synthesis` | Cross-source analysis | `wiki/syntheses/` |
-| `comparison` | Structured A vs B | `wiki/comparisons/` |
+| `source` | Zusammenfassung einer einzelnen Rohdatei | `wiki/sources/` |
+| `entity` | Bestimmte Person, Unternehmen, Ereignis usw. | `wiki/entities/` |
+| `concept` | Methode, Framework, Idee | `wiki/concepts/` |
+| `synthesis` | Quellenübergreifende Analyse | `wiki/syntheses/` |
+| `comparison` | Strukturierter A-vs-B-Vergleich | `wiki/comparisons/` |
 
-## Exclusion Zone
+## Ausschlussbereich
 
-`raw/_archiv/` is explicitly excluded from active ingest. Content there (primarily old work history) should not generate wiki pages.
+`raw/_archiv/` ist explizit vom aktiven Ingest ausgeschlossen. Inhalte dort (primär ältere Arbeitshistorie) sollen keine Wiki-Seiten erzeugen.
 
-## Naming Conventions
+## Namenskonventionen
 
-- **Source pages:** Named after the raw file for traceability
-- **Entity pages:** Human-readable proper names (people, companies, events)
-- **Concept pages:** Topic name (e.g., "BMR and TDEE", "Brick Training")
-- **No .md suffix** in wikilinks — Obsidian resolves automatically
+- **Quellseiten:** Nach der Rohdatei benannt, um Rückverfolgbarkeit zu gewährleisten
+- **Entitätsseiten:** Menschenlesbare Eigennamen (Personen, Unternehmen, Ereignisse)
+- **Konzeptseiten:** Themenname (z. B. „BMR and TDEE", „Brick Training")
+- **Kein .md-Suffix** in Wikilinks — Obsidian löst diese automatisch auf
 
-## YAML Frontmatter Standard
+## YAML-Frontmatter-Standard
 
-Every wiki page uses:
+Jede Wiki-Seite verwendet:
 ```yaml
 ---
-title: Human Readable Title
+title: Menschenlesbarer Titel
 type: source|entity|concept|synthesis|comparison
 tags: [tag1, tag2]
 sources: ["raw/path/to/source.md"]
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-summary: One-line description
+summary: Einzeilige Beschreibung
 ---
 ```
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Raw Vault Structure README]] — the README that defines raw/ structure
-- [[Oleg Personal Context]] — vault owner
-- [[MOC Performance und Leben]] — performance MOC
-- [[MOC Finanzen]] — finance MOC
-- [[MOC Strategie und Business]] — business MOC
-- [[MOC Tech und Setup]] — tech MOC
+- [[Raw Vault Structure README]] — die README-Datei, die die raw/-Struktur definiert
+- [[Oleg Personal Context]] — Vault-Inhaber
+- [[MOC Performance und Leben]] — Performance-MOC
+- [[MOC Finanzen]] — Finanz-MOC
+- [[MOC Strategie und Business]] — Business-MOC
+- [[MOC Tech und Setup]] — Tech-MOC

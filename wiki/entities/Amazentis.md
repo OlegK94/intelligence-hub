@@ -5,143 +5,143 @@ tags: [company, biotech, longevity, urolithin-a, MITOPURE, patent, novel-food, I
 sources: ["raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md", "raw/Business/PerformanceCafe/legal/ip_landscape.md"]
 created: 2026-06-15
 updated: 2026-06-14
-summary: Swiss biotech company (Lausanne) holding 50+ patents and EU Novel Food authorization for Urolithin A (MITOPURE); L'Oréal and Nestlé Health Science invested CHF 56M (Series D, January 2024) in Timeline Nutrition spin-off; dual IP+Novel Food barrier for Performance Coffee Brand; synthesis patent EP3087065B1 expires ~2034–2036; B2B contact bd@timeline.as
+summary: Schweizer Biotech-Unternehmen (Lausanne) mit 50+ Patenten und EU Novel Food-Zulassung für Urolithin A (MITOPURE); L'Oréal und Nestlé Health Science investierten CHF 56M (Series D, Januar 2024) in Timeline Nutrition Spin-off; doppelte IP+Novel Food-Barriere für die Performance Coffee Brand; Synthesepatent EP3087065B1 läuft ~2034–2036 aus; B2B-Kontakt bd@timeline.as
 ---
 
 # Amazentis
 
-## Overview
+## Überblick
 
-**Amazentis SA** (Lausanne, Switzerland) is a Swiss clinical-stage biotech company that developed and commercialized **Urolithin A** under the brand name **MITOPURE**. It is one of the two critical IP blockers (alongside [[Chromadex / Niagen Bioscience]]) for the [[Performance Coffee Brand]]'s longevity ingredient stack.
+**Amazentis SA** (Lausanne, Schweiz) ist ein Schweizer klinisches Biotech-Unternehmen, das **Urolithin A** unter dem Markennamen **MITOPURE** entwickelt und kommerzialisiert hat. Es ist einer der beiden kritischen IP-Blocker (neben [[Chromadex / Niagen Bioscience]]) für den Longevity-Zutaten-Stack der [[Performance Coffee Brand]].
 
 ---
 
-## Corporate Structure
+## Unternehmensstruktur
 
-| Entity | Role |
+| Einheit | Rolle |
 |---|---|
-| **Amazentis SA** (Lausanne) | IP holder, research vehicle, patent owner |
-| **[[Timeline Nutrition]]** | Consumer brand (Mitopure); marketing and distribution |
-| **L'Oréal** | Investor (Series D, January 2024, CHF 56M total round) |
-| **Nestlé Health Science** | Investor (Series D, January 2024) + global distribution rights |
+| **Amazentis SA** (Lausanne) | IP-Inhaber, Forschungsgesellschaft, Patentinhaber |
+| **[[Timeline Nutrition]]** | Verbrauchermarke (Mitopure); Marketing und Vertrieb |
+| **L'Oréal** | Investor (Series D, Januar 2024, CHF 56M Gesamtrunde) |
+| **Nestlé Health Science** | Investor (Series D, Januar 2024) + globale Vertriebsrechte |
 
-**January 2024:** L'Oréal and Nestlé Health Science secured stakes in a CHF 56 million Series D financing round. Amazentis remains the IP-holding vehicle; Timeline/Nestlé holds commercialization rights.
+**Januar 2024:** L'Oréal und Nestlé Health Science sicherten sich Anteile in einer CHF 56 Millionen Series-D-Finanzierungsrunde. Amazentis bleibt das IP-haltende Vehikel; Timeline/Nestlé hält die Vermarktungsrechte.
 
 ---
 
-## Patent Portfolio
+## Patentportfolio
 
-### European Patents (Key)
+### Europäische Patente (Schlüssel)
 
-| Patent | Title | Status |
+| Patent | Titel | Status |
 |---|---|---|
-| **EP3087065B1** | "Synthesis of urolithins" — manufacturing process | **Active (granted)** — critical |
-| **EP3369420B1** | "Non-therapeutic use of urolithin A for cognitive function" | Active (granted) |
-| **EP3787615A1** | "Urolithin A as immune enhancer" | Application / under examination |
-| **EP3793984A1** | "Urolithin A and derivatives for use in therapy" | Application |
-| **EP2862568A1** | "Compositions comprising urolithins — insulin secretion stimulation" | Older application |
+| **EP3087065B1** | „Synthese von Urolithinen" — Herstellungsprozess | **Aktiv (erteilt)** — kritisch |
+| **EP3369420B1** | „Nicht-therapeutische Verwendung von Urolithin A für die kognitive Funktion" | Aktiv (erteilt) |
+| **EP3787615A1** | „Urolithin A als Immunverstärker" | Anmeldung / in Prüfung |
+| **EP3793984A1** | „Urolithin A und Derivate zur therapeutischen Verwendung" | Anmeldung |
+| **EP2862568A1** | „Zusammensetzungen mit Urolithinen — Stimulation der Insulinsekretion" | Ältere Anmeldung |
 
-### Portfolio Scale
+### Portfoliogröße
 
-Amazentis claims **50+ global patents**. Core protections cover:
-- **Synthesis process** (EP3087065B1 — the critical patent)
-- Specific **application areas** (cognition, immune function, muscle)
-- The **Mitopure formulation** itself
+Amazentis beansprucht **50+ globale Patente**. Der Kernschutz umfasst:
+- **Syntheseverfahren** (EP3087065B1 — das kritische Patent)
+- Spezifische **Anwendungsgebiete** (Kognition, Immunfunktion, Muskulatur)
+- Die **Mitopure-Formulierung** selbst
 
-### Patent Expiry
+### Patentablauf
 
-Synthesis patent EP3087065B1 was filed ~2014–2016 → **expires ~2034–2036**. Until then, synthetic Urolithin A cannot be legally produced in the EU without a license from Amazentis.
+Das Synthesepatent EP3087065B1 wurde ~2014–2016 eingereicht → **läuft ~2034–2036 aus**. Bis dahin kann synthetisches Urolithin A in der EU ohne Lizenz von Amazentis nicht legal hergestellt werden.
 
 ---
 
-## What Is and Isn't Protected
+## Was geschützt ist und was nicht
 
-| Status | Content |
+| Status | Inhalt |
 |---|---|
-| **Protected** | Synthetic Urolithin A (≥97% purity), synthesis processes, Mitopure formulation, therapeutic and non-therapeutic applications |
-| **Not protected (likely)** | Urolithin A naturally formed in the human body from ellagitannins; **pomegranate/walnut extracts as UA precursors**; raw botanical extracts with naturally occurring low UA concentrations |
-| **Grey zone — requires Freedom-to-Operate analysis** | Concentrated UA extracts from pomegranate marketed as "Urolithin A" — may fall within Amazentis patents depending on process |
+| **Geschützt** | Synthetisches Urolithin A (≥97% Reinheit), Syntheseverfahren, Mitopure-Formulierung, therapeutische und nicht-therapeutische Anwendungen |
+| **Wahrscheinlich nicht geschützt** | Im menschlichen Körper aus Ellagitanninen natürlich gebildetes Urolithin A; **Granatapfel-/Walnussextrakte als UA-Vorstufen**; botanische Rohextrakte mit natürlich vorkommenden niedrigen UA-Konzentrationen |
+| **Grauzone — Freedom-to-Operate-Analyse erforderlich** | Konzentrierte UA-Extrakte aus Granatapfel, die als „Urolithin A" vermarktet werden — können je nach Verfahren unter Amazentis-Patente fallen |
 
 ---
 
-## EU Novel Food Authorization
+## EU Novel Food-Zulassung
 
-- Amazentis received EU Novel Food authorization for Urolithin A in **2022** (application 2018-0538)
-- **Proprietary authorization:** Initially only Amazentis / Timeline can use it commercially in EU
-- Proprietary period typically 5 years from authorization grant
-- After expiry: authorization becomes generic (any company may use)
+- Amazentis erhielt die EU Novel Food-Zulassung für Urolithin A im Jahr **2022** (Antrag 2018-0538)
+- **Proprietäre Zulassung:** Zunächst dürfen nur Amazentis / Timeline diese kommerziell in der EU nutzen
+- Proprietäre Frist beträgt typischerweise 5 Jahre ab Zulassungserteilung
+- Nach Ablauf: Die Zulassung wird generisch (jedes Unternehmen darf sie nutzen)
 
-**This creates a dual barrier:**
-1. Patent licensing (for synthetic UA)
-2. Novel Food authorization compliance (for any commercial EU use)
+**Dies schafft eine doppelte Barriere:**
+1. Patentlizenzierung (für synthetisches UA)
+2. Novel Food-Zulassungskonformität (für jede kommerzielle EU-Nutzung)
 
-**Third-party options:**
-- Own Novel Food application (~2–5 years, €500,000–2,000,000 for clinical studies)
-- **License from Amazentis** to operate under their authorization
+**Optionen für Dritte:**
+- Eigener Novel Food-Antrag (~2–5 Jahre, €500.000–2.000.000 für klinische Studien)
+- **Lizenz von Amazentis**, um unter deren Zulassung zu operieren
 
-**Authorized use forms:** Breakfast cereals, protein bars, dietary supplements, medical foods, sports nutrition.
-
----
-
-## Licensing Model
-
-- Timeline Nutrition sells Mitopure raw material to B2B partners (selected)
-- No public price sheet
-- Typical industry structures: 5–15% royalty on net revenue OR fixed price/kg with minimum order quantity (MOQ)
-- **B2B contact:** bd@timeline.as (Business Development, Timeline Nutrition, Lausanne)
+**Zugelassene Verwendungsformen:** Frühstückscerealien, Proteinriegel, Nahrungsergänzungsmittel, medizinische Lebensmittel, Sporternährung.
 
 ---
 
-## MITOPURE Product
+## Lizenzmodell
 
-- Amazentis's branded Urolithin A product
-- Available as powder and capsule formats
-- Clinically studied for mitophagy enhancement and muscle health
-- Dosed at 500mg–1,000mg in clinical studies
-- Commercial price: premium ingredient tier
+- Timeline Nutrition verkauft Mitopure-Rohstoff an B2B-Partner (ausgewählt)
+- Keine öffentliche Preisliste
+- Typische Branchenstrukturen: 5–15% Lizenzgebühr auf Nettoumsatz ODER Festpreis/kg mit Mindestbestellmenge (MOQ)
+- **B2B-Kontakt:** bd@timeline.as (Business Development, Timeline Nutrition, Lausanne)
 
 ---
 
-## Relevance to Performance Coffee Brand
+## Das MITOPURE-Produkt
 
-### Patent Blocker
+- Amazentis' markiertes Urolithin-A-Produkt
+- Erhältlich als Pulver und Kapselformate
+- Klinisch untersucht zur Verbesserung der Mitophagie und Muskelgesundheit
+- Dosierung von 500mg–1.000mg in klinischen Studien
+- Handelspreis: Premium-Zutatenkategorie
 
-Any use of synthetic Urolithin A in [[Performance Coffee Brand]] requires:
-1. Licensing from Amazentis / Timeline (cost and terms require negotiation)
-2. Alternative form not covered by existing patents
-3. Waiting for patent expiry (~2034–2036 — not commercially viable)
+---
 
-This is a **Priority 2** research item in the Performance Café sequence (immediately after regulatory as Priority 1) — stack decisions and COGS model cannot be finalized without knowing licensing terms.
+## Relevanz für die Performance Coffee Brand
 
-### Recommended Approach
+### Patent-Blocker
 
-| Option | Risk Level | Cost | Status |
+Jede Verwendung von synthetischem Urolithin A in der [[Performance Coffee Brand]] erfordert:
+1. Lizenzierung von Amazentis / Timeline (Kosten und Konditionen müssen verhandelt werden)
+2. Eine alternative Form, die nicht durch bestehende Patente abgedeckt ist
+3. Warten auf den Patentablauf (~2034–2036 — kommerziell nicht realisierbar)
+
+Dies ist ein **Priorität-2**-Forschungsthema in der Performance Café-Reihenfolge (unmittelbar nach dem regulatorischen Bereich als Priorität 1) — Stack-Entscheidungen und das COGS-Modell können nicht finalisiert werden, ohne die Lizenzbedingungen zu kennen.
+
+### Empfohlene Vorgehensweise
+
+| Option | Risikoniveau | Kosten | Status |
 |---|---|---|---|
-| **A: Pomegranate extract** (≥40% punicalagin/ellagic acid) — natural UA precursor | **None** | Low (~€20–50/kg) | ✅ **Recommended for MVP** |
-| **B: License Mitopure from Timeline** | Low (if licensed) | Unknown (MOQ + royalty likely prohibitive for startup) | Possible but cost risk |
-| **C: Generic Urolithin A from China** | **HIGH** | Low | ❌ No EU Novel Food approval; possible patent infringement |
+| **A: Granatapfelextrakt** (≥40% Punicalagin/Ellagsäure) — natürliche UA-Vorstufe | **Keines** | Gering (~€20–50/kg) | ✅ **Empfohlen für MVP** |
+| **B: Mitopure-Lizenz von Timeline** | Gering (wenn lizenziert) | Unbekannt (MOQ + Lizenzgebühr wahrscheinlich für Startup prohibitiv) | Möglich, aber Kostenrisiko |
+| **C: Generisches Urolithin A aus China** | **HOCH** | Gering | ❌ Keine EU Novel Food-Zulassung; mögliche Patentverletzung |
 
-**MVP communication:** "Supports the body's natural Urolithin A production" (via pomegranate extract) — avoids all IP claims.
-
----
-
-## Research Priority Context
-
-The IP landscape module (`legal/ip_landscape.md`) is **Priority 2** in Performance Café research sequence:
-- Stack decisions cannot be finalized without knowing licensing costs
-- COGS model is blocked until Amazentis licensing terms are known
-- Business case depends on whether Urolithin A is commercially viable at this stage
+**MVP-Kommunikation:** „Unterstützt die natürliche Urolithin-A-Produktion des Körpers" (über Granatapfelextrakt) — vermeidet alle IP-Ansprüche.
 
 ---
 
-## Related Pages
+## Kontext der Forschungspriorität
 
-- [[Timeline Nutrition]] — Amazentis consumer brand / B2B contact entity
-- [[Urolithin A]] — ingredient Amazentis holds IP on
-- [[Ellagsäure Punicalagin Extrakt]] — patent-free alternative (pomegranate extract)
-- [[Performance Coffee Brand]] — project impacted by Amazentis IP
-- [[Performance Café IP Landscape Modul 8]] — source document with full patent analysis
-- [[EU Novel Food Regulation]] — regulatory framework context
-- [[Chromadex / Niagen Bioscience]] — parallel IP blocker (NR/NIAGEN)
-- [[Bryan Johnson]] — Blueprint reference; Mitopure/Urolithin A in longevity community
-- [[IP Risk Matrix Performance Café]] — consolidated risk assessment
+Das IP-Landschaft-Modul (`legal/ip_landscape.md`) hat **Priorität 2** in der Performance Café-Forschungsreihenfolge:
+- Stack-Entscheidungen können nicht finalisiert werden, ohne die Lizenzkosten zu kennen
+- Das COGS-Modell ist blockiert, bis die Lizenzbedingungen von Amazentis bekannt sind
+- Der Business Case hängt davon ab, ob Urolithin A in dieser Phase kommerziell realisierbar ist
+
+---
+
+## Verwandte Seiten
+
+- [[Timeline Nutrition]] — Amazentis-Verbrauchermarke / B2B-Kontakteinheit
+- [[Urolithin A]] — Zutat, auf die Amazentis IP hält
+- [[Ellagsäure Punicalagin Extrakt]] — patentfreie Alternative (Granatapfelextrakt)
+- [[Performance Coffee Brand]] — Projekt, das von Amazentis IP betroffen ist
+- [[Performance Café IP Landscape Modul 8]] — Quelldokument mit vollständiger Patentanalyse
+- [[EU Novel Food Regulation]] — regulatorischer Rahmenkontext
+- [[Chromadex / Niagen Bioscience]] — paralleler IP-Blocker (NR/NIAGEN)
+- [[Bryan Johnson]] — Blueprint-Referenz; Mitopure/Urolithin A in der Longevity-Community
+- [[IP Risk Matrix Performance Café]] — konsolidierte Risikobewertung

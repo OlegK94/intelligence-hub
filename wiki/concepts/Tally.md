@@ -5,45 +5,45 @@ tags: [tool, form-builder, no-code, automation, dsgvo, doktorlib, tech-stack]
 sources: ["raw/01-Strategie-Business/DoktorLib Automation Pipeline.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: No-code form builder used in the DoktorLib Automation Pipeline for DSGVO-compliant data collection from Arztpraxen; EU-hosted in Belgium
+summary: No-Code-Formularbuilder, der in der DoktorLib Automation Pipeline zur DSGVO-konformen Datenerfassung von Arztpraxen eingesetzt wird; EU-gehostet in Belgien
 ---
 
 # Tally
 
-## Overview
+## Überblick
 
-**Tally** is a no-code form builder used in the [[DoktorLib Automation Pipeline]] as the primary data collection layer for inbound leads (Arztpraxen). It serves two distinct form functions in the pipeline:
+**Tally** ist ein No-Code-Formularbuilder, der in der [[DoktorLib Automation Pipeline]] als primäre Datenerfassungsschicht für eingehende Leads (Arztpraxen) verwendet wird. Im Pipeline-Prozess übernimmt er zwei unterschiedliche Formularfunktionen:
 
-1. **Intake Form** — collects practice base data from the lead *before* the Demo Call
-2. **IT Audit Form** — a separate form completed by the IT partner post-demo
+1. **Intake-Formular** — erfasst die Stammdaten der Praxis vom Lead *vor* dem Demo-Call
+2. **IT-Audit-Formular** — ein separates Formular, das vom IT-Partner nach der Demo ausgefüllt wird
 
-## Why Tally Was Chosen
+## Warum Tally gewählt wurde
 
-- **DSGVO-konform:** Compliant with GDPR regulations
-- **EU-Hosting:** Servers located in Belgium → satisfies EU data residency requirements
-- **No patient data risk:** Only captures Praxisstruktur data (practice structure, not patient records)
-- **No-code:** Enables form building without developer involvement
+- **DSGVO-konform:** Entspricht den Anforderungen der Datenschutz-Grundverordnung
+- **EU-Hosting:** Server befinden sich in Belgien → erfüllt die EU-Anforderungen zur Datenhaltung
+- **Kein Patientendatenrisiko:** Erfasst ausschließlich Praxisstrukturdaten (keine Patientenakten)
+- **No-Code:** Ermöglicht die Formularerstellung ohne Entwicklerbeteiligung
 
-## Role in Pipeline
+## Rolle in der Pipeline
 
 ```
-[TALLY Intake Form] → [MAKE] → Salesforce + Notion
-[TALLY IT Audit Form] → [MAKE] → Salesforce + Notion
+[TALLY Intake-Formular] → [MAKE] → Salesforce + Notion
+[TALLY IT-Audit-Formular] → [MAKE] → Salesforce + Notion
 ```
 
-Tally acts as the **input layer**; [[Make]] routes the data downstream.
+Tally fungiert als **Eingabeschicht**; [[Make]] leitet die Daten nachgelagert weiter.
 
-## Integration Points
+## Integrationspunkte
 
-| Downstream Tool | How Connected |
+| Nachgelagertes Tool | Art der Verbindung |
 |---|---|
-| [[Make]] | Trigger: Form submission fires Make scenario |
-| [[Salesforce]] | Via Make: creates/updates Lead or Opportunity |
-| [[Notion]] | Via Make: creates new DB page |
+| [[Make]] | Auslöser: Formularübermittlung startet Make-Szenario |
+| [[Salesforce]] | Über Make: erstellt/aktualisiert Lead oder Opportunity |
+| [[Notion]] | Über Make: erstellt neue Datenbankseite |
 
-## Fields Planned for Intake Form
+## Geplante Felder im Intake-Formular
 
-(as of source document — not yet finalized)
+(Stand Quelldokument — noch nicht finalisiert)
 - Praxistyp (practice type)
 - Fachrichtung (medical specialty)
 - Aktuelle Software (current software)
@@ -51,11 +51,11 @@ Tally acts as the **input layer**; [[Make]] routes the data downstream.
 - IT-Infrastruktur
 - Gerätelandschaft (device landscape)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[DoktorLib Automation Pipeline]] — primary use context
-- [[DoktorLib Automation Pipeline Source Detail]] — full source
-- [[Make]] — automation middleware triggered by Tally
-- [[Salesforce]] — downstream data target
-- [[Notion]] — downstream project layer
-- [[DoktorLib]] — organization using Tally
+- [[DoktorLib Automation Pipeline]] — primärer Nutzungskontext
+- [[DoktorLib Automation Pipeline Source Detail|DoktorLib Automation Pipeline Quelldetail]] — vollständige Quelle
+- [[Make]] — Automatisierungs-Middleware, ausgelöst durch Tally
+- [[Salesforce]] — nachgelagertes Datenziel
+- [[Notion]] — nachgelagerte Projektebene
+- [[DoktorLib]] — Organisation, die Tally verwendet

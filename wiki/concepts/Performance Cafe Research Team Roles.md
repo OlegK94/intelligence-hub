@@ -1,29 +1,29 @@
 ---
-title: Performance Cafe Research Team Roles
+title: Performance Café Forschungsteam-Rollen
 type: concept
 tags: [performance-cafe, research, methodology, roles, LON, ING, COF, MKT, PRO, REG, longevity, food-science, regulatory, market-analysis]
 sources: ["raw/Business/PerformanceCafe/research/00_master_brief.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Six interdisciplinary research team roles defined for Performance Coffee Brand research — LON (Longevity), ING (Food Science), COF (Coffee/Q-Grader), MKT (Market), PRO (Prototype), REG (Regulatory) — each tags specific research outputs
+summary: Sechs interdisziplinäre Forschungsteam-Rollen für die Performance Coffee Brand-Recherche — LON (Longevity), ING (Lebensmittelwissenschaft), COF (Kaffee/Q-Grader), MKT (Markt), PRO (Prototyp), REG (Regulatorik) — jede Rolle kennzeichnet spezifische Forschungsergebnisse
 ---
 
-# Performance Café — Research Team Roles
+# Performance Café — Forschungsteam-Rollen
 
-## Overview
+## Überblick
 
-The [[Performance Cafe Master Brief Source Detail]] defines a **6-role interdisciplinary research team** for [[Performance Coffee Brand]]. Each role is tagged with a bracketed identifier that labels research outputs and ensures the appropriate expert lens is applied to each question.
+Das [[Performance Cafe Master Brief Source Detail]] definiert ein **interdisziplinäres Forschungsteam mit 6 Rollen** für [[Performance Coffee Brand]]. Jede Rolle ist mit einer Kennung in eckigen Klammern versehen, die Forschungsergebnisse beschriftet und sicherstellt, dass jede Frage aus der passenden Expertenperspektive betrachtet wird.
 
-Answers are required **in German**, direct, concrete, with source citations.
+Antworten sind **auf Deutsch** gefordert — direkt, konkret und mit Quellenangaben.
 
 ---
 
-## Role Definitions
+## Rollendefinitionen
 
 ### [LON] — Longevity-Wissenschaftler
-**Domain:** Aging biology, cellular mechanisms, biomarkers
+**Fachbereich:** Alterungsbiologie, zelluläre Mechanismen, Biomarker
 
-Key areas of expertise:
+Hauptkompetenzbereiche:
 - Aging-Biologie und die 12 Hallmarks of Aging (Lopez-Otin 2023)
 - Autophagie und Mitophagie
 - Mitochondriale Dysfunktion und -Therapien
@@ -31,14 +31,14 @@ Key areas of expertise:
 - Biomarker (NAD+, hs-CRP, HbA1c, ApoB, IGF-1)
 - Epidemiologie (Kaffee vs. Mortalität, J-Kurve)
 
-Primary modules: [[Performance Cafe Master Brief Source Detail#Modul 0 — Longevity-Wissenschaft|Modul 0]]
+Primäre Module: [[Performance Cafe Master Brief Source Detail#Modul 0 — Longevity-Wissenschaft|Modul 0]]
 
 ---
 
 ### [ING] — Lebensmittelwissenschaftler
-**Domain:** Ingredients, mechanisms, dosing, stability
+**Fachbereich:** Inhaltsstoffe, Mechanismen, Dosierung, Stabilität
 
-Key areas of expertise:
+Hauptkompetenzbereiche:
 - Inhaltsstoff-Wirkung und Mechanismus
 - Dosierungsprotokolle (klinisch validiert)
 - Thermische Stabilität bei 90°C (Kaffee-Extraktion)
@@ -46,14 +46,14 @@ Key areas of expertise:
 - EU Novel Food Status und EFSA Claims
 - Kosten pro Dosis (Bulk DE/EU)
 
-Primary modules: Modul 1 (Ingredienzen Database)
+Primäre Module: Modul 1 (Ingredienzen Database)
 
 ---
 
 ### [COF] — Kaffeespezialist / Q-Grader
-**Domain:** Coffee sourcing, roasting, extraction, synergies
+**Fachbereich:** Kaffee-Sourcing, Röstung, Extraktion, Synergien
 
-Key areas of expertise:
+Hauptkompetenzbereiche:
 - Bohnen-Varietäten (Robusta vs. Arabica; Vietnamese Robusta)
 - Röstgrade und Auswirkungen auf Bioaktivität (Chlorogensäure, Trigonellin)
 - Extraktionsmethoden (Cold Brew, Espresso, Freeze-Dried Instant, Spray-Dried)
@@ -61,58 +61,58 @@ Key areas of expertise:
 - Sourcing-Netzwerke in Vietnam (Buôn Ma Thuột, Dak Lak)
 - Qualitätskontrolle und Cupping-Standards
 
-Primary modules: Modul 2 (Kaffee-Spezifikation)
+Primäre Module: Modul 2 (Kaffee-Spezifikation)
 
 ---
 
-### [MKT] — Market Analyst
-**Domain:** Market sizing, competitive analysis, positioning, pricing
+### [MKT] — Marktanalyst
+**Fachbereich:** Marktgröße, Wettbewerbsanalyse, Positionierung, Preisgestaltung
 
-Key areas of expertise:
+Hauptkompetenzbereiche:
 - Marktgröße (Functional Beverage, Longevity Supplements, DACH)
 - Wettbewerbsanalyse (Four Sigmatic, RYZE, Blueprint, Timeline)
-- Positioning Matrix (Performance × Longevity quadrant)
+- Positioning Matrix (Performance × Longevity Quadrant)
 - Pricing-Benchmarks (Blueprint 1,63€/Portion, Timeline 3,30€/Portion)
 - Biohacking Community (Größe, Kanäle, Wachstum)
 - Go-to-Market Sequenz und Channel-Strategie
 
-Primary modules: Modul 3 (Marktanalyse)
+Primäre Module: Modul 3 (Marktanalyse)
 
 ---
 
 ### [PRO] — Prototyp-Stratege
-**Domain:** CMO partners, labs, timelines, formulation challenges
+**Fachbereich:** CMO-Partner, Labore, Zeitpläne, Formulierungsherausforderungen
 
-Key areas of expertise:
-- Contract Manufacturer identification (DACH + EU)
-- Technische Herausforderungen je Stoff (NAC-Maskierung, CoQ10, etc.)
-- Analyse-Labore (akkreditiert, DACH)
+Hauptkompetenzbereiche:
+- Identifikation von Contract Manufacturern (DACH + EU)
+- Technische Herausforderungen je Stoff (NAC-Maskierung, CoQ10 etc.)
+- Analyselabore (akkreditiert, DACH)
 - Entwicklungs-Zeitplan (Briefing bis Pilot-Batch)
 - Expertennetzwerk (Flavorist, Lebensmitteltechnologe, Q-Grader)
 
-Primary modules: Modul 4 (Prototyp-Partner)
-See also: [[CMO Sourcing Performance Coffee]]
+Primäre Module: Modul 4 (Prototyp-Partner)
+Siehe auch: [[CMO Sourcing Performance Coffee]]
 
 ---
 
 ### [REG] — Regulatory Affairs
-**Domain:** EU regulations, Novel Food, EFSA, health claims, IP
+**Fachbereich:** EU-Regulierung, Novel Food, EFSA, Health Claims, IP
 
-Key areas of expertise:
+Hauptkompetenzbereiche:
 - EU Novel Food Regulation (Verordnung (EU) 2015/2283)
 - EFSA Health Claims Dossiers
-- BfR (Bundesinstitut für Risikobewertung) guidance
-- Patent landscape ([[Amazentis]], [[Chromadex / Niagen Bioscience]], NMN)
-- Lebensmittel vs. NEM (Nahrungsergänzungsmittel) classification
+- BfR (Bundesinstitut für Risikobewertung) Leitlinien
+- Patentlandschaft ([[Amazentis]], [[Chromadex / Niagen Bioscience]], NMN)
+- Lebensmittel vs. NEM (Nahrungsergänzungsmittel) Klassifizierung
 - Zertifizierungs-Roadmap ([[Kölner Liste]], Informed Sport, NSF)
 
-Primary modules: Modul 5 (Regulatorik + IP), Modul 8 (IP & Legal Entity)
+Primäre Module: Modul 5 (Regulatorik + IP), Modul 8 (IP & Legal Entity)
 
 ---
 
-## Role Assignment by Module
+## Rollenzuordnung nach Modul
 
-| Module | Primary Role | Supporting Roles |
+| Modul | Primäre Rolle | Unterstützende Rollen |
 |---|---|---|
 | 0 — Longevity Science | [LON] | [ING] |
 | 1 — Ingredienzen DB | [ING] | [LON], [REG] |
@@ -126,11 +126,11 @@ Primary modules: Modul 5 (Regulatorik + IP), Modul 8 (IP & Legal Entity)
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Master Brief Source Detail]] — full source with all module details
-- [[Performance Coffee Brand]] — project entity
-- [[CMO Sourcing Performance Coffee]] — [PRO] role output
-- [[EU Novel Food Regulation]] — [REG] domain
-- [[Amazentis]] — [REG] IP analysis
-- [[Longevity Stack Ingredients]] — [LON] + [ING] domain
+- [[Performance Cafe Master Brief Source Detail]] — vollständige Quelle mit allen Moduldetails
+- [[Performance Coffee Brand]] — Projekteinheit
+- [[CMO Sourcing Performance Coffee]] — Ergebnis der [PRO]-Rolle
+- [[EU Novel Food Regulation]] — Fachbereich [REG]
+- [[Amazentis]] — IP-Analyse [REG]
+- [[Longevity Stack Ingredients]] — Fachbereich [LON] + [ING]

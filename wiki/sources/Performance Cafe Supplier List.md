@@ -1,54 +1,54 @@
 ---
-title: Performance Cafe Supplier List
+title: Performance Cafe Lieferantenliste
 type: source
 tags: [performance-cafe, suppliers, CMO, ingredients, labs, flavorists, ops, DACH, manufacturing, rohstoffe, kaffee, NMN, spermidine, NAC, astaxanthin, CoQ10]
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Complete supplier list for Performance Coffee Brand — 7 CMO candidates (DACH + EU), 4 coffee raw material suppliers, 12 functional ingredient suppliers with prices/kg, 2 packaging suppliers, 3 analysis laboratories, and 3 flavorist firms for NAC odor masking
+summary: Vollständige Lieferantenliste für die Performance Coffee Brand — 7 CMO-Kandidaten (DACH + EU), 4 Kaffee-Rohstofflieferanten, 12 Funktionszutatenlieferanten mit Preisen/kg, 2 Verpackungslieferanten, 3 Analyselabore und 3 Flavorist-Firmen für NAC-Geruchsmaskierung
 ---
 
-# Performance Cafe — Supplier List (Source Detail)
+# Performance Cafe — Lieferantenliste (Quelldokument)
 
-## Overview
+## Überblick
 
-This source document (status: fertig, modul: ops, date: 2026-06-15) is the master supplier reference for [[Performance Coffee Brand]]. It covers four supply chain categories: contract manufacturers, raw material suppliers, analysis laboratories, and flavorist firms.
+Dieses Quelldokument (Status: fertig, Modul: ops, Datum: 2026-06-15) ist die zentrale Lieferantenreferenz für [[Performance Coffee Brand]]. Es umfasst vier Lieferkettenkategorien: Lohnhersteller, Rohstofflieferanten, Analyselabore und Flavorist-Firmen.
 
-> For the CMO evaluation framework and outreach status, see [[CMO Sourcing Performance Coffee]].
-> For the CMO email templates, see [[CMO Erstkontakt Email Template]].
-> For ingredient IP landscape, see [[Performance Café IP Landscape Modul 8]].
+> Zum CMO-Bewertungsrahmen und Kontaktstatus siehe [[CMO Sourcing Performance Coffee]].
+> Zu den CMO-E-Mail-Vorlagen siehe [[CMO Erstkontakt Email Template]].
+> Zur Zutatenschutzrechtslandschaft siehe [[Performance Café IP Landscape Modul 8]].
 
 ---
 
 ## A) Contract Manufacturers (CMOs) — DACH + EU
 
-### Sofort kontaktieren ("Contact immediately")
+### Sofort kontaktieren
 
 | Firma | Land | Spezialisierung | Zertifizierungen |
 |---|---|---|---|
 | **[[Queisser Pharma]]** | DE (Flensburg) | NEM, Sachets, Pulver | ISO 22000, GMP |
 | **[[Herbafit]]** | DE (Düsseldorf) | Functional Food, Pulver-Sachets | IFS Food |
-| **[[Prinova]]** | DE (Düsseldorf) | Ingredient + Custom Formulation | FSSC 22000 |
-| **[[Lehvoss Nutrition]]** | DE (Hamburg) | Bulk + Custom Formulation | ISO 22000 |
+| **[[Prinova]]** | DE (Düsseldorf) | Zutat + kundenspezifische Formulierung | FSSC 22000 |
+| **[[Lehvoss Nutrition]]** | DE (Hamburg) | Bulk + kundenspezifische Formulierung | ISO 22000 |
 | **[[Aidea]]** | IT (Mailand) | Functional Drinks, Sachets, RTD | GMP, Halal |
 | **[[Nutri-Epitech]]** | IT | Longevity-Stack, kleine MOQ | GMP |
 | **[[ESB Naturkost]]** | DE | Kleine MOQs, BIO-konform | BIO |
 
-### Critical CMO Requirements
+### Kritische CMO-Anforderungen
 
 - Stick-Pack/Sachet Abfüllung (8–12g)
 - Kaffee-Instant + Functional Ingredients kombiniert
-- **Schutzgas-Versiegelung** (N₂ for NMN/NR stability) — see [[Schutzgas-Versiegelung]]
-- Flavorist-Zugang (NAC-Geruchsmaskierung) — see [[Flavorist Services Performance Coffee]]
-- [[Kölner Liste]]-ready or Informed-Sport certified
+- **Schutzgas-Versiegelung** (N₂ für NMN/NR-Stabilität) — siehe [[Schutzgas-Versiegelung]]
+- Flavorist-Zugang (NAC-Geruchsmaskierung) — siehe [[Flavorist Services Performance Coffee]]
+- [[Kölner Liste]]-ready oder Informed-Sport zertifiziert
 
-> **Note:** The [[CMO Erstkontakt Email Template]] prioritizes 5 of these 7 CMOs — Prinova (1), Lehvoss (2), Nutri-Epitech (3), Aidea (4), Herbafit (5). Queisser Pharma and ESB Naturkost appear only in this supplier list, not in the outreach priority list.
+> **Hinweis:** Das [[CMO Erstkontakt Email Template]] priorisiert 5 dieser 7 CMOs — Prinova (1), Lehvoss (2), Nutri-Epitech (3), Aidea (4), Herbafit (5). Queisser Pharma und ESB Naturkost erscheinen nur in dieser Lieferantenliste, nicht in der Kontaktprioritätsliste.
 
 ---
 
-## B) Rohstoff-Lieferanten (Raw Material Suppliers)
+## B) Rohstoff-Lieferanten
 
-### Coffee Base
+### Kaffeebasis
 
 | Lieferant | Standort | Besonderheit |
 |---|---|---|
@@ -57,7 +57,7 @@ This source document (status: fertig, modul: ops, date: 2026-06-15) is the maste
 | **Coffee Circle B2B** | Berlin | Specialty, direkte Produzenten |
 | **Trung Nguyen Export** | Vietnam (Dak Lak) | Hoher Koffeingehalt Robusta, Direktimport |
 
-**Note on Robusta:** Two suppliers (Sievert Storey, Trung Nguyen) focus on **Vietnamese Robusta** from Dak Lak province. Robusta contains significantly more caffeine than Arabica (~2× the caffeine content), making it strategically relevant for the [[Performance Coffee Brand]] "high-performance" caffeine profile.
+**Hinweis zu Robusta:** Zwei Lieferanten (Sievert Storey, Trung Nguyen) konzentrieren sich auf **vietnamesischen Robusta** aus der Provinz Dak Lak. Robusta enthält deutlich mehr Koffein als Arabica (~2× der Koffeingehalt), was ihn für das "High-Performance"-Koffeinprofil der [[Performance Coffee Brand]] strategisch relevant macht.
 
 ### Functional Ingredients
 
@@ -70,24 +70,24 @@ This source document (status: fertig, modul: ops, date: 2026-06-15) is the maste
 | Kreatin | **Alzchem (Creapure)** | DE-Hersteller | 14–18 € |
 | Taurin | **Taurine Pharma** | Food Grade | 10–14 € |
 | NMN | **Longevir / Effepharm** | FSSC 22000, EU | 900–1.200 € |
-| Spermidine | **TLL Pharma** | Weizenkeimextrakt | 700–900 € |
+| Spermidin | **TLL Pharma** | Weizenkeimextrakt | 700–900 € |
 | NAC | **BASF / Sigma** | Pharma-Grade | 25–35 € |
 | Curcumin | **Indena (Meriva)** | Mizellar, patentiert | 130–160 € |
 | Astaxanthin | **AstaReal / Cyanotech** | Natürlich, Haematococcus | 800–1.000 € |
 | CoQ10 | **Kaneka** | Ubiquinol, reinst | 350–450 € |
 
-#### Price Summary — COGS Implications
+#### Preisübersicht — COGS-Auswirkungen
 
-| Cost Tier | Ingredients | Price Range |
+| Kostenstufe | Zutaten | Preisspanne |
 |---|---|---|
-| **Low** (<20 €/kg) | Kreatin (Creapure), Taurin | 10–18 €/kg |
-| **Medium** (20–100 €/kg) | NAC, L-Theanin, Ashwagandha, Lion's Mane | 25–90 €/kg |
-| **High** (100–500 €/kg) | Alpha-GPC, Curcumin, CoQ10 | 110–450 €/kg |
-| **Premium** (>500 €/kg) | NMN, Spermidine, Astaxanthin | 700–1.200 €/kg |
+| **Niedrig** (<20 €/kg) | Kreatin (Creapure), Taurin | 10–18 €/kg |
+| **Mittel** (20–100 €/kg) | NAC, L-Theanin, Ashwagandha, Lion's Mane | 25–90 €/kg |
+| **Hoch** (100–500 €/kg) | Alpha-GPC, Curcumin, CoQ10 | 110–450 €/kg |
+| **Premium** (>500 €/kg) | NMN, Spermidin, Astaxanthin | 700–1.200 €/kg |
 
-**COGS impact:** The Tier-1 stack (L-Theanin, Alpha-GPC, Lion's Mane, Ashwagandha, Kreatin, Taurin) sits in the Low–Medium range and is commercially viable. The longevity/Tier-2 ingredients (NMN, Spermidine, Astaxanthin, CoQ10) are in the Premium range and would significantly impact COGS if included at clinical doses.
+**COGS-Auswirkung:** Der Tier-1-Stack (L-Theanin, Alpha-GPC, Lion's Mane, Ashwagandha, Kreatin, Taurin) liegt im Niedrig-bis-Mittel-Bereich und ist kommerziell tragfähig. Die Longevity/Tier-2-Zutaten (NMN, Spermidin, Astaxanthin, CoQ10) befinden sich im Premium-Bereich und würden die COGS bei klinischen Dosierungen erheblich beeinflussen.
 
-### Packaging
+### Verpackung
 
 | Produkt | Lieferant | Spezifikation |
 |---|---|---|
@@ -96,7 +96,7 @@ This source document (status: fertig, modul: ops, date: 2026-06-15) is the maste
 
 ---
 
-## C) Analysis Laboratories
+## C) Analyselabore
 
 | Labor | Standort | Tests | Akkreditierung |
 |---|---|---|---|
@@ -104,20 +104,20 @@ This source document (status: fertig, modul: ops, date: 2026-06-15) is the maste
 | **Eurofins** | DE (Hamburg) | Mikrobiologie, Inhaltsstoffe | ISO 17025 |
 | **Tentamus Group** | Berlin | NEM, Functional Food | ISO 17025 |
 
-### Mandatory Pre-Launch Tests
+### Pflichtprüfungen vor dem Launch
 
-Per source document — all required before product launch:
-1. **Mikrobiologie** — microbial safety
-2. **Schwermetalle** — heavy metals
-3. **Inhaltsstoffgehalt (HPLC)** — active ingredient verification
-4. **Pestizide** — pesticide residues
-5. **Haltbarkeit (18 Monate)** — 18-month shelf-life stability study
+Gemäß Quelldokument — alle vor dem Produktlaunch erforderlich:
+1. **Mikrobiologie** — mikrobiologische Sicherheit
+2. **Schwermetalle** — Schwermetallanalytik
+3. **Inhaltsstoffgehalt (HPLC)** — Verifizierung der Wirkstoffe
+4. **Pestizide** — Pestizidrückstände
+5. **Haltbarkeit (18 Monate)** — Stabilitätsstudie über 18 Monate
 
-> ⚠️ **Shelf-life testing (18 months)** is time-critical — must begin before launch. If launched at Month 0, the 18-month stability study would not complete until Month 18. This is a standard industry challenge; accelerated stability testing (AST) at elevated temperature/humidity may be used to predict shelf life faster.
+> ⚠️ **Haltbarkeitsprüfung (18 Monate)** ist zeitkritisch — muss vor dem Launch beginnen. Wird zum Zeitpunkt Monat 0 gestartet, ist die 18-monatige Stabilitätsstudie erst in Monat 18 abgeschlossen. Dies ist eine branchenübliche Herausforderung; beschleunigte Stabilitätsprüfungen (AST) bei erhöhter Temperatur/Luftfeuchtigkeit können genutzt werden, um die Haltbarkeit schneller vorherzusagen.
 
 ---
 
-## D) Flavorists — NAC Odor Masking
+## D) Flavoristen — NAC-Geruchsmaskierung
 
 | Firma | Land | Expertise |
 |---|---|---|
@@ -125,63 +125,63 @@ Per source document — all required before product launch:
 | **Symrise** | DE (Holzminden) | Functional Beverage |
 | **IFF** | DE/NL | Bitterness Masking Systems |
 
-### Technical Brief: NAC Masking Challenge
+### Technisches Briefing: NAC-Maskierungsherausforderung
 
-**Problem:** 300mg NAC in a 10g Kaffee-Sachet produces a sulfur/eggy odor (from the thiol group in N-Acetyl-Cysteine).
+**Problem:** 300mg NAC in einem 10g Kaffee-Sachet erzeugt einen schwefeligen/eierähnlichen Geruch (durch die Thiolgruppe im N-Acetyl-Cystein).
 
-**Recommended Solution (from source):**
+**Empfohlene Lösung (aus Quelldokument):**
 > *Cyclodextrine + Vanillin-Maskierung + Röstaromen*
-- **Cyclodextrins:** Encapsulate the odor-active thiol compounds inside their ring structure
-- **Vanillin:** Sweet, pleasant counterbalancing aroma
-- **Röstaromen (roast aromas):** Coffee roast notes mask the sulfur notes naturally
-- **Process:** Flavorist must test with actual prototype sachet
+- **Cyclodextrine:** Kapseln die geruchsaktiven Thiolverbindungen in ihrer Ringstruktur ein
+- **Vanillin:** Süßes, angenehmes Gegenaroma
+- **Röstaromen:** Kaffeeröstaromen maskieren die Schwefelgerüche auf natürliche Weise
+- **Prozess:** Flavorist muss mit tatsächlichem Prototyp-Sachet testen
 
-> ⚠️ **Contradiction Note (NAC in Stack):** This document places NAC explicitly in a sachet at 300mg. The [[CMO Erstkontakt Email Template]] also mentions NAC masking. However, NAC does not appear in the Tier-1 stack definition in [[Performance Coffee Brand Hai Onepager]]. Possible interpretations: (a) NAC is a Tier-2/future ingredient; (b) it was in an early draft stack; (c) it is being considered but not yet finalized. The supplier list's inclusion of NAC with BASF/Sigma as recommended suppliers and a masking brief suggests it is actively under development consideration, even if not in the published Tier-1 stack.
+> ⚠️ **Widerspruchshinweis (NAC im Stack):** Dieses Dokument ordnet NAC explizit mit 300mg einem Sachet zu. Das [[CMO Erstkontakt Email Template]] erwähnt ebenfalls NAC-Maskierung. NAC erscheint jedoch nicht in der Tier-1-Stack-Definition im [[Performance Coffee Brand Hai Onepager]]. Mögliche Interpretationen: (a) NAC ist eine Tier-2/zukünftige Zutat; (b) es war in einem frühen Entwurfs-Stack enthalten; (c) es wird erwogen, aber noch nicht finalisiert. Die Aufnahme von NAC in die Lieferantenliste mit BASF/Sigma als empfohlenen Lieferanten und einem Maskierungs-Briefing legt nahe, dass es aktiv in Entwicklung erwogen wird, auch wenn es nicht im veröffentlichten Tier-1-Stack erscheint.
 
 ---
 
-## Integration Notes
+## Integrationshinweise
 
-### Relationship to Other Modules
+### Beziehung zu anderen Modulen
 
-| Module | Connection to Supplier List |
+| Modul | Verbindung zur Lieferantenliste |
 |---|---|
-| [[CMO Sourcing Performance Coffee]] | A-list CMOs are ranked differently (Prinova #1 vs. Queisser not in email list) |
-| [[CMO Erstkontakt Email Template]] | Subsetting of this list (5 of 7 CMOs) |
-| [[Certification Roadmap Performance Coffee Brand]] | CMO cert requirements (GMP, Kölner Liste) |
-| [[Performance Café IP Landscape Modul 8]] | Suntheanine (L-Theanin) has different IP status than NMN — this list sources accordingly |
-| [[Performance Coffee Brand COGS Model]] | Ingredient prices enable COGS calculation per sachet |
+| [[CMO Sourcing Performance Coffee]] | A-Listen-CMOs werden unterschiedlich bewertet (Prinova #1 vs. Queisser nicht in E-Mail-Liste) |
+| [[CMO Erstkontakt Email Template]] | Teilmenge dieser Liste (5 von 7 CMOs) |
+| [[Certification Roadmap Performance Coffee Brand]] | CMO-Zertifizierungsanforderungen (GMP, Kölner Liste) |
+| [[Performance Café IP Landscape Modul 8]] | Suntheanine (L-Theanin) hat einen anderen IP-Status als NMN — diese Liste berücksichtigt das entsprechend |
+| [[Performance Coffee Brand COGS Model]] | Zutatenpreise ermöglichen die COGS-Berechnung pro Sachet |
 
-### Supplier Redundancy Strategy
+### Lieferantenredundanzstrategie
 
-The source names **multiple suppliers per ingredient category** — particularly:
-- Two coffee suppliers focusing on Vietnamese Robusta (Sievert Storey + Trung Nguyen) — dual-source capability
-- Two NMN suppliers (Longevir + Effepharm) — single-source risk mitigation
-- Two astaxanthin suppliers (AstaReal + Cyanotech) — dual-source
-- Three analysis labs — redundancy for testing
+Die Quelle nennt **mehrere Lieferanten pro Zutatenkategorie** — insbesondere:
+- Zwei Kaffeelieferanten mit Fokus auf vietnamesischen Robusta (Sievert Storey + Trung Nguyen) — Dual-Source-Fähigkeit
+- Zwei NMN-Lieferanten (Longevir + Effepharm) — Risikominimierung bei Einzelbezug
+- Zwei Astaxanthin-Lieferanten (AstaReal + Cyanotech) — Dual-Source
+- Drei Analyselabore — Redundanz für Prüfungen
 
-This is a professional supply chain design indicating awareness of single-source risk.
+Dies ist ein professionelles Lieferkettendesign, das auf Bewusstsein für Einzelquellen-Risiken hindeutet.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — CMO evaluation and outreach status
-- [[CMO Erstkontakt Email Template]] — outreach templates
-- [[Performance Coffee Brand]] — project entity
-- [[Queisser Pharma]] — CMO entity
-- [[Herbafit]] — CMO entity
-- [[Prinova]] — CMO entity
-- [[Lehvoss Nutrition]] — CMO entity
-- [[Aidea]] — CMO entity
-- [[Nutri-Epitech]] — CMO entity
-- [[ESB Naturkost]] — CMO entity
-- [[Constantia Flexibles]] — packaging entity
-- [[Ingredient Suppliers Performance Coffee]] — ingredient supplier entity
-- [[Flavorist Services Performance Coffee]] — flavorist concept
-- [[Schutzgas-Versiegelung]] — sealing concept
-- [[Kölner Liste]] — certification requirement
-- [[L-Theanin]] — Tier-1 ingredient (Suntheanine/Taiyo)
-- [[Alpha-GPC]] — Tier-1 ingredient (Chemi Nutra)
-- [[Ashwagandha KSM-66]] — Tier-1 ingredient (Ixoreal/KSM-66)
-- [[Certification Roadmap Performance Coffee Brand]] — certification roadmap
+- [[CMO Sourcing Performance Coffee]] — CMO-Bewertung und Kontaktstatus
+- [[CMO Erstkontakt Email Template]] — Kontaktvorlagen
+- [[Performance Coffee Brand]] — Projektentität
+- [[Queisser Pharma]] — CMO-Entität
+- [[Herbafit]] — CMO-Entität
+- [[Prinova]] — CMO-Entität
+- [[Lehvoss Nutrition]] — CMO-Entität
+- [[Aidea]] — CMO-Entität
+- [[Nutri-Epitech]] — CMO-Entität
+- [[ESB Naturkost]] — CMO-Entität
+- [[Constantia Flexibles]] — Verpackungsentität
+- [[Ingredient Suppliers Performance Coffee]] — Zutatenlieferanten-Entität
+- [[Flavorist Services Performance Coffee]] — Flavorist-Konzept
+- [[Schutzgas-Versiegelung]] — Versiegelungskonzept
+- [[Kölner Liste]] — Zertifizierungsanforderung
+- [[L-Theanin]] — Tier-1-Zutat (Suntheanine/Taiyo)
+- [[Alpha-GPC]] — Tier-1-Zutat (Chemi Nutra)
+- [[Ashwagandha KSM-66]] — Tier-1-Zutat (Ixoreal/KSM-66)
+- [[Certification Roadmap Performance Coffee Brand]] — Zertifizierungs-Roadmap

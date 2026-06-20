@@ -5,20 +5,20 @@ tags: [aufgaben, P0, kritisch, finanzen, wagglz, rangrücktritt, inso, steuern, 
 sources: ["raw/Privat/Finanzen/Aufgaben/P0 Sofort.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Oleg's P0 critical task list — two open items with hard legal/financial deadlines (Rangrücktritt Wagglz by 2026-06-15, Vollständigkeitserklärung SP STB by 2026-06-20); personal liability risk under §15a InsO if delayed
+summary: Olegs P0-Kritisch-Aufgabenliste — zwei offene Punkte mit harten rechtlichen/finanziellen Fristen (Rangrücktritt Wagglz bis 2026-06-15, Vollständigkeitserklärung SP STB bis 2026-06-20); persönliches Haftungsrisiko nach §15a InsO bei Verzögerung
 ---
 
 # P0 Sofortmaßnahmen
 
-## Overview
+## Überblick
 
-**P0 Sofortmaßnahmen** are [[Oleg Personal Context|Oleg]]'s highest-priority tasks — those with **legal or financial consequences** upon delay. As of 2026-06-12, two items remain open and must be resolved within days.
+**P0 Sofortmaßnahmen** sind [[Oleg Personal Context|Olegs]] Aufgaben höchster Priorität — solche mit **rechtlichen oder finanziellen Konsequenzen** bei Verzögerung. Stand 2026-06-12 sind zwei Punkte offen und müssen innerhalb weniger Tage erledigt werden.
 
-> For the full source detail including completed items, see [[P0 Sofortmaßnahmen Source Detail]].
+> Für alle Quellendetails einschließlich erledigter Punkte siehe [[P0 Sofortmaßnahmen Source Detail]].
 
 ---
 
-## 🔴 Open — Critical Deadlines
+## 🔴 Offen — Kritische Fristen
 
 ### 1. Rangrücktritt Wagglz unterschreiben
 
@@ -30,9 +30,9 @@ summary: Oleg's P0 critical task list — two open items with hard legal/financi
 | **Betrag** | 27.926,89 € (Fehlbetrag [[Wagglz GmbH]]) |
 | **Dokument** | Liegt bei [[SP STB]] vor |
 
-**What is a Rangrücktritt?** A subordination declaration by which a creditor (or shareholder acting as creditor) agrees to rank their claim behind all other creditors in an insolvency scenario. This prevents the company's balance sheet from showing over-indebtedness (*Überschuldung*) — which would otherwise trigger the §15a InsO obligation to file for insolvency.
+**Was ist ein Rangrücktritt?** Eine Nachrangigkeitserklärung, durch die ein Gläubiger (oder ein als Gläubiger auftretender Gesellschafter) zustimmt, seine Forderung im Insolvenzfall hinter alle anderen Gläubiger zurücktreten zu lassen. Dadurch wird verhindert, dass die Bilanz des Unternehmens eine Überschuldung ausweist — was andernfalls die Pflicht zur Insolvenzantragstellung nach §15a InsO auslösen würde.
 
-**Risk without signature:** As GF (Geschäftsführer) of [[Wagglz GmbH]], Oleg has a personal obligation to file for insolvency if the company is over-indebted or insolvent. Failure to do so within the statutory period is a criminal offense under German law. See [[Rangrücktritt §15a InsO]].
+**Risiko ohne Unterschrift:** Als GF (Geschäftsführer) der [[Wagglz GmbH]] ist Oleg persönlich verpflichtet, einen Insolvenzantrag zu stellen, wenn die Gesellschaft überschuldet oder zahlungsunfähig ist. Wird dies nicht innerhalb der gesetzlichen Frist getan, ist dies eine Straftat nach deutschem Recht. Siehe [[Rangrücktritt §15a InsO]].
 
 ### 2. Vollständigkeitserklärung SP STB unterschreiben
 
@@ -43,11 +43,11 @@ summary: Oleg's P0 critical task list — two open items with hard legal/financi
 | **Blockiert** | Jahresabschluss [[Wagglz GmbH]] |
 | **Kontakt** | [[SP STB]] |
 
-The Vollständigkeitserklärung (completeness declaration) is a standard declaration by the company's management confirming to the auditor/tax advisor that all relevant information has been provided. Without it, [[SP STB]] cannot complete the 2025 Jahresabschluss for [[Wagglz GmbH]].
+Die Vollständigkeitserklärung ist eine standardmäßige Erklärung der Unternehmensleitung gegenüber dem Prüfer/Steuerberater, mit der bestätigt wird, dass alle relevanten Informationen bereitgestellt wurden. Ohne diese Erklärung kann [[SP STB]] den Jahresabschluss 2025 der [[Wagglz GmbH]] nicht fertigstellen.
 
 ---
 
-## ✅ Recently Completed
+## ✅ Kürzlich Erledigt
 
 | Aufgabe | Datum |
 |---|---|
@@ -57,42 +57,42 @@ The Vollständigkeitserklärung (completeness declaration) is a standard declara
 
 ---
 
-## Context: Wagglz Financial Situation
+## Hintergrund: Finanzielle Lage Wagglz
 
-The two open P0 items both relate to [[Wagglz GmbH]]'s precarious financial situation:
-- **Fehlbetrag of 27.926,89 €** signals the company is in or near over-indebtedness
-- The Rangrücktritt is a mechanism to avoid triggering §15a InsO
-- The Jahresabschluss blockade delays formal confirmation of the financial position
-- This connects to the broader [[Wagglz GmbH]] wind-down or restructuring context
+Beide offenen P0-Punkte beziehen sich auf die prekäre finanzielle Situation der [[Wagglz GmbH]]:
+- **Fehlbetrag von 27.926,89 €** signalisiert, dass die Gesellschaft überschuldet ist oder sich nahe daran befindet
+- Der Rangrücktritt ist ein Mechanismus, um das Auslösen von §15a InsO zu vermeiden
+- Die Blockade des Jahresabschlusses verzögert die formelle Bestätigung der Vermögenslage
+- Dies steht im Zusammenhang mit dem übergeordneten Kontext der Abwicklung oder Restrukturierung der [[Wagglz GmbH]]
 
-> ⚠️ **Legal Risk:** Both deadlines (June 15 and June 20) are extremely tight as of the source date (June 12). The Rangrücktritt deadline in particular carries criminal liability risk — this is not a routine compliance task.
+> ⚠️ **Rechtliches Risiko:** Beide Fristen (15. und 20. Juni) sind zum Quelldatum (12. Juni) äußerst knapp. Die Frist für den Rangrücktritt birgt insbesondere ein strafrechtliches Haftungsrisiko — dies ist keine Routineaufgabe zur Compliance.
 
 ---
 
-## Completed Financial Housekeeping (Context)
+## Erledigte Finanzangelegenheiten (Kontext)
 
-### Consorsbank 260809254 — Closed
-A separate Consorsbank account (reference 260809254) had a small outstanding balance of **11,32 €** which was paid and the account closed on 2026-06-12. Note: This is a **different account** from the main [[Consorsbank Girokonto 0250120493]] (saldo +971,67 €).
+### Consorsbank 260809254 — Geschlossen
+Ein separates Consorsbank-Konto (Referenz 260809254) hatte einen kleinen offenen Saldo von **11,32 €**, der bezahlt und das Konto am 2026-06-12 aufgelöst wurde. Hinweis: Dies ist ein **anderes Konto** als das Haupt-[[Consorsbank Girokonto 0250120493]] (Saldo +971,67 €).
 
-### FA Steuerrückstände — Cleared
-All outstanding **Finanzamt tax arrears** were fully paid at some point in 2026. This resolves what may have been an open liability in previous P0 lists.
+### FA Steuerrückstände — Beglichen
+Alle offenen **Finanzamt-Steuerrückstände** wurden irgendwann im Jahr 2026 vollständig bezahlt. Damit wird eine möglicherweise offene Verbindlichkeit aus früheren P0-Listen aufgelöst.
 
-### VW-Kredit — Confirmed
+### VW-Kredit — Bestätigt
 - **Restschuld:** 18.858 €
 - **Laufzeit:** bis November 2028
-- Confirmed and documented as of 2026-06-12
-- See [[VW Kredit]] for the vehicle financing entity page
+- Stand 2026-06-12 bestätigt und dokumentiert
+- Siehe [[VW Kredit]] für die Entitätsseite zur Fahrzeugfinanzierung
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[P0 Sofortmaßnahmen Source Detail]] — full source document
-- [[Wagglz GmbH]] — company at center of both open P0 items
-- [[Rangrücktritt §15a InsO]] — legal concept for the subordination declaration
-- [[SP STB]] — Steuerberater holding documents and needing signature
-- [[ESt 2025]] — parallel tax filing context
-- [[VW Kredit]] — vehicle loan confirmed as completed item
-- [[Consorsbank Girokonto 0250120493]] — main account (distinct from closed 260809254)
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — GF and task owner
+- [[P0 Sofortmaßnahmen Source Detail]] — vollständiges Quelldokument
+- [[Wagglz GmbH]] — Gesellschaft im Mittelpunkt beider offener P0-Punkte
+- [[Rangrücktritt §15a InsO]] — rechtliches Konzept der Nachrangigkeitserklärung
+- [[SP STB]] — Steuerberater, der die Dokumente hält und die Unterschrift benötigt
+- [[ESt 2025]] — paralleler Kontext zur Steuererklärung
+- [[VW Kredit]] — bestätigter Fahrzeugkredit als erledigter Punkt
+- [[Consorsbank Girokonto 0250120493]] — Hauptkonto (verschieden vom geschlossenen Konto 260809254)
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — GF und Aufgabenverantwortlicher

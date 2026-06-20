@@ -1,34 +1,34 @@
 ---
-title: Hyrox Prep Source Detail
+title: Hyrox Vorbereitung Quelldokument-Detail
 type: source
 tags: [performance, hyrox, training, zone2, aerobic-capacity, conditioning, posture, whr, asymmetry, protokoll]
 sources: ["raw/Privat/Performance/_vault/Hyrox Prep.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Source document for Oleg's Hyrox competition preparation — Zone 2 as aerobic foundation, 12-week milestone plan, Hyrox station integration, posture correction protocol; weekly training schedule pending confirmation of available training days
+summary: Quelldokument für Olegs Hyrox-Wettkampfvorbereitung — Zone 2 als aerobe Grundlage, 12-Wochen-Meilensteinplan, Integration der Hyrox-Stationen, Haltungskorrekturprotokoll; wöchentlicher Trainingsplan ausstehend bis zur Bestätigung verfügbarer Trainingstage
 ---
 
-# Hyrox Prep — Source Detail
+# Hyrox Vorbereitung — Quelldokument-Detail
 
-## Overview
+## Überblick
 
-This source document (`raw/Privat/Performance/_vault/Hyrox Prep.md`, status: protokoll-ausstehend, created: 2026-06-13) captures the strategic framework and training structure for [[Oleg Personal Context|Oleg]]'s [[Hyrox Competition]] preparation. It is a sub-document of the [[Performance Overview]] system.
+Dieses Quelldokument (`raw/Privat/Performance/_vault/Hyrox Prep.md`, Status: protokoll-ausstehend, erstellt: 2026-06-13) erfasst den strategischen Rahmen und die Trainingsstruktur für [[Oleg Personal Context|Olegs]] [[Hyrox Competition|Hyrox-Wettkampfvorbereitung]]. Es ist ein Unterdokument des [[Performance Overview|Performance-Übersicht]]-Systems.
 
-> For the Hyrox entity summary page, see [[Hyrox Competition]].
-> For the broader performance context, see [[Performance Overview]] and [[Health Protocol Master]].
-> For the body composition baseline informing structural blockers, see [[3D Body Scan Scaneca Mai 2026]].
+> Zur Hyrox-Entitäts-Zusammenfassungsseite siehe [[Hyrox Competition]].
+> Zum übergeordneten Performance-Kontext siehe [[Performance Overview]] und [[Health Protocol Master]].
+> Zur körperkompositorischen Ausgangslage, die strukturelle Blocker beschreibt, siehe [[3D Body Scan Scaneca Mai 2026]].
 
-## Metadata
+## Metadaten
 
-| Field | Value |
+| Feld | Wert |
 |---|---|
-| Status | protokoll-ausstehend (weekly protocol pending) |
+| Status | protokoll-ausstehend (wöchentliches Protokoll ausstehend) |
 | Tags | performance, hyrox, training, zone2 |
-| Created | 2026-06-13 |
+| Erstellt | 2026-06-13 |
 
 ---
 
-## Wettkampf-Status (from Source)
+## Wettkampf-Status (aus Quelle)
 
 | Parameter | Detail |
 |---|---|
@@ -36,17 +36,17 @@ This source document (`raw/Privat/Performance/_vault/Hyrox Prep.md`, status: pro
 | Hauptlimitor | Aerobe Kapazität (selbstidentifiziert + Scan bestätigt) |
 | Strukturelle Blocker | WHR 0,92 + Forward Head Position + Asymmetrie |
 
-### Structural Blockers Cross-Reference
+### Querverweise zu strukturellen Blockern
 
-- **WHR 0.92:** Confirmed in [[3D Body Scan Scaneca Mai 2026]] — target <0.86; visceral fat distribution limits aerobic efficiency
-- **Forward Head Position:** 30° deviation per scan — see [[Forward Head Posture]]; limits breathing capacity
-- **Asymmetrie:** Rightward center of gravity shift per scan — see [[3D Body Scan Scaneca Mai 2026]]; unilateral compensation under Hyrox load
+- **WHR 0,92:** Bestätigt in [[3D Body Scan Scaneca Mai 2026]] — Zielwert <0,86; viszerale Fettverteilung begrenzt aerobe Effizienz
+- **Forward Head Position:** 30° Abweichung laut Scan — siehe [[Forward Head Posture]]; schränkt Atemkapazität ein
+- **Asymmetrie:** Rechtsseitige Schwerpunktverlagerung laut Scan — siehe [[3D Body Scan Scaneca Mai 2026]]; unilaterale Kompensation unter Hyrox-Belastung
 
 ---
 
-## Master Performance Protocol Status
+## Status des Master Performance Protocol
 
-The Master Protocol has been delivered and covers:
+Das Master Protocol wurde erstellt und umfasst:
 - Trainingsstruktur
 - Zone 2 Progression
 - Haltungskorrektur
@@ -55,7 +55,7 @@ The Master Protocol has been delivered and covers:
 - Schlaf/Recovery
 - 12-Wochen-Milestones
 
-**Status:** Wöchentliches Trainingsprotokoll **ausstehend** — pending confirmation of:
+**Status:** Wöchentliches Trainingsprotokoll **ausstehend** — abhängig von der Bestätigung folgender Angaben:
 
 - [ ] Verfügbare Trainingstage pro Woche
 - [ ] Tägliche Sedentär-Zeit (Büro/Home-Office-Anteil)
@@ -63,7 +63,7 @@ The Master Protocol has been delivered and covers:
 
 ---
 
-## Trainingsstruktur — Grundprinzipien (from Source)
+## Trainingsstruktur — Grundprinzipien (aus Quelle)
 
 ### Zone 2 Progression
 
@@ -76,20 +76,20 @@ The Master Protocol has been delivered and covers:
 
 > **Kernprinzip:** Zone 2 ist die Hyrox-Basis — nicht überspringen.
 
-This aligns with [[Zone 2 Training]] principles documented in [[Health Protocol Master]] and the broader aerobic base-building literature. The nasal breathing test (can you breathe through the nose comfortably?) is a practical field test for Zone 2 intensity.
+Dies deckt sich mit den in [[Zone 2 Training]] dokumentierten Prinzipien aus [[Health Protocol Master]] und der allgemeinen Literatur zum Aufbau einer aeroben Grundlage. Der Nasenatemtest (kann man bequem durch die Nase atmen?) ist ein praktischer Feldtest zur Bestimmung der Zone-2-Intensität.
 
 ### Kraft + Conditioning
 
 | Parameter | Detail |
 |---|---|
 | Frequenz | 2x/Woche Oberkörper-Fokus |
-| Ziel | Aufbau (hypertrophy) |
+| Ziel | Aufbau (Hypertrophie) |
 | Hyrox-Stationen | Sled Push/Pull, Wall Balls, SkiErg, Rowing integrieren |
 | Kälteanwendung | NICHT direkt nach Krafttraining (hemmt Hypertrophie-Response) |
 
-> **Note on Cold Exposure:** This is consistent with the existing wiki's cold therapy protocol — cold immersion post-strength training blunts the anabolic signaling pathway (mTOR). See [[Cold Exposure Protocols]] for the general principle.
+> **Hinweis zur Kälteanwendung:** Dies stimmt mit dem bestehenden Wiki-Protokoll zur Kältetherapie überein — Kälteimmersion nach Krafttraining dämpft den anabolen Signalweg (mTOR). Siehe [[Cold Exposure Protocols]] für das allgemeine Prinzip.
 
-### Haltungskorrektur (Daily)
+### Haltungskorrektur (täglich)
 
 | Übung | Ziel |
 |---|---|
@@ -98,14 +98,14 @@ This aligns with [[Zone 2 Training]] principles documented in [[Health Protocol 
 | Thorax-Extension | Mobility |
 
 - **Zeitaufwand:** 10–15 Min/Tag
-- **Return:** Direkte Atemkapazitätssteigerung
-- **Schwerpunkt:** Unilaterale Übungen bevorzugen (einbeinig, einarmig) für Asymmetrie-Korrektur
+- **Nutzen:** Direkte Atemkapazitätssteigerung
+- **Schwerpunkt:** Unilaterale Übungen bevorzugen (einbeinig, einarmig) zur Asymmetrie-Korrektur
 
-See [[Forward Head Posture]] and [[Corrective Exercise]] for extended protocols.
+Siehe [[Forward Head Posture]] und [[Corrective Exercise]] für erweiterte Protokolle.
 
 ---
 
-## 12-Wochen-Milestones (from Source)
+## 12-Wochen-Milestones (aus Quelle)
 
 | Woche | Fokus | Marker |
 |---|---|---|
@@ -114,13 +114,13 @@ See [[Forward Head Posture]] and [[Corrective Exercise]] for extended protocols.
 | 7–9 | Hyrox-Stationen integrieren | Kombinationseinheiten |
 | 10–12 | Race-Pace Training | Vollständige Hyrox-Simulation |
 
-This 12-week structure mirrors the [[Hyrox 10-Week Training]] approach but extends it by 2 weeks to allow more aerobic base-building before station-specific work.
+Diese 12-Wochen-Struktur ähnelt dem Ansatz von [[Hyrox 10-Week Training]], verlängert ihn jedoch um 2 Wochen, um mehr Zeit für den Aufbau der aeroben Grundlage vor dem stationsspezifischen Training zu ermöglichen.
 
-> ⚠️ **Minor contradiction:** The [[Hyrox 10-Week Training]] entity references a 10-week program structure. This source describes a 12-week structure. Both are attributed to Oleg's Hyrox preparation. The 12-week plan may be the newer/superseding version, or they may target different competition timelines. The 12-week plan is from a more recently created file (2026-06-13).
+> ⚠️ **Geringfügiger Widerspruch:** Die Entität [[Hyrox 10-Week Training]] verweist auf eine 10-wöchige Programmstruktur. Dieses Quelldokument beschreibt eine 12-wöchige Struktur. Beide werden Olegs Hyrox-Vorbereitung zugeordnet. Der 12-Wochen-Plan ist möglicherweise die neuere/übergeordnete Version, oder sie zielen auf unterschiedliche Wettkampfzeiträume ab. Der 12-Wochen-Plan stammt aus einer jüngeren Datei (2026-06-13).
 
 ---
 
-## Protokoll-Prinzipien (from Source)
+## Protokoll-Prinzipien (aus Quelle)
 
 1. Zone 2 kommt vor Intensität — immer
 2. Haltungsarbeit ist Teil des Trainings, nicht Zusatz
@@ -129,27 +129,27 @@ This 12-week structure mirrors the [[Hyrox 10-Week Training]] approach but exten
 
 ---
 
-## Cross-References in Source
+## Querverweise in der Quelle
 
-The source file contains internal vault links:
-- `→ [[00 Performance-Übersicht]]` → maps to [[Performance Overview]]
-- `→ [[Körper & Scan]]` → maps to [[3D Body Scan Scaneca Mai 2026]]
-- `→ [[Blutbild Panel]]` → maps to [[Blutbild Panel]]
+Die Quelldatei enthält interne Vault-Links:
+- `→ [[00 Performance-Übersicht]]` → entspricht [[Performance Overview]]
+- `→ [[Körper & Scan]]` → entspricht [[3D Body Scan Scaneca Mai 2026]]
+- `→ [[Blutbild Panel]]` → entspricht [[Blutbild Panel]]
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Hyrox Competition]] — entity page for the competition context
-- [[Hyrox 10-Week Training]] — related (possibly predecessor) training plan
-- [[Zone 2 Training]] — core training concept
-- [[Performance Overview]] — parent overview document
-- [[Performance Overview Source Detail]] — source referencing this context
-- [[Health Protocol Master]] — master protocol
-- [[3D Body Scan Scaneca Mai 2026]] — scan confirming structural blockers
-- [[Forward Head Posture]] — structural blocker (posture)
-- [[Corrective Exercise]] — posture correction framework
-- [[Blutbild Panel]] — biomarker context
-- [[Cold Exposure Protocols]] — kälteanwendung timing context
-- [[Oleg Personal Context]] — athlete
-- [[MOC Performance und Leben]] — parent MOC
+- [[Hyrox Competition]] — Entitätsseite zum Wettkampfkontext
+- [[Hyrox 10-Week Training]] — verwandter (möglicherweise vorausgehender) Trainingsplan
+- [[Zone 2 Training]] — zentrales Trainingskonzept
+- [[Performance Overview]] — übergeordnetes Übersichtsdokument
+- [[Performance Overview Source Detail]] — Quelle mit Bezug zu diesem Kontext
+- [[Health Protocol Master]] — Master Protocol
+- [[3D Body Scan Scaneca Mai 2026]] — Scan zur Bestätigung struktureller Blocker
+- [[Forward Head Posture]] — struktureller Blocker (Haltung)
+- [[Corrective Exercise]] — Rahmen zur Haltungskorrektur
+- [[Blutbild Panel]] — Biomarker-Kontext
+- [[Cold Exposure Protocols]] — Kontext zum Timing der Kälteanwendung
+- [[Oleg Personal Context]] — Athlet
+- [[MOC Performance und Leben]] — übergeordnete MOC

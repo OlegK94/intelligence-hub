@@ -5,61 +5,61 @@ tags: [supplement, longevity, mitochondria, amino-acid, taurine, performance-caf
 sources: ["raw/Business/PerformanceCafe/hai-onepager.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Semi-essential amino acid with mitochondrial support and longevity properties — included at 500mg in Performance Coffee Brand Tier-1 stack; 2023 Science paper linked taurine decline to aging
+summary: Semi-essentielle Aminosäure mit mitochondrialer Unterstützung und Longevity-Eigenschaften — im Tier-1-Stack von Performance Coffee Brand mit 500mg enthalten; eine Studie in Science 2023 verknüpfte den Taurin-Rückgang mit dem Alterungsprozess
 ---
 
 # Taurin (Taurine)
 
-## Overview
+## Überblick
 
-**Taurin** (Taurine) is a semi-essential sulfur-containing amino acid found in high concentrations in the brain, heart, and muscles. It is included at **500mg** in the [[Performance Coffee Brand]] Tier-1 stack based on mitochondrial and longevity research.
+**Taurin** (Taurine) ist eine semi-essentielle, schwefelhaltige Aminosäure, die in hohen Konzentrationen im Gehirn, im Herzen und in den Muskeln vorkommt. Sie ist mit **500mg** im Tier-1-Stack der [[Performance Coffee Brand]] enthalten, basierend auf Forschungsergebnissen zu Mitochondrien und Longevity.
 
-## Key Research Reference
+## Wichtigste Forschungsreferenz
 
-The onepager specifically cites **Science 2023** as the primary longevity evidence:
-- A landmark 2023 study in *Science* found that taurine levels decline with aging across species
-- Taurine supplementation restored health markers and extended lifespan in animal models
-- The study positioned taurine as a potential longevity intervention
+Das Onepager zitiert als primären Longevity-Beleg spezifisch **Science 2023**:
+- Eine wegweisende Studie aus dem Jahr 2023 in *Science* stellte fest, dass der Taurin-Spiegel bei verschiedenen Spezies mit zunehmendem Alter sinkt
+- Eine Taurin-Supplementierung stellte Gesundheitsmarker wieder her und verlängerte die Lebensspanne in Tiermodellen
+- Die Studie positionierte Taurin als potenziellen Longevity-Eingriff
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| Mitochondrial support | Enhances mitochondrial function and efficiency |
-| Antioxidant | Reduces oxidative stress |
-| Anti-inflammatory | Modulates inflammatory pathways |
-| Osmoregulation | Supports cellular hydration and function |
-| Neuroprotection | Supports brain function and neurological health |
-| Cardiovascular | Supports heart muscle function |
+| Mitochondriale Unterstützung | Verbessert die mitochondriale Funktion und Effizienz |
+| Antioxidans | Reduziert oxidativen Stress |
+| Entzündungshemmend | Moduliert entzündliche Signalwege |
+| Osmoregulation | Unterstützt die zelluläre Hydratation und Funktion |
+| Neuroprotektiv | Unterstützt die Gehirnfunktion und neurologische Gesundheit |
+| Kardiovaskulär | Unterstützt die Herzmuskelfrunkion |
 
-## Dosing in Performance Coffee Brand
+## Dosierung in Performance Coffee Brand
 
-- **Tier-1 dose:** 500mg per sachet
-- **Context:** Light roast instant coffee vehicle
-- **Regulatory status:** Generally recognized as safe; widely used in energy drinks (Red Bull contains 1g/can)
+- **Tier-1-Dosis:** 500mg pro Sachet
+- **Kontext:** Light Roast Instant-Kaffee als Trägermedium
+- **Regulatorischer Status:** Allgemein als sicher anerkannt; weit verbreitet in Energy Drinks (Red Bull enthält 1g/Dose)
 
-## Safety and Regulatory Profile
+## Sicherheits- und Regulierungsprofil
 
-- Widely used in food/beverage products (particularly energy drinks)
-- EFSA has assessed taurine as safe in energy drinks
-- **No Novel Food concerns** — established food ingredient in the EU
-- This makes taurine one of the least risky ingredients in the Tier-1 stack from a regulatory perspective
+- Weit verbreitet in Lebensmittel- und Getränkeprodukten (insbesondere Energy Drinks)
+- EFSA hat Taurin in Energy Drinks als sicher eingestuft
+- **Keine Novel Food-Bedenken** — etablierte Lebensmittelzutat in der EU
+- Dies macht Taurin aus regulatorischer Sicht zu einer der risikoärmsten Zutaten im Tier-1-Stack
 
-## Comparison with Tier-2 Longevity Ingredients
+## Vergleich mit Tier-2-Longevity-Zutaten
 
-Unlike [[NMN]], [[Urolithin A]], or [[Spermidine]], taurine:
-- Has established EU food ingredient status
-- No patent IP blockers (unlike [[Amazentis]] / [[Chromadex Niagen Bioscience]])
-- Can be sourced from multiple commodity suppliers
-- Has direct energy drink precedent for dosing and safety claims
+Im Gegensatz zu [[NMN]], [[Urolithin A]] oder [[Spermidine]] verfügt Taurin über:
+- Etablierten EU-Lebensmittelzutatenstatus
+- Keine Patent-IP-Blockaden (im Gegensatz zu [[Amazentis]] / [[Chromadex Niagen Bioscience]])
+- Bezugsmöglichkeit von mehreren Commodity-Lieferanten
+- Direkte Energy-Drink-Präzedenzfälle für Dosierung und Sicherheitsaussagen
 
-This makes taurine uniquely positioned as a **high-credibility longevity ingredient with low regulatory friction** — ideal for the Tier-1 "immediately launchable" stack.
+Dies positioniert Taurin einzigartig als **hochglaubwürdige Longevity-Zutat mit geringer regulatorischer Reibung** — ideal für den Tier-1-Stack als „sofort marktfähige" Zusammenstellung.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — primary application
-- [[Performance Coffee Brand Hai Onepager]] — source document
-- [[Longevity Stack Ingredients]] — broader ingredient context
-- [[Bryan Johnson]] — Blueprint includes taurine in longevity stack
-- [[NMN]] — Tier-2 longevity ingredient with higher regulatory barriers
-- [[Urolithin A]] — Tier-2 longevity ingredient with IP barriers
+- [[Performance Coffee Brand]] — primäre Anwendung
+- [[Performance Coffee Brand Hai Onepager|Performance Coffee Brand Hai Onepager]] — Quelldokument
+- [[Longevity Stack Ingredients|Longevity Stack Ingredients]] — breiterer Zutatenkontext
+- [[Bryan Johnson]] — Blueprint enthält Taurin im Longevity-Stack
+- [[NMN]] — Tier-2-Longevity-Zutat mit höheren regulatorischen Hürden
+- [[Urolithin A]] — Tier-2-Longevity-Zutat mit IP-Barrieren

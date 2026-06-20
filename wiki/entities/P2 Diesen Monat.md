@@ -5,20 +5,20 @@ tags: [aufgaben, P2, finanzen, monatsziele, monatsaufgaben]
 sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: P2 priority task list — financial tasks due within the current month (June–September 2026); covers PKW-Sachbezug optimization, Notfallfonds setup, DZR closure, ARAG Wagglz cancellation, Steamone payment, VW Sondertilgung
+summary: P2-Priorität Aufgabenliste — finanzielle Aufgaben, die innerhalb des aktuellen Monats fällig sind (Juni–September 2026); umfasst PKW-Sachbezug-Optimierung, Notfallfonds-Aufbau, DZR-Abschluss, ARAG-Wagglz-Kündigung, Steamone-Zahlung, VW Sondertilgung
 ---
 
 # P2 – Diesen Monat
 
-## Overview
+## Übersicht
 
-**P2 – Diesen Monat** is [[Oleg Personal Context|Oleg]]'s second-priority task list for financial matters due within the current planning horizon (June–September 2026). These are non-urgent but time-bound actions requiring follow-through.
+**P2 – Diesen Monat** ist [[Oleg Personal Context|Olegs]] zweite Prioritätsstufe für finanzielle Angelegenheiten, die innerhalb des aktuellen Planungshorizonts (Juni–September 2026) fällig sind. Es handelt sich um nicht dringende, aber termingebundene Maßnahmen, die konsequent verfolgt werden müssen.
 
-> For immediate urgent tasks, see [[P0 Sofortmaßnahmen]]. For weekly priority tasks, see the P1 task list. For full task detail and context, see [[P2 Diesen Monat Source Detail]].
+> Für sofort dringende Aufgaben siehe [[P0 Sofortmaßnahmen]]. Für wöchentliche Prioritätsaufgaben siehe die P1-Aufgabenliste. Für vollständige Aufgabendetails und Kontext siehe [[P2 Diesen Monat Source Detail]].
 
-## Open Tasks Summary
+## Zusammenfassung offener Aufgaben
 
-| Task | Fällig | Status |
+| Aufgabe | Fällig | Status |
 |---|---|---|
 | [[Doctolib PKW-Sachbezug]] optimieren (Fahrtenbuch vs. 1%) | 2026-07-31 | ⬜ Offen |
 | [[Notfallfonds]] aufbauen (Ziel: 10.900 €) | 2026-08-01 | ⬜ Offen |
@@ -27,29 +27,29 @@ summary: P2 priority task list — financial tasks due within the current month 
 | Steamone 217,18 € (01.04.) klären | 2026-06-30 | ⬜ Offen |
 | [[VW Konsumkredit]] Sondertilgung prüfen | 2026-09-01 | ⬜ Offen |
 
-## Key Financial Decisions in This List
+## Wesentliche finanzielle Entscheidungen in dieser Liste
 
-1. **Fahrtenbuch vs. 1%-Regel** — Requires [[SP STB]] consultation; could save several hundred € annually
-2. **Q2-Bonus allocation** — Core tension: [[Notfallfonds]] vs. [[VW Konsumkredit]] Sondertilgung
-3. **ARAG Wagglz** — Simple cancellation; 403,52 €/Jahr saved
-4. **Steamone payment** — Potential return if purchase not justified
+1. **Fahrtenbuch vs. 1%-Regel** — Erfordert Rücksprache mit [[SP STB]]; könnte mehrere hundert € jährlich einsparen
+2. **Q2-Bonus-Verwendung** — Kernspannung: [[Notfallfonds]] vs. [[VW Konsumkredit]] Sondertilgung
+3. **ARAG Wagglz** — Einfache Kündigung; 403,52 €/Jahr gespart
+4. **Steamone-Zahlung** — Mögliche Rückgabe, falls Kauf nicht gerechtfertigt
 
-## Priority Context
+## Prioritätskontext
 
-All items are tagged **P2** ("Diesen Monat" = this month), meaning:
-- Not as urgent as [[P0 Sofortmaßnahmen]] (immediate) or P1 (this week)
-- Still time-bound — deadlines mostly end-of-June or Q3 2026
-- Actionable by Oleg alone or with [[SP STB]]
+Alle Punkte sind als **P2** eingestuft („Diesen Monat"), das bedeutet:
+- Nicht so dringend wie [[P0 Sofortmaßnahmen]] (sofort) oder P1 (diese Woche)
+- Dennoch termingebunden — Fristen größtenteils Ende Juni oder Q3 2026
+- Von Oleg allein oder gemeinsam mit [[SP STB]] umsetzbar
 
-## Related Pages
+## Verwandte Seiten
 
-- [[P2 Diesen Monat Source Detail]] — full task detail
-- [[P0 Sofortmaßnahmen]] — highest priority tasks
-- [[Doctolib PKW-Sachbezug]] — company car benefit optimization
-- [[Notfallfonds]] — emergency fund goal
-- [[DZR GmbH]] — creditor requiring closure
-- [[VW Konsumkredit]] — loan under Sondertilgung review
-- [[Wagglz GmbH]] — company context for ARAG cancellation
+- [[P2 Diesen Monat Source Detail]] — vollständige Aufgabendetails
+- [[P0 Sofortmaßnahmen]] — Aufgaben mit höchster Priorität
+- [[Doctolib PKW-Sachbezug]] — Optimierung des Firmenwagenvorteils
+- [[Notfallfonds]] — Ziel für den Notgroschen
+- [[DZR GmbH]] — Gläubiger, der einen Abschluss erfordert
+- [[VW Konsumkredit]] — Darlehen unter Sondertilgungsprüfung
+- [[Wagglz GmbH]] — Unternehmenskontext für die ARAG-Kündigung
 - [[SP STB]] — Steuerberater
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — task owner
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Aufgabenverantwortlicher

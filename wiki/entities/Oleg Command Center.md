@@ -5,33 +5,33 @@ tags: [dashboard, moc, oleg, finanzen, performance, rehabilitation, kritische-za
 sources: ["raw/Privat/MOC/Finanz-Home.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: "Oleg's top-level personal Command Center — dual-track system running Financial Rehabilitation and Performance/Body in parallel; current critical state: -7,970 € structural annual deficit, -1,405 € overdraft, 1.10 € savings; ~4,611 € April commission allocated to Rehabilitation Plan"
+summary: "Olegs übergeordnetes persönliches Command Center — Dual-Track-System mit paralleler Finanzieller Rehabilitation und Performance/Körper; aktueller kritischer Zustand: −7.970 € strukturelles Jahresdefizit, −1.405 € Dispo, 1,10 € Ersparnisse; ~4.611 € April-Provision vollständig dem Rehabilitation Plan zugewiesen"
 ---
 
 # Oleg Kober — Command Center
 
-## Overview
+## Überblick
 
-The **Command Center** is [[Oleg Personal Context|Oleg]]'s master dashboard MOC, consolidating the two primary life tracks under a unified view. It serves as the top-level navigation hub for all finance and performance sub-domains.
+Das **Command Center** ist [[Oleg Personal Context|Olegs]] Master-Dashboard-MOC, das die beiden primären Lebensbereiche in einer einheitlichen Ansicht zusammenführt. Es dient als oberste Navigationszentrale für alle Finanz- und Performance-Teilbereiche.
 
-> For full source detail and metric analysis, see [[Finanz-Home Dashboard Source Detail]].
+> Für vollständige Quellendetails und Metrikanalysen siehe [[Finanz-Home Dashboard Source Detail]].
 
 ---
 
-## The Two Tracks
+## Die zwei Tracks
 
-> *"Keine Kompromisse bei keinem der beiden."* — No compromises on either.
+> *"Keine Kompromisse bei keinem der beiden."*
 
-| Track | Status | Key Metric |
+| Track | Status | Schlüsselmetrik |
 |---|---|---|
-| 💰 **Finanzielle Rehabilitation** | 🔴 Critical | −7,970 € structural annual deficit |
-| 🏋️ **Performance / Körper** | 🟡 In progress | 20.3% KFA → 15–17% target |
+| 💰 **Finanzielle Rehabilitation** | 🔴 Kritisch | −7.970 € strukturelles Jahresdefizit |
+| 🏋️ **Performance / Körper** | 🟡 In Bearbeitung | 20,3% KFA → 15–17% Ziel |
 
-Both tracks run **simultaneously** — this is not a sequential priority system. The framing explicitly rejects trade-offs between financial and physical health.
+Beide Tracks laufen **gleichzeitig** — dies ist kein sequenzielles Prioritätssystem. Der Ansatz lehnt Kompromisse zwischen finanzieller und körperlicher Gesundheit ausdrücklich ab.
 
 ---
 
-## Critical Financial Metrics (as of 2026-06-13)
+## Kritische Finanzmetriken (Stand 2026-06-13)
 
 | Metrik | Wert | Status |
 |---|---|---|
@@ -43,114 +43,114 @@ Both tracks run **simultaneously** — this is not a sequential priority system.
 
 ### Interpretation
 
-**Combined annual gap (structural + business):** ~−15,970 €/year before provisions.
+**Kombinierte Jahreslücke (strukturell + unternehmerisch):** ~−15.970 €/Jahr vor Rückstellungen.
 
-**Monthly shortfall:** ~664 €/month structural + ~667 €/month business burden = ~1,331 €/month gap on salary alone.
+**Monatlicher Fehlbetrag:** ~664 €/Monat strukturell + ~667 €/Monat Unternehmensbelastung = ~1.331 €/Monat Lücke allein aus dem Gehalt.
 
-**Liquidity:** Zero. Both the overdraft position and the 1.10 € savings balance confirm there is no financial buffer. Any unexpected expense requires credit or a provision payment.
+**Liquidität:** Null. Sowohl die Dispo-Position als auch der Kontostand von 1,10 € Ersparnissen bestätigen, dass kein finanzieller Puffer vorhanden ist. Jede unerwartete Ausgabe erfordert Kredit oder eine Rückstellungszahlung.
 
-**Dependence on commissions:** The salary alone (3,638.82 €/month net) does not cover the full cost structure. Quarterly provisions (e.g., ~4,611 € net for April) are a critical component of the actual financial plan.
+**Abhängigkeit von Provisionen:** Das Gehalt allein (3.638,82 €/Monat netto) deckt die gesamte Kostenstruktur nicht ab. Quartalsweise Provisionen (z. B. ~4.611 € netto für April) sind ein entscheidender Bestandteil des tatsächlichen Finanzplans.
 
 ---
 
-## Critical Performance Metrics (as of 2026-06-13)
+## Kritische Performance-Metriken (Stand 2026-06-13)
 
 | Metrik | Wert | Ziel | Status |
 |---|---|---|---|
 | Körperfett | 20,3% | 15–17% | 🟡 |
 | Taille-Hüfte-Ratio (WHR) | 0,92 | <0,86 | 🟡 |
 
-Both metrics are sourced from [[3D Body Scan Scaneca Mai 2026]] (29.05.2026) and are confirmed consistent with that source.
+Beide Metriken stammen aus [[3D Body Scan Scaneca Mai 2026]] (29.05.2026) und sind als mit dieser Quelle übereinstimmend bestätigt.
 
 ---
 
-## Nächste Quarterkommission
+## Nächste Quartalsprovision
 
 | Detail | Wert |
 |---|---|
-| **April-Provision (netto)** | ~4,611 € |
+| **April-Provision (netto)** | ~4.611 € |
 | **Allokation** | 100% → [[Rehabilitation Plan]] |
 
-This commission is the **primary lever** for bridging the structural deficit in the near term. Its allocation is fully prescribed by the [[Rehabilitation Plan]] (3-phase framework).
+Diese Provision ist der **primäre Hebel** zur kurzfristigen Überbrückung des strukturellen Defizits. Ihre Allokation ist vollständig durch den [[Rehabilitation Plan]] (3-Phasen-Rahmenwerk) vorgegeben.
 
 ---
 
-## Navigation Map
+## Navigationskarte
 
-### Finance Domain
+### Finanz-Bereich
 
-| Page | Content |
+| Seite | Inhalt |
 |---|---|
-| [[Finanz-Übersicht]] | Current financial status overview |
-| [[Wagglz GmbH]] | Business entity #1 |
-| [[OK Capital UG]] | Business entity #2 |
-| [[Rehabilitation Plan]] | 3-phase financial recovery plan |
-| Master Prompt – Gesamtanalyse | AI-powered financial analysis template |
+| [[Finanz-Übersicht]] | Aktuelle Übersicht des Finanzstatus |
+| [[Wagglz GmbH]] | Unternehmenseinheit #1 |
+| [[OK Capital UG]] | Unternehmenseinheit #2 |
+| [[Rehabilitation Plan]] | 3-Phasen-Finanzwiederherstellungsplan |
+| Master Prompt – Gesamtanalyse | KI-gestützte Finanzanalyse-Vorlage |
 
-### Performance Domain
+### Performance-Bereich
 
-| Page | Content |
+| Seite | Inhalt |
 |---|---|
-| Performance-Übersicht | Overview of all performance metrics |
-| [[3D Body Scan Scaneca Mai 2026]] | Baseline body scan (29.05.2026) |
-| [[Hyrox 10-Week Training]] | Hyrox competition prep |
-| Blutbild Panel — 24 Marker | Blood panel tracking (24 markers) |
+| Performance-Übersicht | Übersicht aller Performance-Metriken |
+| [[3D Body Scan Scaneca Mai 2026]] | Ausgangs-Body-Scan (29.05.2026) |
+| [[Hyrox 10-Week Training]] | Hyrox-Wettkampfvorbereitung |
+| Blutbild Panel — 24 Marker | Blutbildverfolgung (24 Marker) |
 
-### AI Templates
+### KI-Vorlagen
 
-| Template | Purpose |
+| Vorlage | Zweck |
 |---|---|
-| [[Claude Session Template Finanzen]] | Structured finance AI sessions |
-| [[Claude Session Template Performance]] | Structured performance AI sessions |
+| [[Claude Session Template Finanzen]] | Strukturierte KI-Finanzsitzungen |
+| [[Claude Session Template Performance]] | Strukturierte KI-Performance-Sitzungen |
 
 ---
 
-## Financial Situation Assessment
+## Bewertung der finanziellen Situation
 
-### Severity
-The financial picture is **critical** across all four key indicators simultaneously:
-1. Structural deficit (recurring, built into cost architecture)
-2. Business burden (external company obligations)
-3. Zero liquidity (overdraft + 1.10 € savings)
-4. No emergency buffer
+### Schweregrad
+Das Finanzbild ist **kritisch** über alle vier Schlüsselindikatoren gleichzeitig:
+1. Strukturelles Defizit (wiederkehrend, in der Kostenarchitektur verankert)
+2. Unternehmensbelastung (externe Unternehmensverpflichtungen)
+3. Null Liquidität (Dispo + 1,10 € Ersparnisse)
+4. Kein Notfallpuffer
 
-### Stabilizing Factors
-1. **Consistent net salary:** 3,638.82 €/month provides a stable income base
-2. **Quarterly commissions:** ~4,611 € (April) provides episodic cash injection
-3. **Rehabilitation Plan:** A structured 3-phase plan exists and has been created (see [[Rehabilitation Plan]])
-4. **Clear targets:** WHR, KFA, deficit elimination — measurable goals are defined
+### Stabilisierende Faktoren
+1. **Gleichbleibendes Nettogehalt:** 3.638,82 €/Monat liefert eine stabile Einkommensbasis
+2. **Quartalsprovisionen:** ~4.611 € (April) sorgen für episodische Liquiditätszufuhr
+3. **Rehabilitation Plan:** Ein strukturierter 3-Phasen-Plan existiert und wurde erstellt (siehe [[Rehabilitation Plan]])
+4. **Klare Ziele:** WHR, KFA, Defizitabbau — messbare Ziele sind definiert
 
-### Key Risk
-The gap between salary and full cost structure means **any disruption to commission income** (illness, role change, sales miss) would immediately deepen the overdraft with no buffer to absorb it.
-
----
-
-## Relationship to Other Wiki Areas
-
-- **[[Wagglz GmbH]]** — the ~−8,000 €/year Unternehmensbelastung likely flows from this entity's obligations
-- **[[OK Capital UG]]** — co-referenced as a finance entity; may also contribute to business burden
-- **[[Fixkosten Übersicht]]** — the fixed cost structure that creates the structural deficit
-- **[[ESt 2025]]** — tax obligations compound the financial pressure
-- **[[ALG I 2025]]** — prior-year ALG I receipt creates 2025 Progressionsvorbehalt tax burden
-- **[[3D Body Scan Scaneca Mai 2026]]** — performance track baseline confirmed
-- **[[Health Protocol Master]]** — performance track operational protocol
+### Hauptrisiko
+Die Lücke zwischen Gehalt und vollständiger Kostenstruktur bedeutet, dass **jede Unterbrechung der Provisionseinkünfte** (Krankheit, Rollenwechsel, verfehlte Vertriebsziele) den Dispostand sofort weiter vertieft, ohne dass ein Puffer vorhanden ist, der dies abfangen könnte.
 
 ---
 
-## Related Pages
+## Bezug zu anderen Wiki-Bereichen
 
-- [[Finanz-Home Dashboard Source Detail]] — source document
-- [[Oleg Personal Context]] — subject
-- [[MOC Finanzen]] — finance sub-MOC
-- [[MOC Performance und Leben]] — performance sub-MOC
-- [[Rehabilitation Plan]] — financial recovery framework
-- [[Finanz-Übersicht]] — financial status detail
-- [[Wagglz GmbH]] — business entity
-- [[OK Capital UG]] — business entity
-- [[Fixkosten Übersicht]] — fixed cost breakdown
-- [[ESt 2025]] — tax obligations
-- [[3D Body Scan Scaneca Mai 2026]] — performance baseline
-- [[Health Protocol Master]] — performance protocol
-- [[Hyrox 10-Week Training]] — competition prep
-- [[Claude Session Template Finanzen]] — AI template
-- [[Claude Session Template Performance]] — AI template
+- **[[Wagglz GmbH]]** — die ~−8.000 €/Jahr Unternehmensbelastung fließt wahrscheinlich aus den Verpflichtungen dieser Einheit
+- **[[OK Capital UG]]** — wird als Finanzeinheit mitaufgeführt; kann ebenfalls zur Unternehmensbelastung beitragen
+- **[[Fixkosten Übersicht]]** — die Fixkostenstruktur, die das strukturelle Defizit erzeugt
+- **[[ESt 2025]]** — Steuerverpflichtungen verstärken den finanziellen Druck
+- **[[ALG I 2025]]** — der ALG-I-Bezug im Vorjahr erzeugt eine steuerliche Progressionsvorbehalt-Belastung für 2025
+- **[[3D Body Scan Scaneca Mai 2026]]** — bestätigter Ausgangswert des Performance-Tracks
+- **[[Health Protocol Master]]** — operatives Protokoll des Performance-Tracks
+
+---
+
+## Verwandte Seiten
+
+- [[Finanz-Home Dashboard Source Detail]] — Quelldokument
+- [[Oleg Personal Context]] — Person
+- [[MOC Finanzen]] — Finanz-Teil-MOC
+- [[MOC Performance und Leben]] — Performance-Teil-MOC
+- [[Rehabilitation Plan]] — Finanzwiederherstellungs-Rahmenwerk
+- [[Finanz-Übersicht]] — Finanzstatus-Details
+- [[Wagglz GmbH]] — Unternehmenseinheit
+- [[OK Capital UG]] — Unternehmenseinheit
+- [[Fixkosten Übersicht]] — Aufschlüsselung der Fixkosten
+- [[ESt 2025]] — Steuerverpflichtungen
+- [[3D Body Scan Scaneca Mai 2026]] — Performance-Ausgangswert
+- [[Health Protocol Master]] — Performance-Protokoll
+- [[Hyrox 10-Week Training]] — Wettkampfvorbereitung
+- [[Claude Session Template Finanzen]] — KI-Vorlage
+- [[Claude Session Template Performance]] — KI-Vorlage

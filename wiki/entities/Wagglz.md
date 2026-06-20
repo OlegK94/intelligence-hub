@@ -5,37 +5,37 @@ tags: [company, entity, ok-capital, oleg-kober, berlin, existing-venture]
 sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Wagglz is an existing business entity under Oleg Kober's OK Capital holding — operates as a sibling entity to the planned Performance Coffee Brand; full details not documented in available sources
+summary: Wagglz ist eine bestehende Unternehmenseinheit unter Oleg Kobers OK Capital Holding — fungiert als Schwestergesellschaft der geplanten Performance Coffee Brand; vollständige Details sind in den verfügbaren Quellen nicht dokumentiert
 ---
 
 # Wagglz
 
-## Overview
+## Übersicht
 
-**Wagglz** is an existing business entity owned by [[Oleg Personal Context|Oleg Kober]] and sitting under the [[OK Capital]] holding structure. It appears alongside the planned [[Performance Coffee Brand]] in the corporate structure diagram.
+**Wagglz** ist eine bestehende Unternehmenseinheit im Besitz von [[Oleg Personal Context|Oleg Kober]], die unter der [[OK Capital]] Holdingstruktur angesiedelt ist. Sie erscheint neben der geplanten [[Performance Coffee Brand]] im Diagramm der Unternehmensstruktur.
 
-## Corporate Position
+## Position im Unternehmensverbund
 
 ```
 OK Capital (Holding)
-    ├── [Performance Coffee Brand] GmbH / UG  ← planned
-    └── Wagglz  ← already exists
+    ├── [Performance Coffee Brand] GmbH / UG  ← geplant
+    └── Wagglz  ← bereits bestehend
 ```
 
-## Known Details
+## Bekannte Details
 
-| Attribute | Status |
+| Attribut | Status |
 |---|---|
-| Existence | Confirmed ("bereits bestehend") |
-| Legal form | Unknown |
-| Business activity | Unknown |
-| Active/dormant | Unknown |
+| Existenz | Bestätigt („bereits bestehend") |
+| Rechtsform | Unbekannt |
+| Geschäftstätigkeit | Unbekannt |
+| Aktiv/ruhend | Unbekannt |
 
-> ⚠️ **Gap:** Wagglz's business activity, legal form, and operational status are not documented in currently ingested sources. The entity is mentioned only as context in the Performance Coffee Brand corporate structure diagram.
+> ⚠️ **Lücke:** Wagglz' Geschäftstätigkeit, Rechtsform und Betriebsstatus sind in den derzeit eingespeisten Quellen nicht dokumentiert. Die Einheit wird lediglich als Kontext im Unternehmensstruktur-Diagramm der Performance Coffee Brand erwähnt.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[OK Capital]] — parent holding
-- [[Oleg Personal Context]] — owner
-- [[Performance Coffee Brand]] — sibling entity (planned)
-- [[Oleg Business Entity Structure]] — broader entity context
+- [[OK Capital]] — übergeordnete Holding
+- [[Oleg Personal Context|Oleg Kober]] — Eigentümer
+- [[Performance Coffee Brand]] — Schwestergesellschaft (geplant)
+- [[Oleg Business Entity Structure]] — übergeordneter Unternehmenskontext

@@ -1,69 +1,69 @@
 ---
-title: Sulforaphane
+title: Sulforaphan
 type: concept
 tags: [supplement, sulforaphane, broccoli-sprouts, nrf2, rhonda-patrick, sunday-natural, cancer-prevention, antioxidant]
 sources: ["raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Sulforaphane — broccoli sprout-derived compound activating the NRF2 pathway; Oleg takes it via Sunday Natural per Rhonda Patrick's protocol; the only non-Momentous supplement in his stack
+summary: Sulforaphan — aus Brokkolisprossen gewonnene Verbindung, die den NRF2-Signalweg aktiviert; Oleg nimmt es über Sunday Natural nach Rhonda Patricks Protokoll; das einzige Nicht-Momentous-Supplement in seinem Stack
 ---
 
-# Sulforaphane
+# Sulforaphan
 
-## Overview
+## Überblick
 
-**Sulforaphane** is a bioactive isothiocyanate compound found in highest concentrations in broccoli sprouts (Brokkolisprossen). It is a potent activator of the **NRF2 pathway** — the body's master antioxidant and cytoprotective signaling pathway.
+**Sulforaphan** ist eine bioaktive Isothiocyanat-Verbindung, die in höchsten Konzentrationen in Brokkolisprossen vorkommt. Es ist ein potenter Aktivator des **NRF2-Signalwegs** — dem übergeordneten antioxidativen und zytoprotektiven Signalweg des Körpers.
 
-## Protocol (Oleg's Stack)
+## Protokoll (Olegs Stack)
 
-- **Brand:** [[Sunday Natural]] Sulforaphane (Brokkolisprossen-Extrakt)
-- **Status:** The **only non-[[Momentous]] supplement** in [[Oleg Personal Context|Oleg]]'s stack
-- **Reason for exception:** [[Rhonda Patrick]] protocol; Momentous offers no equivalent product
-- **Dose:** Per product instructions (Sunday Natural)
+- **Marke:** [[Sunday Natural]] Sulforaphan (Brokkolisprossen-Extrakt)
+- **Status:** Das **einzige Nicht-[[Momentous]]-Supplement** in [[Oleg Personal Context|Olegs]] Stack
+- **Grund für die Ausnahme:** [[Rhonda Patrick]]-Protokoll; Momentous bietet kein vergleichbares Produkt an
+- **Dosis:** Gemäß Produktanweisung (Sunday Natural)
 
-## Why Sunday Natural
+## Warum Sunday Natural
 
-[[Momentous]] does not offer a broccoli sprout / sulforaphane product. Since the [[Supplement Stack]] principle allows exceptions only when Momentous has no equivalent, [[Sunday Natural]] is used as a single, specific exception.
+[[Momentous]] bietet kein Produkt auf Basis von Brokkolisprossen / Sulforaphan an. Da das [[Supplement Stack]]-Prinzip Ausnahmen nur dann erlaubt, wenn Momentous kein gleichwertiges Produkt führt, wird [[Sunday Natural]] als einzige, spezifische Ausnahme verwendet.
 
-Sunday Natural is a German supplement brand known for clean formulations — appropriate given Oleg's Germany-based residence.
+Sunday Natural ist eine deutsche Supplement-Marke, die für saubere Formulierungen bekannt ist — passend angesichts von Olegs Wohnsitz in Deutschland.
 
-## Rhonda Patrick Protocol
+## Rhonda Patrick Protokoll
 
-[[Rhonda Patrick]], a biomedical researcher known for her work on nutrition and longevity, has extensively discussed sulforaphane:
+[[Rhonda Patrick]], eine biomedizinische Forscherin, die für ihre Arbeit zu Ernährung und Longevity bekannt ist, hat Sulforaphan ausführlich besprochen:
 
-- **Primary source:** Broccoli sprouts (vs. mature broccoli — sprouts have 10–100× higher sulforaphane content)
-- **Mechanism:** NRF2 pathway activation → upregulates antioxidant enzymes (glutathione, superoxide dismutase)
-- **Applications:** Cancer prevention, inflammation reduction, cardiovascular health, brain health
-- **Bioavailability note:** Myrosinase enzyme activity is required for conversion from glucoraphanin → sulforaphane; supplements vary in this regard
+- **Hauptquelle:** Brokkolisprossen (im Vergleich zu reifem Brokkoli — Sprossen haben einen 10–100-fach höheren Sulforaphan-Gehalt)
+- **Mechanismus:** NRF2-Signalweg-Aktivierung → Hochregulierung antioxidativer Enzyme (Glutathion, Superoxiddismutase)
+- **Anwendungsgebiete:** Krebsprävention, Entzündungshemmung, Herz-Kreislauf-Gesundheit, Gehirngesundheit
+- **Hinweis zur Bioverfügbarkeit:** Myrosinase-Enzymaktivität ist für die Umwandlung von Glucoraphanin → Sulforaphan erforderlich; Supplemente variieren diesbezüglich
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-### NRF2 Pathway Activation
-- Activates Nrf2 transcription factor → induces phase 2 detoxification enzymes
-- Upregulates antioxidant response elements (ARE)
-- Increases glutathione production
-- Reduces oxidative stress and inflammation
+### NRF2-Signalweg-Aktivierung
+- Aktiviert den Nrf2-Transkriptionsfaktor → induziert Phase-2-Entgiftungsenzyme
+- Reguliert antioxidative Responseelemente (ARE) hoch
+- Steigert die Glutathionproduktion
+- Reduziert oxidativen Stress und Entzündungen
 
-### Key Research Areas
-- **Cancer risk reduction:** Epidemiological and mechanistic evidence
-- **Cardiovascular protection:** Reduces LDL oxidation, improves endothelial function
-- **Neuroprotection:** Blood-brain barrier crossing; autism spectrum research (clinical trials)
-- **Anti-inflammatory:** Reduces NF-κB signaling
-- **Gut health:** Potential H. pylori inhibition
+### Wichtige Forschungsbereiche
+- **Krebsrisikoreduktion:** Epidemiologische und mechanistische Belege
+- **Kardiovaskulärer Schutz:** Reduziert LDL-Oxidation, verbessert die Endothelfunktion
+- **Neuroprotektion:** Überschreitet die Blut-Hirn-Schranke; Autismus-Spektrum-Forschung (klinische Studien)
+- **Entzündungshemmend:** Reduziert NF-κB-Signalisierung
+- **Darmgesundheit:** Potenzielle H.-pylori-Hemmung
 
-## Evidence Base
+## Evidenzlage
 
-- Well-established mechanistic research
-- Multiple human clinical trials (autism, cancer prevention, diabetes)
-- [[Rhonda Patrick]] content provides extensive literature review coverage
-- Generally considered safe at dietary-equivalent doses
+- Gut etablierte mechanistische Forschung
+- Mehrere klinische Humanstudien (Autismus, Krebsprävention, Diabetes)
+- [[Rhonda Patrick]]-Inhalte bieten umfangreiche Literaturübersichten
+- Gilt bei Dosen im ernährungsäquivalenten Bereich allgemein als sicher
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context (sole non-Momentous exception)
-- [[Supplement Stack Source Detail]] — source document
-- [[Rhonda Patrick]] — protocol source
-- [[Sunday Natural]] — brand
-- [[Momentous]] — primary brand (no equivalent product)
-- [[Oleg Personal Context]] — user
-- [[Health Protocol Master]] — broader health context
+- [[Supplement Stack]] — Stack-Kontext (einzige Nicht-Momentous-Ausnahme)
+- [[Supplement Stack Source Detail]] — Quelldokument
+- [[Rhonda Patrick]] — Protokollquelle
+- [[Sunday Natural]] — Marke
+- [[Momentous]] — Hauptmarke (kein gleichwertiges Produkt)
+- [[Oleg Personal Context]] — Nutzer
+- [[Health Protocol Master]] — übergeordneter Gesundheitskontext

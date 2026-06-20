@@ -1,99 +1,99 @@
 ---
-title: GROVE Sessions External
+title: GROVE Sessions Extern
 type: concept
 tags: [cafe, grove, events, pop-up, community, dj, pre-opening, strategy, espresso-club-radio, berlin, revenue, brand-building]
 sources: ["raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-16
 updated: 2026-06-16
-summary: GROVE's pre-opening strategy of hosting coffee × DJ events in partner Berlin cafés — starts immediately (mid-2026), builds community before own café opens; Espresso Club Radio (Buenos Aires) as reference model; ticket revenue + bar-split; monthly cadence from Oct 2026
+summary: GROVEs Pre-Opening-Strategie, Kaffee × DJ-Events in Berliner Partnercafés zu veranstalten — startet sofort (Mitte 2026), baut Community vor Eröffnung des eigenen Cafés auf; Espresso Club Radio (Buenos Aires) als Referenzmodell; Ticketeinnahmen + Bar-Split; monatlicher Rhythmus ab Oktober 2026
 ---
 
-# GROVE Sessions — External Events
+# GROVE Sessions — Externe Events
 
-## Overview
+## Überblick
 
-**GROVE Sessions** is a pre-opening community-building strategy: hosting specialty coffee × DJ events in partner Berlin venues before the GROVE café opens in February 2027. This allows GROVE to build brand, community, YouTube/Twitch content, and test what works — all without the burden of fixed costs.
+**GROVE Sessions** ist eine Pre-Opening-Strategie zum Aufbau einer Community: Specialty Coffee × DJ-Events in Berliner Partnerlokalen, bevor das GROVE Café im Februar 2027 eröffnet. So kann GROVE Marke, Community, YouTube/Twitch-Content aufbauen und testen, was funktioniert — ganz ohne die Last fixer Kosten.
 
-Reference model: [[Espresso Club Radio Reference]] (Buenos Aires).
+Referenzmodell: [[Espresso Club Radio Reference]] (Buenos Aires).
 
 ---
 
-## Strategic Rationale (Modell C)
+## Strategische Begründung (Modell C)
 
-The business plan recommends **Modell C** (both external sessions AND own café) over:
-- Modell A (only own café): High fixed costs from Day 1, cold start
-- Modell B (only external events): No fixed home, harder to build brand identity
+Der Businessplan empfiehlt **Modell C** (externe Sessions UND eigenes Café) gegenüber:
+- Modell A (nur eigenes Café): Hohe Fixkosten ab Tag 1, Kaltstart
+- Modell B (nur externe Events): Kein festes Zuhause, Markenidentität schwerer aufzubauen
 
-**Why Modell C wins:**
+**Warum Modell C gewinnt:**
 
-| Benefit | Mechanism |
+| Vorteil | Mechanismus |
 |---|---|
-| Audience before opening | When café opens, it's not a cold start |
-| Concept testing | Learn which DJs, times, audiences work — without fixed cost risk |
-| Content machine running | YouTube + Instagram grow while café is being built |
-| Community already formed | DJs, artists, guests already know GROVE |
-| Press opportunities | Cee Cee, tip Berlin, food bloggers can cover sessions before opening |
+| Publikum vor Eröffnung | Wenn das Café öffnet, ist es kein Kaltstart |
+| Konzepttesting | Herausfinden, welche DJs, Zeiten und Zielgruppen funktionieren — ohne Fixkostenrisiko |
+| Content-Maschine läuft | YouTube + Instagram wachsen, während das Café aufgebaut wird |
+| Community bereits geformt | DJs, Künstler, Gäste kennen GROVE bereits |
+| Pressemöglichkeiten | Cee Cee, tip Berlin, Food-Blogger können Sessions vor der Eröffnung berichten |
 
-**When GROVE opens February 2027:** YouTube has 5–10 session videos, community knows the brand, Vietnamese Coffee + Nama Schokolade already known, DJs are part of community. *"Das Opening ist kein Kaltstart — es ist der Umzug in ein neues Zuhause."*
-
----
-
-## Venue Partner Strategy
-
-**Target venues:** Berliner Specialty-Cafés that have little going on in the evenings and appreciate the stage.
-
-**Pitch to cafés:**
-> *"Wir bringen unsere Community zu euch, produzieren professionellen Content, ihr behaltet alle Getränkeeinnahmen."*
-
-For most cafés this is a clear win — foot traffic, content, no cost.
-
-**Candidate venues:** Five Elephant, Fjord, 19grams, smaller FHain/PB cafés.
+**Wenn GROVE im Februar 2027 eröffnet:** YouTube hat 5–10 Session-Videos, die Community kennt die Marke, Vietnamese Coffee + Nama Schokolade sind bereits bekannt, DJs sind Teil der Community. *„Das Opening ist kein Kaltstart — es ist der Umzug in ein neues Zuhause."*
 
 ---
 
-## Revenue Models
+## Venue-Partner-Strategie
 
-| Variante | Beschreibung | GROVE Take |
+**Ziellocations:** Berliner Specialty-Cafés, bei denen abends wenig los ist und die die Bühne zu schätzen wissen.
+
+**Pitch an die Cafés:**
+> *„Wir bringen unsere Community zu euch, produzieren professionellen Content, ihr behaltet alle Getränkeeinnahmen."*
+
+Für die meisten Cafés ist das ein klarer Gewinn — mehr Laufkundschaft, Content, kein Aufwand.
+
+**Kandidaten:** Five Elephant, Fjord, 19grams, kleinere Cafés in FHain/PB.
+
+---
+
+## Erlösmodelle
+
+| Variante | Beschreibung | GROVE-Anteil |
 |---|---|---|
-| Free Entry + Bar-Split | Guests pay nothing; GROVE shares bar revenue | 20–30% of bar |
-| **Ticket (10–15 €) + Bar-Split** | GROVE takes tickets; café keeps bar | 10–15 € × 80–150 Gäste = **800–2.250 €** |
-| Flat Fee an Café | GROVE pays venue 200–400 €; keeps everything | Variable by event revenue |
+| Freier Eintritt + Bar-Split | Gäste zahlen nichts; GROVE teilt Bareinnahmen | 20–30 % der Bar |
+| **Ticket (10–15 €) + Bar-Split** | GROVE nimmt Tickets; Café behält Bar | 10–15 € × 80–150 Gäste = **800–2.250 €** |
+| Flat Fee an Café | GROVE zahlt Venue 200–400 €; behält alles | Variabel nach Eventeinnahmen |
 
-**Recommendation for start:** Free Entry + Bar-Split for first 3 events (build trust), then switch to Ticket model.
+**Empfehlung für den Start:** Freier Eintritt + Bar-Split bei den ersten 3 Events (Vertrauen aufbauen), dann Wechsel zum Ticket-Modell.
 
 ---
 
-## Implementation Timeline
+## Umsetzungs-Timeline
 
 | Schritt | Aufgabe | Wann |
 |---|---|---|
 | 1 | GROVE Instagram + YouTube aufsetzen | Sofort |
 | 2 | 3 Berliner Cafés anschreiben für Venue-Kooperation | Juli 2026 |
-| 3 | Erste GROVE Session (Free Entry, 50–80 Gäste, Stream-Test) | August 2026 |
-| 4 | Vietnamese Coffee + Nama Schokolade als "Pre-Launch" servieren | August 2026 |
+| 3 | Erste GROVE Session (Freier Eintritt, 50–80 Gäste, Stream-Test) | August 2026 |
+| 4 | Vietnamese Coffee + Nama Schokolade als „Pre-Launch" servieren | August 2026 |
 | 5 | Session dokumentieren → Reels + YouTube | nach Session 1 |
 | 6 | Session 2 mit Ticket (10 €) | September 2026 |
-| 7 | Rhythmus: 1× pro Monat minimal | ab Oktober 2026 |
+| 7 | Rhythmus: mindestens 1× pro Monat | ab Oktober 2026 |
 
 ---
 
-## Content Production
+## Content-Produktion
 
-Each session generates:
-- YouTube upload (permanent, SEO-discoverable)
-- Instagram Reels (behind-the-scenes, DJ performance, coffee)
-- TikTok content
-- Artist portraits / vlogs
+Jede Session generiert:
+- YouTube-Upload (dauerhaft, SEO-auffindbar)
+- Instagram Reels (Behind-the-Scenes, DJ-Auftritt, Kaffee)
+- TikTok-Content
+- Künstlerporträts / Vlogs
 
-This is the **GROVE Radio** content machine — see [[Streaming Strategy GROVE]].
+Das ist die **GROVE Radio** Content-Maschine — siehe [[Streaming Strategy GROVE]].
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[GROVE Businessplan und Betriebshandbuch 2026]] — parent plan
-- [[Espresso Club Radio Reference]] — reference model
-- [[Streaming Strategy GROVE]] — streaming setup for sessions
-- [[GROVE Revenue Streams]] — revenue context
-- [[Specialty Coffee Market Berlin]] — venue partner context
-- [[GROVE Brand Strategy]] — brand building context
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — übergeordneter Plan
+- [[Espresso Club Radio Reference]] — Referenzmodell
+- [[Streaming Strategy GROVE]] — Streaming-Setup für Sessions
+- [[GROVE Revenue Streams]] — Erlöskontext
+- [[Specialty Coffee Market Berlin]] — Kontext für Venue-Partner
+- [[GROVE Brand Strategy]] — Kontext Markenaufbau

@@ -5,116 +5,115 @@ tags: [cardio, zone-2, aerobic, fat-oxidation, mitochondria, VO2max, hyrox, long
 sources: ["raw/Privat/Performance/_vault/00 Performance-Übersicht.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Zone 2 training — aerobic intensity below the first lactate threshold; primary fat oxidation zone; key longevity and Hyrox preparation tool; identified as primary limitator for Oleg's Hyrox performance; paired with posture correction as a unified protocol in Oleg's system
+summary: Zone 2 Training — aerobe Intensität unterhalb der ersten Laktatschwelle; primäre Fettoxidationszone; zentrales Werkzeug für Longevity und Hyrox-Vorbereitung; als primärer Limitator für Olegs Hyrox-Performance identifiziert; zusammen mit Haltungskorrektur als einheitliches Protokoll in Olegs System verankert
 ---
 
 # Zone 2 Cardio
 
-## Overview
+## Überblick
 
-**Zone 2 cardio** refers to sustained aerobic exercise performed at an intensity level below the **first lactate threshold (LT1)** — typically 60–70% of maximum heart rate, where conversation is possible but effortful. It is primarily powered by **fat oxidation** rather than glycolytic carbohydrate metabolism.
+**Zone 2 Cardio** bezeichnet ausdauerndes aerobes Training bei einer Intensität unterhalb der **ersten Laktatschwelle (LT1)** — typischerweise 60–70 % der maximalen Herzfrequenz, bei der eine Unterhaltung möglich, aber anstrengend ist. Es wird primär durch **Fettoxidation** statt durch glykolytischen Kohlenhydratstoffwechsel angetrieben.
 
-Zone 2 is emphasized by both **[[Peter Attia]]** (longevity medicine framework) and **[[Andrew Huberman]]** (performance protocols) as the most important single training modality for long-term health.
+Zone 2 wird sowohl von **[[Peter Attia]]** (Longevity-Medizin-Framework) als auch von **[[Andrew Huberman]]** (Performance-Protokolle) als die wichtigste einzelne Trainingsmodalität für langfristige Gesundheit hervorgehoben.
 
 ---
 
-## Physiological Mechanisms
+## Physiologische Mechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| **Mitochondrial biogenesis** | Creates new mitochondria in muscle cells |
-| **Fat oxidation** | Trains the body to use fat as primary fuel |
-| **Lactate clearance** | Improves ability to process lactate at higher intensities |
-| **Mitochondrial efficiency** | Existing mitochondria operate more efficiently |
-| **VO2max contribution** | Builds aerobic base that supports higher VO2max ceiling |
-| **Metabolic flexibility** | Enhances switching between fat and carbohydrate fuels |
-| **Insulin sensitivity** | Reduces insulin resistance via AMPK pathway |
+| **Mitochondriale Biogenese** | Erzeugt neue Mitochondrien in Muskelzellen |
+| **Fettoxidation** | Trainiert den Körper, Fett als primären Brennstoff zu nutzen |
+| **Laktatabbau** | Verbessert die Fähigkeit, Laktat bei höheren Intensitäten zu verarbeiten |
+| **Mitochondriale Effizienz** | Bestehende Mitochondrien arbeiten effizienter |
+| **VO2max-Beitrag** | Baut eine aerobe Basis auf, die eine höhere VO2max-Obergrenze unterstützt |
+| **Metabolische Flexibilität** | Verbessert das Umschalten zwischen Fett- und Kohlenhydratverbrennung |
+| **Insulinsensitivität** | Reduziert Insulinresistenz über den AMPK-Signalweg |
 
 ---
 
-## Role in Oleg's System
+## Rolle in Olegs System
 
-### Primary Hyrox Limitator
+### Primärer Hyrox-Limitator
 
-[[Performance Overview]] identifies **aerobic capacity** as the 🔴 **primary limitator** for [[Hyrox Prep]] performance. Zone 2 training is the direct intervention:
+[[Performance Overview]] identifiziert **aerobe Kapazität** als 🔴 **primären Limitator** für die [[Hyrox Prep|Hyrox-Vorbereitung]]-Performance. Zone 2 Training ist die direkte Intervention:
 
 > Zone 2 Progression: Vorrang vor hochintensiven Einheiten bis aerobe Basis gebaut
-> *(Zone 2 progression: priority over high-intensity units until aerobic base is built)*
 
-Hyrox requires sustained aerobic output across 8 exercise stations with 1 km running intervals between each. Without a sufficient aerobic base, high-intensity Hyrox-specific training is premature and risks overtraining.
+Hyrox erfordert anhaltenden aeroben Output über 8 Übungsstationen mit je 1 km Laufintervallen dazwischen. Ohne eine ausreichende aerobe Basis ist hochintensives Hyrox-spezifisches Training verfrüht und birgt das Risiko von Übertraining.
 
-### Zone 2 + Posture = Unified Protocol
+### Zone 2 + Haltung = Einheitliches Protokoll
 
-In [[Performance Overview]], Zone 2 cardio and [[Forward Head Posture]] correction are explicitly framed as a **single unified protocol** with four simultaneous outcomes:
+In [[Performance Overview]] werden Zone 2 Cardio und die Korrektur der [[Forward Head Posture|Vorwärtskopfhaltung]] ausdrücklich als **ein einheitliches Protokoll** mit vier simultanen Ergebnissen dargestellt:
 
-| Outcome | Zone 2 Contribution | Posture Contribution |
+| Ergebnis | Zone 2 Beitrag | Haltungsbeitrag |
 |---|---|---|
-| Fat mobilization | ✅ Primary driver | — |
-| Aerobic capacity | ✅ Primary driver | ✅ Better breathing mechanics |
-| Breathing efficiency | ✅ Sustained breathing demand | ✅ Diaphragm unlocked by posture |
-| Injury resilience | ✅ Low-impact base building | ✅ Structural alignment |
+| Fettmobilisierung | ✅ Primärer Treiber | — |
+| Aerobe Kapazität | ✅ Primärer Treiber | ✅ Bessere Atemmechanik |
+| Atemeffizienz | ✅ Anhaltende Atemanforderung | ✅ Zwerchfell durch Haltung freigesetzt |
+| Verletzungsresilienz | ✅ Aufbau mit geringer Belastung | ✅ Strukturelle Ausrichtung |
 
-This framing is a key insight: forward head posture impairs diaphragm function and breathing efficiency, directly limiting aerobic output. Correcting posture and building Zone 2 capacity are therefore synergistic, not independent.
-
----
-
-## Zone 2 Intensity Guidelines
-
-### Heart Rate Targeting
-- **Typical range:** 60–70% of HRmax
-- **180 Formula (Maffetone):** 180 − age = upper Zone 2 limit
-  - For Oleg (age ~35–40 estimated): ~140–145 bpm upper boundary
-- **Talk Test:** Can speak full sentences but slightly effortful
-
-### Duration and Frequency
-- **Minimum effective dose:** 45–60 min sessions (shorter sessions don't adequately tax mitochondria)
-- **Optimal per week:** 3–4 sessions × 45–60 min = 2.5–4 hours/week
-- **Attia target:** 4+ hours/week of Zone 2 for longevity adaptation
-
-### Modalities
-- Cycling (lowest impact, easy to maintain Zone 2)
-- Rowing (full body, higher fat oxidation rate)
-- Running (most specific for Hyrox)
-- Elliptical (joint-friendly Zone 2 base)
-- Incline walking (accessible, low injury risk)
+Diese Rahmung ist eine zentrale Erkenntnis: Vorwärtskopfhaltung beeinträchtigt die Zwerchfellfunktion und Atemeffizienz und begrenzt dadurch direkt den aeroben Output. Die Korrektur der Haltung und der Aufbau der Zone 2 Kapazität sind daher synergistisch und nicht unabhängig voneinander.
 
 ---
 
-## Progression Protocol
+## Zone 2 Intensitätsrichtlinien
 
-From [[Performance Overview]]:
-1. **Phase 1:** Establish Zone 2 base — Zone 2 is the primary training mode
-2. **Phase 2:** Maintain Zone 2 volume while introducing Hyrox-specific high-intensity work
-3. **Phase 3:** Race-specific simulation (brick training) on top of maintained Zone 2 base
+### Herzfrequenz-Zielbereich
+- **Typischer Bereich:** 60–70 % der maximalen Herzfrequenz
+- **180er-Formel (Maffetone):** 180 − Alter = obere Zone 2 Grenze
+  - Für Oleg (geschätztes Alter ~35–40): ~140–145 bpm Obergrenze
+- **Sprechtest:** Kann vollständige Sätze sprechen, aber leicht anstrengend
 
-→ Detailed 12-week milestone structure: [[Hyrox Prep]]
+### Dauer und Häufigkeit
+- **Minimal wirksame Dosis:** 45–60 min Einheiten (kürzere Einheiten belasten die Mitochondrien nicht ausreichend)
+- **Optimal pro Woche:** 3–4 Einheiten × 45–60 min = 2,5–4 Stunden/Woche
+- **Attia-Ziel:** 4+ Stunden/Woche Zone 2 für Longevity-Adaptation
 
----
-
-## Cold Exposure Interaction
-
-**Critical protocol note:** Cold water immersion should **not** be performed immediately after strength training — it suppresses the hypertrophic response. This does NOT apply to Zone 2 sessions (where hypertrophy is not the goal). Cold after Zone 2 may be acceptable or beneficial for recovery.
-
----
-
-## Connection to Longevity
-
-Zone 2 is central to [[Peter Attia]]'s longevity framework:
-- VO2max is the single strongest predictor of all-cause mortality in epidemiological studies
-- Zone 2 builds the aerobic base that allows Zone 5 (VO2max interval) training to be tolerated
-- Mitochondrial health is foundational to metabolic health and aging
+### Modalitäten
+- Radfahren (geringste Belastung, einfach im Zone 2 zu halten)
+- Rudern (Ganzkörper, höhere Fettoxidationsrate)
+- Laufen (am spezifischsten für Hyrox)
+- Ellipsentrainer (gelenkschonender Zone 2 Aufbau)
+- Incline Walking (zugänglich, geringes Verletzungsrisiko)
 
 ---
 
-## Related Pages
+## Progressionsprotokoll
 
-- [[Performance Overview]] — Zone 2 as primary limitator intervention
-- [[Performance Overview Source Detail]] — source document
-- [[Hyrox Prep]] — training context
-- [[Forward Head Posture]] — unified protocol partner
-- [[Peter Attia]] — primary conceptual reference
-- [[Andrew Huberman]] — co-reference
-- [[BMR and TDEE]] — metabolic baseline
-- [[Health Protocol Master]] — master protocol integration
-- [[Brick Training]] — advanced training modality layered on Zone 2 base
-- [[Oleg Personal Context]] — subject
+Aus [[Performance Overview]]:
+1. **Phase 1:** Zone 2 Basis etablieren — Zone 2 ist der primäre Trainingsmodus
+2. **Phase 2:** Zone 2 Volumen beibehalten, während Hyrox-spezifische hochintensive Arbeit eingeführt wird
+3. **Phase 3:** Wettkampfspezifische Simulation (Brick Training) auf Basis der beibehaltenen Zone 2 Grundlage
+
+→ Detaillierte 12-Wochen-Meilensteinstruktur: [[Hyrox Prep]]
+
+---
+
+## Interaktion mit Kälteanwendung
+
+**Wichtiger Protokollhinweis:** Kaltwasserimmersion sollte **nicht** unmittelbar nach dem Krafttraining durchgeführt werden — sie unterdrückt die hypertrophe Reaktion. Dies gilt NICHT für Zone 2 Einheiten (bei denen Hypertrophie nicht das Ziel ist). Kälte nach Zone 2 kann für die Erholung akzeptabel oder vorteilhaft sein.
+
+---
+
+## Verbindung zu Longevity
+
+Zone 2 ist zentral im Longevity-Framework von [[Peter Attia]]:
+- VO2max ist der stärkste einzelne Prädiktor für Gesamtmortalität in epidemiologischen Studien
+- Zone 2 baut die aerobe Basis auf, die es ermöglicht, Zone 5 (VO2max-Intervall) Training zu tolerieren
+- Mitochondriale Gesundheit ist grundlegend für metabolische Gesundheit und Alterung
+
+---
+
+## Verwandte Seiten
+
+- [[Performance Overview]] — Zone 2 als primäre Limitator-Intervention
+- [[Performance Overview Source Detail]] — Quelldokument
+- [[Hyrox Prep]] — Trainingskontext
+- [[Forward Head Posture|Vorwärtskopfhaltung]] — Partner im einheitlichen Protokoll
+- [[Peter Attia]] — primäre konzeptuelle Referenz
+- [[Andrew Huberman]] — weitere Referenz
+- [[BMR and TDEE]] — metabolische Ausgangslage
+- [[Health Protocol Master]] — Integration ins Masterprotokoll
+- [[Brick Training]] — fortgeschrittene Trainingsmodalität auf der Zone 2 Basis
+- [[Oleg Personal Context]] — betreffende Person

@@ -5,40 +5,40 @@ tags: [supplement, magnesium, sleep, cognition, momentous, brain-health]
 sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Brain-bioavailable form of magnesium included in the Momentous Complete Expert Stack — supports sleep quality, synaptic density, and cognitive function
+summary: Gehirnbioverfügbare Form von Magnesium im Momentous Complete Expert Stack — unterstützt Schlafqualität, synaptische Dichte und kognitive Funktion
 ---
 
 # Magnesium L-Threonate
 
-## Overview
+## Überblick
 
-**Magnesium L-Threonate** (MgT) is a form of magnesium developed at MIT, specifically designed to cross the blood-brain barrier efficiently. It is the primary magnesium form recommended for cognitive and sleep benefits by [[Andrew Huberman]].
+**Magnesium L-Threonate** (MgT) ist eine am MIT entwickelte Magnesiumform, die speziell darauf ausgelegt ist, die Blut-Hirn-Schranke effizient zu überwinden. Es ist die primäre Magnesiumform, die [[Andrew Huberman]] für kognitive Vorteile und besseren Schlaf empfiehlt.
 
-## Protocol Usage
+## Protokoll-Verwendung
 
-- **Included in:** [[Momentous]] Complete Expert Stack
-- **Role:** Sleep quality, synaptic plasticity, cognitive support
-- **Timing:** Per Momentous product instructions (typically evening)
-- **Context:** Part of [[Oleg Personal Context|Oleg]]'s [[Supplement Stack]]
+- **Enthalten in:** [[Momentous]] Complete Expert Stack
+- **Rolle:** Schlafqualität, synaptische Plastizität, kognitive Unterstützung
+- **Zeitpunkt:** Gemäß Momentous-Produktanweisungen (typischerweise abends)
+- **Kontext:** Teil von [[Oleg Personal Context|Olegs]] [[Supplement Stack]]
 
-## Why This Form of Magnesium
+## Warum diese Magnesiumform
 
-- **Blood-brain barrier penetration:** Threonate form specifically increases brain magnesium levels
-- **Synaptic density:** Research shows increased synaptic connections in animal models
-- **Sleep:** Promotes relaxation and deeper sleep stages
-- **Cognitive:** Improves working memory and learning in some studies
+- **Überwindung der Blut-Hirn-Schranke:** Die Threonat-Form erhöht gezielt den Magnesiumspiegel im Gehirn
+- **Synaptische Dichte:** Studien zeigen erhöhte synaptische Verbindungen in Tiermodellen
+- **Schlaf:** Fördert Entspannung und tiefere Schlafphasen
+- **Kognition:** Verbessert in einigen Studien das Arbeitsgedächtnis und die Lernfähigkeit
 
-Other forms (magnesium glycinate, citrate, oxide) have lower CNS bioavailability.
+Andere Formen (Magnesiumglycinat, -citrat, -oxid) haben eine geringere ZNS-Bioverfügbarkeit.
 
-## Huberman Protocol Context
+## Huberman-Protokoll-Kontext
 
-Magnesium L-Threonate is part of [[Andrew Huberman]]'s widely discussed "sleep cocktail" (typically: Magnesium L-Threonate or Glycinate + [[Apigenin]] + [[L-Theanin]]). Its inclusion in the Momentous Expert Stack reflects this protocol.
+Magnesium L-Threonate ist Teil von [[Andrew Huberman]]s vieldiskutiertem „Sleep Cocktail" (typischerweise: Magnesium L-Threonate oder Glycinat + [[Apigenin]] + [[L-Theanin]]). Die Aufnahme in den Momentous Expert Stack spiegelt dieses Protokoll wider.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context
-- [[Momentous]] — brand
-- [[Apigenin]] — co-supplement in sleep stack
-- [[L-Theanin]] — co-supplement in sleep stack
-- [[Andrew Huberman]] — protocol source
-- [[Health Protocol Master]] — broader protocol
+- [[Supplement Stack]] — Stack-Kontext
+- [[Momentous]] — Marke
+- [[Apigenin]] — Ko-Supplement im Schlaf-Stack
+- [[L-Theanin]] — Ko-Supplement im Schlaf-Stack
+- [[Andrew Huberman]] — Protokollquelle
+- [[Health Protocol Master]] — übergeordnetes Protokoll

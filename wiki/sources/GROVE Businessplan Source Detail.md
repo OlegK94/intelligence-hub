@@ -1,27 +1,27 @@
 ---
-title: GROVE Businessplan Source Detail
+title: GROVE Businessplan Quelldokument
 type: source
 tags: [cafe, grove, wagglz, berlin, businessplan, kfw, gmbh, oleg, hai, specialty-coffee, bar, dj, streaming, vietnamese-coffee, royce, branding, marketing, finanzen, liquiditaet, risk, exit]
 sources: ["raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-01
 updated: 2026-06-16
-summary: Complete GROVE Café & Bar business plan 2026/2027 — Wagglz GmbH operating vehicle, 165,000 € capital (KfW + equity), Berlin opening Feb 2027, 60/40 equity split Oleg/Hai, break-even Month 4, Vietnamese Coffee + ROYCE chocolate as signature products, GROVE Sessions pre-opening community strategy
+summary: Vollständiger GROVE Café & Bar Businessplan 2026/2027 — Wagglz GmbH als Betriebsvehikel, 165.000 € Kapital (KfW + Eigenkapital), Berliner Eröffnung Feb 2027, 60/40 Gesellschafteraufteilung Oleg/Hai, Break-even Monat 4, Vietnamesischer Kaffee + ROYCE Schokolade als Signaturprodukte, GROVE Sessions als Pre-Opening-Community-Strategie
 ---
 
-# GROVE Businessplan & Betriebshandbuch 2026/2027 — Source Detail
+# GROVE Businessplan & Betriebshandbuch 2026/2027 — Quelldokument
 
-## Overview
+## Überblick
 
-This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2026, v3.3) is the comprehensive business plan and operating manual for **GROVE** — a specialty coffee café with full bar, DJ events, and live-streaming, planned for Berlin opening in February 2027. Operated through [[Wagglz GmbH]] (to be renamed GROVE GmbH).
+Dieses Quelldokument (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2026, v3.3) ist der vollständige Businessplan und das Betriebshandbuch für **GROVE** — ein Specialty-Coffee-Café mit vollständiger Bar, DJ-Events und Live-Streaming, geplante Berliner Eröffnung im Februar 2027. Betrieben durch [[Wagglz GmbH]] (soll in GROVE GmbH umbenannt werden).
 
-> For the entity summary, see [[GROVE Businessplan und Betriebshandbuch 2026]].
-> For the original café partnership planning document, see [[Café Berlin Partnership Hai Raw Source]].
+> Zur Entitätszusammenfassung siehe [[GROVE Businessplan und Betriebshandbuch 2026]].
+> Zum ursprünglichen Café-Partnerschaftsplanungsdokument siehe [[Café Berlin Partnership Hai Raw Source|Café Berlin Partnerschaft Hai Quelldokument]].
 
 ---
 
-## Executive Summary (from Source)
+## Zusammenfassung (aus dem Quelldokument)
 
-| Parameter | Value |
+| Parameter | Wert |
 |---|---|
 | **Konzept** | Specialty-Coffee-Café + Bar + DJ-Events + Live-Streaming |
 | **Marke** | GROVE (empfohlen) |
@@ -37,9 +37,9 @@ This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2
 
 ---
 
-## Capital Structure
+## Kapitalstruktur
 
-| Source | Amount | Status |
+| Quelle | Betrag | Status |
 |---|---|---|
 | Eigenkapital Oleg | 20.000 € | laufend aus Gehalt + Provision |
 | Partner-Einlage (Hai) | 20.000 € | Gesellschaftervertrag erforderlich |
@@ -50,7 +50,7 @@ This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2
 
 ---
 
-## Investment Costs
+## Investitionskosten
 
 | Position | Betrag |
 |---|---|
@@ -67,11 +67,11 @@ This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2
 | Working Capital (3 Monate) | 15.000 € |
 | **Gesamt** | **~102.400 €** |
 
-**Reserve after setup: 165.000 − 102.400 = 62.600 €**
+**Reserve nach Aufbau: 165.000 − 102.400 = 62.600 €**
 
 ---
 
-## Monthly Fixed Costs — Phase Model
+## Monatliche Fixkosten — Phasenmodell
 
 | Phase | Zeitraum | Gehalt je Person | Fixkosten gesamt |
 |---|---|---|---|
@@ -81,20 +81,20 @@ This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2
 
 ---
 
-## Liquidity Plan (Key Milestones)
+## Liquiditätsplan (Wichtige Meilensteine)
 
-| Milestone | Month | Cash Position |
+| Meilenstein | Monat | Kassenstand |
 |---|---|---|
-| Capital assembled | Okt 2026 | 165.000 € |
-| Post-setup (before opening) | Jan 2027 | 64.400 € |
-| Opening (Soft) | Feb 2027 (M0) | 56.077 € |
-| **Break-even (operational)** | **Jun 2027 (M4)** | **45.885 €** |
-| Low point | Jan 2028 (M11) | 40.924 € |
-| Year 2+ monthly surplus | ab Feb 2028 | ~+2.000 €/Monat |
+| Kapital zusammengestellt | Okt 2026 | 165.000 € |
+| Nach Aufbau (vor Eröffnung) | Jan 2027 | 64.400 € |
+| Eröffnung (Soft) | Feb 2027 (M0) | 56.077 € |
+| **Break-even (operativ)** | **Jun 2027 (M4)** | **45.885 €** |
+| Tiefpunkt | Jan 2028 (M11) | 40.924 € |
+| Monatlicher Überschuss ab Jahr 2+ | ab Feb 2028 | ~+2.000 €/Monat |
 
 ---
 
-## Three-Year P&L Forecast
+## Dreijährige Gewinn- und Verlustprognose
 
 | Position | Jahr 1 (2027) | Jahr 2 (2028) | Jahr 3 (2029) |
 |---|---|---|---|
@@ -107,22 +107,22 @@ This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2
 
 ---
 
-## Equity & Partnership Structure
+## Eigenkapital- & Partnerschaftsstruktur
 
-- **Equity:** 60% Oleg / 40% Hai
+- **Eigenkapital:** 60% Oleg / 40% Hai
 - **Begründung:** Oleg trägt Restaurantfachmann-Qualifikation, Konzept, GmbH-Struktur, Wagglz-Verlustvortrag; beide Vollzeit operativ, gleiche Kapitaleinlage
 - **Geschäftsführung:** Oleg allein (Hai ohne Einzelvertretung)
 - **Vesting:** 3 Jahre, 1-Jahr-Cliff
-- **Gesellschaftervertrag:** Pflicht vor Opening (notariell)
+- **Gesellschaftervertrag:** Pflicht vor Eröffnung (notariell)
 
 > ⚠️ **Partner SV-Prüfung:** Als 40%-Gesellschafter ist Hai ggf. sozialversicherungspflichtig → AG-Kosten +~800 €/Monat. Steuerberater muss klären.
 
 ---
 
-## Location Strategy
+## Standortstrategie
 
-**Primary targets:** Friedrichshain / Schöneberg (best price-concept ratio)
-**Secondary:** Prenzlauer Berg (highest rents + Ablöse risk)
+**Primäre Zielgebiete:** Friedrichshain / Schöneberg (bestes Preis-Konzept-Verhältnis)
+**Sekundär:** Prenzlauer Berg (höchste Mieten + Ablöse-Risiko)
 
 **Ablöse-Warnung:** PB-Objekte kommen oft mit 85.000–135.000 € Ablöse — sprengt das Budget. Nur ohne Ablöse oder < 30.000 €.
 
@@ -134,42 +134,42 @@ This source document (`raw/Business/Cafe/cafe_masterplan_2026.md`, Stand: Juni 2
 
 ---
 
-## Concept: Day-to-Night Modular Operation
+## Konzept: Modularer Tag-zu-Nacht-Betrieb
 
 | Phase | Zeit | Angebot |
 |---|---|---|
-| Morning | 08:00–12:00 | Specialty Coffee, Croissants, Kuchen |
-| Midday | 12:00–16:00 | Coffee, Backwaren |
-| Afternoon | 16:00–19:00 | Coffee, erste Drinks |
-| Evening | 19:00–00:00 (Fr/Sa länger) | Cocktails, Naturwein, Craftbier, DJ |
+| Morgen | 08:00–12:00 | Specialty Coffee, Croissants, Kuchen |
+| Mittag | 12:00–16:00 | Kaffee, Backwaren |
+| Nachmittag | 16:00–19:00 | Kaffee, erste Drinks |
+| Abend | 19:00–00:00 (Fr/Sa länger) | Cocktails, Naturwein, Craftbier, DJ |
 
-**DJ Events:** Fr + Sa ab 20:00 Uhr — aufstrebende DJs, kostenlos oder Revenue-Share
+**DJ-Events:** Fr + Sa ab 20:00 Uhr — aufstrebende DJs, kostenlos oder Revenue-Share
 **Live-Stream:** YouTube/Twitch mit Café-Branding
 
 ---
 
-## Signature Products (Extended Concept)
+## Signaturprodukte (Erweitertes Konzept)
 
-### Vietnamese Coffee Line
-See [[Vietnamese Coffee GROVE]] for full detail.
+### Vietnamesische Kaffeelinie
+Vollständige Details siehe [[Vietnamese Coffee GROVE|Vietnamesischer Kaffee GROVE]].
 
-- **Cà Phê Sữa Đá** ← Signature: Phin-Filter, Robusta Blend, Kondensmilch, Eis — 7,00 €
-- **Cà Phê Trứng** (Egg Coffee) — saisonal, 8,00 €
+- **Cà Phê Sữa Đá** ← Signatur: Phin-Filter, Robusta Blend, Kondensmilch, Eis — 7,00 €
+- **Cà Phê Trứng** (Eierkaffee) — saisonal, 8,00 €
 - **Cold Brew Viet Style** — 7,50 €
 - Referenzmodell: Hanoi Drip Coffee (Vancouver)
 - Phin-Filter als sichtbares Ritual und Content-Gold
 
 ### ROYCE' Nama Schokolade (Phase 2, ab Monat 6)
-See [[ROYCE Nama Schokolade]].
+Vollständige Details siehe [[ROYCE Nama Schokolade]].
 
-- Japanese premium chocolate from Hokkaido
-- Positioning: "Tokyo × Hanoi" pairing with Vietnamese Coffee
-- Import via EU-Händler; 2,50–3,50 € pro Stück
+- Japanische Premiumschokolade aus Hokkaido
+- Positionierung: "Tokyo × Hanoi" Pairing mit vietnamesischem Kaffee
+- Import über EU-Händler; 2,50–3,50 € pro Stück
 - Phase 2 wegen Kühlketten-Komplexität
 
 ---
 
-## GROVE Sessions (Pre-Opening Community Strategy)
+## GROVE Sessions (Pre-Opening-Community-Strategie)
 
 **Modell C (Empfehlung):** Sofort mit externen Events starten + später eigenes Café
 
@@ -177,22 +177,22 @@ See [[ROYCE Nama Schokolade]].
 |---|---|---|
 | Jetzt | GROVE Sessions in anderen Berliner Cafés | Sofort — kein Café nötig |
 | Aufbau | Community, YouTube/Twitch, Publikum testen | Jun–Dez 2026 |
-| Opening | Café öffnet mit bereits vorhandener Community | Feb 2027 |
+| Eröffnung | Café öffnet mit bereits vorhandener Community | Feb 2027 |
 
-Reference: [[Espresso Club Radio Reference]] (Buenos Aires) — events in rotating venues, no phones, pro AV production.
+Referenz: [[Espresso Club Radio Reference|Espresso Club Radio Referenz]] (Buenos Aires) — Veranstaltungen an wechselnden Orten, keine Handys, professionelle AV-Produktion.
 
 ---
 
-## Streaming Strategy
+## Streaming-Strategie
 
 - **Phase 1:** YouTube Live + Twitch parallel via OBS + Restream.io (~15 €/Monat)
-- **Technical setup:** ~500–1.000 € einmalig (Kamera, Mikro, LAN)
+- **Technisches Setup:** ~500–1.000 € einmalig (Kamera, Mikro, LAN)
 - **Phase 2:** GROVE Radio Bereich auf Website (iframe embed)
 - **Phase 3 (Jahr 2+):** Eigener RTMP-Server, Members-only Streams
 
 ---
 
-## Brand Strategy
+## Markenstrategie
 
 - **Name:** GROVE (Hain, Wäldchen; Musik-Label-Vibes; international, skalierbar)
 - **Ästhetik:** Olivgrün + Creme + Dunkelbraun; warm, körpernah, handgemacht
@@ -204,7 +204,7 @@ Reference: [[Espresso Club Radio Reference]] (Buenos Aires) — events in rotati
 
 ## Cashflow Trigger System
 
-See [[GROVE Cashflow Trigger System]].
+Siehe [[GROVE Cashflow Trigger System]].
 
 | Kassenstand | Signal | Maßnahme |
 |---|---|---|
@@ -216,7 +216,7 @@ See [[GROVE Cashflow Trigger System]].
 
 ---
 
-## Exit Options (Wagglz GmbH / GROVE)
+## Exit-Optionen (Wagglz GmbH / GROVE)
 
 | Option | Beschreibung | VV |
 |---|---|---|
@@ -229,9 +229,9 @@ See [[GROVE Cashflow Trigger System]].
 
 ---
 
-## Project Timeline
+## Projektzeitplan
 
-| Phase | Zeitraum | Key Milestones |
+| Phase | Zeitraum | Wichtige Meilensteine |
 |---|---|---|
 | Phase 1 — Fundament | Jun–Aug 2026 | Steuerberater, KfW-Antrag, Gesellschaftervertrag, GROVE-Name, Satzungsänderung |
 | Phase 2 — Standort & Brand | Aug–Okt 2026 | Standortsuche, SCA Barista, Brand-Designer, Mietvertrag |
@@ -241,47 +241,47 @@ See [[GROVE Cashflow Trigger System]].
 
 ---
 
-## Stress Scenario (−25% Umsatz)
+## Stressszenario (−25% Umsatz)
 
-> ⚠️ Without countermeasures: Januar 2028 = 4.049 € Kassenstand → **Insolvenzgefahr**
+> ⚠️ Ohne Gegenmaßnahmen: Januar 2028 = 4.049 € Kassenstand → **Insolvenzgefahr**
 
-Countermeasures:
+Gegenmaßnahmen:
 - Kasse < 30k: Gehaltserhöhung auf Phase 3 verschieben → −2.000 €/Monat
 - Kasse < 20k: Beide auf 2.000 € → −6.000 €/Monat
 - Kasse < 10k: Steuerberater + Nachfinanzierung sofort
 
 ---
 
-## Consistency with Existing Wiki
+## Übereinstimmung mit bestehendem Wiki
 
-### Confirmed (no contradiction)
-- [[Wagglz GmbH]] Verlustvortrag ~150k — consistent with prior wiki entries
-- [[Hai]] as co-founder — consistent with existing café partnership pages
-- [[KfW StartGeld ERP 067]] as financing instrument — new detail; no prior contradiction
-- Friedrichshain/Prenzlauer Berg as target Kieze — consistent with prior café partnership page
+### Bestätigt (kein Widerspruch)
+- [[Wagglz GmbH]] Verlustvortrag ~150k — übereinstimmend mit früheren Wiki-Einträgen
+- [[Hai]] als Mitgründer — übereinstimmend mit bestehenden Café-Partnerschaftsseiten
+- [[KfW StartGeld ERP 067]] als Finanzierungsinstrument — neue Information; kein früherer Widerspruch
+- Friedrichshain/Prenzlauer Berg als Zielkieze — übereinstimmend mit früherer Café-Partnerschaftsseite
 
-### New Information (extends prior wiki)
-- Equity split changed: **Prior wiki said 50/50** (from early planning documents); **this document specifies 60/40 (Oleg/Hai)** — this is the definitive authoritative source as the full business plan supersedes the early planning documents
-- Doctolib mentioned as Oleg's current employer (Kündigung geplant November 2026) — **not previously in wiki**; see [[Doctolib]] stub needed
-- Schöneberg added as target location (not in earlier café partnership pages)
-- Vietnamese Coffee and ROYCE' as signature products — entirely new concept
+### Neue Informationen (erweitern das bisherige Wiki)
+- Eigenkapitalaufteilung geändert: **Früheres Wiki enthielt 50/50** (aus frühen Planungsdokumenten); **dieses Dokument legt 60/40 (Oleg/Hai) fest** — dies ist die maßgebliche Quelle, da der vollständige Businessplan die frühen Planungsdokumente ersetzt
+- Doctolib als Olegs aktueller Arbeitgeber erwähnt (Kündigung geplant November 2026) — **bisher nicht im Wiki**; siehe [[Doctolib]] Stub erforderlich
+- Schöneberg als Zielstandort hinzugefügt (nicht in früheren Café-Partnerschaftsseiten)
+- Vietnamesischer Kaffee und ROYCE' als Signaturprodukte — vollständig neues Konzept
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[GROVE Businessplan und Betriebshandbuch 2026]] — entity summary
-- [[Wagglz GmbH]] — operating entity
-- [[Hai]] — co-founder (40%)
-- [[Oleg Personal Context]] — founder (60%)
-- [[KfW StartGeld ERP 067]] — financing
-- [[GROVE Cashflow Trigger System]] — financial controls
-- [[GROVE Revenue Streams]] — revenue overview
-- [[Vietnamese Coffee GROVE]] — signature product
-- [[ROYCE Nama Schokolade]] — Phase 2 product
-- [[GROVE Sessions External]] — pre-opening community strategy
-- [[Espresso Club Radio Reference]] — reference model
-- [[Streaming Strategy GROVE]] — GROVE Radio concept
-- [[GROVE Brand Strategy]] — naming and visual identity
-- [[Café Berlin Partnership Hai Raw Source]] — original planning doc
-- [[Specialty Coffee Market Berlin]] — competitive landscape
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — Entitätszusammenfassung
+- [[Wagglz GmbH]] — Betriebsgesellschaft
+- [[Hai]] — Mitgründer (40%)
+- [[Oleg Personal Context|Oleg Persönlicher Kontext]] — Gründer (60%)
+- [[KfW StartGeld ERP 067]] — Finanzierung
+- [[GROVE Cashflow Trigger System]] — Finanzsteuerung
+- [[GROVE Revenue Streams|GROVE Einnahmequellen]] — Umsatzübersicht
+- [[Vietnamese Coffee GROVE|Vietnamesischer Kaffee GROVE]] — Signaturprodukt
+- [[ROYCE Nama Schokolade]] — Phase-2-Produkt
+- [[GROVE Sessions External|GROVE Sessions Extern]] — Pre-Opening-Community-Strategie
+- [[Espresso Club Radio Reference|Espresso Club Radio Referenz]] — Referenzmodell
+- [[Streaming Strategy GROVE|Streaming-Strategie GROVE]] — GROVE Radio Konzept
+- [[GROVE Brand Strategy|GROVE Markenstrategie]] — Namensgebung und visuelle Identität
+- [[Café Berlin Partnership Hai Raw Source|Café Berlin Partnerschaft Hai Quelldokument]] — ursprüngliches Planungsdokument
+- [[Specialty Coffee Market Berlin|Specialty-Coffee-Markt Berlin]] — Wettbewerbsumfeld

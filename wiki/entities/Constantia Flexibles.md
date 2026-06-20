@@ -5,48 +5,48 @@ tags: [performance-cafe, packaging, aluminium, stick-pack, sachet, DE, AT, ops, 
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: DE/AT-based packaging supplier for Performance Coffee Brand — aluminium stick-pack 30×110mm with laser tearnotch; primary packaging for the instant coffee sachet product
+summary: DE/AT-ansässiger Verpackungslieferant für die Performance Coffee Brand — Aluminium-Stickpack 30×110mm mit Laser-Tearnotch; Primärverpackung für das Instantkaffee-Sachet-Produkt
 ---
 
 # Constantia Flexibles
 
-## Overview
+## Überblick
 
-**Constantia Flexibles** is the recommended packaging supplier for [[Performance Coffee Brand]]'s primary packaging — the aluminium stick-pack sachet. It is a German/Austrian flexible packaging company with strong food and supplement industry experience.
+**Constantia Flexibles** ist der empfohlene Verpackungslieferant für die Primärverpackung der [[Performance Coffee Brand]] — das Aluminium-Stickpack-Sachet. Es handelt sich um ein deutsch-österreichisches Unternehmen für flexible Verpackungen mit umfangreicher Erfahrung in der Lebensmittel- und Nahrungsergänzungsmittelbranche.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Location** | Germany / Austria |
-| **Product** | Aluminium Stick-Pack |
-| **Specification** | 30×110mm, Laser-Tearnotch |
-| **Application** | Performance Coffee primary packaging |
+| **Standort** | Deutschland / Österreich |
+| **Produkt** | Aluminium-Stickpack |
+| **Spezifikation** | 30×110mm, Laser-Tearnotch |
+| **Anwendung** | Performance Coffee Primärverpackung |
 
-## Product Specification
+## Produktspezifikation
 
-- **Format:** Stick-Pack (vertical form-fill-seal sachet)
-- **Dimensions:** 30mm × 110mm — standard single-serve size
-- **Material:** Aluminium composite foil (Aluminium-Verbundfolie)
-- **Opening mechanism:** Laser-Tearnotch — precise laser-cut tear line for clean opening
-- **Sealing:** Compatible with [[Schutzgas-Versiegelung]] (N₂ protective gas sealing) for NMN/NR stability
+- **Format:** Stickpack (vertikal form-fill-seal Sachet)
+- **Abmessungen:** 30mm × 110mm — Standardgröße für Einzelportionen
+- **Material:** Aluminium-Verbundfolie
+- **Öffnungsmechanismus:** Laser-Tearnotch — präzise lasergeschnittene Reißlinie für sauberes Öffnen
+- **Versiegelung:** Kompatibel mit [[Schutzgas-Versiegelung]] (N₂-Schutzgasversiegelung) für NMN/NR-Stabilität
 
-## Why Aluminium?
+## Warum Aluminium?
 
-Aluminium composite foil is the preferred material for functional ingredient sachets:
-- **Moisture barrier:** Prevents hydrolysis of hygroscopic ingredients (Alpha-GPC, NMN)
-- **Light barrier:** Protects photosensitive ingredients (Astaxanthin, Curcumin)
-- **Oxygen barrier:** Combined with N₂ sealing, creates near-zero oxygen environment
-- **Premium perception:** Aluminium connotes pharmaceutical/premium quality vs. paper/plastic
-- **Inert:** Does not interact with ingredients
+Aluminium-Verbundfolie ist das bevorzugte Material für Sachets mit funktionellen Inhaltsstoffen:
+- **Feuchtigkeitsbarriere:** Verhindert die Hydrolyse hygroskopischer Inhaltsstoffe (Alpha-GPC, NMN)
+- **Lichtbarriere:** Schützt lichtempfindliche Inhaltsstoffe (Astaxanthin, Curcumin)
+- **Sauerstoffbarriere:** Erzeugt in Kombination mit N₂-Versiegelung eine nahezu sauerstofffreie Umgebung
+- **Premium-Wahrnehmung:** Aluminium vermittelt pharmazeutische/Premium-Qualität im Vergleich zu Papier oder Kunststoff
+- **Inert:** Reagiert nicht mit den Inhaltsstoffen
 
-## Outer Packaging
+## Außenverpackung
 
-The source also lists **DS Smith** for FSC-certified cardboard outer packaging (subscription box or retail display carton).
+Die Quelldatei führt außerdem **DS Smith** für FSC-zertifizierte Karton-Außenverpackungen auf (Abobox oder Verkaufsdisplay-Karton).
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Supplier List]] — source document
-- [[Performance Coffee Brand]] — project entity
-- [[Schutzgas-Versiegelung]] — sealing technology requiring aluminium packaging
-- [[CMO Sourcing Performance Coffee]] — CMO must have Constantia-compatible filling equipment
+- [[Performance Cafe Supplier List|Performance Cafe Lieferantenliste]] — Quelldokument
+- [[Performance Coffee Brand]] — Projekteinheit
+- [[Schutzgas-Versiegelung]] — Versiegelungstechnologie, die Aluminiumverpackung erfordert
+- [[CMO Sourcing Performance Coffee|CMO-Beschaffung Performance Coffee]] — CMO muss über Constantia-kompatible Abfüllanlage verfügen

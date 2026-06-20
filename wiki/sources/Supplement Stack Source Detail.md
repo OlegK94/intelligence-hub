@@ -1,111 +1,111 @@
 ---
-title: Supplement Stack Source Detail
+title: Supplement Stack Quelldokument
 type: source
 tags: [supplements, performance, momentous, creatine, omega3, whey, sulforaphane, vitamin-d, alpha-gpc, l-tyrosine, aktiv]
 sources: ["raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Raw source document for Oleg's active supplement stack — Momentous-primary protocol with 5 daily supplements, Sulforaphane as sole non-Momentous exception, situational pre-workout stack (Alpha-GPC + L-Tyrosine), and explicit exclusion rationale for L-Glutamin, Collagen, and Fiber+
+summary: Rohes Quelldokument für Olegs aktiven Supplement-Stack — Momentous-primäres Protokoll mit 5 täglichen Supplements, Sulforaphan als einzige Nicht-Momentous-Ausnahme, situativer Pre-Workout-Stack (Alpha-GPC + L-Tyrosin) sowie explizite Ausschlussbegründungen für L-Glutamin, Kollagen und Fiber+
 ---
 
-# Supplement Stack — Source Detail
+# Supplement Stack — Quelldokument
 
-## Overview
+## Überblick
 
-This source document (status: Aktiv, created: 2026-06-06) captures the full supplement protocol for [[Oleg Personal Context|Oleg]]. The guiding principle is **Momentous-exclusivity** with two specific exceptions, no duplicates, and evidence-based selection only.
+Dieses Quelldokument (Status: Aktiv, erstellt: 2026-06-06) erfasst das vollständige Supplement-Protokoll für [[Oleg Personal Context|Oleg]]. Das Leitprinzip ist **Momentous-Exklusivität** mit zwei spezifischen Ausnahmen, keine Duplikate und ausschließlich evidenzbasierte Auswahl.
 
-> For the entity summary and supplement context, see [[Supplement Stack]].
-> For the daily timing protocol, see [[Health Protocol Master]].
+> Für die Entitätszusammenfassung und den Supplement-Kontext siehe [[Supplement Stack]].
+> Für das tägliche Timing-Protokoll siehe [[Health Protocol Master]].
 
-## Prinzip (Guiding Principle)
+## Prinzip
 
 > Momentous-exklusiv + 2 spezifische Ausnahmen. Keine Duplikate. Nur was evidenzbasiert und sinnvoll ist.
 
-- **Primary brand:** [[Momentous]]
-- **Exceptions allowed:** Only when Momentous has no equivalent product
-- **No duplicates:** Each physiological need covered by one product only
-- **Evidence filter:** Only supplements with meaningful scientific support
+- **Primärmarke:** [[Momentous]]
+- **Erlaubte Ausnahmen:** Nur wenn Momentous kein gleichwertiges Produkt hat
+- **Keine Duplikate:** Jeder physiologische Bedarf wird durch genau ein Produkt abgedeckt
+- **Evidenzfilter:** Nur Supplements mit aussagekräftiger wissenschaftlicher Grundlage
 
-## Aktiver Stack (Active Supplements)
+## Aktiver Stack
 
 ### 1. Momentous — Complete Expert Stack
-- **Contents:** Vitamin D3/K2, [[Magnesium L-Threonate]], [[Apigenin]], [[L-Theanin]], and additional items by package
-- **Timing:** Per product instructions
-- **Source:** Momentous (International Shipping / Amazon)
-- **Note:** This is a bundled package covering multiple foundational supplements
+- **Inhalt:** Vitamin D3/K2, [[Magnesium L-Threonate]], [[Apigenin]], [[L-Theanin]] sowie weitere Produkte je nach Paket
+- **Timing:** Gemäß Produktanleitung
+- **Bezugsquelle:** Momentous (Internationaler Versand / Amazon)
+- **Hinweis:** Dieses gebündelte Paket deckt mehrere grundlegende Supplements ab
 
 ### 2. Momentous — Whey Protein Isolate (Unflavored)
-- **Amount:** ~40g post-training
-- **Timing:** 07:40 im Auto (Shake — during drive back from gym)
-- **Form:** Protein shake consumed in transit
+- **Menge:** ~40g nach dem Training
+- **Timing:** 07:40 im Auto (Shake — auf der Rückfahrt vom Fitnessstudio)
+- **Form:** Protein-Shake, der unterwegs konsumiert wird
 
 ### 3. Momentous — Omega-3
-- **Dose:** Per product instructions
-- **Timing:** With a meal
+- **Dosis:** Gemäß Produktanleitung
+- **Timing:** Zu einer Mahlzeit
 
 ### 4. Momentous — Creatine
-- **Dose:** 5g daily
-- **Timing:** Flexible — **Konsistenz > Timing** (consistency matters more than exact timing)
-- **Protocol note:** Aligns with standard creatine monohydrate loading research — timing is irrelevant once saturation is achieved
+- **Dosis:** 5g täglich
+- **Timing:** Flexibel — **Konsistenz > Timing** (Regelmäßigkeit ist wichtiger als der genaue Zeitpunkt)
+- **Protokollhinweis:** Entspricht der Standardforschung zu Kreatin-Monohydrat-Loading — das Timing ist irrelevant, sobald die Sättigung erreicht ist
 
 ### 5. Sunday Natural — Sulforaphane (Brokkolisprossen-Extrakt)
-- **Brand:** [[Sunday Natural]] — **only non-Momentous supplement**
-- **Reason for exception:** [[Rhonda Patrick]] protocol; Momentous has no equivalent product
-- **Dose:** Per product instructions
-- **Source:** Sunday Natural
+- **Marke:** [[Sunday Natural]] — **einziges Nicht-Momentous-Supplement**
+- **Grund für die Ausnahme:** [[Rhonda Patrick]]-Protokoll; Momentous hat kein gleichwertiges Produkt
+- **Dosis:** Gemäß Produktanleitung
+- **Bezugsquelle:** Sunday Natural
 
 ### 6. Vitamin D3 20.000 IU + K2
-- **Status:** Already in stock (eigener Bestand, K2 inklusive)
-- **Frequency:** **2× per week** (Monday + Thursday)
-- **Note:** No purchase required — existing supply
-- **Overlap note:** The Momentous Complete Expert Stack also contains Vitamin D3/K2. This creates a **potential duplication** — the existing high-dose D3 20,000 IU × 2/week stack may overlap with the Momentous bundle. See Contradiction note below.
+- **Status:** Bereits vorrätig (eigener Bestand, K2 inklusive)
+- **Häufigkeit:** **2× pro Woche** (Montag + Donnerstag)
+- **Hinweis:** Kein Kauf erforderlich — vorhandener Vorrat
+- **Überschneidungshinweis:** Der Momentous Complete Expert Stack enthält ebenfalls Vitamin D3/K2. Dies erzeugt eine **potenzielle Doppelversorgung** — der bestehende Hochdosis-D3-Stack mit 20.000 IU × 2/Woche könnte sich mit dem Momentous-Paket überschneiden. Siehe Widerspruchshinweis unten.
 
-## Bewusst NICHT im Stack (Explicitly Excluded)
+## Bewusst NICHT im Stack
 
-| Supplement | Begründung (Rationale) |
+| Supplement | Begründung |
 |---|---|
-| L-Glutamin | Ausreichend über Ernährung gedeckt (adequately covered by diet) |
-| Collagen Peptides | Aktuell nicht notwendig (not currently necessary) |
-| Fiber+ | Ballaststoffe via Ernährung ausreichend (dietary fiber sufficient) |
-| Alles weitere | Kein evidenzbasierter Mehrwert nachgewiesen (no proven evidence-based value) |
+| L-Glutamin | Ausreichend über Ernährung gedeckt |
+| Collagen Peptides | Aktuell nicht notwendig |
+| Fiber+ | Ballaststoffe via Ernährung ausreichend |
+| Alles weitere | Kein evidenzbasierter Mehrwert nachgewiesen |
 
-## Pre-Workout (Situativ / Situational)
+## Pre-Workout (Situativ)
 
-- **[[Alpha-GPC]]** — taken in the car on the way to the gym (kognitive Aktivierung / cognitive activation)
-- **[[L-Tyrosine]]** — taken together with Alpha-GPC
+- **[[Alpha-GPC]]** — wird im Auto auf dem Weg ins Fitnessstudio eingenommen (kognitive Aktivierung)
+- **[[L-Tyrosine]]** — wird zusammen mit Alpha-GPC eingenommen
 
-Both are listed as situational, not daily. They align with the [[Health Protocol Master]] daily schedule (06:05 drive to gym).
+Beide sind als situativ und nicht täglich eingestuft. Sie sind im täglichen Zeitplan des [[Health Protocol Master]] verankert (Fahrt ins Fitnessstudio um 06:05 Uhr).
 
-## ⚠️ Contradiction Note: Vitamin D3 Duplication
+## ⚠️ Widerspruchshinweis: Vitamin D3 Doppelversorgung
 
-The source lists two Vitamin D3 sources:
-1. **Momentous Complete Expert Stack** — described as containing Vitamin D3/K2 (dose unspecified)
-2. **Vitamin D3 20,000 IU + K2** — 2× per week (Monday + Thursday)
+Die Quelle führt zwei Vitamin-D3-Quellen auf:
+1. **Momentous Complete Expert Stack** — enthält laut Beschreibung Vitamin D3/K2 (Dosis nicht spezifiziert)
+2. **Vitamin D3 20.000 IU + K2** — 2× pro Woche (Montag + Donnerstag)
 
-If the Momentous stack is taken daily, this creates a potential **double-dosing of Vitamin D3**. Possible resolutions:
-- The Momentous D3 dose may be low (e.g., 1,000–2,000 IU) and the 20,000 IU × 2/week is additive by design
-- The 20,000 IU dosing (40,000 IU/week) is a high but not uncommon therapeutic approach, with K2 included for safety
-- No explicit resolution in the source document
+Wird der Momentous-Stack täglich eingenommen, entsteht eine potenzielle **Doppeldosierung von Vitamin D3**. Mögliche Lösungsansätze:
+- Die Momentous-D3-Dosis könnte niedrig sein (z. B. 1.000–2.000 IU), und die 20.000 IU × 2/Woche sind bewusst additiv konzipiert
+- Die Dosierung von 20.000 IU (40.000 IU/Woche) ist hoch, aber kein unüblicher therapeutischer Ansatz — K2 ist zur Sicherheit enthalten
+- Im Quelldokument findet sich keine explizite Klärung dieses Punktes
 
-> ⚠️ **Flagged for review:** Total weekly Vitamin D3 intake may be very high if both sources are used simultaneously. Consult healthcare provider for blood level monitoring.
+> ⚠️ **Zur Überprüfung markiert:** Die gesamte wöchentliche Vitamin-D3-Zufuhr kann sehr hoch sein, wenn beide Quellen gleichzeitig genutzt werden. Zur Überwachung der Blutspiegel einen Arzt konsultieren.
 
-## Source Metadata
+## Quellen-Metadaten
 
 - **Status:** Aktiv
-- **Marke (Primary Brand):** Momentous
+- **Primärmarke:** Momentous
 - **Tags:** supplements, performance, aktiv
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — entity summary page
-- [[Health Protocol Master]] — daily timing context
-- [[Alpha-GPC]] — pre-workout cognitive supplement
-- [[L-Tyrosine]] — pre-workout dopamine support
-- [[Momentous]] — primary supplement brand
-- [[Rhonda Patrick]] — source of Sulforaphane protocol
-- [[Creatine]] — specific supplement concept
-- [[Sulforaphane]] — broccoli sprout extract supplement
-- [[Magnesium L-Threonate]] — sleep supplement in bundle
-- [[Apigenin]] — sleep supplement in bundle
-- [[Oleg Personal Context]] — protocol subject
-- [[MOC Performance und Leben]] — parent MOC
+- [[Supplement Stack]] — Entitätszusammenfassung
+- [[Health Protocol Master]] — täglicher Timing-Kontext
+- [[Alpha-GPC]] — kognitives Pre-Workout-Supplement
+- [[L-Tyrosine]] — Dopamin-Unterstützung vor dem Training
+- [[Momentous]] — primäre Supplement-Marke
+- [[Rhonda Patrick]] — Quelle des Sulforaphan-Protokolls
+- [[Creatine]] — spezifisches Supplement-Konzept
+- [[Sulforaphane]] — Supplement aus Brokkolisprossen-Extrakt
+- [[Magnesium L-Threonate]] — Schlaf-Supplement im Paket
+- [[Apigenin]] — Schlaf-Supplement im Paket
+- [[Oleg Personal Context]] — Protokollsubjekt
+- [[MOC Performance und Leben]] — übergeordnete MOC

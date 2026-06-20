@@ -5,44 +5,44 @@ tags: [darlehen, wagglz, finanzen, gesellschafterdarlehen, shareholder-loan, 202
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Shareholder loan from Oleg personally to Wagglz GmbH — currently financing ongoing Wagglz operating costs of ~120–255 €/month; balance forms part of §17 EStG loss calculation if Wagglz is dissolved
+summary: Gesellschafterdarlehen von Oleg persönlich an die Wagglz GmbH — finanziert derzeit die laufenden Betriebskosten von Wagglz in Höhe von ~120–255 €/Monat; der Saldo ist Teil der §17-EStG-Verlustberechnung bei einer etwaigen Auflösung von Wagglz
 ---
 
 # Oleg-Darlehen
 
-## Overview
+## Überblick
 
-**Oleg-Darlehen** refers to a **Gesellschafterdarlehen** (shareholder loan) from [[Oleg Personal Context|Oleg]] personally to [[Wagglz GmbH]]. It is the mechanism by which Wagglz's ongoing operating costs are financed despite zero revenue since January 2026.
+Das **Oleg-Darlehen** bezeichnet ein **Gesellschafterdarlehen** von [[Oleg Personal Context|Oleg]] persönlich an die [[Wagglz GmbH]]. Es ist der Mechanismus, über den die laufenden Betriebskosten von Wagglz trotz fehlender Einnahmen seit Januar 2026 finanziert werden.
 
-## Financial Details
+## Finanzielle Details
 
 | Parameter | Wert |
 |---|---|
 | Monatliche Kosten via Darlehen | ~120–255 € |
 | Verwendung | Wagglz laufende Betriebskosten |
-| Status | Aktiv (as of June 2026) |
+| Status | Aktiv (Stand Juni 2026) |
 
-> ⚠️ **Assumption [A]:** The total outstanding balance of the Oleg-Darlehen is not specified in available sources. It will equal the cumulative monthly contributions since the loan began.
+> ⚠️ **Annahme [A]:** Der gesamte ausstehende Saldo des Oleg-Darlehens ist in den verfügbaren Quellen nicht angegeben. Er entspricht der kumulierten Summe aller monatlichen Beiträge seit Beginn des Darlehens.
 
-## Tax Implications
+## Steuerliche Auswirkungen
 
-### §17 EStG — Loss on Dissolution
+### §17 EStG — Verlust bei Auflösung
 
-If [[Wagglz GmbH]] is dissolved:
-- The outstanding Oleg-Darlehen balance **adds to the §17 EStG loss**
-- Mechanism: shareholder loans that are not repaid at dissolution are treated as additional acquisition cost of the GmbH stake → increases the calculable loss
-- This makes the Oleg-Darlehen balance a key variable in the dissolution tax calculation
-- [[SP STB]] should calculate this before the dissolution decision is made
+Bei Auflösung der [[Wagglz GmbH]]:
+- Der ausstehende Saldo des Oleg-Darlehens **erhöht den Verlust gemäß §17 EStG**
+- Mechanismus: Gesellschafterdarlehen, die bei der Auflösung nicht zurückgezahlt werden, gelten als zusätzliche Anschaffungskosten des GmbH-Anteils → erhöht den berechenbaren Verlust
+- Der Saldo des Oleg-Darlehens ist daher eine wesentliche Variable in der steuerlichen Auflösungsberechnung
+- [[SP STB]] sollte diese Berechnung vor der Auflösungsentscheidung durchführen
 
-### Ongoing Cash Impact
+### Laufende Liquiditätsbelastung
 
-- Each month the Darlehen is not repaid, Oleg's personal liquidity decreases by 120–255 €
-- Given the low [[Consorsbank Girokonto 0250120493]] balance, this is a meaningful monthly drain
+- Solange das Darlehen nicht zurückgezahlt wird, verringert sich Olegs persönliche Liquidität monatlich um 120–255 €
+- Angesichts des geringen Kontostands auf dem [[Consorsbank Girokonto 0250120493]] stellt dies eine spürbare monatliche Belastung dar
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Wagglz GmbH]] — borrower entity
-- [[ESt 2025]] — indirect relevance (Wagglz income history)
-- [[SP STB]] — tax advisor for dissolution modeling
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — lender
+- [[Wagglz GmbH]] — kreditnehmende Gesellschaft
+- [[ESt 2025]] — indirekte Relevanz (Einnahmenhistorie Wagglz)
+- [[SP STB]] — Steuerberater für die Auflösungsmodellierung
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context|Oleg]] — Darlehensgeber

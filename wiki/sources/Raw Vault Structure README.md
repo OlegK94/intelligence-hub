@@ -1,22 +1,22 @@
 ---
-title: Raw Vault Structure README
+title: Raw Vault Struktur README
 type: source
 tags: [vault, structure, workflow, inbox, ingest, raw, architecture]
 sources: ["raw/README.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Immutable README for the raw/ directory — defines folder structure for Privat, Business, and _archiv areas; documents the inbox → ingest → wiki workflow
+summary: Unveränderliches README für das raw/-Verzeichnis — definiert die Ordnerstruktur für die Bereiche Privat, Business und _archiv; dokumentiert den inbox → ingest → wiki Workflow
 ---
 
-# Raw Vault Structure — README
+# Raw Vault Struktur — README
 
-## Overview
+## Übersicht
 
-This source document (`raw/README.md`) defines the directory structure and ingestion workflow for the raw/ folder, which serves as the immutable source layer for this wiki. Raw files are never edited after ingest — all knowledge integration happens in the wiki.
+Dieses Quelldokument (`raw/README.md`) definiert die Verzeichnisstruktur und den Ingest-Workflow für den raw/-Ordner, der als unveränderliche Quellschicht dieses Wikis dient. Raw-Dateien werden nach dem Ingest nie bearbeitet — die gesamte Wissensintegration findet im Wiki statt.
 
-> This page is a structural/meta source. It does not contain personal data but provides the architectural map of all raw source areas.
+> Diese Seite ist eine strukturelle/Meta-Quelle. Sie enthält keine persönlichen Daten, sondern liefert die architektonische Übersicht aller rohen Quellbereiche.
 
-## Folder Structure
+## Ordnerstruktur
 
 ```
 raw/
@@ -50,78 +50,78 @@ raw/
 Datei in inbox/ → python3 tools/ingest.py → Wiki wächst in wiki/
 ```
 
-1. Drop new notes/exports into `raw/inbox/`
-2. Run `python3 tools/ingest.py`
-3. Wiki pages are created/updated in `wiki/`
-4. Raw files remain immutable
+1. Neue Notizen/Exporte in `raw/inbox/` ablegen
+2. `python3 tools/ingest.py` ausführen
+3. Wiki-Seiten werden in `wiki/` erstellt/aktualisiert
+4. Raw-Dateien bleiben unveränderlich
 
-## Top-Level Area Descriptions
+## Beschreibung der Top-Level-Bereiche
 
 ### raw/inbox/
-Staging area for new notes before ingest. After ingest, files may remain here as a record or be archived.
+Staging-Bereich für neue Notizen vor dem Ingest. Nach dem Ingest können Dateien als Nachweis hier verbleiben oder archiviert werden.
 
 ### raw/assets/
-Images and attachments referenced by raw documents.
+Bilder und Anhänge, die von Raw-Dokumenten referenziert werden.
 
 ### raw/data/
-CSV exports from wearables and other data sources — structured data that feeds health/performance tracking.
+CSV-Exporte von Wearables und anderen Datenquellen — strukturierte Daten für das Gesundheits- und Performance-Tracking.
 
 ### raw/MOC/
-Vault-Home — top-level map of content (MOC = Map of Content).
+Vault-Home — übergeordnete Inhaltsübersicht (MOC = Map of Content).
 
 ### raw/Privat/
-All personal content for [[Oleg Personal Context|Oleg]]. Sub-areas:
+Alle persönlichen Inhalte für [[Oleg Personal Context|Oleg]]. Teilbereiche:
 
-| Sub-folder | Content |
+| Unterordner | Inhalt |
 |---|---|
-| `Performance/` | Health, [[Hyrox Competition]], [[Supplement Stack]], scans |
-| `Tech/` | Tools, privacy, [[Apple Passwords]] / [[Proton Pass]] |
+| `Performance/` | Gesundheit, [[Hyrox Competition]], [[Supplement Stack]], Scans |
+| `Tech/` | Tools, Datenschutz, [[Apple Passwords]] / [[Proton Pass]] |
 | `Finanzen/` | Privatkonten, [[ESt 2025]], [[Fixkosten Übersicht]] |
-| `Versicherungen/` | Insurance policies |
-| `Recherchen/` | Research notes |
-| `Auswandern/` | [[Cyprus Relocation]] — someday, paused |
+| `Versicherungen/` | Versicherungspolicen |
+| `Recherchen/` | Recherchenotizen |
+| `Auswandern/` | [[Cyprus Relocation]] — Someday, pausiert |
 
 ### raw/Business/
-Business-related content. Sub-areas:
+Geschäftliche Inhalte. Teilbereiche:
 
-| Sub-folder | Content |
+| Unterordner | Inhalt |
 |---|---|
 | `Wagglz/` | [[Wagglz GmbH]] — GmbH, Finanzen, BWAs |
 | `Cafe/` | [[Café Berlin Partnership Hai]] — Masterplan, Decks |
 | `OK-Capital/` | UG (OK-Capital), Finanzen |
 
 ### raw/_archiv/
-Work-related topics — **not actively ingested**. Contains:
-- `Work/` — e.g., Doctolib/DoktorLib work history
+Arbeitsbezogene Themen — **werden nicht aktiv ingested**. Enthält:
+- `Work/` — z. B. Doctolib/DoktorLib Arbeitshistorie
 
-> ⚠️ **Ingest rule:** `_archiv/` content is explicitly excluded from active ingest. Do not create wiki pages from `_archiv/Work/` sources.
+> ⚠️ **Ingest-Regel:** Inhalte aus `_archiv/` sind explizit vom aktiven Ingest ausgeschlossen. Aus `_archiv/Work/`-Quellen werden keine Wiki-Seiten erstellt.
 
-## Mapping to Wiki Areas
+## Zuordnung zu Wiki-Bereichen
 
-| Raw Area | Wiki Area |
+| Raw-Bereich | Wiki-Bereich |
 |---|---|
-| `raw/Privat/Performance/` | `wiki/entities/`, `wiki/concepts/` (health, performance) |
-| `raw/Privat/Finanzen/` | `wiki/entities/` (finanzen, steuern) |
-| `raw/Privat/Tech/` | `wiki/entities/` (tech stack) |
+| `raw/Privat/Performance/` | `wiki/entities/`, `wiki/concepts/` (Gesundheit, Performance) |
+| `raw/Privat/Finanzen/` | `wiki/entities/` (Finanzen, Steuern) |
+| `raw/Privat/Tech/` | `wiki/entities/` (Tech-Stack) |
 | `raw/Business/Wagglz/` | `wiki/entities/` (Wagglz GmbH) |
-| `raw/Business/Cafe/` | `wiki/entities/`, `wiki/sources/` (café project) |
+| `raw/Business/Cafe/` | `wiki/entities/`, `wiki/sources/` (Café-Projekt) |
 | `raw/Business/OK-Capital/` | `wiki/entities/` (OK-Capital UG) |
-| `raw/inbox/` | → processed into all wiki areas |
-| `raw/_archiv/` | ❌ Not ingested |
+| `raw/inbox/` | → wird in alle Wiki-Bereiche verarbeitet |
+| `raw/_archiv/` | ❌ Nicht ingested |
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Personal Context]] — vault owner
-- [[MOC Performance und Leben]] — performance area MOC
-- [[MOC Finanzen]] — finance area MOC
-- [[MOC Strategie und Business]] — business area MOC
-- [[MOC Tech und Setup]] — tech area MOC
-- [[Wagglz GmbH]] — business entity in raw/Business/Wagglz/
-- [[Café Berlin Partnership Hai]] — business entity in raw/Business/Cafe/
-- [[Performance Coffee Brand]] — business entity in raw/Business/PerformanceCafe/
-- [[Cyprus Relocation]] — paused personal project
-- [[Hyrox Competition]] — performance area content
-- [[Supplement Stack]] — performance area content
-- [[ESt 2025]] — finance area content
-- [[Apple Passwords]] — tech area content
-- [[Proton Pass]] — tech area content
+- [[Oleg Personal Context]] — Vault-Inhaber
+- [[MOC Performance und Leben]] — MOC des Performance-Bereichs
+- [[MOC Finanzen]] — MOC des Finanzbereichs
+- [[MOC Strategie und Business]] — MOC des Business-Bereichs
+- [[MOC Tech und Setup]] — MOC des Tech-Bereichs
+- [[Wagglz GmbH]] — Geschäftsentität in raw/Business/Wagglz/
+- [[Café Berlin Partnership Hai]] — Geschäftsentität in raw/Business/Cafe/
+- [[Performance Coffee Brand]] — Geschäftsentität in raw/Business/PerformanceCafe/
+- [[Cyprus Relocation]] — pausiertes persönliches Projekt
+- [[Hyrox Competition]] — Inhalt des Performance-Bereichs
+- [[Supplement Stack]] — Inhalt des Performance-Bereichs
+- [[ESt 2025]] — Inhalt des Finanzbereichs
+- [[Apple Passwords]] — Inhalt des Tech-Bereichs
+- [[Proton Pass]] — Inhalt des Tech-Bereichs

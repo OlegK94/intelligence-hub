@@ -5,60 +5,60 @@ tags: [company, longevity, urolithin-a, MITOPURE, performance-cafe, IP, B2B, lic
 sources: ["raw/Business/PerformanceCafe/legal/ip_landscape.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Consumer brand for Urolithin A (MITOPURE); marketing/commercialization subsidiary of Amazentis SA; L'Oréal and Nestlé Health Science investors (Series D, CHF 56M, January 2024); sells Mitopure raw material B2B; contact bd@timeline.as
+summary: Verbrauchermarke für Urolithin A (MITOPURE); Marketing-/Vermarktungstochter von Amazentis SA; L'Oréal und Nestlé Health Science als Investoren (Series D, CHF 56M, Januar 2024); verkauft Mitopure-Rohstoff im B2B-Bereich; Kontakt bd@timeline.as
 ---
 
 # Timeline Nutrition
 
-## Overview
+## Überblick
 
-**Timeline Nutrition** is the consumer-facing brand for **MITOPURE** (Urolithin A), developed and patented by [[Amazentis]] SA (Lausanne, Switzerland). While Amazentis holds the underlying IP, Timeline handles marketing, distribution, and B2B ingredient licensing.
+**Timeline Nutrition** ist die verbraucherorientierte Marke für **MITOPURE** (Urolithin A), entwickelt und patentiert von [[Amazentis]] SA (Lausanne, Schweiz). Während Amazentis das zugrundeliegende IP hält, übernimmt Timeline das Marketing, den Vertrieb und die B2B-Inhaltsstofflizenzierung.
 
-## Corporate Structure
+## Unternehmensstruktur
 
-| Entity | Role |
+| Einheit | Rolle |
 |---|---|
-| [[Amazentis]] SA | IP holder, research vehicle, patent portfolio owner |
-| **Timeline Nutrition** | Consumer brand, marketing, B2B ingredient sales |
-| L'Oréal | Series D investor (January 2024) |
-| Nestlé Health Science | Series D investor + global commercialization rights |
+| [[Amazentis]] SA | IP-Inhaber, Forschungsträger, Patentportfolio-Eigentümer |
+| **Timeline Nutrition** | Verbrauchermarke, Marketing, B2B-Zutatenverkauf |
+| L'Oréal | Series-D-Investor (Januar 2024) |
+| Nestlé Health Science | Series-D-Investor + globale Vermarktungsrechte |
 
-**Series D (January 2024):** CHF 56 million total round with L'Oréal and Nestlé Health Science securing stakes.
+**Series D (Januar 2024):** Gesamtrunde über CHF 56 Millionen mit Beteiligungen von L'Oréal und Nestlé Health Science.
 
-## Products
+## Produkte
 
-- **MITOPURE** — branded Urolithin A in powder and capsule formats
-- Clinically studied for mitophagy enhancement and muscle health
-- Dosed at 500mg–1,000mg in clinical studies
-- Available as consumer product (direct-to-consumer) and B2B ingredient
+- **MITOPURE** — markiertes Urolithin A in Pulver- und Kapselform
+- Klinisch untersucht für die Verbesserung der Mitophagie und die Muskelgesundheit
+- Dosierung von 500mg–1.000mg in klinischen Studien
+- Erhältlich als Verbraucherprodukt (Direct-to-Consumer) und als B2B-Zutat
 
-## B2B Licensing
+## B2B-Lizenzierung
 
-Timeline sells Mitopure raw material to selected B2B partners:
-- No public price list or licensing terms
-- Typical industry structures: 5–15% royalty on net revenue OR fixed price/kg with MOQ
-- Some brands in market use Mitopure as an ingredient (premium supplement segment)
+Timeline verkauft Mitopure-Rohstoff an ausgewählte B2B-Partner:
+- Keine öffentliche Preisliste oder Lizenzbedingungen
+- Typische Branchenstrukturen: 5–15% Lizenzgebühr auf den Nettoumsatz ODER Festpreis/kg mit MOQ
+- Einige Marken am Markt verwenden Mitopure als Zutat (Premium-Nahrungsergänzungssegment)
 
-**B2B Contact:** bd@timeline.as (Business Development, Timeline Nutrition, Lausanne, Switzerland)
+**B2B-Kontakt:** bd@timeline.as (Business Development, Timeline Nutrition, Lausanne, Schweiz)
 
-## Relevance to Performance Coffee Brand
+## Relevanz für die Performance Coffee Brand
 
-Timeline is the **commercial gateway** for [[Performance Coffee Brand]] to legally use Urolithin A:
+Timeline ist das **kommerzielle Einfallstor** für die [[Performance Coffee Brand]], um Urolithin A rechtlich zu nutzen:
 
-1. [[Amazentis]] patents block synthetic UA without license → Timeline licenses Mitopure raw material
-2. EU Novel Food authorization (Amazentis, 2022) is proprietary → Timeline holds commercialization rights
-3. A license from Timeline would resolve both the patent barrier and the Novel Food authorization issue simultaneously
+1. [[Amazentis]]-Patente blockieren synthetisches UA ohne Lizenz → Timeline lizenziert Mitopure-Rohstoff
+2. Die EU-Novel-Food-Zulassung (Amazentis, 2022) ist proprietär → Timeline hält die Vermarktungsrechte
+3. Eine Lizenz von Timeline würde sowohl die Patentbarriere als auch das Novel-Food-Zulassungsproblem gleichzeitig lösen
 
-**Assessment:** Licensing is possible in principle but may be cost-prohibitive for an early-stage startup. MOQ and royalty terms unknown until direct B2B inquiry (bd@timeline.as).
+**Einschätzung:** Eine Lizenzierung ist grundsätzlich möglich, könnte aber für ein frühphasiges Startup kostenintensiv sein. MOQ und Lizenzbedingungen sind erst nach direkter B2B-Anfrage bekannt (bd@timeline.as).
 
-**MVP alternative:** [[Ellagsäure Punicalagin Extrakt]] (pomegranate extract) as patent-free, Novel Food-safe Urolithin A precursor.
+**MVP-Alternative:** [[Ellagsäure Punicalagin Extrakt]] (Granatapfelextrakt) als patentfreier, Novel-Food-konformer Urolithin-A-Vorläufer.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Amazentis]] — parent IP holder
-- [[Urolithin A]] — ingredient
-- [[Ellagsäure Punicalagin Extrakt]] — patent-free alternative
-- [[Performance Coffee Brand]] — potential licensee
-- [[Performance Café IP Landscape Modul 8]] — source document
-- [[EU Novel Food Regulation]] — regulatory context
-- [[IP Risk Matrix Performance Café]] — risk assessment
+- [[Amazentis]] — übergeordneter IP-Inhaber
+- [[Urolithin A]] — Wirkstoff
+- [[Ellagsäure Punicalagin Extrakt]] — patentfreie Alternative
+- [[Performance Coffee Brand]] — potenzieller Lizenznehmer
+- [[Performance Café IP Landscape Modul 8]] — Quelldokument
+- [[EU Novel Food Regulation]] — regulatorischer Kontext
+- [[IP Risk Matrix Performance Café]] — Risikobewertung

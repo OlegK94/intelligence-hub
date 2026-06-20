@@ -5,55 +5,55 @@ tags: [insurance, term-life, versicherung, finanzen, risk-management]
 sources: ["raw/01-Strategie-Business/Allianz Insurance Consolidation.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: German term life insurance — fixed-premium policy where entry age locks in premium rates permanently, making mid-contract switching costly
+summary: Deutsche Risikolebensversicherung — Vertrag mit festem Beitrag, bei dem das Eintrittsalter die Prämie dauerhaft festschreibt, was einen Wechsel während der Laufzeit kostspielig macht
 ---
 
 # Risikolebensversicherung (Term Life Insurance)
 
-## Overview
+## Überblick
 
-**Risikolebensversicherung** is the German term for **term life insurance** — a policy that pays a death benefit to beneficiaries if the insured dies within the contract period. Unlike whole life (Lebensversicherung), it has no savings component and covers only the risk of death.
+Die **Risikolebensversicherung** ist die deutsche Bezeichnung für eine **Term Life Insurance** — eine Police, die im Todesfall der versicherten Person innerhalb der Vertragslaufzeit eine Todesfallleistung an die Begünstigten auszahlt. Im Gegensatz zur Kapitallebensversicherung enthält sie keine Sparkomponente und deckt ausschließlich das Todesfallrisiko ab.
 
-## Key Characteristics
+## Wesentliche Merkmale
 
-### Premium Structure
-- Premiums are calculated and **locked at the entry age** (Eintrittsalter)
-- The younger the entry age, the lower the permanent premium
-- Premiums do **not** change during the contract term once locked
-- A new contract always uses the **current age** as the entry age
+### Beitragsstruktur
+- Beiträge werden berechnet und beim **Eintrittsalter** dauerhaft festgeschrieben
+- Je jünger das Eintrittsalter, desto niedriger der dauerhafte Beitrag
+- Beiträge ändern sich nach der Festschreibung **nicht** mehr während der Vertragslaufzeit
+- Ein neuer Vertrag verwendet stets das **aktuelle Alter** als Eintrittsalter
 
-### Health Assessment (Gesundheitsprüfung)
-- Required for any **new** policy or when switching providers
-- Existing conditions, age, and lifestyle factors are evaluated
-- Can result in **higher premiums**, **exclusions**, or **rejection**
-- An existing policy grandfathers in the original health status at time of signing
+### Gesundheitsprüfung
+- Erforderlich bei jedem **neuen** Vertrag oder bei einem Anbieterwechsel
+- Vorerkrankungen, Alter und Lebensstilfaktoren werden bewertet
+- Kann zu **höheren Beiträgen**, **Ausschlüssen** oder **Ablehnung** führen
+- Eine bestehende Police bewahrt den ursprünglichen Gesundheitsstatus zum Zeitpunkt der Unterzeichnung
 
-## Why Switching Is Strategically Risky
+## Warum ein Wechsel strategisch riskant ist
 
-In the context of [[Allianz Insurance Consolidation]]:
+Im Kontext von [[Allianz Insurance Consolidation|Allianz Versicherungskonsolidierung]]:
 
-1. **Higher entry age** — switching means signing a new policy at an older age → permanently higher premiums for the remaining coverage period
-2. **New health assessment** — any health changes since the original policy was signed are re-evaluated → risk of exclusions or surcharges
-3. **No grandfathering** — favorable terms from the original policy cannot be transferred
-4. **Cost-benefit analysis** — even a 20% consolidation discount at Allianz is unlikely to offset the permanent premium increase from a higher entry age
+1. **Höheres Eintrittsalter** — ein Wechsel bedeutet den Abschluss einer neuen Police in einem höheren Alter → dauerhaft höhere Beiträge für die verbleibende Deckungsperiode
+2. **Neue Gesundheitsprüfung** — alle gesundheitlichen Veränderungen seit dem Abschluss der ursprünglichen Police werden neu bewertet → Risiko von Ausschlüssen oder Zuschlägen
+3. **Kein Bestandsschutz** — günstige Konditionen aus der ursprünglichen Police können nicht übertragen werden
+4. **Kosten-Nutzen-Analyse** — selbst ein 20%iger Konsolidierungsrabatt bei Allianz wird die dauerhafte Beitragserhöhung durch ein höheres Eintrittsalter voraussichtlich nicht aufwiegen
 
-## Decision in Oleg's Case
+## Entscheidung in Olegs Fall
 
-For [[Oleg Personal Context|Oleg]], the explicit decision is: **❌ DO NOT SWITCH** the Risikolebensversicherung to Allianz as part of the [[Allianz Insurance Consolidation]] project. The three policies being switched (Haftpflicht, Hausrat, Rechtsschutz) have no comparable grandfathering risk.
+Für [[Oleg Personal Context|Oleg]] lautet die ausdrückliche Entscheidung: **❌ NICHT WECHSELN** — die Risikolebensversicherung wird nicht im Rahmen des [[Allianz Insurance Consolidation|Allianz Versicherungskonsolidierungs]]-Projekts zu Allianz übertragen. Die drei zu wechselnden Policen (Haftpflicht, Hausrat, Rechtsschutz) tragen kein vergleichbares Bestandsschutzrisiko.
 
-## Contrast with Other Insurance Types
+## Vergleich mit anderen Versicherungsarten
 
-| Insurance Type | Switching Risk | Switching Benefit |
+| Versicherungsart | Wechselrisiko | Wechselvorteil |
 |---|---|---|
-| Risikolebensversicherung | ⚠️ High (entry age lock) | Low |
-| Privathaftpflicht | Low | ✅ High |
-| Hausrat | Low | ✅ High |
-| Rechtsschutz | Low | ✅ High |
-| Zahnzusatz | Low-Medium | Already at Allianz |
+| Risikolebensversicherung | ⚠️ Hoch (Eintrittsalter-Bindung) | Gering |
+| Privathaftpflicht | Gering | ✅ Hoch |
+| Hausrat | Gering | ✅ Hoch |
+| Rechtsschutz | Gering | ✅ Hoch |
+| Zahnzusatz | Gering–Mittel | Bereits bei Allianz |
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Allianz Insurance Consolidation]] — project context
-- [[Allianz Insurance Consolidation Detail]] — source document
-- [[Financial Independence]] — financial optimization context
-- [[Oleg Personal Context]] — policy holder
+- [[Allianz Insurance Consolidation|Allianz Versicherungskonsolidierung]] — Projektkontext
+- [[Allianz Insurance Consolidation Detail|Allianz Versicherungskonsolidierung Detail]] — Quelldokument
+- [[Financial Independence|Finanzielle Unabhängigkeit]] — Kontext zur finanziellen Optimierung
+- [[Oleg Personal Context|Oleg Persönlicher Kontext]] — Versicherungsnehmer

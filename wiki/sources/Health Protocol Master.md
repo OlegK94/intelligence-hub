@@ -1,101 +1,101 @@
 ---
-title: Health Protocol Master
+title: Gesundheitsprotokoll Master
 type: source
 tags: [health, performance, protocol, training, nutrition, supplements]
 sources: ["02-Performance-Leben/Health Protocol — Master.md"]
 created: 2024-12-19
 updated: 2024-12-19
-summary: Comprehensive health optimization protocol with baseline metrics, 6-day training split, nutrition plan, and daily structure
+summary: Umfassendes Gesundheitsoptimierungsprotokoll mit Basiskennzahlen, 6-Tage-Trainingsplan, Ernährungsplan und Tagesstruktur
 ---
 
-# Health Protocol Master
+# Gesundheitsprotokoll Master
 
-## Overview
+## Überblick
 
-A comprehensive health optimization protocol based on frameworks from [[Andrew Huberman]], [[Rhonda Patrick]], and [[Bryan Johnson]]. The protocol includes baseline body composition metrics, structured training program, nutrition plan, and optimized daily schedule.
+Ein umfassendes Gesundheitsoptimierungsprotokoll auf Basis der Frameworks von [[Andrew Huberman]], [[Rhonda Patrick]] und [[Bryan Johnson]]. Das Protokoll umfasst Basiskennzahlen zur Körperzusammensetzung, ein strukturiertes Trainingsprogramm, einen Ernährungsplan sowie einen optimierten Tagesablauf.
 
-## Baseline Metrics (Scaneca 3D-Scan, May 29, 2026)
+## Basiskennzahlen (Scaneca 3D-Scan, 29. Mai 2026)
 
-| Metric | Value |
+| Kennzahl | Wert |
 |---|---|
-| Weight | 96.7 kg |
-| Body Fat | 20.3% |
-| Fat Mass | 19.6 kg |
-| Lean Mass | 77.1 kg |
-| FFMI | 21.3 |
-| BMI | 27.4 |
-| Waist | 97.2 cm |
-| Abdomen | 101.4 cm |
-| Hip | 105.5 cm |
-| Chest | 116.7 cm |
-| Right Arm | 36.3 cm |
-| BMR | 2,113 kcal |
-| TDEE | ~3,645 kcal |
-| Posture | 30° forward head posture |
+| Gewicht | 96,7 kg |
+| Körperfettanteil | 20,3 % |
+| Fettmasse | 19,6 kg |
+| Magermasse | 77,1 kg |
+| FFMI | 21,3 |
+| BMI | 27,4 |
+| Taille | 97,2 cm |
+| Bauch | 101,4 cm |
+| Hüfte | 105,5 cm |
+| Brust | 116,7 cm |
+| Rechter Arm | 36,3 cm |
+| BMR | 2.113 kcal |
+| TDEE | ~3.645 kcal |
+| Haltung | 30° Vorwärtskopfhaltung |
 
-**Goal:** Reduce body fat to 15% (focusing on lower abdomen). Build upper chest and triceps hypertrophy.
+**Ziel:** Körperfettanteil auf 15 % reduzieren (Fokus auf den unteren Bauch). Aufbau von Hypertrophie in oberem Brustbereich und Trizeps.
 
-## Training Program
+## Trainingsprogramm
 
-6-day training split:
-- Monday: Upper Chest + Triceps (60 min)
-- Tuesday: [[HIIT Training]] + Sauna (45 min)
-- Wednesday: Legs (60 min)
-- Thursday: Back + Biceps (60 min)
-- Friday: HIIT + Sauna (45 min)
-- Saturday: Shoulders + Arms (55 min)
-- Sunday: [[Zone 2 Cardio]] with dog (60 min)
+6-Tage-Trainingsplan:
+- Montag: Obere Brust + Trizeps (60 Min.)
+- Dienstag: [[HIIT Training|HIIT]] + Sauna (45 Min.)
+- Mittwoch: Beine (60 Min.)
+- Donnerstag: Rücken + Bizeps (60 Min.)
+- Freitag: HIIT + Sauna (45 Min.)
+- Samstag: Schultern + Arme (55 Min.)
+- Sonntag: [[Zone 2 Cardio]] mit Hund (60 Min.)
 
-## Nutrition Strategy
+## Ernährungsstrategie
 
-- **Daily Calories:** 2,800 kcal (845 kcal deficit)
-- **Protein Target:** 195-200g/day
-- **Meal Timing:**
-  - 07:40 — Post-workout protein shake
-  - 08:30 — Breakfast: 500g quark + 150g berries + oats
-  - 13:00 — Protein-centered lunch
-  - 19:30 — Dinner
+- **Tägliche Kalorien:** 2.800 kcal (845 kcal Defizit)
+- **Proteinziel:** 195–200 g/Tag
+- **Mahlzeitenzeiten:**
+  - 07:40 — Post-Workout-Proteinshake
+  - 08:30 — Frühstück: 500 g Quark + 150 g Beeren + Haferflocken
+  - 13:00 — Proteinreiches Mittagessen
+  - 19:30 — Abendessen
 
-## Daily Structure
+## Tagesstruktur
 
-| Time | Activity |
+| Uhrzeit | Aktivität |
 |---|---|
-| 05:00 | Wake up |
-| 05:05 | Dog walk (morning) |
-| 06:05 | Drive to gym ([[Alpha-GPC]] + [[L-Tyrosine]] supplementation) |
+| 05:00 | Aufstehen |
+| 05:05 | Gassi gehen (morgens) |
+| 06:05 | Fahrt ins Fitnessstudio ([[Alpha-GPC]] + [[L-Tyrosine|L-Tyrosin]]-Supplementierung) |
 | 06:20 | Training |
 | 07:10 | [[Sauna]] |
-| 07:20 | Shower |
-| 07:40 | Protein shake (drive back) |
-| 08:30 | Breakfast + first coffee |
-| 09:00 | Work |
-| 12:00 | Dog walk (midday) |
-| 13:00 | Lunch |
-| 14:00 | Last coffee |
-| 18:30 | Dog walk (evening) |
-| 19:30 | Dinner + dim lights + screen night mode |
+| 07:20 | Duschen |
+| 07:40 | Proteinshake (Rückfahrt) |
+| 08:30 | Frühstück + erster Kaffee |
+| 09:00 | Arbeit |
+| 12:00 | Gassi gehen (mittags) |
+| 13:00 | Mittagessen |
+| 14:00 | Letzter Kaffee |
+| 18:30 | Gassi gehen (abends) |
+| 19:30 | Abendessen + gedimmtes Licht + Nachtmodus am Bildschirm |
 | 20:00 | [[NSDR]] (Non-Sleep Deep Rest) |
-| 20:25 | Sleep supplements |
-| 20:30 | Phone out of bedroom |
-| 20:30 | Sleep (target: 8.5h) |
+| 20:25 | Schlaf-Supplemente |
+| 20:30 | Handy aus dem Schlafzimmer |
+| 20:30 | Schlafen (Ziel: 8,5 h) |
 
-## Posture Correction Protocol
+## Haltungskorrekturprotokoll
 
-Addressing 30° forward head posture:
-- Daily deep neck stretching (Levator Scapulae, SCM)
-- Face pulls 3×15 integrated into upper body sessions
-- Monitor at eye level for work
+Behandlung der 30°-Vorwärtskopfhaltung:
+- Tägliches tiefes Nackenstreching (Levator Scapulae, SCM)
+- Face Pulls 3×15 integriert in Oberkörpereinheiten
+- Monitor auf Augenhöhe für die Arbeit
 
-## Key Components
+## Hauptkomponenten
 
-- Referenced training program: [[Hyrox Training Program]]
-- Supplement protocol: [[Supplement Stack]]
-- Body composition tracking: [[3D Body Scan]]
-- Scientific frameworks: [[Huberman Protocol]], [[Rhonda Patrick Methods]], [[Bryan Johnson Blueprint]]
+- Referenziertes Trainingsprogramm: [[Hyrox Training Program|Hyrox-Trainingsprogramm]]
+- Supplement-Protokoll: [[Supplement Stack]]
+- Körperzusammensetzungs-Tracking: [[3D Body Scan|3D-Körperscan]]
+- Wissenschaftliche Frameworks: [[Huberman Protocol|Huberman-Protokoll]], [[Rhonda Patrick Methods|Rhonda-Patrick-Methoden]], [[Bryan Johnson Blueprint|Bryan Johnson Blueprint]]
 
-## Implementation Notes
+## Umsetzungshinweise
 
-- Protocol is marked as "Active" status
-- Baseline established through professional 3D body scan
-- Combines multiple evidence-based optimization frameworks
-- Focus on sustainable daily habits and precise tracking
+- Protokoll hat den Status „Aktiv"
+- Ausgangswerte wurden durch professionellen 3D-Körperscan ermittelt
+- Kombiniert mehrere evidenzbasierte Optimierungsframeworks
+- Fokus auf nachhaltige Alltagsgewohnheiten und präzises Tracking

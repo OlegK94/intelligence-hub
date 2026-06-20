@@ -1,113 +1,113 @@
 ---
-title: NMN EU Status 2026
+title: NMN EU-Status 2026
 type: entity
 tags: [NMN, nicotinamide-mononucleotide, novel-food, EU, EFSA, regulatory, NAD-precursor, performance-cafe, longevity, grey-zone, efsa-opinion, 2026]
 sources: ["raw/Business/PerformanceCafe/legal/ip_landscape.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Beta-Nicotinamid-Mononukleotid (NMN) regulatory status in EU as of June 2026 — Novel Food not approved; EFSA positive Safety Opinion issued May 2026 for EffePharm application; European Commission must still issue implementing regulation; Germany is a legal grey zone; NMN not recommended for Performance Coffee Brand MVP; re-evaluate 2027+
+summary: Beta-Nicotinamid-Mononukleotid (NMN) Regulierungsstatus in der EU Stand Juni 2026 — Novel Food nicht genehmigt; EFSA positive Sicherheitsmeinung veröffentlicht Mai 2026 für EffePharm-Antrag; Europäische Kommission muss noch Durchführungsverordnung erlassen; Deutschland ist eine rechtliche Grauzone; NMN nicht empfohlen für Performance Coffee Brand MVP; Neubewertung 2027+
 ---
 
-# NMN — EU Regulatory & Patent Status (June 2026)
+# NMN — EU-Regulierungs- & Patentsstatus (Juni 2026)
 
-## Overview
+## Überblick
 
-**NMN (beta-Nicotinamid-Mononukleotid / beta-Nicotinamide Mononucleotide)** is a NAD+ precursor compound popular in longevity circles. In the EU, it is classified as a **Novel Food** under Regulation EU 2015/2283. As of June 2026, **no NMN product has received EU Novel Food authorization**.
+**NMN (beta-Nicotinamid-Mononukleotid / beta-Nicotinamide Mononucleotide)** ist ein NAD+-Vorläufer, der in Longevity-Kreisen weit verbreitet ist. In der EU wird es als **Novel Food** gemäß Verordnung EU 2015/2283 eingestuft. Stand Juni 2026 hat **kein NMN-Produkt eine EU-Novel-Food-Zulassung erhalten**.
 
 ---
 
-## EU Regulatory Status (June 2026)
+## EU-Regulierungsstatus (Juni 2026)
 
-| Item | Status |
+| Punkt | Status |
 |---|---|
-| EU Novel Food classification | ✅ Yes — EU 2015/2283 applies |
-| EU Novel Food authorization | ❌ Not granted as of June 2026 |
-| EFSA Safety Opinion | ✅ Positive — issued **May 2026** (EffePharm, China) |
-| EU Implementing Regulation | ❌ Not yet issued — European Commission still required to act |
-| Second EFSA examination | 🔄 In progress — Shanghai Shangke Biotechnology (initiated July 2025) |
+| EU Novel Food-Einstufung | ✅ Ja — EU 2015/2283 gilt |
+| EU Novel Food-Zulassung | ❌ Stand Juni 2026 nicht erteilt |
+| EFSA-Sicherheitsmeinung | ✅ Positiv — veröffentlicht **Mai 2026** (EffePharm, China) |
+| EU-Durchführungsverordnung | ❌ Noch nicht erlassen — Europäische Kommission muss noch handeln |
+| Zweite EFSA-Prüfung | 🔄 Laufend — Shanghai Shangke Biotechnology (initiiert Juli 2025) |
 
-### What the EFSA Safety Opinion Means (and Doesn't Mean)
+### Was die EFSA-Sicherheitsmeinung bedeutet (und was nicht)
 
-The **EFSA positive Safety Opinion (May 2026)** for NMN is a **major milestone** but does NOT mean immediate authorization:
-1. EFSA issues a scientific safety opinion
-2. **European Commission must separately issue an Implementing Regulation** authorizing the use
-3. This process typically takes additional months to years
-4. Until the Implementing Regulation is published, NMN remains unauthorized as Novel Food in EU
-
----
-
-## Germany-Specific Status
-
-NMN supplements are sold de facto in Germany (online retailers, health stores) but without valid Novel Food authorization:
-- **No active prohibition** by German authorities (BVL)
-- **No explicit tolerance or Duldung** either
-- **Result: Legal grey zone** — enforcement risk exists, especially for a new company attracting regulatory attention
+Die **positive EFSA-Sicherheitsmeinung (Mai 2026)** zu NMN ist ein **wichtiger Meilenstein**, bedeutet jedoch KEINE sofortige Zulassung:
+1. EFSA gibt eine wissenschaftliche Sicherheitsmeinung ab
+2. **Die Europäische Kommission muss gesondert eine Durchführungsverordnung** zur Genehmigung der Verwendung erlassen
+3. Dieser Prozess dauert typischerweise weitere Monate bis Jahre
+4. Bis zur Veröffentlichung der Durchführungsverordnung bleibt NMN als Novel Food in der EU nicht zugelassen
 
 ---
 
-## Patent Landscape
+## Deutschland-spezifischer Status
 
-### NMN Substance — Not Patentable
+NMN-Nahrungsergänzungsmittel werden de facto in Deutschland verkauft (Online-Händler, Reformhäuser), jedoch ohne gültige Novel Food-Zulassung:
+- **Kein aktives Verbot** durch deutsche Behörden (BVL)
+- **Keine explizite Tolerierung oder Duldung** ebenfalls nicht
+- **Ergebnis: Rechtliche Grauzone** — Durchsetzungsrisiko besteht, insbesondere für ein neues Unternehmen, das regulatorische Aufmerksamkeit auf sich zieht
 
-The NMN substance itself is **not patentable** — it occurs naturally in the body and in food.
+---
 
-### Relevant Patents
+## Patentlandschaft
 
-| Patent | Holder | Content | Relevance |
+### NMN-Substanz — Nicht patentierbar
+
+Die NMN-Substanz selbst ist **nicht patentierbar** — sie kommt natürlich im Körper und in Lebensmitteln vor.
+
+### Relevante Patente
+
+| Patent | Inhaber | Inhalt | Relevanz |
 |---|---|---|---|
-| **US11059847B2** | Metro International Biotech (David Sinclair, Harvard) | Crystal forms of beta-NMN | Filed 2019; pharmaceutical development (MIB-626); no EU supplement blockade |
-| Various Chinese patents | Multiple Chinese manufacturers | Synthesis processes for specific production methods | Process-specific; don't block NMN supplement use per se |
+| **US11059847B2** | Metro International Biotech (David Sinclair, Harvard) | Kristallformen von beta-NMN | Eingereicht 2019; pharmazeutische Entwicklung (MIB-626); kein EU-Nahrungsergänzungsmittel-Blockade |
+| Verschiedene chinesische Patente | Mehrere chinesische Hersteller | Syntheseprozesse für spezifische Produktionsmethoden | Prozessspezifisch; blockieren NMN-Nahrungsergänzungsmittelverwendung per se nicht |
 
-### Practical Patent Assessment
+### Praktische Patentbewertung
 
-NMN as a dietary supplement ingredient is **not patent-blocked** in the EU — the patent risk is low. However, the **regulatory risk is the dominant concern**, not patents.
+NMN als Zutat für Nahrungsergänzungsmittel ist in der EU **nicht durch Patente blockiert** — das Patentrisiko ist gering. Das **regulatorische Risiko ist jedoch das dominante Anliegen**, nicht die Patente.
 
 ---
 
-## Comparison to NR (NIAGEN)
+## Vergleich mit NR (NIAGEN)
 
-| Feature | NMN | NR (NIAGEN) |
+| Merkmal | NMN | NR (NIAGEN) |
 |---|---|---|
-| EU Novel Food status | Not approved (grey zone) | Novel Food via ChromaDex pathway |
-| Patent risk | LOW | MEDIUM (Niagen Bioscience holds EU patents) |
-| Price | Lower (generics available) | Higher (license required) |
-| Clinical evidence (human) | Fewer studies | Better established |
-| Regulatory safety for new company | ⚠️ Medium-high risk | ✅ Significantly lower risk |
+| EU Novel Food-Status | Nicht genehmigt (Grauzone) | Novel Food über ChromaDex-Weg |
+| Patentrisiko | GERING | MITTEL (Niagen Bioscience hält EU-Patente) |
+| Preis | Niedriger (Generika verfügbar) | Höher (Lizenz erforderlich) |
+| Klinische Evidenz (human) | Weniger Studien | Besser etabliert |
+| Regulatorische Sicherheit für neues Unternehmen | ⚠️ Mittel-hohes Risiko | ✅ Deutlich geringeres Risiko |
 
 ---
 
-## Recommendations for Performance Coffee Brand
+## Empfehlungen für die Performance Coffee Brand
 
-### Short-Term (MVP Launch 2026)
+### Kurzfristig (MVP-Launch 2026)
 
-> ❌ **Do NOT include NMN in the MVP stack.**
+> ❌ **NMN NICHT in den MVP-Stack aufnehmen.**
 
-Rationale:
-- Regulatory risk too high for a new company without compliance resources
-- Grey zone status creates enforcement exposure, especially as a visible new entrant
-- No upside that cannot be captured via NR (NIAGEN) instead
+Begründung:
+- Regulatorisches Risiko zu hoch für ein neues Unternehmen ohne Compliance-Ressourcen
+- Grauzonenstatus schafft Durchsetzungsrisiko, insbesondere als sichtbarer neuer Marktteilnehmer
+- Kein Vorteil, der nicht stattdessen über NR (NIAGEN) erzielt werden könnte
 
-### Medium-Term (2027+)
+### Mittelfristig (2027+)
 
-When the EFSA Safety Opinion translates into an EU Implementing Regulation (expected 2026/2027), revisit:
-- If authorized: NMN becomes a viable stack addition at significantly lower regulatory risk
-- Monitor: food.ec.europa.eu/food-safety/novel-food and efsa.europa.eu
+Wenn die EFSA-Sicherheitsmeinung in eine EU-Durchführungsverordnung umgewandelt wird (erwartet 2026/2027), erneut prüfen:
+- Bei Zulassung: NMN wird zu einer tragfähigen Stack-Ergänzung mit deutlich geringerem regulatorischen Risiko
+- Beobachten: food.ec.europa.eu/food-safety/novel-food und efsa.europa.eu
 
-### Immediate Alternative
+### Sofortige Alternative
 
-**NR (NIAGEN)** via [[Chromadex / Niagen Bioscience]] licensing:
-- Better regulated
-- Clinically comparable for NAD+ support
-- "Patentiertes NIAGEN®" is a premium consumer communication asset
+**NR (NIAGEN)** über [[Chromadex / Niagen Bioscience|Chromadex / Niagen Bioscience]]-Lizenzierung:
+- Besser reguliert
+- Klinisch vergleichbar für NAD+-Unterstützung
+- „Patentiertes NIAGEN®" ist ein hochwertiges Kommunikationsasset für Verbraucher
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Chromadex / Niagen Bioscience]] — NR/NIAGEN as the recommended alternative
-- [[EU Novel Food Regulation]] — regulatory framework
-- [[Performance Coffee Brand]] — project where NMN was considered
-- [[Performance Café IP Landscape Modul 8]] — source document
-- [[IP Risk Matrix Performance Café]] — consolidated risk matrix
-- [[Bryan Johnson]] — longevity context where NMN is featured
-- [[Longevity Stack Ingredients]] — broader stack context
+- [[Chromadex / Niagen Bioscience]] — NR/NIAGEN als empfohlene Alternative
+- [[EU Novel Food Regulation|EU Novel Food-Verordnung]] — regulatorischer Rahmen
+- [[Performance Coffee Brand]] — Projekt, in dem NMN in Betracht gezogen wurde
+- [[Performance Café IP Landscape Modul 8|Performance Café IP Landscape Modul 8]] — Quelldokument
+- [[IP Risk Matrix Performance Café|IP-Risikomatrix Performance Café]] — konsolidierte Risikomatrix
+- [[Bryan Johnson]] — Longevity-Kontext, in dem NMN vorkommt
+- [[Longevity Stack Ingredients|Longevity Stack-Zutaten]] — übergeordneter Stack-Kontext

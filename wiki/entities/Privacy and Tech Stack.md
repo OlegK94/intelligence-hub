@@ -1,81 +1,81 @@
 ---
-title: Privacy and Tech Stack
+title: Datenschutz und Tech Stack
 type: entity
 tags: [tech, privacy, infrastruktur, proton, apple, brave, safari, dns, 2fa, vpn, password-manager, aktiv]
 sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-05-10
 updated: 2026-06-16
-summary: Oleg's privacy-first tech stack — Apple devices, Brave on Mac / Safari on iOS, full Proton ecosystem (Mail, Calendar, VPN, Pass, Drive), domain ok-holding.com with full email authentication; Proton for all privacy-sensitive data
+summary: Olegs datenschutzorientierter Tech Stack — Apple-Geräte, Brave auf Mac / Safari auf iOS, vollständiges Proton-Ökosystem (Mail, Calendar, VPN, Pass, Drive), Domain ok-holding.com mit vollständiger E-Mail-Authentifizierung; Proton für alle datenschutzsensiblen Daten
 ---
 
-# Privacy & Tech Stack
+# Datenschutz & Tech Stack
 
-## Overview
+## Überblick
 
-[[Oleg Personal Context|Oleg]]'s tech stack is built around privacy-first tooling. The guiding principle is: **Proton for everything privacy-critical; Google Workspace only where external collaboration requires it; no Google ecosystem for private data.**
+[[Oleg Personal Context|Olegs]] Tech Stack ist auf datenschutzorientierte Werkzeuge ausgerichtet. Das Leitprinzip lautet: **Proton für alles Datenschutzkritische; Google Workspace nur dort, wo externe Kollaboration es erfordert; kein Google-Ökosystem für private Daten.**
 
-> For the password manager migration decision, see [[Password Manager Migration]] and [[Apple Passwords]].
+> Zur Entscheidung über die Passwortmanager-Migration siehe [[Password Manager Migration]] und [[Apple Passwords]].
 
-## Devices
+## Geräte
 
-| Device | Notes |
+| Gerät | Hinweise |
 |---|---|
-| iPhone | Primary device |
-| iPad Air 2025 | Secondary tablet |
-| Mac | Desktop/laptop |
+| iPhone | Primärgerät |
+| iPad Air 2025 | Sekundäres Tablet |
+| Mac | Desktop/Laptop |
 
-## Browser Strategy
+## Browser-Strategie
 
-| Device | Browser | Rationale |
+| Gerät | Browser | Begründung |
 |---|---|---|
-| Mac | **Brave** | Chromium-based, native ad-block, privacy-focused |
-| iPhone | **Safari** | Apple WebKit restriction makes Brave on iOS only marginally better than Chrome; Safari retains Apple integration advantages |
-| iPad | **Safari** | Same logic as iPhone |
+| Mac | **Brave** | Chromium-basiert, nativer Werbeblocker, datenschutzorientiert |
+| iPhone | **Safari** | Apples WebKit-Beschränkung macht Brave auf iOS nur marginal besser als Chrome; Safari behält die Vorteile der Apple-Integration |
+| iPad | **Safari** | Gleiche Logik wie beim iPhone |
 
-## Proton Ecosystem
+## Proton-Ökosystem
 
-| Product | Status | Assessment |
+| Produkt | Status | Bewertung |
 |---|---|---|
-| [[Proton Mail]] | ✅ Active | Fully capable, Zero-Knowledge, recommended |
-| Proton Calendar | ✅ Active | Fully capable |
-| [[Proton VPN]] | ✅ Active | Kill Switch activated on all devices |
-| [[Proton Pass]] | ✅ Active | Migration to [[Apple Passwords]] open → [[Password Manager Migration]] |
-| Proton Drive | ✅ Active | For sensitive documents |
-| Proton Docs/Sheets | ⚠️ Active | 2–3 years behind Google; only for privacy-sensitive content |
+| [[Proton Mail]] | ✅ Aktiv | Vollständig leistungsfähig, Zero-Knowledge, empfohlen |
+| Proton Calendar | ✅ Aktiv | Vollständig leistungsfähig |
+| [[Proton VPN]] | ✅ Aktiv | Kill Switch auf allen Geräten aktiviert |
+| [[Proton Pass]] | ✅ Aktiv | Migration zu [[Apple Passwords]] offen → [[Password Manager Migration]] |
+| Proton Drive | ✅ Aktiv | Für sensible Dokumente |
+| Proton Docs/Sheets | ⚠️ Aktiv | 2–3 Jahre hinter Google; nur für datenschutzsensible Inhalte |
 
 ## Domain & DNS
 
 - **Domain:** `ok-holding.com`
-- **DNS Provider:** GoDaddy
-- **Email Authentication:** MX, SPF, DKIM, DMARC configured for [[Proton Mail]] ✅
+- **DNS-Anbieter:** GoDaddy
+- **E-Mail-Authentifizierung:** MX, SPF, DKIM, DMARC für [[Proton Mail]] konfiguriert ✅
 
-The domain `ok-holding.com` aligns with [[Oleg Business Entity Structure]] — the holding structure referenced across financial and business pages.
+Die Domain `ok-holding.com` ist auf [[Oleg Business Entity Structure]] abgestimmt — die Holding-Struktur, auf die in den Finanz- und Geschäftsseiten verwiesen wird.
 
-## Security Measures
+## Sicherheitsmaßnahmen
 
-| Measure | Status |
+| Maßnahme | Status |
 |---|---|
-| 2FA | Activated on Proton + important accounts |
-| Proton Sentinel | Activated |
-| VPN Kill Switch | Activated on all devices |
-| Hide-my-email Aliases | Used for registrations |
+| 2FA | Auf Proton und wichtigen Konten aktiviert |
+| Proton Sentinel | Aktiviert |
+| VPN Kill Switch | Auf allen Geräten aktiviert |
+| Hide-my-email-Aliase | Werden für Registrierungen verwendet |
 
-## Core Principle
+## Kernprinzip
 
 > *Proton für alles Datenschutzkritische. Google Workspace nur wo externe Kollaboration es erfordert (Docs-Kompatibilität). Kein Google-Ökosystem für private Daten.*
 
-This places the tech stack in deliberate tension with convenience — Google Workspace exists as a concession to collaboration norms, not as a preferred tool.
+Dies versetzt den Tech Stack in ein bewusstes Spannungsverhältnis zur Bequemlichkeit — Google Workspace existiert als Zugeständnis an Kollaborationsnormen, nicht als bevorzugtes Werkzeug.
 
-## Open Migration
+## Offene Migration
 
-- **[[Proton Pass]] → [[Apple Passwords]]:** Under evaluation. See [[Password Manager Migration]] for full decision framework, field-compatibility analysis, and blocker assessment.
+- **[[Proton Pass]] → [[Apple Passwords]]:** In Prüfung. Siehe [[Password Manager Migration]] für den vollständigen Entscheidungsrahmen, die Feldkompatibilitätsanalyse und die Blockerbewertung.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Password Manager Migration]] — open migration decision
-- [[Apple Passwords]] — target of potential migration
-- [[Proton Pass]] — current password manager
-- [[MOC Tech und Setup]] — parent MOC
-- [[Oleg Personal Context]] — stack owner
-- [[Oleg Business Entity Structure]] — domain ok-holding.com context
-- [[Claude Projects Setup]] — AI tooling in tech stack
+- [[Password Manager Migration]] — offene Migrationsentscheidung
+- [[Apple Passwords]] — Ziel der möglichen Migration
+- [[Proton Pass]] — aktueller Passwortmanager
+- [[MOC Tech und Setup]] — übergeordnete MOC
+- [[Oleg Personal Context]] — Stack-Inhaber
+- [[Oleg Business Entity Structure]] — Kontext der Domain ok-holding.com
+- [[Claude Projects Setup]] — KI-Werkzeuge im Tech Stack

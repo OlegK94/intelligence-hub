@@ -5,47 +5,47 @@ tags: [exercise, cardio, fat-loss, performance]
 sources: ["02-Performance-Leben/Health Protocol — Master.md"]
 created: 2024-12-19
 updated: 2024-12-19
-summary: High-Intensity Interval Training for cardiovascular fitness and fat loss
+summary: Hochintensives Intervalltraining für kardiovaskuläre Fitness und Fettabbau
 ---
 
 # HIIT Training
 
-## Overview
+## Überblick
 
-High-Intensity Interval Training (HIIT) is a form of cardiovascular exercise that alternates between high-intensity bursts and recovery periods, designed to maximize fat loss and improve cardiovascular fitness efficiently.
+High-Intensity Interval Training (HIIT) ist eine Form des kardiovaskulären Trainings, die zwischen hochintensiven Belastungsphasen und Erholungsphasen wechselt. Es wurde entwickelt, um Fettabbau und kardiovaskuläre Fitness effizient zu maximieren.
 
-## Protocol Implementation
+## Protokoll-Umsetzung
 
-In [[Health Protocol Master]]:
-- **Frequency:** 2x per week (Tuesday, Friday)
-- **Duration:** 45 minutes including sauna
-- **Integration:** Combined with [[Sauna]] therapy
-- **Purpose:** Fat loss support while maintaining muscle mass
+Im [[Health Protocol Master|Gesundheitsprotokoll]]:
+- **Häufigkeit:** 2x pro Woche (Dienstag, Freitag)
+- **Dauer:** 45 Minuten inklusive Sauna
+- **Integration:** Kombiniert mit [[Sauna]]-Therapie
+- **Zweck:** Unterstützung des Fettabbaus bei gleichzeitigem Muskelerhalt
 
-## Benefits
+## Vorteile
 
-- Efficient fat burning through EPOC (Excess Post-Exercise Oxygen Consumption)
-- Improved cardiovascular fitness
-- Time-efficient workout format
-- Metabolic rate enhancement
-- Muscle mass preservation during caloric deficit
+- Effizienter Fettabbau durch EPOC (Excess Post-Exercise Oxygen Consumption)
+- Verbesserte kardiovaskuläre Fitness
+- Zeiteffizientes Trainingsformat
+- Steigerung des Stoffwechsels
+- Muskelmasseerhalt während eines Kaloriendefizits
 
-## Training Structure
+## Trainingsstruktur
 
-- High-intensity intervals (80-95% max heart rate)
-- Recovery periods (50-60% max heart rate)
-- Work-to-rest ratios typically 1:1 to 1:3
-- Total session duration: 15-30 minutes active work
+- Hochintensive Intervalle (80–95 % der maximalen Herzfrequenz)
+- Erholungsphasen (50–60 % der maximalen Herzfrequenz)
+- Belastungs-Erholungs-Verhältnis typischerweise 1:1 bis 1:3
+- Gesamte Einheitsdauer: 15–30 Minuten aktive Belastung
 
-## Integration with Other Training
+## Integration in das Gesamttraining
 
-- Complements [[Zone 2 Cardio]] for comprehensive cardiovascular development
-- Scheduled on non-strength training days in 6-day split
-- Followed by [[Sauna]] sessions for enhanced recovery
+- Ergänzt [[Zone 2 Cardio]] für eine umfassende kardiovaskuläre Entwicklung
+- Eingeplant an trainingsfreien Tagen ohne Krafttraining im 6-Tage-Split
+- Im Anschluss [[Sauna]]-Sitzungen zur verbesserten Regeneration
 
-## Related Concepts
+## Verwandte Konzepte
 
-- [[Fat Loss Protocols]]
-- [[Cardiovascular Training]]
-- [[Recovery Methods]]
-- [[Exercise Programming]]
+- [[Fat Loss Protocols|Fettabbau-Protokolle]]
+- [[Cardiovascular Training|Kardiovaskuläres Training]]
+- [[Recovery Methods|Regenerationsmethoden]]
+- [[Exercise Programming|Trainingsplanung]]

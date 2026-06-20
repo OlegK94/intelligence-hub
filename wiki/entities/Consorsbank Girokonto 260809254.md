@@ -5,34 +5,34 @@ tags: [konto, consorsbank, girokonto, finanzen, banking, geschlossen, 2026]
 sources: ["raw/Privat/Finanzen/Aufgaben/P0 Sofort.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Closed Consorsbank account (reference 260809254) — 11.32 € outstanding balance paid and account dissolved on 2026-06-12; distinct from Oleg's main Consorsbank Girokonto 0250120493
+summary: Geschlossenes Consorsbank-Konto (Referenz 260809254) — 11,32 € ausstehender Saldo beglichen und Konto aufgelöst am 2026-06-12; nicht zu verwechseln mit Olegs Haupt-Consorsbank-Girokonto 0250120493
 ---
 
 # Consorsbank Girokonto 260809254 (Geschlossen)
 
-## Overview
+## Übersicht
 
-**Consorsbank Girokonto 260809254** is a **closed** [[Consorsbank]] account belonging to [[Oleg Personal Context|Oleg]]. It is **distinct** from his main [[Consorsbank Girokonto 0250120493]] (saldo +971,67 €, still active).
+**Consorsbank Girokonto 260809254** ist ein **geschlossenes** [[Consorsbank]]-Konto von [[Oleg Personal Context|Oleg]]. Es ist **nicht identisch** mit seinem Haupt-Girokonto [[Consorsbank Girokonto 0250120493]] (Saldo +971,67 €, weiterhin aktiv).
 
-## Account Details
+## Kontodetails
 
 | Parameter | Wert |
 |---|---|
 | **Referenz** | 260809254 |
 | **Bank** | Consorsbank |
-| **Status** | ✅ Geschlossen (closed) |
+| **Status** | ✅ Geschlossen |
 | **Auflösungsdatum** | 2026-06-12 |
-| **Ausstehender Betrag** | 11,32 € (bezahlt vor Auflösung) |
+| **Ausstehender Betrag** | 11,32 € (beglichen vor Auflösung) |
 
-## Context
+## Kontext
 
-This account appeared in the [[P0 Sofortmaßnahmen]] completed items list, indicating it was an administrative loose end requiring closure. The small outstanding balance of 11,32 € was settled before the account was dissolved.
+Dieses Konto erschien in der Erledigungsliste der [[P0 Sofortmaßnahmen]] und war ein administrativer offener Punkt, der eine Schließung erforderte. Der geringe ausstehende Betrag von 11,32 € wurde vor der Auflösung des Kontos beglichen.
 
-> **Note:** The existence of two Consorsbank accounts (260809254 closed, 0250120493 active) suggests Oleg previously held multiple accounts at Consorsbank — a second account may have been an older savings or secondary account no longer needed.
+> **Hinweis:** Die Existenz zweier Consorsbank-Konten (260809254 geschlossen, 0250120493 aktiv) legt nahe, dass Oleg früher mehrere Konten bei der Consorsbank geführt hat — das zweite Konto war möglicherweise ein älteres Spar- oder Nebenkonto, das nicht mehr benötigt wurde.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[P0 Sofortmaßnahmen]] — task where closure was tracked
-- [[Consorsbank Girokonto 0250120493]] — main active Consorsbank account
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — account holder
+- [[P0 Sofortmaßnahmen]] — Aufgabe, in der die Schließung verfolgt wurde
+- [[Consorsbank Girokonto 0250120493]] — Haupt-Consorsbank-Konto (aktiv)
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context|Oleg Personal Context]] — Kontoinhaber

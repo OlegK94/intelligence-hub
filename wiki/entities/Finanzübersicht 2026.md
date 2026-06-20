@@ -10,12 +10,12 @@ summary: Überblick über Olegs Finanzlage 2026 — strukturelles Jahresdefizit 
 
 # Finanzübersicht 2026
 
-## Overview
+## Überblick
 
-This entity page synthesizes the structural financial picture for [[Oleg Personal Context|Oleg]] in 2026, based on the first Vault-derived monthly overview (June 2026). The situation is characterized by a **structural annual deficit**, near-zero liquid savings, a main account in overdraft, and significant upcoming corporate obligations.
+Diese Entitätsseite fasst die strukturelle Finanzlage von [[Oleg Personal Context|Oleg]] im Jahr 2026 zusammen, basierend auf der ersten Vault-basierten Monatsübersicht (Juni 2026). Die Situation ist gekennzeichnet durch ein **strukturelles Jahresdefizit**, nahezu null liquide Ersparnisse, ein Hauptkonto im Dispo sowie erhebliche bevorstehende Unternehmensverbindlichkeiten.
 
-> For the detailed source document, see [[Finance Monthly 2026-06 Source Detail]].
-> For the detailed fixed costs breakdown, see [[Fixkosten Übersicht]].
+> Das detaillierte Quelldokument findet sich unter [[Finance Monthly 2026-06 Source Detail]].
+> Die detaillierte Aufschlüsselung der Fixkosten findet sich unter [[Fixkosten Übersicht]].
 
 ---
 
@@ -24,7 +24,7 @@ This entity page synthesizes the structural financial picture for [[Oleg Persona
 | Quelle | Betrag | Typ |
 |---|---|---|
 | [[Doctolib]] Fixgehalt netto | 3.638,82 €/Mo | Fix, aktiv |
-| [[Wagglz GmbH]] GF-Gehalt | 0 €/Mo (2025: ~30k total) | Laufend 0 |
+| [[Wagglz GmbH]] GF-Gehalt | 0 €/Mo (2025: ~30k gesamt) | Laufend 0 |
 | Provision Q3 | Unbekannt | Variabel, möglich |
 | **Gesamt (Fix)** | **~3.639 €/Mo** | |
 
@@ -41,7 +41,7 @@ This entity page synthesizes the structural financial picture for [[Oleg Persona
 | Gesellschafterdarlehen | ~357 |
 | **Gesamt Fixblöcke** | **~1.215** |
 
-Full fixed costs detail: [[Fixkosten Übersicht]].
+Vollständige Fixkostendetails: [[Fixkosten Übersicht]].
 
 ---
 
@@ -53,7 +53,7 @@ Full fixed costs detail: [[Fixkosten Übersicht]].
 | **Jahresdefizit (geschätzt)** | **~−7.970 €** |
 | Monatliches Defizit (implizit) | ~−664 €/Mo |
 
-This deficit is **structural** — it exists independent of one-time events and will persist without deliberate intervention.
+Dieses Defizit ist **struktureller Natur** — es besteht unabhängig von Einmalereignissen und wird ohne gezielte Gegenmaßnahmen fortbestehen.
 
 ---
 
@@ -61,12 +61,12 @@ This deficit is **structural** — it exists independent of one-time events and 
 
 | Konto | Stand (€) | Kommentar |
 |---|---|---|
-| Consorsbank Giro | −1.405 (Dispo) | Overdraft; critical |
-| Ersparnisse | 1,10 | Effectively zero |
-| [[OK Capital UG]] Finom | TODO | Not yet confirmed |
-| [[Wagglz GmbH]] Finom | TODO | Not yet confirmed |
+| Consorsbank Giro | −1.405 (Dispo) | Überzogen; kritisch |
+| Ersparnisse | 1,10 | Faktisch null |
+| [[OK Capital UG]] Finom | TODO | Noch nicht bestätigt |
+| [[Wagglz GmbH]] Finom | TODO | Noch nicht bestätigt |
 
-> ⚠️ **Critical liquidity risk:** Private savings of 1,10 € and primary account in overdraft means **zero financial buffer**. Any unexpected expense triggers immediate cash crisis.
+> ⚠️ **Kritisches Liquiditätsrisiko:** Private Ersparnisse von 1,10 € und das Hauptkonto im Dispo bedeuten **null finanziellen Puffer**. Jede unerwartete Ausgabe löst sofort eine Liquiditätskrise aus.
 
 ---
 
@@ -75,7 +75,7 @@ This deficit is **structural** — it exists independent of one-time events and 
 | Aufgabe | Fälligkeit | Status |
 |---|---|---|
 | [[ESt 2025]] Pflichtveranlagung | TBD | Offen |
-| ALG-I-Bescheinigung anfordern | **2026-06-30** | Offen — imminent |
+| ALG-I-Bescheinigung anfordern | **2026-06-30** | Offen — dringend |
 | Lohnsteuerbescheinigung Wagglz 2025 bei [[SP STB]] | TBD | Offen |
 
 ---
@@ -104,35 +104,35 @@ This deficit is **structural** — it exists independent of one-time events and 
 
 ## Prioritätsanalyse: Die 3 schnellsten Hebel
 
-Based on the structural situation, the three fastest levers to reduce the annual deficit:
+Basierend auf der strukturellen Lage sind dies die drei schnellsten Hebel zur Reduzierung des Jahresdefizits:
 
-1. **Einnahmen erhöhen** — Provision Q3 aktivieren; Wagglz GF-Gehalt reaktivieren oder Gesellschaft schließen (eliminiert laufende Kosten). Direct income increase is the fastest lever given the deficit magnitude.
+1. **Einnahmen erhöhen** — Provision Q3 aktivieren; Wagglz GF-Gehalt reaktivieren oder Gesellschaft schließen (eliminiert laufende Kosten). Eine direkte Einnahmenerhöhung ist angesichts der Defizithöhe der schnellste Hebel.
 
-2. **Fixkosten senken** — [[Uelzener Tierversicherung]] Optimierung (flagged in [[Fixkosten Übersicht]]); [[ARAG Wagglz Versicherung]] Kündigung (403,52 €/Jahr); [[Allianz Insurance Consolidation]] (20% Rabatt auf 3 Policen).
+2. **Fixkosten senken** — [[Uelzener Tierversicherung]] Optimierung (vermerkt in [[Fixkosten Übersicht]]); [[ARAG Wagglz Versicherung]] Kündigung (403,52 €/Jahr); [[Allianz Insurance Consolidation]] (20% Rabatt auf 3 Policen).
 
-3. **Consorsbank Dispo klären / ESt 2025 abschließen** — Dispo kostet Zinsen; ESt 2025 könnte Rückerstattung generieren (ALG I Progressionsvorbehalt kann auch zur Rückzahlung führen je nach Gesamtstruktur). Priorität zwischen Steuer 2025, GmbH-Abschlüssen und privatem Dispo hängt von Zinssatz und Strafrisiko ab.
+3. **Consorsbank Dispo klären / ESt 2025 abschließen** — Dispo verursacht Zinskosten; ESt 2025 könnte eine Rückerstattung generieren (ALG I Progressionsvorbehalt kann je nach Gesamtstruktur auch zur Nachzahlung führen). Die Priorisierung zwischen Steuer 2025, GmbH-Abschlüssen und privatem Dispo hängt vom Zinssatz und dem Strafrisiko ab.
 
 **Priorisierungsempfehlung:**
-- Immediate (Juni): ALG-I-Bescheinigung (Deadline 30.06) + Insolvenzprüfung Gesellschaften (§ 15a InsO Haftungsrisiko)
-- Short-term: ESt 2025 einreichen (with SP STB)
-- Medium-term: GmbH-Abschlüsse veranlassen; Fixkosten optimieren
+- Sofort (Juni): ALG-I-Bescheinigung (Deadline 30.06) + Insolvenzprüfung Gesellschaften (§ 15a InsO Haftungsrisiko)
+- Kurzfristig: ESt 2025 einreichen (mit [[SP STB]])
+- Mittelfristig: GmbH-Abschlüsse veranlassen; Fixkosten optimieren
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Finance Monthly 2026-06 Source Detail]] — source document
-- [[Fixkosten Übersicht]] — detailed fixed costs
-- [[Wagglz GmbH]] — company obligations
-- [[OK Capital UG]] — dormant company obligations
-- [[ESt 2025]] — tax filing
-- [[ALG I 2025]] — ALG I for Pflichtveranlagung
-- [[ALG I Progressionsvorbehalt]] — tax mechanism
+- [[Finance Monthly 2026-06 Source Detail]] — Quelldokument
+- [[Fixkosten Übersicht]] — detaillierte Fixkosten
+- [[Wagglz GmbH]] — Unternehmensverbindlichkeiten
+- [[OK Capital UG]] — Verbindlichkeiten ruhende Gesellschaft
+- [[ESt 2025]] — Steuererklärung
+- [[ALG I 2025]] — ALG I für Pflichtveranlagung
+- [[ALG I Progressionsvorbehalt]] — steuerlicher Mechanismus
 - [[SP STB]] — Steuerberater
-- [[ARAG Wagglz Versicherung]] — cancellable insurance
-- [[Allianz Insurance Consolidation]] — insurance optimization
-- [[Uelzener Tierversicherung]] — high-cost item
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — 2025 salary context
-- [[Wagglz Finom 2026]] — business account
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — subject
+- [[ARAG Wagglz Versicherung]] — kündbare Versicherung
+- [[Allianz Insurance Consolidation]] — Versicherungsoptimierung
+- [[Uelzener Tierversicherung]] — Kostentreiber
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltskontext 2025
+- [[Wagglz Finom 2026]] — Geschäftskonto
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — betroffene Person

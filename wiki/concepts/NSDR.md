@@ -5,56 +5,56 @@ tags: [recovery, sleep, relaxation, stress-management]
 sources: ["02-Performance-Leben/Health Protocol — Master.md"]
 created: 2024-12-19
 updated: 2024-12-19
-summary: Non-Sleep Deep Rest protocol for enhanced recovery and stress management
+summary: Non-Sleep Deep Rest Protokoll für verbesserte Erholung und Stressbewältigung
 ---
 
 # NSDR (Non-Sleep Deep Rest)
 
-## Overview
+## Überblick
 
-Non-Sleep Deep Rest (NSDR) is a relaxation protocol that induces a state of deep relaxation while maintaining consciousness, providing many of the restorative benefits of sleep without actually sleeping.
+Non-Sleep Deep Rest (NSDR) ist ein Entspannungsprotokoll, das einen Zustand tiefer Entspannung herbeiführt, während das Bewusstsein erhalten bleibt. Es vermittelt viele der regenerativen Vorteile des Schlafs, ohne tatsächlich zu schlafen.
 
-## Protocol Implementation
+## Protokoll-Umsetzung
 
-In [[Health Protocol Master]]:
-- **Timing:** 20:00 (8:00 PM)
-- **Duration:** 25 minutes (until 20:25)
-- **Purpose:** Transition to sleep preparation
-- **Integration:** Part of evening wind-down routine
+Im [[Health Protocol Master]]:
+- **Zeitpunkt:** 20:00 Uhr
+- **Dauer:** 25 Minuten (bis 20:25 Uhr)
+- **Zweck:** Übergang zur Schlafvorbereitung
+- **Einbindung:** Teil der abendlichen Entspannungsroutine
 
-## Techniques
+## Techniken
 
-- **Yoga Nidra:** Body scanning and progressive relaxation
-- **Guided meditation:** Following audio instructions
-- **Breath work:** Controlled breathing patterns
-- **Progressive muscle relaxation:** Systematic tension release
+- **Yoga Nidra:** Körper-Scanning und progressive Entspannung
+- **Geführte Meditation:** Folgen von Audio-Anweisungen
+- **Atemübungen:** Kontrollierte Atemmuster
+- **Progressive Muskelentspannung:** Systematisches Lösen von Anspannungen
 
-## Benefits
+## Vorteile
 
-- Reduced stress and cortisol levels
-- Enhanced parasympathetic nervous system activation
-- Improved sleep quality preparation
-- Mental fatigue recovery
-- Anxiety and tension reduction
+- Reduzierter Stress und niedrigere Cortisolspiegel
+- Verstärkte Aktivierung des parasympathischen Nervensystems
+- Verbesserte Vorbereitung auf die Schlafqualität
+- Erholung von mentaler Erschöpfung
+- Abbau von Angst und Anspannung
 
-## Scientific Background
+## Wissenschaftlicher Hintergrund
 
-Developed and promoted by [[Andrew Huberman]] based on neuroscience research showing:
-- Activation of default mode network
-- Restoration of dopamine and neurotransmitter levels
-- Enhancement of neuroplasticity
-- Stress response regulation
+Entwickelt und verbreitet von [[Andrew Huberman]] auf Basis neurowissenschaftlicher Forschung, die Folgendes zeigt:
+- Aktivierung des Default Mode Network
+- Wiederherstellung von Dopamin- und Neurotransmitter-Spiegeln
+- Förderung der Neuroplastizität
+- Regulierung der Stressreaktion
 
-## Implementation Tips
+## Umsetzungstipps
 
-- Consistent timing for circadian rhythm support
-- Comfortable, quiet environment
-- Use of guided audio sessions
-- Integration with sleep hygiene protocols
+- Gleichmäßiger Zeitplan zur Unterstützung des zirkadianen Rhythmus
+- Komfortable, ruhige Umgebung
+- Nutzung geführter Audio-Sitzungen
+- Einbindung in Schlafhygiene-Protokolle
 
-## Related Concepts
+## Verwandte Konzepte
 
-- [[Sleep Optimization]]
-- [[Stress Management]]
-- [[Recovery Protocols]]
-- [[Circadian Rhythm]] regulation
+- [[Sleep Optimization|Schlafoptimierung]]
+- [[Stress Management|Stressbewältigung]]
+- [[Recovery Protocols|Erholungsprotokolle]]
+- [[Circadian Rhythm|Zirkadianer Rhythmus]] Regulierung

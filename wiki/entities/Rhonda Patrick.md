@@ -5,48 +5,48 @@ tags: [scientist, longevity, health-optimization, biochemistry, nutrition, podca
 sources: ["raw/Business/PerformanceCafe/brand/positioning.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Biomedical scientist and founder of FoundMyFitness — expert in longevity, micronutrient optimization, and exercise biochemistry; referenced as a key Biohacker/Blueprint segment influencer for the Performance Coffee Brand
+summary: Biomedizinische Wissenschaftlerin und Gründerin von FoundMyFitness — Expertin für Longevity, Mikronährstoff-Optimierung und Trainingsbiochemie; gilt als wichtige Einflussperson im Biohacker/Blueprint-Segment der Performance Coffee Brand
 ---
 
 # Rhonda Patrick
 
-## Overview
+## Überblick
 
-**Dr. Rhonda Patrick** is a biomedical scientist and science communicator specializing in aging, nutritional biochemistry, and exercise physiology. She is the founder and host of **FoundMyFitness** (foundmyfitness.com), a podcast and newsletter focused on longevity-oriented science.
+**Dr. Rhonda Patrick** ist eine biomedizinische Wissenschaftlerin und Wissenschaftskommunikatorin mit den Schwerpunkten Aging, Ernährungsbiochemie und Sportphysiologie. Sie ist Gründerin und Gastgeberin von **FoundMyFitness** (foundmyfitness.com), einem Podcast und Newsletter mit Fokus auf longevity-orientierter Wissenschaft.
 
-## Relevance to Wiki
+## Relevanz für das Wiki
 
 ### Performance Coffee Brand
-Rhonda Patrick is cited as one of the key influencers whose audience constitutes the **Biohacker / Blueprint-Follower** segment (Segment 3, high LTV) for [[Performance Coffee Brand]]:
-- Consumers familiar with Rhonda Patrick, [[Bryan Johnson]], [[Andrew Huberman]], and Peter Attia are the niche-but-high-LTV target
-- Her audience is scientifically literate, comfortable with supplement protocols, and willing to pay premium prices for evidence-backed products
+Rhonda Patrick wird als eine der zentralen Einflusspersonen genannt, deren Publikum das **Biohacker / Blueprint-Follower**-Segment (Segment 3, hohes LTV) für [[Performance Coffee Brand]] ausmacht:
+- Konsumenten, die mit Rhonda Patrick, [[Bryan Johnson]], [[Andrew Huberman]] und Peter Attia vertraut sind, bilden die Nischen-, aber High-LTV-Zielgruppe
+- Ihr Publikum ist wissenschaftlich versiert, vertraut im Umgang mit Supplement-Protokollen und bereit, Premiumpreise für evidenzbasierte Produkte zu zahlen
 
-### Huberman Lab Connection
-[[Andrew Huberman]] has featured Rhonda Patrick as a guest on Huberman Lab — the episode [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] is ingested in the wiki and directly informs [[Oleg Personal Context|Oleg]]'s supplement stack and health protocols.
+### Huberman Lab Verbindung
+[[Andrew Huberman]] hatte Rhonda Patrick als Gast im Huberman Lab — die Episode [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] ist im Wiki erfasst und fließt direkt in [[Oleg Personal Context|Olegs]] Supplement-Stack und Gesundheitsprotokolle ein.
 
-## Key Research Areas
+## Zentrale Forschungsgebiete
 
-- **Sulforaphane:** Broccoli sprout compound with NRF2 activation — Oleg takes sulforaphane per [[Daily Protocol Checklist]]
-- **Sauna protocols:** Heat shock proteins, longevity benefits, cardiovascular health
-- **Omega-3:** EPA/DHA dosing for cardiovascular and cognitive health
-- **Vitamin D:** Optimal levels (50–80 ng/mL range), dosing strategies
-- **Exercise biochemistry:** HIIT, zone 2 cardio, irisin, and aging
-- **Micronutrient genomics:** Personalized nutrition based on genetic variants
+- **Sulforaphan:** Verbindung aus Brokkolisprossen mit NRF2-Aktivierung — Oleg nimmt Sulforaphan gemäß [[Daily Protocol Checklist]]
+- **Saunaprotokolle:** Hitzeschockproteine, Longevity-Vorteile, kardiovaskuläre Gesundheit
+- **Omega-3:** EPA/DHA-Dosierung für kardiovaskuläre und kognitive Gesundheit
+- **Vitamin D:** Optimale Werte (Bereich 50–80 ng/mL), Dosierungsstrategien
+- **Trainingsbiochemie:** HIIT, Zone 2 Cardio, Irisin und Aging
+- **Mikronährstoff-Genomik:** Personalisierte Ernährung auf Basis genetischer Varianten
 
-## Relationship to Other Experts
+## Beziehungen zu anderen Experten
 
-| Expert | Relationship |
+| Experte | Beziehung |
 |---|---|
-| [[Andrew Huberman]] | Frequent podcast cross-appearances; complementary domains |
-| [[Bryan Johnson]] | Parallel longevity focus; different methodology (Blueprint = protocol-first, FoundMyFitness = research-first) |
-| Peter Attia | Similar evidence-based longevity positioning; complementary audiences |
+| [[Andrew Huberman]] | Häufige Podcast-Gastauftritte; komplementäre Themenbereiche |
+| [[Bryan Johnson]] | Paralleler Longevity-Fokus; unterschiedliche Methodik (Blueprint = protokollzuerst, FoundMyFitness = forschungszuerst) |
+| Peter Attia | Ähnliche evidenzbasierte Longevity-Positionierung; komplementäre Zielgruppen |
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — Rhonda Patrick's audience = Segment 3 target
-- [[Performance Coffee Brand Positioning]] — positioning source document
-- [[Andrew Huberman]] — frequent collaborator and cross-reference
-- [[Bryan Johnson]] — parallel longevity influencer
-- [[Health Protocol Master]] — protocols informed by Rhonda Patrick research
-- [[Supplement Stack]] — sulforaphane included per FoundMyFitness influence
-- [[Daily Protocol Checklist]] — sulforaphane appears at 13:30
+- [[Performance Coffee Brand]] — Rhonda Patricks Publikum = Zielgruppe Segment 3
+- [[Performance Coffee Brand Positioning]] — Quelldokument zur Positionierung
+- [[Andrew Huberman]] — häufiger Kooperationspartner und Querverweise
+- [[Bryan Johnson]] — paralleler Longevity-Influencer
+- [[Health Protocol Master]] — Protokolle, informiert durch Rhonda Patricks Forschung
+- [[Supplement Stack]] — Sulforaphan enthalten gemäß FoundMyFitness-Einfluss
+- [[Daily Protocol Checklist]] — Sulforaphan erscheint um 13:30 Uhr

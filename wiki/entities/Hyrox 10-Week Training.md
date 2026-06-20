@@ -1,70 +1,70 @@
 ---
-title: Hyrox 10-Week Training
+title: Hyrox 10-Wochen-Training
 type: entity
 tags: [hyrox, training, fitness, competition, berlin, performance, project, open]
 sources: ["raw/Privat/Performance/Hyrox — 10-Week Training.md", "raw/inbox/_merged/📥 Offene Actions.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Oleg's 10-week Hyrox competition preparation program — next step is choosing a competition date and researching the next Berlin event; registration is open/pending
+summary: Olegs 10-wöchiges Hyrox-Wettkampfvorbereitungsprogramm — nächster Schritt ist die Wahl eines Wettkampfdatums und die Recherche zum nächsten Berlin-Event; Anmeldung offen/ausstehend
 ---
 
-# Hyrox — 10-Week Training
+# Hyrox — 10-Wochen-Training
 
-## Overview
+## Überblick
 
-**Hyrox** is a global fitness racing format combining running and functional workout stations. [[Oleg Personal Context|Oleg]] has a 10-week training plan prepared; the immediate next step is **registering for a Berlin event**.
+**Hyrox** ist ein globales Fitness-Rennformat, das Laufen mit funktionellen Workout-Stationen kombiniert. [[Oleg Personal Context|Oleg]] hat einen 10-wöchigen Trainingsplan vorbereitet; der unmittelbar nächste Schritt ist die **Anmeldung zu einem Berliner Event**.
 
 ## Status
 
-- **Status:** Open — registration pending
-- **Priority:** P1 (per [[Dashboard]]) / 🟡 Kurzfristig (per [[Offene Actions Inbox]])
-- **Next steps:**
-  - [ ] Wettkampfdatum wählen (choose competition date)
-  - [ ] Nächstes Berlin-Event recherchieren (research next Berlin Hyrox event)
+- **Status:** Offen — Anmeldung ausstehend
+- **Priorität:** P1 (gemäß [[Dashboard]]) / 🟡 Kurzfristig (gemäß [[Offene Actions Inbox]])
+- **Nächste Schritte:**
+  - [ ] Wettkampfdatum wählen
+  - [ ] Nächstes Berlin-Event recherchieren
 
-## Training Plan Overview
+## Überblick über den Trainingsplan
 
-The 10-week plan is structured across three phases:
+Der 10-wöchige Plan ist in drei Phasen gegliedert:
 
-### Phase 1 — Foundation (Weeks 1–3)
-- Aerobic base + station technique
-- Zone 2 cardio emphasis
-- Station mechanics (form before intensity)
+### Phase 1 — Grundlagen (Wochen 1–3)
+- Aerobe Basis + Stationstechnik
+- Schwerpunkt Zone 2 Cardio
+- Stationsmechanik (Technik vor Intensität)
 
-### Phase 2 — Specific Preparation (Weeks 4–6)
-- [[Brick Training]] introduction
-- Station work → 200m run transitions
-- Increasing intensity
+### Phase 2 — Spezifische Vorbereitung (Wochen 4–6)
+- Einführung [[Brick Training]]
+- Stationsarbeit → 200m-Lauf-Übergänge
+- Steigende Intensität
 
-### Phase 3 — Race Simulation (Weeks 7–9)
-- Full [[Brick Training]] simulation
-- Station work → 1km run transitions
-- Race-pace efforts
+### Phase 3 — Wettkampfsimulation (Wochen 7–9)
+- Vollständige [[Brick Training]]-Simulation
+- Stationsarbeit → 1km-Lauf-Übergänge
+- Wettkampftempo-Einheiten
 
-### Week 10 — Taper
-- Volume reduction
-- Skill sharpening
-- Race readiness
+### Woche 10 — Tapering
+- Volumenreduktion
+- Feinschliff der Techniken
+- Wettkampfbereitschaft
 
-## Hyrox Race Format
+## Hyrox-Wettkampfformat
 
-8 rounds of:
-1. 1km Run
-2. Functional station (varies per round)
+8 Runden à:
+1. 1km Lauf
+2. Funktionelle Station (variiert je Runde)
 
-**Stations:** Ski Erg, Sled Push (102kg), Sled Pull, Burpee Broad Jump, Rowing, Farmers Carry, Sandbag Lunges, Wall Balls
+**Stationen:** Ski Erg, Sled Push (102kg), Sled Pull, Burpee Broad Jump, Rowing, Farmers Carry, Sandbag Lunges, Wall Balls
 
-## Integration with Health Protocol
+## Integration mit dem Gesundheitsprotokoll
 
-Hyrox training integrates with [[Health Protocol Master]]:
-- Supports body recomposition goal (20.3% → 15–17% body fat)
-- Zone 2 work aligns with [[BMR and TDEE]] caloric deficit strategy
-- Training load factored into TDEE calculation
+Das Hyrox-Training ist in das [[Health Protocol Master]] eingebunden:
+- Unterstützt das Körperkompositionsziel (20,3 % → 15–17 % Körperfettanteil)
+- Zone 2-Arbeit passt zur Kaloriendefizit-Strategie aus [[BMR and TDEE]]
+- Trainingsbelastung wird in die TDEE-Berechnung einbezogen
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Brick Training]] — key training methodology for Hyrox
-- [[Health Protocol Master]] — broader performance protocol
-- [[Offene Actions Inbox]] — action source
-- [[Dashboard]] — priority tracking
-- [[Oleg Personal Context]] — athlete
+- [[Brick Training]] — zentrale Trainingsmethodik für Hyrox
+- [[Health Protocol Master]] — übergreifendes Performance-Protokoll
+- [[Offene Actions Inbox]] — Aktionsquelle
+- [[Dashboard]] — Prioritätsverfolgung
+- [[Oleg Personal Context]] — Athlet

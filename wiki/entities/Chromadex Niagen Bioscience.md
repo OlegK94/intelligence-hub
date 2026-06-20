@@ -5,101 +5,101 @@ tags: [company, NR, NIAGEN, nicotinamide-riboside, patent, NAD-precursor, perfor
 sources: ["raw/Business/PerformanceCafe/legal/ip_landscape.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: "US company (NASDAQ: NAGE) rebranded from ChromaDex Corp. to Niagen Bioscience Inc. in 2025; sole significant patent holder for NR (Nicotinamide Riboside) as supplement ingredient; licenses NIAGEN to brands including Nestlé Health Science; new NR salt form patent (US 12,252,506) expires ~2034; contact partnerops@niagenbio.com"
+summary: "US-Unternehmen (NASDAQ: NAGE), 2025 von ChromaDex Corp. zu Niagen Bioscience Inc. umbenannt; einziger bedeutender Patentinhaber für NR (Nicotinamide Riboside) als Nahrungsergänzungsmittel-Wirkstoff; lizenziert NIAGEN an Marken wie Nestlé Health Science; neues NR-Salzform-Patent (US 12,252,506) läuft ~2034 aus; Kontakt: partnerops@niagenbio.com"
 ---
 
 # ChromaDex / Niagen Bioscience
 
-## Overview
+## Überblick
 
-**ChromaDex Corp.** rebranded to **Niagen Bioscience, Inc.** (NASDAQ: NAGE) in 2025. The company is the **sole significant patent holder** for Nicotinamide Riboside (NR) as a dietary supplement ingredient, branded as **NIAGEN®**.
+**ChromaDex Corp.** wurde 2025 in **Niagen Bioscience, Inc.** (NASDAQ: NAGE) umbenannt. Das Unternehmen ist der **einzige bedeutende Patentinhaber** für Nicotinamide Riboside (NR) als Wirkstoff für Nahrungsergänzungsmittel, vermarktet unter dem Namen **NIAGEN®**.
 
-## Corporate Identity
+## Unternehmensidentität
 
-| Field | Detail |
+| Feld | Detail |
 |---|---|
-| **Current name** | Niagen Bioscience, Inc. |
-| **Former name** | ChromaDex Corp. |
-| **Renamed** | 2025 |
-| **NASDAQ ticker** | NAGE |
-| **Headquarters** | United States |
+| **Aktueller Name** | Niagen Bioscience, Inc. |
+| **Früherer Name** | ChromaDex Corp. |
+| **Umbenannt** | 2025 |
+| **NASDAQ-Kürzel** | NAGE |
+| **Hauptsitz** | Vereinigte Staaten |
 
-## Patent Portfolio
+## Patentportfolio
 
-| Patent | Content | Expiry |
+| Patent | Inhalt | Ablauf |
 |---|---|---|
-| **US 8,197,807** | Composition patent on NR | ~2030 |
-| **US 12,252,506** (March 2025) | NR salt forms — NR Malate, NR Tartrate | **~2034** |
-| **European patents** | NR in multiple EU countries | Research required (espacenet.epo.org) — specific EP numbers not publicly confirmed |
+| **US 8,197,807** | Zusammensetzungspatent auf NR | ~2030 |
+| **US 12,252,506** (März 2025) | NR-Salzformen — NR Malat, NR Tartrat | **~2034** |
+| **Europäische Patente** | NR in mehreren EU-Ländern | Recherche erforderlich (espacenet.epo.org) — spezifische EP-Nummern nicht öffentlich bestätigt |
 
-### Patent Origin
+### Patentherkunft
 
-Core NR patents originated from **Dartmouth College** (research by Charles Brenner) — ChromaDex licensed these exclusively, establishing the foundational IP position for commercial NR.
+Die grundlegenden NR-Patente entstammen dem **Dartmouth College** (Forschung von Charles Brenner) — ChromaDex hat diese exklusiv lizenziert und damit die fundamentale IP-Position für kommerzielles NR begründet.
 
-## NIAGEN® — The Licensed Ingredient
+## NIAGEN® — Der lizenzierte Wirkstoff
 
-- NIAGEN is ChromaDex/Niagen Bioscience's branded NR ingredient
-- **The only commercially established NR ingredient with full clinical backing**
-- Licensed to third-party brands who can label products with "patentiertes NIAGEN®"
-- This brand certification is a **communication advantage** at premium pricing
+- NIAGEN ist der markierte NR-Wirkstoff von ChromaDex/Niagen Bioscience
+- **Der einzige kommerziell etablierte NR-Wirkstoff mit vollständiger klinischer Absicherung**
+- Wird an Drittmarken lizenziert, die Produkte mit „Patentiertes NIAGEN®" kennzeichnen können
+- Diese Markenzertifizierung ist ein **kommunikativer Vorteil** bei Premium-Preisgestaltung
 
-## Known Licensees
+## Bekannte Lizenznehmer
 
-| Licensee | Details |
+| Lizenznehmer | Details |
 |---|---|
-| **Nestlé Health Science** | Global framework agreement + $5M investment (2022) |
-| Various supplement brands | Global licensing model |
+| **Nestlé Health Science** | Globales Rahmenabkommen + 5 Mio. USD Investition (2022) |
+| Verschiedene Nahrungsergänzungsmarken | Globales Lizenzmodell |
 
-## Generic NR Assessment
+## Bewertung von Generic-NR
 
-"Generic" NR from China is available but:
-- **Patent status unclear in EU** — ChromaDex/Niagen Bioscience holds EU patents
-- **Quality control questionable** — 87% of NR supplements fail label claims (per ChromaDex study)
-- **Regulatory risk** — NIAGEN has Novel Food status; generic NR status is borderline
+„Generisches" NR aus China ist verfügbar, jedoch:
+- **Patentstatus in der EU unklar** — ChromaDex/Niagen Bioscience hält EU-Patente
+- **Qualitätskontrolle fragwürdig** — 87 % der NR-Nahrungsergänzungsmittel erfüllen Deklarationsangaben nicht (laut ChromaDex-Studie)
+- **Regulatorisches Risiko** — NIAGEN besitzt Novel Food-Status; der Status von generischem NR ist grenzwertig
 
-**Conclusion:** No validated alternative to NIAGEN with equivalent clinical evidence. Generic NR is not recommended.
+**Fazit:** Keine validierte Alternative zu NIAGEN mit gleichwertigem klinischen Nachweis. Generisches NR wird nicht empfohlen.
 
-## Licensing Model
+## Lizenzmodell
 
-- Niagen Bioscience licenses NIAGEN to supplement brands
-- No public B2B pricing or terms
-- **B2B contacts:**
+- Niagen Bioscience lizenziert NIAGEN an Nahrungsergänzungsmarken
+- Keine öffentlichen B2B-Preise oder -Konditionen
+- **B2B-Kontakte:**
   - partnerops@niagenbio.com
-  - investors.chromadex.com → Contact section
-  - Also accessible via chromadex.com/b2b
+  - investors.chromadex.com → Bereich Kontakt
+  - Auch erreichbar über chromadex.com/b2b
 
-## NR vs. NMN Comparison
+## Vergleich NR vs. NMN
 
-| Feature | NR (NIAGEN) | NMN |
+| Merkmal | NR (NIAGEN) | NMN |
 |---|---|---|
-| EU legal status | Novel Food (via ChromaDex/Niagen route) | Novel Food NOT approved — grey zone |
-| Patent landscape | Clear (Niagen Bioscience) | Complex; substance not patentable |
-| Bioavailability evidence | Well established | Comparable; fewer human studies |
-| Price | Higher (license required) | Lower (generics available) |
-| EU regulatory safety | Higher | Medium risk |
+| EU-Rechtsstatus | Novel Food (über ChromaDex/Niagen-Weg) | Novel Food NICHT genehmigt — Grauzone |
+| Patentlandschaft | Klar (Niagen Bioscience) | Komplex; Substanz nicht patentierbar |
+| Bioverfügbarkeitsnachweis | Gut belegt | Vergleichbar; weniger Humanstudien |
+| Preis | Höher (Lizenz erforderlich) | Niedriger (Generika verfügbar) |
+| Regulatorische EU-Sicherheit | Höher | Mittleres Risiko |
 
-## Relevance to Performance Coffee Brand
+## Relevanz für die Performance Coffee Brand
 
-NR (NIAGEN) is the recommended alternative to [[NMN]] as a NAD+ precursor for [[Performance Coffee Brand]]:
+NR (NIAGEN) ist die empfohlene Alternative zu [[NMN]] als NAD+-Vorläufer für [[Performance Coffee Brand|die Performance Coffee Marke]]:
 
-| Reason | Detail |
+| Grund | Detail |
 |---|---|
-| Better regulated | Novel Food authorization via ChromaDex pathway |
-| Clinical backing | Superior human study evidence vs. generic NR |
-| Premium positioning | "Patentiertes NIAGEN®" is a consumer communication asset |
-| Commercially accessible | Licensing is Niagen Bioscience's business model |
+| Besser reguliert | Novel Food-Zulassung über den ChromaDex-Weg |
+| Klinische Absicherung | Überlegener Humanstudiennachweis gegenüber generischem NR |
+| Premium-Positionierung | „Patentiertes NIAGEN®" ist ein Kommunikationsvorteil beim Verbraucher |
+| Kommerziell zugänglich | Lizenzierung ist das Geschäftsmodell von Niagen Bioscience |
 
-**Recommendation:** If NR is in the stack → license NIAGEN directly. The communication advantage outweighs the additional cost at premium positioning.
+**Empfehlung:** Wenn NR im Stack enthalten ist → NIAGEN direkt lizenzieren. Der Kommunikationsvorteil überwiegt die Mehrkosten bei Premium-Positionierung.
 
-**Note:** [[NMN]] is NOT recommended for MVP (see [[NMN EU Status 2026]]); NR/NIAGEN is the cleaner regulatory and IP path for NAD+ support.
+**Hinweis:** [[NMN]] wird für den MVP NICHT empfohlen (siehe [[NMN EU Status 2026]]); NR/NIAGEN ist der sauberere regulatorische und IP-Weg für NAD+-Unterstützung.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[NMN EU Status 2026]] — NMN as regulatory alternative context
-- [[Performance Coffee Brand]] — project requiring NR decision
-- [[Performance Café IP Landscape Modul 8]] — source document
-- [[EU Novel Food Regulation]] — regulatory framework
-- [[IP Risk Matrix Performance Café]] — consolidated risk matrix
-- [[Urolithin A]] — parallel IP-complex ingredient
-- [[Amazentis]] — parallel major IP holder in longevity space
-- [[Longevity Stack Ingredients]] — broader ingredient context
+- [[NMN EU Status 2026|NMN EU-Status 2026]] — NMN als regulatorischer Alternativkontext
+- [[Performance Coffee Brand|Performance Coffee Marke]] — Projekt, das eine NR-Entscheidung erfordert
+- [[Performance Café IP Landscape Modul 8]] — Quelldokument
+- [[EU Novel Food Regulation|EU Novel Food-Verordnung]] — regulatorischer Rahmen
+- [[IP Risk Matrix Performance Café]] — konsolidierte Risikomatrix
+- [[Urolithin A]] — paralleler IP-komplexer Wirkstoff
+- [[Amazentis]] — paralleler bedeutender IP-Inhaber im Longevity-Bereich
+- [[Longevity Stack Ingredients|Longevity Stack Wirkstoffe]] — breiterer Wirkstoffkontext

@@ -5,20 +5,20 @@ tags: [aufgaben, P0, kritisch, finanzen, wagglz, rangrücktritt, inso, steuern, 
 sources: ["raw/Privat/Finanzen/Aufgaben/P0 Sofort.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for Oleg's P0 (sofort) task list — two open critical items (Rangrücktritt Wagglz, Vollständigkeitserklärung SP STB) and three recently completed items (Consorsbank closure, Steuerrückstände, VW-Kredit confirmation)
+summary: Quelldokument für Olegs P0 (sofort) Aufgabenliste — zwei offene kritische Punkte (Rangrücktritt Wagglz, Vollständigkeitserklärung SP STB) und drei kürzlich erledigte Punkte (Consorsbank-Auflösung, Steuerrückstände, VW-Kredit-Bestätigung)
 ---
 
 # P0 Sofortmaßnahmen — Source Detail
 
-## Overview
+## Übersicht
 
-This source document (aktualisiert: 2026-06-12) captures [[Oleg Personal Context|Oleg]]'s **P0 priority task list** — items with legal or financial consequences if delayed. Two items remain open; three were completed as of 2026-06-12.
+Dieses Quelldokument (aktualisiert: 2026-06-12) erfasst [[Oleg Personal Context|Olegs]] **P0-Prioritätsaufgabenliste** — Punkte mit rechtlichen oder finanziellen Konsequenzen bei Verzögerung. Zwei Punkte sind noch offen; drei wurden zum Stand 2026-06-12 abgeschlossen.
 
-> For the entity-level summary of open P0 tasks, see [[P0 Sofortmaßnahmen]].
+> Für die entitätsbezogene Zusammenfassung offener P0-Aufgaben siehe [[P0 Sofortmaßnahmen]].
 
 ---
 
-## Offene Punkte (Open — as of 2026-06-12)
+## Offene Punkte (Stand: 2026-06-12)
 
 ### 1. Rangrücktritt Wagglz unterschreiben
 
@@ -33,29 +33,29 @@ This source document (aktualisiert: 2026-06-12) captures [[Oleg Personal Context
 
 - **Frist:** 📅 2026-06-20
 - **Kontext:** Steuerberater-Mandat für 2025
-- **Blockiert:** Jahresabschluss [[Wagglz GmbH]] kann nicht fertiggestellt werden bis Unterschrift vorliegt
+- **Blockiert:** Jahresabschluss [[Wagglz GmbH]] kann nicht fertiggestellt werden, bis Unterschrift vorliegt
 - **Kontakt:** [[SP STB]]
 
 ---
 
-## Erledigte Punkte (Completed)
+## Erledigte Punkte
 
 | Aufgabe | Erledigt | Details |
 |---|---|---|
 | Consorsbank 260809254 — 11,32 € bezahlt & Konto aufgelöst | ✅ 2026-06-12 | Konto geschlossen; kleine Restforderung beglichen |
-| FA Steuerrückstände — vollständig bezahlt | ✅ 2026 | Finanzamt Rückstände vollständig beglichen |
+| FA Steuerrückstände — vollständig bezahlt | ✅ 2026 | Finanzamt-Rückstände vollständig beglichen |
 | VW-Kredit bestätigt: 18.858 € Restschuld (bis Nov 2028) | ✅ 2026-06-12 | Kreditdetails bestätigt und erfasst |
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[P0 Sofortmaßnahmen]] — entity summary page
-- [[Wagglz GmbH]] — company with Rangrücktritt and Jahresabschluss dependency
-- [[Rangrücktritt §15a InsO]] — legal concept behind the Rangrücktritt task
-- [[SP STB]] — Steuerberater holding the documents
-- [[ESt 2025]] — broader tax filing context
-- [[VW Kredit]] — credit confirmed in completed tasks
-- [[Consorsbank Girokonto 260809254]] — closed account
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — task owner
+- [[P0 Sofortmaßnahmen]] — Entitätszusammenfassungsseite
+- [[Wagglz GmbH]] — Unternehmen mit Rangrücktritt und Jahresabschluss-Abhängigkeit
+- [[Rangrücktritt §15a InsO]] — rechtliches Konzept hinter der Rangrücktritt-Aufgabe
+- [[SP STB]] — Steuerberater, der die Dokumente verwahrt
+- [[ESt 2025]] — übergeordneter Kontext der Steuererklärung
+- [[VW Kredit]] — in den erledigten Aufgaben bestätigter Kredit
+- [[Consorsbank Girokonto 260809254]] — geschlossenes Konto
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context|Oleg Personal Context]] — Aufgabenverantwortlicher

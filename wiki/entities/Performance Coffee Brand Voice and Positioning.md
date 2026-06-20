@@ -1,65 +1,65 @@
 ---
-title: Performance Coffee Brand Voice and Positioning
+title: Performance Coffee Markensprache und Positionierung
 type: concept
 tags: [performance-cafe, brand-voice, positioning, messaging, tagline, marketing, longevity, functional-coffee, blueprint, huberman, DACH, EU]
 sources: ["raw/Business/PerformanceCafe/brand/naming_brief.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Brand voice and positioning framework for Performance Coffee Brand — four core voice principles modeled on Blueprint and Huberman Lab; primary tagline "Perform now. Live longer."; three target audience hooks; six competitor differentiators; bilingual DACH/international language strategy
+summary: Markensprache und Positionierungsrahmen für die Performance Coffee Marke — vier Kern-Stimmprinzipien nach Blueprint und Huberman Lab; primärer Slogan „Perform now. Live longer."; drei Zielgruppen-Hooks; sechs Wettbewerbsabgrenzungen; zweisprachige DACH/internationale Sprachstrategie
 ---
 
-# Performance Coffee Brand — Voice and Positioning
+# Performance Coffee Marke — Sprache und Positionierung
 
-## Overview
+## Überblick
 
-The positioning framework for [[Performance Coffee Brand]] (formerly referred to as Performance Café) establishes how the brand communicates, to whom, and how it differs from competitors. It is built on the strategic white space: [[Bryan Johnson]]'s Blueprint has no coffee product, and his community drinks coffee anyway.
+Der Positionierungsrahmen für [[Performance Coffee Brand]] (zuvor als Performance Café bezeichnet) legt fest, wie die Marke kommuniziert, an wen, und wie sie sich von Wettbewerbern unterscheidet. Er basiert auf einem strategischen Weißraum: [[Bryan Johnson]]s Blueprint hat kein Kaffeeprodukt — und seine Community trinkt trotzdem Kaffee.
 
-> Source: [[Performance Cafe Naming Brief]] (Modul 7, 2026-06-14)
+> Quelle: [[Performance Cafe Naming Brief]] (Modul 7, 2026-06-14)
 
 ---
 
-## Core Brand Promise
+## Kern-Markenversprechen
 
 > **"Perform now. Live longer."**
 
-Two promises in one sentence. Neither is exclusive of the other. This is the axis that separates Performance Coffee from:
-- Energy drinks (only "perform now", no longevity)
-- Matcha / green tea alternatives (longevity-adjacent but not performance-focused)
-- Standard coffee (only flavor/ritual, no functional stack)
+Zwei Versprechen in einem Satz. Keines schließt das andere aus. Das ist die Achse, die Performance Coffee von anderen trennt:
+- Energy Drinks (nur „perform now", keine Longevity)
+- Matcha- / Grüntee-Alternativen (Longevity-nah, aber nicht leistungsorientiert)
+- Standard-Kaffee (nur Geschmack/Ritual, kein funktioneller Stack)
 
 ---
 
-## Four Brand Voice Principles
+## Vier Markensprachen-Prinzipien
 
 ### 1. Blueprint-Qualität
-*"Every ingredient earned its place."*
+*„Every ingredient earned its place."*
 
-- No Proprietary Blend — all dosages publicly visible
-- No Pixie-Dusting (ingredient on label, dose too low to work)
-- Example language: *"100mg Lion's Mane (8:1 Extrakt, >30% Polysaccharide)"* — not *"enthält Pilzextrakte"*
-- This principle creates accountability and trust with the target demographic
+- Kein Proprietary Blend — alle Dosierungen öffentlich einsehbar
+- Kein Pixie-Dusting (Zutat auf dem Etikett, Dosis zu niedrig für Wirksamkeit)
+- Beispielformulierung: *„100mg Lion's Mane (8:1 Extrakt, >30% Polysaccharide)"* — nicht *„enthält Pilzextrakte"*
+- Dieses Prinzip schafft Verantwortlichkeit und Vertrauen bei der Zielgruppe
 
 ### 2. Huberman-Wissenschaftlichkeit
-*Explain mechanisms — never assert without backing.*
+*Mechanismen erklären — niemals ohne Belege behaupten.*
 
-- Not: "Gibt dir Energie"
-- Yes: "Koffein blockiert Adenosinrezeptoren — L-Theanin glättet den Anstieg."
-- Website has a dedicated Science page with full study references per ingredient
-- Language is smart but never academically intimidating
-- Model: [[Andrew Huberman]]'s communication style
+- Nicht: „Gibt dir Energie"
+- Ja: „Koffein blockiert Adenosinrezeptoren — L-Theanin glättet den Anstieg."
+- Die Website hat eine eigene Science-Seite mit vollständigen Studiennachweisen je Zutat
+- Die Sprache ist klug, aber nie akademisch einschüchternd
+- Vorbild: [[Andrew Huberman]]s Kommunikationsstil
 
 ### 3. Kein Bro-Science, kein Hype
-- No unsupported superlatives
-- No Before/After imagery without context
-- No celebrity endorsements without genuine personal use
-- All claims are [[EFSA Health Claims|EFSA-konform]] or marked *"Based on preliminary research"*
+- Keine unbelegten Superlative
+- Keine Before/After-Bilder ohne Kontext
+- Keine Promi-Empfehlungen ohne nachgewiesene eigene Nutzung
+- Alle Aussagen sind [[EFSA Health Claims|EFSA-konform]] oder als *„Basierend auf vorläufiger Forschung"* gekennzeichnet
 
 ### 4. Sprache nach Kontext
 
 | Kontext | Sprache | Begründung |
 |---|---|---|
 | Markenname | Englisch/Neutral | Internationaler Markt, Premium-Signal |
-| Produktnamen | Englisch | "Morning Protocol", "Focus Stack" |
+| Produktnamen | Englisch | „Morning Protocol", „Focus Stack" |
 | Etiketten-Claims | Englisch + Deutsch | EU-Recht: Sprache des Verkaufslandes |
 | Social Media | Deutsch (DACH) / Englisch (int.) | Authentizität vs. Reichweite |
 | Science-Erklärungen | Englisch bevorzugt | Blueprint/Huberman-Ton |
@@ -67,58 +67,58 @@ Two promises in one sentence. Neither is exclusive of the other. This is the axi
 
 ---
 
-## Taglines
+## Slogans
 
-| # | Tagline | Ton | Audience Fit |
+| # | Slogan | Ton | Zielgruppen-Fit |
 |---|---|---|---|
-| **1** | **"Perform now. Live longer."** | Direkt, dual | Hyrox + Biohacker — **PRIMARY** |
-| 2 | "Your coffee has an agenda." | Provokant, smart | Blueprint-Community — **Best social/ads** |
-| 3 | "Coffee, engineered for the long game." | Tech-premium | Executive Biohacker |
-| 4 | "The longevity stack. In your cup." | Klar, produktbeschreibend | Biohacker Neueinsteiger |
-| 5 | "Built to last. Made to perform." | Doppeldeutig | Alle Segmente |
+| **1** | **„Perform now. Live longer."** | Direkt, dual | Hyrox + Biohacker — **PRIMÄR** |
+| 2 | „Your coffee has an agenda." | Provokant, smart | Blueprint-Community — **Bestes Social/Ads** |
+| 3 | „Coffee, engineered for the long game." | Tech-Premium | Executive Biohacker |
+| 4 | „The longevity stack. In your cup." | Klar, produktbeschreibend | Biohacker-Einsteiger |
+| 5 | „Built to last. Made to perform." | Doppeldeutig | Alle Segmente |
 
 ---
 
-## Target Audience Messaging
+## Zielgruppen-Botschaften
 
 ### Hyrox-Athleten
-**Hook:** *"Du trainierst für 60 Minuten Wettkampf. Wir arbeiten für die nächsten 60 Jahre."*
+**Hook:** *„Du trainierst für 60 Minuten Wettkampf. Wir arbeiten für die nächsten 60 Jahre."*
 
-- Pain: Energie ohne Crash, kein DNF durch suboptimales Pre-Workout
-- Hero ingredients: Koffein + L-Theanin + Adaptogens für steady-state performance
-- Format advantage: Stick-Pack → Gym-Bag, kein Shaker nötig
-- Trust signal: [[Kölner Liste]]-zertifiziert — sauber für Wettkampf
+- Schmerzpunkt: Energie ohne Crash, kein DNF durch suboptimales Pre-Workout
+- Hauptzutaten: Koffein + L-Theanin + Adaptogene für gleichmäßige Leistung
+- Formatvorteil: Stick-Pack → Gym-Bag, kein Shaker nötig
+- Vertrauenssignal: [[Kölner Liste]]-zertifiziert — sauber für den Wettkampf
 
 ### Executive Biohacker
-**Hook:** *"Bryan Johnson hat Kaffee aus seinem Protokoll gestrichen. Für den Rest von uns gibt es eine Alternative."*
+**Hook:** *„Bryan Johnson hat Kaffee aus seinem Protokoll gestrichen. Für den Rest von uns gibt es eine Alternative."*
 
-- Pain: Koffein nicht aufgeben wollen, aber longevity-konform sein
-- Hero: Chlorogensäure, Trigonellin, funktioneller Stack
-- Trust signal: Full COA, QR-Code, Transparenz als Feature
+- Schmerzpunkt: Koffein nicht aufgeben wollen, aber Longevity-konform bleiben
+- Hauptzutaten: Chlorogensäure, Trigonellin, funktioneller Stack
+- Vertrauenssignal: Vollständiges COA, QR-Code, Transparenz als Feature
 
 ### Blueprint-Community
-**Hook:** *"Protocol-compliant coffee. Every ingredient with a reason. Zero BS."*
+**Hook:** *„Protocol-compliant coffee. Every ingredient with a reason. Zero BS."*
 
-- Pain: Blueprint-Qualitätsstandards auf Kaffee anwenden
-- Hero: Precision-dosed, evidence-based, kein Proprietary Blend
-- Language: English primary (international community)
+- Schmerzpunkt: Blueprint-Qualitätsstandards auf Kaffee anwenden
+- Hauptzutaten: Präzise dosiert, evidenzbasiert, kein Proprietary Blend
+- Sprache: Englisch primär (internationale Community)
 
 ---
 
-## Competitor Positioning Matrix
+## Wettbewerbs-Positionierungsmatrix
 
-| Competitor | "Wir sind nicht..." | "Wir sind..." |
+| Wettbewerber | „Wir sind nicht…" | „Wir sind…" |
 |---|---|---|
-| **[[AG1]]** | ...ein Catch-all-Pulver | ...Kaffee-First mit fokussiertem Longevity-Stack |
-| **Blueprint / [[Bryan Johnson]]** | ...eine Matcha-Alternative | ...der Kaffee, den Bryan Johnson für seine Community nicht baut |
-| **Bulletproof Coffee** | ...Butter + Biohacking-Nostalgie 2012 | ...2024 Longevity-Forschung, kein MCT-Hype |
-| **Red Bull / Monster** | ...Energie durch Zucker + Marketing | ...Leistung durch Mechanismus-basierte Formulierung |
-| **Nespresso** | ...Kaffee für den Geschmack | ...Kaffee als Performance-Protokoll |
-| **Four Sigmatic** | ...Pilze im Kaffee als Wellness-Trend | ...klinische Dosierungen mit Nachweis |
+| **[[AG1]]** | …ein Catch-all-Pulver | …Kaffee-First mit fokussiertem Longevity-Stack |
+| **Blueprint / [[Bryan Johnson]]** | …eine Matcha-Alternative | …der Kaffee, den Bryan Johnson für seine Community nicht baut |
+| **Bulletproof Coffee** | …Butter + Biohacking-Nostalgie 2012 | …Longevity-Forschung 2024, kein MCT-Hype |
+| **Red Bull / Monster** | …Energie durch Zucker + Marketing | …Leistung durch mechanismusbasierte Formulierung |
+| **Nespresso** | …Kaffee für den Geschmack | …Kaffee als Performance-Protokoll |
+| **Four Sigmatic** | …Pilze im Kaffee als Wellness-Trend | …klinische Dosierungen mit Nachweis |
 
 ---
 
-## Product Line Naming
+## Produktlinien-Benennung
 
 | Linie | Inhalt | Phase |
 |---|---|---|
@@ -126,20 +126,20 @@ Two promises in one sentence. Neither is exclusive of the other. This is the axi
 | **Focus Stack** | Erhöhte kognitive Komponente: Lion's Mane + [[Alpha-GPC]] | Phase 2 |
 | **Recovery Blend** | Post-Workout: Urolithin A, NAC, Curcumin | Phase 2/3 |
 
-Product line naming uses English throughout — consistent with Premium/international positioning.
+Die Produktlinien-Benennung erfolgt durchgängig auf Englisch — konsistent mit der Premium-/internationalen Positionierung.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — project entity
-- [[Performance Cafe Naming Brief]] — source document
-- [[Performance Coffee Brand Naming]] — naming decision
-- [[Aevum Brand]] — top-recommended name
-- [[Bryan Johnson]] — reference positioning
-- [[Andrew Huberman]] — brand voice model
-- [[AG1]] — competitor reference
-- [[Kölner Liste]] — trust signal in athlete messaging
-- [[EFSA Health Claims]] — claims compliance constraint
-- [[Longevity Stack Ingredients]] — ingredient stack context
-- [[Oleg Personal Context]] — founder
+- [[Performance Coffee Brand]] — Projektentität
+- [[Performance Cafe Naming Brief]] — Quelldokument
+- [[Performance Coffee Brand Naming]] — Namensentscheidung
+- [[Aevum Brand]] — bestempfohlener Name
+- [[Bryan Johnson]] — Referenzpositionierung
+- [[Andrew Huberman]] — Markensprache-Vorbild
+- [[AG1]] — Wettbewerber-Referenz
+- [[Kölner Liste]] — Vertrauenssignal in der Athleten-Kommunikation
+- [[EFSA Health Claims]] — Compliance-Rahmen für Aussagen
+- [[Longevity Stack Ingredients]] — Zutaten-Stack-Kontext
+- [[Oleg Personal Context]] — Gründer

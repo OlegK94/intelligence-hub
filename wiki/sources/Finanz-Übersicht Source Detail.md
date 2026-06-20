@@ -1,25 +1,25 @@
 ---
-title: Finanz-Übersicht Source Detail
+title: Finanz-Übersicht Quelldokument Detail
 type: source
 tags: [finance, overview, privatfinanzen, rehabilitation, unternehmen, insolvenz, haftung, dispo, deficit, provisionen]
 sources: ["raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Source document for Oleg's personal financial overview — structural private deficit of −7,970 €/year, two capital-consuming companies (Wagglz GmbH + OK Capital UG), critical insolvency risk flags, and three-phase rehabilitation plan
+summary: Quelldokument für Olegs persönliche Finanzübersicht — strukturelles Privatdefizit von −7.970 €/Jahr, zwei kapitalverzehrende Unternehmen (Wagglz GmbH + OK Capital UG), kritische Insolvenzrisiko-Indikatoren und ein dreiphasiger Rehabilitationsplan
 ---
 
-# Finanz-Übersicht — Source Detail
+# Finanz-Übersicht — Quelldokument Detail
 
-## Overview
+## Übersicht
 
-This source document (status: aktiv-rehabilitation, created 2026-06-13) captures [[Oleg Personal Context|Oleg]]'s complete financial picture: a structural private deficit combined with two company units consuming capital without generating returns. The overarching goal is **vollständige finanzielle Rehabilitation** (complete financial rehabilitation) in three phases.
+Dieses Quelldokument (Status: aktiv-rehabilitation, erstellt 2026-06-13) erfasst [[Oleg Personal Context|Olegs]] vollständiges Finanzbild: ein strukturelles Privatdefizit kombiniert mit zwei Unternehmenseinheiten, die Kapital verbrauchen ohne Erträge zu erwirtschaften. Das übergeordnete Ziel ist die **vollständige finanzielle Rehabilitation** in drei Phasen.
 
-> For the synthesized financial situation entity, see [[Oleg Financial Situation]].
-> For company-specific pages, see [[Wagglz GmbH]] and [[OK Capital UG]].
+> Die synthetisierte Entitätsseite zur finanziellen Lage findet sich unter [[Oleg Financial Situation]].
+> Unternehmensspezifische Seiten: [[Wagglz GmbH]] und [[OK Capital UG]].
 
 ## Privatfinanzen
 
-### Einkommen (Income)
+### Einkommen
 
 | Quelle | Betrag | Rhythmus |
 |---|---|---|
@@ -27,14 +27,14 @@ This source document (status: aktiv-rehabilitation, created 2026-06-13) captures
 | Provision netto | ~4.611 € | quartalsweise (Jan/Apr/Jul/Okt) |
 | Firmenwagen geldwerter Vorteil | ~348 € brutto | monatlich |
 
-**Annual income estimate:**
-- Fixgehalt: 3.638,82 × 12 = **~43.666 €/year net**
-- Provisionen: 4.611 × 4 = **~18.444 €/year net**
-- **Total net: ~62.110 €/year** (before geldwerter Vorteil deduction)
+**Jährliche Einkommensschätzung:**
+- Fixgehalt: 3.638,82 × 12 = **~43.666 €/Jahr netto**
+- Provisionen: 4.611 × 4 = **~18.444 €/Jahr netto**
+- **Gesamtnetto: ~62.110 €/Jahr** (vor Abzug geldwerter Vorteil)
 
-> ⚠️ **Note:** Provisionen are quarterly and variable — described as "illusorisch als Puffer" because they are immediately absorbed by the structural deficit upon receipt.
+> ⚠️ **Hinweis:** Provisionen sind quartalsweise und variabel — sie werden als „illusorisch als Puffer" beschrieben, da sie beim Eingang sofort vom strukturellen Defizit aufgezehrt werden.
 
-### Ausgaben Fix (Known Fixed Expenses)
+### Ausgaben Fix (Bekannte Fixausgaben)
 
 | Position | Betrag/Mo |
 |---|---|
@@ -43,20 +43,20 @@ This source document (status: aktiv-rehabilitation, created 2026-06-13) captures
 | Gesellschafterdarlehen (→ Unternehmen) | ~357,00 € |
 | **Summe bekannte Fixblöcke** | **~1.215 €** |
 
-> ⚠️ **Note:** These are *bekannte* (known) fixed expenses only. The total monthly outgoings are significantly higher once variable expenses, living costs, and additional obligations are included. The structural annual deficit of −7.970 € implies total annual outgoings exceed income by this amount.
+> ⚠️ **Hinweis:** Dies sind ausschließlich *bekannte* Fixausgaben. Die monatlichen Gesamtausgaben liegen deutlich höher, sobald variable Kosten, Lebenshaltungskosten und weitere Verpflichtungen einbezogen werden. Das strukturelle Jahresdefizit von −7.970 € bedeutet, dass die jährlichen Gesamtausgaben das Einkommen um diesen Betrag übersteigen.
 
-### Vermögensstatus (Asset Status)
+### Vermögensstatus
 
 | Position | Wert |
 |---|---|
-| Kontostand | **−1.405 € (Dispo / overdraft)** |
+| Kontostand | **−1.405 € (Dispo / Überziehung)** |
 | Ersparnisse | **1,10 €** |
 | Depot/Investments | **keines** |
 | Strukturelles Jahresdefizit | **−7.970 €** |
 
-**Key implication:** There is effectively **zero financial buffer**. The account is in overdraft (Dispo) and savings are negligible. Every quarterly provision must immediately address the accumulated deficit.
+**Wesentliche Implikation:** Es gibt faktisch **keinen finanziellen Puffer**. Das Konto ist überzogen (Dispo) und die Ersparnisse sind vernachlässigbar. Jede quartalsweise Provision muss das angehäufte Defizit unmittelbar adressieren.
 
-## Unternehmen (Companies)
+## Unternehmen
 
 → [[Wagglz GmbH]] — Gesellschafter/GF: Oleg Kober
 → [[OK Capital UG]] — Gesellschafter/GF: Oleg Kober
@@ -69,69 +69,69 @@ This source document (status: aktiv-rehabilitation, created 2026-06-13) captures
 | Rückflüsse aus Unternehmen | keine erkennbaren |
 | Ursprungskapital | VW-Bank-Kredit → Crypto → Wagglz |
 
-### Capital Origin Chain
+### Kapitalherkunftskette
 
-The source reveals a notable capital history:
+Das Quelldokument offenbart eine bemerkenswerte Kapitalhistorie:
 ```
 VW-Bank-Kredit → Crypto → Wagglz GmbH
 ```
-The VW-Bank Kredit (681,57 €/month) — which is among Oleg's largest known fixed expenses — originated as capital that was routed through crypto into Wagglz GmbH. The companies now consume ~8.000 €/year without generating any detectable return.
+Der VW-Bank Kredit (681,57 €/Monat) — einer der größten bekannten Fixausgabenposten Olegs — entstand als Kapital, das über Crypto in die Wagglz GmbH geflossen ist. Die Unternehmen verbrauchen nun ~8.000 €/Jahr ohne erkennbaren Rückfluss.
 
-## Kritische Risiken (Critical Risks)
+## Kritische Risiken
 
 ### 🔴 Insolvenzrisiko Gesellschaften
-- Überschuldung (over-indebtedness) and Zahlungsunfähigkeit (inability to pay) status unclear
-- Requires document review before risk can be assessed
-- Until documents are reviewed, insolvency cannot be ruled out
+- Status bezüglich Überschuldung und Zahlungsunfähigkeit unklar
+- Erfordert Dokumentenprüfung, bevor das Risiko bewertet werden kann
+- Bis zur Prüfung der Unterlagen kann eine Insolvenz nicht ausgeschlossen werden
 
-### 🔴 GF-Haftung (Managing Director Liability)
-- Under **§ 17/19 InsO** (German Insolvency Code): 21-Tage-Antragspflicht
-- Once insolvency is established (Überschuldung OR Zahlungsunfähigkeit), the GF has **21 days** to file for insolvency
-- Failure to file within 21 days → personal criminal liability for Insolvenzverschleppung (delayed insolvency filing)
-- Oleg is GF of **both** Wagglz GmbH and OK Capital UG → **double exposure**
+### 🔴 GF-Haftung (Geschäftsführerhaftung)
+- Gemäß **§ 17/19 InsO** (Insolvenzordnung): 21-Tage-Antragspflicht
+- Sobald Insolvenz festgestellt wird (Überschuldung ODER Zahlungsunfähigkeit), hat der GF **21 Tage** Zeit, einen Insolvenzantrag zu stellen
+- Versäumnis der Antragstellung innerhalb von 21 Tagen → persönliche strafrechtliche Haftung wegen Insolvenzverschleppung
+- Oleg ist GF von **sowohl** Wagglz GmbH als auch OK Capital UG → **doppelte Haftungsexposition**
 
 ### 🔴 Kommissionen als Puffer illusorisch
-- Quarterly provisions (~4.611 € each) are entirely absorbed by the structural deficit upon arrival
-- No provision functions as a savings buffer — each one goes toward deficit reduction
-- Creates a cycle: no buffer → next emergency → next provision absorbed again
+- Quartalsprovisionen (~4.611 € je Zahlung) werden beim Eingang vollständig vom strukturellen Defizit aufgezehrt
+- Keine Provision fungiert als Sparrücklage — jede fließt in den Defizitabbau
+- Erzeugt einen Kreislauf: kein Puffer → nächster Notfall → nächste Provision wieder aufgezehrt
 
 ### 🟡 Steuerliche Lage
-- Steuererklärungen status unklar (tax return filing status unknown)
-- Potential Verlustvorträge (loss carryforwards) ungenutzt
-- Unresolved tax situation compounds the overall financial risk picture
+- Status der Steuererklärungen unklar
+- Mögliche Verlustvorträge ungenutzt
+- Ungeklärte steuerliche Situation verschärft das Gesamtrisikobild
 
-## Laufende Analyse (Ongoing Analysis)
+## Laufende Analyse
 
-- Full analysis: → [[Master Prompt – Gesamtanalyse]]
-- Rehabilitation plan: → [[Rehabilitation Plan]]
+- Vollständige Analyse: → [[Master Prompt – Gesamtanalyse]]
+- Rehabilitationsplan: → [[Rehabilitation Plan]]
 
-## Provisionsallokation (Provision Allocation — July Target)
+## Provisionsallokation (Juli-Ziel)
 
-Phase 2 of the Rehabilitation Plan defines the July provision allocation priority:
+Phase 2 des Rehabilitationsplans definiert folgende Prioritäten für die Provisionsallokation im Juli:
 
-1. **Accountant-Fee-Rückzahlung** (Priority 1)
-2. **Dispo-Ausgleich** (clearing overdraft)
-3. **Notfall-Puffer** (emergency buffer — target: 1 Monatsgehalt)
-4. **Rest:** structured deficit management
+1. **Steuerberaterhonorar-Rückzahlung** (Priorität 1)
+2. **Dispo-Ausgleich** (Überziehung ausgleichen)
+3. **Notfall-Puffer** (Ziel: 1 Monatsgehalt)
+4. **Rest:** strukturierter Defizitabbau
 
-## ⚠️ Contradiction Note: GmbH Identity
+## ⚠️ Widerspruchshinweis: GmbH-Identität
 
-This source refers to [[Wagglz GmbH]] as one of two companies. Other wiki pages (e.g., [[Oleg Business Entity Structure]], [[Cyprus Relocation Detail]]) reference an active **GmbH** and a dormant **UG (OK Capital UG)**. This source names them both explicitly:
-- **Wagglz GmbH** = one company (Gesellschafter/GF: Oleg Kober)
-- **OK Capital UG** = second company (Gesellschafter/GF: Oleg Kober)
+Dieses Quelldokument bezeichnet [[Wagglz GmbH]] als eines von zwei Unternehmen. Andere Wiki-Seiten (z. B. [[Oleg Business Entity Structure]], [[Cyprus Relocation Detail]]) verweisen auf eine aktive **GmbH** und eine ruhende **UG (OK Capital UG)**. Dieses Quelldokument benennt beide explizit:
+- **Wagglz GmbH** = erstes Unternehmen (Gesellschafter/GF: Oleg Kober)
+- **OK Capital UG** = zweites Unternehmen (Gesellschafter/GF: Oleg Kober)
 
-This is the first explicit naming of both entities with their legal form. The existing wiki references to "Oleg's GmbH" = Wagglz GmbH; "Oleg's UG" = OK Capital UG.
+Dies ist die erste explizite Benennung beider Entitäten mit ihrer Rechtsform. Die bestehenden Wiki-Verweise auf „Olegs GmbH" = Wagglz GmbH; „Olegs UG" = OK Capital UG.
 
-> ⚠️ **Existing wiki pages reference an active GmbH and a dormant UG.** This source does not confirm which is active vs. dormant — both are described as consuming capital. The dormant designation of OK Capital UG from other sources may need verification.
+> ⚠️ **Bestehende Wiki-Seiten verweisen auf eine aktive GmbH und eine ruhende UG.** Dieses Quelldokument bestätigt nicht, welche aktiv und welche ruhend ist — beide werden als kapitalverzehrend beschrieben. Die Einordnung der OK Capital UG als ruhend aus anderen Quellen bedarf möglicherweise einer Überprüfung.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Financial Situation]] — synthesized entity page
-- [[Wagglz GmbH]] — company entity
-- [[OK Capital UG]] — company entity
-- [[Oleg Personal Context]] — subject
-- [[Rehabilitation Plan]] — three-phase recovery plan
-- [[Oleg Business Entity Structure]] — entity structure context
-- [[Financial Independence]] — overarching goal
-- [[Cyprus Relocation]] — strategic goal potentially affected by financial situation
-- [[MOC Strategie und Business]] — strategic MOC
+- [[Oleg Financial Situation]] — synthetisierte Entitätsseite
+- [[Wagglz GmbH]] — Unternehmensseite
+- [[OK Capital UG]] — Unternehmensseite
+- [[Oleg Personal Context]] — Person
+- [[Rehabilitation Plan]] — dreiphasiger Erholungsplan
+- [[Oleg Business Entity Structure]] — Unternehmensstrukturkontext
+- [[Financial Independence]] — übergeordnetes Ziel
+- [[Cyprus Relocation]] — strategisches Ziel, das möglicherweise durch die finanzielle Lage beeinflusst wird
+- [[MOC Strategie und Business]] — strategische MOC

@@ -1,57 +1,57 @@
 ---
-title: Performance Coffee Brand AEVUM Naming
+title: Performance Coffee Marke AEVUM Namensgebung
 type: entity
 tags: [brand, naming, trademark, EUIPO, performance-cafe, aevum, kolvr, orvyn, latin]
 sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Brand naming candidates for Performance Coffee Brand — AEVUM (Latin for 'lifetime/age') identified as top trademark candidate; Kolvr and Orvyn as alternatives; EUIPO research pending for all three
+summary: Markennamen-Kandidaten für die Performance Coffee Marke — AEVUM (Latein für „Lebenszeit/Zeitalter") als führender Markenrechts-Kandidat identifiziert; Kolvr und Orvyn als Alternativen; EUIPO-Recherche für alle drei ausstehend
 ---
 
-# Performance Coffee Brand — AEVUM Naming
+# Performance Coffee Marke — AEVUM Namensgebung
 
-## Overview
+## Überblick
 
-This page documents the brand name candidates for the [[Performance Coffee Brand]], as identified in the `brand/naming_brief.md` (referenced in the [[Performance Coffee Brand Entity Structure Source Detail]]).
+Diese Seite dokumentiert die Markennamen-Kandidaten für die [[Performance Coffee Brand|Performance Coffee Marke]], wie im `brand/naming_brief.md` identifiziert (referenziert in der [[Performance Coffee Brand Entity Structure Source Detail|Quelldatei zur Unternehmensstruktur der Performance Coffee Marke]]).
 
-## Top Candidate: AEVUM
+## Top-Kandidat: AEVUM
 
-| Attribute | Detail |
+| Attribut | Detail |
 |---|---|
 | **Name** | AEVUM |
-| **Origin** | Latin: *aevum* = lifetime, age, epoch |
-| **Trademark potential** | ⭐ Highest of all candidates (per naming_brief.md) |
-| **EUIPO search** | Pending |
-| **Semantic fit** | Longevity positioning — "lifetime" aligns directly with the brand's longevity stack |
-| **Memorability** | Short, distinctive, pronounceable in DE/EN |
+| **Herkunft** | Latein: *aevum* = Lebenszeit, Zeitalter, Epoche |
+| **Markenpotenzial** | ⭐ Höchstes aller Kandidaten (gemäß naming_brief.md) |
+| **EUIPO-Suche** | Ausstehend |
+| **Semantische Passung** | Longevity-Positionierung — „Lebenszeit" steht in direktem Einklang mit dem Longevity-Stack der Marke |
+| **Einprägsamkeit** | Kurz, markant, in DE/EN aussprechbar |
 
-### Why AEVUM Works
-- Latin origin creates premium, scientific connotation
-- Directly connects to longevity positioning ("aevum" = the span of a life)
-- Short (5 characters) — strong for brand identity
-- Unusual enough in the functional food space to be registrable
-- Cross-language: works in German, English, and most EU markets
+### Warum AEVUM funktioniert
+- Lateinische Herkunft erzeugt eine Premium-, wissenschaftliche Konnotation
+- Verbindet sich direkt mit der Longevity-Positionierung („aevum" = die Spanne eines Lebens)
+- Kurz (5 Zeichen) — stark für die Markenidentität
+- Im Bereich funktionaler Lebensmittel ungewöhnlich genug, um eintragungsfähig zu sein
+- Sprachübergreifend: funktioniert auf Deutsch, Englisch und in den meisten EU-Märkten
 
-## Alternative Candidates
+## Alternative Kandidaten
 
-| Name | Notes |
+| Name | Anmerkungen |
 |---|---|
-| **Kolvr** | Coined word — unique, no semantic baggage; EUIPO search pending |
-| **Orvyn** | Coined word — distinctive; EUIPO search pending |
+| **Kolvr** | Kunstwort — einzigartig, kein semantisches Gepäck; EUIPO-Suche ausstehend |
+| **Orvyn** | Kunstwort — markant; EUIPO-Suche ausstehend |
 
-## EUIPO Research Required
+## Erforderliche EUIPO-Recherche
 
-All three names require EUIPO trademark search before any public use:
+Alle drei Namen erfordern eine EUIPO-Markenrecherche vor jeder öffentlichen Nutzung:
 - **Klasse 30:** Kaffee, Tee, funktionelle Getränke
 - **Klasse 5:** Nahrungsergänzungsmittel
-- **Timeline:** Must complete BEFORE first public launch
-- **Protection:** Starts from filing date, not registration date
+- **Zeitplan:** Muss VOR dem ersten öffentlichen Launch abgeschlossen sein
+- **Schutz:** Beginnt ab dem Anmeldedatum, nicht ab dem Eintragungsdatum
 
-EUIR research has NOT been conducted yet (as of 2026-06-15).
+Die EUIPO-Recherche wurde noch NICHT durchgeführt (Stand: 2026-06-15).
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — entity
-- [[Performance Coffee Brand Legal and Entity Structure]] — broader legal context
-- [[Performance Coffee Brand Entity Structure Source Detail]] — source
-- [[EU Novel Food Regulation]] — regulatory parallel
+- [[Performance Coffee Brand|Performance Coffee Marke]] — Entität
+- [[Performance Coffee Brand Legal and Entity Structure|Rechtliche und Unternehmensstruktur der Performance Coffee Marke]] — übergeordneter rechtlicher Kontext
+- [[Performance Coffee Brand Entity Structure Source Detail|Quelldatei zur Unternehmensstruktur der Performance Coffee Marke]] — Quelle
+- [[EU Novel Food Regulation|EU Novel Food Verordnung]] — regulatorische Parallele

@@ -5,16 +5,16 @@ tags: [kredit, schulden, vw-bank, finanzen, fixkosten, darlehen, 2026, 2028, reh
 sources: ["raw/Privat/Finanzen/Rehabilitation Plan.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: VW-Bank loan at 681,57 €/month running until November 2028 — part of Oleg's fixed financial obligations; question of early repayment (Sondertilgung) is an open strategic decision in the rehabilitation plan
+summary: VW-Bank-Darlehen über 681,57 €/Monat, laufend bis November 2028 — Teil von Olegs fixen Finanzverbindlichkeiten; die Frage einer Sondertilgung ist eine offene strategische Entscheidung im Rehabilitationsplan
 ---
 
 # VW-Bank-Kredit
 
-## Overview
+## Überblick
 
-**VW-Bank-Kredit** is a loan from Volkswagen Bank that [[Oleg Personal Context|Oleg]] is currently servicing as part of his fixed financial obligations. It is mentioned in the [[Finanz Rehabilitation Plan]] as one of the key outstanding financial decisions.
+Der **VW-Bank-Kredit** ist ein Darlehen der Volkswagen Bank, das [[Oleg Personal Context|Oleg]] aktuell als Teil seiner fixen Finanzverbindlichkeiten bedient. Er wird im [[Finanz Rehabilitation Plan]] als eine der zentralen offenen Finanzentscheidungen genannt.
 
-## Loan Details
+## Darlehensdetails
 
 | Parameter | Wert |
 |---|---|
@@ -24,29 +24,29 @@ summary: VW-Bank loan at 681,57 €/month running until November 2028 — part o
 | **Zweck** | Unbekannt — vermutlich KFZ-Finanzierung |
 | **Sondertilgung** | Offen — Entscheidung ausstehend |
 
-## Strategic Question
+## Strategische Frage
 
-The [[Finanz Rehabilitation Plan]] explicitly flags:
+Der [[Finanz Rehabilitation Plan]] hält ausdrücklich fest:
 > **VW-Bank-Kredit (681,57 €/Mo bis 11/2028):** Sondertilgung möglich/sinnvoll?
 
-This raises two sub-questions:
-1. **Vertragliche Möglichkeit:** Does the loan agreement permit early repayment without penalty?
-2. **Finanzielle Sinnhaftigkeit:** Given the structural deficit, is using commission income for early repayment better than maintaining the monthly rate and allocating commission income to deficit coverage?
+Dies wirft zwei Unterfragen auf:
+1. **Vertragliche Möglichkeit:** Erlaubt der Kreditvertrag eine vorzeitige Rückzahlung ohne Strafgebühr?
+2. **Finanzielle Sinnhaftigkeit:** Ist es angesichts des strukturellen Defizits besser, Provisionseinnahmen für eine Sondertilgung zu verwenden — oder die monatliche Rate beizubehalten und die Provisionseinnahmen zur Deckung des Defizits einzusetzen?
 
-## Relationship to Fixed Cost Structure
+## Bezug zur Fixkostenstruktur
 
-> ⚠️ **Contradiction flagged:** The [[Finanz Rehabilitation Plan]] states fixed costs of ~1.215 €/Mo in Phase 3. The VW-Bank-Kredit alone is 681,57 €/Mo — representing 56% of that total, leaving only ~533 €/Mo for all other fixed costs. Given known fixed costs in [[Fixkosten Übersicht]] (Barmenia 33 €, Allianz 22,62 €, ARAG ~33 €/Mo equivalent, etc.), this figure may be understated or the VW-Bank-Kredit may not be included in the ~1.215 €/Mo figure. **Needs verification.**
+> ⚠️ **Widerspruch erkannt:** Der [[Finanz Rehabilitation Plan]] gibt Fixkosten von ~1.215 €/Mo in Phase 3 an. Der VW-Bank-Kredit allein beträgt 681,57 €/Mo — das entspricht 56 % dieses Gesamtbetrags und lässt nur ~533 €/Mo für alle übrigen Fixkosten. Angesichts der bekannten Fixkosten in der [[Fixkosten Übersicht]] (Barmenia 33 €, Allianz 22,62 €, ARAG ~33 €/Mo äquivalent usw.) erscheint dieser Wert möglicherweise zu niedrig angesetzt, oder der VW-Bank-Kredit ist im Betrag von ~1.215 €/Mo nicht enthalten. **Muss überprüft werden.**
 
-## Remaining Loan Duration
+## Verbleibende Kreditlaufzeit
 
-As of June 2026, approximately **29 months** of payments remain (until November 2028).
+Stand Juni 2026 verbleiben noch ungefähr **29 Monate** an Ratenzahlungen (bis November 2028).
 
-**Total remaining obligation:** 681,57 × 29 ≈ **~19.766 €** remaining on the loan.
+**Verbleibende Gesamtverpflichtung:** 681,57 × 29 ≈ **~19.766 €** noch ausstehend.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Finanz Rehabilitation Plan]] — plan where this is flagged
-- [[Finanz Rehabilitation Plan Source Detail]] — source
-- [[Fixkosten Übersicht]] — fixed cost context (potential discrepancy)
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — borrower
+- [[Finanz Rehabilitation Plan]] — Plan, in dem dieser Kredit aufgeführt ist
+- [[Finanz Rehabilitation Plan Source Detail]] — Quelle
+- [[Fixkosten Übersicht]] — Fixkostenkontext (mögliche Diskrepanz)
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Kreditnehmer
