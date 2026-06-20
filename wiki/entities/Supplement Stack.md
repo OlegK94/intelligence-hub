@@ -64,9 +64,18 @@ The supplement stack integrates with:
 - **[[BMR and TDEE]]** — 195–200g protein target supported by whey supplementation
 - **[[3D Body Scan Scaneca Mai 2026]]** — body composition baseline informing protocol needs
 
-## Scientific Frameworks Referenced
+## Wissenschaftliche Referenzen
 
-- **[[Andrew Huberman]]** — Momentous is Huberman Lab's official supplement partner; stack design influenced by Huberman protocols
+Olegs Stack basiert auf den Frameworks folgender Experten — alle außer Rhonda Patrick sind direkte **Momentous Scientific Advisors**:
+
+| Experte | Rolle | Relevanz für Stack |
+|---|---|---|
+| [[Andrew Huberman]] | Neurowissenschaftler, Huberman Lab | Momentous-Partner; tägliche Protokoll-Struktur |
+| [[Rhonda Patrick]] | Biochemikerin, Longevity-Forscherin | Sulforaphane-Protokoll (NRF2-Pathway) |
+| [[Andy Galpin]] | Ph.D., CSU-Professor & Coach | Kraft/Ausdauer-Physiologie, Kreatin-Protokoll |
+| [[Kelly Starrett]] | Co-Gründer The Ready State | Mobility, Recovery, Verletzungsprävention |
+| [[Stacy Sims]] | Trainingsphysiologin | Weibliche Performance-Physiologie (Momentous-Advisor) |
+| [[Dan Garner]] | Olympic Strength & Nutrition Coach | Elite-Athleten-Ernährung und Supplementierung |
 - **[[Rhonda Patrick]]** — Sulforaphane protocol (broccoli sprout extract for NRF2 pathway activation, cancer risk reduction)
 
 ## Related Pages

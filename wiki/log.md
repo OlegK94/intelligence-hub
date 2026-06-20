@@ -482,3 +482,8 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-20 12:00] ingest | raw/inbox/supplement-stack-update-2026-06-20.md
 - Updated: [[Supplement Stack]]
 - Notes: Stack-Update per Nutzerangabe — Momentous: Protein Isolat, Kreatin, Magnesium, Collagen, Omega-3; Thorne: Vitamin D3 Drops, Zinc Picolinat 30mg. Collagen war zuvor explizit ausgeschlossen → Contradictions-Sektion hinzugefügt. Thorne Zinc Picolinat 30mg neu. D3 von Eigenvorrat auf Thorne D3 Drops gewechselt. Status von Sulforaphane, Alpha-GPC, L-Tyrosine unbestätigt.
+
+## [2026-06-20 12:30] ingest | Momentous Scientific Advisors (Screenshot)
+- Erstellt: [[Andy Galpin]], [[Kelly Starrett]], [[Stacy Sims]], [[Dan Garner]]
+- Aktualisiert: [[Supplement Stack]] — Wissenschaftliche Referenzen-Tabelle erweitert
+- Notes: Momentous Scientific Advisory Board dokumentiert — 6 Experten (Huberman, Galpin, Starrett, Sims, Garner, McDaniel) als Referenzen für Olegs Stack; Brandon McDaniel (MLB VP Player Performance) fehlt noch als eigene Entity
