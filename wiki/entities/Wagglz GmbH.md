@@ -19,6 +19,9 @@ summary: Wagglz GmbH — Oleg's company with no revenue since January 2026; stra
 | Parameter | Status |
 |---|---|
 | Revenue since Jan 2026 | **0 €** — kein Umsatz |
+| Insolvenzstatus | ⚠️ **Überschuldet §19 InsO** |
+| Fehlbetrag | **27.926,89 €** (bestätigt, source: [[Wagglz GmbH Source Detail]]) |
+| [[Rangrücktritt §15a InsO]] | ⚠️ **Noch nicht unterschrieben** — P0 |
 | Ongoing costs | ~120–255 €/Monat |
 | Cost financing | [[Oleg-Darlehen]] (Oleg personal shareholder loan) |
 | Strategic decision deadline | **2026-07-01** |
@@ -45,7 +48,7 @@ If Wagglz GmbH is dissolved:
 - The loss amount = invested capital + shareholder loans not repaid ([[Oleg-Darlehen]] balance)
 - This is a meaningful tax consideration — [[SP STB]] should model the benefit
 
-> ⚠️ **Assumption [A]:** The exact §17 EStG loss amount depends on Oleg's original capital contribution and the total Oleg-Darlehen balance — neither is available in current sources.
+> ⚠️ **Assumption [A]:** The exact §17 EStG loss amount depends on Oleg's original capital contribution and the total Oleg-Darlehen balance. The confirmed bilanzieller Fehlbetrag is **27.926,89 €** (§19 InsO Überschuldung); the §17 EStG-relevant disposal loss must still be modelled by [[SP STB]] from capital contribution + unrepaid [[Oleg-Darlehen]].
 
 ## Oleg-Darlehen
 
