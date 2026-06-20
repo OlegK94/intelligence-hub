@@ -132,7 +132,7 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Privacy and Tech Stack]] — Oleg's privacy-first tech stack — Apple devices, Brave on Mac / Safari on iOS, full Proton ecosystem (Mail, Calendar, VPN, Pass, Drive), domain ok-holding.com (updated 2026-06-16)
 - [[Proton Pass]] — Privacy-first password manager by Proton AG — supports Custom Fields, multi-URL, Vault structure, Credit Cards, Identity entries; currently used by Oleg but under migration review (updated 2026-06-09)
 - [[Rehabilitation Plan]] — Oleg's three-phase financial rehabilitation plan — framework for eliminating structural annual deficit (-7,970 €), clearing the overdraft (-1,405 €), reaching financial stability (updated 2026-06-13)
-- [[Supplement Stack]] — Oleg's active supplement stack — Momentous-primary with 6 active supplements, Sulforaphane as sole non-Momentous exception, situational pre-workout (Alpha-GPC + L-Tyrosine) (updated 2026-06-06)
+- [[Supplement Stack]] — Olegs aktiver Stack per 2026-06-20: Momentous (Protein, Kreatin, Magnesium, Collagen, Omega-3) + Thorne (D3 Drops, Zinc Picolinat 30mg); Collagen und Zink neu hinzugekommen (updated 2026-06-20)
 - [[Tagesstruktur and Schedule]] — Oleg's structured daily schedule — protocol-level document covering hourly time blocks from 05:00 wake to 20:30 sleep (updated 2026-06-13)
 - [[TEMPUR Matratzenkauf]] — Abgeschlossene Kaufentscheidung — 2× TEMPUR PRO Plus SmartCool 90×200 in unterschiedlichen Härtegraden (updated 2026-06-15)
 

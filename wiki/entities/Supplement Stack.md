@@ -1,54 +1,50 @@
 ---
 title: Supplement Stack
 type: entity
-tags: [supplements, performance, momentous, creatine, omega3, whey, sulforaphane, vitamin-d, alpha-gpc, l-tyrosine, aktiv, rhonda-patrick]
-sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+tags: [supplements, performance, momentous, thorne, creatine, omega3, whey, collagen, vitamin-d, zinc, magnesium, aktiv]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/inbox/supplement-stack-update-2026-06-20.md"]
 created: 2026-06-06
-updated: 2026-06-06
-summary: Oleg's active supplement stack — Momentous-primary with 6 active supplements, Sulforaphane as sole non-Momentous exception per Rhonda Patrick protocol, situational pre-workout (Alpha-GPC + L-Tyrosine), and explicit exclusion list
+updated: 2026-06-20
+summary: "Oleg's aktiver Supplement-Stack per 2026-06-20 — Momentous: Protein, Kreatin, Magnesium, Collagen, Omega-3 · Thorne: Vitamin D3 Drops, Zinc Picolinat 30mg"
 ---
 
 # Supplement Stack
 
-## Overview
+## Übersicht
 
-Oleg's supplement stack follows a **Momentous-exclusive** principle with two intentional exceptions. The protocol is evidence-based, no-duplicate, and actively curated.
+Olegs Supplement-Stack (Stand: 2026-06-20) ist **Momentous-primär** mit [[Thorne]] als zweite Marke für D3 und Zink. Der Stack wurde aktualisiert — Collagen und Zink sind neu hinzugekommen, das bisherige Complete Expert Stack Bundle wurde durch Einzelprodukte ersetzt.
 
-> For full source detail and dosing notes, see [[Supplement Stack Source Detail]].
-> For daily timing, see [[Health Protocol Master]].
+> Für Dosierungsdetails und Timing siehe [[Health Protocol Master]].
 
-## Guiding Principle
+## Aktiver Stack (Stand 2026-06-20)
 
-> Momentous-exklusiv + 2 spezifische Ausnahmen. Keine Duplikate. Nur was evidenzbasiert und sinnvoll ist.
+| Supplement | Marke | Anmerkung |
+|---|---|---|
+| Protein Isolat (Whey) | [[Momentous]] | Post-Workout ~40g |
+| Kreatin (Monohydrat) | [[Momentous]] | 5g täglich, Timing flexibel |
+| Magnesium | [[Momentous]] | Schlaf/Kognition |
+| Collagen | [[Momentous]] | ⚠️ Neu — zuvor explizit ausgeschlossen |
+| Omega-3 | [[Momentous]] | Mit Mahlzeit |
+| Vitamin D3 Drops | [[Thorne]] | Ersetzt bisherigen Eigenvorrat (20.000 IU × 2/Woche) |
+| Zinc Picolinat 30mg | [[Thorne]] | ⚠️ Neu im Stack |
 
-**Brand:** [[Momentous]] (primary)
-**Exceptions:** Only when Momentous has no equivalent
-**Filter:** Evidence-based, no redundancy
+## Contradictions / Updates
 
-## Active Stack Summary
+> ⚠️ **Update 2026-06-20:** Der Stack weicht in drei Punkten von der vorherigen Wiki-Version ab:
+>
+> 1. **Collagen** — war bisher unter "Explicitly Excluded" geführt ("not currently needed"). Jetzt aktiv eingenommen via Momentous. Grund für die Kehrtwende nicht dokumentiert — möglicherweise Gelenkschutz/Hyrox-Vorbereitung.
+> 2. **Zinc Picolinat 30mg (Thorne)** — zuvor nicht im Stack. Zweite Ausnahme von Momentous-Exklusivität (nach Sunday Natural).
+> 3. **D3-Protokoll**: Wechsel von eigenem Hochdosis-Vorrat (20.000 IU × 2/Woche) zu Thorne D3 Drops — genaue Dosierung nicht spezifiziert; Monitoring empfohlen.
+>
+> **Status unklar (nicht erwähnt):** Sulforaphane (Sunday Natural), Alpha-GPC, L-Tyrosine, Apigenin, L-Theanin — möglicherweise abgesetzt oder weiterhin situativ.
 
-| Supplement | Brand | Dose | Timing |
-|---|---|---|---|
-| Complete Expert Stack (D3/K2, Mag L-Threonate, Apigenin, L-Theanin, etc.) | [[Momentous]] | Per instructions | Per instructions |
-| Whey Protein Isolate (Unflavored) | [[Momentous]] | ~40g | 07:40 post-workout (in car) |
-| Omega-3 | [[Momentous]] | Per instructions | With meal |
-| Creatine | [[Momentous]] | 5g daily | Flexible (consistency > timing) |
-| Sulforaphane (Brokkolisprossen-Extrakt) | [[Sunday Natural]] | Per instructions | Per instructions |
-| Vitamin D3 20,000 IU + K2 | Own stock | High-dose | 2× / week (Mon + Thu) |
+## Pre-Workout Stack (Status: unbestätigt)
 
-## Pre-Workout Stack (Situational)
+Laut alter Quelle situativ:
+- **[[Alpha-GPC]]** — kognitive Aktivierung (06:05 im Auto)
+- **[[L-Tyrosine]]** — Dopamin-Support
 
-- **[[Alpha-GPC]]** — cognitive activation, taken in car before gym (06:05)
-- **[[L-Tyrosine]]** — dopamine support, taken together with Alpha-GPC
-
-## Explicitly Excluded
-
-| Supplement | Reason |
-|---|---|
-| L-Glutamin | Diet provides sufficient amounts |
-| Collagen Peptides | Not currently needed |
-| Fiber+ | Dietary fiber is adequate |
-| Everything else | No proven evidence-based benefit |
+> ⚠️ **Assumption [A]:** Status von Alpha-GPC und L-Tyrosine seit Update 2026-06-20 unbestätigt.
 
 ## Key Notes
 
