@@ -2,6 +2,8 @@
 
 This vault follows [Andrej Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f): raw sources are compiled once into a persistent, interlinked markdown wiki. The LLM maintains the wiki; the human curates sources and asks questions.
 
+**Detail conventions:** `docs/conventions.md` — page format, index/log rules, outputs, Obsidian, QMD, skills.
+
 ## Vault purpose
 
 Personal knowledge base spanning:
@@ -12,7 +14,7 @@ Personal knowledge base spanning:
 - **Finanzen (privat)** — accounts, taxes, cash flow, company structures
 - **Recherchen** — ad-hoc research threads
 
-**Nicht in diesem Vault:** Doctolib-Arbeit, Firmen-Automations, aktive Relocation (Someday in paar Jahren).
+**Nicht in diesem Vault:** Doctolib-Arbeit, Firmen-Automations, aktive Relocation.
 
 ## Directory layout
 
@@ -21,29 +23,11 @@ raw/          Immutable source documents (never modify — read only)
 wiki/         LLM-generated, interlinked knowledge (you maintain this)
 outputs/      Derived artifacts from queries (notes, slides, charts)
 tools/        CLI scripts the LLM can shell out to
+docs/         Conventions, schemas, reference docs
+.claude/      Claude Code config — settings, skills, hooks
 ```
 
-### raw/ conventions
-
-```
-raw/
-  inbox/       Drop zone for new sources awaiting ingest
-  assets/      Images and attachments
-  data/        Structured exports (CSV, wearable data)
-  MOC/         Vault home & navigation
-  Privat/      Personal — Performance, Tech, Finanzen, Versicherungen, Recherchen, Auswandern
-  Business/    Wagglz/, Cafe/, OK-Capital/
-  _archiv/     Excluded topics (e.g. work automations) — low ingest priority
-```
-
-- Sources are **immutable after ingest**. One-time vault migrations update paths in `.ingest_manifest.json`.
-- Drop new material in `raw/inbox/`, or the relevant `Privat/` / `Business/` subfolder.
-- Images and attachments live in `raw/assets/`.
-- Web clippings from Obsidian Web Clipper go to `Clippings/` or `raw/inbox/`.
-- Supported ingest types: `.md`, `.txt`, `.pdf` (text extracted if possible).
-- **Nicht ingesten:** `_archiv/Work/` (Firmen-Automations), bulk PDF-Kontoauszüge — nur Monatsübersichten.
-
-### wiki/ conventions
+### wiki/ structure
 
 ```
 wiki/
@@ -56,164 +40,56 @@ wiki/
   comparisons/   Side-by-side evaluations
 ```
 
-#### Page format
-
-Every wiki page starts with YAML frontmatter:
-
-```yaml
----
-title: Page Title
-type: entity | concept | source | synthesis | comparison
-tags: [tag1, tag2]
-sources: ["raw/path/to/source.md"]
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-summary: One-line description for the index
----
-```
-
-Body rules:
-
-- Wikipedia-style prose: lead paragraph, then sections.
-- Heavy use of Obsidian wikilinks: `[[Page Name]]`.
-- Cite raw sources inline: `(source: [[Source Page Name]])`.
-- When new data contradicts old claims, add a `## Contradictions / Updates` section — do not silently overwrite.
-
-#### index.md rules
-
-Organize by category (Entities, Concepts, Sources, Syntheses, Comparisons). Each entry:
-
-```
-- [[Page Name]] — one-line summary (updated YYYY-MM-DD)
-```
-
-#### log.md rules
-
-Append-only. Every operation gets one entry:
-
-```
-## [YYYY-MM-DD HH:MM] ingest | raw/path/to/file.md
-- Created/updated: [[Page A]], [[Page B]]
-- Notes: brief summary of what changed
-
-## [YYYY-MM-DD HH:MM] query | "user question"
-- Output: outputs/notes/2026-06-13-topic.md
-- Filed back: [[New Synthesis Page]]
-
-## [YYYY-MM-DD HH:MM] lint
-- Found 3 orphan pages, 1 contradiction, 2 missing entity pages
-```
-
 ## Operations
 
-### 1. Ingest
+### /ingest
 
-When the user adds a source or says "ingest":
-
-1. Read the raw file(s) — do not modify them.
-2. Read `wiki/index.md` and scan existing wiki pages for overlap.
-3. Create or update:
-   - A `wiki/sources/` page summarizing the raw document
-   - Relevant `wiki/entities/` and `wiki/concepts/` pages
-   - Cross-links across the wiki
-4. Update `wiki/index.md`.
-5. Append to `wiki/log.md`.
-6. Record the source in `wiki/.ingest_manifest.json` (via CLI).
-
-CLI (preferred for automation):
+Add a source → wiki. See `.claude/skills/ingest.md` for full steps.
 
 ```bash
 python3 tools/ingest.py                          # process raw/inbox/
 python3 tools/ingest.py --file raw/path/to.md    # single file
 python3 tools/ingest.py --scope clippings        # process Clippings/
-python3 tools/ingest.py --scope raw            # all un-ingested under raw/
+python3 tools/ingest.py --scope raw              # all un-ingested under raw/
 ```
 
-Or ask the agent to ingest conversationally — same workflow, same outputs.
+### /query
 
-### 2. Query
-
-When the user asks a question:
-
-1. Read `wiki/index.md` first to locate relevant pages.
-2. Run `python3 tools/search.py "query"` (QMD hybrid search across wiki/raw/outputs; BM25 fallback).
-3. Read the top-matching pages (use `qmd get <path>` for full excerpts when QMD is installed).
-4. Synthesize an answer with citations to `[[wiki pages]]`.
-4. Write output to `outputs/notes/`, `outputs/slides/` (Marp), or `outputs/charts/` (matplotlib).
-5. **File valuable answers back into the wiki** as new synthesis/comparison pages.
-6. Append to `wiki/log.md`.
-
-CLI:
+Answer a question, write output, file back valuable answers.
 
 ```bash
-python3 tools/query.py "How do my health protocols relate to Hyrox training?"
-python3 tools/query.py "Compare OK Capital vs Wagglz tax structure" --output slides
+python3 tools/query.py "question"
+python3 tools/query.py "question" --output slides
 ```
 
-### 3. Lint
+### /lint
 
-Periodically (or on request) health-check the wiki:
-
-- Contradictions between pages
-- Stale claims superseded by newer sources
-- Orphan pages (no inbound links)
-- Concepts mentioned but lacking dedicated pages
-- Missing cross-references
-- Gaps fillable via web search
-
-CLI:
+Health-check for contradictions, orphan pages, stale claims.
 
 ```bash
 python3 tools/lint.py
-python3 tools/lint.py --fix   # let LLM propose and apply fixes
+python3 tools/lint.py --fix
 ```
 
-### 4. Search
+### /audit
 
-Hybrid local search via [QMD](https://github.com/tobi/qmd) (BM25 + vectors + reranking). Falls back to naive wiki BM25 if QMD is not installed.
+Audit Claude Code setup or wiki conventions. Produces Apple-style HTML report.
+
+### Search
 
 ```bash
-python3 tools/search.py "supplement stack"              # hybrid (best)
-python3 tools/search.py "Wagglz" -c hub-business       # business only
-python3 tools/search.py "Hyrox" -c hub-privat          # personal only
-python3 tools/search.py "health" --engine bm25         # legacy wiki-only
-
-# QMD setup (once) + re-index after ingest
-bash scripts/qmd-setup.sh
-bash scripts/qmd-setup.sh --embed   # download models + semantic search
-bash scripts/qmd-sync.sh            # after ingest / wiki edits
+python3 tools/search.py "query"          # hybrid BM25/vector (best)
+python3 tools/search.py "q" -c hub-wiki  # wiki only
 ```
-
-QMD collections: `hub-wiki`, `hub-privat`, `hub-business`, `hub-outputs`. Index lives in `~/.cache/qmd/` (not in git).
-
-## outputs/ conventions
-
-```
-outputs/
-  notes/     Markdown answer documents (dated filenames)
-  slides/    Marp slide decks (.md with marp frontmatter)
-  charts/    Matplotlib images (.png)
-```
-
-Filename pattern: `YYYY-MM-DD-short-slug.md` or `.png`.
-
-Good outputs get filed back into `wiki/syntheses/` or `wiki/comparisons/`.
-
-## Obsidian setup
-
-- Vault root = this directory.
-- Attachment folder: `raw/assets/`
-- Hotkey: "Download attachments for current file" after web clipping.
-- Plugins already installed: Dataview, Templater, Excalidraw, Kanban.
-- View the wiki graph to see connections and orphan hubs.
 
 ## Agent behavior
 
 - **You write the wiki.** The user rarely edits wiki pages directly.
-- **Raw is sacred.** Never modify `raw/`.
+- **Raw is sacred.** Never modify anything under `raw/`.
 - **Compound knowledge.** Every ingest and query should make the wiki richer.
 - **Read index first.** On every query, start with `wiki/index.md`.
 - **Prefer filing over chat.** Answers worth keeping become wiki pages or `outputs/`.
+- **Apple-style HTML** for visualizations — see `docs/conventions.md`.
 - **Co-evolve this schema.** Update CLAUDE.md when conventions change.
 
 ## Environment
