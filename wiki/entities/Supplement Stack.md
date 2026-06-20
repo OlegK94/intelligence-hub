@@ -36,15 +36,13 @@ Olegs Supplement-Stack (Stand: 2026-06-20) ist **Momentous-primär** mit [[Thorn
 > 2. **Zinc Picolinat 30mg (Thorne)** — zuvor nicht im Stack. Zweite Ausnahme von Momentous-Exklusivität (nach Sunday Natural).
 > 3. **D3-Protokoll**: Wechsel von eigenem Hochdosis-Vorrat (20.000 IU × 2/Woche) zu Thorne D3 Drops — genaue Dosierung nicht spezifiziert; Monitoring empfohlen.
 >
-> **Status unklar (nicht erwähnt):** Sulforaphane (Sunday Natural), Alpha-GPC, L-Tyrosine, Apigenin, L-Theanin — möglicherweise abgesetzt oder weiterhin situativ.
+> **Abgesetzt (bestätigt 2026-06-20):** Alpha-GPC und L-Tyrosine (Pre-Workout) werden nicht mehr eingenommen.
+> **Status unklar:** Sulforaphane (Sunday Natural), Apigenin, L-Theanin — nicht im aktuellen Stack erwähnt.
 
-## Pre-Workout Stack (Status: unbestätigt)
+## Abgesetzt (Stand 2026-06-20)
 
-Laut alter Quelle situativ:
-- **[[Alpha-GPC]]** — kognitive Aktivierung (06:05 im Auto)
-- **[[L-Tyrosine]]** — Dopamin-Support
-
-> ⚠️ **Assumption [A]:** Status von Alpha-GPC und L-Tyrosine seit Update 2026-06-20 unbestätigt.
+- **[[Alpha-GPC]]** — Pre-Workout, kognitive Aktivierung — **nicht mehr eingenommen** (bestätigt 2026-06-20).
+- **[[L-Tyrosine]]** — Pre-Workout, Dopamin-Support — **nicht mehr eingenommen** (bestätigt 2026-06-20).
 
 ## Key Notes
 
