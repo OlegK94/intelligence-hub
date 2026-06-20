@@ -114,13 +114,101 @@ Vault ist bewusst gemischt (DE/EN). Englischsprachige Seiten die deutsch sein k�
 
 ---
 
-## 9. Priorisierte Action-Liste
+---
 
-| Prio | Aufgabe | Severity |
-|---|---|---|
-| ✅ | Graph: hideUnresolved=true | Kritisch — erledigt |
-| ✅ | log.md: kaputte Links gefixt | Mittel — erledigt |
-| 1 | 7 verwaiste Seiten von Entity-Seiten verlinken | Mittel |
-| 2 | Duplikat-Cluster "finanz" auf 1 MOC konsolidieren | Niedrig |
-| 3 | Stub `Inbox 2026-06-13 Detail` löschen | Niedrig |
-| 4 | NAC: Tier-1 ja/nein entscheiden | Inhaltlich |
+# Teil 2 — Vertiefter Audit (Schritte A–F)
+
+## A. Plausibilitätsprüfung — Zahlen & Fakten
+
+| # | Befund | Severity | Status |
+|---|---|---|---|
+| A1 | **Wagglz Fehlbetrag-Widerspruch:** `entities/Wagglz GmbH.md` behauptete der Verlustbetrag sei *"not available in current sources"* — tatsächlich steht **27.926,89 €** im Raw-Source (`raw/Business/Wagglz/Wagglz GmbH.md`) und in 8 weiteren Wiki-Seiten. | Mittel | ✅ **behoben** — Entity synchronisiert (Fehlbetrag, §19 InsO, Rangrücktritt ergänzt) |
+| A2 | **OK Capital Saldo-Widerspruch:** Innerhalb derselben Seite `entities/OK Capital UG.md` stand Zeile 25 „0,00 €", Zeile 8 + 30 „balance unknown". Quelle [[OK Capital Finom 2026]] sagt ebenfalls „not available". | Mittel | ✅ **behoben** — Contradictions-Sektion ergänzt, 0,00 € als unbestätigte Annahme [A] markiert |
+| A3 | **Dezimalformat-Inkonsistenz:** ~10+ Seiten mischen DE-Format (3.638,82 €) und US-Format (3,638.82 €) — u.a. `Doctolib 2026.md`, `Fixkosten Übersicht.md`, `Oleg Command Center.md`. | Niedrig | offen — Vault-Standard sollte DE sein |
+
+Verifizierte konsistente Werte (keine Widersprüche):
+- **Doctolib Netto 3.638,82 €/Mo**, EBV-Brutto 6.664 € — über alle Seiten konsistent ✅
+- **Performance Coffee COGS** ~0,145 €/Portion (Vorsession-Fix hält) ✅
+- **Wagglz Umsatz 0 € seit Jan 2026** — konsistent ✅
+
+## B. Attachment- & Embed-Audit
+
+| Prüfung | Ergebnis |
+|---|---|
+| Assets in `raw/assets/` | 19 Dateien |
+| Verwaiste Assets (nicht referenziert) | **0** ✅ |
+| Kaputte Embeds `![[...]]` | **0** ✅ |
+
+→ Attachment-Hygiene einwandfrei.
+
+## C. Conversion-Artefakte
+
+| Prüfung | Ergebnis |
+|---|---|
+| HTML-Tags (`<div>`, `<span>`, `&nbsp;` …) in wiki/ | **0** ✅ |
+| HTML-Tags in outputs/ | **0** ✅ |
+| Kaputte Frontmatter-Blöcke | **0** (nur `Dashboard.md` bewusst ohne FM) ✅ |
+
+→ Keine Importreste aus HTML-zu-Markdown-Konvertierung.
+
+## D. Sprachkonsistenz
+
+| Klasse | Anzahl Seiten |
+|---|---|
+| Überwiegend **Englisch** (>70% EN-Stoppwörter) | **222 von 285** |
+| **Gemischt** (40–70% EN) | 17 |
+| Überwiegend Deutsch | ~46 |
+
+**Severity: Mittel.** Der Vault-Standard ist laut CLAUDE.md Deutsch, aber 78% der Wiki-Seiten sind primär englisch verfasst. Ursache: der frühere `ingest.py` SYSTEM-Prompt war auf Englisch → das Modell schrieb englische Prosa. Betrifft auch deutsche Themen (z.B. `entities/Wagglz GmbH.md`, `entities/VW-Bank Finanzierung.md`). 
+
+→ **Empfehlung:** Bei zukünftigen Ingests deutschen Output erzwingen (ingest.py Prompt ergänzen: „Schreibe alle Wiki-Seiten auf Deutsch"). Bestehende 222 Seiten nur bei Bedarf übersetzen — Fachbegriffe (Performance Coffee, Longevity) dürfen englisch bleiben.
+
+## E. Externe URLs
+
+Nur **3 externe URLs** im gesamten Vault — alle valide Domains:
+- `foundmyfitness.com/episodes/coffee` (Rhonda Patrick)
+- `brainflow.co/dr-rhonda-patricks-coffee-protocol/`
+- `youtube.com`
+
+→ Keine toten Links. Severity: keine.
+
+## F. Frontmatter-Konsistenz
+
+| Prüfung | Ergebnis |
+|---|---|
+| Seiten ohne Frontmatter | 0 ✅ |
+| Fehlend `sources:` | 1 Seite |
+| Fehlend `summary:` | 1 Seite |
+| Ungültige `type:`-Werte | **0** ✅ |
+| Type-Verteilung | entity 107, source 103, concept 67, synthesis 4, comparison 1 |
+
+→ Frontmatter-Disziplin nahezu perfekt.
+
+## G. Scope-Befund (zusätzlich)
+
+**Doctolib/DoktorLib Namens-Split + Scope-Verletzung** — Severity: Mittel
+- 4 Entity-Seiten für denselben Arbeitgeber: `Doctolib.md`, `Doctolib 2026.md`, `DoktorLib.md`, `DoktorLib Automation Pipeline.md` (zwei Schreibweisen)
+- `DoktorLib Automation Pipeline.md` ist **Firmen-Automation** — laut CLAUDE.md explizit **„Nicht in diesem Vault"**
+- **Empfehlung:** Schreibweise vereinheitlichen (Doctolib), Automation-Pipeline-Seite nach `_archiv` oder löschen. Gehalts-/Finanzdaten (Doctolib 2026) bleiben — die sind für Finanzen in-scope.
+
+---
+
+## 9. Priorisierte Action-Liste (final)
+
+| Prio | Aufgabe | Severity | Status |
+|---|---|---|---|
+| — | Graph: hideUnresolved=true | Kritisch | ✅ erledigt |
+| — | log.md: kaputte Links gefixt | Mittel | ✅ erledigt |
+| — | Wagglz Fehlbetrag-Widerspruch (A1) | Mittel | ✅ erledigt |
+| — | OK Capital Saldo-Widerspruch (A2) | Mittel | ✅ erledigt |
+| 1 | DoktorLib-Automation aus Scope entfernen (G) | Mittel | offen |
+| 2 | 222 EN-Seiten: künftigen Ingest auf DE umstellen (D) | Mittel | offen |
+| 3 | Dezimalformat DE vereinheitlichen (A3) | Niedrig | offen |
+| 4 | 7 verwaiste Seiten verlinken | Mittel | offen |
+| 5 | Duplikat-Cluster "finanz"/"consorsbank" konsolidieren | Niedrig | offen |
+| 6 | Stub `Inbox 2026-06-13 Detail` löschen | Niedrig | offen |
+| 7 | NAC: Tier-1 ja/nein entscheiden | Inhaltlich | offen |
+
+---
+
+**Audit vollständig abgeschlossen** — alle Schritte 1–9 + A–G durchgeführt am 2026-06-20.

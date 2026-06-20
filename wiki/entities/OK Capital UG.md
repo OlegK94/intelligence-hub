@@ -27,7 +27,11 @@ summary: OK Capital UG — Oleg's dormant (ruhend) company; Jahresabschluss curr
 ## Financial Obligations
 
 - **Jahresabschluss-Kosten: 5.000 €** — currently due. Even dormant companies must file annual accounts in Germany.
-- Finom account balance unknown — must be confirmed from Finom dashboard.
+- **Finom-Konto: 0,00 € (Stand Jun 2026)** — siehe Widerspruch unten.
+
+## Contradictions / Updates
+
+> ⚠️ **Saldo-Widerspruch:** Diese Seite gibt den Finom-Saldo mit **0,00 € (Stand Jun 2026)** an. Die Quelle [[OK Capital Finom 2026]] markiert den Saldo dagegen als *"not available from current source"*. Bis ein Finom-Kontoauszug ingestet ist, gilt **0,00 € als unbestätigte Annahme [A]** — vor Steuer-/Insolvenzentscheidungen aus dem Finom-Dashboard verifizieren.
 
 ## Insolvency Risk
 
