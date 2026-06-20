@@ -478,3 +478,7 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-19 20:13 UTC] ingest | raw/Business/PerformanceCafe/research/04_marktanalyse.md
 - Pages: [[Performance Cafe Marktanalyse Source Detail]], [[Blueprint by Bryan Johnson]], [[Bryan Johnson]], [[Four Sigmatic]], [[RYZE Mushroom Coffee]], [[MUDWTR]], [[Bulletproof Coffee]], [[Clevr Blends]]
 - Ingested Performance Café market analysis (04_marktanalyse.md) — created source summary, updated Bryan Johnson entity, created new entities for Blueprint, Four Sigmatic, RYZE, MUD\WTR, Timeline Nutrition (update), key market concept pages, and pricing analysis; updated index.
+
+## [2026-06-20 12:00] ingest | raw/inbox/supplement-stack-update-2026-06-20.md
+- Updated: [[Supplement Stack]]
+- Notes: Stack-Update per Nutzerangabe — Momentous: Protein Isolat, Kreatin, Magnesium, Collagen, Omega-3; Thorne: Vitamin D3 Drops, Zinc Picolinat 30mg. Collagen war zuvor explizit ausgeschlossen → Contradictions-Sektion hinzugefügt. Thorne Zinc Picolinat 30mg neu. D3 von Eigenvorrat auf Thorne D3 Drops gewechselt. Status von Sulforaphane, Alpha-GPC, L-Tyrosine unbestätigt.
