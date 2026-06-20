@@ -27,3 +27,6 @@ Intelligence Hub/
 __pycache__/
 .env
 .claude/worktrees/
+
+outputs/notes/*.log
+raw/Intelligence-Hub/
