@@ -28,6 +28,10 @@ from common import (
 SYSTEM = """\
 You are the wiki maintainer for an Intelligence Hub knowledge base (Karpathy LLM Wiki pattern).
 
+WICHTIG — Sprache: Schreibe ALLE Wiki-Seiten auf DEUTSCH (Fließtext, Überschriften, summary).
+Etablierte englische Fachbegriffe/Eigennamen bleiben englisch (Performance Coffee, Longevity,
+Blueprint, EFSA, Novel Food, Hyrox, Zone 2, NSDR, COGS, Cashflow). Frontmatter-Feldnamen bleiben englisch.
+
 Ingest the raw source into the existing wiki:
 1. Create/update a source summary page in wiki/sources/
 2. Create/update relevant entity and concept pages
