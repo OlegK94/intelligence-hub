@@ -1,25 +1,25 @@
 ---
-title: Performance Coffee Brand Legal and Entity Structure
+title: Performance Coffee Brand — Rechtliche und Gesellschaftsstruktur
 type: entity
 tags: [legal, GmbH, UG, holding, vesting, IP, EUIPO, trademark, performance-cafe, ok-capital, hai, entity-structure]
 sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Legal entity roadmap for Performance Coffee Brand — UG immediately, GmbH after first funding; 50/50 Oleg+Hai with 4-year vesting (1-year cliff); IP at OK Capital holding; EUIPO trademark in Classes 30 and 5; AEVUM top name candidate
+summary: Rechtlicher Fahrplan für die Performance Coffee Brand — sofortige UG-Gründung, GmbH nach erster Finanzierungsrunde; 50/50-Aufteilung Oleg+Hai mit 4-jährigem Vesting (1-Jahr-Cliff); IP bei OK Capital Holding; EUIPO-Marke in Klassen 30 und 5; AEVUM als Top-Namenskandidat
 ---
 
-# Performance Coffee Brand — Legal & Entity Structure
+# Performance Coffee Brand — Rechtliche & Gesellschaftsstruktur
 
-## Overview
+## Überblick
 
-This page documents the recommended legal structure for [[Performance Coffee Brand]] as of June 2026. The structure was developed alongside the [[Performance Coffee Brand Entity Structure Source Detail]] source document.
+Diese Seite dokumentiert die empfohlene Gesellschaftsstruktur für [[Performance Coffee Brand]] ab Juni 2026. Die Struktur wurde gemeinsam mit dem Quelldokument [[Performance Coffee Brand Entity Structure Source Detail]] erarbeitet.
 
-> For full document detail, see [[Performance Coffee Brand Entity Structure Source Detail]].
-> For the broader business concept, see [[Performance Coffee Brand]].
+> Für alle Dokumentdetails siehe [[Performance Coffee Brand Entity Structure Source Detail]].
+> Für das übergeordnete Geschäftskonzept siehe [[Performance Coffee Brand]].
 
 ---
 
-## Corporate Structure (Recommended)
+## Gesellschaftsstruktur (Empfohlen)
 
 ```
 OK Capital (Holding — Oleg Kober, bestehend)
@@ -43,44 +43,44 @@ OK Capital (Holding — Oleg Kober, bestehend)
 | Gründungsdauer | 2–4 Wochen |
 | Zweck | Pre-Seed / Validation Phase |
 
-**UG → GmbH Upgrade trigger:** First external investment (Pre-Seed 150–300 K€), investor requirements, or 25,000 € Stammkapital accumulated.
+**UG → GmbH Upgrade-Auslöser:** Erste externe Investition (Pre-Seed 150–300 K€), Anforderungen von Investoren oder angesammeltes Stammkapital von 25.000 €.
 
 ---
 
 ## Phase 2: IP-Struktur (ab Monat 6)
 
-[[OK Capital]] holds all IP (Markenrechte + Rezepturen) and licenses it to the operating UG/GmbH at **4–6% of revenue**. This structure:
-- Protects IP from startup operational risk
-- Enables 95% tax-free inter-company dividends (§ 8b KStG)
-- Creates separate IP valuation for exit
+[[OK Capital]] hält sämtliches IP (Markenrechte + Rezepturen) und lizenziert es an die operative UG/GmbH zu **4–6 % des Umsatzes**. Diese Struktur:
+- Schützt das IP vor operativen Risiken des Startups
+- Ermöglicht 95 % steuerfreie konzerninterne Dividenden (§ 8b KStG)
+- Schafft eine separate IP-Bewertung für den Exit
 
 ---
 
-## Partnership Structure: Oleg + [[Hai]]
+## Partnerschaftsstruktur: Oleg + [[Hai]]
 
-### Share Split
-- **50/50** — justified by equal contribution (capital + expertise + network + operations)
+### Anteilsaufteilung
+- **50/50** — gerechtfertigt durch gleichwertige Beiträge (Kapital + Expertise + Netzwerk + operatives Engagement)
 
 ### Vesting (Empfohlen)
 
-| Milestone | Anteil gesichert |
+| Meilenstein | Gesicherter Anteil |
 |---|---|
 | Nach 12 Monaten (Cliff) | 25% |
 | Linear, Monate 13–48 | +2,083%/Monat |
 | Nach 48 Monaten | 100% |
 | Austritt vor Cliff | 0% |
 
-### Deadlock Resolution
-1. Mediation (60 days)
-2. Buy-Sell / Russian Roulette clause
+### Deadlock-Lösung
+1. Mediation (60 Tage)
+2. Buy-Sell / Russian Roulette-Klausel
 
-### Hai's Confirmed Contributions (2026-06-15)
-- Kapital (co-financing from UG founding)
-- Wissen (product/market expertise)
-- Netzwerk (production, distribution, investor contacts)
-- Operative Rolle (active day-to-day involvement)
+### Hais bestätigte Beiträge (2026-06-15)
+- Kapital (Co-Finanzierung ab UG-Gründung)
+- Wissen (Produkt-/Marktexpertise)
+- Netzwerk (Produktion, Vertrieb, Investorenkontakte)
+- Operative Rolle (aktive tägliche Mitarbeit)
 
-### Role Split (to be finalized)
+### Aufgabenverteilung (noch zu finalisieren)
 
 | Bereich | Oleg | Hai |
 |---|---|---|
@@ -92,28 +92,28 @@ OK Capital (Holding — Oleg Kober, bestehend)
 
 ---
 
-## EUIPO Trademark
+## EUIPO-Marke
 
-### Trademark Classes
+### Markenklassen
 - **Klasse 30:** Kaffee, Tee, funktionelle Getränke
 - **Klasse 5:** Nahrungsergänzungsmittel
 
-### Timeline
-| Step | Detail |
+### Zeitplan
+| Schritt | Detail |
 |---|---|
 | Zeitpunkt | VOR erstem Launch |
 | Kosten | ~1.000 € (2 Klassen) |
 | Schutz ab | Anmeldedatum |
 | Eintragung | 4–6 Monate |
 
-### Name Candidates (EUIPO Research Pending)
-1. **AEVUM** (lat. Lebenszeit) — stärkstes Trademark-Potenzial per naming_brief.md
+### Namenskandidaten (EUIPO-Recherche ausstehend)
+1. **AEVUM** (lat. Lebenszeit) — stärkstes Trademark-Potenzial laut naming_brief.md
 2. **Kolvr**
 3. **Orvyn**
 
 ---
 
-## Open Next Steps
+## Offene nächste Schritte
 
 - [ ] Notar für UG-Gründung (Gesellschaftsvertrag)
 - [ ] Vesting-Vertrag mit Hai (RA-Kosten ~500–1.000 €)
@@ -123,16 +123,16 @@ OK Capital (Holding — Oleg Kober, bestehend)
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — core business entity
-- [[Performance Coffee Brand Entity Structure Source Detail]] — source document
-- [[OK Capital]] — holding company
-- [[Hai]] — co-founder
+- [[Performance Coffee Brand]] — zentrales Geschäftsobjekt
+- [[Performance Coffee Brand Entity Structure Source Detail]] — Quelldokument
+- [[OK Capital]] — Holdinggesellschaft
+- [[Hai]] — Mitgründer
 - [[Oleg Personal Context]] — Oleg Kober
-- [[Oleg Business Entity Structure]] — broader entity context
-- [[Wagglz]] — sibling entity
-- [[EU Novel Food Regulation]] — regulatory layer
-- [[Amazentis]] — IP blocker (ingredient stack)
-- [[Chromadex Niagen Bioscience]] — IP blocker (ingredient stack)
-- [[Café Berlin Partnership Hai]] — parallel Hai partnership
+- [[Oleg Business Entity Structure]] — übergeordneter Gesellschaftskontext
+- [[Wagglz]] — Schwesterunternehmen
+- [[EU Novel Food Regulation]] — regulatorischer Rahmen
+- [[Amazentis]] — IP-Blocker (Wirkstoffkombination)
+- [[Chromadex Niagen Bioscience]] — IP-Blocker (Wirkstoffkombination)
+- [[Café Berlin Partnership Hai]] — parallele Partnerschaft mit Hai

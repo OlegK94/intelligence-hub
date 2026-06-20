@@ -5,48 +5,48 @@ tags: [performance-cafe, CMO, contract-manufacturing, functional-ingredients, D�
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Priority 1 CMO candidate for Performance Coffee Brand — Düsseldorf-based with largest functional ingredient experience; FSSC 22000 certified; custom formulation capability
+summary: Priorität-1-CMO-Kandidat für Performance Coffee Brand — Düsseldorf-ansässig mit der umfangreichsten Erfahrung im Bereich funktioneller Zutaten; FSSC 22000 zertifiziert; individuelle Formulierungskompetenz
 ---
 
 # Prinova
 
-## Overview
+## Übersicht
 
-**Prinova** is a [[Performance Coffee Brand]] **Priority 1 CMO candidate**, based in Düsseldorf, Germany. It is ranked first in the [[CMO Sourcing Performance Coffee]] outreach list due to its breadth of functional ingredient experience — the most relevant capability for a complex multi-ingredient sachet like the Performance Coffee stack.
+**Prinova** ist ein [[Performance Coffee Brand|Performance Coffee Brand]] **Priorität-1-CMO-Kandidat** mit Sitz in Düsseldorf, Deutschland. In der Kontaktliste des [[CMO Sourcing Performance Coffee]] belegt Prinova den ersten Rang, da das Unternehmen über die breiteste Erfahrung mit funktionellen Zutaten verfügt — die relevanteste Kompetenz für einen komplexen Mehrkomponenten-Sachet wie den Performance Coffee Stack.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Country** | Germany (Düsseldorf) |
-| **Specialization** | Ingredient sourcing + Custom Formulation |
-| **Certifications** | FSSC 22000 |
+| **Land** | Deutschland (Düsseldorf) |
+| **Spezialisierung** | Beschaffung von Zutaten + individuelle Formulierung |
+| **Zertifizierungen** | FSSC 22000 |
 | **Website** | prinova.com |
-| **CMO Priority** | **#1** |
+| **CMO-Priorität** | **#1** |
 
-## Why Priority 1
+## Warum Priorität 1
 
-- **Largest functional ingredient experience** in the CMO candidate list
-- German-based → favorable for [[NEM Konformität]] regulatory alignment
-- FSSC 22000 is a robust food safety standard (ISO 22000 + PRP)
-- Custom formulation capability for complex multi-ingredient stacks
-- Düsseldorf location enables easy site visits from Berlin
+- **Umfangreichste Erfahrung mit funktionellen Zutaten** in der CMO-Kandidatenliste
+- Deutschlandbasiert → günstige Ausrichtung auf die [[NEM Konformität|NEM-Konformität]]-Regulierung
+- FSSC 22000 ist ein robuster Lebensmittelsicherheitsstandard (ISO 22000 + PRP)
+- Individuelle Formulierungskompetenz für komplexe Mehrkomponenten-Stacks
+- Düsseldorfer Standort ermöglicht einfache Werksbesuche aus Berlin
 
-## Certifications Note
+## Hinweis zu Zertifizierungen
 
-- **FSSC 22000** = Foundation for Food Safety Certification 22000; encompasses ISO 22000 + additional prerequisite requirements; recognized globally
-- Relevant to [[Kölner Liste]] readiness — FSSC 22000 is a prerequisite pathway
+- **FSSC 22000** = Foundation for Food Safety Certification 22000; umfasst ISO 22000 + zusätzliche Voraussetzungsanforderungen; weltweit anerkannt
+- Relevant für die [[Kölner Liste|Kölner Liste]]-Konformität — FSSC 22000 ist ein vorausgesetzter Zertifizierungsweg
 
-## Contact Context
+## Kontaktkontext
 
-Per [[CMO Erstkontakt Email Template]], Prinova should be contacted first, before other candidates.
+Gemäß [[CMO Erstkontakt Email Template]] sollte Prinova als erstes kontaktiert werden, noch vor anderen Kandidaten.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — evaluation framework
-- [[CMO Erstkontakt Email Template]] — outreach template
-- [[Performance Cafe Supplier List]] — source document
-- [[Performance Coffee Brand]] — project entity
-- [[Kölner Liste]] — certification requirement
-- [[NEM Konformität]] — regulatory context
-- [[Lehvoss Nutrition]] — Priority 2 CMO candidate
+- [[CMO Sourcing Performance Coffee]] — Bewertungsrahmen
+- [[CMO Erstkontakt Email Template]] — Kontaktvorlage
+- [[Performance Cafe Supplier List]] — Quelldokument
+- [[Performance Coffee Brand]] — Projektentität
+- [[Kölner Liste]] — Zertifizierungsanforderung
+- [[NEM Konformität]] — regulatorischer Kontext
+- [[Lehvoss Nutrition]] — Priorität-2-CMO-Kandidat

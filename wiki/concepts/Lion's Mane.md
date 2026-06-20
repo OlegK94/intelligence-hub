@@ -1,57 +1,57 @@
 ---
-title: Lion's Mane
+title: Löwenmähne (Lion's Mane)
 type: concept
 tags: [supplement, nootropic, mushroom, neuroplasticity, NGF, cognitive-enhancement, performance-cafe]
 sources: ["raw/Business/PerformanceCafe/hai-onepager.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Medicinal mushroom (Hericium erinaceus) included at 500mg in Performance Coffee Brand Tier-1 stack — supports neuroplasticity via NGF (Nerve Growth Factor) stimulation; differentiator vs. Four Sigmatic's 2-mushroom formula
+summary: Medizinischer Pilz (Hericium erinaceus), der mit 500mg im Performance Coffee Brand Tier-1-Stack enthalten ist — unterstützt Neuroplastizität durch NGF (Nervenwachstumsfaktor)-Stimulation; Differenzierungsmerkmal gegenüber Four Sigmatics 2-Pilz-Formel
 ---
 
-# Lion's Mane (Hericium erinaceus)
+# Löwenmähne (Hericium erinaceus)
 
-## Overview
+## Überblick
 
-**Lion's Mane** (*Hericium erinaceus*) is a medicinal mushroom with well-documented nootropic and neuroprotective properties. It is included at **500mg** in the [[Performance Coffee Brand]] Tier-1 stack.
+**Lion's Mane** (*Hericium erinaceus*) ist ein medizinischer Pilz mit gut dokumentierten nootropischen und neuroprotektiven Eigenschaften. Er ist mit **500mg** im [[Performance Coffee Brand]] Tier-1-Stack enthalten.
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| NGF stimulation | Stimulates Nerve Growth Factor production → neuroplasticity |
-| BDNF support | May support Brain-Derived Neurotrophic Factor |
-| Neuroprotection | Protects neurons from oxidative damage |
-| Myelin support | May support myelin sheath integrity |
-| Anti-inflammatory | Reduces neuroinflammation |
+| NGF-Stimulation | Stimuliert die Produktion von Nervenwachstumsfaktor → Neuroplastizität |
+| BDNF-Unterstützung | Kann den Brain-Derived Neurotrophic Factor unterstützen |
+| Neuroprotection | Schützt Neuronen vor oxidativem Schaden |
+| Myelin-Unterstützung | Kann die Integrität der Myelinscheide unterstützen |
+| Entzündungshemmend | Reduziert Neuroinflammation |
 
-### NGF (Nerve Growth Factor) Connection
-Lion's Mane contains two unique compound classes — **hericenones** (in the fruiting body) and **erinacines** (in the mycelium) — that stimulate NGF synthesis. NGF is essential for the growth, maintenance, and survival of neurons. This is the primary differentiating mechanism for cognitive enhancement.
+### NGF (Nervenwachstumsfaktor)-Verbindung
+Lion's Mane enthält zwei einzigartige Verbindungsklassen — **Hericenone** (im Fruchtkörper) und **Erinacine** (im Myzel) — die die NGF-Synthese stimulieren. NGF ist essenziell für das Wachstum, die Erhaltung und das Überleben von Neuronen. Dies ist der primäre Differenzierungsmechanismus für kognitive Verbesserung.
 
-## Dosing in Performance Coffee Brand
+## Dosierung im Performance Coffee Brand
 
-- **Tier-1 dose:** 500mg per sachet
-- **Source note:** Fruiting body extract preferred over mycelium for hericenone content
+- **Tier-1-Dosis:** 500mg pro Sachet
+- **Quellen-Hinweis:** Fruchtkörperextrakt gegenüber Myzel wegen des Hericenon-Gehalts bevorzugt
 
-## Competitive Differentiation
+## Wettbewerbliche Differenzierung
 
-Lion's Mane is cited in the [[Performance Coffee Brand Hai Onepager]] as part of the argument against competitors:
-- **Four Sigmatic:** Only 2 mushroom species — Lion's Mane is often one, but without the full longevity stack
-- **RYZE:** 6 mushroom species but no real coffee
+Lion's Mane wird im [[Performance Coffee Brand Hai Onepager]] als Teil des Arguments gegen Wettbewerber angeführt:
+- **Four Sigmatic:** Nur 2 Pilzarten — Lion's Mane ist oft dabei, aber ohne den vollständigen Longevity-Stack
+- **RYZE:** 6 Pilzarten, aber kein echter Kaffee
 
-The combination of Lion's Mane + cognitive support ingredients ([[Alpha-GPC]], [[L-Theanin]]) creates a synergistic nootropic cluster within the Tier-1 stack.
+Die Kombination aus Lion's Mane und kognitiven Unterstützungszutaten ([[Alpha-GPC]], [[L-Theanin]]) bildet ein synergistisches nootropisches Cluster innerhalb des Tier-1-Stacks.
 
-## Regulatory Status
+## Regulatorischer Status
 
-- Widely sold as a dietary supplement in the EU
-- No Novel Food concerns for standard mushroom extracts
-- Generally recognized as safe at supplement doses
-- EFSA has not raised significant concerns at 500mg doses
+- Wird in der EU weit verbreitet als Nahrungsergänzungsmittel verkauft
+- Keine Novel Food-Bedenken bei standardisierten Pilzextrakten
+- Bei Nahrungsergänzungsmittel-Dosen allgemein als sicher anerkannt
+- EFSA hat bei 500mg-Dosen keine wesentlichen Bedenken geäußert
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — primary application
-- [[Performance Coffee Brand Hai Onepager]] — source document
-- [[Alpha-GPC]] — co-nootropic in Tier-1 stack
-- [[L-Theanin]] — co-nootropic in Tier-1 stack
-- [[Longevity Stack Ingredients]] — broader ingredient context
-- [[Competitive Landscape Performance Coffee]] — differentiation argument
+- [[Performance Coffee Brand]] — primäre Anwendung
+- [[Performance Coffee Brand Hai Onepager]] — Quelldokument
+- [[Alpha-GPC]] — Ko-Nootropikum im Tier-1-Stack
+- [[L-Theanin]] — Ko-Nootropikum im Tier-1-Stack
+- [[Longevity Stack Ingredients|Longevity-Stack-Zutaten]] — breiterer Zutatenkontext
+- [[Competitive Landscape Performance Coffee|Wettbewerbslandschaft Performance Coffee]] — Differenzierungsargument

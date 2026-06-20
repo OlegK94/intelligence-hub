@@ -5,45 +5,45 @@ tags: [neuroscientist, health-optimization, sleep, performance, podcast, stanfor
 sources: ["Clippings/Andrew Huberman.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2024-12-19
 updated: 2026-06-14
-summary: Stanford neuroscientist and host of Huberman Lab podcast — evidence-based health protocols; direct influence on Oleg's daily structure, supplement timing, and NSDR protocol
+summary: Stanford-Neurowissenschaftler und Gastgeber des Huberman Lab Podcasts — evidenzbasierte Gesundheitsprotokolle; direkter Einfluss auf Olegs Tagesstruktur, Supplement-Timing und NSDR-Protokoll
 ---
 
 # Andrew Huberman
 
-## Overview
+## Überblick
 
-Andrew Huberman, PhD, is a tenured professor of neurobiology and ophthalmology at Stanford School of Medicine and the host of the **Huberman Lab** podcast. He is one of the most influential public science educators in the health and performance space, known for translating complex neuroscience into actionable daily protocols.
+Andrew Huberman, PhD, ist ordentlicher Professor für Neurobiologie und Ophthalmologie an der Stanford School of Medicine und Gastgeber des **Huberman Lab** Podcasts. Er gilt als einer der einflussreichsten wissenschaftlichen Bildungsvermittler im Bereich Gesundheit und Performance und ist bekannt dafür, komplexe Neurowissenschaft in umsetzbare Alltagsprotokolle zu übersetzen.
 
-## Key Contributions
+## Wesentliche Beiträge
 
-- Light exposure protocols for [[Circadian Rhythm]] regulation
-- [[Sleep Optimization]] and sleep hygiene frameworks
-- [[NSDR]] (Non-Sleep Deep Rest) — a waking rest protocol for cognitive recovery
-- Supplement selection and timing based on peer-reviewed literature
-- Integration of exercise timing, nutrition windows, and light exposure into coherent daily structure
+- Lichtexpositionsprotokolle zur Regulierung des [[Circadian Rhythm|zirkadianen Rhythmus]]
+- [[Sleep Optimization|Schlafoptimierungs-]] und Schlafhygiene-Frameworks
+- [[NSDR]] (Non-Sleep Deep Rest) — ein Wachruhezustand-Protokoll zur kognitiven Erholung
+- Supplement-Auswahl und -Timing auf Basis von Fachliteratur
+- Integration von Trainingszeitpunkt, Ernährungsfenstern und Lichtexposition in eine kohärente Tagesstruktur
 
-## Protocol Applications
+## Protokollanwendungen
 
-Huberman's frameworks are referenced in:
-- **[[Health Protocol Master]]** — daily structure (wake time, light exposure, caffeine cutoff, NSDR at 20:00, sleep at 20:30)
-- **[[Supplement Stack]]** — Momentous is a Huberman Lab sponsor and partner; Alpha-GPC and L-Tyrosine timing before training
-- **[[Sleep Optimization]]** — evening dim lights, screen night mode, sleep supplement timing
-- **[[Forward Head Posture]]** — corrective protocol from Cavaliere episode (face pulls, neck work)
+Hubermans Frameworks werden referenziert in:
+- **[[Health Protocol Master]]** — Tagesstruktur (Aufwachzeit, Lichtexposition, Koffein-Cutoff, NSDR um 20:00, Schlafen um 20:30)
+- **[[Supplement Stack]]** — Momentous ist Sponsor und Partner des Huberman Lab; Alpha-GPC- und L-Tyrosin-Timing vor dem Training
+- **[[Sleep Optimization]]** — gedämpftes Licht am Abend, Nachtmodus für Bildschirme, Timing der Schlaf-Supplemente
+- **[[Forward Head Posture]]** — Korrekturprotokoll aus der Cavaliere-Episode (Face Pulls, Nackenarbeit)
 
-## Notable Huberman Lab Episodes in This Wiki
+## Relevante Huberman Lab Episoden in diesem Wiki
 
-- [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]] — Jeff Cavaliere episode; key for Oleg's posture and longevity training
-- [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] — Rhonda Patrick episode; biochemistry of health optimization
+- [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]] — Jeff-Cavaliere-Episode; zentral für Olegs Haltung und Longevity-Training
+- [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] — Rhonda-Patrick-Episode; Biochemie der Gesundheitsoptimierung
 
-## Related Experts
+## Verwandte Experten
 
-- [[Rhonda Patrick]] — frequent guest; biochemistry and longevity research
-- [[Jeff Cavaliere]] — guest on training longevity and corrective exercise
-- [[Bryan Johnson]] — biohacker with complementary systematic approach
+- [[Rhonda Patrick]] — häufiger Gast; Biochemie und Longevity-Forschung
+- [[Jeff Cavaliere]] — Gast zu Trainings-Longevity und Korrekturübungen
+- [[Bryan Johnson]] — Biohacker mit komplementärem systematischen Ansatz
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Health Protocol Master]] — primary implementation framework
-- [[Supplement Stack]] — supplement selection
-- [[NSDR]] — Huberman-popularized rest technique
-- [[Oleg Personal Context]] — protocol follower
+- [[Health Protocol Master]] — primäres Implementierungs-Framework
+- [[Supplement Stack]] — Supplement-Auswahl
+- [[NSDR]] — von Huberman popularisierte Ruhetechnik
+- [[Oleg Personal Context]] — Protokoll-Anwender

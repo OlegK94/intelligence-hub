@@ -1,124 +1,124 @@
 ---
-title: Blueprint by Bryan Johnson
+title: Blueprint von Bryan Johnson
 type: entity
 tags: [blueprint, bryan-johnson, longevity, supplements, functional-coffee, white-space, transparency, COA, community-flywheel, dont-die, performance-cafe, benchmark, matcha, longevity-mix, pricing]
 sources: ["raw/Business/PerformanceCafe/research/04_marktanalyse.md", "raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Bryan Johnson's commercial longevity supplement brand (blueprint.bryanjohnson.com) — sells Longevity Mix, Matcha, Super Shrooms, Creatine, Omega-3, Essentials; NO coffee product; community-flywheel via Don't Die movement; COA transparency; ~2M X/Twitter followers; identified as primary benchmark and white space source for Performance Coffee Brand
+summary: Bryan Johnsons kommerzielles Longevity-Supplement-Brand (blueprint.bryanjohnson.com) — verkauft Longevity Mix, Matcha, Super Shrooms, Creatin, Omega-3, Essentials; KEIN Kaffeeprodukt; Community-Flywheel über die Don't Die-Bewegung; COA-Transparenz; ~2M X/Twitter-Follower; als primärer Benchmark und Quelle der White Space für die Performance Coffee Brand identifiziert
 ---
 
-# Blueprint by Bryan Johnson
+# Blueprint von Bryan Johnson
 
-## Overview
+## Überblick
 
-**Blueprint** (blueprint.bryanjohnson.com) is [[Bryan Johnson]]'s commercial longevity supplement brand, offering the publicly available versions of his personal optimization protocol. Blueprint is the **closest benchmark** for [[Performance Coffee Brand]] and the source of its primary market white space: **Blueprint sells no coffee**.
+**Blueprint** (blueprint.bryanjohnson.com) ist [[Bryan Johnson]]s kommerzielles Longevity-Supplement-Brand, das die öffentlich zugänglichen Versionen seines persönlichen Optimierungsprotokolls anbietet. Blueprint ist der **engste Benchmark** für [[Performance Coffee Brand]] und die Quelle seiner primären Markt-White-Space: **Blueprint verkauft keinen Kaffee**.
 
 ---
 
-## Product Catalog (Q2 2024/2025)
+## Produktkatalog (Q2 2024/2025)
 
-| Product | Price (USD) | Portions | Price/Portion |
+| Produkt | Preis (USD) | Portionen | Preis/Portion |
 |---|---|---|---|
-| **Longevity Mix** (Blood Orange, 30 srv.) | $49.00 | 30 | ~$1.63 (~€1.50) |
+| **Longevity Mix** (Blood Orange, 30 Portionen) | $49.00 | 30 | ~$1.63 (~€1.50) |
 | Medium Stack (Longevity Mix + Essentials + Advanced Antioxidants) | $99.00 | 30 | ~$3.30 (~€3.05) |
-| Full Blueprint Stack (5+ products) | ~$361/month | 30 | ~$12.03 (~€11.10) |
-| Super Shrooms (mushroom extracts) | ~$29.00 | 30 | ~$0.97 (~€0.90) |
+| Full Blueprint Stack (5+ Produkte) | ~$361/Monat | 30 | ~$12.03 (~€11.10) |
+| Super Shrooms (Pilzextrakte) | ~$29.00 | 30 | ~$0.97 (~€0.90) |
 | Ceremonial Matcha | ~$39.00 | 30 | ~$1.30 (~€1.20) |
-| Essential Capsules | Part of stack | 30 | — |
-| Omega-3 | Part of stack | 30 | — |
-| Creatine | Part of stack | 30 | — |
-| Ashwagandha + Rhodiola | Part of stack | 30 | — |
-| NAC + Ginger + Curcumin | Part of stack | 30 | — |
-| Collagen | Part of stack | 30 | — |
+| Essential Capsules | Teil des Stacks | 30 | — |
+| Omega-3 | Teil des Stacks | 30 | — |
+| Creatin | Teil des Stacks | 30 | — |
+| Ashwagandha + Rhodiola | Teil des Stacks | 30 | — |
+| NAC + Ginger + Curcumin | Teil des Stacks | 30 | — |
+| Collagen | Teil des Stacks | 30 | — |
 
-*Sources: blueprint.bryanjohnson.com, PricePlow, Amazon.com (verified Q2 2024/2025)*
+*Quellen: blueprint.bryanjohnson.com, PricePlow, Amazon.com (verifiziert Q2 2024/2025)*
 
-### Longevity Mix Ingredients (14.6g/scoop, 30 srv.)
-CaAKG (Calcium Alpha-Ketoglutarate), Creatine Monohydrate, Glutathione, Glycine, Magnesium, Taurine, Vitamin C — plant-based, third-party tested, GMO/Gluten/Dairy/Soy-free, no artificial ingredients.
+### Longevity Mix Inhaltsstoffe (14,6 g/Messlöffel, 30 Portionen)
+CaAKG (Calcium Alpha-Ketoglutarat), Creatine Monohydrate, Glutathione, Glycine, Magnesium, Taurine, Vitamin C — pflanzlich, durch Drittlabore getestet, GMO/Gluten/Dairy/Soy-free, keine künstlichen Zutaten.
 
 ---
 
-## Transparency Strategy
+## Transparenzstrategie
 
-Blueprint's central differentiation is **maximum transparency**:
+Blueprints zentrales Differenzierungsmerkmal ist **maximale Transparenz**:
 
-| Element | Implementation |
+| Element | Umsetzung |
 |---|---|
-| **COAs (Certificate of Analysis)** | Every product tested by third-party labs for heavy metals, contaminants, purity; publicly accessible |
-| **"Every ingredient fought for its life"** | No pixie-dusting; all dosages scientifically justified; no unnecessary ingredients |
-| **Don't Die App** | Johnson's full protocol published online — blood values, sleep scores, biological age tracked publicly |
-| **Protocol-driven purchasing** | Community follows the protocol and buys products to implement it |
-| **Community Flywheel** | Protocol → Community → Products → Protocol (self-reinforcing cycle) |
+| **COAs (Certificate of Analysis)** | Jedes Produkt durch Drittlabore auf Schwermetalle, Verunreinigungen und Reinheit getestet; öffentlich zugänglich |
+| **„Every ingredient fought for its life"** | Kein Pixie-Dusting; alle Dosierungen wissenschaftlich begründet; keine überflüssigen Zutaten |
+| **Don't Die App** | Johnsons vollständiges Protokoll online veröffentlicht — Blutwerte, Schlafscores, biologisches Alter öffentlich nachverfolgbar |
+| **Protokollgesteuerter Kauf** | Community folgt dem Protokoll und kauft Produkte zur Umsetzung |
+| **Community Flywheel** | Protokoll → Community → Produkte → Protokoll (selbstverstärkender Kreislauf) |
 
-### Distribution Channel
+### Distributionskanal
 
-- **X/Twitter (~2M followers):** Primary distribution; Johnson's posts drive product awareness
-- **Blueprint Protocol Marketplace:** Third-party "Blueprint-compatible" products can be listed; terms not public
+- **X/Twitter (~2M Follower):** Primärer Distributionskanal; Johnsons Posts treiben die Produktbekanntheit
+- **Blueprint Protocol Marketplace:** Drittanbieter-Produkte, die „Blueprint-kompatibel" sind, können gelistet werden; Konditionen nicht öffentlich
 
-> ⚠️ **Strategic opportunity:** Performance Café could potentially list on Blueprint Protocol Marketplace as a Blueprint-compatible coffee product. Contact via blueprint.bryanjohnson.com recommended before reaching out.
-
----
-
-## Why Blueprint Has No Coffee
-
-[[Bryan Johnson]] removed coffee from his personal protocol:
-
-> *"I don't drink coffee because it destabilizes my mood and within a week I'm addicted to feel normal for a few hours."*
-> — Bryan Johnson, X/Twitter, May 2024
-
-**His personal reasons:**
-1. **Sleep disruption:** Caffeine disrupts his sleep cycle optimization (targeting 100% sleep quality — his #1 longevity lever)
-2. **Mood instability:** Coffee creates "roller-coaster" mood effect incompatible with his stable emotional state goal
-3. **Dependency formation:** After one week, he needs coffee just to feel "normal" — unacceptable to him
-4. **Individual biomarker response:** Explicitly a personal reaction; his protocol is based on his own data
-
-**Critical nuance:** Johnson does NOT argue against coffee generally. He has cited research on coffee positively (trigonelline, chlorogenic acid as NMN precursors) and has said: *"you don't drink coffee for the caffeine, you drink it for the gut flora effects."* His community drinks coffee — he just doesn't sell any.
+> ⚠️ **Strategische Chance:** Performance Café könnte potenziell auf dem Blueprint Protocol Marketplace als Blueprint-kompatibles Kaffeeprodukt gelistet werden. Kontaktaufnahme über blueprint.bryanjohnson.com wird vor einer direkten Anfrage empfohlen.
 
 ---
 
-## The White Space: "The Longevity Coffee Blueprint Doesn't Make"
+## Warum Blueprint keinen Kaffee hat
 
-| Gap | Opportunity |
+[[Bryan Johnson]] hat Kaffee aus seinem persönlichen Protokoll gestrichen:
+
+> *„I don't drink coffee because it destabilizes my mood and within a week I'm addicted to feel normal for a few hours."*
+> — Bryan Johnson, X/Twitter, Mai 2024
+
+**Seine persönlichen Gründe:**
+1. **Schlafstörungen:** Koffein stört seinen optimierten Schlafzyklus (Ziel: 100 % Schlafqualität — sein #1-Longevity-Hebel)
+2. **Stimmungsinstabilität:** Kaffee erzeugt einen „Achterbahn"-Effekt, der mit seinem Ziel eines stabilen emotionalen Zustands unvereinbar ist
+3. **Abhängigkeitsbildung:** Nach einer Woche braucht er Kaffee, nur um sich „normal" zu fühlen — für ihn inakzeptabel
+4. **Individuelle Biomarker-Reaktion:** Ausdrücklich eine persönliche Reaktion; sein Protokoll basiert auf seinen eigenen Daten
+
+**Wichtige Nuancierung:** Johnson argumentiert NICHT generell gegen Kaffee. Er hat Forschungsergebnisse zu Kaffee positiv zitiert (Trigonellin, Chlorogensäure als NMN-Vorläufer) und gesagt: *„you don't drink coffee for the caffeine, you drink it for the gut flora effects."* Seine Community trinkt Kaffee — er verkauft nur keinen.
+
+---
+
+## Die White Space: „Der Longevity-Kaffee, den Blueprint nicht herstellt"
+
+| Lücke | Chance |
 |---|---|
-| Blueprint's catalog: **no coffee** | Community actively searches for Blueprint-compatible morning products |
-| Blueprint's only caffeinated product: **Matcha** | Many community members want coffee, not tea |
-| Johnson's community size: **hundreds of thousands** | Active Discord/Reddit groups seeking Blueprint-compatible products |
-| Johnson's positive coffee research citations | Permission for a "longevity coffee" framing that aligns with Blueprint philosophy |
+| Blueprints Katalog: **kein Kaffee** | Community sucht aktiv nach Blueprint-kompatiblen Morgenprodukten |
+| Blueprints einziges koffeinhaltiges Produkt: **Matcha** | Viele Community-Mitglieder möchten Kaffee, keinen Tee |
+| Johnsons Community-Größe: **Hunderttausende** | Aktive Discord-/Reddit-Gruppen suchen Blueprint-kompatible Produkte |
+| Johnsons positive Kaffeeforschungs-Zitate | Legitimation für ein „Longevity Coffee"-Framing, das zur Blueprint-Philosophie passt |
 
-**The positioning:** *"Precision-dosed Longevity Stack + premium coffee = Blueprint-compatible product that Bryan Johnson himself doesn't make."*
-
----
-
-## Blueprint as Pricing Benchmark
-
-The Longevity Mix at **~€1.50/portion** is the key reference anchor for [[Performance Coffee Brand]]'s pricing:
-
-- Performance Café at **€3.49/portion** = **2.3× Blueprint Longevity Mix**
-- Framing: "Blueprint-compatible + coffee" justifies the premium
-- Performance Café at €3.49 gives customers both the longevity stack AND quality coffee — two products in one
-- Combined cost of Purovitalis NMN (€60) + Blueprint Mix (€45) = €105/month ≈ Performance Café at €104.70/month
+**Die Positionierung:** *„Precision-dosed Longevity Stack + Premium-Kaffee = Blueprint-kompatibles Produkt, das Bryan Johnson selbst nicht herstellt."*
 
 ---
 
-## Competitive Position
+## Blueprint als Preis-Benchmark
 
-Blueprint is the **benchmark, not the competitor**:
-- Blueprint doesn't compete in coffee; Performance Café fills the gap
-- Blueprint's transparency/COA standard sets the quality bar Performance Café must match
-- Blueprint's "every ingredient earned its place" philosophy = Performance Café's ingredient selection standard
-- Blueprint's pricing anchors the "serious longevity" category entry point
+Der Longevity Mix zu **~€1,50/Portion** ist der entscheidende Referenzanker für die Preisgestaltung der [[Performance Coffee Brand]]:
+
+- Performance Café zu **€3,49/Portion** = **2,3× Blueprint Longevity Mix**
+- Framing: „Blueprint-kompatibel + Kaffee" rechtfertigt den Aufpreis
+- Performance Café zu €3,49 bietet Kunden sowohl den Longevity Stack ALS AUCH Qualitätskaffee — zwei Produkte in einem
+- Kombinierte Kosten von Purovitalis NMN (€60) + Blueprint Mix (€45) = €105/Monat ≈ Performance Café zu €104,70/Monat
 
 ---
 
-## Related Pages
+## Wettbewerbsposition
 
-- [[Bryan Johnson]] — founder and protocol creator
-- [[Performance Coffee Brand]] — project filling Blueprint's coffee gap
-- [[Functional Coffee White Space]] — market opportunity concept
-- [[Blueprint Community White Space]] — community-specific opportunity
-- [[Performance Cafe Pricing Strategy]] — pricing anchored to Blueprint benchmark
-- [[Performance Cafe Marktanalyse Source Detail]] — source document
-- [[Longevity Stack Ingredients]] — ingredient standard set by Blueprint
-- [[Timeline Nutrition]] — separate longevity competitor (Urolithin A)
-- [[Tru Niagen]] — separate longevity competitor (NR)
+Blueprint ist der **Benchmark, kein Wettbewerber**:
+- Blueprint konkurriert nicht im Kaffeesegment; Performance Café füllt die Lücke
+- Blueprints Transparenz-/COA-Standard setzt die Qualitätslatte, die Performance Café erreichen muss
+- Blueprints Philosophie „every ingredient earned its place" = Blueprints Zutatenselektion als Standard für Performance Café
+- Blueprints Preisgestaltung verankert den Einstiegspunkt der Kategorie „ernsthafter Longevity-Ansatz"
+
+---
+
+## Verwandte Seiten
+
+- [[Bryan Johnson]] — Gründer und Protokollentwickler
+- [[Performance Coffee Brand]] — Projekt, das Blueprints Kaffeelücke füllt
+- [[Functional Coffee White Space|Functional Coffee White Space]] — Marktchancen-Konzept
+- [[Blueprint Community White Space|Blueprint Community White Space]] — Community-spezifische Chance
+- [[Performance Cafe Pricing Strategy|Performance Cafe Preisstrategie]] — Preisgestaltung am Blueprint-Benchmark ausgerichtet
+- [[Performance Cafe Marktanalyse Source Detail]] — Quelldokument
+- [[Longevity Stack Ingredients|Longevity Stack Inhaltsstoffe]] — Zutatenstandard gesetzt durch Blueprint
+- [[Timeline Nutrition]] — separater Longevity-Wettbewerber (Urolithin A)
+- [[Tru Niagen]] — separater Longevity-Wettbewerber (NR)

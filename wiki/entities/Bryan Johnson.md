@@ -5,90 +5,90 @@ tags: [biohacker, longevity, blueprint, optimization, entrepreneur, NMN, referen
 sources: ["02-Performance-Leben/Health Protocol — Master.md", "raw/Business/PerformanceCafe/CLAUDE.md", "raw/Business/PerformanceCafe/research/04_marktanalyse.md"]
 created: 2024-12-19
 updated: 2026-06-14
-summary: Entrepreneur and biohacker; Blueprint program founder (~2M X/Twitter followers); removed coffee from personal protocol due to sleep/mood disruption but does not argue against coffee generally; his community seeks Blueprint-compatible coffee — creating the white space for Performance Coffee Brand
+summary: Unternehmer und Biohacker; Gründer des Blueprint-Programms (~2M X/Twitter-Follower); hat Kaffee aus seinem persönlichen Protokoll gestrichen (wegen Schlaf- und Stimmungsbeeinträchtigung), argumentiert aber nicht generell gegen Kaffee; seine Community sucht Blueprint-kompatiblen Kaffee — und schafft damit den White Space für die Performance Coffee Brand
 ---
 
 # Bryan Johnson
 
-## Overview
+## Überblick
 
-Bryan Johnson is an entrepreneur and biohacker who has gained attention for his systematic approach to life extension and health optimization through his **[[Blueprint by Bryan Johnson|Blueprint]]** protocol and product line (blueprint.bryanjohnson.com).
+Bryan Johnson ist ein Unternehmer und Biohacker, der durch seinen systematischen Ansatz zur Lebensverlängerung und Gesundheitsoptimierung Aufmerksamkeit erlangt hat — mit seinem **[[Blueprint by Bryan Johnson|Blueprint]]**-Protokoll und der zugehörigen Produktlinie (blueprint.bryanjohnson.com).
 
-## Blueprint Program
+## Blueprint-Programm
 
-### Philosophy
-- **Science-backed, precision-dosed** — "every ingredient fought for its life, no pixie-dusting, no BS"
-- Comprehensive health optimization system
-- Data-driven approach to longevity
-- Precise nutrition and exercise protocols
-- Extensive biomarker tracking
-- Sleep optimization strategies
+### Philosophie
+- **Wissenschaftlich fundiert, präzise dosiert** — „every ingredient fought for its life, no pixie-dusting, no BS"
+- Umfassendes System zur Gesundheitsoptimierung
+- Datengetriebener Ansatz zu Longevity
+- Präzise Ernährungs- und Trainingsprotokolle
+- Umfangreiches Biomarker-Tracking
+- Strategien zur Schlafoptimierung
 
-### Current Blueprint Product Line (as of 2026)
+### Aktuelle Blueprint-Produktlinie (Stand 2026)
 
-Blueprint sells: Longevity Mix, Ceremonial Matcha, Super Shrooms, Ashwagandha+Rhodiola, NAC+Ginger+Curcumin, Essential Capsules, Creatine, Omega-3, Collagen.
+Blueprint verkauft: Longevity Mix, Ceremonial Matcha, Super Shrooms, Ashwagandha+Rhodiola, NAC+Ginger+Curcumin, Essential Capsules, Creatine, Omega-3, Collagen.
 
-**Notably: Blueprint sells NO coffee.**
+**Auffällig: Blueprint verkauft KEINEN Kaffee.**
 
-## Coffee Decision
+## Die Kaffee-Entscheidung
 
-Bryan Johnson **removed coffee from his personal protocol**. His reasoning:
+Bryan Johnson hat **Kaffee aus seinem persönlichen Protokoll gestrichen**. Seine Begründung:
 
-> *"I don't drink coffee because it destabilizes my mood and within a week I'm addicted to feel normal for a few hours."*
-> — Bryan Johnson, X/Twitter (May 2024)
+> *„I don't drink coffee because it destabilizes my mood and within a week I'm addicted to feel normal for a few hours."*
+> — Bryan Johnson, X/Twitter (Mai 2024)
 
-**His reasons:**
-1. Coffee disrupts his meticulous sleep cycle optimization (his #1 longevity lever)
-2. Creates "roller-coaster" mood instability
-3. Creates dependency pattern (needs coffee just to feel normal)
-4. This is his **personal** data-driven response — not a general argument against coffee
+**Seine Gründe:**
+1. Kaffee stört seinen akribisch optimierten Schlafzyklus (sein wichtigster Longevity-Hebel)
+2. Erzeugt eine „Achterbahn"-Stimmungsinstabilität
+3. Erzeugt ein Abhängigkeitsmuster (braucht Kaffee nur, um sich normal zu fühlen)
+4. Dies ist seine **persönliche** datengetriebene Entscheidung — kein generelles Argument gegen Kaffee
 
-**Important nuance:** Johnson does NOT advocate against coffee generally. He has cited coffee research positively — trigonelline and chlorogenic acid as NMN precursors — and has said publicly that *"you don't drink coffee for the caffeine, you drink it for the gut flora effects."*
+**Wichtige Nuance:** Johnson spricht sich NICHT generell gegen Kaffee aus. Er hat Kaffeeforschung positiv zitiert — Trigonellin und Chlorogensäure als NMN-Vorläufer — und öffentlich gesagt: *„you don't drink coffee for the caffeine, you drink it for the gut flora effects."*
 
-Despite his personal abstinence, his community (hundreds of thousands; active Discord/Reddit) drinks coffee and actively seeks a Blueprint-compatible coffee product.
+Trotz seiner persönlichen Abstinenz trinkt seine Community (Hunderttausende; aktive Discord/Reddit-Kanäle) Kaffee und sucht aktiv nach einem Blueprint-kompatiblen Kaffeeprodukt.
 
-## The White Space
+## Der White Space
 
-This creates the **core market opportunity** that [[Performance Coffee Brand]] targets:
+Dies schafft die **zentrale Marktchance**, auf die [[Performance Coffee Brand]] abzielt:
 
-> *"The Longevity Coffee Blueprint doesn't make."*
+> *„The Longevity Coffee Blueprint doesn't make."*
 
-Blueprint's catalog contains no coffee; Matcha is the only caffeinated alternative. [[Performance Coffee Brand]] fills this gap: precision-dosed longevity stack + premium coffee = Blueprint-compatible product.
+Blueprints Katalog enthält keinen Kaffee; Matcha ist die einzige koffeinhaltige Alternative. [[Performance Coffee Brand]] füllt diese Lücke: präzise dosierter Longevity-Stack + Premium-Kaffee = Blueprint-kompatibles Produkt.
 
 ## Distribution & Community
 
-- **X/Twitter:** ~2M followers — primary distribution channel
-- **Don't Die movement:** Community follows his protocol publicly; viral flywheel
-- **Blueprint Protocol Marketplace:** Third-party Blueprint-compatible products can be listed
-- Community Flywheel: Protocol → Community → Products → Protocol
+- **X/Twitter:** ~2M Follower — primärer Distributionskanal
+- **Don't Die-Bewegung:** Community folgt seinem Protokoll öffentlich; virales Flywheel
+- **Blueprint Protocol Marketplace:** Drittanbieter-kompatible Blueprint-Produkte können gelistet werden
+- Community-Flywheel: Protokoll → Community → Produkte → Protokoll
 
-## Protocol Applications
+## Anwendungen des Protokolls
 
-Johnson's methods influence:
-- [[Health Protocol Master]] — systematic approach to optimization
-- [[Performance Coffee Brand]] — quality benchmark and white space identification
-- [[Longevity Stack Ingredients]] — ingredient selection framework
-- Precise daily scheduling and habit stacking
-- Comprehensive supplementation protocols
+Johnsons Methoden beeinflussen:
+- [[Health Protocol Master]] — systematischer Ansatz zur Optimierung
+- [[Performance Coffee Brand]] — Qualitätsmaßstab und White-Space-Identifikation
+- [[Longevity Stack Ingredients]] — Rahmen zur Zutatenselektion
+- Präzise Tagesplanung und Habit Stacking
+- Umfassende Supplementierungsprotokolle
 
-## Key Principles
+## Kernprinzipien
 
-- Quantified self approach
-- Evidence-based interventions
-- Systematic protocol adherence
-- Continuous biomarker monitoring
-- Investment in longevity research
+- Quantified-Self-Ansatz
+- Evidenzbasierte Interventionen
+- Systematische Protokolltreue
+- Kontinuierliches Biomarker-Monitoring
+- Investment in Longevity-Forschung
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Blueprint by Bryan Johnson]] — his commercial supplement brand (entity page)
-- [[Performance Coffee Brand]] — opportunity identified from Blueprint's coffee gap
-- [[Functional Coffee White Space]] — market opportunity
-- [[Blueprint Community White Space]] — community-specific opportunity
-- [[Performance Cafe Pricing Strategy]] — Blueprint Longevity Mix as pricing anchor
-- [[Longevity Stack Ingredients]] — ingredient framework
-- [[Health Protocol Master]] — protocol inspired by Blueprint approach
-- [[Oleg Personal Context]] — follower and aspiring founder filling Blueprint's gap
-- [[NMN]] — key Blueprint longevity ingredient
-- [[Urolithin A]] — longevity compound
-- [[Andrew Huberman]] — co-reference framework
+- [[Blueprint by Bryan Johnson]] — seine kommerzielle Supplement-Marke (Entity-Seite)
+- [[Performance Coffee Brand]] — Chance, die aus Blueprints Kaffee-Lücke entstand
+- [[Functional Coffee White Space]] — Marktchance
+- [[Blueprint Community White Space]] — Community-spezifische Chance
+- [[Performance Cafe Pricing Strategy]] — Blueprint Longevity Mix als Preisanker
+- [[Longevity Stack Ingredients]] — Zutaten-Rahmenwerk
+- [[Health Protocol Master]] — Protokoll inspiriert vom Blueprint-Ansatz
+- [[Oleg Personal Context]] — Follower und angehender Gründer, der Blueprints Lücke füllt
+- [[NMN]] — zentraler Blueprint-Longevity-Wirkstoff
+- [[Urolithin A]] — Longevity-Verbindung
+- [[Andrew Huberman]] — gemeinsamer Referenzrahmen

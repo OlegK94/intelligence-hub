@@ -1,46 +1,46 @@
 ---
-title: Financial Independence
+title: Finanzielle Unabhängigkeit
 type: concept
 tags: [financial-independence, FI, goals, wealth-building, location-freedom]
 sources: ["raw/00-MOC/🏠 Home.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Core strategic goal for Oleg — achieving financial independence combined with location freedom, with Cyprus as the target destination
+summary: Strategisches Kernziel für Oleg — finanzielle Unabhängigkeit kombiniert mit Ortsfreiheit, mit Zypern als angestrebtem Zielort
 ---
 
-# Financial Independence
+# Finanzielle Unabhängigkeit
 
-## Overview
+## Überblick
 
-Financial Independence (FI) is [[Oleg Personal Context|Oleg]]'s primary strategic life goal, pursued in combination with **Location Freedom**. The target end-state is living in [[Cyprus Relocation|Cyprus]] with the ability to work and live from anywhere.
+Finanzielle Unabhängigkeit (FI) ist [[Oleg Personal Context|Olegs]] primäres strategisches Lebensziel, das in Kombination mit **Ortsfreiheit** verfolgt wird. Der angestrebte Endzustand ist das Leben auf [[Cyprus Relocation|Zypern]] mit der Möglichkeit, von überall zu arbeiten und zu leben.
 
-## Definition in Context
+## Definition im Kontext
 
-For Oleg, Financial Independence means:
-- Sufficient passive or scalable income to cover living expenses
-- Not dependent on a single employer or location
-- Flexibility to choose work (B2B sales, GmbH ventures, café partnership) by preference, not necessity
+Für Oleg bedeutet finanzielle Unabhängigkeit:
+- Ausreichend passives oder skalierbares Einkommen, um die Lebenshaltungskosten zu decken
+- Keine Abhängigkeit von einem einzelnen Arbeitgeber oder Standort
+- Flexibilität, die Arbeit (B2B-Vertrieb, GmbH-Unternehmungen, Café-Partnerschaft) nach Präferenz zu wählen, nicht aus Notwendigkeit
 
-## Active Levers
+## Aktive Hebel
 
-| Lever | Description | Status |
+| Hebel | Beschreibung | Status |
 |---|---|---|
-| [[DoktorLib]] Salary | Primary income, B2B SaaS sales | Active |
-| GmbH | Active company entity | Active |
-| UG | Dormant entity | Dormant |
-| [[Café Berlin Partnership Hai]] | New business venture | Planning |
-| [[Cyprus Relocation]] | Tax/lifestyle optimization | Blocked |
-| [[Allianz Insurance Consolidation]] | Cost reduction | Open |
+| [[DoktorLib]]-Gehalt | Primäres Einkommen, B2B-SaaS-Vertrieb | Aktiv |
+| GmbH | Aktive Gesellschaftsentität | Aktiv |
+| UG | Ruhende Entität | Ruhend |
+| [[Café Berlin Partnership Hai]] | Neues Geschäftsvorhaben | Planung |
+| [[Cyprus Relocation]] | Steuer- und Lifestyle-Optimierung | Blockiert |
+| [[Allianz Insurance Consolidation]] | Kostensenkung | Offen |
 
-## Relationship to Other Goals
+## Bezug zu anderen Zielen
 
-- **Training & Health:** [[Health Protocol Master]] and [[Hyrox 10-Week Training]] support energy, focus, and long-term capacity
-- **Location Freedom:** [[Cyprus Relocation]] is the geographic expression of FI
-- **Business Building:** [[Café Berlin Partnership Hai]] and [[DoktorLib Automation Pipeline]] build income streams
+- **Training & Gesundheit:** [[Health Protocol Master]] und [[Hyrox 10-Week Training]] fördern Energie, Fokus und langfristige Leistungsfähigkeit
+- **Ortsfreiheit:** [[Cyprus Relocation]] ist der geografische Ausdruck von FI
+- **Unternehmensaufbau:** [[Café Berlin Partnership Hai]] und [[DoktorLib Automation Pipeline]] erschließen Einkommensströme
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Personal Context]] — goal owner
-- [[Cyprus Relocation]] — target destination and tax optimization
-- [[Café Berlin Partnership Hai]] — income diversification
-- [[DoktorLib]] — primary income source
+- [[Oleg Personal Context]] — Zielinhaber
+- [[Cyprus Relocation]] — Zielort und Steueroptimierung
+- [[Café Berlin Partnership Hai]] — Einkommensdiversifizierung
+- [[DoktorLib]] — primäre Einkommensquelle

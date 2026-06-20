@@ -5,18 +5,18 @@ tags: [doctolib, gehalt, einnahmen, arbeitgeber, 2026, pkw-sachbezug, firmenwage
 sources: ["raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md"]
 created: 2026-01-05
 updated: 2026-06-12
-summary: Oleg's employer as of January 2026 — Doctolib GmbH; 6,300 € brutto/month + 364 € PKW-Sachbezug (1%-Regel), 3,638.82 € netto; Q1 bonus 8,533 € brutto; full-year projection ~105,568 € brutto / ~66,416 € netto; HEK as KV; Steuerklasse 1
+summary: Olegs Arbeitgeber seit Januar 2026 — Doctolib GmbH; 6.300 € brutto/Monat + 364 € PKW-Sachbezug (1%-Regel), 3.638,82 € netto; Q1-Bonus 8.533 € brutto; Jahresprojektion ~105.568 € brutto / ~66.416 € netto; HEK als KV; Steuerklasse 1
 ---
 
 # Doctolib GmbH — Gehalt 2026
 
-## Overview
+## Überblick
 
-**Doctolib GmbH** is [[Oleg Personal Context|Oleg]]'s employer as of 05.01.2026. Doctolib is a European digital health company (founded in France) offering an online appointment booking platform primarily for medical practices and hospitals.
+**Doctolib GmbH** ist [[Oleg Personal Context|Olegs]] Arbeitgeber seit dem 05.01.2026. Doctolib ist ein europäisches Digital-Health-Unternehmen (gegründet in Frankreich), das eine Online-Terminbuchungsplattform hauptsächlich für Arztpraxen und Krankenhäuser anbietet.
 
-> For full payroll detail and monthly breakdown, see [[Doctolib 2026 Source Detail]].
+> Für vollständige Gehaltsabrechnungsdetails und die monatliche Aufschlüsselung siehe [[Doctolib 2026 Source Detail]].
 
-## Key Employment Facts
+## Wichtige Beschäftigungsdaten
 
 | Parameter | Wert |
 |---|---|
@@ -30,26 +30,26 @@ summary: Oleg's employer as of January 2026 — Doctolib GmbH; 6,300 € brutto/
 | **Krankenversicherung** | [[HEK]] |
 | **Internetzuschuss** | 50 €/Mo (§40 Abs. 2 EStG pauschal) |
 
-## Salary Components
+## Gehaltsbestandteile
 
-### Base Salary
-- **6.300 € brutto/Monat** — fixed monthly gross
+### Grundgehalt
+- **6.300 € brutto/Monat** — festes monatliches Bruttogehalt
 
-### PKW-Sachbezug (Company Car Benefit)
-- **1%-Regelung** applied to a company car with a list price of ~36.400 €
-- Results in **364 €/Monat** geldwerter Vorteil (monetary benefit)
-- This is added to the taxable income base (EBV-Brutto)
-- Potential optimization: [[P2 Diesen Monat]] lists Fahrtenbuch vs. 1%-Regel check
+### PKW-Sachbezug (Firmenwagenvorteil)
+- **1%-Regelung** angewendet auf einen Firmenwagen mit einem Listenpreis von ~36.400 €
+- Ergibt **364 €/Monat** geldwerter Vorteil
+- Wird dem zu versteuernden Einkommensbetrag (EBV-Brutto) hinzugerechnet
+- Mögliche Optimierung: [[P2 Diesen Monat]] listet die Prüfung Fahrtenbuch vs. 1%-Regel auf
 
-### Q1 Bonus (April 2026)
-- **8.533 € brutto** Q1 bonus paid in April 2026
-- Resulted in April payroll of **15.197 € brutto / 8.249,96 € netto**
-- Total bonuses projected at **~3 quarterly bonuses** (~25.600 € brutto / ~22.750 € netto)
+### Q1-Bonus (April 2026)
+- **8.533 € brutto** Q1-Bonus, ausgezahlt im April 2026
+- Führte zur April-Abrechnung von **15.197 € brutto / 8.249,96 € netto**
+- Gesamtboni projiziert auf **~3 Quartalsboni** (~25.600 € brutto / ~22.750 € netto)
 
-### Internet Allowance
-- **50 €/Mo** pauschal under §40 Abs. 2 EStG (tax-free lump sum)
+### Internetzuschuss
+- **50 €/Mo** pauschal gemäß §40 Abs. 2 EStG (steuerfreier Pauschalbetrag)
 
-## Monthly Payroll Summary (Jan–Mai 2026)
+## Monatliche Gehaltsübersicht (Jan–Mai 2026)
 
 | Monat | Brutto (EBV) | Netto | Besonderheit |
 |---|---|---|---|
@@ -60,7 +60,7 @@ summary: Oleg's employer as of January 2026 — Doctolib GmbH; 6,300 € brutto/
 | Mai | 6.664 € | 3.638,82 € | |
 | **Summe** | **41.040 €** | **22.327 €** | |
 
-## Full-Year Projection 2026
+## Jahresprojektion 2026
 
 | | Brutto (EBV) | Netto (geschätzt) |
 |---|---|---|
@@ -70,34 +70,34 @@ summary: Oleg's employer as of January 2026 — Doctolib GmbH; 6,300 € brutto/
 
 > **Annahme:** 3 Quartalsboni analog Q1. Tatsächliche Höhe unbekannt.
 
-## Net Income vs. Fixed Costs
+## Nettoeinkommen vs. Fixkosten
 
-The source notes **61% of netto in Fixkosten** (fixed costs):
-- Monthly netto: **3.638,82 €**
-- Implied fixed costs: ~**2.220 €/Mo** (based on 61%)
-- See [[Fixkosten Übersicht]] for itemized breakdown
+Die Quelle vermerkt **61 % des Nettos in Fixkosten**:
+- Monatliches Netto: **3.638,82 €**
+- Implizierte Fixkosten: ~**2.220 €/Mo** (basierend auf 61 %)
+- Siehe [[Fixkosten Übersicht]] für die detaillierte Aufstellung
 
-## Tax Filing Relevance
+## Relevanz für die Steuererklärung
 
-- Steuerklasse 1 — standard single filer rate
-- PKW-Sachbezug must be correctly reflected in Lohnsteuerbescheinigung
-- 50 €/Mo Internetzuschuss is tax-free (§40 Abs. 2 EStG pauschal)
-- Quarterly bonuses are taxed at full marginal rate in the month of receipt
-- HEK provides KV-Nachweis for Sonderausgaben deduction
-- Internetzuschuss pauschal does not require individual declaration
+- Steuerklasse 1 — Standard-Lohnsteuersatz für Alleinstehende
+- PKW-Sachbezug muss korrekt in der Lohnsteuerbescheinigung ausgewiesen sein
+- 50 €/Mo Internetzuschuss ist steuerfrei (§40 Abs. 2 EStG pauschal)
+- Quartalsboni werden im Auszahlungsmonat mit dem vollen Grenzsteuersatz versteuert
+- [[HEK]] stellt den KV-Nachweis für den Sonderausgabenabzug aus
+- Der pauschale Internetzuschuss erfordert keine gesonderte Einzelerklärung
 
-## Open Tasks
+## Offene Aufgaben
 
-- [ ] Fahrtenbuch vs. 1%-Regel prüfen lassen (PKW-Sachbezug optimization) → [[P2 Diesen Monat]]
+- [ ] Fahrtenbuch vs. 1%-Regel prüfen lassen (PKW-Sachbezug-Optimierung) → [[P2 Diesen Monat]]
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Doctolib 2026 Source Detail]] — full source document
+- [[Doctolib 2026 Source Detail]] — vollständiges Quelldokument
 - [[HEK]] — Krankenversicherung
-- [[Fixkosten Übersicht]] — 61% fixed cost ratio
-- [[ESt 2025]] — prior year tax filing
-- [[Consorsbank Girokonto 0250120493]] — salary deposit account
-- [[P2 Diesen Monat]] — PKW optimization task
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — employee
-- [[Wagglz GmbH]] — prior employer context
+- [[Fixkosten Übersicht]] — 61 % Fixkostenquote
+- [[ESt 2025]] — Steuererklärung Vorjahr
+- [[Consorsbank Girokonto 0250120493]] — Gehaltskonto
+- [[P2 Diesen Monat]] — PKW-Optimierungsaufgabe
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Arbeitnehmer
+- [[Wagglz GmbH]] — vorheriger Arbeitgeber

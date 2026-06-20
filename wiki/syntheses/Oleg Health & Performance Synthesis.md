@@ -1,200 +1,200 @@
 ---
-title: Oleg Health & Performance Synthesis
+title: Oleg Gesundheits- & Performance-Synthese
 type: synthesis
 tags: [health, performance, hyrox, supplements, training, body-composition, protocols, synthesis]
 sources: ["02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/Supplement Stack.md", "raw/Privat/Performance/Hyrox — 10-Week Training.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "Clippings/Andrew Huberman.md", "Clippings/The Best Vitality & Health Protocols  Dr. Rhonda Patrick.md", "Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Cross-cutting synthesis of Oleg's entire health and performance system — body baseline, training splits, Hyrox prep, supplement stack, expert frameworks (Huberman/Patrick/Cavaliere), and identified gaps
+summary: Übergreifende Synthese von Olegs gesamtem Gesundheits- und Performance-System — körperliche Ausgangswerte, Trainings-Splits, Hyrox-Vorbereitung, Supplement-Stack, Experten-Frameworks (Huberman/Patrick/Cavaliere) und identifizierte Lücken
 ---
 
-# Oleg Health & Performance Synthesis
+# Oleg Gesundheits- & Performance-Synthese
 
-## Overview
+## Überblick
 
-This synthesis page integrates all health and performance knowledge in the vault into a coherent picture of Oleg's current strategy, active protocols, and identified gaps. It draws on the [[Health Protocol Master]], [[Supplement Stack]], [[Hyrox 10-Week Training]], [[3D Body Scan Scaneca Mai 2026]], and the three expert clippings: [[Andrew Huberman]], [[Rhonda Patrick]] (via [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]]), and [[Jeff Cavaliere]] (via [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]]).
+Diese Synthese-Seite integriert das gesamte Gesundheits- und Performance-Wissen im Vault zu einem kohärenten Bild von Olegs aktueller Strategie, aktiven Protokollen und identifizierten Lücken. Sie stützt sich auf das [[Health Protocol Master]], den [[Supplement Stack]], das [[Hyrox 10-Week Training]], den [[3D Body Scan Scaneca Mai 2026]] sowie die drei Experten-Clippings: [[Andrew Huberman]], [[Rhonda Patrick]] (via [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]]) und [[Jeff Cavaliere]] (via [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]]).
 
 ---
 
-## 1. Current Baseline (Scaneca 3D Scan, 29.05.2026)
+## 1. Aktuelle Ausgangslage (Scaneca 3D-Scan, 29.05.2026)
 
-| Metric | Value | Target | Gap |
+| Kennzahl | Wert | Ziel | Lücke |
 |---|---|---|---|
-| Weight | 96.7 kg | ~88–90 kg | −7–9 kg |
-| Body Fat | 20.3% | 15–17% | −3–5 pp |
-| Fat Mass | 19.6 kg | ~14–16 kg | −4–6 kg |
-| Lean Mass | 77.1 kg | maintain/grow | — |
-| FFMI | 21.3 | 22+ | +0.7 |
-| Waist | 97.2 cm | <90 cm | −7 cm |
-| Abdomen | 101.4 cm | <95 cm | −6 cm |
-| Posture | 30° forward head | <10° | corrective focus |
-| BMR | 2,113 kcal | — | — |
-| TDEE | ~3,645 kcal | — | — |
-| Daily Calories | 2,800 kcal | 2,800 kcal (845 deficit) | on track |
+| Gewicht | 96,7 kg | ~88–90 kg | −7–9 kg |
+| Körperfettanteil | 20,3 % | 15–17 % | −3–5 PP |
+| Fettmasse | 19,6 kg | ~14–16 kg | −4–6 kg |
+| Magermasse | 77,1 kg | halten/aufbauen | — |
+| FFMI | 21,3 | 22+ | +0,7 |
+| Taille | 97,2 cm | <90 cm | −7 cm |
+| Bauch | 101,4 cm | <95 cm | −6 cm |
+| Haltung | 30° Kopf nach vorne | <10° | Korrektur-Fokus |
+| BMR | 2.113 kcal | — | — |
+| TDEE | ~3.645 kcal | — | — |
+| Tägliche Kalorien | 2.800 kcal | 2.800 kcal (845 Defizit) | auf Kurs |
 
-(source: [[3D Body Scan Scaneca Mai 2026 Source Detail]])
+(Quelle: [[3D Body Scan Scaneca Mai 2026 Source Detail]])
 
-**Visceral fat risk flag:** Rhonda Patrick cites waist >100 cm (men) as metabolic/cardiovascular risk threshold. Oleg's abdomen at 101.4 cm is at the threshold. (source: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
+**Viszerales-Fett-Risikohinweis:** Rhonda Patrick nennt einen Bauchumfang von >100 cm (Männer) als metabolische/kardiovaskuläre Risikogrenze. Olegs Bauchmaß von 101,4 cm liegt genau an dieser Grenze. (Quelle: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
 
 ---
 
-## 2. Training Architecture
+## 2. Trainingsarchitektur
 
-### Active 6-Day Split (Health Protocol Master)
-| Day | Session | Duration |
+### Aktiver 6-Tage-Split (Health Protocol Master)
+| Tag | Einheit | Dauer |
 |---|---|---|
-| Monday | Upper Chest + Triceps | 60 min |
-| Tuesday | HIIT + Sauna | 45 min |
-| Wednesday | Legs | 60 min |
-| Thursday | Back + Biceps | 60 min |
-| Friday | HIIT + Sauna | 45 min |
-| Saturday | Shoulders + Arms | 55 min |
-| Sunday | Zone 2 with dog | 60 min |
+| Montag | Oberkörper Brust + Trizeps | 60 Min. |
+| Dienstag | HIIT + Sauna | 45 Min. |
+| Mittwoch | Beine | 60 Min. |
+| Donnerstag | Rücken + Bizeps | 60 Min. |
+| Freitag | HIIT + Sauna | 45 Min. |
+| Samstag | Schultern + Arme | 55 Min. |
+| Sonntag | Zone 2 mit Hund | 60 Min. |
 
-### Hyrox Preparation Layer (10-Week Program)
-The [[Hyrox 10-Week Training]] sits alongside the 6-day split, progressively shifting emphasis:
-- **Phase 1 (Wks 1–3):** Aerobic base; Zone 2 priority
-- **Phase 2 (Wks 4–6):** [[Brick Training]] — station → run transitions
-- **Phase 3 (Wks 7–9):** Full race simulation weekly
-- **Phase 4 (Wk 10):** Taper
+### Hyrox-Vorbereitungsebene (10-Wochen-Programm)
+Das [[Hyrox 10-Week Training]] läuft parallel zum 6-Tage-Split und verlagert den Schwerpunkt schrittweise:
+- **Phase 1 (Wo. 1–3):** Aerobe Basis; Zone 2 im Vordergrund
+- **Phase 2 (Wo. 4–6):** [[Brick Training]] — Station-zu-Lauf-Übergänge
+- **Phase 3 (Wo. 7–9):** Wöchentliche vollständige Wettkampfsimulation
+- **Phase 4 (Wo. 10):** Tapering
 
-**Athlete profile strengths:** Exceptional strength (125 kg sled capability vs. 102 kg competition requirement). **Weakness:** Aerobic endurance (~6:00/km current vs. 5:30/km target).
+**Athletenprofil-Stärken:** Außergewöhnliche Kraft (125 kg Schlittenschieben vs. 102 kg Wettkampfanforderung). **Schwäche:** Aerobe Ausdauer (~6:00/km aktuell vs. 5:30/km Ziel).
 
-### Expert Framework Integration
+### Integration der Experten-Frameworks
 
-**Jeff Cavaliere's "Small Things" Layer** (source: [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
-Cavaliere's corrective exercise philosophy maps directly onto Oleg's existing issues:
-- **Forward Head Posture (30°):** 4-direction neck plate series + face pulls already in [[Health Protocol Master]] posture section — confirmed best practice
-- **Glute Medius work:** Reverse hypers, hip bump wall exercises, suitcase lunges — not yet explicitly in Oleg's protocol; should be added to leg day warm-up or as 5-7 min standalone
-- **Shoulder external rotation:** Band work pre-pressing sessions — supports longevity of heavy pressing in the split
-- **Grip mechanics:** Knuckles-over-bar for pulling movements — protect against inner elbow pain
+**Jeff Cavalières „Small Things"-Ebene** (Quelle: [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
+Cavalières Philosophie der Korrekturübungen passt direkt auf Olegs bestehende Probleme:
+- **Vorwärtskopfhaltung (30°):** 4-Richtungs-Nackenscheiben-Serie + Face Pulls bereits im Haltungsbereich des [[Health Protocol Master]] — als Best Practice bestätigt
+- **Gluteus-Medius-Arbeit:** Reverse Hypers, Hip-Bump-Wandübungen, Suitcase-Lunges — noch nicht explizit in Olegs Protokoll; sollte zum Beintagsaufwärmen oder als eigenständiger 5–7-Min.-Block hinzugefügt werden
+- **Schulter-Außenrotation:** Bänderarbeit vor Drückeinheiten — unterstützt die Langlebigkeit des schweren Drückens im Split
+- **Griffmechanik:** Knöchel über der Stange bei Zugbewegungen — schützt vor Schmerzen am inneren Ellbogen
 
-**Rhonda Patrick's Exercise Principles** (source: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
-- Heavy compound work to singles (deadlifts, cleans) → mental toughness + maximal strength → anterior midcingulate cortex growth
-- 10 min vigorous exercise = 14% executive function improvement — early morning training already captures this
-- Exercise snacks (3× 1–3 min vigorous daily movement) → 40% all-cause mortality reduction; not yet in Oleg's protocol but trivially implementable
+**Rhonda Patricks Trainingsprinzipien** (Quelle: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
+- Schwere Verbundübungen bis zur Einzelwiederholung (Kreuzheben, Cleans) → mentale Stärke + maximale Kraft → Wachstum des anterioren mittleren Cingulums
+- 10 Min. intensives Training = 14 % Verbesserung der Exekutivfunktion — frühmorgenliches Training nutzt dies bereits
+- Exercise Snacks (3× täglich 1–3 Min. intensive Bewegung) → 40 % Reduktion der Gesamtsterblichkeit; noch nicht in Olegs Protokoll, aber trivial umsetzbar
 
 ---
 
-## 3. Supplement Stack Summary
+## 3. Supplement-Stack-Übersicht
 
-| Supplement | Current Dose | Expert Recommendation | Status |
+| Supplement | Aktuelle Dosis | Expertenempfehlung | Status |
 |---|---|---|---|
-| **[[Creatine]]** (Momentous) | 5 g/day | Rhonda: 10 g/day; 25 g when sleep-deprived | ⚠️ Potential upgrade |
-| **Omega-3** (Momentous) | Per product | Rhonda: 2 g EPA/DHA; prefers Lovaza for purity | Check dose |
-| **Vitamin D3** (Momentous + stock) | Daily + 20k IU 2×/wk | Rhonda: 5,000–8,000 IU daily | ⚠️ Potential double-dose — monitor |
-| **Magnesium L-Threonate** (Momentous) | Per product | Rhonda: Threonate for cognition, Bisglycinate for sleep | Aligned |
-| **Apigenin** (Momentous) | Per product | Sleep onset support | Aligned |
-| **[[Sulforaphane]]** (Sunday Natural) | Per protocol | Rhonda Patrick explicit cite | Aligned |
-| **[[Alpha-GPC]]** | Situational (pre-training) | Huberman-cited for cognitive activation | Aligned |
-| **L-Tyrosine** | Situational (pre-training) | Synergistic dopamine support | Aligned |
-| **L-Glutamine** | **Excluded** ("ausreichend via Ernährung") | Rhonda: 5–20 g for immune support | ⚠️ Reconsider situational use |
-| **NAC** | Not in stack | Rhonda: situational only (illness/travel) | Aligned (implicit) |
+| **[[Creatine]]** (Momentous) | 5 g/Tag | Rhonda: 10 g/Tag; 25 g bei Schlafentzug | ⚠️ Mögliches Upgrade |
+| **Omega-3** (Momentous) | Gemäß Produkt | Rhonda: 2 g EPA/DHA; bevorzugt Lovaza wegen Reinheit | Dosis prüfen |
+| **Vitamin D3** (Momentous + Vorrat) | Täglich + 20.000 IE 2×/Wo. | Rhonda: 5.000–8.000 IE täglich | ⚠️ Mögliche Doppeldosierung — beobachten |
+| **Magnesium L-Threonat** (Momentous) | Gemäß Produkt | Rhonda: Threonat für Kognition, Bisglycinat für Schlaf | Ausgerichtet |
+| **Apigenin** (Momentous) | Gemäß Produkt | Unterstützung des Einschlafens | Ausgerichtet |
+| **[[Sulforaphane]]** (Sunday Natural) | Gemäß Protokoll | Explizit von Rhonda Patrick genannt | Ausgerichtet |
+| **[[Alpha-GPC]]** | Situativ (Pre-Training) | Von Huberman erwähnt für kognitive Aktivierung | Ausgerichtet |
+| **L-Tyrosin** | Situativ (Pre-Training) | Synergistische Dopaminunterstützung | Ausgerichtet |
+| **L-Glutamin** | **Ausgeschlossen** („ausreichend via Ernährung") | Rhonda: 5–20 g zur Immununterstützung | ⚠️ Situativen Einsatz überdenken |
+| **NAC** | Nicht im Stack | Rhonda: nur situativ (Krankheit/Reisen) | Ausgerichtet (implizit) |
 
-(sources: [[Supplement Stack Source Detail]], [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
+(Quellen: [[Supplement Stack Source Detail]], [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
 
 ---
 
-## 4. Daily Structure & Timing
+## 4. Tagesstruktur & Timing
 
-Oleg's daily schedule (from [[Health Protocol Master]]) is highly aligned with Huberman Lab circadian principles:
+Olegs Tagesablauf (aus dem [[Health Protocol Master]]) ist stark auf die zirkadianen Prinzipien des Huberman Lab ausgerichtet:
 
-| Time | Activity | Expert Alignment |
+| Uhrzeit | Aktivität | Experten-Ausrichtung |
 |---|---|---|
-| 05:00 | Wake | Early cortisol peak — optimal |
-| 05:05 | Dog walk | Morning light exposure → circadian anchor (Huberman) |
-| 06:05 | Drive + Alpha-GPC/L-Tyrosine | Pre-workout cognitive activation |
-| 06:20 | Training | Fasted morning training; visceral fat oxidation (Patrick) |
-| 07:10 | Sauna | Post-workout heat stress; sauna benefits (Patrick) |
-| 07:40 | Protein shake | Post-workout anabolic window |
-| 08:30 | Breakfast | First real meal; ~3h after wake |
-| 14:00 | Last coffee | Caffeine cutoff before sleep pressure build (Huberman) |
-| 18:30 | Dog walk | Evening NEAT |
-| 19:30 | Dinner | **GAP: only 1h before sleep** (Patrick: 3h pre-sleep fast for cardiovascular reset) |
+| 05:00 | Aufwachen | Früher Kortisolpeak — optimal |
+| 05:05 | Gassi gehen mit Hund | Morgendliche Lichtexposition → zirkadianer Anker (Huberman) |
+| 06:05 | Fahrt + Alpha-GPC/L-Tyrosin | Kognitive Aktivierung vor dem Training |
+| 06:20 | Training | Nüchterntraining am Morgen; viszerale Fettoxidation (Patrick) |
+| 07:10 | Sauna | Wärmebelastung nach dem Training; Sauna-Vorteile (Patrick) |
+| 07:40 | Proteinshake | Post-Workout-Anaboliefenster |
+| 08:30 | Frühstück | Erste richtige Mahlzeit; ~3 Std. nach dem Aufwachen |
+| 14:00 | Letzter Kaffee | Koffein-Cutoff vor Schlafdruckaufbau (Huberman) |
+| 18:30 | Gassi gehen mit Hund | Abendliches NEAT |
+| 19:30 | Abendessen | **LÜCKE: nur 1 Std. vor dem Schlafen** (Patrick: 3-Std.-Fastenpause vor dem Schlafen für kardiovaskuläre Erholung) |
 | 20:00 | NSDR | Non-Sleep Deep Rest (Huberman) |
-| 20:30 | Sleep | 8.5h target |
+| 20:30 | Schlaf | 8,5-Std.-Ziel |
 
-**Key timing gap identified:** Dinner at 19:30, sleep at 20:30 = 1-hour fast before sleep. Rhonda Patrick's data shows 3-hour pre-sleep fast reduces cardiovascular risk ~20% and lowers nocturnal blood pressure. Moving dinner to 17:30 or pushing sleep to 22:30 would close this gap.
-
----
-
-## 5. Posture & Injury Prevention Status
-
-### Current Issue: 30° Forward Head Posture
-From [[3D Body Scan Scaneca Mai 2026]]. Protocol response in [[Health Protocol Master]]:
-- Daily deep neck stretching (Levator Scapulae, SCM)
-- Face pulls 3×15 in upper body sessions
-- Monitor at eye level
-
-### Cavaliere Additions (not yet in protocol)
-- 4-direction neck plate series (bed/bench) → direct neck strengthening vs. passive stretching only
-- Glute medius exercises → pelvic stability → lumbar protection during heavy lifting
-- External rotation band work pre-pressing → shoulder longevity
-
-**Recommendation:** Add a 5-7 min "small things" block 3×/week (neck plate work + glute medius + band external rotation). Per Cavaliere: best done post-main-session or as dedicated miniblock. (source: [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
+**Identifizierte Timing-Lücke:** Abendessen um 19:30 Uhr, Schlafen um 20:30 Uhr = 1 Stunde Fastenpause vor dem Schlafen. Rhonda Patricks Daten zeigen, dass eine 3-stündige Fastenpause vor dem Schlafen das kardiovaskuläre Risiko um ~20 % senkt und den nächtlichen Blutdruck reduziert. Das Abendessen auf 17:30 Uhr vorzuverlegen oder den Schlaf auf 22:30 Uhr zu verschieben, würde diese Lücke schließen.
 
 ---
 
-## 6. Body Recomposition Strategy
+## 5. Haltung & Verletzungsprävention — aktueller Stand
 
-**Goal:** 15–17% KFA (per Scaneca scan), with emphasis on lower abdomen reduction.
+### Aktuelles Problem: 30° Vorwärtskopfhaltung
+Aus [[3D Body Scan Scaneca Mai 2026]]. Protokollreaktion im [[Health Protocol Master]]:
+- Tägliches tiefes Nackendehnen (Levator Scapulae, SCM)
+- Face Pulls 3×15 in Oberkörpereinheiten
+- Monitor auf Augenhöhe
 
-### Current Caloric Strategy
-- TDEE: ~3,645 kcal; Target: 2,800 kcal; Deficit: ~845 kcal/day
-- Protein: 195–200 g/day (~2 g/kg lean mass)
+### Cavalière-Ergänzungen (noch nicht im Protokoll)
+- 4-Richtungs-Nackenscheiben-Serie (Bett/Bank) → aktive Nackenkräftigung statt nur passivem Dehnen
+- Gluteus-Medius-Übungen → Beckenstabilität → Lendenwirbelschutz beim schweren Heben
+- Bänder-Außenrotation vor dem Drücken → Schulterlanglebigkeit
 
-### Patrick-Informed Adjustments
-- Rhonda's protein intake: 1.2–1.6 g/kg (vs. Oleg's ~2 g/kg) — Oleg's higher target is appropriate given more aggressive recomposition goal and larger lean mass
-- Intermittent fasting: Oleg's current structure already approximates IF (first meal 08:30 → dinner 19:30 = 11h eating window); extending fast by moving dinner earlier would add metabolic switch benefits
-- Rhonda's observation: high protein intake without caloric discipline caused her weight gain — Oleg's caloric cap (2,800) addresses this
-
-### Visceral Fat Priority
-Oleg's abdomen measurement (101.4 cm) sits at risk threshold. High-intensity exercise (HIIT 2×/week already in protocol) + caloric deficit are the primary tools. [[Brick Training]] during Hyrox prep adds additional vigorous aerobic sessions.
+**Empfehlung:** Einen 5–7-minütigen „Small Things"-Block 3×/Woche hinzufügen (Nackenscheibenarbeit + Gluteus Medius + Bänder-Außenrotation). Laut Cavalière: am besten nach der Haupteinheit oder als eigenständiger Miniblock. (Quelle: [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
 
 ---
 
-## 7. Key Identified Gaps & Action Items
+## 6. Körper-Rekompositionsstrategie
 
-| Gap | Source | Recommendation |
+**Ziel:** 15–17 % KFA (gemäß Scaneca-Scan), mit Schwerpunkt auf Reduktion des Unterbauchs.
+
+### Aktuelle Kalorienstrategie
+- TDEE: ~3.645 kcal; Ziel: 2.800 kcal; Defizit: ~845 kcal/Tag
+- Protein: 195–200 g/Tag (~2 g/kg Magermasse)
+
+### Patrick-informierte Anpassungen
+- Rhondas Proteinzufuhr: 1,2–1,6 g/kg (vs. Olegs ~2 g/kg) — Olegs höheres Ziel ist angemessen angesichts des aggressiveren Rekompositionsziels und der größeren Magermasse
+- Intermittent Fasting: Olegs aktuelle Struktur approximiert bereits IF (erste Mahlzeit 08:30 → Abendessen 19:30 = 11-Std.-Essensfenster); das Fasten durch früheres Abendessen zu verlängern würde metabolische Switch-Vorteile verstärken
+- Rhondas Beobachtung: hohe Proteinzufuhr ohne Kaloriendisziplin verursachte ihre Gewichtszunahme — Olegs Kaloriendeckel (2.800) adressiert dies
+
+### Viszerales-Fett-Priorität
+Olegs Bauchmaß (101,4 cm) liegt an der Risikogrenze. Hochintensives Training (HIIT 2×/Woche bereits im Protokoll) + Kaloriendefizit sind die primären Werkzeuge. [[Brick Training]] während der Hyrox-Vorbereitung fügt zusätzliche intensive aerobe Einheiten hinzu.
+
+---
+
+## 7. Identifizierte Lücken & Maßnahmen
+
+| Lücke | Quelle | Empfehlung |
 |---|---|---|
-| Pre-sleep fast only 1h | Rhonda Patrick | Move dinner to 17:30 OR delay sleep to 22:30 |
-| Creatine at 5 g (vs. 10 g recommended) | Rhonda Patrick | Trial 10 g/day; especially relevant during Hyrox prep and sleep-disrupted phases |
-| No glute medius protocol | Jeff Cavaliere | Add 5 min glute medius block 3×/week (hip bumps, mini-band hip rotations, reverse hypers) |
-| No neck plate strengthening | Jeff Cavaliere | Add 4-direction neck series 3×/week to address Forward Head Posture actively |
-| No external rotation warm-up | Jeff Cavaliere | Band external rotation before Monday/Saturday pressing sessions |
-| Glutamine excluded | Rhonda Patrick | Reconsider 5 g situational (illness, heavy training, travel); current exclusion is diet-sufficiency rationale but may not cover immune peaks |
-| Exercise snacks (9 min/day) | Rhonda Patrick | 3× daily 1–3 min vigorous movement; easy to add during work breaks |
-| Hyrox registration | Offene Actions | Registration still open; 10-week program requires start date anchor |
+| Fastenpause vor dem Schlafen nur 1 Std. | Rhonda Patrick | Abendessen auf 17:30 Uhr vorziehen ODER Schlaf auf 22:30 Uhr verschieben |
+| Kreatin bei 5 g (vs. empfohlenen 10 g) | Rhonda Patrick | Test mit 10 g/Tag; besonders relevant während Hyrox-Vorbereitung und schlafgestörten Phasen |
+| Kein Gluteus-Medius-Protokoll | Jeff Cavaliere | 5-Min.-Gluteus-Medius-Block 3×/Woche hinzufügen (Hip Bumps, Mini-Band-Hüftrotationen, Reverse Hypers) |
+| Keine Nackenscheiben-Kräftigung | Jeff Cavaliere | 4-Richtungs-Nackenserie 3×/Woche zur aktiven Adressierung der Vorwärtskopfhaltung hinzufügen |
+| Kein Außenrotations-Aufwärmen | Jeff Cavaliere | Bänder-Außenrotation vor Montags-/Samstags-Drückeinheiten |
+| Glutamin ausgeschlossen | Rhonda Patrick | 5 g situativ überdenken (Krankheit, intensives Training, Reisen); aktuelle Ausschluss-Begründung via Ernährung deckt möglicherweise Immunspitzen nicht ab |
+| Exercise Snacks (9 Min./Tag) | Rhonda Patrick | 3× täglich 1–3 Min. intensive Bewegung; einfach in Arbeitspausen einzubauen |
+| Hyrox-Anmeldung | Offene Actions | Anmeldung noch offen; 10-Wochen-Programm benötigt ein Startdatum als Anker |
 
 ---
 
-## 8. Expert Influence Map
+## 8. Experten-Einfluss-Map
 
 ```
 Andrew Huberman
-├── Daily Structure (circadian, light, caffeine, NSDR, sleep timing)
-├── Supplement selection framework (Momentous partnership)
-├── NSDR protocol
-└── Platform for Cavaliere + Patrick episodes
+├── Tagesstruktur (Zirkadianrhythmus, Licht, Koffein, NSDR, Schlaf-Timing)
+├── Supplement-Auswahlrahmen (Momentous-Partnerschaft)
+├── NSDR-Protokoll
+└── Plattform für Cavaliere- & Patrick-Episoden
 
 Rhonda Patrick
-├── Sulforaphane protocol → Sunday Natural (explicit source cite)
-├── Creatine 10g → potential upgrade from 5g
-├── Visceral fat → waist/abdomen monitoring priority
-├── 3-hr pre-sleep fast → current 1-hr gap is actionable
-└── Intermittent fasting → already approximated; deepen
+├── Sulforaphane-Protokoll → Sunday Natural (explizite Quellenangabe)
+├── Kreatin 10 g → mögliches Upgrade von 5 g
+├── Viszerales Fett → Taille/Bauch-Monitoring-Priorität
+├── 3-Std.-Fastenpause vor dem Schlafen → aktuelle 1-Std.-Lücke ist umsetzbar
+└── Intermittent Fasting → bereits approximiert; vertiefen
 
 Jeff Cavaliere
-├── Face pulls + neck stretching → already in protocol
-├── Neck plate series → add to posture protocol
-├── Glute medius work → add to training
-├── External rotation warm-up → add pre-pressing
-└── "Small things" philosophy → 5-7 min dedicated corrective blocks
+├── Face Pulls + Nackendehnen → bereits im Protokoll
+├── Nackenscheiben-Serie → zum Haltungsprotokoll hinzufügen
+├── Gluteus-Medius-Arbeit → zum Training hinzufügen
+├── Außenrotations-Aufwärmen → vor dem Drücken hinzufügen
+└── „Small Things"-Philosophie → 5–7 Min. dedizierte Korrekturblöcke
 ```
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
 - [[Health Protocol Master]]
 - [[Supplement Stack]]

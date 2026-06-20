@@ -1,20 +1,20 @@
 ---
-title: Wagglz GmbH Source Detail
+title: Wagglz GmbH Quelldokument Detail
 type: source
 tags: [wagglz, gmbh, insolvenz, finanzen, gesellschafterdarlehen, überschuldung, insO, berlin, business]
 sources: ["raw/Business/Wagglz/Wagglz GmbH.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for Wagglz GmbH — company stammdaten, insolvency status (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), 2026 running costs, Gesellschafterdarlehen by Oleg, and strategic options (Weiterführen vs. Auflösen)
+summary: Quelldokument für die Wagglz GmbH — Stammdaten, Insolvenzstatus (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), laufende Kosten 2026, Gesellschafterdarlehen von Oleg sowie strategische Optionen (Weiterführen vs. Auflösen)
 ---
 
-# Wagglz GmbH — Source Detail
+# Wagglz GmbH — Quelldokument Detail
 
-## Overview
+## Überblick
 
-This source document (status: kritisch, aktualisiert: 2026-06-12) captures the core company data, financial situation, and strategic decision point for [[Wagglz GmbH]]. It is the primary reference for the company's insolvency status and ongoing cost structure as of June 2026.
+Dieses Quelldokument (Status: kritisch, aktualisiert: 2026-06-12) erfasst die wesentlichen Unternehmensdaten, die finanzielle Lage und den strategischen Entscheidungspunkt für [[Wagglz GmbH]]. Es ist die primäre Referenz für den Insolvenzstatus und die laufende Kostenstruktur des Unternehmens per Juni 2026.
 
-> For the entity summary, see [[Wagglz GmbH]].
+> Zur Entitätszusammenfassung siehe [[Wagglz GmbH]].
 
 ## Stammdaten
 
@@ -52,43 +52,43 @@ Oleg überweist monatlich Beträge zur Deckung der Fixkosten:
 
 **Gesamt 2026 (geschätzt):** ~2.170 €
 
-> ⚠️ **Assumption [A]:** These transfers are classified as Gesellschafterdarlehen (shareholder loans). Given the §19 InsO Überschuldung, the Rangrücktritt (subordination declaration) is legally required to prevent these loans from counting as liabilities. Until the Rangrücktritt is signed, the loans may increase the reported Fehlbetrag rather than cure it.
+> ⚠️ **Annahme [A]:** Diese Überweisungen werden als Gesellschafterdarlehen eingestuft. Angesichts der §19 InsO Überschuldung ist der Rangrücktritt (Nachrangigkeitserklärung) gesetzlich vorgeschrieben, damit diese Darlehen nicht als Verbindlichkeiten zählen. Solange der Rangrücktritt nicht unterzeichnet ist, können die Darlehen den ausgewiesenen Fehlbetrag erhöhen, anstatt ihn zu beheben.
 
 ## Laufende Kosten 2026
 
 | Kosten | Betrag |
 |---|---|
-| Finom Konto | Gebühren (amount not specified) |
+| Finom Konto | Gebühren (Betrag nicht angegeben) |
 | Claude.ai Subscription | 18 €/Mo |
 | GoDaddy | 34,76 € |
 | Figma | 20 €/Mo |
 | Miles for Business | variabel |
 | ARAG | 100,88 €/Quartal |
 
-**Estimated monthly fixed costs (excl. Miles):** ~72–75 €/month
+**Geschätzte monatliche Fixkosten (ohne Miles):** ~72–75 €/Monat
 
 ## Sofortmaßnahmen
 
-Source references [[P0 Sofort]] and [[Rangrücktritt §15a InsO]] as the immediate action pages.
+Das Quelldokument verweist auf [[P0 Sofort]] und [[Rangrücktritt §15a InsO]] als die unmittelbaren Aktionsseiten.
 
 ## Strategische Entscheidung
 
-Two options are documented:
+Zwei Optionen sind dokumentiert:
 
-1. **Weiterführen** — Develop concept, secure financing, establish revenue — from when?
-2. **Auflösen** — §17 EStG: GmbH-Verlust steuerlich nutzbar (Oleg as shareholder can claim GmbH loss for income tax purposes)
+1. **Weiterführen** — Konzept entwickeln, Finanzierung sichern, Umsatz aufbauen — ab wann?
+2. **Auflösen** — §17 EStG: GmbH-Verlust steuerlich nutzbar (Oleg als Gesellschafter kann den GmbH-Verlust für die Einkommensteuer geltend machen)
 
-> ⚠️ **Note on §17 EStG:** Under §17 EStG, a shareholder who holds ≥1% in a GmbH can claim a capital loss on dissolution for income tax purposes. For Oleg (100% Gesellschafter via [[OK Capital UG]]), the Auflösung would unlock a deductible loss equal to the invested capital minus any recovered amounts. This is potentially significant for [[ESt 2025]] and future tax filings.
+> ⚠️ **Hinweis zu §17 EStG:** Nach §17 EStG kann ein Gesellschafter, der ≥1 % an einer GmbH hält, bei Auflösung einen Kapitalverlust einkommensteuerlich geltend machen. Für Oleg (100 % Gesellschafter über [[OK Capital UG]]) würde die Auflösung einen abzugsfähigen Verlust in Höhe des eingesetzten Kapitals abzüglich etwaiger Rückflüsse freisetzen. Dies ist potenziell bedeutsam für [[ESt 2025]] und künftige Steuererklärungen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Wagglz GmbH]] — entity summary page
-- [[OK Capital UG]] — 100% shareholder
-- [[Oleg Personal Context]] — Geschäftsführer and sole beneficial owner
+- [[Wagglz GmbH]] — Entitätszusammenfassung
+- [[OK Capital UG]] — 100 % Gesellschafter
+- [[Oleg Personal Context]] — Geschäftsführer und alleiniger wirtschaftlich Berechtigter
 - [[SP STB]] — Steuerberater
-- [[Rangrücktritt §15a InsO]] — urgent open action
-- [[P0 Sofort]] — immediate action list
-- [[P1 Diese Woche]] — weekly priorities
-- [[ALG I 2025]] — co-income context (Oleg, 2025)
-- [[ESt 2025]] — tax filing context
-- [[Oleg Business Entity Structure]] — entity structure overview
+- [[Rangrücktritt §15a InsO]] — dringende offene Maßnahme
+- [[P0 Sofort]] — sofortige Aktionsliste
+- [[P1 Diese Woche]] — wöchentliche Prioritäten
+- [[ALG I 2025]] — Einkommenskontext (Oleg, 2025)
+- [[ESt 2025]] — Kontext der Steuererklärung
+- [[Oleg Business Entity Structure]] — Übersicht der Unternehmensstruktur

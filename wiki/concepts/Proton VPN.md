@@ -5,36 +5,36 @@ tags: [vpn, privacy, proton, security, kill-switch, tool, aktiv]
 sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-06-16
 updated: 2026-06-16
-summary: Privacy-focused VPN by Proton AG — active on all of Oleg's devices with Kill Switch enabled; part of the Proton ecosystem alongside Proton Mail, Pass, Drive
+summary: Datenschutzorientiertes VPN von Proton AG — aktiv auf allen Geräten von Oleg mit aktiviertem Kill Switch; Teil des Proton-Ökosystems zusammen mit Proton Mail, Pass und Drive
 ---
 
 # Proton VPN
 
-## Overview
+## Überblick
 
-**Proton VPN** is a VPN (Virtual Private Network) service by Proton AG (Switzerland). It encrypts internet traffic and masks IP addresses, preventing ISPs, network operators, and trackers from monitoring browsing activity.
+**Proton VPN** ist ein VPN-Dienst (Virtual Private Network) von Proton AG (Schweiz). Es verschlüsselt den Internetverkehr und maskiert IP-Adressen, wodurch verhindert wird, dass ISPs, Netzwerkbetreiber und Tracker die Browser-Aktivität überwachen können.
 
-## Usage in Oleg's Stack
+## Nutzung in Olegs Stack
 
-- **Status:** ✅ Active
-- **Kill Switch:** Activated on **all devices** (iPhone, iPad, Mac)
-- **Context:** Part of the comprehensive [[Privacy and Tech Stack]]
+- **Status:** ✅ Aktiv
+- **Kill Switch:** Aktiviert auf **allen Geräten** (iPhone, iPad, Mac)
+- **Kontext:** Teil des umfassenden [[Privacy and Tech Stack]]
 
 ## Kill Switch
 
-The Kill Switch feature disconnects internet access entirely if the VPN connection drops unexpectedly. This prevents any unencrypted traffic from leaking — particularly important on public/untrusted networks.
+Der Kill Switch trennt den Internetzugang vollständig, wenn die VPN-Verbindung unerwartet abbricht. Dadurch wird verhindert, dass unverschlüsselter Datenverkehr nach außen gelangt — besonders wichtig in öffentlichen oder nicht vertrauenswürdigen Netzwerken.
 
-## Key Properties
+## Wesentliche Eigenschaften
 
-- **No-logs policy:** Proton does not log user activity
-- **Open-source:** Clients are open-source and auditable
-- **Swiss jurisdiction:** Same privacy framework as [[Proton Mail]]
-- **Secure Core:** Option to route traffic through multiple servers in privacy-friendly countries
+- **No-Logs-Richtlinie:** Proton protokolliert keine Nutzeraktivitäten
+- **Open-Source:** Clients sind quelloffen und prüfbar
+- **Schweizer Rechtsraum:** Gleicher Datenschutzrahmen wie [[Proton Mail]]
+- **Secure Core:** Option, den Datenverkehr über mehrere Server in datenschutzfreundlichen Ländern zu leiten
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Privacy and Tech Stack]] — full stack context
-- [[Proton Mail]] — co-service in Proton ecosystem
-- [[Proton Pass]] — co-service in Proton ecosystem
-- [[MOC Tech und Setup]] — parent MOC
-- [[Oleg Personal Context]] — user
+- [[Privacy and Tech Stack]] — vollständiger Stack-Kontext
+- [[Proton Mail]] — gemeinsamer Dienst im Proton-Ökosystem
+- [[Proton Pass]] — gemeinsamer Dienst im Proton-Ökosystem
+- [[MOC Tech und Setup]] — übergeordnete MOC
+- [[Oleg Personal Context]] — Nutzer

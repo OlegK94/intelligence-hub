@@ -1,20 +1,20 @@
 ---
-title: Consorsbank Girokonto 0250120493 Source Detail
+title: Consorsbank Girokonto 0250120493 Quelldokument Detail
 type: source
 tags: [konto, consorsbank, girokonto, finanzen, banking, saldo, iban, dispo, fixkosten, 2026]
 sources: ["raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for Oleg's main Consorsbank Girokonto — IBAN DE23760300800250120493, BIC CSDBDE71XXX, Dispo 5.000 €, saldo +971.67 € per 29.05.2026; full 2026 balance history, regular income (Doctolib salary, Q1 bonus), regular outgoings (Vattenfall, Barmenia, GSW, VW-Bank etc.), and linked accounts including resolved Consorsbank 260809254
+summary: Quelldokument für Olegs Haupt-Consorsbank-Girokonto — IBAN DE23760300800250120493, BIC CSDBDE71XXX, Dispo 5.000 €, Saldo +971,67 € per 29.05.2026; vollständige Saldohistorie 2026, regelmäßige Einnahmen (Doctolib-Gehalt, Q1-Bonus), regelmäßige Abbuchungen (Vattenfall, Barmenia, GSW, VW-Bank usw.) sowie verknüpfte Konten einschließlich des aufgelösten Consorsbank-Kontos 260809254
 ---
 
-# Consorsbank Girokonto 0250120493 — Source Detail
+# Consorsbank Girokonto 0250120493 — Quelldokument Detail
 
-## Overview
+## Übersicht
 
-This source document (aktualisiert: 2026-06-12, saldo_datum: 2026-05-29) is the primary account record for [[Oleg Personal Context|Oleg]]'s main personal current account at Consorsbank. It provides the full IBAN, BIC, Dispokredit, 2026 balance history, complete list of regular income and outgoing payments, and linked account references.
+Dieses Quelldokument (aktualisiert: 2026-06-12, saldo_datum: 2026-05-29) ist der primäre Kontodatensatz für [[Oleg Personal Context|Olegs]] persönliches Hauptgirokonto bei der Consorsbank. Es enthält die vollständige IBAN, BIC, den Dispokredit, die Saldohistorie 2026, eine vollständige Liste regelmäßiger Ein- und Ausgangszahlungen sowie Verweise auf verknüpfte Konten.
 
-> For the entity summary page, see [[Consorsbank Girokonto 0250120493]].
+> Die Entitäts-Übersichtsseite findet sich unter [[Consorsbank Girokonto 0250120493]].
 
 ---
 
@@ -39,12 +39,12 @@ This source document (aktualisiert: 2026-06-12, saldo_datum: 2026-05-29) is the 
 | Apr 2026 | **+3.380,18 €** | Q1-Bonus 8.249,96 € eingegangen |
 | Mai 2026 | +971,67 € | |
 
-### Key Observations
+### Wesentliche Beobachtungen
 
-- **Jan 2026 (−1.200 €):** Account was overdrawn before [[Doctolib 2026]] salary began. This confirms Doctolib employment started sometime around Feb 2026 (salary first received 27./28. Feb 2026).
-- **Mär 2026 (−584,20 €):** Account dipped back negative — likely due to large fixed-cost outgoings in early March outpacing one salary cycle.
-- **Apr 2026 (+3.380,18 €):** Q1-Bonus of 8.249,96 € received on 27.04. significantly lifted the balance. The net +3.380 € after regular outgoings in April reflects ~4.800 € in April outgoings absorbed.
-- **Mai 2026 (+971,67 €):** Post-bonus normalization. Regular monthly outgoings (~2.200 € fixed costs + variable) reduced the balance from the April high.
+- **Jan 2026 (−1.200 €):** Das Konto befand sich im Minus, bevor das [[Doctolib 2026]]-Gehalt einsetzte. Dies bestätigt, dass die Beschäftigung bei Doctolib etwa ab Feb 2026 begann (erstes Gehalt eingegangen 27./28. Feb 2026).
+- **Mär 2026 (−584,20 €):** Das Konto rutschte erneut ins Minus — wahrscheinlich weil hohe Fixkostenabbuchungen Anfang März einen Gehaltsmonat überstiegen.
+- **Apr 2026 (+3.380,18 €):** Der Q1-Bonus von 8.249,96 €, eingegangen am 27.04., hat den Saldo deutlich angehoben. Das Netto-Plus von +3.380 € nach den regulären Aprilausgaben entspricht ca. 4.800 € aufgenommener Kosten im April.
+- **Mai 2026 (+971,67 €):** Normalisierung nach dem Bonus. Regelmäßige monatliche Ausgaben (~2.200 € Fixkosten + variable Kosten) haben den Saldo vom Aprilhoch abgesenkt.
 
 ---
 
@@ -56,15 +56,15 @@ This source document (aktualisiert: 2026-06-12, saldo_datum: 2026-05-29) is the 
 | Q1-Bonus (einmalig 2026) | 27.04.2026 | 8.249,96 € |
 | Doctolib Spesenerstattung | 30.04.2026 | +63,49 € + 668,01 € |
 
-### Income Notes
+### Hinweise zu den Einnahmen
 
-- The **3.638,82 € net monthly salary** from [[Doctolib 2026]] is confirmed here for the first time as a specific figure.
-- The **Q1-Bonus of 8.249,96 €** is the bonus referenced in the [[MOC Finanzen]] context. This is a gross figure or net figure is not specified — likely net since it appears directly in the Girokonto.
-- **Spesenerstattungen (63,49 € + 668,01 € = 731,50 €)** — expense reimbursements paid on 30.04., same day as end-of-month processing. The 668,01 € is a substantial reimbursement suggesting significant business travel or expenses in Q1.
+- Das **monatliche Nettogehalt von 3.638,82 €** von [[Doctolib 2026]] wird hier erstmals als konkreter Betrag bestätigt.
+- Der **Q1-Bonus von 8.249,96 €** ist der im [[MOC Finanzen]]-Kontext referenzierte Bonus. Ob es sich um einen Brutto- oder Nettobetrag handelt, ist nicht spezifiziert — wahrscheinlich netto, da er direkt im Girokonto erscheint.
+- **Spesenerstattungen (63,49 € + 668,01 € = 731,50 €)** — Auslagenerstattungen, gebucht am 30.04., gleichzeitig mit der Monatsendabrechnung. Die 668,01 € sind eine substanzielle Erstattung und deuten auf erhebliche Geschäftsreisen oder Auslagen in Q1 hin.
 
 ---
 
-## Regelmäßige Abbuchungen (Fixed Outgoings)
+## Regelmäßige Abbuchungen (Fixkosten)
 
 | Empfänger | Fälligkeitstag | Betrag/Monat | Jahreskosten |
 |---|---|---|---|
@@ -80,25 +80,25 @@ This source document (aktualisiert: 2026-06-12, saldo_datum: 2026-05-29) is the 
 | **Spotify** | ~02. | 21,99 € | 263,88 € |
 | **Gesamt** | — | **~2.053,29 €** | **~24.639,48 €** |
 
-### Key Notes on Outgoings
+### Wesentliche Hinweise zu den Abbuchungen
 
-**Versicherungen (1. des Monats — cluster):**
-- **Barmenia KV (33,00 €):** Health insurance supplement — consistent with [[Barmenia]] entity page
-- **Allianz RLV (31,55 €):** Risikolebensversicherung (term life) — this is the policy explicitly excluded from [[Allianz Insurance Consolidation]] due to health re-assessment risk
-- **Allianz PKV (22,62 €):** Private health insurance supplement — consistent with [[Fixkosten Übersicht]]
-- **[[Uelzener Tierversicherung]] (132,48 €):** Pet insurance — the largest insurance line item by far; flagged as an optimization target in [[Fixkosten Übersicht]]
+**Versicherungen (1. des Monats — gebündelt):**
+- **Barmenia KV (33,00 €):** Krankenzusatzversicherung — konsistent mit der [[Barmenia]]-Entitätsseite
+- **Allianz RLV (31,55 €):** Risikolebensversicherung — dies ist die Police, die in [[Allianz Insurance Consolidation]] aufgrund des Risikos einer erneuten Gesundheitsprüfung explizit ausgenommen wurde
+- **Allianz PKV (22,62 €):** Private Krankenzusatzversicherung — konsistent mit [[Fixkosten Übersicht]]
+- **[[Uelzener Tierversicherung]] (132,48 €):** Tierversicherung — mit Abstand der größte Versicherungsposten; in [[Fixkosten Übersicht]] als Optimierungsziel markiert
 
 **Miete (17.):**
-- **GSW Miete (991,09 €):** Rent to GSW (Gemeinnützige Siedlungs- und Wohnungsbaugesellschaft Berlin) — Berlin state-owned housing company. 991,09 €/month is below-market for Berlin, suggesting a subsidized or regulated rent contract.
+- **GSW Miete (991,09 €):** Miete an die GSW (Gemeinnützige Siedlungs- und Wohnungsbaugesellschaft Berlin) — kommunales Wohnungsunternehmen des Landes Berlin. 991,09 €/Monat liegt unter dem Berliner Marktpreis, was auf einen geförderten oder preisgebundenen Mietvertrag hindeutet.
 
 **VW-Bank (16.):**
-- **681,57 €/month** — This is a significant financing payment to VW Bank. Likely a car loan or leasing contract for a Volkswagen Group vehicle. At 681,57 €/month over a typical 48-month term this implies a financed amount of ~30,000–35,000 €.
+- **681,57 €/Monat** — Dies ist eine erhebliche Finanzierungsrate an die VW Bank. Wahrscheinlich ein Autokredit oder Leasingvertrag für ein Fahrzeug der Volkswagen-Gruppe. Bei 681,57 €/Monat über eine typische Laufzeit von 48 Monaten ergibt sich ein finanzierter Betrag von ca. 30.000–35.000 €.
 
 **Fitness (1.):**
-- **RSG John Reed (40,00 €):** Gym membership at John Reed (RSG Group brand — premium fitness club).
+- **RSG John Reed (40,00 €):** Fitnessstudio-Mitgliedschaft bei John Reed (Marke der RSG Group — Premium-Fitnessclub).
 
 **Streaming (~02–03.):**
-- Netflix (19,99 €) + Spotify (21,99 €) = 41,98 €/month in streaming subscriptions
+- Netflix (19,99 €) + Spotify (21,99 €) = 41,98 €/Monat an Streaming-Abonnements
 
 ---
 
@@ -106,56 +106,56 @@ This source document (aktualisiert: 2026-06-12, saldo_datum: 2026-05-29) is the 
 
 | Konto | Status | Notizen |
 |---|---|---|
-| Tagesgeld 253403894 | Aktiv (ab 16.06.2026: 1,00 % p.a.) | Linked savings account |
-| [[Consorsbank Girokonto 260809254]] | ✅ Aufgelöst Jun 2026 | Closed as of June 2026 |
-| Depot 1117241081 | Aktiv | Investment depot at Consorsbank |
+| Tagesgeld 253403894 | Aktiv (ab 16.06.2026: 1,00 % p.a.) | Verknüpftes Sparkonto |
+| [[Consorsbank Girokonto 260809254]] | ✅ Aufgelöst Jun 2026 | Geschlossen seit Juni 2026 |
+| Depot 1117241081 | Aktiv | Wertpapierdepot bei der Consorsbank |
 
-### Linked Account Notes
+### Hinweise zu verknüpften Konten
 
-- **Tagesgeld 253403894:** Interest-bearing overnight savings account — rate of 1,00% p.a. from 16.06.2026 is modest but standard for German Tagesgeld in 2026.
-- **[[Consorsbank Girokonto 260809254]]:** Confirmed closed in June 2026 — consistent with existing [[Consorsbank Girokonto 260809254]] entity page (closed 2026-06-12, 11,32 € outstanding paid).
-- **Depot 1117241081:** Consorsbank investment depot — referenced here for the first time in source documents. No holdings data available from this source.
+- **Tagesgeld 253403894:** Verzinsliches Tagesgeldkonto — ein Zinssatz von 1,00 % p.a. ab 16.06.2026 ist bescheiden, aber für deutsches Tagesgeld im Jahr 2026 marktüblich.
+- **[[Consorsbank Girokonto 260809254]]:** Bestätigt geschlossen im Juni 2026 — konsistent mit der bestehenden [[Consorsbank Girokonto 260809254]]-Entitätsseite (geschlossen 2026-06-12, ausstehende 11,32 € beglichen).
+- **Depot 1117241081:** Wertpapierdepot bei der Consorsbank — wird hier erstmals in den Quelldokumenten erwähnt. Aus dieser Quelle sind keine Depotdaten verfügbar.
 
 ---
 
-## Updates to Existing Wiki
+## Ergänzungen zum bestehenden Wiki
 
-This source document provides **significant new detail** for the pre-existing (sparse) [[Consorsbank Girokonto 0250120493]] entity page:
+Dieses Quelldokument liefert **wesentliche neue Details** für die bisher spärliche [[Consorsbank Girokonto 0250120493]]-Entitätsseite:
 
-| Previously Unknown | Now Known |
+| Bisher unbekannt | Jetzt bekannt |
 |---|---|
-| Full IBAN | DE23760300800250120493 |
+| Vollständige IBAN | DE23760300800250120493 |
 | BIC | CSDBDE71XXX |
 | Dispokredit | 5.000 € |
-| Monthly net salary (Doctolib) | 3.638,82 € |
-| Q1 Bonus amount | 8.249,96 € |
-| Full 2026 balance history | Jan–Mai 2026 documented |
-| All fixed outgoing payments | 10 line items, ~2.053 €/month |
-| Linked accounts | Tagesgeld 253403894 + Depot 1117241081 |
+| Monatliches Nettogehalt (Doctolib) | 3.638,82 € |
+| Q1-Bonus-Betrag | 8.249,96 € |
+| Vollständige Saldohistorie 2026 | Jan–Mai 2026 dokumentiert |
+| Alle Fixkostenabbuchungen | 10 Posten, ~2.053 €/Monat |
+| Verknüpfte Konten | Tagesgeld 253403894 + Depot 1117241081 |
 
-> ⚠️ **Privacy assumption [A]:** Full IBAN (DE23760300800250120493) is recorded here as it appears in the source document. This wiki is a private knowledge base.
-
----
-
-## No Contradictions
-
-This source is consistent with all existing wiki pages:
-- [[Barmenia]] entity page: 33 €/month confirmed ✅
-- [[Allianz Insurance Consolidation]]: RLV at 31,55 €/month — explicitly the policy not to switch ✅
-- [[Consorsbank Girokonto 260809254]]: closed June 2026 ✅
-- [[Uelzener Tierversicherung]]: 132,48 €/month confirmed ✅
-- [[Fixkosten Übersicht]]: All line items consistent with existing Fixkosten data ✅
+> ⚠️ **Datenschutzannahme [A]:** Die vollständige IBAN (DE23760300800250120493) wird hier so erfasst, wie sie im Quelldokument erscheint. Dieses Wiki ist eine private Wissensdatenbank.
 
 ---
 
-## Related Pages
+## Keine Widersprüche
 
-- [[Consorsbank Girokonto 0250120493]] — entity page (updated with this data)
-- [[Doctolib 2026]] — primary income source (3.638,82 € netto/month)
-- [[Barmenia]] — KV debit 33 €/month
-- [[Uelzener Tierversicherung]] — largest insurance debit (132,48 €/month)
-- [[Allianz Insurance Consolidation]] — RLV (31,55 €) and PKV (22,62 €) context
-- [[Fixkosten Übersicht]] — fixed cost overview
-- [[Consorsbank Girokonto 260809254]] — closed linked account
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — account holder
+Diese Quelle ist konsistent mit allen bestehenden Wiki-Seiten:
+- [[Barmenia]]-Entitätsseite: 33 €/Monat bestätigt ✅
+- [[Allianz Insurance Consolidation]]: RLV mit 31,55 €/Monat — explizit die Police, die nicht gewechselt werden soll ✅
+- [[Consorsbank Girokonto 260809254]]: geschlossen Juni 2026 ✅
+- [[Uelzener Tierversicherung]]: 132,48 €/Monat bestätigt ✅
+- [[Fixkosten Übersicht]]: Alle Posten konsistent mit bestehenden Fixkostendaten ✅
+
+---
+
+## Verwandte Seiten
+
+- [[Consorsbank Girokonto 0250120493]] — Entitätsseite (mit diesen Daten aktualisiert)
+- [[Doctolib 2026]] — primäre Einnahmequelle (3.638,82 € netto/Monat)
+- [[Barmenia]] — KV-Abbuchung 33 €/Monat
+- [[Uelzener Tierversicherung]] — größte Versicherungsabbuchung (132,48 €/Monat)
+- [[Allianz Insurance Consolidation]] — RLV (31,55 €) und PKV (22,62 €) Kontext
+- [[Fixkosten Übersicht]] — Fixkostenübersicht
+- [[Consorsbank Girokonto 260809254]] — geschlossenes verknüpftes Konto
+- [[MOC Finanzen]] — übergeordneter Finanzen-MOC
+- [[Oleg Personal Context]] — Kontoinhaber

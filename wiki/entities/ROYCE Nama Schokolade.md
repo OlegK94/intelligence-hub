@@ -5,42 +5,42 @@ tags: [cafe, grove, royce, nama-schokolade, japan, hokkaido, signature-product, 
 sources: ["raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-16
 updated: 2026-06-16
-summary: ROYCE' Nama Chocolate from Hokkaido, Japan — GROVE Phase 2 product (ab Monat 6); velvet-smooth fresh chocolate, max 10°C; "Tokyo × Hanoi" pairing with Vietnamese Coffee; import via EU-Händler ~18-22 €/box; ROYCE licensing inquiry possible for Phase 2; gift-set anchor product
+summary: ROYCE' Nama Schokolade aus Hokkaido, Japan — GROVE Phase-2-Produkt (ab Monat 6); samtig-frische Schokolade, max. 10°C; „Tokyo × Hanoi"-Pairing mit vietnamesischem Kaffee; Import über EU-Händler ~18–22 €/Box; ROYCE-Lizenzanfrage möglich für Phase 2; Ankerprodukt für Geschenksets
 ---
 
 # ROYCE' Nama Schokolade
 
-## Overview
+## Überblick
 
-**ROYCE' Nama Chocolate** is a premium fresh chocolate from Hokkaido, Japan. "Nama" means "raw" or "fresh" — the chocolate is made from finest cocoa and fresh Hokkaido cream, cut into precise cubes, dusted with cocoa powder. Texture: velvet-smooth, melts on the tongue. Storage requirement: max. 10°C, 1 month shelf life.
+**ROYCE' Nama Chocolate** ist eine Premium-Frischschokolade aus Hokkaido, Japan. „Nama" bedeutet „roh" oder „frisch" — die Schokolade wird aus feinsten Kakaosorten und frischer Hokkaido-Sahne hergestellt, in präzise Würfel geschnitten und mit Kakaopulver bestäubt. Textur: samtig-weich, zerschmilzt auf der Zunge. Lagerungsanforderung: max. 10°C, 1 Monat Haltbarkeit.
 
-GROVE's plan: **Phase 2 product (ab Monat 6)**, paired with [[Vietnamese Coffee GROVE]] as the "Tokyo × Hanoi" concept.
+GROVEs Plan: **Phase-2-Produkt (ab Monat 6)**, gepairt mit [[Vietnamese Coffee GROVE]] als „Tokyo × Hanoi"-Konzept.
 
 ---
 
-## Why It Fits GROVE
+## Warum es zu GROVE passt
 
-| Dimension | Fit |
+| Dimension | Passung |
 |---|---|
-| Premium Japanese quality × Vietnamese Coffee | = Asian Premium Positioning unique in Berlin |
-| Visual contrast | Chocolate cubes on dark GROVE tray next to Cà Phê Sữa Đá = viral |
-| Pairing logic | Au Lait Nama + Vietnamese Coffee = natural chocolate + coffee combination |
-| Wow-factor | Guests know ROYCE from Japan trips or TikTok |
-| Differentiation | Completely different from German "café with chocolate cake" |
+| Japanische Premiumqualität × vietnamesischer Kaffee | = asiatisches Premium-Positioning, einzigartig in Berlin |
+| Visueller Kontrast | Schokoladenwürfel auf dunklem GROVE-Tablett neben Cà Phê Sữa Đá = viral |
+| Pairing-Logik | Au Lait Nama + vietnamesischer Kaffee = natürliche Schokoladen-Kaffee-Kombination |
+| Wow-Faktor | Gäste kennen ROYCE aus Japan-Reisen oder TikTok |
+| Differenzierung | Völlig anders als das deutsche „Café mit Schokoladenkuchen" |
 
 ---
 
-## Products & Flavors
+## Produkte & Sorten
 
-- **Au Lait** (Milchschokolade) — primary pairing recommendation
+- **Au Lait** (Milchschokolade) — primäre Pairing-Empfehlung
 - Matcha
-- Champagne
+- Champagner
 - Ghana Bitter
-- White
+- Weiß
 
 ---
 
-## Availability in Germany
+## Verfügbarkeit in Deutschland
 
 | Route | Aufwand | Kosten | Empfehlung |
 |---|---|---|---|
@@ -48,40 +48,40 @@ GROVE's plan: **Phase 2 product (ab Monat 6)**, paired with [[Vietnamese Coffee 
 | ROYCE' Lizenzpartner werden | Hoch (Bewerbung, Anforderungen) | Lizenzgebühren | Langfristig, ab Jahr 2 |
 | ROYCE-Style Eigenproduktion | Mittel (Konditor) | Produktionskosten | Alternative ohne Lizenz |
 
-**ROYCE has an official licensing page:** roycechocolate.com/pages/licensing-inquiries — becoming Berlin's first ROYCE license partner would be a strong PR moment. Relevant for Phase 2.
+**ROYCE hat eine offizielle Lizenzierungsseite:** roycechocolate.com/pages/licensing-inquiries — Berlins erster ROYCE-Lizenzpartner zu werden, wäre ein starker PR-Moment. Relevant für Phase 2.
 
 ---
 
-## Pricing & Margins
+## Preise & Margen
 
-- **Per piece (in-café):** 2,50–3,50 €
-- **Box (20 pieces) retail:** 32–40 € (Einkauf ~20–22 €, Marge ~40–50%)
+- **Pro Stück (im Café):** 2,50–3,50 €
+- **Box (20 Stück) Retail:** 32–40 € (Einkauf ~20–22 €, Marge ~40–50 %)
 
 ---
 
-## Pairing Offers
+## Pairing-Angebote
 
 | Pairing | Preis | Inhalt |
 |---|---|---|
-| "Tokyo × Hanoi" | 11,50 € | [[Vietnamese Coffee GROVE\|Cà Phê Sữa Đá]] + 2 Nama-Würfel |
-| "Morning Set" | 9,50 € | Espresso + 2 Nama-Würfel Au Lait |
+| „Tokyo × Hanoi" | 11,50 € | [[Vietnamese Coffee GROVE\|Cà Phê Sữa Đá]] + 2 Nama-Würfel |
+| „Morning Set" | 9,50 € | Espresso + 2 Nama-Würfel Au Lait |
 | Gift-Box GROVE | 42–55 € | GROVE Kaffeebohnen + Nama-Box + Sticker |
 
 ---
 
-## Operational Note: Kühlkette
+## Betrieblicher Hinweis: Kühlkette
 
-Phase 2 timing (not Phase 1) is because:
-- Max. 10°C storage required
-- 1 month shelf life (import from Japan/EU)
-- Kühlvitrine at counter needed (also useful for bar anyway)
-- Operational complexity too high for an opening phase
+Der Phase-2-Zeitpunkt (nicht Phase 1) liegt darin begründet, dass:
+- Lagerung bei max. 10°C erforderlich ist
+- die Haltbarkeit 1 Monat beträgt (Import aus Japan/EU)
+- eine Kühlvitrine am Counter benötigt wird (auch sonst für die Bar sinnvoll)
+- die operative Komplexität für eine Eröffnungsphase zu hoch ist
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[GROVE Businessplan und Betriebshandbuch 2026]] — parent plan
-- [[Vietnamese Coffee GROVE]] — primary pairing product
-- [[Merch und Online Shop Strategy]] — gift-set online sales
-- [[GROVE Brand Strategy]] — brand identity alignment
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — übergeordneter Plan
+- [[Vietnamese Coffee GROVE]] — primäres Pairing-Produkt
+- [[Merch und Online Shop Strategy]] — Geschenkset-Onlineverkauf
+- [[GROVE Brand Strategy]] — Markenidentität und Ausrichtung

@@ -5,25 +5,25 @@ tags: [performance-cafe, todo, planning, brand, product, wagglz, oleg, hai, long
 sources: ["raw/Business/PerformanceCafe/TODO.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Master ToDo document for the Performance Coffee Brand — covers all phases from regulatory research (Phase 0) through validation (Phase 1), MVP launch (Phase 2), scaling (Phase 3), and long-term expansion (Phase 4+); operated via Wagglz GmbH with partners Oleg and Hai
+summary: Master-ToDo-Dokument für die Performance Coffee Brand — umfasst alle Phasen von der regulatorischen Recherche (Phase 0) über die Validierung (Phase 1), den MVP-Launch (Phase 2), die Skalierung (Phase 3) bis zur langfristigen Expansion (Phase 4+); betrieben über die Wagglz GmbH mit den Partnern Oleg und Hai
 ---
 
-# Performance Coffee Brand — Master ToDo (Source Detail)
+# Performance Coffee Brand — Master ToDo (Quelldokument)
 
-## Overview
+## Überblick
 
-This source document (status: aktiv, date: 2026-06-15) is the master task list for the [[Performance Coffee Brand]] — a functional longevity coffee as instant sachet, tagline *"Perform now. Live longer."* — operated through [[Wagglz GmbH]] with partners [[Oleg Personal Context|Oleg]] and [[Hai]].
+Dieses Quelldokument (Status: aktiv, Stand: 2026-06-15) ist die Master-Aufgabenliste für die [[Performance Coffee Brand]] — ein funktioneller Longevity-Kaffee als Instant-Sachet, Tagline *„Perform now. Live longer."* — betrieben über die [[Wagglz GmbH]] mit den Partnern [[Oleg Personal Context|Oleg]] und [[Hai]].
 
-> For the entity summary and strategic context, see [[Performance Coffee Brand]].
-> For ingredient detail, see [[Longevity Stack Ingredients]].
-> For regulatory IP blockers, see [[Amazentis]] and [[Chromadex Niagen Bioscience]].
+> Für die Entity-Zusammenfassung und den strategischen Kontext siehe [[Performance Coffee Brand]].
+> Für Details zu den Inhaltsstoffen siehe [[Longevity Stack Ingredients]].
+> Für regulatorische IP-Blocker siehe [[Amazentis]] und [[Chromadex Niagen Bioscience]].
 
-## Product & White Space
+## Produkt & White Space
 
-- **Product:** Funktioneller Longevity-Kaffee als Instant-Sachet
-- **Promise:** *"Perform now. Live longer."*
-- **White Space:** [[Bryan Johnson]]'s Blueprint macht keinen Kaffee
-- **Vehicle:** [[Wagglz GmbH]] — wird reaktiviert + umstrukturiert
+- **Produkt:** Funktioneller Longevity-Kaffee als Instant-Sachet
+- **Versprechen:** *„Perform now. Live longer."*
+- **White Space:** [[Bryan Johnson]]s Blueprint macht keinen Kaffee
+- **Vehikel:** [[Wagglz GmbH]] — wird reaktiviert + umstrukturiert
 
 ---
 
@@ -31,10 +31,10 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 ### Regulatorik — BLOCKER für Stack-Entscheidung
 
-| Item | Action | Cost |
+| Position | Maßnahme | Kosten |
 |---|---|---|
 | [[NMN]] EU Novel Food Status 2025/2026 | BfR.de / EFSA-Datenbank prüfen ODER Regulatory-Affairs-Berater | ~500–1.500 € |
-| [[Urolithin A]] — [[Amazentis]]/Timeline Patent | Patent-Laufzeit EU prüfen; Lizenz möglich? | TBD |
+| [[Urolithin A]] — [[Amazentis]]/Timeline-Patent | Patent-Laufzeit EU prüfen; Lizenz möglich? | TBD |
 | Spermidine aus Weizenkeimen | Novel Food Status DE klären | TBD |
 | Lebensmittel vs. NEM entscheiden | NEM-Weg = schneller, flexibler; Empfehlung: NEM für MVP | — |
 
@@ -42,11 +42,11 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 ### Name & Marke
 
-- [ ] Top-3 Namen aus naming_brief.md prüfen: **AEVUM / KOLVR / ORVYN**
-  - [ ] .com Domain-Verfügbarkeit (namecheap.com / instant.domains)
+- [ ] Top-3-Namen aus naming_brief.md prüfen: **AEVUM / KOLVR / ORVYN**
+  - [ ] .com-Domain-Verfügbarkeit (namecheap.com / instant.domains)
   - [ ] EUIPO eSearch plus — Klasse 30 + Klasse 5
   - [ ] Entscheidung treffen
-- [ ] **EUIPO Markenanmeldung** starten (vor erstem öffentlichen Auftreten)
+- [ ] **EUIPO-Markenanmeldung** starten (vor erstem öffentlichen Auftreten)
   - Kosten: ~1.000 € für 2 Klassen
 
 ### Prototyp-Entwicklung
@@ -71,7 +71,7 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 - [ ] Domain registrieren (nach Namensentscheidung)
 - [ ] Landing Page aufsetzen (Webflow oder Framer, ~1–2 Tage)
-  - Hook: *"The Longevity Coffee Blueprint doesn't make."*
+  - Hook: *„The Longevity Coffee Blueprint doesn't make."*
   - Waitlist-Formular (Typeform oder Webflow)
   - Budget: ~200 €
 - [ ] **Waitlist-Ziel:** 500 Signups in 60 Tagen = Go-Signal für Produktion
@@ -90,8 +90,8 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 ### Social Proof
 
-- [ ] Eigene Biohacking-Routine dokumentieren (Oleg als Face of Brand)
-  - Instagram/TikTok: *"Ich teste meinen eigenen Longevity Stack"*
+- [ ] Eigene Biohacking-Routine dokumentieren (Oleg als Gesicht der Marke)
+  - Instagram/TikTok: *„Ich teste meinen eigenen Longevity Stack"*
 
 ---
 
@@ -101,7 +101,7 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 - [ ] **[[Wagglz GmbH]] reaktivieren/umstrukturieren**
   - Gesellschaftszweck anpassen (Lebensmittel / NEM)
-  - [[Hai]] als 50% Gesellschafter eintragen (Notar, ~500 €)
+  - [[Hai]] als 50%-Gesellschafter eintragen (Notar, ~500 €)
   - Vesting-Vertrag aufsetzen (RA, ~500–1.000 €)
   - Steuerberater: IP-Struktur mit OK Capital klären
 - [ ] Geschäftskonto eröffnen (Kontist oder Finom)
@@ -135,7 +135,7 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 ### Funding (wenn nötig)
 
-- [ ] Pre-Seed Pitch vorbereiten (150–300 K€)
+- [ ] Pre-Seed-Pitch vorbereiten (150–300 K€)
   - FoodLabs Berlin
   - Capnamic Ventures
   - Business Angels BAND Netzwerk
@@ -148,7 +148,7 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 
 ### Blueprint Protocol Marketplace
 
-- [ ] Listing prüfen (bryan johnson protocol marketplace)
+- [ ] Listing prüfen (Bryan Johnson Protocol Marketplace)
   - Bedingungen: klinisch validierte Inhaltsstoffe, volle Transparenz, COA
 
 ---
@@ -159,7 +159,7 @@ This source document (status: aktiv, date: 2026-06-15) is the master task list f
 - Nespresso-kompatible Kapsel
 - EU-Expansion: AT, CH, NL, FR
 - US-Expansion (nach NSF-Zertifizierung)
-- Tier-2 "Longevity Pro" SKU (nach NMN + Urolithin A Regulatorik-Klärung)
+- Tier-2 „Longevity Pro" SKU (nach NMN + Urolithin A Regulatorik-Klärung)
 
 ---
 
@@ -187,7 +187,7 @@ Wenn CMO machbar + Prototyp vielversprechend:
 | Position | Kosten |
 |---|---|
 | Regulatory-Berater NMN/Urolithin | 500–1.500 € |
-| EUIPO Markenanmeldung (2 Klassen) | ~1.000 € |
+| EUIPO-Markenanmeldung (2 Klassen) | ~1.000 € |
 | CMO Erstkontakt + Sample | 0–500 € |
 | Domain | ~20 €/Jahr |
 | Landing Page (Webflow/Framer) | ~200 € |
@@ -198,21 +198,21 @@ Wenn CMO machbar + Prototyp vielversprechend:
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — entity page
-- [[Wagglz GmbH]] — operating vehicle
-- [[Hai]] — 50% Gesellschafter
-- [[Oleg Personal Context]] — founder
-- [[NMN]] — regulatory blocker (EU Novel Food status)
-- [[Urolithin A]] — regulatory + IP blocker (Amazentis)
-- [[Amazentis]] — IP holder Urolithin A
-- [[Chromadex Niagen Bioscience]] — IP holder NMN/NR
-- [[Trigonellin]] — NMN fallback ingredient
-- [[Alpha-GPC]] — Tier-1 stack ingredient
-- [[Longevity Stack Ingredients]] — full stack
-- [[Bryan Johnson]] — competitive reference / white space
-- [[Hyrox 10-Week Training]] — validation channel
-- [[EUIPO]] — trademark registration body
-- [[Kölner Liste]] — doping certification standard
-- [[EU Novel Food Regulation]] — regulatory framework
+- [[Performance Coffee Brand]] — Entity-Seite
+- [[Wagglz GmbH]] — operatives Vehikel
+- [[Hai]] — 50%-Gesellschafter
+- [[Oleg Personal Context]] — Gründer
+- [[NMN]] — regulatorischer Blocker (EU Novel Food Status)
+- [[Urolithin A]] — regulatorischer + IP-Blocker (Amazentis)
+- [[Amazentis]] — IP-Inhaber Urolithin A
+- [[Chromadex Niagen Bioscience]] — IP-Inhaber NMN/NR
+- [[Trigonellin]] — NMN-Fallback-Inhaltsstoff
+- [[Alpha-GPC]] — Tier-1-Stack-Inhaltsstoff
+- [[Longevity Stack Ingredients]] — vollständiger Stack
+- [[Bryan Johnson]] — Wettbewerbsreferenz / White Space
+- [[Hyrox 10-Week Training]] — Validierungskanal
+- [[EUIPO]] — Markenanmeldebehörde
+- [[Kölner Liste]] — Dopingzertifizierungsstandard
+- [[EU Novel Food Regulation]] — regulatorischer Rahmen

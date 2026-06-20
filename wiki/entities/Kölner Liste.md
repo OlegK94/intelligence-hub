@@ -5,80 +5,80 @@ tags: [certification, DACH, supplement, anti-doping, WADA, athletes, sports-nutr
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: German standard for athlete supplements — tests ~1,400 banned WADA substances; DACH market standard for sports nutrition; Priority MVP certification for Performance Coffee Brand; cost 1,500–2,500 €/SKU, 4–8 week timeline
+summary: Deutscher Standard für Athleten-Supplemente — prüft ~1.400 verbotene WADA-Substanzen; DACH-Marktstandard für Sporternährung; Prioritäts-MVP-Zertifizierung für die Performance Coffee Brand; Kosten 1.500–2.500 €/SKU, Zeitrahmen 4–8 Wochen
 ---
 
 # Kölner Liste
 
-## Overview
+## Überblick
 
-**Kölner Liste** is Germany's standard certification for athlete-facing dietary supplements. It is the **MVP Priority** (Stufe 1) certification in the [[Performance Coffee Brand]]'s three-tier [[Certification Roadmap Performance Coffee Brand|certification roadmap]].
+Die **Kölner Liste** ist Deutschlands Standardzertifizierung für athletenorientierte Nahrungsergänzungsmittel. Sie ist die **MVP-Priorität** (Stufe 1) im dreistufigen [[Certification Roadmap Performance Coffee Brand|Zertifizierungs-Roadmap]] der [[Performance Coffee Brand]].
 
-## What It Tests
+## Was geprüft wird
 
-- Screens products against **~1,400 banned substances** from the [[WADA Prohibited List]]
-- Focus: confirming products are free of contamination with doping-relevant substances
-- Not a GMP or ISO quality management standard — purely a contamination screening
-- Run by accredited laboratories ([[Eurofins]], [[Fresenius]] and others)
-- Registration and listing via **koelnerliste.de**
+- Prüfung von Produkten auf **~1.400 verbotene Substanzen** der [[WADA Prohibited List]]
+- Schwerpunkt: Bestätigung, dass Produkte frei von Kontaminationen mit dopingrelevanten Substanzen sind
+- Kein GMP- oder ISO-Qualitätsmanagementsystem — ausschließlich ein Kontaminationsscreening
+- Durchgeführt von akkreditierten Laboratorien ([[Eurofins]], [[Fresenius]] und anderen)
+- Registrierung und Listung über **koelnerliste.de**
 
-## Why It Matters for Performance Coffee Brand
+## Warum die Kölner Liste für die Performance Coffee Brand relevant ist
 
-| Dimension | Value |
+| Dimension | Wert |
 |---|---|
-| **Market** | DACH (Germany, Austria, Switzerland) |
-| **Target customer** | Athletes, CrossFit community, Hyrox participants |
-| **Trust signal** | Athletes look for Kölner Liste when buying supplements |
-| **Retailer access** | Required for many German sports retailers and CrossFit boxes |
-| **Anti-doping compliance** | Demonstrates product safety for competitive athletes |
+| **Markt** | DACH (Deutschland, Österreich, Schweiz) |
+| **Zielkunde** | Athleten, CrossFit-Community, Hyrox-Teilnehmer |
+| **Vertrauenssignal** | Athleten achten beim Kauf von Supplementen auf die Kölner Liste |
+| **Händlerzugang** | Voraussetzung für viele deutsche Sportfachhändler und CrossFit-Boxen |
+| **Anti-Doping-Compliance** | Belegt die Produktsicherheit für Wettkampfsportler |
 
-## Certification Process
+## Zertifizierungsprozess
 
-1. Finalize recipe + COA (Certificate of Analysis) from CMO
-2. Laboratory analysis at accredited lab (Eurofins, Fresenius)
-3. Registration via koelnerliste.de
-4. Pay certification fee
-5. Listing published after 4–8 weeks
+1. Rezeptur abschließen + COA (Certificate of Analysis) vom CMO einholen
+2. Laboranalyse bei einem akkreditierten Labor (Eurofins, Fresenius)
+3. Registrierung über koelnerliste.de
+4. Zertifizierungsgebühr bezahlen
+5. Listung wird nach 4–8 Wochen veröffentlicht
 
-## Costs and Timeline
+## Kosten und Zeitrahmen
 
-| Parameter | Value |
+| Parameter | Wert |
 |---|---|
-| **Cost** | 1.500–2.500 € per SKU |
-| **Timeline** | 4–8 weeks after submission |
-| **Renewal** | Per-batch or periodic re-testing (not continuous batch-testing like [[Informed Sport]]) |
+| **Kosten** | 1.500–2.500 € pro SKU |
+| **Zeitrahmen** | 4–8 Wochen nach Einreichung |
+| **Erneuerung** | Charge- oder periodische Nachtestung (keine kontinuierliche Chargentestung wie bei [[Informed Sport]]) |
 
-## CMO Requirements
+## CMO-Anforderungen
 
-- CMO must hold **GMP certification**
-- Full ingredient declaration required before testing
-- Batch documentation required
-- Option: Use Kölner-Liste-certified raw material suppliers, OR send samples to external labs
+- CMO muss über eine **GMP-Zertifizierung** verfügen
+- Vollständige Zutatendeklaration vor der Testung erforderlich
+- Chargendokumentation erforderlich
+- Option: Verwendung von Kölner-Liste-zertifizierten Rohstofflieferanten ODER Einsendung von Proben an externe Labore
 
-## Comparison with Other Certifications
+## Vergleich mit anderen Zertifizierungen
 
-| Feature | Kölner Liste | [[Informed Sport]] | [[NSF Certified for Sport]] |
+| Merkmal | Kölner Liste | [[Informed Sport]] | [[NSF Certified for Sport]] |
 |---|---|---|---|
-| Market | DACH | EU / International | USA |
-| Stringency | Standard | Stricter | Gold standard |
-| Batch testing | Per-product | Every batch | Full audit + every batch |
-| Cost/SKU | 1.5–2.5k € | 3–6k € setup | 5–10k € |
-| Timeline | 4–8 weeks | 3–4 months | 4–6 months |
-| Priority | 🔴 MVP | 🟡 Scale | 🟢 US expansion |
+| Markt | DACH | EU / International | USA |
+| Strenge | Standard | Strenger | Goldstandard |
+| Chargentestung | Pro Produkt | Jede Charge | Vollaudit + jede Charge |
+| Kosten/SKU | 1,5–2,5k € | 3–6k € Einrichtung | 5–10k € |
+| Zeitrahmen | 4–8 Wochen | 3–4 Monate | 4–6 Monate |
+| Priorität | 🔴 MVP | 🟡 Skalierung | 🟢 US-Expansion |
 
-## Strategic Notes
+## Strategische Hinweise
 
-- Kölner Liste is the **minimum viable trust signal** for the DACH sports nutrition market
-- Without it, selling to gyms, CrossFit boxes, and Hyrox communities is significantly harder
-- The low cost and short timeline make it the natural first certification before scaling
-- It does NOT replace [[NEM Konformität]] food law compliance — that is a separate, parallel, mandatory track
+- Die Kölner Liste ist das **minimal viable Vertrauenssignal** für den DACH-Sporternährungsmarkt
+- Ohne sie ist der Vertrieb an Fitnessstudios, CrossFit-Boxen und Hyrox-Communities deutlich schwieriger
+- Die niedrigen Kosten und der kurze Zeitrahmen machen sie zur natürlichen ersten Zertifizierung vor der Skalierung
+- Sie ersetzt NICHT die [[NEM Konformität]] im Lebensmittelrecht — das ist ein separater, paralleler, verpflichtender Pfad
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — project
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — source document
-- [[Informed Sport]] — Stufe 2 (stricter, pan-European)
-- [[NSF Certified for Sport]] — Stufe 3 (US gold standard)
-- [[NEM Konformität]] — parallel mandatory food law track
-- [[CMO Sourcing Performance Coffee]] — CMO requirements
-- [[WADA Prohibited List]] — referenced substance list
+- [[Performance Coffee Brand]] — Projekt
+- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Quelldokument
+- [[Informed Sport]] — Stufe 2 (strenger, gesamteuropäisch)
+- [[NSF Certified for Sport]] — Stufe 3 (US-Goldstandard)
+- [[NEM Konformität]] — paralleler, verpflichtender Lebensmittelrechts-Pfad
+- [[CMO Sourcing Performance Coffee]] — CMO-Anforderungen
+- [[WADA Prohibited List]] — referenzierte Substanzliste

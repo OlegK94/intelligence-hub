@@ -5,18 +5,18 @@ tags: [tool, AI, LLM, automation, doktorlib, keb, knowledge-management, tech-sta
 sources: ["raw/01-Strategie-Business/DoktorLib Automation Pipeline.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Internal AI platform (Dust.tt) used in the DoktorLib pipeline as the KEB-Generator — reads Salesforce data and auto-generates the Kundenerfassungsbogen (customer registration document)
+summary: Interne KI-Plattform (Dust.tt), die in der DoktorLib-Pipeline als KEB-Generator eingesetzt wird — liest Salesforce-Daten und generiert automatisch den Kundenerfassungsbogen
 ---
 
 # Dust Agent
 
-## Overview
+## Übersicht
 
-**Dust** (dust.tt) is an internal AI platform for building AI agents connected to company data. In the [[DoktorLib Automation Pipeline]], a Dust Agent serves as the **KEB-Generator** (Phase 3): it reads all Salesforce data for a given customer and automatically generates the [[Kundenerfassungsbogen]] (KEB) — replacing the manual Excel-based process.
+**Dust** (dust.tt) ist eine interne KI-Plattform zum Aufbau von KI-Agenten, die mit Unternehmensdaten verbunden sind. In der [[DoktorLib Automation Pipeline]] fungiert ein Dust Agent als **KEB-Generator** (Phase 3): Er liest alle Salesforce-Daten eines bestimmten Kunden und generiert automatisch den [[Kundenerfassungsbogen]] (KEB) — als Ersatz für den manuellen Excel-basierten Prozess.
 
-## Role in the DoktorLib Pipeline
+## Rolle in der DoktorLib-Pipeline
 
-### Pipeline Position
+### Position in der Pipeline
 
 ```
 Vertragsunterzeichnung (Contract Signed)
@@ -28,43 +28,43 @@ Vertragsunterzeichnung (Contract Signed)
 Deployment erhält Notion-Link (kein Excel)
 ```
 
-### What It Does
+### Funktionsweise
 
-1. **Input:** Reads all structured Salesforce data for the signed customer (populated from Tally intake + IT audit + manual discovery notes)
-2. **Processing:** LLM-based generation using a custom prompt (to be written)
-3. **Output:** KEB in standard format — replacing the manually filled Excel
+1. **Input:** Liest alle strukturierten Salesforce-Daten des unterzeichnenden Kunden (befüllt aus Tally-Intake + IT-Audit + manuellen Discovery-Notizen)
+2. **Verarbeitung:** LLM-basierte Generierung mithilfe eines individuellen Prompts (noch zu erstellen)
+3. **Output:** KEB im Standardformat — ersetzt das manuell ausgefüllte Excel
 
-## Why Dust (vs. Other AI Tools)
+## Warum Dust (im Vergleich zu anderen KI-Tools)
 
-- Designated as **interne KI-Plattform** (internal AI platform) at DoktorLib
-- Designed for connecting AI agents to company data sources
-- Can be configured to read Salesforce as a data source
-- Enables structured output generation from structured data
+- Als **interne KI-Plattform** bei DoktorLib vorgesehen
+- Ausgelegt für die Verbindung von KI-Agenten mit unternehmensinternen Datenquellen
+- Kann so konfiguriert werden, dass Salesforce als Datenquelle eingebunden wird
+- Ermöglicht strukturierte Ausgabegenerierung aus strukturierten Daten
 
-## Build Status (Open Items)
+## Aufbaustatus (Offene Punkte)
 
 - [ ] Dust Agent Prompt schreiben (write the prompt)
-- [ ] Input: Define Salesforce data structure for agent
-- [ ] Output: Define KEB field structure ("noch zu definieren" — not yet defined)
-- [ ] Trigger: Contract signature (manual OR automatic via SF Stage-Change)
+- [ ] Input: Salesforce-Datenstruktur für den Agenten definieren
+- [ ] Output: KEB-Feldstruktur definieren („noch zu definieren" — not yet defined)
+- [ ] Trigger: Vertragsunterzeichnung (manuell ODER automatisch via SF Stage-Change)
 
-## Key Sequencing Note
+## Wichtiger Hinweis zur Reihenfolge
 
-The source document explicitly recommends:
-> **Tally first, Dust Prompt second** — without knowing the Tally field structure (input), a meaningful Dust Prompt cannot be written. The input defines the output.
+Das Quelldokument empfiehlt ausdrücklich:
+> **Zuerst Tally, dann Dust Prompt** — ohne Kenntnis der Tally-Feldstruktur (Input) kann kein sinnvoller Dust Prompt geschrieben werden. Der Input bestimmt den Output.
 
-This is the rationale for Phase 1 (Tally) preceding Phase 3 (Dust Agent) in the build sequence.
+Dies ist die Begründung dafür, dass Phase 1 (Tally) der Phase 3 (Dust Agent) in der Aufbaureihenfolge vorausgeht.
 
-## Relationship to Existing Wiki
+## Bezug zur bestehenden Wiki
 
-The [[DoktorLib Automation Pipeline]] entity page previously described Dust as one of two tool options (alongside Tally). This source clarifies Dust is a **separate, later-phase tool** — not an alternative to Tally.
+Die Entitätsseite der [[DoktorLib Automation Pipeline]] beschrieb Dust zuvor als eine von zwei Tool-Optionen (neben Tally). Diese Quelle stellt klar, dass Dust ein **separates Tool einer späteren Phase** ist — keine Alternative zu Tally.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[DoktorLib Automation Pipeline]] — pipeline context
-- [[DoktorLib Automation Pipeline Source Detail]] — full source
-- [[Salesforce]] — data source Dust reads from
-- [[Kundenerfassungsbogen]] — artifact Dust generates
-- [[Tally]] — upstream data collection (defines Dust's input)
-- [[DoktorLib]] — organization context
-- [[Claude Projects Setup]] — comparison: another AI tool in Oleg's stack
+- [[DoktorLib Automation Pipeline]] — Pipeline-Kontext
+- [[DoktorLib Automation Pipeline Source Detail]] — vollständige Quelle
+- [[Salesforce]] — Datenquelle, aus der Dust liest
+- [[Kundenerfassungsbogen]] — Artefakt, das Dust generiert
+- [[Tally]] — vorgelagerte Datenerfassung (definiert den Input von Dust)
+- [[DoktorLib]] — Organisationskontext
+- [[Claude Projects Setup|Claude Projects Setup]] — Vergleich: ein weiteres KI-Tool in Olegs Stack

@@ -1,20 +1,20 @@
 ---
-title: Privacy and Tech Stack Source Detail
+title: Datenschutz und Tech-Stack Quelldokument
 type: source
 tags: [tech, privacy, infrastruktur, proton, apple, brave, safari, dns, 2fa, vpn, password-manager, aktiv]
 sources: ["raw/Privat/Tech/Privacy & Tech Stack.md"]
 created: 2026-05-10
 updated: 2026-06-16
-summary: Raw source for Oleg's Privacy & Tech Stack — devices, browser rationale per device, full Proton ecosystem status table, domain/DNS config, and security measures
+summary: Rohdatenquelle für Olegs Datenschutz & Tech-Stack — Geräte, Browser-Begründung je Gerät, vollständige Proton-Ökosystem-Statustabelle, Domain/DNS-Konfiguration und Sicherheitsmaßnahmen
 ---
 
-# Privacy & Tech Stack — Source Detail
+# Datenschutz & Tech-Stack — Quelldokument
 
-## Overview
+## Überblick
 
-This source document (status: Aktiv, created: 2026-05-10) captures [[Oleg Personal Context|Oleg]]'s privacy-focused tech stack configuration across devices, browsers, the Proton ecosystem, domain/DNS setup, and security hardening.
+Dieses Quelldokument (Status: Aktiv, erstellt: 2026-05-10) erfasst [[Oleg Personal Context|Olegs]] datenschutzorientierte Tech-Stack-Konfiguration über Geräte, Browser, das Proton-Ökosystem, Domain/DNS-Einrichtung und Sicherheitshärtung hinweg.
 
-> For the entity summary and strategic context, see [[Privacy and Tech Stack]].
+> Für die Entitätszusammenfassung und den strategischen Kontext siehe [[Privacy and Tech Stack]].
 
 ## Geräte (Devices)
 
@@ -26,11 +26,11 @@ This source document (status: Aktiv, created: 2026-05-10) captures [[Oleg Person
 
 | Gerät | Browser | Begründung |
 |---|---|---|
-| Mac | Brave | Chromium-Basis, native Ad-Block, Privacy |
-| iPhone | Safari | Apple WebKit-Restriktion macht Brave auf iOS marginal besser als Chrome; Safari bleibt vorteilhafter für Apple-Integration |
+| Mac | Brave | Chromium-Basis, nativer Ad-Block, Privacy |
+| iPhone | Safari | Apples WebKit-Beschränkung macht Brave auf iOS nur marginal besser als Chrome; Safari bleibt durch Apple-Integration vorteilhafter |
 | iPad | Safari | Gleiche Logik |
 
-**Key insight:** On iOS, all browsers are forced to use WebKit (Apple's rendering engine), making privacy differences between Brave and Safari smaller than on desktop. Safari retains the advantage of deep Apple ecosystem integration (Handoff, iCloud Keychain, etc.).
+**Wichtige Erkenntnis:** Auf iOS sind alle Browser gezwungen, WebKit (Apples Rendering-Engine) zu verwenden, wodurch die Datenschutzunterschiede zwischen Brave und Safari geringer sind als auf dem Desktop. Safari behält den Vorteil der tiefen Apple-Ökosystem-Integration (Handoff, iCloud Keychain usw.).
 
 ## Proton Ecosystem
 
@@ -41,9 +41,9 @@ This source document (status: Aktiv, created: 2026-05-10) captures [[Oleg Person
 | Proton VPN | ✅ Aktiv | Kill Switch aktiviert auf allen Geräten |
 | Proton Pass | ✅ Aktiv | Migration zu Apple Passwords offen → [[Password Manager Migration]] |
 | Proton Drive | ✅ Aktiv | Für sensible Dokumente |
-| Proton Docs/Sheets | ⚠️ Aktiv | 2–3 Jahre hinter Google; nur für privacy-sensitive Inhalte |
+| Proton Docs/Sheets | ⚠️ Aktiv | 2–3 Jahre hinter Google; nur für datenschutzsensible Inhalte |
 
-**Proton Docs/Sheets status:** The `⚠️` indicates limited capability — these tools lag Google Workspace by 2–3 years in features and are used only where privacy is the overriding concern. External collaboration defaults to Google Workspace.
+**Status Proton Docs/Sheets:** Das `⚠️` weist auf eingeschränkten Funktionsumfang hin — diese Tools hinken Google Workspace funktional um 2–3 Jahre hinterher und werden nur dort eingesetzt, wo Datenschutz das ausschlaggebende Kriterium ist. Für externe Zusammenarbeit wird standardmäßig Google Workspace genutzt.
 
 ## Domain & DNS
 
@@ -51,7 +51,7 @@ This source document (status: Aktiv, created: 2026-05-10) captures [[Oleg Person
 - **DNS-Provider:** GoDaddy
 - **Konfiguration:** MX, SPF, DKIM, DMARC für Proton Mail ✅
 
-Full email authentication stack (SPF + DKIM + DMARC) is configured — this prevents email spoofing and improves deliverability for the `ok-holding.com` domain used with Proton Mail.
+Der vollständige E-Mail-Authentifizierungsstack (SPF + DKIM + DMARC) ist konfiguriert — dies verhindert E-Mail-Spoofing und verbessert die Zustellbarkeit für die mit Proton Mail genutzte Domain `ok-holding.com`.
 
 ## Sicherheit (Security)
 
@@ -62,22 +62,22 @@ Full email authentication stack (SPF + DKIM + DMARC) is configured — this prev
 | VPN Kill Switch | Aktiviert auf allen Geräten |
 | Hide-my-email Aliases | Genutzt für Registrierungen |
 
-- **Proton Sentinel:** Proton's advanced account protection feature — monitors for suspicious login attempts and adds extra verification steps
-- **Hide-my-email Aliases:** Used to register on websites without exposing the primary email address — reduces spam and data breach exposure
+- **Proton Sentinel:** Protons erweitertes Kontoschutz-Feature — überwacht verdächtige Anmeldeversuche und fügt zusätzliche Verifizierungsschritte hinzu
+- **Hide-my-email Aliases:** Wird genutzt, um sich auf Websites zu registrieren, ohne die primäre E-Mail-Adresse preiszugeben — reduziert Spam und die Exposition bei Datenpannen
 
 ## Prinzip (Guiding Principle)
 
 > *Proton für alles Datenschutzkritische. Google Workspace nur wo externe Kollaboration es erfordert (Docs-Kompatibilität). Kein Google-Ökosystem für private Daten.*
 
-## Open Items (from Source)
+## Offene Punkte (aus Quelle)
 
-- [[Password Manager Migration]]: Proton Pass → Apple Passwords migration is explicitly flagged as open
+- [[Password Manager Migration]]: Die Migration Proton Pass → Apple Passwords ist ausdrücklich als offen markiert
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Privacy and Tech Stack]] — entity summary
-- [[Password Manager Migration]] — open migration
-- [[Apple Passwords]] — migration target
-- [[Proton Pass]] — current password manager
-- [[MOC Tech und Setup]] — parent MOC
-- [[Oleg Personal Context]] — stack owner
+- [[Privacy and Tech Stack]] — Entitätszusammenfassung
+- [[Password Manager Migration]] — offene Migration
+- [[Apple Passwords]] — Migrationsziel
+- [[Proton Pass]] — aktueller Passwort-Manager
+- [[MOC Tech und Setup]] — übergeordnetes MOC
+- [[Oleg Personal Context]] — Stack-Inhaber

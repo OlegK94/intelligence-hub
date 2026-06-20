@@ -1,35 +1,35 @@
 ---
-title: Performance Coffee Brand CLAUDE Project Context
+title: Performance Coffee Brand CLAUDE Projektkontext
 type: source
 tags: [business, coffee, functional-beverage, longevity, biohacking, supplement, berlin, oleg, project-context, claude-code, NMN, urolithin-a, spermidine, chlorogenic-acid, trigonellin, hyrox, blueprint, bryan-johnson]
 sources: ["raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Claude Code project context file for the Performance Coffee Brand — functional coffee / longevity-stack instant sachet concept targeting athletes, executives, and biohackers; white space identified in Bryan Johnson's Blueprint product lineup
+summary: Claude Code Projektkontextdatei für die Performance Coffee Brand — funktionaler Kaffee / Longevity-Stack Instant-Sachet-Konzept für Athleten, Führungskräfte und Biohacker; identifizierte Marktlücke im Blueprint-Produktportfolio von Bryan Johnson
 ---
 
-# Performance Coffee Brand — CLAUDE Project Context
+# Performance Coffee Brand — CLAUDE Projektkontext
 
-## Overview
+## Überblick
 
-This source document is the persistent project context file (`CLAUDE.md`) for the **Performance Coffee Brand** — a functional beverage startup concept being developed by [[Oleg Personal Context|Oleg]] from Berlin. It serves as the session-initialization file for Claude Code sessions, maintaining project state across interactions.
+Dieses Quelldokument ist die persistente Projektkontextdatei (`CLAUDE.md`) für die **Performance Coffee Brand** — ein Konzept für ein funktionales Getränke-Startup, das von [[Oleg Personal Context|Oleg]] aus Berlin entwickelt wird. Es dient als Initialisierungsdatei für Claude Code-Sitzungen und sichert den Projektstatus zwischen den einzelnen Interaktionen.
 
-> For the entity summary and strategic positioning, see [[Performance Coffee Brand]].
-> For the founder profile, see [[Oleg Personal Context]].
+> Für die Entitätszusammenfassung und strategische Positionierung siehe [[Performance Coffee Brand]].
+> Für das Gründerprofil siehe [[Oleg Personal Context]].
 
-## Product Summary
+## Produktzusammenfassung
 
-- **Name:** Performance Coffee Brand (Arbeitstitel — final name: see `brand/naming_brief.md`)
-- **Category:** Functional Coffee / Performance Beverage with Longevity-Stack
+- **Name:** Performance Coffee Brand (Arbeitstitel — finaler Name: siehe `brand/naming_brief.md`)
+- **Kategorie:** Funktionaler Kaffee / Performance-Getränk mit Longevity-Stack
 - **Kernversprechen (Core Promise):** *Perform now. Live longer.*
-- **MVP Format:** Instant-Sachet (Stick-Pack)
-- **Scale Path:** RTD Can → Nespresso-kompatible Kapsel
+- **MVP-Format:** Instant-Sachet (Stick-Pack)
+- **Skalierungspfad:** RTD Can → Nespresso-kompatible Kapsel
 
-## Strategic White Space
+## Strategische Marktlücke
 
-**[[Bryan Johnson]]'s Blueprint** (blueprint.bryanjohnson.com) sells NO coffee.
+**[[Bryan Johnson]]'s Blueprint** (blueprint.bryanjohnson.com) verkauft KEINEN Kaffee.
 
-Blueprint current product range:
+Aktuelles Blueprint-Produktsortiment:
 - Longevity Mix Pulver
 - Ceremonial Matcha
 - Super Shrooms
@@ -40,82 +40,82 @@ Blueprint current product range:
 - Omega-3
 - Collagen
 
-**Gap identified:** Bryan Johnson removed coffee from his personal protocol, but his community **continues drinking coffee** and seeks a Blueprint-compatible product. The white space = *"The Longevity Coffee Blueprint doesn't make."*
+**Identifizierte Lücke:** Bryan Johnson hat Kaffee aus seinem persönlichen Protokoll gestrichen, aber seine Community **trinkt weiterhin Kaffee** und sucht nach einem Blueprint-kompatiblen Produkt. Die Marktlücke = *„Der Longevity-Kaffee, den Blueprint nicht herstellt."*
 
-Quality reference bar (Blueprint standard): *"Science-backed, precision-dosed, every ingredient fought for its life, no pixie-dusting, no BS."*
+Qualitätsreferenz (Blueprint-Standard): *„Wissenschaftlich fundiert, präzise dosiert, jede Zutat hat sich ihren Platz verdient — kein Pixie-Dusting, kein Unsinn."*
 
-## Target Audience (3 Segments)
+## Zielgruppe (3 Segmente)
 
-| Segment | Use Case |
+| Segment | Anwendungsfall |
 |---|---|
 | **Athleten** (Hyrox, CrossFit, Triathlon) | Pre-Workout + Longevity-Stack |
-| **Business / Executive** | Morning Deep Work, sustained energy without crash |
-| **Biohacker / Blueprint-Follower** | Daily NMN, Urolithin A, Spermidine intake |
+| **Business / Executive** | Morgendliche Deep Work, anhaltende Energie ohne Crash |
+| **Biohacker / Blueprint-Follower** | Tägliche Einnahme von NMN, Urolithin A, Spermidine |
 
-**Founder Context:** Oleg Kober, Berlin. Sales at Doctolib GmbH. 188cm, 96.7kg, 20.3% KF, active Hyrox athlete. Aerobic capacity as primary limiter. Reference framework: [[Bryan Johnson]], [[Andrew Huberman]], Peter Attia.
+**Gründerkontext:** Oleg Kober, Berlin. Vertrieb bei Doctolib GmbH. 188 cm, 96,7 kg, 20,3 % KF, aktiver Hyrox-Athlet. Aerobe Kapazität als primärer Leistungslimiter. Referenzrahmen: [[Bryan Johnson]], [[Andrew Huberman]], Peter Attia.
 
-## Known Critical Points
+## Bekannte kritische Punkte
 
-### Regulatory Issues
+### Regulatorische Probleme
 
-| Ingredient | Issue |
+| Zutat | Problem |
 |---|---|
-| **NMN** | EU Novel Food status 2025/2026 unclear → must clarify BEFORE stack decision |
-| **Urolithin A** | Amazentis/Timeline Nutrition holds Mitopure patent → license or find alternative |
-| **Spermidine** (wheat germ) | Novel Food status in Germany — to be checked |
-| **NR (Nicotinamide Riboside)** | Chromadex NIAGEN patent → IP check required |
-| **Huperzin A** | **Banned as food ingredient in Germany** |
+| **NMN** | EU Novel Food-Status 2025/2026 unklar → muss VOR der Stack-Entscheidung geklärt werden |
+| **Urolithin A** | Amazentis/Timeline Nutrition hält Mitopure-Patent → Lizenz einholen oder Alternative finden |
+| **Spermidine** (Weizenkeime) | Novel Food-Status in Deutschland — zu prüfen |
+| **NR (Nicotinamide Riboside)** | Chromadex NIAGEN-Patent → IP-Prüfung erforderlich |
+| **Huperzin A** | **In Deutschland als Lebensmittelzutat verboten** |
 
-### Certification Priority
+### Zertifizierungspriorität
 
-1. **[[Kölner Liste]]** — DACH standard, cheapest option, immediately sensible
-2. **[[Informed Sport]]** — pan-European, for EU scaling
-3. **[[NSF Certified for Sport]]** — only relevant for US expansion
+1. **[[Kölner Liste]]** — DACH-Standard, günstigste Option, sofort sinnvoll
+2. **[[Informed Sport]]** — europaweit, für EU-Skalierung
+3. **[[NSF Certified for Sport]]** — nur für US-Expansion relevant
 
-### Sensory / Production Challenges
+### Sensorische / Produktionstechnische Herausforderungen
 
-| Issue | Solution |
+| Problem | Lösung |
 |---|---|
-| NAC: sulfur smell | Flavorist for masking — mandatory |
-| Curcumin: hydrophobic | Liposomal or micellar form for solubility |
-| NMN/NR: oxidation-sensitive | Protective gas sealing in sachet |
-| Mushroom extracts: bitter | Roast degree + coffee base as natural masking |
-| Roast preference | **Light/Medium Roast**: maximizes chlorogenic acid + trigonellin |
+| NAC: Schwefelgeruch | Flavorist zur Maskierung — zwingend erforderlich |
+| Curcumin: hydrophob | Liposomale oder mizellare Form für Löslichkeit |
+| NMN/NR: oxidationsempfindlich | Schutzgasversiegelung im Sachet |
+| Pilzextrakte: bitter | Röstgrad + Kaffeebasis als natürliche Maskierung |
+| Röstpräferenz | **Hell/Medium Roast**: maximiert Chlorogensäure + Trigonellin |
 
-### Coffee as Longevity Ingredient
+### Kaffee als Longevity-Zutat
 
-- **Trigonellin** in coffee = natural NMN precursor (2024 research)
-- **Chlorogenic acid:** AMPK activation, insulin sensitivity
-- **Light Roast** maximizes both compounds
-- **Vietnamese Robusta:** highest caffeine content + highest chlorogenic acid
+- **Trigonellin** in Kaffee = natürlicher NMN-Vorläufer (Forschung 2024)
+- **Chlorogensäure:** AMPK-Aktivierung, Insulinsensitivität
+- **Helle Röstung** maximiert beide Verbindungen
+- **Vietnamesischer Robusta:** höchster Koffeingehalt + höchste Chlorogensäure
 
-## Module Status
+## Modulstatus
 
-| # | Module | Status | File |
+| # | Modul | Status | Datei |
 |---|---|---|---|
-| 0 | Longevity Science Fundamentals | ✅ Complete | `research/01_longevity_science.md` |
-| 1 | Ingredient Database | ⬜ Empty | `research/02_ingredienzen_db.md` |
-| 2 | Coffee Specification | ⬜ Empty | `research/03_kaffee_specs.md` |
-| 3 | Market Analysis + Competition | ⬜ Empty | `research/04_marktanalyse.md` |
-| 4 | Prototype Partners | ⬜ Empty | `research/05_prototyp_partner.md` |
-| 5 | Regulatory + IP | ⬜ Empty | `research/06_regulatorik.md` |
-| 6 | Business Case + Unit Economics | ⬜ Empty | `research/07_business_case.md` |
-| 7 | Brand & Naming | ⬜ Empty | `brand/naming_brief.md` |
-| 8 | IP & Patent Landscape | ⬜ Empty | `legal/ip_landscape.md` |
-| 9 | Unit Economics Model | ⬜ Empty | `models/unit_economics.py` |
+| 0 | Longevity Science Grundlagen | ✅ Abgeschlossen | `research/01_longevity_science.md` |
+| 1 | Zutaten-Datenbank | ⬜ Leer | `research/02_ingredienzen_db.md` |
+| 2 | Kaffeespezifikation | ⬜ Leer | `research/03_kaffee_specs.md` |
+| 3 | Marktanalyse + Wettbewerb | ⬜ Leer | `research/04_marktanalyse.md` |
+| 4 | Prototyp-Partner | ⬜ Leer | `research/05_prototyp_partner.md` |
+| 5 | Regulatorik + IP | ⬜ Leer | `research/06_regulatorik.md` |
+| 6 | Business Case + Unit Economics | ⬜ Leer | `research/07_business_case.md` |
+| 7 | Marke & Naming | ⬜ Leer | `brand/naming_brief.md` |
+| 8 | IP & Patentlandschaft | ⬜ Leer | `legal/ip_landscape.md` |
+| 9 | Unit Economics Model | ⬜ Leer | `models/unit_economics.py` |
 
-**Key Blocker:** Regulatory module (5) must precede stack decision — especially NMN Novel Food status.
+**Zentraler Blocker:** Das Regulatorik-Modul (5) muss vor der Stack-Entscheidung abgeschlossen sein — insbesondere der NMN Novel Food-Status.
 
-## Project File Structure
+## Projektdateistruktur
 
 ```
 performance-cafe/
-├── CLAUDE.md                    ← source document (this page)
+├── CLAUDE.md                    ← Quelldokument (diese Seite)
 ├── .cursor/rules/
 │   └── performance_cafe.mdc
 ├── research/
 │   ├── 00_master_brief.md
-│   ├── 01_longevity_science.md  ← COMPLETE
+│   ├── 01_longevity_science.md  ← ABGESCHLOSSEN
 │   ├── 02_ingredienzen_db.md
 │   ├── 03_kaffee_specs.md
 │   ├── 04_marktanalyse.md
@@ -136,27 +136,27 @@ performance-cafe/
     └── certification_roadmap.md
 ```
 
-## Working Conventions
+## Arbeitskonventionen
 
-- **Language:** Always respond in German
-- **Format:** Markdown with Frontmatter (`status`, `priority`, `date`, `modul`)
-- **Quality Standard:** Concrete companies, dosages, prices, contacts — no generalities
-- **Sources:** Use web_search, prefer 2024/2025 data
-- **Output:** Always write to the corresponding module file, not just chat
-- **Blockers:** Explicitly mark module dependencies
-- **Questions:** Clarify briefly, don't silently optimize
+- **Sprache:** Immer auf Deutsch antworten
+- **Format:** Markdown mit Frontmatter (`status`, `priority`, `date`, `modul`)
+- **Qualitätsstandard:** Konkrete Unternehmen, Dosierungen, Preise, Kontakte — keine Verallgemeinerungen
+- **Quellen:** web_search verwenden, bevorzugt Daten aus 2024/2025
+- **Output:** Immer in die entsprechende Moduldatei schreiben, nicht nur in den Chat
+- **Blocker:** Modulabhängigkeiten explizit kennzeichnen
+- **Rückfragen:** Kurz klären, nicht stillschweigend optimieren
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — entity summary page
-- [[Bryan Johnson]] — white space reference and quality benchmark
-- [[Andrew Huberman]] — scientific framework reference
-- [[Oleg Personal Context]] — founder
-- [[Longevity Stack Ingredients]] — ingredient science concept
-- [[Functional Beverage Market]] — market context
-- [[NMN]] — key regulatory blocker ingredient
-- [[Urolithin A]] — patented ingredient (Mitopure)
-- [[Chlorogenic Acid]] — coffee longevity compound
-- [[Trigonellin]] — NMN precursor in coffee
-- [[Kölner Liste]] — primary certification target
-- [[Daily Protocol Checklist]] — Oleg's personal stack (cross-reference: `*[[Performance Coffee]] | [[Supplement Stack]]*`)
+- [[Performance Coffee Brand]] — Entitätszusammenfassungsseite
+- [[Bryan Johnson]] — Referenz für die Marktlücke und Qualitätsmaßstab
+- [[Andrew Huberman]] — wissenschaftlicher Referenzrahmen
+- [[Oleg Personal Context]] — Gründer
+- [[Longevity Stack Ingredients]] — Zutaten-Wissenschaftskonzept
+- [[Functional Beverage Market]] — Marktkontext
+- [[NMN]] — wichtigste regulatorisch kritische Zutat
+- [[Urolithin A]] — patentierte Zutat (Mitopure)
+- [[Chlorogenic Acid]] — Longevity-Verbindung in Kaffee
+- [[Trigonellin]] — NMN-Vorläufer in Kaffee
+- [[Kölner Liste]] — primäres Zertifizierungsziel
+- [[Daily Protocol Checklist]] — Olegs persönlicher Stack (Querverweise: `*[[Performance Coffee]] | [[Supplement Stack]]*`)

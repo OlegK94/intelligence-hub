@@ -5,24 +5,24 @@ tags: [template, claude, performance, training, nutrition, hyrox, longevity, sup
 sources: ["raw/Privat/Finanzen/Templates/Claude Session – Performance.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Reusable Claude session template for Oleg's Performance & Leben domain — includes persistent context block with body metrics, and five session-type sub-templates covering training plans, nutrition tracking, supplement checks, bloodwork interpretation, and Hyrox-specific blocks
+summary: Wiederverwendbares Claude-Session-Template für Olegs Performance & Leben Domain — enthält einen persistenten Kontextblock mit Körperkennzahlen sowie fünf Session-Typ-Subtemplates für Trainingspläne, Ernährungs-Tracking, Supplement-Checks, Blutbild-Interpretation und Hyrox-spezifische Blöcke
 ---
 
 # Claude Session Template — Performance
 
-## Overview
+## Überblick
 
-This source document is a reusable prompt template for [[Oleg Personal Context|Oleg]]'s **Performance & Leben** Claude project (see [[Claude Projects Setup]]). It is designed so that new sessions always start with a persistent context block — eliminating repeated re-explanation of baseline metrics — followed by a specific session-type template.
+Dieses Quelldokument ist ein wiederverwendbares Prompt-Template für [[Oleg Personal Context|Olegs]] **Performance & Leben** Claude-Projekt (siehe [[Claude Projects Setup]]). Es ist so konzipiert, dass neue Sessions stets mit einem persistenten Kontextblock beginnen — wodurch das wiederholte Erklären von Basiskennzahlen entfällt — gefolgt von einem spezifischen Session-Typ-Template.
 
-The template is stored at `raw/Privat/Finanzen/Templates/Claude Session – Performance.md` (note: filed under Finanzen/Templates, though content is performance-domain).
+Das Template ist gespeichert unter `raw/Privat/Finanzen/Templates/Claude Session – Performance.md` (Hinweis: abgelegt unter Finanzen/Templates, obwohl der Inhalt zur Performance-Domain gehört).
 
-> For the broader Claude Projects architecture, see [[Claude Projects Setup]] and [[Claude Projects Setup Source Detail]].
+> Zur übergeordneten Claude-Projects-Architektur siehe [[Claude Projects Setup]] und [[Claude Projects Setup Source Detail]].
 
 ---
 
-## Persistent Context Block
+## Persistenter Kontextblock
 
-The following context block is designed to be pasted at the top of every new conversation:
+Der folgende Kontextblock ist dafür vorgesehen, am Anfang jeder neuen Konversation eingefügt zu werden:
 
 ```
 KONTEXT — NICHT NEU ERKLÄREN
@@ -50,128 +50,128 @@ Ton: Direkt, konkret, kein Wellness-Bullshit. Deutsch.
 
 ---
 
-## Key Data Points Confirmed by This Source
+## Durch diese Quelle bestätigte Schlüsselkennzahlen
 
-This template independently confirms the following metrics, consistent with [[3D Body Scan Scaneca Mai 2026]]:
+Dieses Template bestätigt unabhängig die folgenden Kennzahlen, konsistent mit [[3D Body Scan Scaneca Mai 2026]]:
 
-| Metric | Value | Consistent with Scan? |
+| Kennzahl | Wert | Konsistent mit Scan? |
 |---|---|---|
-| Age | 32 years | ✅ |
-| Location | Berlin | ✅ |
-| Height | 188 cm | ✅ |
-| Weight | 96.7 kg | ✅ |
-| Body fat | 20.3% | ✅ |
-| Lean mass | 77.1 kg | ✅ |
-| Waist | 97.2 cm | ✅ |
-| Waist-hip ratio | 0.92 | ✅ (consistent with waist 97.2 / hip 105.5 = 0.922) |
-| BMR | 2,113 kcal | ✅ |
-| Daily calorie target | ~2,800 kcal | ✅ |
-| Forward head posture | ~30° | ✅ |
-| Scan date | 29.05.2026 | ✅ |
+| Alter | 32 Jahre | ✅ |
+| Standort | Berlin | ✅ |
+| Größe | 188 cm | ✅ |
+| Gewicht | 96,7 kg | ✅ |
+| Körperfett | 20,3 % | ✅ |
+| Lean Mass | 77,1 kg | ✅ |
+| Taillenumfang | 97,2 cm | ✅ |
+| Taille-Hüfte-Ratio | 0,92 | ✅ (konsistent mit Taille 97,2 / Hüfte 105,5 = 0,922) |
+| Grundumsatz | 2.113 kcal | ✅ |
+| Tägliches Kalorienziel | ~2.800 kcal | ✅ |
+| Kopfvorneigung | ~30° | ✅ |
+| Scan-Datum | 29.05.2026 | ✅ |
 
-### ⚠️ Minor Data Point: Protein Target
+### ⚠️ Kleinere Abweichung: Protein-Zielwert
 
-This template states **~220 g/day** protein target. The [[3D Body Scan Scaneca Mai 2026]] entity page states **195–200g/day**, and [[BMR and TDEE]] uses the same 195–200g figure derived from the scan document.
+Dieses Template gibt **~220 g/Tag** als Proteinziel an. Die Entitätsseite [[3D Body Scan Scaneca Mai 2026]] nennt **195–200 g/Tag**, und [[BMR and TDEE]] verwendet denselben aus dem Scan-Dokument abgeleiteten Wert von 195–200 g.
 
-> ⚠️ **Contradiction noted:** Protein target discrepancy — scan/protocol pages state 195–200 g/day; this template states ~220 g/day. The template may represent an updated or rounded-up target (possibly set after the scan), or a different calculation method (e.g., 2.3g per kg body weight × 96.7 kg ≈ 222 g vs. lean-mass-based calculation of ~2.6g/kg lean mass × 77.1 kg ≈ 200 g). The 220g figure is body-weight-based; 195–200g is lean-mass-based. **Both are valid approaches.** The template's 220g figure should be noted as the operationally used target in Claude sessions.
+> ⚠️ **Widerspruch festgestellt:** Abweichung beim Proteinziel — Scan- und Protokollseiten nennen 195–200 g/Tag; dieses Template gibt ~220 g/Tag an. Das Template repräsentiert möglicherweise ein aktualisiertes oder aufgerundetes Ziel (eventuell nach dem Scan festgelegt) oder eine andere Berechnungsmethode (z. B. 2,3 g pro kg Körpergewicht × 96,7 kg ≈ 222 g gegenüber der Lean-Mass-basierten Berechnung von ~2,6 g/kg Lean Mass × 77,1 kg ≈ 200 g). Der 220-g-Wert basiert auf dem Körpergewicht; 195–200 g basieren auf der Lean Mass. **Beide Ansätze sind valide.** Der 220-g-Wert des Templates sollte als operativ genutztes Ziel in Claude-Sessions vermerkt werden.
 
-### ⚠️ New Data Point: WHR Target and Bilateral Asymmetry
+### ⚠️ Neue Datenpunkte: WHR-Ziel und bilaterale Asymmetrie
 
-This template adds two data points **not previously captured** in the wiki:
+Dieses Template ergänzt zwei Datenpunkte, die **bisher nicht im Wiki erfasst** waren:
 
-1. **WHR target: <0.86** — The scan pages record WHR = 0.92 but do not specify a target WHR. This template adds the target: **<0.86**.
-2. **Bilateral asymmetry / body center of gravity shifted right** — This structural finding is not in the [[3D Body Scan Scaneca Mai 2026]] or [[3D Body Scan]] pages. It should be added to those pages.
-3. **Visceral fat distribution explicitly named** (not just inferred from WHR) — adds clinical framing.
-4. **Hauptlimitor Hyrox: Aerobe Kapazität** — explicitly names aerobic capacity as the primary limiting factor for [[Hyrox Competition]], consistent with [[Hyrox 10-Week Training]] but not previously stated as explicitly in the wiki.
-5. **Peter Attia added as reference** — The template lists Huberman, Attia, Bryan Johnson. [[Peter Attia]] appears in the wiki as a reference figure but this template confirms his explicit inclusion in Oleg's performance reference framework alongside [[Andrew Huberman]] and [[Bryan Johnson]].
+1. **WHR-Ziel: <0,86** — Die Scan-Seiten dokumentieren WHR = 0,92, nennen aber keinen Ziel-WHR. Dieses Template fügt das Ziel hinzu: **<0,86**.
+2. **Bilaterale Asymmetrie / Körperschwerpunkt nach rechts verschoben** — Dieser strukturelle Befund ist weder auf der Seite [[3D Body Scan Scaneca Mai 2026]] noch auf [[3D Body Scan]] enthalten. Er sollte dort ergänzt werden.
+3. **Viszeral-Fettverteilung explizit benannt** (nicht nur aus dem WHR abgeleitet) — ergänzt die klinische Einordnung.
+4. **Hauptlimitor Hyrox: Aerobe Kapazität** — benennt die aerobe Kapazität explizit als primären limitierenden Faktor für [[Hyrox Competition]], konsistent mit [[Hyrox 10-Week Training]], aber bisher nicht so explizit im Wiki formuliert.
+5. **Peter Attia als Referenz ergänzt** — Das Template listet Huberman, Attia, Bryan Johnson. [[Peter Attia]] taucht im Wiki als Referenzperson auf, doch dieses Template bestätigt seine explizite Aufnahme in Olegs Performance-Referenzrahmen neben [[Andrew Huberman]] und [[Bryan Johnson]].
 
 ---
 
-## Five Session-Type Templates
+## Fünf Session-Typ-Templates
 
-### 1. Trainingsplan erstellen (Training Plan Creation)
+### 1. Trainingsplan erstellen
 
-**Variables required:**
-- Verfügbare Trainingstage (training days/week)
-- Sedentäre Zeit (sedentary context: office / home office / mixed)
-- Schlaf-Routine (sleep schedule: bedtime + wake time)
-- Equipment (gym / home / both)
+**Erforderliche Variablen:**
+- Verfügbare Trainingstage (Trainingstage pro Woche)
+- Sedentäre Zeit (Arbeitskontext: Büro / Homeoffice / gemischt)
+- Schlaf-Routine (Schlafplan: Einschlaf- und Aufwachzeit)
+- Equipment (Fitnessstudio / zu Hause / beides)
 
-**Output requested:** Weekly protocol covering Zone 2 + strength + Hyrox stations + posture.
+**Angeforderter Output:** Wochenprotokoll mit Zone 2, Kraft, Hyrox-Stationen und Haltungskorrektur.
 
-This maps to [[Health Protocol Master]]'s training structure: the four components (Zone 2, strength, Hyrox-specific stations, posture correction) are exactly the building blocks of Oleg's current training split.
+Dies entspricht der Trainingsstruktur aus [[Health Protocol Master]]: Die vier Komponenten (Zone 2, Kraft, Hyrox-spezifische Stationen, Haltungskorrektur) sind genau die Bausteine von Olegs aktuellem Trainings-Split.
 
-### 2. Ernährungs-Tracking (Nutrition Tracking)
+### 2. Ernährungs-Tracking
 
-**Variables required:**
-- Description of meals eaten that day
+**Erforderliche Variablen:**
+- Beschreibung der an diesem Tag gegessenen Mahlzeiten
 
-**Output requested:** Analysis of protein target achievement, caloric balance, timing optimizations.
+**Angeforderter Output:** Analyse der Proteinzielerreichung, Kalorienbilanz, Timing-Optimierungen.
 
-This supports the daily execution layer of the [[BMR and TDEE]] framework (2,800 kcal target, ~220g protein).
+Dies unterstützt die tägliche Ausführungsebene des [[BMR and TDEE]]-Frameworks (2.800-kcal-Ziel, ~220 g Protein).
 
 ### 3. Supplement-Check
 
-**Variables required:**
-- Current supplement list
-- Bloodwork results (if available)
+**Erforderliche Variablen:**
+- Aktuelle Supplement-Liste
+- Blutbefunde (falls vorhanden)
 
-**Output requested:** Identify gaps, redundancies, and optimization opportunities.
+**Angeforderter Output:** Lücken, Redundanzen und Optimierungsmöglichkeiten identifizieren.
 
-This template directly supports [[Supplement Stack]] review sessions and bloodwork-driven protocol adjustments.
+Dieses Template unterstützt direkt [[Supplement Stack]]-Review-Sessions und blutbildgestützte Protokollanpassungen.
 
-### 4. Blutbild-Interpretation (Bloodwork Interpretation)
+### 4. Blutbild-Interpretation
 
-**Variables required:**
-- Blood draw date
-- Lab values
+**Erforderliche Variablen:**
+- Datum der Blutabnahme
+- Laborwerte
 
-**Output requested:** Interpretation against **longevity-optimal ranges** (not just standard lab reference ranges); prioritized intervention list.
+**Angeforderter Output:** Interpretation anhand **Longevity-optimaler Referenzbereiche** (nicht nur anhand der Standardlabor-Referenzbereiche); priorisierte Interventionsliste.
 
-> **Key distinction:** The template explicitly requests interpretation against longevity-optimal benchmarks, not standard lab ranges. This is consistent with the [[Oleg Personal Context]] reference framework (Attia, Huberman, Johnson) where longevity-optimal ranges often differ substantially from clinical reference ranges (e.g., ApoB <60 mg/dL for longevity vs. <130 mg/dL clinical normal).
+> **Wesentliche Unterscheidung:** Das Template fordert explizit eine Interpretation anhand Longevity-optimaler Benchmarks, nicht anhand klinischer Standardbereiche. Dies ist konsistent mit dem Referenzrahmen aus [[Oleg Personal Context]] (Attia, Huberman, Johnson), bei dem sich Longevity-optimale Bereiche häufig erheblich von klinischen Referenzbereichen unterscheiden (z. B. ApoB <60 mg/dL für Longevity gegenüber <130 mg/dL als klinischer Normwert).
 
-### 5. Hyrox-Spezifisch (Hyrox-Specific Block)
+### 5. Hyrox-Spezifisch
 
-**Variables required:**
-- Competition date / target date
-- Current weaknesses (stations / aerobic endurance / specific)
+**Erforderliche Variablen:**
+- Wettkampfdatum / Zieldatum
+- Aktuelle Schwachstellen (Stationen / aerobe Ausdauer / spezifisch)
 
-**Output requested:** Specific training block for X weeks leading up to competition.
+**Angeforderter Output:** Spezifischer Trainingsblock für X Wochen bis zum Wettkampf.
 
-This template supports [[Hyrox 10-Week Training]] planning and any future race-specific blocks.
+Dieses Template unterstützt die Planung von [[Hyrox 10-Week Training]] sowie zukünftige wettkampfspezifische Blöcke.
 
 ---
 
-## Integration with Claude Projects Architecture
+## Integration in die Claude-Projects-Architektur
 
-This template is designed for use within the **Performance & Leben** context-driven project (see [[Claude Projects Setup]]):
+Dieses Template ist für die Verwendung im kontextgesteuerten Projekt **Performance & Leben** konzipiert (siehe [[Claude Projects Setup]]):
 
-| Template Element | Claude Projects Alignment |
+| Template-Element | Ausrichtung auf Claude Projects |
 |---|---|
-| Persistent context block | Context-driven project memory supplement |
-| Direct tone, no wellness BS | Global preference: direkt, präzise |
-| German language output | Global preference: Deutsch always |
-| Evidenzbasiert framework | Project role: Elite Performance Coach |
-| Immediately actionable outputs | Global preference: sofort verwendbar |
+| Persistenter Kontextblock | Ergänzung des kontextgesteuerten Projektgedächtnisses |
+| Direkter Ton, kein Wellness-Bullshit | Globale Präferenz: direkt, präzise |
+| Deutschsprachiger Output | Globale Präferenz: immer Deutsch |
+| Evidenzbasiertes Framework | Projektrolle: Elite Performance Coach |
+| Sofort umsetzbare Ergebnisse | Globale Präferenz: sofort verwendbar |
 
-The context block functions as a **manual context inject** — compensating for limitations in cross-session memory by ensuring the AI always starts with accurate baseline data.
+Der Kontextblock fungiert als **manueller Kontext-Inject** — er kompensiert die Einschränkungen beim sitzungsübergreifenden Gedächtnis, indem er sicherstellt, dass die KI stets mit genauen Basisdaten startet.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Claude Projects Setup]] — parent AI project architecture
-- [[Claude Projects Setup Source Detail]] — full Claude project config
-- [[3D Body Scan Scaneca Mai 2026]] — source of all body metric data in context block
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — raw scan data
-- [[Health Protocol Master]] — protocol supported by these session templates
-- [[Supplement Stack]] — target of supplement-check template
-- [[BMR and TDEE]] — metabolic baseline referenced in nutrition template
-- [[Hyrox 10-Week Training]] — Hyrox-specific template application
-- [[Hyrox Competition]] — competition goal
-- [[Andrew Huberman]] — reference framework
-- [[Bryan Johnson]] — reference framework
-- [[Peter Attia]] — reference framework (added by this source)
-- [[Forward Head Posture]] — structural finding referenced in context block
-- [[Oleg Personal Context]] — subject of all templates
-- [[MOC Performance und Leben]] — parent MOC
+- [[Claude Projects Setup]] — übergeordnete KI-Projektarchitektur
+- [[Claude Projects Setup Source Detail]] — vollständige Claude-Projektkonfiguration
+- [[3D Body Scan Scaneca Mai 2026]] — Quelle aller Körperkennzahlen im Kontextblock
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Rohdaten des Scans
+- [[Health Protocol Master]] — Protokoll, das durch diese Session-Templates unterstützt wird
+- [[Supplement Stack]] — Ziel des Supplement-Check-Templates
+- [[BMR and TDEE]] — metabolische Baseline, auf die im Ernährungs-Template verwiesen wird
+- [[Hyrox 10-Week Training]] — Anwendung des Hyrox-spezifischen Templates
+- [[Hyrox Competition]] — Wettkampfziel
+- [[Andrew Huberman]] — Referenzrahmen
+- [[Bryan Johnson]] — Referenzrahmen
+- [[Peter Attia]] — Referenzrahmen (durch diese Quelle ergänzt)
+- [[Forward Head Posture]] — struktureller Befund, auf den im Kontextblock verwiesen wird
+- [[Oleg Personal Context]] — Subjekt aller Templates
+- [[MOC Performance und Leben]] — übergeordnete MOC

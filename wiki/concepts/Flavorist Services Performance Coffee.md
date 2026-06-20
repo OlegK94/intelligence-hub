@@ -1,34 +1,34 @@
 ---
-title: Flavorist Services Performance Coffee
+title: Flavorist-Dienstleistungen Performance Coffee
 type: concept
 tags: [performance-cafe, flavorist, NAC, odor-masking, Givaudan, Symrise, IFF, cyclodextrin, vanillin, sensory, formulation, ops]
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Specialized flavorist services required for NAC odor masking in Performance Coffee Brand sachets — three firms recommended (Givaudan, Symrise, IFF); technical solution combines cyclodextrins + vanillin + roast aromas; critical for product acceptability
+summary: Spezialisierte Flavorist-Dienstleistungen für die NAC-Geruchsmaskierung in Performance Coffee Brand Sachets — drei Firmen empfohlen (Givaudan, Symrise, IFF); technische Lösung kombiniert Cyclodextrine + Vanillin + Röstaromen; entscheidend für die Produktakzeptanz
 ---
 
-# Flavorist Services — Performance Coffee Brand
+# Flavorist-Dienstleistungen — Performance Coffee Brand
 
-## Overview
+## Überblick
 
-**Flavorist services** are a specialized requirement for [[Performance Coffee Brand]] due to the inclusion of **NAC (N-Acetyl-Cysteine)** in the formulation. NAC has a characteristic sulfur/eggy odor (from its thiol group) that would be unacceptable in a consumer coffee product without expert masking.
+**Flavorist-Dienstleistungen** sind eine spezialisierte Anforderung für [[Performance Coffee Brand]] aufgrund der Verwendung von **NAC (N-Acetyl-Cystein)** in der Rezeptur. NAC hat einen charakteristischen Schwefel-/Eier-Geruch (durch seine Thiolgruppe), der in einem Verbraucher-Kaffeeprodukt ohne fachkundige Maskierung nicht akzeptabel wäre.
 
-> For the full supplier list context, see [[Performance Cafe Supplier List]].
-
----
-
-## Why Flavorist Expertise Is Required
-
-**NAC (N-Acetyl-Cysteine) odor profile:**
-- NAC contains a **free thiol (–SH) group** in its molecular structure
-- Thiols are responsible for strong sulfurous odors (rotten egg, cabbage)
-- At **300mg in a 10g sachet** (3% by weight), the odor would be detectable and unpleasant without masking
-- Standard flavoring approaches are insufficient — specialized techniques required
+> Den vollständigen Lieferantenlisten-Kontext findest du unter [[Performance Cafe Supplier List|Performance Cafe Lieferantenliste]].
 
 ---
 
-## Recommended Flavorist Firms
+## Warum Flavorist-Expertise erforderlich ist
+
+**NAC (N-Acetyl-Cystein) Geruchsprofil:**
+- NAC enthält eine **freie Thiolgruppe (–SH)** in seiner Molekülstruktur
+- Thiole sind verantwortlich für starke Schwefelgerüche (faule Eier, Kohl)
+- Bei **300 mg in einem 10-g-Sachet** (3 Gewichtsprozent) wäre der Geruch ohne Maskierung wahrnehmbar und unangenehm
+- Standardmäßige Aromatisierungsansätze sind unzureichend — spezialisierte Techniken erforderlich
+
+---
+
+## Empfohlene Flavorist-Firmen
 
 | Firma | Land | Expertise |
 |---|---|---|
@@ -37,65 +37,65 @@ summary: Specialized flavorist services required for NAC odor masking in Perform
 | **IFF (International Flavors & Fragrances)** | DE/NL | Bitterness Masking Systems |
 
 ### Givaudan
-- World's largest flavor company
-- Specific **coffee masking** expertise — critical for this application (masking within a coffee matrix)
-- Swiss HQ; global development capabilities
-- Best choice for a premium product requiring nuanced sensory work
+- Weltgrößtes Aromenunternehmen
+- Spezifische **Kaffee-Masking**-Expertise — entscheidend für diese Anwendung (Maskierung innerhalb einer Kaffeematrix)
+- Schweizer Hauptsitz; globale Entwicklungskapazitäten
+- Beste Wahl für ein Premiumprodukt, das differenzierte sensorische Arbeit erfordert
 
 ### Symrise
-- German manufacturer (Holzminden, Lower Saxony)
-- **Functional beverage** specialization — direct category relevance
-- Strong in masking the "functional" off-notes that emerge when ingredients are added to beverages
+- Deutscher Hersteller (Holzminden, Niedersachsen)
+- **Functional Beverage**-Spezialisierung — direkte Kategorierelevanz
+- Stark in der Maskierung der „funktionalen" Off-Notes, die entstehen, wenn Zutaten Getränken zugesetzt werden
 
 ### IFF (International Flavors & Fragrances)
-- German/Netherlands operations
-- **Bitterness Masking Systems** — relevant because NAC also has a bitter note in addition to the sulfur note
-- Could address dual sensory challenge (sulfur + bitterness)
+- Deutschlandbetrieb/Niederlande
+- **Bitterness Masking Systems** — relevant, da NAC neben dem Schwefelton auch eine Bitternote aufweist
+- Könnte die doppelte sensorische Herausforderung adressieren (Schwefel + Bitterkeit)
 
 ---
 
-## Technical Solution Brief
+## Technische Lösungsübersicht
 
-Per the supplier list source document:
+Laut dem Quell-Dokument der Lieferantenliste:
 
 > **NAC-Brief:** 300mg NAC in 10g Kaffee-Sachet.
 > **Lösung:** Cyclodextrine + Vanillin-Maskierung + Röstaromen.
 > Flavorist muss Probe testen.
 
-### Mechanism Breakdown
+### Mechanismus im Detail
 
-| Component | Role |
+| Komponente | Rolle |
 |---|---|
-| **Cyclodextrins** | Ring-shaped oligosaccharides that **encapsulate** thiol molecules inside their hydrophobic cavity — physically trapping the odor |
-| **Vanillin** | Sweet, warm aroma that counteracts and psychologically overrides the sulfur note |
-| **Röstaromen (Roast aromas)** | Coffee roast compounds naturally contain sulfur-adjacent chemistry — can effectively mask thiol notes within a coffee matrix |
+| **Cyclodextrine** | Ringförmige Oligosaccharide, die Thiolmoleküle in ihrem hydrophoben Hohlraum **einschließen** — der Geruch wird physisch eingesperrt |
+| **Vanillin** | Süßes, warmes Aroma, das die Schwefelnote neutralisiert und psychologisch überlagert |
+| **Röstaromen** | Kaffeeröstverbindungen enthalten von Natur aus schwefelnahe Chemie — können Thiolnoten innerhalb einer Kaffeematrix effektiv maskieren |
 
-**Process:** The flavorist must work with an actual prototype sachet — not just the isolated NAC. Odor masking is highly matrix-dependent; the coffee, carrier, and other ingredients all interact.
-
----
-
-## Connection to CMO Selection
-
-The [[CMO Sourcing Performance Coffee]] criteria explicitly include:
-- *"Flavorist-Zugang (NAC-Geruchsmaskierung)"*
-
-CMO candidates with **in-house flavorists or established flavorist partnerships** are preferred. This is one reason why Prinova (Priority 1) and Lehvoss (Priority 2) rank higher — their broader ingredient processing expertise is more likely to include flavorist network access.
-
-Alternatively, the flavorist work can be commissioned separately from Givaudan/Symrise/IFF, with the resulting flavor formulation then handed to the CMO for integration.
+**Vorgehen:** Der Flavorist muss mit einem tatsächlichen Prototyp-Sachet arbeiten — nicht nur mit dem isolierten NAC. Geruchsmaskierung ist stark matrixabhängig; der Kaffee, der Träger und die anderen Zutaten interagieren alle miteinander.
 
 ---
 
-## Stack Contradiction Note
+## Zusammenhang mit der CMO-Auswahl
 
-> ⚠️ The flavorist brief specifies 300mg NAC as a known challenge in the sachet. However, NAC does not appear in the Tier-1 stack defined in [[Performance Coffee Brand Hai Onepager]]. The existence of a detailed masking brief suggests NAC was at minimum seriously considered for the formula. See [[Performance Cafe Supplier List]] for full contradiction discussion.
+Die [[CMO Sourcing Performance Coffee|CMO-Beschaffungskriterien für Performance Coffee]] beinhalten explizit:
+- *„Flavorist-Zugang (NAC-Geruchsmaskierung)"*
+
+CMO-Kandidaten mit **hauseigenen Flavoristen oder etablierten Flavorist-Partnerschaften** werden bevorzugt. Dies ist ein Grund, warum Prinova (Priorität 1) und Lehvoss (Priorität 2) höher eingestuft werden — ihre breitere Expertise in der Zutatenverarbeitung schließt mit größerer Wahrscheinlichkeit Zugang zu einem Flavorist-Netzwerk ein.
+
+Alternativ kann die Flavorist-Arbeit separat bei Givaudan/Symrise/IFF in Auftrag gegeben werden, wobei die resultierende Aromenformulierung dann dem CMO zur Integration übergeben wird.
 
 ---
 
-## Related Pages
+## Hinweis auf Stack-Widerspruch
 
-- [[Performance Cafe Supplier List]] — source document
-- [[CMO Sourcing Performance Coffee]] — CMO selection criterion
-- [[CMO Erstkontakt Email Template]] — outreach question about flavorist access
-- [[Performance Coffee Brand]] — project entity
-- [[Schutzgas-Versiegelung]] — packaging sealing (complementary preservation measure)
-- [[Ingredient Suppliers Performance Coffee]] — NAC supplier (BASF/Sigma, 25–35 €/kg)
+> ⚠️ Der Flavorist-Brief spezifiziert 300 mg NAC als bekannte Herausforderung im Sachet. NAC erscheint jedoch nicht im Tier-1-Stack, der im [[Performance Coffee Brand Hai Onepager]] definiert ist. Die Existenz eines detaillierten Masking-Briefs legt nahe, dass NAC zumindest ernsthaft für die Rezeptur in Betracht gezogen wurde. Die vollständige Widerspruchsdiskussion findest du unter [[Performance Cafe Supplier List|Performance Cafe Lieferantenliste]].
+
+---
+
+## Verwandte Seiten
+
+- [[Performance Cafe Supplier List|Performance Cafe Lieferantenliste]] — Quelldokument
+- [[CMO Sourcing Performance Coffee|CMO-Beschaffung Performance Coffee]] — CMO-Auswahlkriterium
+- [[CMO Erstkontakt Email Template|CMO Erstkontakt-E-Mail-Vorlage]] — Kontaktfrage zum Flavorist-Zugang
+- [[Performance Coffee Brand]] — Projekteinheit
+- [[Schutzgas-Versiegelung]] — Verpackungsversiegelung (ergänzende Konservierungsmaßnahme)
+- [[Ingredient Suppliers Performance Coffee|Zutatenzulieferer Performance Coffee]] — NAC-Zulieferer (BASF/Sigma, 25–35 €/kg)

@@ -1,30 +1,30 @@
 ---
-title: Cyprus Relocation Tracker Source Detail
+title: Zypern Umzugs-Tracker Quelldokument
 type: source
 tags: [cyprus, relocation, someday, auswandern, steuer, portugal, expat, finanzen, paused]
 sources: ["raw/inbox/Cyprus Relocation Tracker.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Raw source for the Cyprus/Auswandern someday tracker — paused project, not actively managed; Cyprus favored over Portugal for 50% tax exemption; budget 4,100 €/month couple + dog, startup capital 30,000–35,000 €
+summary: Rohdatenquelle für den Zypern/Auswandern-Someday-Tracker — pausiertes Projekt, nicht aktiv gepflegt; Zypern gegenüber Portugal bevorzugt wegen 50% Steuerbefreiung; Budget 4.100 €/Monat Paar + Hund, Startkapital 30.000–35.000 €
 ---
 
-# Cyprus Relocation Tracker — Source Detail
+# Zypern Umzugs-Tracker — Quelldokument
 
-## Overview
+## Überblick
 
-This source document (`raw/inbox/Cyprus Relocation Tracker.md`, updated: 2026-06-13, status: paused) captures [[Oleg Personal Context|Oleg]]'s paused relocation research for Cyprus. It is an **inbox/someday file** — not part of the active project stack.
+Dieses Quelldokument (`raw/inbox/Cyprus Relocation Tracker.md`, aktualisiert: 2026-06-13, Status: paused) erfasst [[Oleg Personal Context|Olegs]] pausierte Umzugsrecherche für Zypern. Es ist eine **Inbox/Someday-Datei** — kein Teil des aktiven Projektstapels.
 
-> For the entity summary and strategic context, see [[Cyprus Relocation]].
+> Für die Entitätszusammenfassung und den strategischen Kontext siehe [[Cyprus Relocation]].
 
-## Source Metadata
+## Quell-Metadaten
 
-| Field | Value |
+| Feld | Wert |
 |---|---|
 | Tags | cyprus, relocation, someday |
 | Status | paused — Wunsch in paar Jahren, kein aktives Projekt |
-| Updated | 2026-06-13 |
+| Aktualisiert | 2026-06-13 |
 
-## Content Summary (from Source)
+## Inhaltsübersicht (aus der Quelle)
 
 ### Kurznotiz
 
@@ -37,23 +37,23 @@ This source document (`raw/inbox/Cyprus Relocation Tracker.md`, updated: 2026-06
 - EOR, Steuerberater, Timeline neu bewerten
 - Dann neuen Tracker anlegen oder diese Datei reaktivieren
 
-## Integration Notes
+## Integrationshinweise
 
-This source is new to the wiki. Key integrations:
+Diese Quelle ist neu im Wiki. Wichtige Integrationen:
 
-1. **[[Cyprus Relocation]]** entity page created from this source
-2. **[[Café Berlin Partnership Hai]]** already flags the strategic tension between a Berlin café (Priority 1) and relocation — this source confirms the relocation is explicitly paused, consistent with that tension being unresolved rather than resolved in favor of either
-3. **[[Financial Independence]]** — the 50% tax exemption is directly relevant to long-term FI strategy
+1. **[[Cyprus Relocation]]** Entitätsseite wurde aus dieser Quelle erstellt
+2. **[[Café Berlin Partnership Hai]]** weist bereits auf die strategische Spannung zwischen einem Berliner Café (Priorität 1) und einem Umzug hin — diese Quelle bestätigt, dass der Umzug explizit pausiert ist, was mit der Spannung übereinstimmt, die eher ungelöst ist als zugunsten einer der beiden Optionen entschieden
+3. **[[Financial Independence]]** — die 50% Steuerbefreiung ist direkt relevant für die langfristige FI-Strategie
 
-## No Contradictions Found
+## Keine Widersprüche gefunden
 
-No existing wiki pages reference Cyprus specifically. The paused status is consistent with [[MOC Strategie und Business]] and [[Oleg Home MOC]] not listing it in the active priority stack.
+Keine bestehenden Wiki-Seiten verweisen explizit auf Zypern. Der pausierte Status ist konsistent damit, dass [[MOC Strategie und Business]] und [[Oleg Home MOC]] es nicht im aktiven Prioritätsstapel aufführen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Cyprus Relocation]] — entity page
-- [[Oleg Personal Context]] — subject
-- [[Café Berlin Partnership Hai]] — strategic tension
-- [[Financial Independence]] — underlying motivation
-- [[MOC Strategie und Business]] — strategic context
-- [[MOC Finanzen]] — financial planning
+- [[Cyprus Relocation]] — Entitätsseite
+- [[Oleg Personal Context]] — betreffende Person
+- [[Café Berlin Partnership Hai]] — strategische Spannung
+- [[Financial Independence]] — zugrundeliegende Motivation
+- [[MOC Strategie und Business]] — strategischer Kontext
+- [[MOC Finanzen]] — Finanzplanung

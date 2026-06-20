@@ -1,20 +1,20 @@
 ---
-title: MOC Finanzen Source Detail
+title: MOC Finanzen Quellendetail
 type: source
 tags: [MOC, finanzen, dashboard, oleg-kober, 2026, doctolib, wagglz, alg-i, fixkosten, vw-kredit, consorsbank, est-2025, ok-capital]
 sources: ["raw/Privat/Finanzen/00 MOC Finanzen.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Finance dashboard MOC for Oleg Kober — quick-reference snapshot of income, fixed costs, debt, and account balance as of June 2026; navigation hub linking all finance sub-pages
+summary: Finanz-Dashboard-MOC für Oleg Kober — Schnellübersicht über Einkommen, Fixkosten, Schulden und Kontostand per Juni 2026; Navigationszentrale mit Links zu allen Finanz-Unterseiten
 ---
 
-# MOC Finanzen — Source Detail
+# MOC Finanzen — Quellendetail
 
-## Overview
+## Überblick
 
-This source document (created 2026-06-12, status: aktiv) is [[Oleg Personal Context|Oleg]]'s top-level **Finanz-Dashboard** — a navigation hub and quick-reference snapshot for all finance-related topics covering the analysis period January 2025 – June 2026.
+Dieses Quelldokument (erstellt am 2026-06-12, Status: aktiv) ist [[Oleg Personal Context|Olegs]] übergeordnetes **Finanz-Dashboard** — eine Navigationszentrale und Schnellreferenz für alle finanzrelevanten Themen des Analysezeitraums Januar 2025 – Juni 2026.
 
-> For the synthesized finance overview entity, see [[MOC Finanzen]].
+> Die synthetisierte Finanzübersichts-Entität findest du unter [[MOC Finanzen]].
 
 ## Schnellübersicht (Quick Reference Snapshot)
 
@@ -26,55 +26,55 @@ This source document (created 2026-06-12, status: aktiv) is [[Oleg Personal Cont
 | **VW-Kredit Restschuld** | 18.858 € | bis Nov 2028 |
 | **Consorsbank Saldo** | +971,67 € | 29.05.2026 |
 
-## Navigation Structure (Linked Pages)
+## Navigationsstruktur (Verlinkte Seiten)
 
 ### Einnahmen (Income)
-- [[Doctolib 2026]] — primary employment income
-- [[Wagglz GF-Gehalt 2025]] — GF salary from Wagglz GmbH (2025)
-- [[ALG I 2025]] — Arbeitslosengeld I received in 2025
+- [[Doctolib 2026]] — primäres Arbeitseinkommen
+- [[Wagglz GF-Gehalt 2025]] — GF-Gehalt von der Wagglz GmbH (2025)
+- [[ALG I 2025]] — erhaltenes Arbeitslosengeld I im Jahr 2025
 
 ### Ausgaben (Expenses)
-- [[Fixkosten Übersicht]] — fixed cost overview (~2,200 €/month)
-- [[VW Konsumkredit]] — car loan, 18,858 € remaining until Nov 2028
+- [[Fixkosten Übersicht]] — Fixkostenübersicht (~2.200 €/Monat)
+- [[VW Konsumkredit]] — Autokredit, 18.858 € Restschuld bis Nov 2028
 
 ### Unternehmen (Companies)
-- [[Wagglz GmbH]] — former employer / GmbH context
-- [[OK Capital UG]] — Oleg's UG holding entity
-- [[Rangrücktritt §15a InsO]] — subordination agreement under insolvency law
+- [[Wagglz GmbH]] — früherer Arbeitgeber / GmbH-Kontext
+- [[OK Capital UG]] — Olegs UG-Holdinggesellschaft
+- [[Rangrücktritt §15a InsO]] — Rangrücktrittsvereinbarung nach Insolvenzrecht
 
 ### Steuern (Taxes)
-- [[ESt 2025]] — income tax filing 2025
-- [[ALG I Progressionsvorbehalt]] — tax rate escalation effect from ALG I
+- [[ESt 2025]] — Einkommensteuererklärung 2025
+- [[ALG I Progressionsvorbehalt]] — Steuererhöhungseffekt durch den Progressionsvorbehalt auf das ALG I
 
 ### Konten (Accounts)
-- [[Consorsbank Girokonto 0250120493]] — main current account, saldo +971,67 € (29.05.2026)
-- [[Wagglz Finom 2026]] — Wagglz business banking
-- [[OK Capital Finom 2026]] — OK Capital business banking
+- [[Consorsbank Girokonto 0250120493]] — Hauptgirokonto, Saldo +971,67 € (29.05.2026)
+- [[Wagglz Finom 2026]] — geschäftliches Banking Wagglz
+- [[OK Capital Finom 2026]] — geschäftliches Banking OK Capital
 
 ### Aufgaben (Tasks)
-- [[P0 Sofort]] — immediate priority tasks
-- [[P1 Diese Woche]] — this-week tasks
-- [[P2 Diesen Monat]] — this-month tasks
+- [[P0 Sofort]] — sofort zu erledigende Aufgaben
+- [[P1 Diese Woche]] — Aufgaben für diese Woche
+- [[P2 Diesen Monat]] — Aufgaben für diesen Monat
 
-## Dataview Integration
+## Dataview-Integration
 
-The source uses Obsidian Dataview to surface open P0 tasks from the `Aufgaben` folder — dynamically listing tasks where `priorität = "P0"` and `status != "erledigt"`. This is a live dashboard pattern.
+Die Quelle nutzt Obsidian Dataview, um offene P0-Aufgaben aus dem Ordner `Aufgaben` anzuzeigen — es werden dynamisch alle Aufgaben gelistet, bei denen `priorität = "P0"` und `status != "erledigt"` gilt. Dies entspricht einem Live-Dashboard-Muster.
 
-## Analysis Period
+## Analysezeitraum
 
 - **Von:** Januar 2025
 - **Bis:** Juni 2026
 - **Stand:** Juni 2026
 
-## Related Pages
+## Verwandte Seiten
 
-- [[MOC Finanzen]] — entity summary page
-- [[Oleg Personal Context]] — vault owner
-- [[Doctolib 2026]] — primary income source
-- [[Wagglz GmbH]] — prior employer
-- [[OK Capital UG]] — holding entity
-- [[ESt 2025]] — tax filing
-- [[ALG I 2025]] — benefit income
-- [[Consorsbank Girokonto 0250120493]] — main account
-- [[VW Konsumkredit]] — consumer loan
-- [[Fixkosten Übersicht]] — fixed costs
+- [[MOC Finanzen]] — Entitätszusammenfassungsseite
+- [[Oleg Personal Context]] — Vault-Inhaber
+- [[Doctolib 2026]] — primäre Einkommensquelle
+- [[Wagglz GmbH]] — früherer Arbeitgeber
+- [[OK Capital UG]] — Holdinggesellschaft
+- [[ESt 2025]] — Steuererklärung
+- [[ALG I 2025]] — Leistungseinkommen
+- [[Consorsbank Girokonto 0250120493]] — Hauptkonto
+- [[VW Konsumkredit]] — Konsumkredit
+- [[Fixkosten Übersicht]] — Fixkosten

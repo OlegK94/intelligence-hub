@@ -1,114 +1,114 @@
 ---
-title: Trigonellin NAD Precursor
+title: Trigonellin NAD-Vorläufer
 type: concept
 tags: [trigonellin, NAD+, NAD-precursor, coffee, arabica, robusta, longevity, Cell-Metabolism-2024, Yoshino, roasting, thermal-degradation, NMN, NR, performance-cafe]
 sources: ["raw/Business/PerformanceCafe/research/03_kaffee_specs.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Trigonellin — coffee alkaloid and natural NAD⁺ precursor identified by Yoshino et al. (Cell Metabolism 2024); Arabica contains more (900–1,200 mg/100g) than Robusta (600–900 mg/100g); degrades above 192°C; key argument for including Arabica in Performance Coffee blend despite Robusta's superior CGA content
+summary: Trigonellin — Kaffee-Alkaloid und natürlicher NAD⁺-Vorläufer, identifiziert von Yoshino et al. (Cell Metabolism 2024); Arabica enthält mehr (900–1.200 mg/100g) als Robusta (600–900 mg/100g); degradiert oberhalb 192°C; zentrales Argument für den Arabica-Anteil im Performance Coffee Blend trotz des überlegenen CGA-Gehalts von Robusta
 ---
 
-# Trigonellin — NAD⁺ Precursor in Coffee
+# Trigonellin — NAD⁺-Vorläufer im Kaffee
 
-## Overview
+## Überblick
 
-**Trigonellin** is an alkaloid (N-methyl-nicotinic acid, a pyridinium compound) naturally present in coffee beans. In 2024, it was identified as a **natural NAD⁺ precursor**, placing it alongside NMN ([[NMN]]) and NR (from [[Chromadex / Niagen Bioscience]]) in the NAD⁺ supplementation landscape. This makes Trigonellin a key argument for the Arabica component in [[Performance Coffee Brand]]'s blend strategy.
+**Trigonellin** ist ein Alkaloid (N-Methyl-Nikotinsäure, eine Pyridinium-Verbindung), das natürlich in Kaffeebohnen vorkommt. Im Jahr 2024 wurde es als **natürlicher NAD⁺-Vorläufer** identifiziert und damit neben NMN ([[NMN]]) und NR (von [[Chromadex / Niagen Bioscience]]) in die NAD⁺-Supplementationslandschaft eingereiht. Dies macht Trigonellin zu einem Schlüsselargument für den Arabica-Anteil in der Blend-Strategie von [[Performance Coffee Brand]].
 
-## Content by Coffee Type
+## Gehalt nach Kaffeesorte
 
-| Coffee Type | Trigonellin (mg/100g Raw Bean) |
+| Kaffeesorte | Trigonellin (mg/100g Rohbohne) |
 |---|---|
-| **Arabica** (*C. arabica*) | **900–1,200 mg** |
+| **Arabica** (*C. arabica*) | **900–1.200 mg** |
 | **Robusta** (*C. canephora*) | 600–900 mg |
 
-**Arabica contains significantly MORE Trigonellin than Robusta** — the inverse of the CGA relationship. This is the primary nutritional argument for including Arabica in the blend.
+**Arabica enthält deutlich MEHR Trigonellin als Robusta** — das Gegenteil der CGA-Beziehung. Dies ist das primäre ernährungswissenschaftliche Argument für den Arabica-Anteil im Blend.
 
-## The 2024 Research Discovery
+## Die Forschungsentdeckung von 2024
 
 **Yoshino et al. (2024), *Cell Metabolism*:**
-- Trigonellin was identified as a natural NAD⁺ precursor
-- Raises NAD⁺ levels *similarly to NR (Nicotinamide Riboside)*
-- Mechanism: Trigonellin → metabolic conversion → NAD⁺ pathway
-- This positions daily coffee consumption as a natural source of NAD⁺ support
+- Trigonellin wurde als natürlicher NAD⁺-Vorläufer identifiziert
+- Erhöht NAD⁺-Spiegel *ähnlich wie NR (Nicotinamide Riboside)*
+- Mechanismus: Trigonellin → Stoffwechselkonversion → NAD⁺-Stoffwechselweg
+- Dies positioniert den täglichen Kaffeekonsum als natürliche Quelle zur NAD⁺-Unterstützung
 
-This discovery significantly increased Trigonellin's relevance in the longevity/performance coffee context and provides a third longevity mechanism for coffee (alongside CGA and caffeine).
+Diese Entdeckung steigerte die Relevanz von Trigonellin im Kontext von Longevity/Performance Coffee erheblich und liefert einen dritten Longevity-Mechanismus für Kaffee (neben CGA und Koffein).
 
-## Thermal Degradation — Roasting
+## Thermische Degradation — Röstung
 
-Trigonellin is highly sensitive to heat — more so than CGA or caffeine:
+Trigonellin reagiert sehr empfindlich auf Hitze — stärker als CGA oder Koffein:
 
-| Röstgrad | Trigonellin-Erhalt | Notes |
+| Röstgrad | Trigonellin-Erhalt | Anmerkungen |
 |---|---|---|
-| Light Roast | **30–40%** | Best retention; above 192°C significant losses begin |
-| Medium Roast | 10–25% | Continued degradation |
-| Dark Roast | <10% | Near-complete loss |
+| Helle Röstung | **30–40%** | Beste Retention; oberhalb 192°C beginnen signifikante Verluste |
+| Mittlere Röstung | 10–25% | Fortschreitende Degradation |
+| Dunkle Röstung | <10% | Nahezu vollständiger Verlust |
 
-**Critical temperatures:**
-- Degradation begins significantly at **~192°C**
-- For maximum Trigonellin retention: keep internal bean temperature **below 210–215°C**
-- Trigonellin converts partially to **Niacin (Vitamin B3)** during roasting — this is not entirely a loss but changes the metabolic pathway
+**Kritische Temperaturen:**
+- Signifikante Degradation beginnt bei **~192°C**
+- Für maximale Trigonellin-Retention: Innentemperatur der Bohne **unter 210–215°C** halten
+- Trigonellin konvertiert während der Röstung teilweise zu **Niacin (Vitamin B3)** — dies ist kein vollständiger Verlust, verändert aber den Stoffwechselweg
 
-*Source: Bioscience, Biotechnology, and Biochemistry (1985); Food Chemistry HPLC study (1999)*
+*Quelle: Bioscience, Biotechnology, and Biochemistry (1985); Food Chemistry HPLC-Studie (1999)*
 
-### Niacin Conversion Trade-off
+### Niacin-Konversions-Kompromiss
 
-| Roast Target | Trigonellin | Niacin from conversion | NAD⁺ pathway |
+| Röst-Zielbereich | Trigonellin | Niacin aus Konversion | NAD⁺-Stoffwechselweg |
 |---|---|---|---|
-| Light (<210°C) | 30–40% | ~20–40% conversion | Via Trigonellin → NAD⁺ |
-| Medium (220–230°C) | 10–25% | ~50–70% conversion | Via Niacin → NAD⁺ (different route) |
-| Dark (>230°C) | <10% | Maximum, but Niacin also destabilizes | Minimal |
+| Hell (<210°C) | 30–40% | ~20–40% Konversion | Über Trigonellin → NAD⁺ |
+| Mittel (220–230°C) | 10–25% | ~50–70% Konversion | Über Niacin → NAD⁺ (anderer Weg) |
+| Dunkel (>230°C) | <10% | Maximum, aber Niacin destabilisiert ebenfalls | Minimal |
 
-For longevity-focused applications, preserving Trigonellin (not converting to Niacin) is preferred — Trigonellin's NAD⁺ precursor pathway may be more efficient.
+Für Longevity-fokussierte Anwendungen ist die Erhaltung von Trigonellin (statt Konversion zu Niacin) vorzuziehen — der NAD⁺-Vorläufer-Stoffwechselweg von Trigonellin könnte effizienter sein.
 
-## Processing Losses — Instant Extraction
+## Verarbeitungsverluste — Instant-Extraktion
 
-| Method | Trigonellin Retention (of post-roast) |
+| Methode | Trigonellin-Retention (nach Röstung) |
 |---|---|
-| Spray-Dried | 60–70% |
-| **Freeze-Dried** | **75–85%** |
-| Spray-Freeze-Dried | ~85% |
-| Cold Brew Freeze-Dried | 85–90% |
+| Sprühgetrocknet | 60–70% |
+| **Gefriergetrocknet** | **75–85%** |
+| Sprüh-Gefriergetrocknet | ~85% |
+| Cold Brew Gefriergetrocknet | 85–90% |
 
-## Trigonellin in the Performance Coffee Sachet
+## Trigonellin im Performance Coffee Sachet
 
-**For the [[Performance Coffee Brand]] 2g Freeze-Dried Sachet (60/40 Robusta/Arabica):**
+**Für das [[Performance Coffee Brand]] 2g Gefriergetrocknete Sachet (60/40 Robusta/Arabica):**
 
-| Processing Stage | Trigonellin |
+| Verarbeitungsstufe | Trigonellin |
 |---|---|
-| Raw coffee 2g (60/40) | ~20 mg |
-| After Medium-Light roast (×0.35) | ~7 mg |
-| After Freeze-Drying + extraction | **~3–6 mg/sachet** |
+| Rohkaffee 2g (60/40) | ~20 mg |
+| Nach hell-mittlerer Röstung (×0,35) | ~7 mg |
+| Nach Gefriertrocknung + Extraktion | **~3–6 mg/Sachet** |
 
-**No established daily reference dose** exists yet for Trigonellin as an isolated supplement — the 2024 research is recent. The sachet contribution is modest but meaningful as part of habitual daily consumption.
+**Keine etablierte Tagesreferenzdosis** existiert bisher für Trigonellin als isoliertes Supplement — die Forschung von 2024 ist noch aktuell. Der Beitrag pro Sachet ist bescheiden, aber bedeutsam als Teil des gewohnheitsmäßigen täglichen Konsums.
 
-## Strategic Implications for Performance Coffee Blend
+## Strategische Implikationen für den Performance Coffee Blend
 
-The Trigonellin argument creates the rationale for the **60/40 Robusta/Arabica blend**:
+Das Trigonellin-Argument begründet die Rationale für den **60/40 Robusta/Arabica Blend**:
 
-- Pure Robusta → maximum CGA + caffeine, but minimal Trigonellin (and NAD⁺ channel)
-- Pure Arabica → maximum Trigonellin, but low CGA + low caffeine
-- **60/40 Robusta/Arabica → optimal balance of all three channels:**
-  - CGA (AMPK/insulin pathway) — primarily from Robusta
-  - Trigonellin (NAD⁺ pathway) — contribution from Arabica
-  - Caffeine (pre-workout performance) — primarily from Robusta
+- Reiner Robusta → maximales CGA + Koffein, aber minimales Trigonellin (und NAD⁺-Kanal)
+- Reiner Arabica → maximales Trigonellin, aber niedriges CGA + niedriges Koffein
+- **60/40 Robusta/Arabica → optimale Balance aller drei Kanäle:**
+  - CGA (AMPK/Insulin-Stoffwechselweg) — hauptsächlich aus Robusta
+  - Trigonellin (NAD⁺-Stoffwechselweg) — Beitrag aus Arabica
+  - Koffein (Pre-Workout-Performance) — hauptsächlich aus Robusta
 
-## Relationship to NMN/NR
+## Beziehung zu NMN/NR
 
-| NAD⁺ Precursor | Source | Cost | Patent Status |
+| NAD⁺-Vorläufer | Quelle | Kosten | Patenstatus |
 |---|---|---|---|
-| **Trigonellin** | Natural coffee alkaloid | Embedded in coffee | None (natural compound) |
-| NMN ([[NMN]]) | Supplement | High (~€50–200+/month) | Complex IP landscape |
-| NR (NIAGEN) | Supplement | High | [[Chromadex / Niagen Bioscience]] patents |
+| **Trigonellin** | Natürliches Kaffee-Alkaloid | Im Kaffee enthalten | Keiner (natürliche Verbindung) |
+| NMN ([[NMN]]) | Supplement | Hoch (~€50–200+/Monat) | Komplexe IP-Landschaft |
+| NR (NIAGEN) | Supplement | Hoch | [[Chromadex / Niagen Bioscience]]-Patente |
 
-Trigonellin offers the NAD⁺ channel **without additional ingredient cost or IP complexity** — it's inherent in the coffee base itself.
+Trigonellin bietet den NAD⁺-Kanal **ohne zusätzliche Zutatenkosten oder IP-Komplexität** — er ist inhärent in der Kaffeebasis selbst enthalten.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Coffee Blend Ratios]] — blend optimization incorporating Trigonellin
-- [[Chlorogenic Acid]] — complementary CGA pathway
-- [[Coffee Roast Profile Longevity]] — roast temperature impact on Trigonellin
-- [[NMN]] — parallel NAD⁺ precursor
-- [[Chromadex / Niagen Bioscience]] — NR/NIAGEN IP context
-- [[Kaffee Spezifikation Modul 2]] — source document
-- [[Performance Coffee Brand]] — application
-- [[Buôn Ma Thuột Dak Lak Robusta]] — Robusta source
+- [[Coffee Blend Ratios|Kaffee-Blend-Verhältnisse]] — Blend-Optimierung unter Einbeziehung von Trigonellin
+- [[Chlorogenic Acid|Chlorogensäure]] — ergänzender CGA-Stoffwechselweg
+- [[Coffee Roast Profile Longevity|Kaffee-Röstprofil Longevity]] — Einfluss der Rösttemperatur auf Trigonellin
+- [[NMN]] — paralleler NAD⁺-Vorläufer
+- [[Chromadex / Niagen Bioscience]] — NR/NIAGEN IP-Kontext
+- [[Kaffee Spezifikation Modul 2]] — Quelldokument
+- [[Performance Coffee Brand]] — Anwendung
+- [[Buôn Ma Thuột Dak Lak Robusta]] — Robusta-Quelle

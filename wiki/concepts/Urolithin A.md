@@ -5,166 +5,166 @@ tags: [supplement, longevity, mitophagy, muscle-health, novel-food, EU, regulato
 sources: ["raw/Business/PerformanceCafe/TODO.md", "raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md", "raw/Business/PerformanceCafe/legal/ip_landscape.md", "raw/Business/PerformanceCafe/hai-onepager.md"]
 created: 2026-06-14
 updated: 2026-06-19
-summary: Urolithin A — gut microbiome-derived longevity compound; induces mitophagy (mitochondrial autophagy); patented by Amazentis as MITOPURE (50+ patents, EU Novel Food authorized 2022); critical IP + regulatory blocker for Performance Coffee Brand Tier-2 stack; pomegranate extract precursor strategy recommended for MVP
+summary: Urolithin A — Darm-Mikrobiom-abgeleitete Longevity-Verbindung; induziert Mitophagie (mitochondriale Autophagie); patentiert von Amazentis als MITOPURE (50+ Patente, EU Novel Food autorisiert 2022); kritischer IP- und regulatorischer Blocker für Performance Coffee Brand Tier-2-Stack; Granatapfelextrakt-Vorläuferstrategie für MVP empfohlen
 ---
 
 # Urolithin A
 
-## Overview
+## Überblick
 
-**Urolithin A (UA)** is a metabolite produced by gut bacteria from polyphenols found in pomegranates, berries, and nuts (specifically ellagitannins). It is notable for its ability to induce **mitophagy** — the selective autophagy (clearance) of damaged mitochondria — making it one of the most researched longevity compounds. Approximately **40% of the population** are non-producers of UA from dietary sources due to gut microbiome variation, making supplementation relevant.
+**Urolithin A (UA)** ist ein Metabolit, der von Darmbakterien aus Polyphenolen produziert wird, die in Granatäpfeln, Beeren und Nüssen vorkommen (insbesondere Ellagitannine). Es ist bekannt für seine Fähigkeit, **Mitophagie** zu induzieren — die selektive Autophagie (Beseitigung) beschädigter Mitochondrien — und gilt damit als eine der am meisten erforschten Longevity-Verbindungen. Etwa **40 % der Bevölkerung** produzieren aus der Nahrung kein UA, bedingt durch Variation im Darmmikrobiom, was eine Supplementierung relevant macht.
 
 ---
 
-## Biochemistry
+## Biochemie
 
-| Property | Detail |
+| Eigenschaft | Detail |
 |---|---|
-| **Source (natural)** | Gut microbiome conversion of ellagitannins from pomegranate, walnuts, raspberries |
-| **Precursors** | Ellagitannins → ellagic acid (hydrolysis) → urolithins (microbial conversion) |
-| **Primary mechanism** | Mitophagy activation — clears damaged mitochondria, promotes mitochondrial renewal |
-| **Secondary mechanisms** | Muscle function support; potential immune and cognitive effects |
-| **Bioavailability variation** | Significant individual variation (~40% of population are non-producers) |
+| **Quelle (natürlich)** | Darmmikrobiom-Umwandlung von Ellagitanninen aus Granatapfel, Walnüssen, Himbeeren |
+| **Vorläufer** | Ellagitannine → Ellagsäure (Hydrolyse) → Urolithine (mikrobielle Umwandlung) |
+| **Primärer Mechanismus** | Mitophagie-Aktivierung — beseitigt beschädigte Mitochondrien, fördert mitochondriale Erneuerung |
+| **Sekundäre Mechanismen** | Unterstützung der Muskelfunktion; potenzielle Auswirkungen auf Immunsystem und Kognition |
+| **Bioverfügbarkeitsvariation** | Erhebliche individuelle Variation (~40 % der Bevölkerung sind Nicht-Produzenten) |
 
-### The Ellagitannin → Urolithin A Pathway
+### Der Ellagitannin → Urolithin A Stoffwechselweg
 
 ```
-Dietary ellagitannins (pomegranate, walnuts)
-  → Hydrolysis in gut → Ellagic acid
-  → Gut microbiome conversion → Urolithin A (and other urolithins)
-  → Absorbed → Activates mitophagy in cells
+Nahrungsellagitannine (Granatapfel, Walnüsse)
+  → Hydrolyse im Darm → Ellagsäure
+  → Darmmikrobiom-Umwandlung → Urolithin A (und andere Urolithine)
+  → Aufnahme → Aktiviert Mitophagie in Zellen
 ```
 
 ---
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| **Mitophagy induction** | Selectively removes damaged mitochondria, improving mitochondrial quality |
-| **Mitochondrial biogenesis** | Stimulates growth of new, healthy mitochondria |
-| **Muscle function** | Improves muscle strength and endurance (studied in aging populations) |
-| **Anti-inflammatory** | Reduces inflammatory markers |
-| **NAD+ pathway** | Some interaction with NAD+ metabolism |
+| **Mitophagie-Induktion** | Entfernt selektiv beschädigte Mitochondrien und verbessert die mitochondriale Qualität |
+| **Mitochondriale Biogenese** | Stimuliert das Wachstum neuer, gesunder Mitochondrien |
+| **Muskelfunktion** | Verbessert Muskelkraft und Ausdauer (untersucht bei alternden Bevölkerungsgruppen) |
+| **Entzündungshemmend** | Reduziert Entzündungsmarker |
+| **NAD+-Stoffwechselweg** | Gewisse Interaktion mit dem NAD+-Stoffwechsel |
 
 ---
 
-## Clinical Evidence
+## Klinische Evidenz
 
-- Studied primarily through [[Amazentis]]'s MITOPURE program
-- Clinical doses: **500mg–1,000mg/day** (as synthetic Urolithin A)
-- Evidence base: muscle health, mitophagy biomarkers, exercise performance in middle-aged adults
-- Safety profile: well-established through Amazentis clinical program → formed basis for EU Novel Food authorization
-- Used in Bryan Johnson's Blueprint protocol
-- Considered a premium longevity ingredient alongside [[NMN]]
+- Hauptsächlich untersucht durch das MITOPURE-Programm von [[Amazentis]]
+- Klinische Dosierungen: **500 mg–1.000 mg/Tag** (als synthetisches Urolithin A)
+- Evidenzbasis: Muskelgesundheit, Mitophagie-Biomarker, sportliche Leistung bei Erwachsenen mittleren Alters
+- Sicherheitsprofil: gut belegt durch das klinische Programm von Amazentis → bildete die Grundlage für die EU Novel Food-Zulassung
+- Verwendet in Bryan Johnsons Blueprint-Protokoll
+- Gilt als Premium-Longevity-Zutat neben [[NMN]]
 
 ---
 
-## Regulatory Status — CRITICAL BLOCKER
+## Regulatorischer Status — KRITISCHER BLOCKER
 
-### EU Novel Food Authorization
+### EU Novel Food-Zulassung
 
-[[Amazentis]] obtained **EU Novel Food authorization** for Urolithin A as **MITOPURE** (application 2018-0538, authorized 2022):
-- Authorization is **proprietary** to Amazentis during the protection period (typically 5 years)
-- After proprietary period expires → authorization becomes generic
-- Third parties must either license from Amazentis or obtain own authorization (~2–5 years, €500k–2M)
-- Authorized forms: breakfast cereals, protein bars, supplements, medical foods, sports nutrition
+[[Amazentis]] erhielt die **EU Novel Food-Zulassung** für Urolithin A als **MITOPURE** (Antrag 2018-0538, zugelassen 2022):
+- Die Zulassung ist während der Schutzfrist **proprietär** gegenüber Amazentis (typischerweise 5 Jahre)
+- Nach Ablauf der proprietären Schutzfrist → Zulassung wird generisch
+- Dritte müssen entweder von Amazentis lizenzieren oder eine eigene Zulassung beantragen (~2–5 Jahre, €500k–2M)
+- Zugelassene Formen: Frühstückszerealien, Proteinriegel, Nahrungsergänzungsmittel, medizinische Lebensmittel, Sporternährung
 
-### Patent Landscape
+### Patentlandschaft
 
-[[Amazentis]] SA holds **50+ global patents**:
+[[Amazentis]] SA hält **50+ globale Patente**:
 
-| Patent | Content | Status | Expiry |
+| Patent | Inhalt | Status | Ablauf |
 |---|---|---|---|
-| **EP3087065B1** | Synthesis process for urolithins | **Active (granted)** | ~2034–2036 |
-| **EP3369420B1** | Non-therapeutic use for cognition | Active (granted) | — |
-| **EP3787615A1** | Immune enhancer | Application | — |
-| **EP3793984A1** | Therapeutic use of UA and derivatives | Application | — |
+| **EP3087065B1** | Syntheseverfahren für Urolithine | **Aktiv (erteilt)** | ~2034–2036 |
+| **EP3369420B1** | Nicht-therapeutische Verwendung für Kognition | Aktiv (erteilt) | — |
+| **EP3787615A1** | Immunverstärker | Anmeldung | — |
+| **EP3793984A1** | Therapeutische Verwendung von UA und Derivaten | Anmeldung | — |
 
-**Until ~2034–2036:** Synthetic Urolithin A cannot be legally produced in the EU without a license from Amazentis.
+**Bis ~2034–2036:** Synthetisches Urolithin A kann in der EU nicht legal ohne eine Lizenz von Amazentis hergestellt werden.
 
-**Dual barrier:** Both patent licensing AND Novel Food compliance required.
+**Doppelte Hürde:** Sowohl Patentlizenzierung als auch Novel Food-Konformität erforderlich.
 
-### What Is and Isn't Protected
+### Was geschützt ist und was nicht
 
-| Category | Examples | Status |
+| Kategorie | Beispiele | Status |
 |---|---|---|
-| **Protected** | Synthetic UA ≥97% purity, Mitopure formulation, synthesis process | Cannot use without license |
-| **Not protected** | Natural UA formed in body from ellagitannins; pomegranate/walnut extracts as precursors | **Available for use** |
-| **Grey zone** | Concentrated UA extracts from pomegranate marketed specifically as "Urolithin A" | Freedom-to-Operate analysis required |
+| **Geschützt** | Synthetisches UA ≥97 % Reinheit, Mitopure-Formulierung, Syntheseverfahren | Nicht ohne Lizenz verwendbar |
+| **Nicht geschützt** | Natürliches UA, das im Körper aus Ellagitanninen gebildet wird; Granatapfel-/Walnussextrakte als Vorläufer | **Zur Verwendung verfügbar** |
+| **Grauzone** | Konzentrierte UA-Extrakte aus Granatapfel, die spezifisch als „Urolithin A" vermarktet werden | Freedom-to-Operate-Analyse erforderlich |
 
 ---
 
-## Decision Framework (Performance Coffee Brand)
+## Entscheidungsrahmen (Performance Coffee Brand)
 
-| Option | Action | Feasibility |
+| Option | Maßnahme | Machbarkeit |
 |---|---|---|
-| **Pomegranate Extract** | Use as natural UA precursor | ✅ Recommended for MVP |
-| License from Amazentis | Negotiate cost + terms (contact: bd@timeline.as) | Unknown — cost and MOQ risk |
-| Wait for patent expiry | ~2034–2036 | Too long for MVP |
-| Self-register Novel Food | Very long + expensive process | Not viable for MVP |
-| **Remove from stack** | Default if unresolvable | ✅ Defer to Tier-2 phase |
+| **Granatapfelextrakt** | Als natürlichen UA-Vorläufer verwenden | ✅ Empfohlen für MVP |
+| Lizenz von Amazentis | Kosten und Konditionen verhandeln (Kontakt: bd@timeline.as) | Unbekannt — Kosten- und MOQ-Risiko |
+| Auf Patentablauf warten | ~2034–2036 | Zu lang für MVP |
+| Eigenständige Novel Food-Registrierung | Sehr langer und teurer Prozess | Nicht machbar für MVP |
+| **Aus dem Stack entfernen** | Standard, falls unlösbar | ✅ Auf Tier-2-Phase verschieben |
 
-**Current decision:** Urolithin A is deferred to **Tier-2 "Longevity Pro" SKU** until regulatory + IP situation is clarified.
+**Aktuelle Entscheidung:** Urolithin A wird auf die **Tier-2-„Longevity Pro"-SKU** verschoben, bis die regulatorische und IP-Situation geklärt ist.
 
-### Option A: Pomegranate Extract — Recommended for MVP
+### Option A: Granatapfelextrakt — Empfohlen für MVP
 
-Use **ellagic acid-rich pomegranate extract** (standardized to ≥40% punicalagin/ellagic acid) as a natural Urolithin A precursor:
-- **Patent risk:** None
-- **Novel Food risk:** None (established botanical extract)
-- **Cost:** ~€20–50/kg
-- **Communication:** "Supports the body's natural mitophagy activation"
-- **Suppliers:** Sabinsa Corp. (40% punicalagin), Nexira, Nutraceutix
+Verwendung von **ellagsäurereichem Granatapfelextrakt** (standardisiert auf ≥40 % Punicalagin/Ellagsäure) als natürlichen Urolithin A-Vorläufer:
+- **Patentrisiko:** Keines
+- **Novel Food-Risiko:** Keines (etablierter botanischer Extrakt)
+- **Kosten:** ~€20–50/kg
+- **Kommunikation:** „Unterstützt die natürliche Mitophagie-Aktivierung des Körpers"
+- **Lieferanten:** Sabinsa Corp. (40 % Punicalagin), Nexira, Nutraceutix
 
-→ See [[Ellagsäure Punicalagin Extrakt]] for detailed supplier and communication guidance.
+→ Siehe [[Ellagsäure Punicalagin Extrakt]] für detaillierte Lieferanten- und Kommunikationshinweise.
 
-### Option B: Timeline License — Premium Option (with Risk)
+### Option B: Timeline-Lizenz — Premium-Option (mit Risiko)
 
-License Mitopure raw material from [[Timeline Nutrition]]:
-- **Contact:** bd@timeline.as
-- **Benefit:** Premium "MITOPURE®" label, full EU Novel Food compliance
-- **Risk:** Licensing terms and MOQ may be prohibitive for early-stage startup
+Lizenzierung des Mitopure-Rohstoffs von [[Timeline Nutrition]]:
+- **Kontakt:** bd@timeline.as
+- **Vorteil:** Premium-„MITOPURE®"-Kennzeichnung, vollständige EU Novel Food-Konformität
+- **Risiko:** Lizenzbedingungen und MOQ können für ein frühphasiges Startup unerschwinglich sein
 
-### Option C: Generic Chinese Urolithin A — Not Recommended
+### Option C: Generisches chinesisches Urolithin A — Nicht empfohlen
 
-- **Patent risk:** HIGH — likely violates Amazentis EU patents
-- **Regulatory risk:** HIGH — no EU Novel Food authorization
-- **Quality risk:** Uncertain purity and identity
+- **Patentrisiko:** HOCH — verletzt wahrscheinlich Amazentis EU-Patente
+- **Regulatorisches Risiko:** HOCH — keine EU Novel Food-Zulassung
+- **Qualitätsrisiko:** Unsichere Reinheit und Identität
 
 ---
 
-## Role in Performance Coffee Brand Stack
+## Rolle im Performance Coffee Brand Stack
 
-| Stack Tier | Inclusion | Status |
+| Stack-Ebene | Aufnahme | Status |
 |---|---|---|
-| Tier-1 (Morning Performance) | Excluded | Regulatory risk too high |
-| Tier-2 (Longevity Pro SKU) | Planned — blocked | Awaiting Amazentis IP + Novel Food clarity |
+| Tier-1 (Morning Performance) | Ausgeschlossen | Regulatorisches Risiko zu hoch |
+| Tier-2 (Longevity Pro SKU) | Geplant — blockiert | Wartet auf Klärung Amazentis IP + Novel Food |
 
 ---
 
-## Comparison with Other NAD+ / Longevity Pathways
+## Vergleich mit anderen NAD+/Longevity-Stoffwechselwegen
 
-| Compound | Mechanism | IP Complexity | Regulatory (EU) | Recommendation |
+| Verbindung | Mechanismus | IP-Komplexität | Regulatorisch (EU) | Empfehlung |
 |---|---|---|---|---|
-| Urolithin A (synthetic) | Mitophagy | HIGH (Amazentis) | Proprietary authorization | License or avoid |
-| Pomegranate extract | UA precursor | NONE | Established | MVP use |
-| NMN | NAD+ precursor | LOW (substance free) | Not approved | Not for MVP |
-| NR (NIAGEN) | NAD+ precursor | MEDIUM (Niagen Bioscience) | Via ChromaDex pathway | License NIAGEN |
+| Urolithin A (synthetisch) | Mitophagie | HOCH (Amazentis) | Proprietäre Zulassung | Lizenzieren oder vermeiden |
+| Granatapfelextrakt | UA-Vorläufer | KEINE | Etabliert | MVP-Verwendung |
+| NMN | NAD+-Vorläufer | NIEDRIG (Substanz frei) | Nicht zugelassen | Nicht für MVP |
+| NR (NIAGEN) | NAD+-Vorläufer | MITTEL (Niagen Bioscience) | Über ChromaDex-Weg | NIAGEN lizenzieren |
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Amazentis]] — patent holder and entity deep-dive
-- [[Timeline Nutrition]] — Amazentis consumer brand / B2B licensing contact
-- [[Ellagsäure Punicalagin Extrakt]] — patent-free precursor alternative
-- [[EU Novel Food Regulation]] — regulatory framework
-- [[Performance Café IP Landscape Modul 8]] — source document with full patent analysis
-- [[Performance Coffee Brand]] — project where UA is being evaluated
-- [[Performance Coffee Brand TODO Master]] — source with regulatory actions
-- [[IP Risk Matrix Performance Café]] — consolidated risk assessment
-- [[NMN]] — parallel regulatory blocker
-- [[Longevity Stack Ingredients]] — ingredient framework
-- [[Bryan Johnson]] — longevity community reference (uses Urolithin A)
-- [[EU Novel Food Regulation]] — regulatory framework
-- [[Chromadex Niagen Bioscience]] — parallel IP landscape entity
+- [[Amazentis]] — Patentinhaber und detaillierte Unternehmensanalyse
+- [[Timeline Nutrition]] — Amazentis-Verbrauchermarke / B2B-Lizenzkontakt
+- [[Ellagsäure Punicalagin Extrakt]] — patentfreie Vorläuferalternative
+- [[EU Novel Food Regulation|EU Novel Food-Verordnung]] — regulatorischer Rahmen
+- [[Performance Café IP Landscape Modul 8]] — Quelldokument mit vollständiger Patentanalyse
+- [[Performance Coffee Brand]] — Projekt, in dem UA bewertet wird
+- [[Performance Coffee Brand TODO Master]] — Quelle mit regulatorischen Maßnahmen
+- [[IP Risk Matrix Performance Café]] — konsolidierte Risikobewertung
+- [[NMN]] — paralleler regulatorischer Blocker
+- [[Longevity Stack Ingredients]] — Zutatensframework
+- [[Bryan Johnson]] — Longevity-Community-Referenz (verwendet Urolithin A)
+- [[EU Novel Food Regulation|EU Novel Food-Verordnung]] — regulatorischer Rahmen
+- [[Chromadex Niagen Bioscience]] — parallele IP-Landscape-Entität

@@ -1,26 +1,26 @@
 ---
-title: Performance Overview Source Detail
+title: Performance Übersicht Quelldokument
 type: source
 tags: [performance, overview, body-composition, nutrition, hyrox, zone-2, posture, aerobic-capacity, longevity, attia, huberman, bryan-johnson]
 sources: ["raw/Privat/Performance/_vault/00 Performance-Übersicht.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: "Master performance overview document — body baseline (96.7 kg, 20.3% KFA, 77.1 kg lean mass), nutrition targets (2,800 kcal, 220 g protein), primary limitators (aerobic capacity, visceral fat, bilateral asymmetry, forward head posture), and Zone 2 + Posture unified protocol; reference framework: Huberman, Attia, Bryan Johnson"
+summary: "Zentrales Performance-Übersichtsdokument — Körper-Baseline (96,7 kg, 20,3 % KFA, 77,1 kg Lean Mass), Ernährungsziele (2.800 kcal, 220 g Protein), primäre Limitatoren (aerobe Kapazität, viszerales Fett, bilaterale Asymmetrie, Kopfvorneigung) sowie Zone 2 + Haltung als einheitliches Protokoll; Referenzrahmen: Huberman, Attia, Bryan Johnson"
 ---
 
-# Performance Overview — Source Detail
+# Performance Übersicht — Quelldokument
 
-## Overview
+## Überblick
 
-This source document (`raw/Privat/Performance/_vault/00 Performance-Übersicht.md`, status: aktiv, created: 2026-06-13) is the master performance hub in [[Oleg Personal Context|Oleg]]'s vault. It establishes equal priority for performance and finances, sets body composition targets, defines primary limitators, and frames Zone 2 cardio + postural correction as a unified protocol.
+Dieses Quelldokument (`raw/Privat/Performance/_vault/00 Performance-Übersicht.md`, Status: aktiv, erstellt: 2026-06-13) ist der zentrale Performance-Hub in [[Oleg Personal Context|Olegs]] Vault. Es legt Performance und Finanzen als gleichrangige Prioritäten fest, definiert Körperzusammensetzungsziele, benennt primäre Limitatoren und rahmt Zone 2-Cardio sowie Haltungskorrektur als einheitliches Protokoll.
 
-> For the entity summary page integrating this with broader health context, see [[Performance Overview]].
-> For the body scan data underpinning the baseline, see [[3D Body Scan Scaneca Mai 2026]].
-> For training structure, see [[Hyrox Prep]].
+> Die Entity-Zusammenfassungsseite, die dies in einen breiteren Gesundheitskontext einbettet, findet sich unter [[Performance Overview]].
+> Die dem Baseline zugrundeliegenden Body-Scan-Daten finden sich unter [[3D Body Scan Scaneca Mai 2026]].
+> Zur Trainingsstruktur siehe [[Hyrox Prep]].
 
 ---
 
-## Body Baseline (Scan: 29.05.2026, Scaneca/Labor Berlin)
+## Körper-Baseline (Scan: 29.05.2026, Scaneca/Labor Berlin)
 
 | Metrik | Wert | Ziel |
 |---|---|---|
@@ -32,99 +32,99 @@ This source document (`raw/Privat/Performance/_vault/00 Performance-Übersicht.m
 | Taille | 97,2 cm | <90 cm |
 | Taille-Hüfte-Ratio | 0,92 | **<0,86** |
 
-> ⚠️ **Target discrepancy:** This source gives a body fat target of **~14–16%**, while [[3D Body Scan Scaneca Mai 2026 Source Detail]] gives **15–17%** and [[Health Protocol Master]] gives **15%**. The 14–16% range is the most aggressive formulation. The three sources likely reflect different drafting moments; the scan source document (15–17%) is treated as most authoritative. See [[3D Body Scan Scaneca Mai 2026]] for full contradiction note.
+> ⚠️ **Zielwert-Diskrepanz:** Dieses Quelldokument gibt ein Körperfettziel von **~14–16 %** an, während [[3D Body Scan Scaneca Mai 2026 Source Detail]] **15–17 %** und [[Health Protocol Master]] **15 %** nennen. Der Bereich 14–16 % ist die ambitionierteste Formulierung. Die drei Quellen spiegeln vermutlich unterschiedliche Entstehungszeitpunkte wider; das Scan-Quelldokument (15–17 %) wird als maßgeblichste Quelle behandelt. Siehe [[3D Body Scan Scaneca Mai 2026]] für den vollständigen Widerspruchshinweis.
 
-> ⚠️ **Weight target:** This source adds an explicit weight target of **~88–90 kg** not present in the scan source. At 88–90 kg with lean mass ≥77.1 kg, implied body fat would be ~9–13 kg (10–15% KFA), which is consistent with the 14–16% range stated here.
+> ⚠️ **Gewichtsziel:** Dieses Quelldokument ergänzt ein explizites Gewichtsziel von **~88–90 kg**, das im Scan-Quelldokument nicht enthalten ist. Bei 88–90 kg mit einer Lean Mass ≥ 77,1 kg ergibt sich ein implizierter Körperfettanteil von ~9–13 kg (10–15 % KFA), was mit dem hier angegebenen Bereich von 14–16 % konsistent ist.
 
 ---
 
-## Nutrition Targets
+## Ernährungsziele
 
 | Parameter | Ziel |
 |---|---|
 | Gesamtkalorien | ~2.800 kcal/Tag |
 | Protein | ~220 g/Tag |
-| Kalorien-Protokoll | Korrigiert nach TDEE — kein aggressives Defizit |
+| Kalorienprotokoll | Korrigiert nach TDEE — kein aggressives Defizit |
 
-**Key note from source:** Original calorie estimate was too low — corrected upward via proper TDEE calculation. This aligns with [[BMR and TDEE]] where TDEE ≈ 3,645 kcal and the 2,800 kcal target represents a ~845 kcal deficit (not aggressive).
+**Wichtiger Hinweis aus der Quelle:** Die ursprüngliche Kalorienabschätzung war zu niedrig — nach oben korrigiert durch eine ordnungsgemäße TDEE-Berechnung. Dies stimmt mit [[BMR and TDEE]] überein, wo TDEE ≈ 3.645 kcal beträgt und das 2.800-kcal-Ziel ein Defizit von ~845 kcal darstellt (nicht aggressiv).
 
-Consistent with existing [[BMR and TDEE]] page — no contradiction.
+Konsistent mit der bestehenden Seite [[BMR and TDEE]] — kein Widerspruch.
 
 ---
 
-## Primary Limitators
+## Primäre Limitatoren
 
 | Status | Limitator |
 |---|---|
-| 🔴 | **Aerobe Kapazität** — self-identified primary limitor for Hyrox |
-| 🟡 | **Viszeral-Fettverteilung** — WHR 0.92 (metabolic risk) |
-| 🟡 | **Bilaterale Asymmetrie** — body CoG shifted right (hip/weight) |
-| 🟡 | **Kopfvorneigung** — ~30° Forward Head Position → breathing efficiency impaired |
+| 🔴 | **Aerobe Kapazität** — selbst identifizierter primärer Limitator für Hyrox |
+| 🟡 | **Viszerale Fettverteilung** — WHR 0,92 (metabolisches Risiko) |
+| 🟡 | **Bilaterale Asymmetrie** — Körperschwerpunkt nach rechts verschoben (Hüfte/Gewicht) |
+| 🟡 | **Kopfvorneigung** — ~30° Forward Head Position → eingeschränkte Atemeffizienz |
 
-**New framing:** Aerobic capacity is explicitly ranked as the **primary red-level limitator** for Hyrox performance — a stronger claim than previous sources which listed it as a concern without red/priority ranking.
+**Neue Einordnung:** Die aerobe Kapazität wird explizit als **primärer Limitator auf rotem Niveau** für die Hyrox-Performance eingestuft — eine stärkere Aussage als in früheren Quellen, die sie lediglich als Problemfeld ohne Rot/Prioritätseinstufung aufführten.
 
 ---
 
-## Zone 2 + Posture: Unified Protocol
+## Zone 2 + Haltung: Einheitliches Protokoll
 
-The source frames Zone 2 cardio and postural correction as a single unified protocol with four simultaneous effects:
+Die Quelle rahmt Zone 2-Cardio und Haltungskorrektur als ein einziges, einheitliches Protokoll mit vier simultanen Effekten:
 - Fettmobilisierung (fat mobilization)
 - Aerobe Kapazitätssteigerung (aerobic capacity increase)
 - Atemeffizienz (breathing efficiency)
 - Verletzungsresilienz (injury resilience)
 
-→ Details in [[Hyrox Prep]]
+→ Details unter [[Hyrox Prep]]
 
 ---
 
-## Protocol Notes
+## Protokollhinweise
 
-### Cold Application Timing
-- **Kälteanwendung nicht direkt nach Krafttraining** — suppresses hypertrophic response
-- Consistent with [[Andrew Huberman]] protocols on cold water immersion timing
+### Kälteanwendung
+- **Kälteanwendung nicht direkt nach Krafttraining** — unterdrückt die hypertrophe Reaktion
+- Konsistent mit [[Andrew Huberman|Hubermans]] Protokollen zum Timing der Kaltwasserimmersion
 
-### Zone 2 Progression Priority
-- Zone 2 has **priority over high-intensity units** until aerobic base is established
-- Confirms aerobic capacity as the critical path item
+### Zone 2 Progressionspriorität
+- Zone 2 hat **Vorrang vor hochintensiven Einheiten**, bis die aerobe Basis aufgebaut ist
+- Bestätigt die aerobe Kapazität als kritischen Pfad
 
-### ApoB Marker
-- **ApoB separat anfordern** — not included in standard panels
-- See [[Blutbild Panel]] for the 24-marker blood panel
-- This is consistent with [[Peter Attia]]'s emphasis on ApoB as a primary cardiovascular risk marker
-
----
-
-## Reference Framework
-
-The source explicitly names three reference authorities:
-- **[[Andrew Huberman]]** — neuroscience-based performance protocols
-- **[[Peter Attia]]** — longevity medicine, metabolic health, ApoB emphasis
-- **[[Bryan Johnson]]** — systematic life extension (Blueprint)
-
-> **New addition:** [[Peter Attia]] is named here as a reference framework authority for the first time in the performance vault context. He is not yet a fully developed wiki entity — see [[Peter Attia]] for the new stub page.
+### ApoB-Marker
+- **ApoB separat anfordern** — nicht in Standardpanelen enthalten
+- Siehe [[Blutbild Panel]] für das 24-Marker-Blutbild
+- Konsistent mit [[Peter Attia|Attias]] Betonung von ApoB als primärem kardiovaskulären Risikomarker
 
 ---
 
-## Outbound Links (from Source)
+## Referenzrahmen
 
-- [[Körper & Scan]] — full scan data
-- [[Hyrox Prep]] — training structure and 12-week milestones
-- [[Blutbild Panel]] — 24 markers, 4 timepoints
+Die Quelle nennt explizit drei Referenzautoritäten:
+- **[[Andrew Huberman]]** — neurowissenschaftsbasierte Performance-Protokolle
+- **[[Peter Attia]]** — Longevity-Medizin, Stoffwechselgesundheit, ApoB-Fokus
+- **[[Bryan Johnson]]** — systematische Lebensverlängerung (Blueprint)
+
+> **Neuer Zusatz:** [[Peter Attia]] wird hier erstmals als Referenzautorität im Performance-Vault-Kontext genannt. Er ist noch keine vollständig ausgearbeitete Wiki-Entity — siehe [[Peter Attia]] für die neue Stub-Seite.
 
 ---
 
-## Related Pages
+## Ausgehende Links (aus der Quelle)
 
-- [[Performance Overview]] — entity summary page
-- [[3D Body Scan Scaneca Mai 2026]] — scan baseline data
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — raw scan source
-- [[BMR and TDEE]] — metabolic metrics
-- [[Zone 2 Cardio]] — primary aerobic protocol
-- [[Forward Head Posture]] — limitator
-- [[Health Protocol Master]] — master protocol
-- [[Hyrox Prep]] — training structure
-- [[Blutbild Panel]] — blood biomarker panel
-- [[Peter Attia]] — reference authority
-- [[Andrew Huberman]] — reference authority
-- [[Bryan Johnson]] — reference authority
-- [[Oleg Personal Context]] — subject
+- [[Körper & Scan]] — vollständige Scan-Daten
+- [[Hyrox Prep]] — Trainingsstruktur und 12-Wochen-Meilensteine
+- [[Blutbild Panel]] — 24 Marker, 4 Messzeitpunkte
+
+---
+
+## Verwandte Seiten
+
+- [[Performance Overview]] — Entity-Zusammenfassungsseite
+- [[3D Body Scan Scaneca Mai 2026]] — Scan-Baselinedaten
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Rohes Scan-Quelldokument
+- [[BMR and TDEE]] — Stoffwechselkennzahlen
+- [[Zone 2 Cardio]] — primäres aerobes Protokoll
+- [[Forward Head Posture]] — Limitator
+- [[Health Protocol Master]] — Masterprotokoll
+- [[Hyrox Prep]] — Trainingsstruktur
+- [[Blutbild Panel]] — Blut-Biomarker-Panel
+- [[Peter Attia]] — Referenzautorität
+- [[Andrew Huberman]] — Referenzautorität
+- [[Bryan Johnson]] — Referenzautorität
+- [[Oleg Personal Context]] — Person

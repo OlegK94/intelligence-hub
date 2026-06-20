@@ -5,91 +5,91 @@ tags: [aufgaben, P1, finanzen, steuern, wagglz, fixkosten, 2026]
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: "Source document for Oleg's P1 (diese Woche) task list — three priority actions: ESt 2025 document collection, Wagglz strategy decision, and fixed cost optimization review"
+summary: "Quelldokument für Olegs P1-Aufgabenliste (diese Woche) — drei Prioritätsmaßnahmen: ESt-2025-Belegsammlung, Wagglz-Strategieentscheidung und Überprüfung der Fixkostenoptimierung"
 ---
 
 # P1 – Diese Woche (Source Detail)
 
-## Overview
+## Übersicht
 
-This source document (priorität: P1, aktualisiert: 2026-06-12) captures [[Oleg Personal Context|Oleg]]'s top-priority tasks for the current week in the Finanzen domain. Three items are listed, all with deadlines in late June / early July 2026.
+Dieses Quelldokument (Priorität: P1, aktualisiert: 2026-06-12) erfasst die Aufgaben mit höchster Priorität von [[Oleg Personal Context|Oleg]] für die aktuelle Woche im Bereich Finanzen. Es sind drei Punkte aufgeführt, alle mit Fristen Ende Juni / Anfang Juli 2026.
 
-> For context on individual items, see: [[ESt 2025]], [[Wagglz GmbH]], [[Fixkosten Übersicht]].
+> Zum Kontext der einzelnen Punkte siehe: [[ESt 2025]], [[Wagglz GmbH]], [[Fixkosten Übersicht]].
 
 ---
 
-## Tasks
+## Aufgaben
 
 ### 1. ESt 2025 Unterlagen sammeln & an SP STB schicken
 - **Fälligkeit:** 2026-06-30 ⏫
 - **Status:** ☐ Offen
-- **Required documents:**
+- **Benötigte Unterlagen:**
   - Wagglz Lohnsteuerbescheinigung 2025 — **noch nicht vorhanden → bei STB anfragen**
-  - ALG-I-Bescheinigung Bundesagentur (see [[ALG I 2025]])
-  - KV-Nachweise: [[HEK]] and [[Barmenia]]
+  - ALG-I-Bescheinigung Bundesagentur (siehe [[ALG I 2025]])
+  - KV-Nachweise: [[HEK]] und [[Barmenia]]
   - Rentenversicherungsnachweis
   - Spendenquittungen / Werbungskosten-Belege
-- **Linked:** [[ESt 2025]]
+- **Verknüpft:** [[ESt 2025]]
 
-> ⚠️ **Note:** The Wagglz Lohnsteuerbescheinigung 2025 is not yet available as of 2026-06-12. Oleg must request it from [[SP STB]] directly. This is consistent with [[Wagglz GF-Gehalt 2025 Source Detail]] which lists 2025 salary data but may not have generated the certificate yet.
+> ⚠️ **Hinweis:** Die Wagglz Lohnsteuerbescheinigung 2025 liegt Stand 2026-06-12 noch nicht vor. Oleg muss sie direkt beim [[SP STB]] anfordern. Dies stimmt mit [[Wagglz GF-Gehalt 2025 Source Detail]] überein, das zwar die Gehaltsdaten für 2025 enthält, die Bescheinigung aber möglicherweise noch nicht erstellt hat.
 
 ### 2. Wagglz – Strategieentscheidung treffen
 - **Fälligkeit:** 2026-07-01 ⏫
 - **Status:** ☐ Offen
-- **Context:** Kein Umsatz seit Januar 2026
-- **Options:**
+- **Kontext:** Kein Umsatz seit Januar 2026
+- **Optionen:**
   - Weiterführen (mit Konzept)
   - Auflösung
-- **Tax relevance of dissolution:** §17 EStG Verlust steuerlich nutzbar (loss can be used for tax purposes)
-- **Laufende Kosten:** ~120–255 €/Monat via [[Oleg-Darlehen]] (Oleg personal loan to company)
-- **Linked:** [[Wagglz GmbH]]
+- **Steuerliche Relevanz der Auflösung:** §17 EStG Verlust steuerlich nutzbar
+- **Laufende Kosten:** ~120–255 €/Monat via [[Oleg-Darlehen]] (persönliches Darlehen von Oleg an die Gesellschaft)
+- **Verknüpft:** [[Wagglz GmbH]]
 
 ### 3. Fixkosten-Optimierung prüfen
 - **Fälligkeit:** 2026-07-01
 - **Status:** ☐ Offen
-- **Items to review:**
-  - Apple-Abos ~45 €/Monat (utilization check)
+- **Zu prüfende Posten:**
+  - Apple-Abos ~45 €/Monat (Nutzungsprüfung)
   - YouTube Premium 23,99 €/Monat
   - Uelzener Tierversicherung 132,48 €/Monat — Alternative prüfen
-- **Current situation:** 61 % des Netto-Gehalts in Fixkosten
-- **Linked:** [[Fixkosten Übersicht]]
+- **Aktuelle Situation:** 61 % des Netto-Gehalts in Fixkosten
+- **Verknüpft:** [[Fixkosten Übersicht]]
 
 ---
 
-## Key Data Points Extracted
+## Extrahierte Kerndaten
 
-| Item | Value | Note |
+| Posten | Wert | Hinweis |
 |---|---|---|
-| Wagglz revenue since Jan 2026 | 0 € | No revenue |
-| Wagglz laufende Kosten (Oleg-Darlehen) | ~120–255 €/Monat | Monthly cash drain |
-| Apple Abos | ~45 €/Monat | Utilization unclear |
+| Wagglz Umsatz seit Jan. 2026 | 0 € | Kein Umsatz |
+| Wagglz laufende Kosten (Oleg-Darlehen) | ~120–255 €/Monat | Monatlicher Cashflow-Abfluss |
+| Apple Abos | ~45 €/Monat | Nutzung unklar |
 | YouTube Premium | 23,99 €/Monat | |
-| Uelzener Tierversicherung | 132,48 €/Monat | Largest discretionary fixcost item |
-| Fixkosten as % of Netto | **61 %** | High — optimization needed |
+| Uelzener Tierversicherung | 132,48 €/Monat | Größter diskretionärer Fixkostenposten |
+| Fixkosten in % des Netto | **61 %** | Hoch — Optimierung erforderlich |
 
 ---
 
-## Relationship to Existing Wiki Pages
+## Bezug zu bestehenden Wiki-Seiten
 
 ### ESt 2025
-The task directly triggers the [[ESt 2025]] workflow. Key addition from this source: the Wagglz Lohnsteuerbescheinigung 2025 is **not yet available**, and Oleg must request it. This is not captured in existing [[ESt 2025]] or [[Wagglz GF-Gehalt 2025 Source Detail]] pages.
+Die Aufgabe löst direkt den [[ESt 2025]]-Workflow aus. Wichtige Ergänzung aus dieser Quelle: Die Wagglz Lohnsteuerbescheinigung 2025 liegt **noch nicht vor**, und Oleg muss sie anfordern. Dies ist weder auf der bestehenden [[ESt 2025]]- noch auf der [[Wagglz GF-Gehalt 2025 Source Detail]]-Seite erfasst.
 
 ### Wagglz GmbH
-The strategy decision deadline (2026-07-01) and the §17 EStG loss harvesting option are new details. Laufende Kosten range of 120–255 €/Monat via the Oleg-Darlehen confirms ongoing cash exposure.
+Die Entscheidungsfrist (2026-07-01) und die Option zur steuerlichen Verlustnutzung nach §17 EStG sind neue Details. Der laufende Kostenrahmen von 120–255 €/Monat über das Oleg-Darlehen bestätigt das fortlaufende Cash-Exposure.
 
 ### Fixkosten Übersicht
-The 61 % Fixkostenquote and the specific line items (Uelzener, Apple, YouTube) are new granular data.
+Die Fixkostenquote von 61 % sowie die konkreten Einzelposten (Uelzener, Apple, YouTube) sind neue, granulare Daten.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[ESt 2025]] — tax filing task
-- [[SP STB]] — Steuerberater receiving documents
-- [[ALG I 2025]] — document needed for ESt 2025
-- [[HEK]] — KV-Nachweis provider
-- [[Barmenia]] — KV-Nachweis provider
-- [[Wagglz GmbH]] — strategy decision entity
-- [[Fixkosten Übersicht]] — cost optimization entity
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — task owner
+- [[ESt 2025]] — Steuererklärungs-Aufgabe
+- [[SP STB]] — Steuerberater, der die Unterlagen erhält
+- [[ALG I 2025]] — Benötigter Beleg für die ESt 2025
+- [[HEK]] — KV-Nachweis-Anbieter
+- [[Barmenia]] — KV-Nachweis-Anbieter
+- [[Wagglz GmbH]] — Gegenstand der Strategieentscheidung
+- [[Fixkosten Übersicht]] — Gegenstand der Kostenoptimierung
+- [[MOC Finanzen]] — übergeordnete Finanzen-MOC
+- [[Oleg Personal Context]] — Aufgabenverantwortlicher

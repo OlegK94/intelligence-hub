@@ -5,61 +5,61 @@ tags: [krankenversicherung, versicherung, finanzen, est-2025, private-kv, fixkos
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md", "raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Barmenia Versicherung — health insurance supplement (KV-Zusatz) costing 33 €/month in Oleg's fixed costs; also appears as one of two KV providers for ESt 2025; Barmenia also offers Tierversicherung (relevant for Uelzener comparison)
+summary: Barmenia Versicherung — Krankenversicherungs-Zusatz (KV-Zusatz) mit 33 €/Monat in Olegs Fixkosten; erscheint außerdem als einer von zwei KV-Anbietern für die ESt 2025; Barmenia bietet zudem Tierversicherung an (relevant für Vergleich mit Uelzener)
 ---
 
 # Barmenia
 
-## Overview
+## Überblick
 
-**Barmenia** is a German insurance group offering health insurance and other insurance products. In Oleg's context, Barmenia appears in two distinct roles:
-1. **KV-Zusatz** costing **33 €/month** in [[Fixkosten Übersicht]]
-2. One of [[Oleg Personal Context|Oleg]]'s two KV providers for [[ESt 2025]] (alongside [[HEK]])
+**Barmenia** ist eine deutsche Versicherungsgruppe, die Krankenversicherungen und weitere Versicherungsprodukte anbietet. In Olegs Kontext tritt Barmenia in zwei unterschiedlichen Rollen auf:
+1. **KV-Zusatz** mit **33 €/Monat** in der [[Fixkosten Übersicht]]
+2. Einer von [[Oleg Personal Context|Olegs]] zwei KV-Anbietern für die [[ESt 2025]] (neben der [[HEK]])
 
-## Fixed Cost Role
+## Rolle in den Fixkosten
 
 | Parameter | Wert |
 |---|---|
-| **Produkt** | KV-Zusatz (health insurance supplement) |
+| **Produkt** | KV-Zusatz (Krankenversicherungs-Zusatz) |
 | **Monatsbeitrag** | 33,00 € |
 | **Jahresbeitrag** | 396,00 € |
 | **Status** | Aktiv |
 
-### Insurance Stack Context
+### Kontext des Versicherungs-Stacks
 
-Oleg has two health-related insurance supplements in the fixed costs:
+Oleg hat zwei gesundheitsbezogene Zusatzversicherungen in den Fixkosten:
 
 | Anbieter | Produkt | €/Mo |
 |---|---|---|
 | Allianz | PKV Zusatz | 22,62 |
 | **Barmenia** | **KV Zusatz** | **33,00** |
 
-Combined KV-Zusatz cost: **55,62 €/month**. Both products are supplementary — Oleg appears to have standard GKV (gesetzliche Krankenversicherung) as primary coverage with two private supplementary policies.
+Kombinierte KV-Zusatz-Kosten: **55,62 €/Monat**. Beide Produkte sind ergänzender Natur — Oleg verfügt offenbar über eine Standard-GKV (gesetzliche Krankenversicherung) als Primärversicherung sowie zwei private Zusatzpolicen.
 
-> ⚠️ **Assumption [A]:** Whether Barmenia is supplementary (Zusatzversicherung) or primary PKV in Oleg's 2025 setup is inferred from the "KV-Zusatz" label. The Fixkosten Übersicht explicitly uses "KV-Zusatz" for Barmenia. However, the earlier P1 source listed Barmenia alongside HEK as co-KV providers — this could mean Barmenia was primary in 2025 but moved to supplementary, or was always supplementary. Context from ESt 2025 documents would clarify.
+> ⚠️ **Annahme [A]:** Ob Barmenia in Olegs Setup 2025 als Zusatzversicherung oder als primäre PKV fungiert, wurde aus der Bezeichnung „KV-Zusatz" abgeleitet. Die Fixkosten Übersicht verwendet für Barmenia explizit den Begriff „KV-Zusatz". In der früheren P1-Quelle wurde Barmenia jedoch gemeinsam mit HEK als Ko-KV-Anbieter aufgeführt — das könnte bedeuten, dass Barmenia 2025 primär war und später auf Zusatz umgestellt wurde, oder von Anfang an Zusatzversicherung war. Dokumente zur ESt 2025 würden hier Klarheit schaffen.
 
-## Relevance to ESt 2025
+## Relevanz für die ESt 2025
 
-- **KV-Nachweis required** for [[ESt 2025]] — health insurance contributions are Sonderausgaben-deductible
-- Oleg must request the annual Beitragsbescheinigung from Barmenia
-- The co-existence with HEK suggests Barmenia may be supplementary/Zusatzversicherung rather than primary GKV
+- **KV-Nachweis erforderlich** für die [[ESt 2025]] — Krankenversicherungsbeiträge sind als Sonderausgaben absetzbar
+- Oleg muss die jährliche Beitragsbescheinigung bei Barmenia anfordern
+- Die Koexistenz mit HEK deutet darauf hin, dass Barmenia eher eine Zusatz-/Ergänzungsversicherung als eine primäre GKV ist
 
-## Tierversicherung Potential
+## Potenzial Tierversicherung
 
-Barmenia also offers Tierversicherung (pet insurance). Given that the [[Uelzener Tierversicherung]] (132,48 €/Monat) is flagged as an optimization target in [[Fixkosten Übersicht]], Barmenia could be a comparison provider. However, this requires coverage comparison.
+Barmenia bietet ebenfalls Tierversicherungen an. Da die [[Uelzener Tierversicherung]] (132,48 €/Monat) in der [[Fixkosten Übersicht]] als Optimierungsziel markiert ist, käme Barmenia als Vergleichsanbieter infrage. Dies erfordert jedoch einen Leistungsvergleich.
 
-## Allianz Insurance Consolidation Context
+## Kontext Allianz-Versicherungskonsolidierung
 
-The Allianz PKV Zusatz (22,62 €/Mo) is already with Allianz. The [[Allianz Insurance Consolidation]] project could theoretically consolidate the Barmenia KV-Zusatz into Allianz as well — though this is not mentioned in the consolidation project sources. The RLV is explicitly excluded; KV-Zusatz policies are not mentioned.
+Der Allianz PKV Zusatz (22,62 €/Mo) liegt bereits bei der Allianz. Das Projekt [[Allianz Insurance Consolidation]] könnte theoretisch auch den Barmenia KV-Zusatz zur Allianz konsolidieren — dies wird in den Quellen zum Konsolidierungsprojekt jedoch nicht erwähnt. Die RLV ist explizit ausgeschlossen; KV-Zusatz-Policen werden nicht genannt.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Fixkosten Übersicht]] — monthly cost context (33 €/Mo)
-- [[Fixkosten Übersicht Source Detail]] — source
-- [[ESt 2025]] — filing requiring KV-Nachweis
-- [[HEK]] — co-KV provider in 2025
-- [[Uelzener Tierversicherung]] — optimization target where Barmenia is a comparison option
-- [[Allianz Insurance Consolidation]] — related insurance optimization project
+- [[Fixkosten Übersicht]] — monatlicher Kostenkontext (33 €/Mo)
+- [[Fixkosten Übersicht Source Detail]] — Quelle
+- [[ESt 2025]] — Steuererklärung, für die ein KV-Nachweis erforderlich ist
+- [[HEK]] — Ko-KV-Anbieter im Jahr 2025
+- [[Uelzener Tierversicherung]] — Optimierungsziel, bei dem Barmenia als Vergleichsoption dient
+- [[Allianz Insurance Consolidation]] — verwandtes Versicherungsoptimierungsprojekt
 - [[SP STB]] — Steuerberater
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — insured person
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context|Oleg Personal Context]] — versicherte Person

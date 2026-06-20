@@ -5,66 +5,66 @@ tags: [archiv, gesamtanalyse, finanzen, privat, 2025, 2026, analyse]
 sources: ["raw/Privat/Finanzen/Archiv/GESAMTANALYSE Archiv.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Archived consolidated source documentation from the initial financial analysis (Jan 2025 – Jun 2026) — pointer document referencing external analysis file and HTML dashboard; superseded by current MOC Finanzen
+summary: Archivierte konsolidierte Quelldokumentation aus der initialen Finanzanalyse (Jan 2025 – Jun 2026) — Zeigerdokument mit Verweis auf externe Analysedatei und HTML-Dashboard; abgelöst durch das aktuelle MOC Finanzen
 ---
 
 # GESAMTANALYSE Archiv — Source Detail
 
-## Overview
+## Übersicht
 
-This source document is the **archived consolidated documentation** from [[Oleg Personal Context|Oleg]]'s initial financial analysis, covering the period **January 2025 – June 2026**. It is a pointer/index document referencing two external files and has been superseded by [[MOC Finanzen]] for current financial information.
+Dieses Quelldokument ist die **archivierte konsolidierte Dokumentation** aus [[Oleg Personal Context|Olegs]] initialer Finanzanalyse und deckt den Zeitraum **Januar 2025 – Juni 2026** ab. Es handelt sich um ein Zeiger-/Indexdokument, das auf zwei externe Dateien verweist, und wurde für aktuelle Finanzinformationen durch [[MOC Finanzen]] abgelöst.
 
-> ⚠️ **Archiv-Status:** This document is explicitly marked as an archive. For current financial information, see [[MOC Finanzen]].
+> ⚠️ **Archiv-Status:** Dieses Dokument ist explizit als Archiv gekennzeichnet. Für aktuelle Finanzinformationen siehe [[MOC Finanzen]].
 
-## Document References
+## Dokumentenverweise
 
-### Primary Analysis File
+### Primäre Analysedatei
 
 ```
 Filepfad: Finanzdaten_Privat/GESAMTANALYSE_Oleg_Kober_2025-2026.md
 ```
 
-The full consolidated financial analysis for the period Jan 2025 – Jun 2026. This is the substantive document — the archive pointer file (this source) references it but does not contain the analysis itself.
+Die vollständige konsolidierte Finanzanalyse für den Zeitraum Jan 2025 – Jun 2026. Dies ist das inhaltlich maßgebliche Dokument — die Archiv-Zeigerdatei (dieses Quelldokument) verweist darauf, enthält die Analyse selbst jedoch nicht.
 
-### Visual HTML Dashboard
+### Visuelles HTML-Dashboard
 
 ```
 Filepfad: Finanzdaten_Privat/Finanzdashboard_Oleg_Kober_2026.html
 ```
 
-A visual HTML-based financial dashboard for the same period. Likely contains charts, summaries, and visual representations of the data from the primary analysis file.
+Ein visuelles HTML-basiertes Finanz-Dashboard für denselben Zeitraum. Enthält voraussichtlich Diagramme, Zusammenfassungen und visuelle Darstellungen der Daten aus der primären Analysedatei.
 
-## Scope
+## Umfang
 
-- **Period:** January 2025 – June 2026 (18 months)
-- **Subject:** [[Oleg Personal Context|Oleg Kober]] — private finances
-- **Type:** Erstanalyse (initial analysis / baseline analysis)
-- **Status:** Archiv (superseded)
+- **Zeitraum:** Januar 2025 – Juni 2026 (18 Monate)
+- **Gegenstand:** [[Oleg Personal Context|Oleg Kober]] — Privatfinanzen
+- **Art:** Erstanalyse (initiale Analyse / Basisanalyse)
+- **Status:** Archiv (abgelöst)
 
-## Relationship to Current Wiki
+## Bezug zum aktuellen Wiki
 
-The financial data captured in this archive period underpins several current wiki pages:
+Die im Archivzeitraum erfassten Finanzdaten bilden die Grundlage mehrerer aktueller Wiki-Seiten:
 
-- [[MOC Finanzen]] — current financial overview and navigation hub
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — 2025 salary data from this period
-- [[ESt 2025]] — tax filing for 2025 (within the archive period)
-- [[ALG I 2025]] — benefit received during this period
-- [[Fixkosten Übersicht]] — cost structure established during this period
-- [[Doctolib 2026]] — income source active from 2026 (within archive period)
+- [[MOC Finanzen]] — aktuelle Finanzübersicht und Navigations-Hub
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltsdaten 2025 aus diesem Zeitraum
+- [[ESt 2025]] — Steuererklärung für 2025 (innerhalb des Archivzeitraums)
+- [[ALG I 2025]] — im Archivzeitraum bezogene Leistungen
+- [[Fixkosten Übersicht]] — im Archivzeitraum etablierte Kostenstruktur
+- [[Doctolib 2026]] — ab 2026 aktive Einkommensquelle (innerhalb des Archivzeitraums)
 
-## What Is NOT in This Wiki
+## Was sich NICHT in diesem Wiki befindet
 
-The actual content of `GESAMTANALYSE_Oleg_Kober_2025-2026.md` and `Finanzdashboard_Oleg_Kober_2026.html` has **not been ingested** into this wiki — only the pointer/archive document was provided as a source. The full financial analysis data remains in the external files.
+Der eigentliche Inhalt von `GESAMTANALYSE_Oleg_Kober_2025-2026.md` und `Finanzdashboard_Oleg_Kober_2026.html` wurde **nicht in dieses Wiki übernommen** — lediglich das Zeiger-/Archivdokument wurde als Quelle bereitgestellt. Die vollständigen Finanzdaten verbleiben in den externen Dateien.
 
-> ⚠️ **Assumption [A]:** The detailed analysis (income statements, net worth tracking, savings rates, investment allocation) from the primary file would significantly expand the financial pages in this wiki if ingested. Priority should be given to ingesting `GESAMTANALYSE_Oleg_Kober_2025-2026.md` when available.
+> ⚠️ **Annahme [A]:** Die detaillierte Analyse (Einkommensübersichten, Vermögensentwicklung, Sparquoten, Investitionsallokation) aus der primären Datei würde die Finanzseiten in diesem Wiki erheblich erweitern, sofern sie eingespeist wird. Der Einspeisung von `GESAMTANALYSE_Oleg_Kober_2025-2026.md` sollte Priorität eingeräumt werden, sobald die Datei verfügbar ist.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[MOC Finanzen]] — current financial hub (successor to this archive)
-- [[Oleg Personal Context]] — subject of the analysis
-- [[ESt 2025]] — tax filing within archive period
-- [[ALG I 2025]] — benefit within archive period
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — salary data within archive period
-- [[Doctolib 2026]] — income source active from early 2026
-- [[Fixkosten Übersicht]] — cost structure from this period
-- [[Financial Independence]] — strategic goal underpinning all financial analysis
+- [[MOC Finanzen]] — aktueller Finanz-Hub (Nachfolger dieses Archivs)
+- [[Oleg Personal Context]] — Gegenstand der Analyse
+- [[ESt 2025]] — Steuererklärung innerhalb des Archivzeitraums
+- [[ALG I 2025]] — Leistungsbezug innerhalb des Archivzeitraums
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltsdaten innerhalb des Archivzeitraums
+- [[Doctolib 2026]] — ab Anfang 2026 aktive Einkommensquelle
+- [[Fixkosten Übersicht]] — Kostenstruktur aus diesem Zeitraum
+- [[Financial Independence]] — strategisches Ziel, das der gesamten Finanzanalyse zugrunde liegt

@@ -1,196 +1,196 @@
 ---
-title: Longevity Stack Ingredients
+title: Longevity Stack Zutaten
 type: concept
 tags: [longevity, ingredients, performance-cafe, supplements, NMN, urolithin-a, spermidine, fisetin, quercetin, NAC, curcumin, resveratrol, astaxanthin, CoQ10, trigonellin, novel-food, EU-regulatory, hallmarks-of-aging]
 sources: ["raw/Business/PerformanceCafe/research/00_master_brief.md", "raw/Business/PerformanceCafe/hai-onepager.md", "raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Comprehensive classification of longevity-relevant supplement ingredients for Performance Coffee Brand — 7 categories (A–G) from stimulants to vitamins; Kategorie F (Longevity Core) is critical for EU Novel Food status; all ingredients assessed against hallmarks of aging, heat stability at 90°C, and Blueprint relevance
+summary: Umfassende Klassifizierung longevity-relevanter Supplement-Zutaten für die Performance Coffee Marke — 7 Kategorien (A–G) von Stimulanzien bis Vitaminen; Kategorie F (Longevity Core) ist entscheidend für den EU-Novel-Food-Status; alle Zutaten bewertet nach Hallmarks of Aging, Hitzestabilität bei 90°C und Blueprint-Relevanz
 ---
 
-# Longevity Stack Ingredients
+# Longevity Stack Zutaten
 
-## Overview
+## Überblick
 
-This concept page catalogs and classifies the **full ingredient universe** under consideration for [[Performance Coffee Brand]]'s functional stack, as defined in [[Performance Cafe Master Brief Source Detail]] (Modul 1 — Ingredienzen Datenbank).
+Diese Konzeptseite katalogisiert und klassifiziert das **vollständige Zutaten-Universum**, das für den funktionellen Stack von [[Performance Coffee Brand|Performance Coffee Marke]] in Betracht gezogen wird, wie in [[Performance Cafe Master Brief Source Detail]] definiert (Modul 1 — Ingredienzen Datenbank).
 
-The full database is being built in `research/02_ingredienzen_db.md`. This wiki page captures the structure, key flags, and cross-links.
+Die vollständige Datenbank wird in `research/02_ingredienzen_db.md` aufgebaut. Diese Wiki-Seite erfasst die Struktur, wichtige Hinweise und Querverweise.
 
-**Per-ingredient research format:**
+**Recherche-Format pro Zutat:**
 > Wirkung | Mechanismus | Dosis | Longevity-Pathway | Risiken | Kontraindikationen | EU-Status | EFSA Claim | Stabilität in Kaffee (90°C) | Blueprint-Status | Kosten/Dosis (Bulk DE/EU)
 
 ---
 
-## Kategorie A — Stimulantien
+## Kategorie A — Stimulanzien
 
-| Ingredient | Notes |
+| Zutat | Hinweise |
 |---|---|
-| **Koffein Anhydrous** | Base stimulant; synergy with [[L-Theanin]] (4:1 ratio) |
-| **Guarana-Extrakt** | Sustained-release caffeine alternative |
-| **Teacrine (Theacrine)** | Non-habituating stimulant; longer half-life than caffeine |
-| **Dynamine (Methylliberine)** | Fast-acting energy; novel compound |
-| **Theobromin** | Mild stimulant; vasodilator; from cocoa |
+| **Koffein Anhydrous** | Basis-Stimulans; Synergie mit [[L-Theanin]] (4:1-Verhältnis) |
+| **Guarana-Extrakt** | Koffein-Alternative mit Langzeitwirkung |
+| **Teacrine (Theacrine)** | Nicht gewöhnungsbildendes Stimulans; längere Halbwertszeit als Koffein |
+| **Dynamine (Methylliberin)** | Schnell wirksame Energie; neuartige Verbindung |
+| **Theobromin** | Mildes Stimulans; Vasodilatator; aus Kakao |
 
 ---
 
 ## Kategorie B — Nootropika
 
-| Ingredient | Notes |
+| Zutat | Hinweise |
 |---|---|
-| **[[L-Theanin]]** | Key Tier-1 ingredient; 4:1 ratio with caffeine for calm focus |
-| **[[Alpha-GPC]]** | Key Tier-1 ingredient; 50% vs 99% purity comparison needed |
-| **Citicoline** | CDP-choline alternative to Alpha-GPC |
-| **Lion's Mane** | Tier-1 ingredient; dual extract 8:1; NGF support |
-| **Phosphatidylserine** | Cognitive longevity; cortisol reduction |
-| **Bacopa Monnieri** | Ayurvedic nootropic; long-term memory |
+| **[[L-Theanin]]** | Wichtige Tier-1-Zutat; 4:1-Verhältnis mit Koffein für entspannte Fokussierung |
+| **[[Alpha-GPC]]** | Wichtige Tier-1-Zutat; Vergleich 50 % vs. 99 % Reinheit erforderlich |
+| **Citicolin** | CDP-Cholin-Alternative zu Alpha-GPC |
+| **Lion's Mane** | Tier-1-Zutat; Doppelextrakt 8:1; NGF-Unterstützung |
+| **Phosphatidylserin** | Kognitive Langlebigkeit; Cortisolreduktion |
+| **Bacopa Monnieri** | Ayurvedisches Nootropikum; Langzeitgedächtnis |
 
 ---
 
 ## Kategorie C — Adaptogene
 
-| Ingredient | Notes |
+| Zutat | Hinweise |
 |---|---|
-| **[[Ashwagandha KSM-66]]** | Key Tier-1 ingredient (300mg); compare vs. Sensoril |
-| **Ashwagandha Sensoril** | Leaf+root extract (vs. KSM-66 root-only); different alkaloid profile |
-| **Rhodiola Rosea** | 3% Rosavine/1% Salidroside standardization; acute stress |
-| **Panax Ginseng** | Classical adaptogen; ginsenoside standardization |
-| **Eleuthero** | Siberian ginseng; physical endurance |
-| **Schisandra** | Five-flavored berry; liver support + adaptogen |
+| **[[Ashwagandha KSM-66]]** | Wichtige Tier-1-Zutat (300 mg); Vergleich vs. Sensoril |
+| **Ashwagandha Sensoril** | Blatt+Wurzel-Extrakt (vs. KSM-66 nur Wurzel); anderes Alkaloid-Profil |
+| **Rhodiola Rosea** | Standardisierung auf 3 % Rosavine/1 % Salidrosid; akuter Stress |
+| **Panax Ginseng** | Klassisches Adaptogen; Ginsenosid-Standardisierung |
+| **Eleuthero** | Sibirischer Ginseng; körperliche Ausdauer |
+| **Schisandra** | Fünf-Geschmacks-Beere; Leberunterstützung + Adaptogen |
 
 ---
 
 ## Kategorie D — Funktionspilze
 
-| Ingredient | Notes |
+| Zutat | Hinweise |
 |---|---|
-| **Lion's Mane** | Also in Kategorie B; dual-extract (hot water + ethanol) required |
-| **Cordyceps Militaris** | VO2max improvement; CS-4 strain preferred |
-| **Reishi** | Autophagie; immune modulation; bitter taste challenge |
-| **Chaga** | Antioxidantien; ORAC value; wild-harvested quality concern |
-| **Turkey Tail** | Prebiotic; immune system; PSK/PSP content |
+| **Lion's Mane** | Auch in Kategorie B; Doppelextrakt (Heißwasser + Ethanol) erforderlich |
+| **Cordyceps Militaris** | VO2max-Verbesserung; CS-4-Stamm bevorzugt |
+| **Reishi** | Autophagie; Immunmodulation; Herausforderung durch bitteren Geschmack |
+| **Chaga** | Antioxidantien; ORAC-Wert; Qualitätsbedenken bei Wildsammlung |
+| **Turkey Tail** | Präbiotikum; Immunsystem; PSK/PSP-Gehalt |
 
 ---
 
 ## Kategorie E — Aminosäuren
 
-| Ingredient | Notes |
+| Zutat | Hinweise |
 |---|---|
-| **L-Tyrosin** | Dopamine precursor; stress tolerance; vs. NALT (N-Acetyl-L-Tyrosine) |
-| **NALT (N-Acetyl-L-Tyrosine)** | More soluble than L-Tyrosine but lower bioavailability |
-| **[[Taurin]]** | Key Tier-1 ingredient; 2023 longevity data (Science paper: deficiency → aging) |
-| **L-Citrullin** | NO precursor; vasodilation; endurance |
-| **Beta-Alanin** | Carnosine precursor; paresthesia (tingling) — Pro/Contra |
-| **Kreatin Monohydrat** | Tier-1 ingredient; heat stability at 90°C must be verified |
-| **Kollagenpeptide** | Joint support; skin; emulsification in coffee TBD |
+| **L-Tyrosin** | Dopamin-Vorstufe; Stresstoleranz; vs. NALT (N-Acetyl-L-Tyrosin) |
+| **NALT (N-Acetyl-L-Tyrosin)** | Besser löslich als L-Tyrosin, aber geringere Bioverfügbarkeit |
+| **[[Taurin]]** | Wichtige Tier-1-Zutat; Longevity-Daten 2023 (Science-Paper: Mangel → Alterung) |
+| **L-Citrullin** | NO-Vorstufe; Vasodilatation; Ausdauer |
+| **Beta-Alanin** | Carnosin-Vorstufe; Parästhesie (Kribbeln) — Pro/Contra |
+| **Kreatin Monohydrat** | Tier-1-Zutat; Hitzestabilität bei 90°C muss geprüft werden |
+| **Kollagenpeptide** | Gelenkunterstützung; Haut; Emulgierung in Kaffee noch zu klären |
 
 ---
 
 ## Kategorie F — Longevity Core ⚠️ KRITISCH
 
-> **All ingredients in this category require explicit EU Novel Food Status 2025/2026 assessment.**
+> **Alle Zutaten dieser Kategorie erfordern eine explizite Bewertung des EU-Novel-Food-Status 2025/2026.**
 
-### NAC (N-Acetyl-Cysteine)
-- **Pathway:** Glutathion-Vorstufe → antioxidant defense
-- **Blueprint:** NAC+Ginger+Curcumin combo (Bryan Johnson uses this)
-- **Challenge:** Sulfur odor — major formulation challenge; see [[CMO Erstkontakt Email Template]]
-- **EU Status:** Under review (see [[EU Novel Food Regulation]])
+### NAC (N-Acetylcystein)
+- **Pathway:** Glutathion-Vorstufe → antioxidative Abwehr
+- **Blueprint:** NAC+Ingwer+Curcumin-Kombination (Bryan Johnson verwendet diese)
+- **Herausforderung:** Schwefelgeruch — große Formulierungsherausforderung; siehe [[CMO Erstkontakt Email Template]]
+- **EU-Status:** In Prüfung (siehe [[EU Novel Food Regulation]])
 
 ### Curcumin
-- **Pathway:** NF-κB inhibition → anti-inflammation
-- **Challenge:** Near-zero water solubility → must be liposomal or mizellar
-- **Note:** 90°C coffee environment may destabilize liposomal structures
+- **Pathway:** NF-κB-Hemmung → Entzündungshemmung
+- **Herausforderung:** Nahezu keine Wasserlöslichkeit → muss liposomal oder mizellar vorliegen
+- **Hinweis:** Das 90°C-Kaffeeumfeld kann liposomale Strukturen destabilisieren
 
 ### Quercetin
-- **Pathway:** Senolytikum — selectively eliminates senescent cells
-- **Note:** Potential Dasatinib alternative (pharmaceutical senolytic)
-- **Combination:** Often studied with Dasatinib; alone has modest senolytic effect
+- **Pathway:** Senolytikum — eliminiert selektiv seneszente Zellen
+- **Hinweis:** Mögliche Alternative zu Dasatinib (pharmazeutisches Senolytikum)
+- **Kombination:** Häufig zusammen mit Dasatinib untersucht; allein hat es einen bescheidenen senolytischen Effekt
 
 ### [[Fisetin]]
-- **Pathway:** Potentestes natürliches Senolytikum (strongest natural senolytic)
-- **EU Status:** Requires explicit assessment
-- **Mechanism:** Clears senescent cells; activates SIRT1
+- **Pathway:** Potentestes natürliches Senolytikum
+- **EU-Status:** Explizite Bewertung erforderlich
+- **Mechanismus:** Beseitigt seneszente Zellen; aktiviert SIRT1
 
 ### [[Urolithin A]]
-- **Pathway:** Mitophagie ↑ (selective removal of damaged mitochondria)
-- **IP:** ⚠️ [[Amazentis]] holds 50+ patents + EU Novel Food authorization
-- **Recommendation:** Pomegranate extract as patent-free natural precursor
-- See [[Amazentis]] for full IP analysis
+- **Pathway:** Mitophagie ↑ (selektive Entfernung beschädigter Mitochondrien)
+- **IP:** ⚠️ [[Amazentis]] hält 50+ Patente + EU-Novel-Food-Zulassung
+- **Empfehlung:** Granatapfelextrakt als patentfreie natürliche Vorstufe
+- Siehe [[Amazentis]] für vollständige IP-Analyse
 
 ### [[Spermidine]]
-- **Pathway:** Autophagie-Induktion (broad)
-- **EU Status:** ⚠️ EU Novel Food status uncertain — explicitly flagged as critical
-- **Source:** Wheat germ extract (natural source, potentially different regulatory treatment)
+- **Pathway:** Autophagie-Induktion (breit)
+- **EU-Status:** ⚠️ EU-Novel-Food-Status unsicher — explizit als kritisch markiert
+- **Quelle:** Weizenkeimextrakt (natürliche Quelle, möglicherweise andere regulatorische Behandlung)
 
-### [[NMN]] (Nicotinamide Mononucleotide)
-- **Pathway:** NAD+-Booster → mitochondrial energy, sirtuin activation
-- **EU Status:** ⚠️ EU-Zulassung 2025 status explicitly flagged as critical uncertainty
-- **Research:** 2024 data on trigonellin as NMN precursor (already in coffee)
-- See [[NMN]] entity page
+### [[NMN]] (Nicotinamidmononukleotid)
+- **Pathway:** NAD+-Booster → mitochondriale Energie, Sirtuin-Aktivierung
+- **EU-Status:** ⚠️ EU-Zulassung 2025 Status explizit als kritische Unsicherheit markiert
+- **Forschung:** 2024-Daten zu Trigonellin als NMN-Vorstufe (bereits in Kaffee enthalten)
+- Siehe [[NMN]]-Entitätsseite
 
-### NR (Nicotinamide Ribosid)
-- **Pathway:** NMN alternative → NAD+ boosting
-- **IP:** ⚠️ [[Chromadex / Niagen Bioscience]] NIAGEN patent — EU scope must be verified
-- See [[Chromadex / Niagen Bioscience]]
+### NR (Nicotinamidribosid)
+- **Pathway:** NMN-Alternative → NAD+-Booster
+- **IP:** ⚠️ [[Chromadex / Niagen Bioscience]] NIAGEN-Patent — EU-Geltungsbereich muss geprüft werden
+- Siehe [[Chromadex / Niagen Bioscience]]
 
 ### Resveratrol
-- **Pathway:** Sirtuin activation (SIRT1)
-- **Research question:** Why did Blueprint remove resveratrol from their stack?
-- **Note:** David Sinclair (NMN proponent) has used resveratrol; recent clinical data mixed
+- **Pathway:** Sirtuin-Aktivierung (SIRT1)
+- **Forschungsfrage:** Warum hat Blueprint Resveratrol aus ihrem Stack entfernt?
+- **Hinweis:** David Sinclair (NMN-Befürworter) hat Resveratrol verwendet; aktuelle klinische Daten gemischt
 
 ### Astaxanthin
-- **Pathway:** Stärkstes Carotinoid-Antioxidans; mitochondrial membrane protection
-- **Challenge:** Fat-soluble → emulsification in water-based coffee beverage
+- **Pathway:** Stärkstes Carotinoid-Antioxidans; Schutz der mitochondrialen Membran
+- **Herausforderung:** Fettlöslich → Emulgierung in wasserbasiertem Kaffeegetränk
 
 ### CoQ10 Ubiquinol
-- **Pathway:** Mitochondrial Atmungskette (electron transport chain)
-- **Form:** Ubiquinol (reduced form) superior to Ubiquinone
-- **Challenge:** ⚠️ Fat-soluble — emulsification in hot water required; technical challenge
+- **Pathway:** Mitochondriale Atmungskette (Elektronentransportkette)
+- **Form:** Ubiquinol (reduzierte Form) dem Ubiquinon überlegen
+- **Herausforderung:** ⚠️ Fettlöslich — Emulgierung in heißem Wasser erforderlich; technische Herausforderung
 
 ### Trigonellin
-- **Pathway:** NMN-Vorstufe (NAD+ precursor) — 2024 research finding
-- **Key insight:** Already present in coffee (especially light roast)
-- **Question:** Does coffee-native trigonellin suffice, or is separate dosing needed?
-- See also: Modul 0B in [[Performance Cafe Master Brief Source Detail]]
+- **Pathway:** NMN-Vorstufe (NAD+-Vorläufer) — Forschungsergebnis 2024
+- **Kernerkenntnis:** Bereits in Kaffee enthalten (besonders in heller Röstung)
+- **Frage:** Reicht das kaffeeeigene Trigonellin aus, oder ist eine separate Dosierung nötig?
+- Siehe auch: Modul 0B in [[Performance Cafe Master Brief Source Detail]]
 
 ---
 
 ## Kategorie G — Vitamine & Mineralien
 
-| Ingredient | Notes |
+| Zutat | Hinweise |
 |---|---|
-| **B-Komplex** | B vitamins; methylated forms preferred (methylfolate, methylcobalamin) |
-| **Magnesium** | Glycinat (sleep/relaxation) vs. L-Threonat (brain bioavailability); comparison required |
-| **Vitamin D3+K2** | D3 (cholecalciferol) + K2 (MK-7); fat-soluble → emulsification challenge |
-| **Omega-3** | EPA+DHA; emulsifiable in coffee? (requires phospholipid-based emulsification) |
-| **Zink+Selen** | Immune support; antioxidant cofactors |
+| **B-Komplex** | B-Vitamine; methylierte Formen bevorzugt (Methylfolat, Methylcobalamin) |
+| **Magnesium** | Glycinat (Schlaf/Entspannung) vs. L-Threonat (Gehirnbioverfügbarkeit); Vergleich erforderlich |
+| **Vitamin D3+K2** | D3 (Cholecalciferol) + K2 (MK-7); fettlöslich → Emulgierungsherausforderung |
+| **Omega-3** | EPA+DHA; in Kaffee emulgierbar? (erfordert phospholipidbasierte Emulgierung) |
+| **Zink+Selen** | Immununterstützung; antioxidative Cofaktoren |
 
 ---
 
-## Master Stack Outputs (Modul 1)
+## Master Stack Ergebnisse (Modul 1)
 
-Three deliverables required from the Ingredienzen Datenbank module:
+Drei Liefergegenstände aus dem Modul Ingredienzen Datenbank erforderlich:
 
-### 1. Master Stack Empfehlung (8–10 ingredients)
-Optimal combination of Performance + Longevity in one sachet
+### 1. Master Stack Empfehlung (8–10 Zutaten)
+Optimale Kombination aus Performance + Longevity in einem Sachet
 
-### 2. Three SKU Variants
+### 2. Drei SKU-Varianten
 
-| SKU | Name | Focus |
+| SKU | Name | Fokus |
 |---|---|---|
-| SKU 1 | **Morning Performance** | Energy + Focus + Light Longevity |
-| SKU 2 | **Pre-Workout** | Max Performance + Endurance |
-| SKU 3 | **Evening Recovery** | Recovery + Longevity + Relaxation |
+| SKU 1 | **Morning Performance** | Energie + Fokus + Leichtes Longevity |
+| SKU 2 | **Pre-Workout** | Maximale Performance + Ausdauer |
+| SKU 3 | **Evening Recovery** | Erholung + Longevity + Entspannung |
 
-### 3. "What would Blueprint do?"
-Bryan Johnson's hypothetical Longevity-Kaffee-Stack — reference benchmark
+### 3. „Was würde Blueprint tun?"
+Bryan Johnsons hypothetischer Longevity-Kaffee-Stack — Referenz-Benchmark
 
 ---
 
-## Current Tier-1 Stack (Confirmed)
+## Aktueller Tier-1-Stack (Bestätigt)
 
-The following ingredients are confirmed in the [[Performance Coffee Brand]] Tier-1 stack per [[CMO Erstkontakt Email Template]] and [[Performance Coffee Brand Hai Onepager]]:
+Die folgenden Zutaten sind im Tier-1-Stack von [[Performance Coffee Brand|Performance Coffee Marke]] gemäß [[CMO Erstkontakt Email Template]] und [[Performance Coffee Brand Hai Onepager]] bestätigt:
 
-| Ingredient | Category | Status |
+| Zutat | Kategorie | Status |
 |---|---|---|
 | [[L-Theanin]] | B — Nootropika | ✅ Tier-1 |
 | [[Alpha-GPC]] | B — Nootropika | ✅ Tier-1 |
@@ -199,52 +199,52 @@ The following ingredients are confirmed in the [[Performance Coffee Brand]] Tier
 | Kreatin Monohydrat | E — Aminosäuren | ✅ Tier-1 |
 | [[Taurin]] | E — Aminosäuren | ✅ Tier-1 |
 
-Kategorie F ingredients (Longevity Core) are in research/evaluation phase — blocked by EU Novel Food and IP assessment.
+Zutaten der Kategorie F (Longevity Core) befinden sich in der Forschungs-/Bewertungsphase — blockiert durch EU-Novel-Food- und IP-Bewertung.
 
 ---
 
-## Hallmarks of Aging — Ingredient Mapping
+## Hallmarks of Aging — Zutaten-Zuordnung
 
-From Modul 0 framework (Lopez-Otin 2023):
+Aus dem Modul-0-Rahmenwerk (Lopez-Otin 2023):
 
-| Hallmark | Addressable Ingredients |
+| Hallmark | Adressierbare Zutaten |
 |---|---|
 | Mitochondriale Dysfunktion | CoQ10, [[Urolithin A]], [[NMN]], [[Taurin]], Cordyceps |
 | Inflammaging | Curcumin, Quercetin, Omega-3, Astaxanthin, [[Ashwagandha KSM-66]] |
-| Deregulierte Nährstoffsensorik | [[NMN]], [[Spermidine]], Resveratrol, Chlorogensäure (coffee) |
+| Deregulierte Nährstoffsensorik | [[NMN]], [[Spermidine]], Resveratrol, Chlorogensäure (Kaffee) |
 | Zelluläre Seneszenz | [[Fisetin]], Quercetin, [[Urolithin A]] |
-| Proteostaseverlust | [[Spermidine]] (autophagy), NAC (glutathion) |
+| Proteostaseverlust | [[Spermidine]] (Autophagie), NAC (Glutathion) |
 
 ---
 
-## Heat Stability at 90°C
+## Hitzestabilität bei 90°C
 
-A critical constraint: ingredients must survive hot water extraction in a coffee sachet.
+Eine entscheidende Einschränkung: Zutaten müssen die Heißwasserextraktion in einem Kaffee-Sachet überstehen.
 
-| Stability Level | Ingredients |
+| Stabilitätsstufe | Zutaten |
 |---|---|
-| **Stable** | Kreatin, L-Theanin, Taurin, Ashwagandha, most vitamins |
-| **Likely stable** | Alpha-GPC, Lion's Mane (beta-glucans), NMN (short exposure) |
-| **Challenged** | Liposomal Curcumin (structure disruption), CoQ10 (if not encapsulated) |
-| **Problematic** | [[Spermidine]] (heat stability uncertain), some enzyme-based compounds |
-| **Requires testing** | All fat-soluble compounds (D3, K2, Omega-3, Astaxanthin) |
+| **Stabil** | Kreatin, L-Theanin, Taurin, Ashwagandha, die meisten Vitamine |
+| **Wahrscheinlich stabil** | Alpha-GPC, Lion's Mane (Beta-Glucane), NMN (kurze Exposition) |
+| **Eingeschränkt** | Liposomales Curcumin (Strukturstörung), CoQ10 (wenn nicht verkapselt) |
+| **Problematisch** | [[Spermidine]] (Hitzestabilität unsicher), einige enzymbasierte Verbindungen |
+| **Testbedarf** | Alle fettlöslichen Verbindungen (D3, K2, Omega-3, Astaxanthin) |
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Master Brief Source Detail]] — source (Modul 1 specification)
-- [[Performance Coffee Brand]] — project applying this stack
-- [[Amazentis]] — IP blocker for Urolithin A
-- [[Chromadex / Niagen Bioscience]] — IP blocker for NR/NIAGEN
-- [[NMN]] — critical regulatory item
-- [[Urolithin A]] — longevity compound with IP complexity
-- [[Spermidine]] — autophagy inducer; Novel Food status uncertain
-- [[Fisetin]] — strongest natural senolytic
-- [[L-Theanin]] — Tier-1 nootropic
-- [[Alpha-GPC]] — Tier-1 nootropic (also separate entity page)
-- [[Ashwagandha KSM-66]] — Tier-1 adaptogen (also separate entity page)
-- [[Taurin]] — Tier-1 amino acid
-- [[EU Novel Food Regulation]] — regulatory framework for Kategorie F
-- [[Bryan Johnson]] — Blueprint reference stack
-- [[CMO Sourcing Performance Coffee]] — manufacturing partner for this stack
+- [[Performance Cafe Master Brief Source Detail]] — Quelle (Modul-1-Spezifikation)
+- [[Performance Coffee Brand|Performance Coffee Marke]] — Projekt, das diesen Stack anwendet
+- [[Amazentis]] — IP-Blocker für Urolithin A
+- [[Chromadex / Niagen Bioscience]] — IP-Blocker für NR/NIAGEN
+- [[NMN]] — kritisches Regulierungsthema
+- [[Urolithin A]] — Longevity-Verbindung mit IP-Komplexität
+- [[Spermidine]] — Autophagie-Induktor; Novel-Food-Status unsicher
+- [[Fisetin]] — stärkstes natürliches Senolytikum
+- [[L-Theanin]] — Tier-1-Nootropikum
+- [[Alpha-GPC]] — Tier-1-Nootropikum (auch separate Entitätsseite)
+- [[Ashwagandha KSM-66]] — Tier-1-Adaptogen (auch separate Entitätsseite)
+- [[Taurin]] — Tier-1-Aminosäure
+- [[EU Novel Food Regulation]] — regulatorischer Rahmen für Kategorie F
+- [[Bryan Johnson]] — Blueprint-Referenz-Stack
+- [[CMO Sourcing Performance Coffee]] — Fertigungspartner für diesen Stack

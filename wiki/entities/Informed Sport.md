@@ -5,77 +5,77 @@ tags: [certification, EU, supplement, anti-doping, WADA, LGC-group, batch-testin
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Pan-European supplement certification by LGC Group — stricter than Kölner Liste with mandatory per-batch testing; Priority Stufe 2 (scale phase) for Performance Coffee Brand; trigger 500+ units sold; cost 3,000–6,000 € setup + 500–1,500 €/batch
+summary: Paneuropäische Nahrungsergänzungsmittel-Zertifizierung durch die LGC Group — strenger als die Kölner Liste mit verpflichtendem Batch-Testing je Charge; Priorität Stufe 2 (Skalierungsphase) für die Performance Coffee Brand; Auslöser: 500+ verkaufte Einheiten; Kosten 3.000–6.000 € Einrichtung + 500–1.500 €/Charge
 ---
 
 # Informed Sport
 
-## Overview
+## Überblick
 
-**Informed Sport** is a pan-European supplement certification program operated by **LGC Group** (informedsport.com). It is **Stufe 2** in the [[Performance Coffee Brand]]'s certification roadmap — more stringent than [[Kölner Liste]] and recognized across Europe and internationally.
+**Informed Sport** ist ein paneuropäisches Zertifizierungsprogramm für Nahrungsergänzungsmittel, betrieben von der **LGC Group** (informedsport.com). Es stellt **Stufe 2** im Zertifizierungs-Roadmap der [[Performance Coffee Brand]] dar — strenger als die [[Kölner Liste]] und europaweit sowie international anerkannt.
 
-## What Makes It Stricter
+## Was es strenger macht
 
-The key differentiator from [[Kölner Liste]] is **mandatory per-batch testing**:
-- Every production batch must be independently tested before sale
-- Suppliers of raw materials must themselves be Informed Sport-approved
-- Creates a full supply-chain contamination control system
-- LGC Group maintains the testing laboratory infrastructure
+Das entscheidende Unterscheidungsmerkmal gegenüber der [[Kölner Liste]] ist das **verpflichtende Batch-Testing je Charge**:
+- Jede Produktionscharge muss vor dem Verkauf unabhängig getestet werden
+- Rohstofflieferanten müssen selbst Informed Sport-zertifiziert sein
+- Schafft ein vollständiges System zur Kontaminationskontrolle entlang der Lieferkette
+- Die LGC Group betreibt die eigene Testlabor-Infrastruktur
 
-## Relevance to Performance Coffee Brand Target Audiences
+## Relevanz für die Zielgruppen der Performance Coffee Brand
 
-Informed Sport is particularly recognized by:
-- **CrossFit community** — CrossFit boxes often require Informed Sport for sponsored athletes
-- **Hyrox community** — international event structure makes EU/international certification important
-- **Professional athletes** across Europe
-- **International retail** expansion beyond DACH
+Informed Sport wird insbesondere anerkannt von:
+- **CrossFit-Community** — CrossFit-Boxen fordern für gesponserte Athleten häufig Informed Sport
+- **Hyrox-Community** — die internationale Veranstaltungsstruktur macht eine EU-/internationale Zertifizierung wichtig
+- **Profisportlern** in ganz Europa
+- **Internationalem Einzelhandel** außerhalb des DACH-Raums
 
-This aligns directly with [[Performance Coffee Brand]]'s target customer segments.
+Dies deckt sich direkt mit den Zielkundensegmenten der [[Performance Coffee Brand]].
 
-## Certification Process
+## Zertifizierungsprozess
 
-1. Register with LGC Group at informedsport.com
-2. Every production batch tested separately (Batch-Testing)
-3. CMO must source all raw materials from Informed Sport-approved suppliers
-4. Batch results published publicly on Informed Sport website
+1. Registrierung bei der LGC Group unter informedsport.com
+2. Jede Produktionscharge wird separat getestet (Batch-Testing)
+3. Der CMO muss alle Rohstoffe ausschließlich von Informed Sport-zugelassenen Lieferanten beziehen
+4. Chargenergebnisse werden öffentlich auf der Informed Sport-Website veröffentlicht
 
-## Costs and Timeline
+## Kosten und Zeitplan
 
-| Parameter | Value |
+| Parameter | Wert |
 |---|---|
-| **Setup cost** | 3.000–6.000 € per SKU |
-| **Per-batch cost** | ~500–1.500 € per production batch |
-| **Timeline** | 3–4 months from registration to first listing |
+| **Einrichtungskosten** | 3.000–6.000 € pro SKU |
+| **Kosten pro Charge** | ~500–1.500 € je Produktionscharge |
+| **Zeitrahmen** | 3–4 Monate von der Registrierung bis zur ersten Listung |
 
-> ⚠️ **Note on ongoing cost:** Unlike [[Kölner Liste]] (one-time per SKU), Informed Sport generates **recurring per-batch costs**. At scale (e.g., 10 batches/year), annual cost could reach 5,000–15,000 €/SKU in testing fees alone. This must be factored into the [[Performance Coffee Brand]] COGS model.
+> ⚠️ **Hinweis zu laufenden Kosten:** Anders als bei der [[Kölner Liste]] (einmalig pro SKU) entstehen bei Informed Sport **wiederkehrende Kosten pro Charge**. Bei größerem Maßstab (z. B. 10 Chargen/Jahr) können die jährlichen Kosten allein für Testgebühren 5.000–15.000 €/SKU erreichen. Dies muss im COGS-Modell der [[Performance Coffee Brand]] berücksichtigt werden.
 
-## Trigger Condition
+## Auslösebedingung
 
-From the source: certification is triggered **after 500+ sold boxes AND positive Phase 1 feedback**. This is a milestone-based gating approach — do not pursue Informed Sport before proving product-market fit with [[Kölner Liste]] in Phase 1.
+Laut Quelldokument wird die Zertifizierung **nach 500+ verkauften Boxen UND positivem Phase-1-Feedback** ausgelöst. Dabei handelt es sich um einen meilensteinbasierten Ansatz — Informed Sport sollte nicht verfolgt werden, bevor die Produkt-Markt-Passung mit der [[Kölner Liste]] in Phase 1 nachgewiesen wurde.
 
-## CMO Requirements
+## CMO-Anforderungen
 
-- CMO must exclusively use **Informed Sport-approved raw material suppliers**
-- This constrains CMO selection — not all GMP-certified CMOs are Informed Sport-capable
-- Must be verified as part of [[CMO Sourcing Performance Coffee]] evaluation
+- Der CMO muss ausschließlich **Informed Sport-zugelassene Rohstofflieferanten** verwenden
+- Dies schränkt die CMO-Auswahl ein — nicht alle GMP-zertifizierten CMOs sind Informed Sport-fähig
+- Muss im Rahmen der Bewertung gemäß [[CMO Sourcing Performance Coffee]] geprüft werden
 
-## Comparison with Other Certifications
+## Vergleich mit anderen Zertifizierungen
 
-| Feature | [[Kölner Liste]] | Informed Sport | [[NSF Certified for Sport]] |
+| Merkmal | [[Kölner Liste]] | Informed Sport | [[NSF Certified for Sport]] |
 |---|---|---|---|
-| Operator | Regional (DE) | LGC Group (pan-EU) | NSF International (US) |
-| Batch testing | No | ✅ Every batch | ✅ Every batch |
-| Supply chain audit | No | Partial (supplier approval) | Full audit |
-| International recognition | DACH | EU + International | USA (gold standard) |
-| Cost/SKU setup | 1.5–2.5k € | 3–6k € | 5–10k € |
-| Ongoing cost | Low | Medium (per batch) | High (annual re-cert) |
+| Betreiber | Regional (DE) | LGC Group (pan-EU) | NSF International (US) |
+| Batch-Testing | Nein | ✅ Jede Charge | ✅ Jede Charge |
+| Lieferkettenaudit | Nein | Teilweise (Lieferantenzulassung) | Vollständiges Audit |
+| Internationale Anerkennung | DACH | EU + International | USA (Goldstandard) |
+| Kosten/SKU Einrichtung | 1,5–2,5k € | 3–6k € | 5–10k € |
+| Laufende Kosten | Gering | Mittel (pro Charge) | Hoch (jährliche Rezertifizierung) |
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — project
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — source document
-- [[Kölner Liste]] — Stufe 1 predecessor certification
-- [[NSF Certified for Sport]] — Stufe 3 (US gold standard)
-- [[NEM Konformität]] — parallel mandatory food law track
-- [[CMO Sourcing Performance Coffee]] — CMO supply chain requirements
-- [[LGC Group]] — certifying body
+- [[Performance Coffee Brand]] — Projekt
+- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Quelldokument
+- [[Kölner Liste]] — Stufe-1-Vorgängerzertifizierung
+- [[NSF Certified for Sport]] — Stufe 3 (US-Goldstandard)
+- [[NEM Konformität]] — paralleler, verpflichtender lebensmittelrechtlicher Pfad
+- [[CMO Sourcing Performance Coffee]] — CMO-Lieferkettenanforderungen
+- [[LGC Group]] — Zertifizierungsstelle

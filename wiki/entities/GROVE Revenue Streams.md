@@ -1,22 +1,22 @@
 ---
-title: GROVE Revenue Streams
+title: GROVE Einnahmequellen
 type: entity
 tags: [cafe, grove, revenue, streams, finanzen, online-shop, merch, streaming, events, wholesale, grove-records, label]
 sources: ["raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-16
 updated: 2026-06-16
-summary: Complete GROVE revenue stream overview across 8 channels — café sales, bar/DJ events, external GROVE Sessions, online shop/merch, Vietnamese Coffee brand, ROYCE chocolate, streaming income, and GROVE Records label; earliest channels can start before café opens
+summary: Vollständige Übersicht der GROVE-Einnahmequellen über 8 Kanäle — Café-Umsatz, Bar/DJ-Events, externe GROVE Sessions, Online-Shop/Merch, vietnamesische Kaffeemarke, ROYCE-Schokolade, Streaming-Einnahmen und das Label GROVE Records; die frühesten Kanäle können bereits vor Café-Eröffnung starten
 ---
 
-# GROVE Revenue Streams
+# GROVE Einnahmequellen
 
-## Overview
+## Überblick
 
-GROVE is structured as a multi-revenue-stream business from the start. Not all streams require the physical café to be open — some can generate income and brand equity beginning in mid-2026.
+GROVE ist von Anfang an als Unternehmen mit mehreren Einnahmequellen konzipiert. Nicht alle Streams erfordern ein geöffnetes Café — einige können bereits ab Mitte 2026 Einnahmen und Markenwert generieren.
 
 ---
 
-## Revenue Stream Matrix
+## Einnahmequellen-Matrix
 
 | Stream | Ab wann | Monatliches Potenzial (Phase 3) |
 |---|---|---|
@@ -31,64 +31,64 @@ GROVE is structured as a multi-revenue-stream business from the start. Not all s
 
 ---
 
-## Stream Details
+## Details zu den einzelnen Streams
 
 ### 1. Café-Umsatz
-Core revenue. Day-to-night modular operation. Break-even at 19.000 € Monatsumsatz (Month 4, Juni 2027). Target Monat 12+: Ø 25.000 €/Monat.
+Kerneinnahme. Modularer Betrieb von Tag bis Nacht. Break-even bei 19.000 € Monatsumsatz (Monat 4, Juni 2027). Ziel ab Monat 12+: Ø 25.000 €/Monat.
 
-### 2. Bar & DJ Events (in-café)
-Fr/Sa evenings, DJ events. Revenue-share or free entry. GEMA/GVL costs ~140–290 €/Monat total.
+### 2. Bar & DJ-Events (im Café)
+Fr/Sa-Abende, DJ-Events. Umsatzbeteiligung oder freier Eintritt. GEMA/GVL-Kosten insgesamt ca. 140–290 €/Monat.
 
 ### 3. Externe GROVE Sessions
-**Only stream that starts immediately** — before café opens.
-- Events at partner cafés (Five Elephant, Fjord, 19grams or small FHain/PB venues)
-- Ticket model: 10–15 € × 80–150 guests = 800–2.250 € per event
-- Venue pitch: GROVE brings community + content, venue keeps all drink revenue
-- Builds brand, audience, and DJcommunity before Day 1
-- See [[GROVE Sessions External]]
+**Einziger Stream, der sofort startet** — vor Café-Eröffnung.
+- Events in Partner-Cafés (Five Elephant, Fjord, 19grams oder kleinere Venues in FHain/PB)
+- Ticket-Modell: 10–15 € × 80–150 Gäste = 800–2.250 € pro Event
+- Venue-Pitch: GROVE bringt Community + Content, die Venue behält alle Getränkeeinnahmen
+- Baut Marke, Publikum und DJ-Community vor Tag 1 auf
+- Siehe [[GROVE Sessions External|Externe GROVE Sessions]]
 
 ### 4. Online-Shop
-Via Shopify Basic (36 €/Monat). Products: Tote Bag, Sticker Pack, Kaffeebohnen, Gift Card (from Opening), Tumbler, T-Shirt Drops, Beanie, Gift Box (Month 3+), Kaffee-Abo, Naturwein-Kollab (Month 9+).
-See [[Merch und Online Shop Strategy]].
+Über Shopify Basic (36 €/Monat). Produkte: Tote Bag, Sticker Pack, Kaffeebohnen, Geschenkkarte (ab Eröffnung), Tumbler, T-Shirt-Drops, Beanie, Geschenkbox (ab Monat 3+), Kaffee-Abo, Naturwein-Kollaboration (ab Monat 9+).
+Siehe [[Merch und Online Shop Strategy|Merch- und Online-Shop-Strategie]].
 
 ### 5. Vietnamese Coffee Eigenmarke + Phin-Sets
 - GROVE Signature Blend (Robusta, 250g): 16–20 €, Marge 58–65%
 - GROVE Smooth Blend (Arabica, 250g): 16–20 €
-- Phin-Filter-Set (branded): Marge 60–70%
-- Wholesale potential from Month 9+
-See [[Vietnamese Coffee GROVE]].
+- Phin-Filter-Set (gebrandmarkt): Marge 60–70%
+- Wholesale-Potenzial ab Monat 9+
+Siehe [[Vietnamese Coffee GROVE|Vietnamesischer Kaffee GROVE]].
 
 ### 6. ROYCE' Nama Schokolade
-Phase 2 (Month 6+). In-café per piece + gift boxes.
-See [[ROYCE Nama Schokolade]].
+Phase 2 (ab Monat 6). Im Café als Einzelstück + Geschenkboxen.
+Siehe [[ROYCE Nama Schokolade]].
 
-### 7. Streaming Income
-Twitch subscriptions, YouTube ad revenue once channel grows.
-- Phase 1: Minimal (brand building)
-- Phase 2 (ab 2028): 200–1.500 €/Monat realistic
-See [[Streaming Strategy GROVE]].
+### 7. Streaming-Einnahmen
+Twitch-Abonnements, YouTube-Werbeeinnahmen sobald der Kanal wächst.
+- Phase 1: Minimal (Markenaufbau)
+- Phase 2 (ab 2028): 200–1.500 €/Monat realistisch
+Siehe [[Streaming Strategy GROVE|Streaming-Strategie GROVE]].
 
-### 8. GROVE Records (Jahr 3+)
-Micro-label. Live set releases on Bandcamp/Spotify via DistroKid (~20 €/Jahr). Brand asset more than revenue source. DPMA Trademark Klasse 41.
-- Streaming revenue: 100–500 €/Monat (gering)
-- Value: Brand credibility, PR, community
+### 8. GROVE Records (ab Jahr 3)
+Micro-Label. Veröffentlichung von Live-Sets auf Bandcamp/Spotify über DistroKid (~20 €/Jahr). Eher Marken-Asset als Einnahmequelle. DPMA-Marke Klasse 41.
+- Streaming-Einnahmen: 100–500 €/Monat (gering)
+- Wert: Markenglaubwürdigkeit, PR, Community
 
 ---
 
-## Customer Retention
+## Kundenbindung
 
-- **Apple/Google Wallet Stempelkarte** via loyal-app.de (~49–99 €/Monat)
+- **Apple/Google Wallet Stempelkarte** über loyal-app.de (~49–99 €/Monat)
 - 9 Stempel → 10. Getränk gratis
-- Push-Notifications für Events/Specials
+- Push-Benachrichtigungen für Events/Specials
 - Integration mit Orderbird Pro (Kassensystem)
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[GROVE Businessplan und Betriebshandbuch 2026]] — parent plan
-- [[GROVE Sessions External]] — pre-opening revenue stream
-- [[Vietnamese Coffee GROVE]] — own-brand product stream
-- [[ROYCE Nama Schokolade]] — Phase 2 product stream
-- [[Merch und Online Shop Strategy]] — online shop strategy
-- [[Streaming Strategy GROVE]] — streaming income
+- [[GROVE Businessplan und Betriebshandbuch 2026]] — übergeordneter Plan
+- [[GROVE Sessions External|Externe GROVE Sessions]] — Einnahmequelle vor Eröffnung
+- [[Vietnamese Coffee GROVE|Vietnamesischer Kaffee GROVE]] — Eigenmarken-Produktstream
+- [[ROYCE Nama Schokolade]] — Produkt-Stream Phase 2
+- [[Merch und Online Shop Strategy|Merch- und Online-Shop-Strategie]] — Online-Shop-Strategie
+- [[Streaming Strategy GROVE|Streaming-Strategie GROVE]] — Streaming-Einnahmen

@@ -5,70 +5,70 @@ tags: [supplement, adaptogen, ashwagandha, cortisol, stress, performance-cafe, K
 sources: ["raw/Business/PerformanceCafe/hai-onepager.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Branded ashwagandha root extract (KSM-66 by Ixoreal Biomed) included at 300mg in Performance Coffee Brand Tier-1 stack — cortisol reduction, stress resilience; most-studied ashwagandha extract
+summary: Markengebundener Ashwagandha-Wurzelextrakt (KSM-66 von Ixoreal Biomed), enthalten mit 300mg im Performance Coffee Brand Tier-1-Stack — Cortisolreduktion, Stressresilienz; meistuntersuchter Ashwagandha-Extrakt
 ---
 
 # Ashwagandha KSM-66
 
-## Overview
+## Überblick
 
-**KSM-66** is a branded, full-spectrum ashwagandha (*Withania somnifera*) root extract developed by **Ixoreal Biomed**. It is included at **300mg** in the [[Performance Coffee Brand]] Tier-1 stack for cortisol reduction and stress resilience.
+**KSM-66** ist ein markengebundener Vollspektrum-Ashwagandha-Extrakt (*Withania somnifera*) aus der Wurzel, entwickelt von **Ixoreal Biomed**. Er ist mit **300mg** im [[Performance Coffee Brand]] Tier-1-Stack enthalten und dient der Cortisolreduktion sowie der Stressresilienz.
 
-## Why KSM-66 Specifically
+## Warum speziell KSM-66
 
-KSM-66 is the most clinically studied ashwagandha extract:
-- Proprietary extraction process that preserves the full-spectrum root profile
-- Over 22 gold-standard human clinical trials
-- Standardized to ≥5% withanolides (active compounds)
-- Made from root only (not leaves) — traditional Ayurvedic formulation
+KSM-66 ist der klinisch am besten untersuchte Ashwagandha-Extrakt:
+- Proprietäres Extraktionsverfahren, das das Vollspektrum-Wurzelprofil erhält
+- Über 22 klinische Humanstudien nach Goldstandard
+- Standardisiert auf ≥5% Withanolide (Wirkstoffe)
+- Ausschließlich aus der Wurzel (nicht aus Blättern) — traditionelle ayurvedische Formulierung
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| Cortisol reduction | Reduces serum cortisol levels |
-| HPA axis modulation | Regulates stress response system |
-| Testosterone support | Some evidence for testosterone maintenance |
-| Anxiolytic | Reduces anxiety symptoms |
-| Sleep quality | May improve sleep onset and quality |
-| Cognitive function | Supports memory and reaction time |
+| Cortisolreduktion | Senkt den Cortisolspiegel im Serum |
+| HPA-Achsen-Modulation | Reguliert das Stressreaktionssystem |
+| Testosteronunterstützung | Einige Belege für den Erhalt des Testosteronspiegels |
+| Anxiolytisch | Reduziert Angstsymptome |
+| Schlafqualität | Kann Einschlafen und Schlafqualität verbessern |
+| Kognitive Funktion | Unterstützt Gedächtnis und Reaktionszeit |
 
-## Dosing in Performance Coffee Brand
+## Dosierung im Performance Coffee Brand
 
-- **Tier-1 dose:** 300mg per sachet
-- **Clinical dose range:** 300–600mg/day — 300mg is clinically relevant
-- **Note:** Often recommended in 2× daily dosing (AM + PM); single 300mg in a morning coffee sachet is at the low end of clinical doses
+- **Tier-1-Dosis:** 300mg pro Sachet
+- **Klinischer Dosierungsbereich:** 300–600mg/Tag — 300mg ist klinisch relevant
+- **Hinweis:** Häufig wird eine 2×-tägliche Dosierung empfohlen (morgens + abends); einzelne 300mg in einem morgendlichen Kaffee-Sachet liegen am unteren Ende der klinischen Dosierungen
 
-## Synergy with Coffee
+## Synergie mit Kaffee
 
-Ashwagandha has a particularly interesting synergy with coffee in the Tier-1 stack:
-- Coffee elevates cortisol (especially when consumed without food in the morning)
-- Ashwagandha blunts cortisol response
-- Net effect: energy and focus from caffeine without cortisol spike
-- This is a core product narrative: *"calm, focused energy"*
+Ashwagandha hat eine besonders interessante Synergie mit Kaffee im Tier-1-Stack:
+- Kaffee erhöht den Cortisolspiegel (insbesondere wenn er morgens ohne Nahrung konsumiert wird)
+- Ashwagandha dämpft die Cortisolreaktion
+- Nettoeffekt: Energie und Fokus durch Koffein ohne Cortisolspitze
+- Dies ist eine zentrale Produktbotschaft: *„ruhige, fokussierte Energie"*
 
-## Regulatory Status
+## Regulatorischer Status
 
-- Widely sold as dietary supplement in EU
-- No Novel Food classification required
-- Generally recognized as safe at supplement doses
-- EFSA has not restricted ashwagandha supplementation (though some national-level reviews are ongoing in specific markets)
+- In der EU weit verbreitet als Nahrungsergänzungsmittel erhältlich
+- Keine Novel Food-Einstufung erforderlich
+- Bei Supplementdosen allgemein als sicher anerkannt
+- EFSA hat die Ashwagandha-Supplementierung nicht eingeschränkt (obwohl in bestimmten Märkten einige nationale Überprüfungen laufen)
 
-> ⚠️ **Note:** France's ANSES raised concerns about liver toxicity cases associated with ashwagandha (2021). While not an EU-wide restriction, this is worth monitoring for the German/EU market. KSM-66 specifically has a clean safety record in its clinical trials.
+> ⚠️ **Hinweis:** Frankreichs ANSES äußerte Bedenken zu Lebertoxizitätsfällen im Zusammenhang mit Ashwagandha (2021). Dies ist zwar keine EU-weite Einschränkung, sollte jedoch für den deutschen/europäischen Markt weiter beobachtet werden. KSM-66 weist in seinen klinischen Studien eine einwandfreie Sicherheitsbilanz auf.
 
-## Brand IP Note
+## Marken-IP-Hinweis
 
-KSM-66 is a **patented, branded ingredient** by Ixoreal Biomed. Unlike [[Urolithin A]] ([[Amazentis]]) or NMN ([[Chromadex Niagen Bioscience]]) where IP creates major barriers, KSM-66 IP works differently:
-- Ixoreal actively licenses KSM-66 to supplement brands
-- Licensing is the **business model** — not a blocker
-- The brand/trademark "KSM-66" may be used on product if sourced from Ixoreal
-- This makes KSM-66 a **commercially accessible branded ingredient** vs. a barrier ingredient
+KSM-66 ist ein **patentierter Markenbestandteil** von Ixoreal Biomed. Anders als bei [[Urolithin A]] ([[Amazentis]]) oder NMN ([[Chromadex Niagen Bioscience]]), wo das geistige Eigentum erhebliche Hürden schafft, funktioniert das KSM-66-IP anders:
+- Ixoreal lizenziert KSM-66 aktiv an Supplementmarken
+- Lizenzierung ist das **Geschäftsmodell** — kein Hindernis
+- Die Marke/der Markenname „KSM-66" darf auf dem Produkt verwendet werden, wenn er von Ixoreal bezogen wird
+- Damit ist KSM-66 ein **kommerziell zugänglicher Markenbestandteil** im Gegensatz zu einem Barriere-Bestandteil
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — primary application
-- [[Performance Coffee Brand Hai Onepager]] — source document
-- [[Longevity Stack Ingredients]] — broader ingredient context
-- [[Taurin]] — co-Tier-1 ingredient
-- [[Amazentis]] — contrast: IP as barrier vs. KSM-66 IP as licensing model
-- [[L-Theanin]] — co-adaptogenic synergy for calm focus
+- [[Performance Coffee Brand]] — primäre Anwendung
+- [[Performance Coffee Brand Hai Onepager|Performance Coffee Brand Hai Onepager]] — Quelldokument
+- [[Longevity Stack Ingredients|Longevity Stack Inhaltsstoffe]] — breiterer Zutatenkontext
+- [[Taurin]] — gemeinsamer Tier-1-Bestandteil
+- [[Amazentis]] — Kontrast: IP als Hindernis vs. KSM-66-IP als Lizenzmodell
+- [[L-Theanin]] — gemeinsame adaptogene Synergie für ruhigen Fokus

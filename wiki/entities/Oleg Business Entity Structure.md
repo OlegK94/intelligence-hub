@@ -1,18 +1,18 @@
 ---
-title: Oleg Business Entity Structure
+title: Oleg Unternehmensstruktur
 type: entity
 tags: [business-entity, gmbh, ug, holding, wagglz, ok-capital, struktur, steuer, finanzen]
 sources: ["raw/Business/OK-Capital/OK Capital UG.md", "raw/01-Strategie-Business/Cyprus Relocation.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md", "raw/00-MOC/MOC Strategie & Business.md"]
 created: 2026-06-13
 updated: 2026-06-12
-summary: Oleg's full business entity structure — OK Capital UG (holding, 100% Oleg) → Wagglz GmbH (operativ, 100% UG); monthly holding costs 31.60 €; structure relevant for Cyprus relocation and café planning
+summary: Olegs vollständige Unternehmensstruktur — OK Capital UG (Holding, 100% Oleg) → Wagglz GmbH (operativ, 100% UG); monatliche Holdingkosten 31,60 €; Struktur relevant für Zypern-Relocation und Café-Planung
 ---
 
-# Oleg Business Entity Structure
+# Oleg Unternehmensstruktur
 
-## Overview
+## Überblick
 
-[[Oleg Personal Context|Oleg Kober]] operates through a two-tier entity structure:
+[[Oleg Personal Context|Oleg Kober]] operiert über eine zweistufige Unternehmensstruktur:
 
 ```
 Oleg Kober (Privat)
@@ -22,61 +22,61 @@ OK Capital UG  ←── Holding
   Wagglz GmbH  ←── Operativ
 ```
 
-## Entities
+## Gesellschaften
 
 ### OK Capital UG (Holding)
-- **Type:** UG (haftungsbeschränkt)
-- **Owner:** Oleg Kober (100%)
-- **Role:** Holding company
+- **Rechtsform:** UG (haftungsbeschränkt)
+- **Inhaber:** Oleg Kober (100%)
+- **Funktion:** Holdinggesellschaft
 - **Bank:** Finom
-- **Balance (Jun 2026):** 0,00 €
-- **Monthly costs:** ~31,60 € (WestX 23,50 € + Google Workspace 8,10 €)
-- **Shareholder loan:** 100 € from Oleg (01.03.2026)
-- Full detail: [[OK Capital UG]]
+- **Kontostand (Jun 2026):** 0,00 €
+- **Monatliche Kosten:** ~31,60 € (WestX 23,50 € + Google Workspace 8,10 €)
+- **Gesellschafterdarlehen:** 100 € von Oleg (01.03.2026)
+- Vollständige Details: [[OK Capital UG]]
 
 ### Wagglz GmbH (Operativ)
-- **Type:** GmbH
-- **Owner:** OK Capital UG (100%)
-- **Role:** Operating company
-- **Status:** Documented as active ("Operativ")
-- Full detail: [[Wagglz GmbH]]
+- **Rechtsform:** GmbH
+- **Inhaber:** OK Capital UG (100%)
+- **Funktion:** Operative Gesellschaft
+- **Status:** Als aktiv dokumentiert („Operativ")
+- Vollständige Details: [[Wagglz GmbH]]
 
-## ⚠️ Contradiction Resolution (Previously Ambiguous)
+## ⚠️ Widerspruchsklärung (zuvor mehrdeutig)
 
-Earlier wiki references described Oleg's structure as "active GmbH + dormant UG" without specifying their relationship. The [[OK Capital UG]] source document (2026-06-12) clarifies:
+Frühere Wiki-Einträge beschrieben Olegs Struktur als „aktive GmbH + ruhende UG", ohne deren Verhältnis zueinander zu spezifizieren. Das Quelldokument [[OK Capital UG]] (2026-06-12) stellt klar:
 
-| Earlier Description | Corrected Understanding |
+| Frühere Beschreibung | Korrigiertes Verständnis |
 |---|---|
-| "Active GmbH" | = Wagglz GmbH (operativ, 100% held by UG) |
-| "Dormant UG" | = ⚠️ Partially incorrect — OK Capital UG is active as a holding |
+| „Aktive GmbH" | = Wagglz GmbH (operativ, 100% im Besitz der UG) |
+| „Ruhende UG" | = ⚠️ Teilweise falsch — OK Capital UG ist als Holding aktiv |
 
-The UG is **not dormant** — it is the active holding company with documented costs and a bank account. "Dormant" in earlier pages likely referred to the UG having no operational trading activity, not formal dissolution or inactivity.
+Die UG ist **nicht ruhend** — sie ist die aktive Holdinggesellschaft mit dokumentierten Kosten und einem Bankkonto. „Ruhend" in früheren Seiten bezog sich wahrscheinlich darauf, dass die UG keine operative Handelstätigkeit ausübt, nicht auf eine formale Auflösung oder Inaktivität.
 
-> ⚠️ **This updates and partially contradicts earlier [[Café Berlin Partnership Hai — Planning Detail]] note** which flagged "GmbH (Oleg, ruhend)" as possibly the GmbH being dormant. More likely: the source uses "ruhend" to mean the GmbH is not yet deployed for the café venture — not that it is legally dormant.
+> ⚠️ **Dies aktualisiert und widerspricht teilweise dem früheren Hinweis in [[Café Berlin Partnership Hai — Planning Detail]]**, der „GmbH (Oleg, ruhend)" als möglicherweise ruhende GmbH kennzeichnete. Wahrscheinlicher ist: Die Quelle verwendet „ruhend" im Sinne von noch nicht für das Café-Vorhaben eingesetzt — nicht im Sinne einer rechtlich ruhenden Gesellschaft.
 
-## Strategic Relevance
+## Strategische Relevanz
 
-### For Cyprus Relocation
-- Active German entities + Cyprus residency creates complex tax situation
-- **Wegzugsteuer** (exit tax) applies to GmbH shares upon leaving Germany
-- **Permanent establishment risk** if GmbH remains active while Oleg is Cyprus-resident
-- Requires [[Deutsch-Zypriotischer Steuerberater]] guidance
-- Full context: [[Cyprus Relocation]] / [[Cyprus Tax Regime]]
+### Für die Zypern-Relocation
+- Aktive deutsche Gesellschaften + Zypern-Wohnsitz erzeugen eine komplexe Steuersituation
+- **Wegzugsteuer** fällt auf GmbH-Anteile beim Verlassen Deutschlands an
+- **Betriebsstättenrisiko**, wenn die GmbH aktiv bleibt, während Oleg in Zypern ansässig ist
+- Erfordert Beratung durch einen [[Deutsch-Zypriotischer Steuerberater|deutsch-zypriotischen Steuerberater]]
+- Vollständiger Kontext: [[Cyprus Relocation]] / [[Cyprus Tax Regime]]
 
-### For Café Berlin
-- Three options for café legal entity (see [[Café Berlin Partnership Hai — Planning Detail]]):
-  1. Reactivate/deploy Wagglz GmbH as operating vehicle
-  2. New joint GbR/GmbH with [[Hai]]
-  3. New Gesellschaftervertrag with vesting/exit provisions
-- Option 1 is most cost-efficient (entity already exists)
+### Für das Café Berlin
+- Drei Optionen für die rechtliche Struktur des Cafés (siehe [[Café Berlin Partnership Hai — Planning Detail]]):
+  1. Wagglz GmbH als operative Gesellschaft reaktivieren/einsetzen
+  2. Neue gemeinsame GbR/GmbH mit [[Hai]]
+  3. Neuer Gesellschaftervertrag mit Vesting- und Exit-Regelungen
+- Option 1 ist am kosteneffizientesten (Gesellschaft bereits vorhanden)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[OK Capital UG]] — holding entity detail
-- [[Wagglz GmbH]] — operating entity detail
-- [[Oleg Personal Context]] — ultimate owner
-- [[Cyprus Relocation]] — relocation implications
-- [[Cyprus Tax Regime]] — tax framework
-- [[Café Berlin Partnership Hai]] — café venture legal structure
-- [[Financial Independence]] — strategic goal
-- [[MOC Strategie und Business]] — strategic overview
+- [[OK Capital UG]] — Details zur Holdinggesellschaft
+- [[Wagglz GmbH]] — Details zur operativen Gesellschaft
+- [[Oleg Personal Context|Oleg Persönlicher Kontext]] — wirtschaftlicher Eigentümer
+- [[Cyprus Relocation]] — Implikationen der Relocation
+- [[Cyprus Tax Regime]] — steuerlicher Rahmen
+- [[Café Berlin Partnership Hai]] — rechtliche Struktur des Café-Vorhabens
+- [[Financial Independence]] — strategisches Ziel
+- [[MOC Strategie und Business]] — strategischer Überblick

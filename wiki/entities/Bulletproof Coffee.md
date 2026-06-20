@@ -5,47 +5,47 @@ tags: [functional-coffee, competitor, MCT, butter-coffee, keto, performance-cafe
 sources: ["raw/Business/PerformanceCafe/research/04_marktanalyse.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: US/EU functional coffee brand; MCT oil (C8) + coffee "butter coffee" concept; concept peaked 2015–2018; no NMN/NAD+/Urolithin A/mushrooms; $2.50/portion for sticks; DACH brand barely active; not a serious current competitor
+summary: US/EU Functional-Coffee-Marke; MCT-Öl (C8) + Kaffee „Butter Coffee"-Konzept; Konzept hatte seinen Höhepunkt 2015–2018; kein NMN/NAD+/Urolithin A/Pilze; 2,50 $/Portion für Sticks; DACH-Marke kaum aktiv; kein ernstzunehmender aktueller Wettbewerber
 ---
 
 # Bulletproof Coffee
 
-## Overview
+## Überblick
 
-**Bulletproof Coffee** pioneered the high-fat "butter coffee" concept combining coffee with MCT oil (Brain Octane C8) and optionally butter/ghee. While groundbreaking in 2015, the concept has not evolved and is now considered **dated** in the context of modern longevity science.
+**Bulletproof Coffee** war Pionier des fettreichen „Butter Coffee"-Konzepts, das Kaffee mit MCT-Öl (Brain Octane C8) und optional Butter/Ghee kombiniert. Obwohl das Konzept 2015 bahnbrechend war, hat es sich seitdem nicht weiterentwickelt und gilt im Kontext moderner Longevity-Wissenschaft heute als **überholt**.
 
-## Key Facts
+## Eckdaten
 
-| Parameter | Value |
+| Parameter | Wert |
 |---|---|
-| **Distribution** | US and EU (limited) |
-| **Peak** | 2015–2018 (Butter Coffee trend) |
-| **Core products** | Ground Coffee, Brain Octane Oil (MCT C8), Instamix, Collagen Protein |
-| **Price/portion** | Instamix (sticks): ~$2.50; Ground Coffee: ~$16/340g |
-| **EU/DACH** | Brand barely active in DACH |
+| **Vertrieb** | USA und EU (begrenzt) |
+| **Höhepunkt** | 2015–2018 (Butter Coffee-Trend) |
+| **Kernprodukte** | Ground Coffee, Brain Octane Oil (MCT C8), Instamix, Collagen Protein |
+| **Preis/Portion** | Instamix (Sticks): ~$2,50; Ground Coffee: ~$16/340g |
+| **EU/DACH** | Marke im DACH-Raum kaum aktiv |
 
-## Product Philosophy
+## Produktphilosophie
 
-**Stack:** Coffee + MCT Oil (C8) — that's the core thesis.
-**Longevity claim:** Minimal — ketogenic orientation; mTOR suppression implied as longevity argument.
-**Actual longevity stack:** None — no NMN, NAD+, Urolithin A, or mushroom extracts.
+**Stack:** Kaffee + MCT-Öl (C8) — das ist die zentrale These.
+**Longevity-Anspruch:** Minimal — ketogene Ausrichtung; mTOR-Suppression wird implizit als Longevity-Argument angeführt.
+**Tatsächlicher Longevity-Stack:** Keiner — kein NMN, NAD+, Urolithin A oder Pilzextrakte.
 
-## Competitive Weaknesses
+## Wettbewerbliche Schwächen
 
-1. **Dated concept** — Butter Coffee peaked 2015–2018; no meaningful innovation since
-2. **No longevity stack** — MCT oil only; the category has moved far beyond this
-3. **High caloric load** — MCT/butter adds ~100–300 kcal; incompatible with fat loss protocols
-4. **DACH inactive** — essentially not a factor in the German market
-5. **No scientific longevity claims** — mTOR suppression is an indirect, weakly supported mechanism
+1. **Überholtes Konzept** — Butter Coffee hatte seinen Höhepunkt 2015–2018; seitdem keine nennenswerte Innovation
+2. **Kein Longevity-Stack** — nur MCT-Öl; die Kategorie hat sich weit darüber hinaus entwickelt
+3. **Hohe Kalorienlast** — MCT/Butter fügt ~100–300 kcal hinzu; nicht kompatibel mit Fettabbau-Protokollen
+4. **DACH inaktiv** — faktisch kein relevanter Faktor im deutschen Markt
+5. **Keine wissenschaftlichen Longevity-Aussagen** — mTOR-Suppression ist ein indirekter, schwach belegter Mechanismus
 
-## Significance to Performance Café
+## Bedeutung für das Performance Café
 
-Bulletproof represents the **first generation** of functional coffee — coffee + one functional ingredient (MCT). The market has matured significantly since. Performance Café's longevity stack (NMN, mushrooms, NAD+ precursors) represents the **third generation** of functional coffee, skipping the second-generation mushroom-coffee wave to claim the longevity-science high ground.
+Bulletproof repräsentiert die **erste Generation** von Functional Coffee — Kaffee plus eine funktionale Zutat (MCT). Der Markt hat sich seitdem erheblich weiterentwickelt. Der Longevity-Stack des Performance Café (NMN, Pilze, NAD+-Vorläufer) steht für die **dritte Generation** von Functional Coffee und überspringt die Mushroom-Coffee-Welle der zweiten Generation, um die Spitzenposition in der Longevity-Wissenschaft zu beanspruchen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Marktanalyse Source Detail]] — source document
-- [[Functional Coffee Competitive Landscape]] — comparative analysis
-- [[Four Sigmatic]] — second-generation competitor
-- [[Performance Coffee Brand]] — third-generation concept
-- [[Functional Coffee White Space]] — market opportunity
+- [[Performance Cafe Marktanalyse Source Detail]] — Quelldokument
+- [[Functional Coffee Competitive Landscape|Wettbewerbslandschaft Functional Coffee]] — vergleichende Analyse
+- [[Four Sigmatic]] — Wettbewerber der zweiten Generation
+- [[Performance Coffee Brand|Performance Coffee Marke]] — Konzept der dritten Generation
+- [[Functional Coffee White Space|Functional Coffee Marktlücke]] — Marktchance

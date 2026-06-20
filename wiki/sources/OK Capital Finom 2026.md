@@ -10,15 +10,15 @@ summary: Kontoübersicht für das OK Capital Finom-Konto Stand Juni 2026 — Sal
 
 # OK Capital Finom 2026
 
-## Overview
+## Übersicht
 
-This source document (aktualisiert: 2026-06-12) captures the balance and recurring cost structure for the [[OK Capital UG]] Finom bank account as of June 2026.
+Dieses Quelldokument (aktualisiert: 2026-06-12) erfasst den Kontostand und die laufende Kostenstruktur des [[OK Capital UG]] Finom-Bankkontos mit Stand Juni 2026.
 
-> For the entity summary of the broader OK Capital structure, see [[OK Capital UG]].
+> Die übergeordnete Zusammenfassung zur gesamten OK Capital-Struktur findest du unter [[OK Capital UG]].
 
-## Kontostand (Account Balance)
+## Kontostand
 
-| Metric | Wert |
+| Kennzahl | Wert |
 |---|---|
 | Saldo Jun 2026 | **0,00 €** |
 | Aktualisiert | 2026-06-12 |
@@ -31,15 +31,15 @@ This source document (aktualisiert: 2026-06-12) captures the balance and recurri
 | Google | 8,10 €/Mo |
 | **Gesamt** | **31,60 €/Mo** |
 
-> ⚠️ **Note:** WestX and Google are listed as recurring monthly costs against this account. The nature of these costs (subscription services, hosting, tooling) is not further specified in the source document.
+> ⚠️ **Hinweis:** WestX und Google sind als monatlich wiederkehrende Kosten auf diesem Konto aufgeführt. Die Art dieser Kosten (Abonnementdienste, Hosting, Tools) ist im Quelldokument nicht näher spezifiziert.
 
-## Darlehen (Loan)
+## Darlehen
 
 - **Oleg Darlehen:** 100 € (01.03.2026)
-- Direction and terms not specified in source — [[Oleg Personal Context|Oleg]] lent 100 € to (or via) OK Capital UG on 01.03.2026.
+- Richtung und Konditionen im Quelldokument nicht angegeben — [[Oleg Personal Context|Oleg]] hat der OK Capital UG am 01.03.2026 100 € geliehen (oder über sie vermittelt).
 
-## Related Pages
+## Verwandte Seiten
 
-- [[OK Capital UG]] — parent entity
-- [[Oleg Personal Context]] — account owner / lender
-- [[Oleg Business Entity Structure]] — broader entity structure context
+- [[OK Capital UG]] — übergeordnete Gesellschaft
+- [[Oleg Personal Context]] — Kontoinhaber / Darlehensgeber
+- [[Oleg Business Entity Structure]] — weiterführender Kontext zur Unternehmensstruktur

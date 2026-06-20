@@ -5,75 +5,75 @@ tags: [training, cardio, zone2, aerobic, visceral-fat, metabolic-health, longevi
 sources: ["raw/Privat/Performance/_vault/Körper & Scan.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Low-to-moderate intensity aerobic training at Zone 2 heart rate — primary modality recommended for visceral-selective fat loss in Oleg's performance protocol; foundational for metabolic health and Hyrox aerobic base
+summary: Aerobes Training mit niedriger bis moderater Intensität im Zone-2-Herzfrequenzbereich — primäre Maßnahme zur viszeral-selektiven Fettreduktion in Olegs Performance-Protokoll; grundlegend für metabolische Gesundheit und die aerobe Hyrox-Basis
 ---
 
 # Zone 2 Training
 
-## Overview
+## Überblick
 
-**Zone 2 training** is sustained aerobic exercise performed at a low-to-moderate intensity where the body primarily uses fat as fuel and produces minimal lactate. It is widely endorsed in longevity and performance medicine (notably by [[Peter Attia]]) as the most important single training modality for long-term metabolic health.
+**Zone 2 Training** ist dauerhaftes aerobes Training bei niedriger bis moderater Intensität, bei der der Körper primär Fett als Energiequelle nutzt und minimale Laktatmengen produziert. Es wird in der Longevity- und Leistungsmedizin (insbesondere von [[Peter Attia]]) weithin als die wichtigste einzelne Trainingsform für langfristige metabolische Gesundheit empfohlen.
 
 ## Definition
 
-- **Heart rate zone:** Typically ~60–70% of maximum HR, or the highest intensity at which you can still hold a full conversation without labored breathing
-- **Lactate:** Stays below ~2 mmol/L (fat oxidation dominant)
-- **Duration:** Minimum 30–45 min per session for meaningful adaptation; 45–90 min optimal
-- **Frequency:** 3–4x/week recommended for meaningful training stimulus
+- **Herzfrequenzzone:** Typischerweise ~60–70 % der maximalen Herzfrequenz, oder die höchste Intensität, bei der man noch ein vollständiges Gespräch ohne angestrengte Atmung führen kann
+- **Laktat:** Bleibt unter ~2 mmol/L (Fettoxidation dominiert)
+- **Dauer:** Mindestens 30–45 Min. pro Einheit für eine sinnvolle Anpassung; 45–90 Min. optimal
+- **Häufigkeit:** 3–4x/Woche empfohlen für einen wirksamen Trainingsreiz
 
-## Why Zone 2 for Visceral Fat
+## Warum Zone 2 für viszerales Fett
 
-Zone 2 is uniquely effective for **visceral (intra-abdominal) fat reduction** because:
+Zone 2 ist einzigartig wirksam für die **Reduktion von viszeral em (intraabdominalem) Fett**, weil:
 
-1. **Fat oxidation:** At Zone 2 intensity, fat is the primary fuel substrate — maximizing fat mobilization from metabolically active visceral depots
-2. **Hormonal environment:** Zone 2 does not spike cortisol significantly, unlike higher-intensity work — cortisol promotes visceral fat accumulation
-3. **Mitochondrial biogenesis:** Zone 2 is the primary stimulus for new mitochondria in skeletal muscle — improving the muscle's capacity to oxidize fat at rest and during exercise
-4. **Insulin sensitivity:** Chronic Zone 2 training substantially improves insulin sensitivity, reducing fasting insulin — one of the primary drivers of visceral fat accumulation
-5. **Selectivity:** Visceral fat is more metabolically responsive to aerobic steady-state work than subcutaneous fat
+1. **Fettoxidation:** Bei Zone-2-Intensität ist Fett das primäre Brennstoffsubstrat — maximale Fettmobilisierung aus den metabolisch aktiven viszeralen Depots
+2. **Hormonelles Umfeld:** Zone 2 erhöht den Kortisolspiegel im Gegensatz zu intensiveren Trainingsformen nicht signifikant — Kortisol fördert die viszerale Fettansammlung
+3. **Mitochondriale Biogenese:** Zone 2 ist der primäre Stimulus für neue Mitochondrien in der Skelettmuskulatur — verbessert die Kapazität der Muskeln, Fett in Ruhe und während des Trainings zu oxidieren
+4. **Insulinsensitivität:** Chronisches Zone-2-Training verbessert die Insulinsensitivität erheblich und reduziert das Nüchterninsulin — einen der Haupttreiber der viszeralen Fettansammlung
+5. **Selektivität:** Viszerales Fett reagiert auf aerobe Steady-State-Belastungen metabolisch stärker als subkutanes Fett
 
-## Application in Oleg's Protocol
+## Anwendung in Olegs Protokoll
 
-Zone 2 is designated as a **Prioritätsmaßnahme** (priority action) in the structural findings from [[3D Body Scan Scaneca Mai 2026]]:
+Zone 2 ist als **Prioritätsmaßnahme** in den Strukturbefunden aus [[3D Body Scan Scaneca Mai 2026]] ausgewiesen:
 
-- **Goal:** Reduce WHR from 0.92 → <0.86 (12-week target)
-- **Mechanism:** Viszeral-selektiver Fettabbau (visceral-selective fat loss)
-- **Combined with:** Nutrition protocol (2,800 kcal / ~845 kcal deficit)
-- **Target:** Reduce total body fat from 20.3% → 14–17%
+- **Ziel:** WHR von 0,92 → <0,86 reduzieren (12-Wochen-Ziel)
+- **Mechanismus:** Viszeral-selektiver Fettabbau (visceral-selective fat loss)
+- **Kombiniert mit:** Ernährungsprotokoll (2.800 kcal / ~845 kcal Defizit)
+- **Zielwert:** Gesamtkörperfettanteil von 20,3 % → 14–17 % reduzieren
 
-See [[Körper und Body Composition Scan Source Detail]] for the structural findings document.
+Siehe [[Körper und Body Composition Scan Source Detail]] für das Strukturbefunddokument.
 
-## Zone 2 and Hyrox
+## Zone 2 und Hyrox
 
-Zone 2 training also builds the **aerobic base** required for [[Hyrox Competition]] performance:
-- The running segments between Hyrox stations are performed at near-Zone 2 intensity for most athletes at the sub-elite level
-- A stronger aerobic base means faster recovery between high-intensity stations
-- Zone 2 complements the [[Brick Training]] and high-intensity Hyrox-specific work
+Zone 2 Training baut außerdem die **aerobe Basis** auf, die für die [[Hyrox Competition|Hyrox-Wettkampf]]-Leistung erforderlich ist:
+- Die Laufsegmente zwischen den Hyrox-Stationen werden von den meisten Athleten auf dem Sub-Elite-Niveau nahe der Zone-2-Intensität absolviert
+- Eine stärkere aerobe Basis bedeutet schnellere Erholung zwischen den hochintensiven Stationen
+- Zone 2 ergänzt das [[Brick Training]] und die hochintensiven Hyrox-spezifischen Einheiten
 
-## Zone 2 Modalities
+## Zone-2-Modalitäten
 
-| Modality | Notes |
+| Modalität | Hinweise |
 |---|---|
-| Running (easy pace) | Most transferable to Hyrox |
-| Cycling | Lower impact; useful for recovery days |
-| Rowing | Full-body; relevant for SkiErg/Row Erg in Hyrox |
-| Swimming | Cross-training option |
-| Walking (incline) | Accessible starting point |
+| Laufen (lockeres Tempo) | Am direktesten auf Hyrox übertragbar |
+| Radfahren | Geringere Belastung; nützlich an Erholungstagen |
+| Rudern | Ganzkörper; relevant für SkiErg/Row Erg bei Hyrox |
+| Schwimmen | Kreuztraining-Option |
+| Gehen (Steigung) | Zugänglicher Einstiegspunkt |
 
-## Interaction with Supplement Stack
+## Wechselwirkung mit dem Supplement-Stack
 
-- **[[Kreatin]]:** Does not impair Zone 2 adaptation; supports power output in Hyrox stations
-- **[[Omega-3]]:** Reduces inflammation — supportive of Zone 2 training volume
-- **Caffeine:** Can mildly elevate HR; account for in Zone 2 calibration
+- **[[Kreatin]]:** Beeinträchtigt die Zone-2-Anpassung nicht; unterstützt die Kraftleistung an den Hyrox-Stationen
+- **[[Omega-3]]:** Reduziert Entzündungen — unterstützt das Zone-2-Trainingsvolumen
+- **Koffein:** Kann die Herzfrequenz leicht erhöhen; bei der Zone-2-Kalibrierung berücksichtigen
 
-## Related Pages
+## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026]] — WHR target triggering Zone 2 priority
-- [[Körper und Body Composition Scan Source Detail]] — source document
-- [[Hyrox Competition]] — secondary Zone 2 application (aerobic base)
-- [[Brick Training]] — complementary Hyrox training modality
-- [[BMR and TDEE]] — metabolic context
-- [[Health Protocol Master]] — master protocol
-- [[Peter Attia]] — Zone 2 framework reference
-- [[Corrective Exercise]] — parallel priority action (bilateral asymmetry)
-- [[Forward Head Posture]] — parallel structural finding
-- [[Oleg Personal Context]] — subject
+- [[3D Body Scan Scaneca Mai 2026]] — WHR-Zielwert, der die Zone-2-Priorität ausgelöst hat
+- [[Körper und Body Composition Scan Source Detail]] — Quelldokument
+- [[Hyrox Competition]] — sekundäre Zone-2-Anwendung (aerobe Basis)
+- [[Brick Training]] — ergänzende Hyrox-Trainingsmodalität
+- [[BMR and TDEE]] — metabolischer Kontext
+- [[Health Protocol Master]] — Masterprotokoll
+- [[Peter Attia]] — Zone-2-Framework-Referenz
+- [[Corrective Exercise]] — parallele Prioritätsmaßnahme (bilaterale Asymmetrie)
+- [[Forward Head Posture]] — paralleler Strukturbefund
+- [[Oleg Personal Context]] — Betroffener

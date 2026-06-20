@@ -1,61 +1,61 @@
 ---
-title: Spermidine
+title: Spermidin
 type: concept
 tags: [supplement, longevity, autophagy, polyamine, novel-food, performance-cafe, EU-regulation]
 sources: ["raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Spermidine — polyamine compound that induces autophagy; candidate ingredient for Performance Café longevity stack; EU Novel Food status unclear as of 2025 — critical regulatory research required
+summary: Spermidin — Polyamin-Verbindung, die Autophagie induziert; Kandidateninhaltsstoff für den Performance Café Longevity-Stack; EU-Novel-Food-Status ab 2025 unklar — kritische regulatorische Recherche erforderlich
 ---
 
-# Spermidine
+# Spermidin
 
-## Overview
+## Übersicht
 
-**Spermidine** is a naturally occurring **polyamine** found in all living organisms. It is a potent inducer of **autophagy** — the cellular self-cleaning process central to longevity research. It is a candidate ingredient in the [[Performance Coffee Brand]] longevity stack with uncertain EU regulatory status.
+**Spermidin** ist ein natürlich vorkommendes **Polyamin**, das in allen lebenden Organismen vorkommt. Es ist ein potenter Induktor von **Autophagie** — dem zellulären Selbstreinigungsprozess, der im Mittelpunkt der Longevity-Forschung steht. Es ist ein Kandidateninhaltsstoff im [[Performance Coffee Brand|Performance Coffee Brand]] Longevity-Stack mit unklarem EU-regulatorischen Status.
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| **Autophagy induction** | Triggers cellular waste removal — key longevity pathway |
-| **Epigenetic regulation** | Modulates histone acetylation |
-| **Anti-inflammatory** | Reduces inflammatory markers |
-| **Cardiovascular** | Emerging evidence for cardiac health benefits |
-| **Neuroprotective** | Potential cognitive preservation effects |
+| **Autophagie-Induktion** | Löst zelluläre Abfallbeseitigung aus — zentraler Longevity-Pathway |
+| **Epigenetische Regulation** | Moduliert Histon-Acetylierung |
+| **Entzündungshemmend** | Reduziert Entzündungsmarker |
+| **Kardiovaskulär** | Zunehmende Evidenz für Vorteile der Herzgesundheit |
+| **Neuroprotektiv** | Potenzielle neuroprotektive Effekte auf kognitive Funktionen |
 
-## Longevity Rationale
+## Longevity-Begründung
 
-Spermidine activates autophagy through mechanisms related to:
-- **mTOR inhibition** — same pathway as rapamycin (a leading longevity intervention)
-- **AMPK activation** — metabolic longevity pathway (shared with [[Chlorogenic Acid]])
-- **Mitochondrial health** — complementary to [[Urolithin A]] (mitophagy)
+Spermidin aktiviert Autophagie durch Mechanismen, die mit Folgendem zusammenhängen:
+- **mTOR-Hemmung** — gleicher Pathway wie Rapamycin (eine führende Longevity-Intervention)
+- **AMPK-Aktivierung** — metabolischer Longevity-Pathway (geteilt mit [[Chlorogenic Acid|Chlorogensäure]])
+- **Mitochondriale Gesundheit** — komplementär zu [[Urolithin A]] (Mitophagie)
 
-Natural food sources: wheat germ (highest), aged cheese, mushrooms, legumes.
+Natürliche Nahrungsquellen: Weizenkeime (höchster Gehalt), gereifter Käse, Pilze, Hülsenfrüchte.
 
-## EU Novel Food Status
+## EU-Novel-Food-Status
 
-**Status: Unclear — Research Required (Priority 1)**
+**Status: Unklar — Recherche erforderlich (Priorität 1)**
 
-From the Performance Café critical decisions table, spermidine requires EU Novel Food status clarification alongside [[NMN]] and [[Urolithin A]].
+Aus der Tabelle kritischer Entscheidungen des Performance Café erfordert Spermidin eine Klärung des EU-Novel-Food-Status neben [[NMN]] und [[Urolithin A]].
 
-- Spermidine occurs naturally in food but concentrated supplement doses may trigger Novel Food classification
-- Some EU member states may already have restricted high-dose spermidine supplements
-- **Must be confirmed in `research/06_regulatorik.md`**
+- Spermidin kommt natürlich in Lebensmitteln vor, konzentrierte Supplementdosen können jedoch eine Novel-Food-Klassifizierung auslösen
+- Einige EU-Mitgliedstaaten haben möglicherweise bereits hochdosierte Spermidin-Supplemente eingeschränkt
+- **Muss in `research/06_regulatorik.md` bestätigt werden**
 
-## Dosing Considerations
+## Dosierungsüberlegungen
 
-- Clinical studies typically use 1–10 mg/day spermidine
-- Natural diet provides ~0.1–5 mg/day from food sources
-- Coffee itself contains trace spermidine
-- At supplemental doses in a coffee product, regulatory thresholds may be triggered
+- Klinische Studien verwenden typischerweise 1–10 mg/Tag Spermidin
+- Eine natürliche Ernährung liefert ~0,1–5 mg/Tag aus Nahrungsquellen
+- Kaffee selbst enthält Spuren von Spermidin
+- Bei supplementären Dosen in einem Kaffeeprodukt können regulatorische Schwellenwerte überschritten werden
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — product context
-- [[Performance Cafe README Project Setup]] — source
-- [[EU Novel Food Regulation]] — regulatory framework (key blocker)
-- [[Longevity Stack Ingredients]] — broader ingredient stack
-- [[Urolithin A]] — complementary autophagy/mitophagy pathway ingredient
-- [[NMN]] — co-ingredient with parallel Novel Food uncertainty
-- [[Chlorogenic Acid]] — overlapping longevity pathway (AMPK)
+- [[Performance Coffee Brand]] — Produktkontext
+- [[Performance Cafe README Project Setup|Performance Café README Projekt-Setup]] — Quelle
+- [[EU Novel Food Regulation|EU-Novel-Food-Verordnung]] — regulatorischer Rahmen (wesentlicher Blocker)
+- [[Longevity Stack Ingredients|Longevity-Stack-Inhaltsstoffe]] — umfassenderer Inhaltsstoff-Stack
+- [[Urolithin A]] — komplementärer Inhaltsstoff für Autophagie/Mitophagie-Pathway
+- [[NMN]] — Ko-Inhaltsstoff mit paralleler Novel-Food-Unsicherheit
+- [[Chlorogenic Acid|Chlorogensäure]] — überschneidender Longevity-Pathway (AMPK)

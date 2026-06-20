@@ -5,77 +5,77 @@ tags: [wagglz, gmbh, business, finanzen, geschäftsführer, 2025, 2026, auflösu
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: "Wagglz GmbH — Oleg's company with no revenue since January 2026; strategic decision required by 2026-07-01: continue (with concept) vs. dissolve (§17 EStG loss); ongoing costs ~120–255 €/month via Oleg-Darlehen"
+summary: "Wagglz GmbH — Olegs Unternehmen ohne Umsatz seit Januar 2026; strategische Entscheidung erforderlich bis 2026-07-01: Weiterführen (mit Konzept) vs. Auflösung (§17 EStG Verlust); laufende Kosten ~120–255 €/Monat über Oleg-Darlehen"
 ---
 
 # Wagglz GmbH
 
-## Overview
+## Überblick
 
-**Wagglz GmbH** is a company in which [[Oleg Personal Context|Oleg]] serves (or served) as Geschäftsführer (GF). As of early 2026, the company has had **zero revenue since January 2026** and a strategic decision is required by **2026-07-01**.
+**Wagglz GmbH** ist ein Unternehmen, in dem [[Oleg Personal Context|Oleg]] als Geschäftsführer (GF) tätig ist (oder war). Stand Anfang 2026 hat das Unternehmen **seit Januar 2026 null Umsatz** und eine strategische Entscheidung ist bis **2026-07-01** erforderlich.
 
-## Current Status (as of June 2026)
+## Aktueller Stand (Stand Juni 2026)
 
 | Parameter | Status |
 |---|---|
-| Revenue since Jan 2026 | **0 €** — kein Umsatz |
+| Umsatz seit Jan 2026 | **0 €** — kein Umsatz |
 | Insolvenzstatus | ⚠️ **Überschuldet §19 InsO** |
-| Fehlbetrag | **27.926,89 €** (bestätigt, source: [[Wagglz GmbH Source Detail]]) |
+| Fehlbetrag | **27.926,89 €** (bestätigt, Quelle: [[Wagglz GmbH Source Detail]]) |
 | [[Rangrücktritt §15a InsO]] | ⚠️ **Noch nicht unterschrieben** — P0 |
-| Ongoing costs | ~120–255 €/Monat |
-| Cost financing | [[Oleg-Darlehen]] (Oleg personal shareholder loan) |
-| Strategic decision deadline | **2026-07-01** |
+| Laufende Kosten | ~120–255 €/Monat |
+| Kostenfinanzierung | [[Oleg-Darlehen]] (persönliches Gesellschafterdarlehen von Oleg) |
+| Frist strategische Entscheidung | **2026-07-01** |
 
-## Strategic Options
+## Strategische Optionen
 
 ### Option A: Weiterführen (Continue)
-- Requires: concrete Konzept / business plan
-- Ongoing costs continue to accrue via Oleg-Darlehen
-- Risk: further cash drain without revenue
-- Potential: if concept can be revived
+- Voraussetzung: konkretes Konzept / Businessplan
+- Laufende Kosten fallen weiterhin über das Oleg-Darlehen an
+- Risiko: weiterer Geldabfluss ohne Umsatz
+- Potenzial: falls das Konzept wiederbelebt werden kann
 
 ### Option B: Auflösung (Dissolution)
-- Tax advantage: **§17 EStG Verlust** — loss from GmbH share disposal is tax-deductible against other capital income
-- Stops ongoing monthly costs (~120–255 €/Monat)
-- Requires: formal liquidation process
-- See §17 EStG note below
+- Steuerlicher Vorteil: **§17 EStG Verlust** — Verlust aus der Veräußerung des GmbH-Anteils ist steuerlich absetzbar gegen andere Kapitaleinkünfte
+- Stoppt die laufenden monatlichen Kosten (~120–255 €/Monat)
+- Erfordert: formales Liquidationsverfahren
+- Siehe §17 EStG Hinweis unten
 
-## §17 EStG — Tax Loss Harvesting on Dissolution
+## §17 EStG — Steuerlicher Verlustausgleich bei Auflösung
 
-If Wagglz GmbH is dissolved:
-- §17 EStG allows Oleg to recognize the **loss on his GmbH stake** as a taxable loss
-- This loss can be offset against **capital gains and investment income** in the same or future tax years
-- The loss amount = invested capital + shareholder loans not repaid ([[Oleg-Darlehen]] balance)
-- This is a meaningful tax consideration — [[SP STB]] should model the benefit
+Falls die Wagglz GmbH aufgelöst wird:
+- §17 EStG erlaubt Oleg, den **Verlust aus seinem GmbH-Anteil** als steuerlichen Verlust geltend zu machen
+- Dieser Verlust kann mit **Kapitalgewinnen und Kapitalerträgen** im gleichen oder in späteren Steuerjahren verrechnet werden
+- Der Verlustbetrag = eingebrachtes Kapital + nicht zurückgezahlte Gesellschafterdarlehen ([[Oleg-Darlehen]]-Saldo)
+- Dies ist ein bedeutender steuerlicher Gesichtspunkt — [[SP STB]] sollte den Vorteil berechnen
 
-> ⚠️ **Assumption [A]:** The exact §17 EStG loss amount depends on Oleg's original capital contribution and the total Oleg-Darlehen balance. The confirmed bilanzieller Fehlbetrag is **27.926,89 €** (§19 InsO Überschuldung); the §17 EStG-relevant disposal loss must still be modelled by [[SP STB]] from capital contribution + unrepaid [[Oleg-Darlehen]].
+> ⚠️ **Annahme [A]:** Der genaue §17 EStG-Verlustbetrag hängt von Olegs ursprünglicher Kapitaleinlage und dem Gesamtsaldo des Oleg-Darlehens ab. Der bestätigte bilanzielle Fehlbetrag beträgt **27.926,89 €** (§19 InsO Überschuldung); der §17 EStG-relevante Veräußerungsverlust muss noch von [[SP STB]] aus Kapitaleinlage und nicht zurückgezahltem [[Oleg-Darlehen]] ermittelt werden.
 
 ## Oleg-Darlehen
 
-The [[Oleg-Darlehen]] is a shareholder loan from Oleg personally to Wagglz GmbH, currently financing ongoing operations:
-- Monthly cost range: **~120–255 €/Monat**
-- This loan balance would be part of the §17 EStG loss calculation upon dissolution
-- The wide range (120–255 €) suggests variable monthly costs (e.g., accounting, hosting, insurance)
+Das [[Oleg-Darlehen]] ist ein Gesellschafterdarlehen von Oleg persönlich an die Wagglz GmbH, das derzeit den laufenden Betrieb finanziert:
+- Monatliche Kostenspanne: **~120–255 €/Monat**
+- Dieser Darlehenssaldo würde bei einer Auflösung Teil der §17 EStG-Verlustberechnung sein
+- Die breite Spanne (120–255 €) deutet auf variable monatliche Kosten hin (z. B. Buchhaltung, Hosting, Versicherung)
 
-## Historical Income Reference
+## Historische Einkommensreferenz
 
-See [[Wagglz GF-Gehalt 2025 Source Detail]] for the 2025 GF salary data. Oleg received a Geschäftsführer salary from Wagglz in 2025, which is:
-- Required for [[ESt 2025]] (Lohnsteuerbescheinigung 2025 — currently not yet available)
-- Subject to [[ALG I Progressionsvorbehalt]] interaction
+Siehe [[Wagglz GF-Gehalt 2025 Source Detail]] für die GF-Gehaltsdaten 2025. Oleg erhielt 2025 ein Geschäftsführergehalt von Wagglz, das:
+- Für die [[ESt 2025]] benötigt wird (Lohnsteuerbescheinigung 2025 — derzeit noch nicht verfügbar)
+- Wechselwirkungen mit dem [[ALG I Progressionsvorbehalt]] unterliegt
 
-## Lohnsteuerbescheinigung 2025 Status
+## Status Lohnsteuerbescheinigung 2025
 
-> ⚠️ **Blocker for ESt 2025:** The Wagglz Lohnsteuerbescheinigung 2025 is **not yet available** as of 2026-06-12. Oleg must request it from [[SP STB]] or Wagglz payroll.
+> ⚠️ **Blocker für ESt 2025:** Die Wagglz Lohnsteuerbescheinigung 2025 ist **noch nicht verfügbar** (Stand 2026-06-12). Oleg muss sie bei [[SP STB]] oder der Wagglz-Lohnbuchhaltung anfordern.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[P1 Diese Woche Source Detail]] — task source
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — 2025 salary detail
-- [[ESt 2025]] — tax filing requiring Lohnsteuerbescheinigung
-- [[ALG I 2025]] — co-income source in 2025
-- [[ALG I Progressionsvorbehalt]] — tax mechanism
-- [[Oleg-Darlehen]] — shareholder loan financing Wagglz costs
+- [[P1 Diese Woche Source Detail]] — Aufgabenquelle
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltsdetails 2025
+- [[ESt 2025]] — Steuererklärung, für die die Lohnsteuerbescheinigung benötigt wird
+- [[ALG I 2025]] — weiterer Einkommensposten in 2025
+- [[ALG I Progressionsvorbehalt]] — steuerlicher Mechanismus
+- [[Oleg-Darlehen]] — Gesellschafterdarlehen zur Finanzierung der Wagglz-Kosten
 - [[SP STB]] — Steuerberater
-- [[Oleg Business Entity Structure]] — broader entity context
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — GF and shareholder
+- [[Oleg Business Entity Structure]] — übergeordneter Unternehmenskontext
+- [[MOC Finanzen]] — übergeordnetes Finanz-MOC
+- [[Oleg Personal Context]] — GF und Gesellschafter

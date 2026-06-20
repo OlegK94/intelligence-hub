@@ -5,87 +5,87 @@ tags: [EFSA, EU, regulatory, health-claims, supplement, food-law, advertising, p
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: EU framework for permitted health claims on food and supplements — governs what Performance Coffee Brand can and cannot say about its products; anti-aging claims forbidden; creatine and vitamin B6 examples of permitted claims; Blueprint transparency strategy as alternative
+summary: EU-Rahmenwerk für zulässige Health Claims auf Lebensmitteln und Nahrungsergänzungsmitteln — regelt, was eine Performance Coffee Brand über ihre Produkte aussagen darf und was nicht; Anti-Aging-Claims verboten; Kreatin und Vitamin B6 als Beispiele zugelassener Claims; Blueprint-Transparenzstrategie als Alternative
 ---
 
 # EFSA Health Claims
 
-## Overview
+## Überblick
 
-**EFSA Health Claims** refer to the authorization framework established under **EU Regulation (EC) No 1924/2006** on nutrition and health claims made on foods. The European Food Safety Authority (EFSA) evaluates claims; only authorized claims may appear on product labels or in marketing.
+**EFSA Health Claims** bezeichnen das Zulassungsrahmenwerk, das durch die **EU-Verordnung (EG) Nr. 1924/2006** über nährwert- und gesundheitsbezogene Angaben bei Lebensmitteln etabliert wurde. Die Europäische Behörde für Lebensmittelsicherheit (EFSA) bewertet Claims; nur zugelassene Claims dürfen auf Produktetiketten oder in der Werbung erscheinen.
 
-This is a critical constraint for the [[Performance Coffee Brand]] — it determines what can legally be communicated about product benefits.
+Dies ist eine kritische Rahmenbedingung für die [[Performance Coffee Brand]] — sie legt fest, was rechtlich über den Produktnutzen kommuniziert werden darf.
 
-## Key Regulation
+## Wichtigste Rechtsgrundlage
 
-- **EU Regulation 1924/2006** — health and nutrition claims regulation
-- Applies to all food and supplement products marketed in the EU/DACH
-- Enforced nationally in Germany by the BVL and Landesbehörden
-- Violations carry significant fines and product withdrawal risk
+- **EU-Verordnung 1924/2006** — Verordnung über nährwert- und gesundheitsbezogene Angaben
+- Gilt für alle Lebensmittel- und Nahrungsergänzungsmittelprodukte, die im EU/DACH-Raum vermarktet werden
+- Wird in Deutschland durch das BVL und die Landesbehörden durchgesetzt
+- Verstöße können erhebliche Bußgelder und Produktrücknahmen nach sich ziehen
 
-## What Is Forbidden
+## Was verboten ist
 
-| Claim Type | Example | Status |
+| Claim-Typ | Beispiel | Status |
 |---|---|---|
 | Anti-Aging | "Verlangsamt den Alterungsprozess" | ❌ Verboten |
-| Disease prevention | "Reduziert das Krebsrisiko" | ❌ Verboten |
-| Medical efficacy | "Behandelt Entzündungen" | ❌ Verboten |
-| Unauthorized structure/function | "Aktiviert Mitophagie" | ❌ Verboten (unless EFSA-authorized) |
+| Krankheitsprävention | "Reduziert das Krebsrisiko" | ❌ Verboten |
+| Medizinische Wirksamkeit | "Behandelt Entzündungen" | ❌ Verboten |
+| Nicht zugelassene Struktur-/Funktionsangabe | "Aktiviert Mitophagie" | ❌ Verboten (sofern nicht EFSA-zugelassen) |
 
-## What Is Permitted (Examples Relevant to Performance Coffee Brand)
+## Was erlaubt ist (Beispiele mit Relevanz für die Performance Coffee Brand)
 
-| Ingredient | Permitted Claim | EFSA Reference |
+| Zutat | Zugelassener Claim | EFSA-Referenz |
 |---|---|---|
-| **Creatine** | "Kreatin erhöht die körperliche Leistung bei kurzzeitigen, hochintensiven Übungen" | EFSA Journal 2016 |
-| **Vitamin B6** | "Vitamin B6 trägt zu einem normalen Energiestoffwechsel bei" | EFSA authorized |
-| **Magnesium** | "Magnesium trägt zur normalen Muskelfunktion bei" | EFSA authorized |
-| **Vitamin C** | "Vitamin C trägt zur normalen Funktion des Immunsystems bei" | EFSA authorized |
-| **Caffeine** | "Koffein trägt zur Erhöhung der Ausdauerleistungsfähigkeit bei" | EFSA 2011 |
+| **Kreatin** | "Kreatin erhöht die körperliche Leistung bei kurzzeitigen, hochintensiven Übungen" | EFSA Journal 2016 |
+| **Vitamin B6** | "Vitamin B6 trägt zu einem normalen Energiestoffwechsel bei" | EFSA zugelassen |
+| **Magnesium** | "Magnesium trägt zur normalen Muskelfunktion bei" | EFSA zugelassen |
+| **Vitamin C** | "Vitamin C trägt zur normalen Funktion des Immunsystems bei" | EFSA zugelassen |
+| **Koffein** | "Koffein trägt zur Erhöhung der Ausdauerleistungsfähigkeit bei" | EFSA 2011 |
 
-## Ingredients Without EFSA Authorized Claims
+## Zutaten ohne EFSA-zugelassene Claims
 
-Key [[Performance Coffee Brand]] longevity ingredients have **no EFSA-authorized claims**:
+Zentrale Longevity-Zutaten der [[Performance Coffee Brand]] verfügen über **keine EFSA-zugelassenen Claims**:
 
-| Ingredient | EFSA Claim Status | Consequence |
+| Zutat | EFSA-Claim-Status | Konsequenz |
 |---|---|---|
-| [[NMN]] | ❌ No authorized claim | Cannot make any health claim |
-| [[Urolithin A]] | ❌ No authorized claim | Cannot make any health claim |
-| [[Spermidine]] | ❌ No authorized claim | Cannot make any health claim |
-| [[Ashwagandha KSM-66]] | ❌ No authorized claim | Cannot make any health claim |
+| [[NMN]] | ❌ Kein zugelassener Claim | Keine gesundheitsbezogene Angabe möglich |
+| [[Urolithin A]] | ❌ Kein zugelassener Claim | Keine gesundheitsbezogene Angabe möglich |
+| [[Spermidine]] | ❌ Kein zugelassener Claim | Keine gesundheitsbezogene Angabe möglich |
+| [[Ashwagandha KSM-66]] | ❌ Kein zugelassener Claim | Keine gesundheitsbezogene Angabe möglich |
 
-This is the core marketing challenge for the longevity stack — ingredients with the strongest scientific backing for longevity have **no permitted EU health claims**.
+Dies ist die zentrale Marketing-Herausforderung beim Longevity-Stack — Zutaten mit der stärksten wissenschaftlichen Evidenz für Longevity verfügen über **keine zulässigen EU-Health-Claims**.
 
-## Blueprint Strategy (Compliant Alternative)
+## Blueprint-Strategie (konforme Alternative)
 
-The source recommends the **Blueprint-Strategie** as used by [[Bryan Johnson]]:
+Als Quelle wird die **Blueprint-Strategie** empfohlen, wie sie von [[Bryan Johnson]] angewendet wird:
 
-1. **Transparenz** — Full ingredient disclosure with exact doses (no proprietary blends)
-2. **COA Publishing** — Publish Certificates of Analysis publicly
-3. **Biomarker-Referenz** — Reference scientific biomarker studies in educational content (not on label)
-4. **Community Education** — Build informed audience that understands the science
+1. **Transparenz** — Vollständige Offenlegung aller Zutaten mit exakten Dosierungen (keine proprietären Blends)
+2. **COA-Veröffentlichung** — Öffentliche Bereitstellung von Analysezertifikaten (Certificates of Analysis)
+3. **Biomarker-Referenz** — Verweis auf wissenschaftliche Biomarker-Studien in Bildungsinhalten (nicht auf dem Etikett)
+4. **Community Education** — Aufbau eines informierten Publikums, das die Wissenschaft versteht
 
-This approach communicates ingredient value within legal limits by:
-- Not making claims ON the product (regulated)
-- Educating about science in content marketing (less regulated)
-- Letting the customer draw their own informed conclusions
+Dieser Ansatz kommuniziert den Zutatennutzen innerhalb der rechtlichen Grenzen, indem:
+- AUF dem Produkt keine Claims gemacht werden (reguliert)
+- Im Content-Marketing über Wissenschaft aufgeklärt wird (weniger reguliert)
+- Der Kunde seine eigenen informierten Schlüsse ziehen kann
 
-## Practical Implications for Performance Coffee Brand
+## Praktische Auswirkungen für die Performance Coffee Brand
 
-| Channel | Rules |
+| Kanal | Regeln |
 |---|---|
-| Product label | Only EFSA-authorized claims |
-| Website | Educational content OK; claims must reference EFSA authorization |
-| Social media | Same as website; influencer posts count as advertising |
-| Instagram/TikTok | If brand-sponsored content, advertising rules apply |
-| Scientific studies | Can reference — but cannot imply product makes those claims |
+| Produktetikett | Nur EFSA-zugelassene Claims |
+| Website | Bildungsinhalte zulässig; Claims müssen auf EFSA-Zulassung verweisen |
+| Social Media | Wie Website; Influencer-Beiträge gelten als Werbung |
+| Instagram/TikTok | Bei markengesponsertem Content gelten die Werbevorschriften |
+| Wissenschaftliche Studien | Dürfen referenziert werden — dürfen aber nicht implizieren, dass das Produkt diese Claims erfüllt |
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — project
-- [[NEM Konformität]] — broader food law compliance context
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — source
-- [[EU Novel Food Regulation]] — companion regulatory constraint
-- [[NMN]] — no EFSA claim available
-- [[Urolithin A]] — no EFSA claim available
-- [[Creatine]] — has EFSA authorized claim
-- [[Bryan Johnson]] — Blueprint strategy reference
+- [[Performance Coffee Brand]] — Projekt
+- [[NEM Konformität]] — übergeordneter Kontext Lebensmittelrecht-Compliance
+- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Quelle
+- [[EU Novel Food Regulation]] — ergänzende regulatorische Rahmenbedingung
+- [[NMN]] — kein EFSA-Claim verfügbar
+- [[Urolithin A]] — kein EFSA-Claim verfügbar
+- [[Creatine|Kreatin]] — verfügt über EFSA-zugelassenen Claim
+- [[Bryan Johnson]] — Referenz für die Blueprint-Strategie

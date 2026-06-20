@@ -5,49 +5,49 @@ tags: [performance-cafe, CMO, contract-manufacturing, Düsseldorf, IFS-Food, fun
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Priority 5 CMO candidate for Performance Coffee Brand — Düsseldorf-based functional food and powder sachet specialist; IFS Food certified (not GMP/Kölner Liste primary path)
+summary: Priorität-5-CMO-Kandidat für die Performance Coffee Brand — auf funktionale Lebensmittel und Pulver-Sachets spezialisierter Anbieter aus Düsseldorf; IFS-Food-zertifiziert (kein primärer GMP/Kölner-Liste-Pfad)
 ---
 
 # Herbafit
 
-## Overview
+## Übersicht
 
-**Herbafit** is a [[Performance Coffee Brand]] **Priority 5 CMO candidate**, based in Düsseldorf, Germany. It specializes in functional food and powder sachets — a directly relevant format. Its IFS Food certification, while strong for food manufacturing, is less aligned with the [[Kölner Liste]] pathway than GMP certification.
+**Herbafit** ist ein [[Performance Coffee Brand|Performance Coffee Brand]] **Priorität-5-CMO-Kandidat** mit Sitz in Düsseldorf, Deutschland. Das Unternehmen ist auf funktionale Lebensmittel und Pulver-Sachets spezialisiert — ein direkt relevantes Format. Die IFS-Food-Zertifizierung ist zwar für die Lebensmittelherstellung anerkannt, entspricht jedoch weniger dem [[Kölner Liste]]-Pfad als eine GMP-Zertifizierung.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Country** | Germany (Düsseldorf) |
-| **Specialization** | Functional Food, Powder Sachets |
-| **Certifications** | IFS Food |
+| **Land** | Deutschland (Düsseldorf) |
+| **Spezialisierung** | Functional Food, Pulver-Sachets |
+| **Zertifizierungen** | IFS Food |
 | **Website** | herbafit.de |
-| **CMO Priority** | **#5** |
+| **CMO-Priorität** | **#5** |
 
-## Why Priority 5
+## Warum Priorität 5
 
-- **Powder sachet format experience** — directly relevant
-- **Functional food focus** — aligned with product category
-- German-based → [[NEM Konformität]] familiarity
-- BUT: **IFS Food** certification is a food retailer-focused scheme, less aligned with [[Kölner Liste]] (which requires GMP-pharmaceutical level quality)
-- Lower priority than GMP-certified candidates due to certification gap
+- **Erfahrung mit Pulver-Sachet-Format** — direkt relevant
+- **Functional-Food-Fokus** — passend zur Produktkategorie
+- Deutschlandbasiert → Vertrautheit mit [[NEM Konformität]]
+- JEDOCH: **IFS Food**-Zertifizierung ist ein lebensmittelhandelsorientiertes Schema, weniger kompatibel mit der [[Kölner Liste]] (die GMP-Qualität auf Pharmaniveau erfordert)
+- Niedrigere Priorität als GMP-zertifizierte Kandidaten aufgrund der Zertifizierungslücke
 
-## IFS Food vs. GMP — Key Distinction
+## IFS Food vs. GMP — Wesentlicher Unterschied
 
-| Standard | Focus | Kölner Liste Compatible |
+| Standard | Fokus | Kölner-Liste-kompatibel |
 |---|---|---|
-| IFS Food | Retail food manufacturing quality | ❌ Not directly |
-| GMP (Good Manufacturing Practice) | Pharmaceutical-grade quality | ✅ Required pathway |
-| ISO 22000 | Food safety management | Partial — needs additional steps |
-| FSSC 22000 | ISO 22000 + PRPs | Better pathway than IFS Food |
+| IFS Food | Qualität in der Einzelhandels-Lebensmittelproduktion | ❌ Nicht direkt |
+| GMP (Good Manufacturing Practice) | Qualität auf Pharmaniveau | ✅ Erforderlicher Pfad |
+| ISO 22000 | Lebensmittelsicherheitsmanagement | Teilweise — zusätzliche Schritte nötig |
+| FSSC 22000 | ISO 22000 + PRPs | Besserer Pfad als IFS Food |
 
-This certification gap is the primary reason Herbafit ranks 5th despite having relevant format experience.
+Diese Zertifizierungslücke ist der Hauptgrund, warum Herbafit trotz relevanter Formaterfahrung auf Platz 5 rangiert.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — evaluation framework
-- [[CMO Erstkontakt Email Template]] — outreach template
-- [[Performance Cafe Supplier List]] — source document
-- [[Aidea]] — Priority 4 CMO candidate
-- [[Kölner Liste]] — certification requiring GMP (not IFS Food)
-- [[Performance Coffee Brand]] — project entity
+- [[CMO Sourcing Performance Coffee]] — Bewertungsrahmen
+- [[CMO Erstkontakt Email Template]] — Kontaktaufnahme-Vorlage
+- [[Performance Cafe Supplier List]] — Quelldokument
+- [[Aidea]] — Priorität-4-CMO-Kandidat
+- [[Kölner Liste]] — Zertifizierung erfordert GMP (nicht IFS Food)
+- [[Performance Coffee Brand]] — Projektentität

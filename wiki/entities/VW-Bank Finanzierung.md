@@ -5,40 +5,40 @@ tags: [finanzen, kreditrate, auto, vw-bank, fixkosten, 2026]
 sources: ["raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: VW Bank financing payment of 681.57 €/month debited on the 16th from Consorsbank Girokonto — second-largest fixed cost after rent; implies ~30,000–35,000 € financed Volkswagen Group vehicle over 48 months
+summary: VW-Bank-Finanzierungsrate von 681,57 €/Monat, die am 16. vom Consorsbank Girokonto abgebucht wird — zweithöchster Fixkostenposten nach der Miete; impliziert ein finanziertes Fahrzeug der Volkswagen Group im Bereich ~30.000–35.000 € über 48 Monate
 ---
 
 # VW-Bank Finanzierung
 
-## Overview
+## Überblick
 
-**VW-Bank** (Volkswagen Financial Services) is debiting **681,57 €/month** from [[Oleg Personal Context|Oleg]]'s [[Consorsbank Girokonto 0250120493]] on the **16th of each month**. This is the second-largest fixed monthly outgoing after GSW rent.
+**VW-Bank** (Volkswagen Financial Services) bucht **681,57 €/Monat** vom [[Consorsbank Girokonto 0250120493]] von [[Oleg Personal Context|Oleg]] am **16. jeden Monats** ab. Dies ist der zweithöchste monatliche Fixkostenposten nach der GSW-Miete.
 
-## Contract Parameters (Inferred)
+## Vertragsparameter (Geschätzt)
 
-| Parameter | Wert | Basis |
+| Parameter | Wert | Grundlage |
 |---|---|---|
-| **Monatliche Rate** | 681,57 € | Confirmed from Girokonto source |
-| **Fälligkeitstag** | 16. jeden Monats | Confirmed from Girokonto source |
-| **Finanzierter Betrag (Schätzung)** | ~30.000–35.000 € | Inferred: 681,57 × 48 months = ~32.700 € |
-| **Laufzeit (Schätzung)** | ~48 Monate | Typical auto financing term |
-| **Fahrzeughersteller** | Volkswagen Group | Inferred from VW-Bank creditor |
+| **Monatliche Rate** | 681,57 € | Bestätigt aus Girokonto-Quelle |
+| **Fälligkeitstag** | 16. jeden Monats | Bestätigt aus Girokonto-Quelle |
+| **Finanzierter Betrag (Schätzung)** | ~30.000–35.000 € | Abgeleitet: 681,57 × 48 Monate = ~32.700 € |
+| **Laufzeit (Schätzung)** | ~48 Monate | Typische Kfz-Finanzierungslaufzeit |
+| **Fahrzeughersteller** | Volkswagen Group | Abgeleitet aus VW-Bank-Gläubiger |
 
-> ⚠️ **Assumption [A]:** The exact vehicle, financing start date, remaining term, and interest rate are unknown. The 681,57 €/month rate suggests a premium VW Group vehicle (VW, Audi, Skoda, Seat, Porsche). Leasing vs. loan is also unknown.
+> ⚠️ **Annahme [A]:** Fahrzeug, Finanzierungsbeginn, verbleibende Laufzeit und Zinssatz sind unbekannt. Die Rate von 681,57 €/Monat deutet auf ein Premium-Fahrzeug der VW Group hin (VW, Audi, Skoda, Seat, Porsche). Ob Leasing oder Darlehen vorliegt, ist ebenfalls unbekannt.
 
-## Annual Cost
+## Jährliche Kosten
 
 - **Jahreskosten:** 681,57 × 12 = **8.178,84 €/Jahr**
-- This is [[Oleg Personal Context|Oleg]]'s single largest discretionary fixed cost (after rent)
+- Dies ist [[Oleg Personal Context|Oleg]]'s größter frei disponierter Fixkostenposten (nach der Miete)
 
-## Liquidity Impact
+## Auswirkung auf die Liquidität
 
-The VW-Bank rate absorbs 18.7% of the monthly [[Doctolib 2026]] net salary (3.638,82 €). Together with GSW rent (991,09 €), these two items consume **1.672,66 €/month = 46% of net salary** before any insurance, utilities, or lifestyle costs.
+Die VW-Bank-Rate bindet 18,7 % des monatlichen Nettogehalts aus [[Doctolib 2026]] (3.638,82 €). Zusammen mit der GSW-Miete (991,09 €) verbrauchen diese beiden Posten **1.672,66 €/Monat = 46 % des Nettogehalts**, noch vor sämtlichen Versicherungs-, Neben- oder Lebenshaltungskosten.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Consorsbank Girokonto 0250120493]] — account from which debit is made
-- [[Consorsbank Girokonto 0250120493 Source Detail]] — source document
-- [[Fixkosten Übersicht]] — fixed cost overview
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — payer
+- [[Consorsbank Girokonto 0250120493]] — Konto, von dem die Abbuchung erfolgt
+- [[Consorsbank Girokonto 0250120493 Source Detail]] — Quelldokument
+- [[Fixkosten Übersicht]] — Übersicht der Fixkosten
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Zahlungspflichtiger

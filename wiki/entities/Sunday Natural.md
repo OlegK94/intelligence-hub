@@ -5,31 +5,31 @@ tags: [supplement-brand, german, clean-formulation, sulforaphane]
 sources: ["raw/Privat/Performance/Supplement Stack.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: German supplement brand used by Oleg as the sole non-Momentous exception in his supplement stack — specifically for Sulforaphane (broccoli sprout extract) per Rhonda Patrick protocol
+summary: Deutsche Supplement-Marke, die Oleg als einzige Nicht-Momentous-Ausnahme in seinem Supplement Stack verwendet — speziell für Sulforaphan (Brokkolisprossen-Extrakt) gemäß Rhonda-Patrick-Protokoll
 ---
 
 # Sunday Natural
 
-## Overview
+## Überblick
 
-**Sunday Natural** is a German premium supplement brand known for clean, high-quality formulations. It appears in [[Oleg Personal Context|Oleg]]'s [[Supplement Stack]] as the **sole non-[[Momentous]] exception**.
+**Sunday Natural** ist eine deutsche Premium-Supplement-Marke, bekannt für saubere, hochwertige Formulierungen. Sie erscheint in [[Oleg Personal Context|Olegs]] [[Supplement Stack]] als **einzige Nicht-[[Momentous]]-Ausnahme**.
 
-## Role in Oleg's Stack
+## Rolle in Olegs Stack
 
-- **Product:** Sulforaphane (Brokkolisprossen-Extrakt / broccoli sprout extract)
-- **Reason for use:** Momentous has no equivalent sulforaphane product
-- **Protocol basis:** [[Rhonda Patrick]] sulforaphane protocol
+- **Produkt:** Sulforaphan (Brokkolisprossen-Extrakt / broccoli sprout extract)
+- **Verwendungsgrund:** Momentous hat kein vergleichbares Sulforaphan-Produkt
+- **Protokollgrundlage:** [[Rhonda Patrick]]-Sulforaphan-Protokoll
 
-## Why This Brand
+## Warum diese Marke
 
-Sunday Natural is a Germany-based brand, making it conveniently accessible for Oleg's Berlin residence. It is used specifically because:
-1. [[Momentous]] offers no sulforaphane/broccoli sprout extract
-2. Sunday Natural meets quality standards compatible with the evidence-based [[Supplement Stack]] philosophy
+Sunday Natural ist eine in Deutschland ansässige Marke, was sie für Olegs Berliner Wohnsitz praktisch zugänglich macht. Sie wird speziell verwendet, weil:
+1. [[Momentous]] kein Sulforaphan/Brokkolisprossen-Extrakt anbietet
+2. Sunday Natural Qualitätsstandards erfüllt, die mit der evidenzbasierten [[Supplement Stack]]-Philosophie vereinbar sind
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context
-- [[Sulforaphane]] — specific supplement
-- [[Momentous]] — primary brand
-- [[Rhonda Patrick]] — protocol that requires this supplement
-- [[Oleg Personal Context]] — user
+- [[Supplement Stack]] — Stack-Kontext
+- [[Sulforaphane]] — spezifisches Supplement
+- [[Momentous]] — primäre Marke
+- [[Rhonda Patrick]] — Protokoll, das dieses Supplement erfordert
+- [[Oleg Personal Context]] — Nutzer

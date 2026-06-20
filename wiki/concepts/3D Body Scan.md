@@ -1,83 +1,83 @@
 ---
-title: 3D Body Scan
+title: 3D Körperscan
 type: concept
 tags: [body-composition, tracking, measurement, assessment]
 sources: ["02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
 created: 2024-12-19
 updated: 2026-06-06
-summary: Advanced body composition analysis using 3D scanning technology for precise fitness tracking — including Scaneca baseline data and follow-up protocol
+summary: Fortgeschrittene Körperzusammensetzungsanalyse mittels 3D-Scantechnologie zur präzisen Fitnessverfolgung — einschließlich Scaneca-Basisdaten und Follow-up-Protokoll
 ---
 
-# 3D Body Scan
+# 3D Körperscan
 
-## Overview
+## Überblick
 
-3D body scanning technology provides comprehensive body composition analysis, including precise measurements of body fat percentage, lean mass, circumferences, and postural assessment.
+3D-Körperscantechnologie liefert eine umfassende Analyse der Körperzusammensetzung, einschließlich präziser Messungen des Körperfettanteils, der Magermasse, Körperumfänge und einer Haltungsbeurteilung.
 
-## Scaneca Protocol
+## Scaneca-Protokoll
 
-Baseline assessment conducted May 29, 2026:
-- **Provider:** Scaneca
-- **Location:** Labor Berlin
-- **Purpose:** Establish comprehensive baseline for [[Health Protocol Master]]
-- **Follow-up:** Recommended in ~12 weeks (mid-September 2026)
+Baseline-Messung durchgeführt am 29. Mai 2026:
+- **Anbieter:** Scaneca
+- **Standort:** Labor Berlin
+- **Zweck:** Umfassende Baseline für [[Health Protocol Master]] etablieren
+- **Follow-up:** Empfohlen in ~12 Wochen (Mitte September 2026)
 
-> For the full measurement record and interpretation, see [[3D Body Scan Scaneca Mai 2026]] and [[3D Body Scan Scaneca Mai 2026 Source Detail]].
+> Den vollständigen Messbericht und die Auswertung findest du unter [[3D Body Scan Scaneca Mai 2026]] und [[3D Body Scan Scaneca Mai 2026 Source Detail]].
 
-## Key Metrics Measured
+## Gemessene Schlüsselwerte
 
-### Body Composition
-- Weight: 96.7 kg
-- Body fat: 20.3%
-- Fat mass: 19.6 kg
-- Lean mass: 77.1 kg
-- FFMI (Fat-Free Mass Index): 21.3
-- BMI: 27.4
+### Körperzusammensetzung
+- Gewicht: 96,7 kg
+- Körperfett: 20,3 %
+- Fettmasse: 19,6 kg
+- Magermasse: 77,1 kg
+- FFMI (Fettfreier Masseindex): 21,3
+- BMI: 27,4
 
-### Circumference Measurements
-- Waist: 97.2 cm
-- Abdomen (navel): 101.4 cm
-- Hip: 105.5 cm
-- Chest: 116.7 cm
-- Right arm: 36.3 cm
+### Umfangsmessungen
+- Taille: 97,2 cm
+- Bauch (Nabel): 101,4 cm
+- Hüfte: 105,5 cm
+- Brust: 116,7 cm
+- Rechter Arm: 36,3 cm
 
-### Metabolic Data
-- BMR (Basal Metabolic Rate): 2,113 kcal
-- TDEE (Total Daily Energy Expenditure): ~3,645 kcal
+### Stoffwechseldaten
+- BMR (Basalstoffwechselrate): 2.113 kcal
+- TDEE (Gesamter täglicher Energieverbrauch): ~3.645 kcal
 
-### Postural Assessment
-- Forward head posture: 30° deviation
+### Haltungsbeurteilung
+- Vorwärtsneigung des Kopfes: 30° Abweichung
 
-## Target Values (from Source Scan)
+## Zielwerte (aus dem Quell-Scan)
 
-| Metric | Target |
+| Messgröße | Ziel |
 |---|---|
-| Body Fat | 15–17% |
-| Fat Mass | ~14 kg |
-| Lean Mass | ≥77 kg |
-| Waist | <90 cm |
+| Körperfett | 15–17 % |
+| Fettmasse | ~14 kg |
+| Magermasse | ≥77 kg |
+| Taille | <90 cm |
 
-## Advantages Over Traditional Methods
+## Vorteile gegenüber traditionellen Methoden
 
-- **Precision:** More accurate than DEXA or bioimpedance
-- **Comprehensive:** Full body composition and postural analysis
-- **Visual:** 3D model for tracking changes
-- **Reproducible:** Consistent measurement protocols
-- **Non-invasive:** No radiation exposure
+- **Präzision:** Genauer als DEXA oder Bioimpedanz
+- **Umfassend:** Vollständige Körperzusammensetzungs- und Haltungsanalyse
+- **Visuell:** 3D-Modell zur Verfolgung von Veränderungen
+- **Reproduzierbar:** Konsistente Messprotokoll
+- **Nicht-invasiv:** Keine Strahlenbelastung
 
-## Applications in Optimization
+## Anwendungen in der Optimierung
 
-- Baseline establishment for [[Fat Loss Protocols]]
-- Progress tracking for body recomposition
-- Postural assessment for [[Corrective Exercise]]
-- Metabolic rate calculation for nutrition planning
-- Visual documentation of physique changes
+- Baseline-Etablierung für [[Fat Loss Protocols]]
+- Fortschrittsverfolgung bei der Körperrekompensation
+- Haltungsbeurteilung für [[Corrective Exercise]]
+- Berechnung der Stoffwechselrate für die Ernährungsplanung
+- Visuelle Dokumentation von Körperveränderungen
 
-## Related Tracking Methods
+## Verwandte Tracking-Methoden
 
 - [[Biomarker Testing]]
 - [[Body Composition Analysis]]
 - [[Progress Tracking]]
 - [[Metabolic Assessment]]
-- [[3D Body Scan Scaneca Mai 2026]] — specific baseline event
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — raw source
+- [[3D Body Scan Scaneca Mai 2026]] — spezifisches Baseline-Ereignis
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Rohdatenquelle

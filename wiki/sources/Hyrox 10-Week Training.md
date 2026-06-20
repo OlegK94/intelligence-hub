@@ -1,147 +1,147 @@
 ---
-title: Hyrox 10-Week Training
+title: Hyrox 10-Wochen-Training
 type: source
 tags: [hyrox, training, endurance, functional-fitness, competition-prep]
 sources: ["raw/Privat/Performance/Hyrox — 10-Week Training.md"]
 created: 2024-12-19
 updated: 2024-12-19
-summary: 10-week training plan for first Hyrox competition finish, addressing aerobic capacity weakness while leveraging strength
+summary: 10-Wochen-Trainingsplan für die erste Hyrox-Wettkampfteilnahme, mit Fokus auf die Schwäche im Ausdauerbereich bei gleichzeitiger Nutzung vorhandener Kraftvorteile
 ---
 
-# Hyrox 10-Week Training
+# Hyrox 10-Wochen-Training
 
-## Overview
+## Überblick
 
-A specialized 10-week training program designed for first [[Hyrox Competition]] finish, targeting a realistic completion time of 1:35-1:45 hours. The protocol addresses specific weaknesses (aerobic capacity, running endurance) while leveraging existing strengths (exceptional strength: 125kg sled push/pull after 100 wall balls).
+Ein spezialisiertes 10-Wochen-Trainingsprogramm für die erste [[Hyrox Competition|Hyrox-Teilnahme]], mit einem realistischen Zielzeitfenster von 1:35–1:45 Stunden. Das Protokoll adressiert spezifische Schwächen (aerobe Kapazität, Laufausdauer) und nutzt gleichzeitig vorhandene Stärken (außergewöhnliche Kraft: 125 kg Sled Push/Pull nach 100 Wall Balls).
 
-## Athlete Profile
+## Athletenprofil
 
-### Strengths
-- **Exceptional Strength:** 125kg sled push/pull capability even after 100 wall balls
-- **Power Endurance:** Strong in short-duration, high-intensity efforts
-- **Technical Competency:** Familiar with functional movement patterns
+### Stärken
+- **Außergewöhnliche Kraft:** 125 kg Sled Push/Pull-Kapazität, sogar nach 100 Wall Balls
+- **Kraftausdauer:** Stark bei kurzen, hochintensiven Belastungen
+- **Technische Kompetenz:** Vertraut mit funktionellen Bewegungsmustern
 
-### Weaknesses
-- **Aerobic Capacity:** Primary limitation for endurance events
-- **Running Endurance:** Estimated 5km time ~30 minutes (6:00 min/km pace)
-- **Aerobic-Anaerobic Transition:** "Gear switch" between stations and running
+### Schwächen
+- **Aerobe Kapazität:** Hauptlimitierung bei Ausdauerbelastungen
+- **Laufausdauer:** Geschätzte 5-km-Zeit ~30 Minuten (6:00 min/km Pace)
+- **Aerob-anaerober Übergang:** „Gangwechsel" zwischen Stationen und Laufen
 
-### Target Performance
-- **Realistic Finish Goal:** 1:35-1:45 hours for first completion
-- **Running Improvement:** Target sub-5:30/km average pace
-- **Station Efficiency:** Minimize transition time between exercises
+### Zielleistung
+- **Realistisches Ziel:** 1:35–1:45 Stunden für die erste Finisherzeit
+- **Laufverbesserung:** Ziel ist eine Durchschnittspace unter 5:30/km
+- **Stationseffizienz:** Übergänge zwischen den Übungen minimieren
 
-## Training Structure
+## Trainingsstruktur
 
-### Weekly Schedule (5 Training Days)
+### Wochenplan (5 Trainingstage)
 
-| Day | Training Focus | Duration |
-|-----|----------------|----------|
-| Monday | Kraft + Sled | 60 min |
-| Tuesday | Easy Run mit Hund | 35 min |
-| Wednesday | Rest | — |
-| Thursday | Hyrox Simulation Circuit | 60 min |
-| Friday | Rest | — |
-| Saturday | Kraft + Conditioning | 55 min |
-| Sunday | Zone-2 Run mit Hund | 40 min |
+| Tag | Trainingsfokus | Dauer |
+|-----|----------------|-------|
+| Montag | Kraft + Sled | 60 min |
+| Dienstag | Easy Run mit Hund | 35 min |
+| Mittwoch | Ruhetag | — |
+| Donnerstag | Hyrox Simulation Circuit | 60 min |
+| Freitag | Ruhetag | — |
+| Samstag | Kraft + Conditioning | 55 min |
+| Sonntag | Zone-2 Run mit Hund | 40 min |
 
-### Training Philosophy
-- **Strength Maintenance:** Preserve existing strength advantages
-- **Aerobic Development:** Primary focus on cardiovascular capacity
-- **Sport-Specific Preparation:** Progressive simulation of competition demands
-- **Recovery Integration:** Strategic rest days for adaptation
+### Trainingsphilosophie
+- **Krafterhalt:** Vorhandene Kraftvorteile sichern
+- **Aerobe Entwicklung:** Primärer Fokus auf kardiovaskuläre Kapazität
+- **Sportartspezifische Vorbereitung:** Schrittweise Simulation der Wettkampfanforderungen
+- **Regenerationsintegration:** Strategische Ruhetage zur Adaptation
 
-## 10-Week Periodization
+## 10-Wochen-Periodisierung
 
-### Phase 1: Aerobic Base Building (Weeks 1-3)
-- **Primary Focus:** Build aerobic capacity foundation
-- **Running:** [[Zone 2 Cardio]] prioritization
-- **Stations:** Light weight, technique refinement
-- **Intensity:** No competitive pace or AMRAP protocols
-- **Volume:** Progressive increase in aerobic training time
+### Phase 1: Aerober Grundlagenaufbau (Wochen 1–3)
+- **Hauptfokus:** Aufbau der aeroben Kapazitätsbasis
+- **Laufen:** Priorisierung von [[Zone 2 Cardio]]
+- **Stationen:** Leichte Gewichte, Technikverfeinerung
+- **Intensität:** Kein Wettkampftempo oder AMRAP-Protokolle
+- **Umfang:** Progressiver Anstieg der aeroben Trainingszeit
 
-### Phase 2: Specific Conditioning (Weeks 4-6)
-- **Brick Training Introduction:** Station → 200m run → station sequences
-- **Running Progression:** Gradual pace increases toward race tempo
-- **Weight Progression:** Build to competition standards (102kg sled push)
-- **Transition Training:** Practice rapid changeovers between modalities
+### Phase 2: Spezifisches Conditioning (Wochen 4–6)
+- **Einführung Brick Training:** Abfolgen Station → 200 m Lauf → Station
+- **Laufprogression:** Allmähliche Temposteigerung Richtung Wettkampftempo
+- **Gewichtsprogression:** Aufbau bis zu den Wettkampfstandards (102 kg Sled Push)
+- **Übergangsstraining:** Üben schneller Wechsel zwischen den Modalitäten
 
-### Phase 3: Race Simulation (Weeks 7-9)
-- **Full Simulation:** Complete [[Hyrox Competition]] once weekly
-- **Pace Practice:** Consistent race tempo (avoid starting too fast)
-- **Distance Extension:** Build running segments to 1km
-- **Competition Mindset:** Practice race-day mental strategies
+### Phase 3: Wettkampfsimulation (Wochen 7–9)
+- **Vollständige Simulation:** Einmal wöchentlich komplette [[Hyrox Competition|Hyrox-Simulation]]
+- **Tempoübung:** Konstantes Wettkampftempo (zu schnellen Start vermeiden)
+- **Distanzerweiterung:** Laufabschnitte auf 1 km ausbauen
+- **Wettkampfmentalität:** Renntag-Strategien mental einüben
 
-### Phase 4: Competition Taper (Week 10)
-- **Volume Reduction:** 40% decrease in training load
-- **Intensity Maintenance:** Keep workout quality high
-- **Recovery Priority:** Sleep, nutrition, stress management
-- **Logistics:** Finalize registration, equipment, race-day planning
+### Phase 4: Wettkampf-Taper (Woche 10)
+- **Volumenreduktion:** 40 % Rückgang der Trainingsbelastung
+- **Intensitätserhalt:** Qualität der Einheiten hochhalten
+- **Regenerationspriorität:** Schlaf, Ernährung, Stressmanagement
+- **Logistik:** Anmeldung, Ausrüstung und Renntag-Planung finalisieren
 
-## Hyrox Competition Standards
+## Hyrox-Wettkampfstandards
 
-### Official Station Requirements (Men's Open Division)
+### Offizielle Stationsanforderungen (Men's Open Division)
 
-| Station | Specification |
+| Station | Spezifikation |
 |---------|---------------|
-| Ski Erg | 1,000m |
-| Sled Push | 102kg |
-| Sled Pull | 78kg |
-| Burpee Broad Jump | 80m distance |
-| Rowing | 1,000m |
-| Farmers Carry | 2× 24kg kettlebells, 200m |
-| Sandbag Lunges | 20kg sandbag, 100m |
-| Wall Balls | 6kg medicine ball, 100 repetitions |
+| Ski Erg | 1.000 m |
+| Sled Push | 102 kg |
+| Sled Pull | 78 kg |
+| Burpee Broad Jump | 80 m Distanz |
+| Rowing | 1.000 m |
+| Farmers Carry | 2× 24 kg Kettlebells, 200 m |
+| Sandbag Lunges | 20 kg Sandsack, 100 m |
+| Wall Balls | 6 kg Medizinball, 100 Wiederholungen |
 
-**Note:** Each station is followed by a 1km run (total: 8km running + 8 functional stations)
+**Hinweis:** Auf jede Station folgt ein 1-km-Lauf (gesamt: 8 km Laufen + 8 funktionelle Stationen)
 
-### Station-Specific Training Notes
-- **Sled Movements:** Athlete's current strength (125kg capability) exceeds competition requirements
-- **Cardiovascular Stations:** Ski erg and rowing require pacing strategy
-- **Running Transitions:** Critical skill for time optimization
+### Stationsspezifische Trainingshinweise
+- **Sled-Übungen:** Die aktuelle Athletenstärke (125 kg Kapazität) übersteigt die Wettkampfanforderungen
+- **Kardiovaskuläre Stationen:** Ski Erg und Rowing erfordern eine Pacing-Strategie
+- **Laufübergänge:** Kritische Fähigkeit für die Zeitoptimierung
 
-## Brick Training Methodology
+## Brick Training Methodik
 
-### Concept
-[[Brick Training]] involves immediate transition from anaerobic station work to aerobic running without pause or reset. This trains the crucial "gear switch" from anaerobic to aerobic metabolism required in competition.
+### Konzept
+[[Brick Training]] bezeichnet den unmittelbaren Übergang von anaerober Stationsarbeit zum aeroben Laufen ohne Pause oder Erholungsphase. Dabei wird der entscheidende „Gangwechsel" vom anaeroben zum aeroben Stoffwechsel trainiert, wie er im Wettkampf gefordert ist.
 
-### Implementation
-- **No Recovery Time:** Move directly from station to running
-- **Metabolic Adaptation:** Train rapid lactate clearance
-- **Neuromuscular Pattern:** Develop running efficiency under fatigue
-- **Mental Preparation:** Practice discomfort tolerance during transitions
+### Umsetzung
+- **Keine Erholungszeit:** Direkt von der Station ins Laufen wechseln
+- **Metabolische Adaptation:** Schnelle Laktatclearance trainieren
+- **Neuromuskuläres Muster:** Laufeffizienz unter Ermüdung entwickeln
+- **Mentale Vorbereitung:** Umgang mit Unwohlsein bei Übergängen einüben
 
-### Progressive Structure
-- **Phase 2:** 200m run segments between stations
-- **Phase 3:** Full 1km running segments
-- **Simulation Days:** Complete 8-station + 8km protocol
+### Progressive Struktur
+- **Phase 2:** 200-m-Laufabschnitte zwischen den Stationen
+- **Phase 3:** Vollständige 1-km-Laufabschnitte
+- **Simulationstage:** Komplettes 8-Stationen + 8-km-Protokoll
 
-## Integration with Existing Protocols
+## Integration in bestehende Protokolle
 
-This training plan complements and can be adapted for integration with:
-- [[Health Protocol Master]] - daily structure and recovery protocols
-- [[Zone 2 Cardio]] - aerobic base building methodology
-- [[HIIT Training]] - high-intensity conditioning principles
-- [[Functional Movement]] - station-specific exercise patterns
+Dieser Trainingsplan ergänzt folgende Bereiche und kann mit ihnen kombiniert werden:
+- [[Health Protocol Master]] – Tagesstruktur und Regenerationsprotokolle
+- [[Zone 2 Cardio]] – Methodik zum aeroben Grundlagenaufbau
+- [[HIIT Training]] – Grundsätze des hochintensiven Conditionings
+- [[Functional Movement]] – Stationsspezifische Bewegungsmuster
 
-## Linked References
+## Verknüpfte Referenzen
 
-The source material references:
-- [[Health Protocol Master]] - broader health optimization framework
-- [[MOC Performance & Leben]] - performance and lifestyle integration
+Das Quellmaterial verweist auf:
+- [[Health Protocol Master]] – übergreifendes Gesundheitsoptimierungs-Framework
+- [[MOC Performance & Leben]] – Integration von Performance und Lebensstil
 
-## Success Metrics
+## Erfolgskennzahlen
 
-### Performance Targets
-- **Completion:** Successfully finish all 8 stations + 8km running
-- **Time Goal:** 1:35-1:45 total completion time
-- **Running Pace:** Average 5:30/km or better across 8 segments
-- **Station Efficiency:** Smooth transitions with minimal rest
+### Leistungsziele
+- **Finisher:** Alle 8 Stationen + 8 km Laufen erfolgreich abschließen
+- **Zeitziel:** 1:35–1:45 Gesamtzeit
+- **Laufpace:** Durchschnittlich 5:30/km oder besser über alle 8 Abschnitte
+- **Stationseffizienz:** Flüssige Übergänge mit minimalem Pausieren
 
-### Health Maintenance
-- **Injury Prevention:** Complete training without significant setbacks
-- **Strength Preservation:** Maintain current strength levels
-- **Recovery Quality:** Adapt to training load without overreaching
-- **Enjoyment Factor:** Develop sustainable enthusiasm for endurance training
+### Gesundheitserhalt
+- **Verletzungsprävention:** Training ohne nennenswerte Rückschläge absolvieren
+- **Krafterhalt:** Aktuelles Kraftniveau halten
+- **Regenerationsqualität:** An die Trainingsbelastung adaptieren, ohne zu überlasten
+- **Spaßfaktor:** Nachhaltige Begeisterung für Ausdauertraining entwickeln
 
-This program represents a systematic approach to addressing specific athletic weaknesses while building on existing strengths for successful [[Hyrox Competition]] completion.
+Dieses Programm stellt einen systematischen Ansatz dar, um spezifische athletische Schwächen zu beheben und gleichzeitig vorhandene Stärken für einen erfolgreichen Abschluss der [[Hyrox Competition|Hyrox-Wettkampfteilnahme]] zu nutzen.

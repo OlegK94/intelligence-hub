@@ -1,68 +1,68 @@
 ---
-title: Structured Data Directory README
+title: Strukturiertes Datenverzeichnis README
 type: source
 tags: [data, dataview, csv, infrastructure, vault-structure, cli]
 sources: ["raw/data/README.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: README for the raw/data/ directory — placeholder instructing placement of CSV exports (cashflow, health metrics, training logs) for Dataview and CLI tools; explicitly forbids secrets or credentials
+summary: README für das Verzeichnis raw/data/ — Platzhalter mit Anweisungen zur Ablage von CSV-Exporten (Cashflow, Gesundheitsmetriken, Trainingsprotokolle) für Dataview und CLI-Tools; verbietet ausdrücklich Geheimnisse oder Zugangsdaten
 ---
 
-# Structured Data Directory — README
+# Strukturiertes Datenverzeichnis — README
 
-## Overview
+## Überblick
 
-This source page captures the README for the `raw/data/` directory in [[Oleg Personal Context|Oleg]]'s vault. The directory is designated as a structured data store for machine-readable exports consumed by [[Dataview]] queries and CLI tooling.
+Diese Quellseite erfasst das README für das Verzeichnis `raw/data/` in [[Oleg Personal Context|Olegs]] Vault. Das Verzeichnis ist als strukturierter Datenspeicher für maschinenlesbare Exporte vorgesehen, die von [[Dataview]]-Abfragen und CLI-Tools verwendet werden.
 
-## Purpose
+## Zweck
 
-The `raw/data/` directory is intended to hold **CSV exports** across three domains:
+Das Verzeichnis `raw/data/` ist dazu gedacht, **CSV-Exporte** aus drei Bereichen zu speichern:
 
-| Domain | Examples |
+| Bereich | Beispiele |
 |---|---|
-| **Cashflow** | Monthly income/expense exports, budget vs. actual |
-| **Health metrics** | Biomarker results, body scan measurements, HRV, weight tracking |
-| **Training logs** | Workout logs, Hyrox training data, Zone 2 session records |
+| **Cashflow** | Monatliche Einnahmen-/Ausgaben-Exporte, Budget vs. Ist |
+| **Gesundheitsmetriken** | Biomarkerwerte, Körperscanner-Messungen, HRV, Gewichtsverlauf |
+| **Trainingsprotokolle** | Workout-Logs, Hyrox-Trainingsdaten, Zone 2-Aufzeichnungen |
 
-## Constraints
+## Einschränkungen
 
-- **No secrets or credentials** — explicitly prohibited by the README
-- Data here is structured/machine-readable (CSV), not prose notes
-- Intended for tool consumption, not human browsing
+- **Keine Geheimnisse oder Zugangsdaten** — durch das README ausdrücklich verboten
+- Die Daten hier sind strukturiert/maschinenlesbar (CSV), keine Prosanotizen
+- Zur Verwendung durch Tools vorgesehen, nicht zum manuellen Durchsuchen
 
-## Relationship to Wiki Concepts
+## Bezug zu Wiki-Konzepten
 
-The data stored here would feed into:
+Die hier gespeicherten Daten würden einfließen in:
 
-- **[[Biomarker Testing]]** / **[[Blutbild Panel]]** — quarterly blood panel results as CSV
-- **[[3D Body Scan]]** / **[[3D Body Scan Scaneca Mai 2026]]** — body composition metrics over time
-- **[[BMR and TDEE]]** — caloric tracking exports
-- **[[Hyrox 10-Week Training]]** — training log data
-- **[[Fixkosten Übersicht]]** — cashflow / fixed cost exports
-- **[[MOC Finanzen]]** — financial data exports
+- **[[Biomarker Testing]]** / **[[Blutbild Panel]]** — vierteljährliche Blutpanelergebnisse als CSV
+- **[[3D Body Scan]]** / **[[3D Body Scan Scaneca Mai 2026]]** — Körperzusammensetzungsmetriken über die Zeit
+- **[[BMR and TDEE]]** — Kalorientracking-Exporte
+- **[[Hyrox 10-Week Training]]** — Trainingsprotokoll-Daten
+- **[[Fixkosten Übersicht]]** — Cashflow- / Fixkosten-Exporte
+- **[[MOC Finanzen]]** — Finanzdaten-Exporte
 
-## Dataview Integration
+## Dataview-Integration
 
-[[Dataview]] is an Obsidian plugin that enables SQL-like queries over vault content, including CSV files in this directory. This enables dynamic dashboards for health metrics, financial summaries, and training progress without duplicating data manually into notes.
+[[Dataview]] ist ein Obsidian-Plugin, das SQL-ähnliche Abfragen über Vault-Inhalte ermöglicht, einschließlich CSV-Dateien in diesem Verzeichnis. Dies ermöglicht dynamische Dashboards für Gesundheitsmetriken, Finanzübersichten und Trainingsfortschritte, ohne Daten manuell in Notizen duplizieren zu müssen.
 
-## Current State
+## Aktueller Stand
 
-As of the README's creation, the directory contains **no data files** — only this instructional README. Data population is a future action as CSV exports are generated from:
-- Wahoo/Garmin training exports
-- Blood panel lab results
-- Bank/Finom account exports
-- Body scan follow-up data
+Zum Zeitpunkt der Erstellung des READMEs enthält das Verzeichnis **keine Datendateien** — nur dieses erklärende README. Die Befüllung mit Daten ist eine zukünftige Maßnahme, sobald CSV-Exporte erzeugt werden aus:
+- Wahoo/Garmin-Trainingsexporten
+- Blutlabor-Ergebnissen
+- Bank-/Finom-Kontoexporten
+- Nachfolgedaten aus Körperscans
 
-## No Contradictions
+## Keine Widersprüche
 
-This README does not contradict any existing wiki content. It establishes infrastructure context only.
+Dieses README widerspricht keinen bestehenden Wiki-Inhalten. Es stellt ausschließlich Infrastrukturkontext bereit.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Blutbild Panel]] — health metrics to be stored here
-- [[3D Body Scan Scaneca Mai 2026]] — body composition data
-- [[BMR and TDEE]] — metabolic tracking context
-- [[Fixkosten Übersicht]] — cashflow data source
-- [[MOC Finanzen]] — financial data context
-- [[MOC Performance und Leben]] — health/training data context
-- [[Oleg Personal Context]] — vault owner
+- [[Blutbild Panel]] — Gesundheitsmetriken, die hier gespeichert werden sollen
+- [[3D Body Scan Scaneca Mai 2026]] — Körperzusammensetzungsdaten
+- [[BMR and TDEE]] — Kontext zum Stoffwechsel-Tracking
+- [[Fixkosten Übersicht]] — Cashflow-Datenquelle
+- [[MOC Finanzen]] — Finanzdaten-Kontext
+- [[MOC Performance und Leben]] — Kontext für Gesundheits-/Trainingsdaten
+- [[Oleg Personal Context]] — Vault-Inhaber

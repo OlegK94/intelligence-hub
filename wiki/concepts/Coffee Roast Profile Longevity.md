@@ -1,20 +1,20 @@
 ---
-title: Coffee Roast Profile Longevity
+title: Kaffeeröstprofil Longevity
 type: concept
 tags: [coffee, roasting, longevity, CGA, chlorogenic-acid, trigonellin, koffein, acrylamid, city-roast, light-medium, performance-cafe, bioactive, first-crack]
 sources: ["raw/Business/PerformanceCafe/research/03_kaffee_specs.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Optimal roast profile for longevity/performance coffee — City Roast (Medium-Light, 215–218°C internal) maximizes CGA and Trigonellin retention while achieving acceptable flavor; detailed roast parameter guidance for Lohnröster briefing
+summary: Optimales Röstprofil für Longevity/Performance-Kaffee — City Roast (Medium-Light, 215–218°C Bohneninnentemperatur) maximiert die Erhaltung von CGA und Trigonellin bei akzeptablem Geschmack; detaillierte Röstparameter für das Lohnröster-Briefing
 ---
 
-# Coffee Roast Profile — Longevity-Optimized
+# Kaffeeröstprofil — Longevity-optimiert
 
-## Overview
+## Überblick
 
-The choice of roast grade is one of the most critical decisions in designing a longevity coffee product. Higher temperatures destroy the primary bioactive compounds ([[Chlorogenic Acid]] and [[Trigonellin NAD Precursor]]) while improving flavor. The optimal roast for [[Performance Coffee Brand]] is **City Roast (Medium-Light)** — a deliberate compromise that maximizes bioactive retention while achieving consumer-acceptable taste.
+Die Wahl des Röstgrads ist eine der wichtigsten Entscheidungen bei der Entwicklung eines Longevity-Kaffeeprodukts. Höhere Temperaturen zerstören die primären bioaktiven Verbindungen ([[Chlorogenic Acid]] und [[Trigonellin NAD Precursor]]), verbessern jedoch den Geschmack. Der optimale Röstgrad für [[Performance Coffee Brand]] ist **City Roast (Medium-Light)** — ein bewusster Kompromiss, der die Erhaltung der bioaktiven Substanzen maximiert und gleichzeitig einen verbrauchergerechten Geschmack erzielt.
 
-## Roast Grade Comparison
+## Vergleich der Röstgrade
 
 | Parameter | Light Roast (210–220°C) | **Medium-Light / City Roast** | Medium Roast (220–230°C) | Dark Roast (230–250°C+) |
 |---|---|---|---|---|
@@ -25,23 +25,23 @@ The choice of roast grade is one of the most critical decisions in designing a l
 | **Löslichkeit** | Schlechter | **Gut** | Gut | Sehr gut |
 | **Kompatibilität Pilzextrakte** | Mittel | **Hoch** | Hoch | Hoch |
 | **Geschmack** | Grasig, hell, sauer | **Schokolade, Nuss, rund** | Ausgewogen | Bitter, rauchig |
-| **Extractionseffizienz** | Geringer | **Optimal** | Optimal | Optimal (CGA zerstört) |
+| **Extraktionseffizienz** | Geringer | **Optimal** | Optimal | Optimal (CGA zerstört) |
 
-## Recommendation: City Roast (Medium-Light)
+## Empfehlung: City Roast (Medium-Light)
 
 **Zieltemperatur:** 215–218°C Bohnen-Innentemperatur beim Auslass
 
-**Rationale:**
-1. **CGA retention ~50%** — significantly better than Medium or Dark roast
-2. **Trigonellin retention ~35%** — preserves NAD⁺ precursor pathway
-3. **Caffeine ~96%** — essentially no loss
-4. **Taste:** sufficient roast character for consumers; avoids "grassy" notes of Light Roast; Schokolade/Nuss notes complement functional ingredient stack
-5. **Mushroom extract compatibility:** Medium-Light Röstnoten (Schokolade, Nuss) mask the bitterness of Lion's Mane and other functional extracts
-6. **Acrylamid:** EU-compliant (EU-VO 2017/2158 benchmark: 400 µg/kg; City Roast well within range)
+**Begründung:**
+1. **CGA-Erhalt ~50%** — deutlich besser als Medium oder Dark Roast
+2. **Trigonellin-Erhalt ~35%** — erhält den NAD⁺-Vorläuferstoffweg
+3. **Koffein ~96%** — praktisch kein Verlust
+4. **Geschmack:** ausreichender Röstcharakter für Verbraucher; vermeidet „grasige" Noten des Light Roast; Schokoladen-/Nuss-Noten ergänzen den funktionellen Zutaten-Stack
+5. **Kompatibilität mit Pilzextrakten:** Medium-Light-Röstnoten (Schokolade, Nuss) überdecken die Bitterkeit von Lion's Mane und anderen funktionellen Extrakten
+6. **Acrylamid:** EU-konform (EU-VO 2017/2158 Richtwert: 400 µg/kg; City Roast liegt deutlich darunter)
 
-## Detailed Roast Profile for Lohnröster Briefing
+## Detailliertes Röstprofil für das Lohnröster-Briefing
 
-| Phase | Parameter | Target |
+| Phase | Parameter | Zielwert |
 |---|---|---|
 | Einwurf | Eintrittstemperatur | 180–190°C |
 | Trocknungsphase | Bohneninnentemperatur | 140–160°C (Maillard-Trigger) |
@@ -50,40 +50,40 @@ The choice of roast grade is one of the most critical decisions in designing a l
 | Farbe | Agtron-Score | **60–70 (Medium-Light)** |
 | Oberfläche | Ölfilm | Keine Öle auf Bohnenoberfläche |
 
-**First Crack reference:** Typically occurs at ~196–205°C internal bean temperature. City Roast = just after First Crack, well before Second Crack.
+**First Crack Referenz:** Tritt typischerweise bei ~196–205°C Bohneninnentemperatur auf. City Roast = kurz nach dem First Crack, deutlich vor dem Second Crack.
 
-## Acrylamid Paradox
+## Acrylamid-Paradoxon
 
-Counter-intuitively, acrylamid levels in coffee **decrease** at higher roasting temperatures:
-- Forms in Maillard process from ~120°C, peaks at **170–190°C**
-- Then **degrades** at higher temperatures
-- Therefore: **Light Roast ≥ Medium Roast > Dark Roast** for acrylamid
+Kontraintuitiv sinken die Acrylamidwerte in Kaffee **bei höheren Rösttemperaturen**:
+- Bildet sich im Maillard-Prozess ab ~120°C, erreicht das Maximum bei **170–190°C**
+- Anschließend **Abbau** bei höheren Temperaturen
+- Daher gilt: **Light Roast ≥ Medium Roast > Dark Roast** hinsichtlich Acrylamid
 
-**EU benchmark:** 400 µg/kg (EU-VO 2017/2158) — all standard roast grades remain below this.
+**EU-Richtwert:** 400 µg/kg (EU-VO 2017/2158) — alle gängigen Röstgrade bleiben darunter.
 
-**Implication for Performance Coffee:** The City Roast acrylamid level (~150–200 µg/kg) is not a concern for regulatory compliance. The health tradeoff (acrylamid slightly higher than Dark Roast) is massively outweighed by the superior CGA and Trigonellin retention.
+**Bedeutung für Performance Coffee:** Der Acrylamidgehalt beim City Roast (~150–200 µg/kg) ist für die regulatorische Konformität kein Problem. Der gesundheitliche Kompromiss (Acrylamid leicht höher als beim Dark Roast) wird durch die deutlich bessere CGA- und Trigonellin-Erhaltung bei Weitem aufgewogen.
 
-## Scientific Foundation
+## Wissenschaftliche Grundlagen
 
-| Study | Finding |
+| Studie | Ergebnis |
 |---|---|
-| Farah et al. (2005), J. Agric. Food Chem. | CGA loss at 230°C/12 min = ~50%; at 250°C/21 min = trace |
-| SCA News / SCA (2014) | Light Roast retains ~50% more CGA than Dark Roast |
-| Int. J. Food Sci. Technol. (2025) | Significant CGA degradation from 220°C, non-linear |
-| Bioscience, Biotechnology, Biochemistry (1985) | Trigonellin degradation begins ~192°C; at 240°C: Arabica ~5%, Robusta ~15% |
+| Farah et al. (2005), J. Agric. Food Chem. | CGA-Verlust bei 230°C/12 min = ~50%; bei 250°C/21 min = Spuren |
+| SCA News / SCA (2014) | Light Roast erhält ~50% mehr CGA als Dark Roast |
+| Int. J. Food Sci. Technol. (2025) | Signifikanter CGA-Abbau ab 220°C, nichtlinear |
+| Bioscience, Biotechnology, Biochemistry (1985) | Trigonellin-Abbau beginnt bei ~192°C; bei 240°C: Arabica ~5%, Robusta ~15% |
 
-## Practical Notes
+## Praktische Hinweise
 
-- **Consistency is critical** for a functional product — coffee roasting has natural batch variability; +/-5°C target deviation is acceptable but should be monitored
-- **Sample testing:** Agtron colorimeter measurement and HPLC CGA analysis recommended for first production batches
-- **Lohnröster briefing:** Provide the above profile parameters in writing; confirm Agtron and DTR measurement capability
+- **Konsistenz ist entscheidend** für ein funktionelles Produkt — Kaffeeröstung unterliegt natürlicher Chargenstreuung; eine Abweichung vom Zielwert von +/-5°C ist akzeptabel, sollte jedoch überwacht werden
+- **Musterbeprobung:** Agtron-Kolorimeter-Messung und HPLC-CGA-Analyse werden für die ersten Produktionschargen empfohlen
+- **Lohnröster-Briefing:** Die obigen Profilparameter schriftlich übergeben; Agtron- und DTR-Messkompetenz bestätigen lassen
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Chlorogenic Acid]] — primary bioactive preserved by this profile
-- [[Trigonellin NAD Precursor]] — secondary bioactive preserved by this profile
-- [[Coffee Blend Ratios]] — blend decision that pairs with this roast profile
-- [[Coffee Extraction Methods Instant]] — next processing step after roasting
-- [[Kaffee Spezifikation Modul 2]] — source document
-- [[German Coffee Roasters B2B]] — DACH Lohnröster to brief on this profile
-- [[Performance Coffee Brand]] — application context
+- [[Chlorogenic Acid]] — primäre bioaktive Substanz, die durch dieses Profil erhalten wird
+- [[Trigonellin NAD Precursor]] — sekundäre bioaktive Substanz, die durch dieses Profil erhalten wird
+- [[Coffee Blend Ratios]] — Blending-Entscheidung, die mit diesem Röstprofil abgestimmt ist
+- [[Coffee Extraction Methods Instant]] — nächster Verarbeitungsschritt nach der Röstung
+- [[Kaffee Spezifikation Modul 2]] — Quelldokument
+- [[German Coffee Roasters B2B]] — DACH-Lohnröster, die auf Basis dieses Profils gebrieft werden
+- [[Performance Coffee Brand]] — Anwendungskontext

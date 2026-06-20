@@ -5,50 +5,50 @@ tags: [functional-coffee, competitor, instant-latte, plant-based, oat-milk, perf
 sources: ["raw/Business/PerformanceCafe/research/04_marktanalyse.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: New York-based instant functional latte brand; Coffee SuperLatte + Ashwagandha/Lion's Mane/Reishi/Probiotics + Oat Milk; ~$1.00/portion; low dosages; caloric (oat milk integrated); no longevity claims; no EU presence; not a serious competitor in longevity segment
+summary: In New York ansässige Instant-Functional-Latte-Marke; Coffee SuperLatte + Ashwagandha/Lion's Mane/Reishi/Probiotika + Hafermilch; ~1,00 $/Portion; niedrige Dosierungen; kalorienreich (Hafermilch integriert); keine Longevity-Claims; keine EU-Präsenz; kein ernsthafter Wettbewerber im Longevity-Segment
 ---
 
 # Clevr Blends
 
-## Overview
+## Überblick
 
-**Clevr Blends** is a New York-based brand offering instant functional lattes targeting the "balanced energy" and gut health wellness segment. Notable for its integration of oat milk into the sachet (all-in-one latte), which makes it unsuitable for keto/low-carb consumers.
+**Clevr Blends** ist eine in New York ansässige Marke, die Instant-Functional-Lattes für das Wellness-Segment „ausgewogene Energie" und Darmgesundheit anbietet. Bemerkenswert ist die Integration von Hafermilch in das Sachet (All-in-One-Latte), was das Produkt für Keto- und Low-Carb-Konsumenten ungeeignet macht.
 
-## Key Facts
+## Eckdaten
 
-| Parameter | Value |
+| Parameter | Wert |
 |---|---|
-| **Headquarters** | New York, NY |
-| **Products** | Coffee SuperLatte, Matcha SuperLatte, Golden SuperLatte |
-| **Format** | Instant, plant-based |
-| **Price/portion** | ~$1.00 (subscription: $23.80/28 srv.) |
-| **EU presence** | None |
+| **Hauptsitz** | New York, NY |
+| **Produkte** | Coffee SuperLatte, Matcha SuperLatte, Golden SuperLatte |
+| **Format** | Instant, pflanzlich |
+| **Preis/Portion** | ~1,00 $ (Abo: 23,80 $/28 Portionen) |
+| **EU-Präsenz** | Keine |
 
-## Product Stack
+## Produkt-Stack
 
-Arabica Coffee + Ashwagandha + Lion's Mane + Reishi + Probiotics + **Oat Milk** — all integrated in one sachet.
+Arabica-Kaffee + Ashwagandha + Lion's Mane + Reishi + Probiotika + **Hafermilch** — alles in einem Sachet integriert.
 
-**Stack depth:** Flat — adaptogens + mushrooms at likely low dosages.
-**Longevity claim:** None — positioned around "balanced energy," stress reduction, gut health.
+**Stack-Tiefe:** Flach — Adaptogene + Pilze wahrscheinlich in niedrigen Dosierungen.
+**Longevity-Claim:** Keiner — positioniert rund um „ausgewogene Energie", Stressreduktion und Darmgesundheit.
 
-## Key Weakness: Oat Milk Integration
+## Zentrale Schwäche: Hafermilch-Integration
 
-The integration of oat milk is both a feature (convenience) and a fatal flaw for the biohacker segment:
-- Adds calories (~60–80 kcal) — not suitable for fasted morning protocols
-- Eliminates keto/low-carb compatibility
-- Limits use as a "black coffee" replacement
+Die Integration von Hafermilch ist sowohl ein Feature (Bequemlichkeit) als auch ein entscheidender Nachteil für das Biohacker-Segment:
+- Fügt Kalorien hinzu (~60–80 kcal) — nicht geeignet für Nüchtern-Morgenprotokolle
+- Schließt Keto- und Low-Carb-Kompatibilität aus
+- Schränkt den Einsatz als „schwarzer Kaffee"-Ersatz ein
 
-## Competitive Weaknesses
+## Wettbewerbliche Schwächen
 
-1. No longevity stack — no NMN, NAD+, Urolithin A
-2. Low dosages — adaptogens at likely sub-clinical levels
-3. Caloric (oat milk) — excludes keto/low-carb/fasted protocols
-4. No scientific longevity claims
-5. No EU presence
+1. Kein Longevity-Stack — kein NMN, NAD+, Urolithin A
+2. Niedrige Dosierungen — Adaptogene wahrscheinlich unter klinisch relevantem Niveau
+3. Kalorienreich (Hafermilch) — schließt Keto-/Low-Carb-/Nüchtern-Protokolle aus
+4. Keine wissenschaftlichen Longevity-Claims
+5. Keine EU-Präsenz
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Marktanalyse Source Detail]] — source document
-- [[Functional Coffee Competitive Landscape]] — comparative analysis
-- [[Performance Coffee Brand]] — competing brand
-- [[Functional Coffee White Space]] — market opportunity
+- [[Performance Cafe Marktanalyse Source Detail]] — Quelldokument
+- [[Functional Coffee Competitive Landscape|Wettbewerbslandschaft Functional Coffee]] — vergleichende Analyse
+- [[Performance Coffee Brand|Performance Coffee Marke]] — konkurrierende Marke
+- [[Functional Coffee White Space|Functional Coffee Marktlücke]] — Marktchance

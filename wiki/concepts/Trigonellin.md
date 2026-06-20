@@ -5,24 +5,24 @@ tags: [coffee, alkaloid, NAD, NMN, trigonelline, preiss-handler, sirtuin, nicoti
 sources: ["raw/Business/PerformanceCafe/research/01_longevity_science.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Coffee alkaloid and natural NAD+ precursor — Nature Metabolism 2024 discovery; metabolized in gut to nicotinic acid → NAD+ via Preiss-Handler pathway; 30–50 mg/cup in light roast; heat-sensitive (50–80% lost in dark roast); enables authentic "natural NMN precursor" marketing claim for Performance Coffee Brand
+summary: Kaffee-Alkaloid und natürlicher NAD+-Vorläufer — Entdeckung Nature Metabolism 2024; wird im Darm zu Nikotinsäure → NAD+ über den Preiss-Handler-Pathway metabolisiert; 30–50 mg/Tasse in Light Roast; hitzeempfindlich (50–80% Verlust bei Dark Roast); ermöglicht authentische „natürlicher NMN-Vorläufer"-Marketingaussage für die Performance Coffee Brand
 ---
 
 # Trigonellin (Trigonelline)
 
-## Overview
+## Überblick
 
-**Trigonellin** (also spelled trigonelline) is a naturally occurring alkaloid in coffee that was discovered in 2024 to be a **direct NAD+ precursor** — making it potentially the most strategically important ingredient in [[Performance Coffee Brand]]'s science narrative. Unlike synthetic [[NMN]] or [[NR]] (nicotinamide riboside), trigonellin is a naturally occurring compound in coffee with no IP barriers and no Novel Food classification requirement.
+**Trigonellin** (auch Trigonelline) ist ein natürlich vorkommendes Alkaloid in Kaffee, das 2024 als **direkter NAD+-Vorläufer** entdeckt wurde — und damit möglicherweise die strategisch wichtigste Zutat in der Wissenschaftsnarrative von [[Performance Coffee Brand]] darstellt. Anders als synthetisches [[NMN]] oder [[NR]] (Nicotinamidribosid) ist Trigonellin eine natürlich vorkommende Verbindung in Kaffee ohne IP-Barrieren und ohne Novel Food-Klassifizierungspflicht.
 
-*Key source: Kashyap S. et al., "Trigonelline is an NAD+ precursor that improves age-related muscle decline", Nature Metabolism 6, 2024*
+*Wichtigste Quelle: Kashyap S. et al., „Trigonelline is an NAD+ precursor that improves age-related muscle decline", Nature Metabolism 6, 2024*
 
 ---
 
-## The 2024 Discovery
+## Die Entdeckung von 2024
 
-**Publication:** Nature Metabolism, March 2024 (Yoshino & Imai Lab, Washington University)
+**Publikation:** Nature Metabolism, März 2024 (Yoshino & Imai Lab, Washington University)
 
-**Finding:** Trigonellin, when ingested, is metabolized in the gut to **nicotinic acid** (niacin/Vitamin B3), which enters the **Preiss-Handler pathway** and is converted to **NAD+**.
+**Befund:** Trigonellin wird nach der Aufnahme im Darm zu **Nikotinsäure** (Niacin/Vitamin B3) metabolisiert, die über den **Preiss-Handler-Pathway** zu **NAD+** umgewandelt wird.
 
 **Pathway:**
 ```
@@ -39,114 +39,114 @@ SIRT1/3/6 activation
 DNA repair + Mitophagy + Metabolism regulation
 ```
 
-**Human study results:**
-- Trigonellin serum levels correlate with NAD+ levels in participants
-- Supplementation with trigonellin increased NAD+ in muscle tissue
-- Improvement in age-related muscle decline metrics (the paper's primary endpoint)
+**Ergebnisse der Humanstudie:**
+- Trigonellin-Serumwerte korrelieren mit NAD+-Spiegeln der Studienteilnehmer
+- Trigonellin-Supplementierung erhöhte NAD+ im Muskelgewebe
+- Verbesserung der Messwerte zum altersbedingten Muskelabbau (primärer Endpunkt der Studie)
 
 ---
 
-## Content in Coffee
+## Gehalt in Kaffee
 
-| Variety | Trigonellin Content | Notes |
+| Sorte | Trigonellin-Gehalt | Anmerkungen |
 |---|---|---|
-| Green Robusta | 0.6–1.2% dry weight | |
-| Green Arabica | **0.9–1.4% dry weight** | Higher than Robusta |
-| Light/Medium Roast cup | **~30–50 mg per 250 ml** | |
-| Dark Roast cup | **~6–15 mg per 250 ml** | 50–80% degraded |
+| Grüner Robusta | 0,6–1,2 % Trockengewicht | |
+| Grüner Arabica | **0,9–1,4 % Trockengewicht** | Höher als Robusta |
+| Light/Medium Roast (Tasse) | **~30–50 mg pro 250 ml** | |
+| Dark Roast (Tasse) | **~6–15 mg pro 250 ml** | 50–80 % abgebaut |
 
-**Critical finding:** Arabica has *higher* trigonellin than Robusta (opposite of [[Chlorogenic Acid]] where Robusta wins). This creates a potential blending optimization: Robusta for CGA, Arabica for trigonellin, in a light-roast instant base.
+**Wichtiger Befund:** Arabica enthält *mehr* Trigonellin als Robusta (umgekehrt wie bei [[Chlorogenic Acid]], wo Robusta vorne liegt). Dies eröffnet eine potenzielle Blending-Optimierung: Robusta für CGA, Arabica für Trigonellin, in einer Light-Roast-Instant-Basis.
 
 ---
 
-## Heat Sensitivity — The Light Roast Imperative
+## Hitzeempfindlichkeit — Das Gebot des Light Roast
 
-**Trigonellin is far more heat-sensitive than CGA:**
+**Trigonellin ist weitaus hitzeempfindlicher als CGA:**
 
-| Temperature | Trigonellin Degradation |
+| Temperatur | Trigonellin-Abbau |
 |---|---|
-| Light roast (~150–160°C) | Low degradation |
-| Medium roast | Moderate loss |
-| Dark roast (220°C+) | **50–80% degraded** |
+| Light Roast (~150–160 °C) | Geringer Abbau |
+| Medium Roast | Moderater Verlust |
+| Dark Roast (220 °C+) | **50–80 % abgebaut** |
 
-**Product implication:** Light Roast is essential to preserve both CGA *and* trigonellin. Dark roast eliminates most of both key longevity compounds. This creates a clear, scientifically coherent product rationale for light-roast specification.
+**Produktkonsequenz:** Light Roast ist unerlässlich, um sowohl CGA *als auch* Trigonellin zu erhalten. Dark Roast eliminiert den Großteil beider wichtigen Longevity-Verbindungen. Dies schafft eine klare, wissenschaftlich kohärente Produktbegründung für die Light-Roast-Spezifikation.
 
 ---
 
-## Pharmacological Comparison: Trigonellin vs. NMN/NR
+## Pharmakologischer Vergleich: Trigonellin vs. NMN/NR
 
-| Parameter | Trigonellin | NMN | NR (Nicotinamide Riboside) |
+| Parameter | Trigonellin | NMN | NR (Nicotinamidribosid) |
 |---|---|---|---|
-| Source | Natural (coffee) | Synthetic | Synthetic / yeast-derived |
-| Pathway to NAD+ | Preiss-Handler (via niacin) | Salvage pathway | Salvage pathway |
-| Speed to NAD+ | Slower | Faster | Faster |
-| Dose in coffee | 30–50 mg/cup | 250–1,000 mg (supplement) | 250–1,000 mg (supplement) |
-| IP status | **None** | [[Chromadex / Niagen Bioscience]] (NR) | Major IP barriers |
-| Novel Food (EU) | **None required** | Requires Novel Food application | Requires Novel Food application |
-| Consumer perception | Natural, food-derived | Supplement | Supplement |
-| Cost | Included in coffee base | High | High |
-| Human evidence | Emerging (2024) | Moderate | Moderate |
+| Quelle | Natürlich (Kaffee) | Synthetisch | Synthetisch / hefebasiert |
+| Pathway zu NAD+ | Preiss-Handler (über Niacin) | Salvage-Pathway | Salvage-Pathway |
+| Geschwindigkeit zu NAD+ | Langsamer | Schneller | Schneller |
+| Dosis in Kaffee | 30–50 mg/Tasse | 250–1.000 mg (Supplement) | 250–1.000 mg (Supplement) |
+| IP-Status | **Keiner** | [[Chromadex / Niagen Bioscience]] (NR) | Erhebliche IP-Barrieren |
+| Novel Food (EU) | **Nicht erforderlich** | Novel Food-Antrag erforderlich | Novel Food-Antrag erforderlich |
+| Verbraucherwahrnehmung | Natürlich, lebensmittelbasiert | Supplement | Supplement |
+| Kosten | Im Kaffee-Basisprodukt enthalten | Hoch | Hoch |
+| Humanbelege | Aufkommend (2024) | Moderat | Moderat |
 
-**Verdict:** Trigonellin is the strategically superior choice for a coffee product — natural, IP-free, regulatory-clean, and directly supported by a 2024 Nature Metabolism publication.
-
----
-
-## Strategic Value for Performance Coffee Brand
-
-### The Authentic Claim
-
-> *"Light-Roast Kaffee enthält Trigonellin — eine natürliche Vorstufe von NAD+."*
-
-This is:
-- ✅ Scientifically accurate (Nature Metabolism 2024)
-- ✅ Naturally occurring in food → no Novel Food issues
-- ✅ Not subject to [[Amazentis]] or [[Chromadex Niagen Bioscience]] IP
-- ✅ Distinguishes the product from generic instant coffee
-- ✅ Consumer-translatable: "natural NMN alternative in your morning coffee"
-
-### Marketing Narrative Possibility
-
-"Bryan Johnson pays $50/month for NMN capsules. Our light-roast coffee delivers the body's natural NAD+ precursor — trigonellin — in every cup." *(Internal framing note; not verbatim ad copy — requires legal review for claims compliance)*
+**Fazit:** Trigonellin ist die strategisch überlegene Wahl für ein Kaffeeprodukt — natürlich, IP-frei, regulatorisch unkompliziert und direkt durch eine Nature-Metabolism-Publikation von 2024 belegt.
 
 ---
 
-## Biomarker Tracking
+## Strategischer Wert für die Performance Coffee Brand
 
-The effect of trigonellin on NAD+ can theoretically be tracked, but:
+### Die authentische Aussage
 
-| Testing Method | Availability | Notes |
+> *„Light-Roast Kaffee enthält Trigonellin — eine natürliche Vorstufe von NAD+."*
+
+Diese Aussage ist:
+- ✅ Wissenschaftlich korrekt (Nature Metabolism 2024)
+- ✅ Natürlich in Lebensmitteln vorkommend → keine Novel-Food-Problematik
+- ✅ Nicht durch [[Amazentis]]- oder [[Chromadex Niagen Bioscience]]-IP geschützt
+- ✅ Unterscheidet das Produkt von generischem Instantkaffee
+- ✅ Verbrauchertauglich formulierbar: „natürliche NMN-Alternative in deinem Morgenkaffee"
+
+### Mögliche Marketingnarrative
+
+„Bryan Johnson zahlt 50 $/Monat für NMN-Kapseln. Unser Light-Roast-Kaffee liefert den natürlichen NAD+-Vorläufer des Körpers — Trigonellin — in jeder Tasse." *(Interne Rahmung; kein wörtlicher Anzeigentext — rechtliche Prüfung auf Claim-Konformität erforderlich)*
+
+---
+
+## Biomarker-Tracking
+
+Die Wirkung von Trigonellin auf NAD+ lässt sich theoretisch verfolgen, jedoch:
+
+| Testmethode | Verfügbarkeit | Anmerkungen |
 |---|---|---|
-| Serum NAD+ | Research only; no consumer DTC test in DE | [[DTC Biomarker Tests DACH]]: Sanitas Health (CH) has this; Longevity Hub Berlin |
-| Muscle NAD+ | Research biopsy only | Not practical for community |
-| Functional proxies | Muscle strength, fatigue, VO2max | Practical but indirect |
+| Serum-NAD+ | Nur Forschung; kein Consumer-DTC-Test in DE | [[DTC Biomarker Tests DACH]]: Sanitas Health (CH) bietet dies an; Longevity Hub Berlin |
+| Muskel-NAD+ | Nur Forschungsbiopsie | Nicht praktikabel für die Community |
+| Funktionale Proxies | Muskelkraft, Ermüdung, VO2max | Praktisch, aber indirekt |
 
-**Community strategy:** Trigonellin's NAD+ effect is not easily tracked via affordable DTC tests. Position as a mechanistic claim supported by Nature Metabolism 2024, without promising measurable NAD+ increases in a 90-day protocol. Focus community biomarker challenge on hs-CRP, HbA1c, glucose — more tractable endpoints from [[Chlorogenic Acid]] and koffein effects.
+**Community-Strategie:** Der NAD+-Effekt von Trigonellin lässt sich über erschwingliche DTC-Tests nicht einfach nachweisen. Positionierung als mechanistische Aussage, gestützt auf Nature Metabolism 2024, ohne messbare NAD+-Anstiege in einem 90-Tage-Protokoll zu versprechen. Community-Biomarker-Challenge auf hs-CRP, HbA1c, Glukose fokussieren — besser messbare Endpunkte aus den Effekten von [[Chlorogenic Acid]] und Koffein.
 
 ---
 
-## Relationship to Other NAD+ Precursors in the Stack
+## Verhältnis zu anderen NAD+-Vorläufern im Stack
 
-| Compound | NAD+ Pathway | Source | IP Risk |
+| Verbindung | NAD+-Pathway | Quelle | IP-Risiko |
 |---|---|---|---|
-| **Trigonellin** | Preiss-Handler (slow) | Coffee (natural) | None |
-| NMN | Salvage (fast) | Synthetic | High ([[Chromadex Niagen Bioscience]]) |
-| NR / NIAGEN | Salvage (fast) | Synthetic | High ([[Chromadex Niagen Bioscience]]) |
-| Niacin (B3) | Preiss-Handler (same as trigonellin) | Food / supplement | None |
+| **Trigonellin** | Preiss-Handler (langsam) | Kaffee (natürlich) | Keines |
+| NMN | Salvage (schnell) | Synthetisch | Hoch ([[Chromadex Niagen Bioscience]]) |
+| NR / NIAGEN | Salvage (schnell) | Synthetisch | Hoch ([[Chromadex Niagen Bioscience]]) |
+| Niacin (B3) | Preiss-Handler (identisch mit Trigonellin) | Lebensmittel / Supplement | Keines |
 
-The stack could theoretically combine trigonellin (from the coffee base) with a small supplemental niacin dose to amplify the Preiss-Handler pathway — without triggering IP issues. This is a formulation research question for the CMO.
+Der Stack könnte theoretisch Trigonellin (aus der Kaffeebasis) mit einer kleinen supplementären Niacin-Dosis kombinieren, um den Preiss-Handler-Pathway zu verstärken — ohne IP-Probleme auszulösen. Dies ist eine Formulierungsforschungsfrage für den CMO.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Longevity Science Research Modul 0]] — source document
-- [[Hallmarks of Aging]] — AMPK/mTOR/Sirtuine hallmark (★★★★★)
-- [[AMPK mTOR Sirtuine]] — pathway context for NAD+/SIRT1
-- [[Chlorogenic Acid]] — complementary coffee polyphenol (AMPK via different mechanism)
-- [[Cafestol und Kahweol]] — other coffee diterpenes
-- [[NMN]] — synthetic alternative; IP comparison
-- [[Chromadex / Niagen Bioscience]] — NR/NMN IP holder
-- [[Performance Coffee Brand]] — product application
-- [[CMO Sourcing Performance Coffee]] — formulation implications
-- [[DTC Biomarker Tests DACH]] — NAD+ testing landscape
-- [[Bryan Johnson]] — Blueprint reference; NMN user
+- [[Longevity Science Research Modul 0]] — Quelldokument
+- [[Hallmarks of Aging]] — AMPK/mTOR/Sirtuine Hallmark (★★★★★)
+- [[AMPK mTOR Sirtuine]] — Pathway-Kontext für NAD+/SIRT1
+- [[Chlorogenic Acid]] — komplementäres Kaffee-Polyphenol (AMPK über anderen Mechanismus)
+- [[Cafestol und Kahweol]] — weitere Kaffee-Diterpene
+- [[NMN]] — synthetische Alternative; IP-Vergleich
+- [[Chromadex / Niagen Bioscience]] — NR/NMN-IP-Inhaber
+- [[Performance Coffee Brand]] — Produktanwendung
+- [[CMO Sourcing Performance Coffee]] — Formulierungsimplikationen
+- [[DTC Biomarker Tests DACH]] — NAD+-Test-Landschaft
+- [[Bryan Johnson]] — Blueprint-Referenz; NMN-Nutzer

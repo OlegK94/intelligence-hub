@@ -5,185 +5,185 @@ tags: [longevity, aging, hallmarks, lopez-otin, mitochondria, inflammaging, sene
 sources: ["raw/Business/PerformanceCafe/research/01_longevity_science.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: López-Otín 2023 framework — 12 hallmarks of aging in 3 categories (primary/antagonistic/integrative); rated for addressability by functional beverage ingredients; AMPK/mTOR/Sirtuine pathway is highest-addressability (★★★★★) and the main longevity channel for coffee
+summary: López-Otín 2023 Framework — 12 Hallmarks of Aging in 3 Kategorien (primär/antagonistisch/integrativ); bewertet nach Adressierbarkeit durch Functional-Beverage-Inhaltsstoffe; AMPK/mTOR/Sirtuine-Pathway hat höchste Adressierbarkeit (★★★★★) und ist der wichtigste Longevity-Kanal für Kaffee
 ---
 
 # Hallmarks of Aging
 
-## Overview
+## Überblick
 
-The **12 Hallmarks of Aging** framework, established by Carlos López-Otín et al. (Cell 2013, expanded 2023), provides the scientific foundation for understanding why organisms age and what can be done about it. For [[Performance Coffee Brand]], this framework determines which ingredients to include and what claims can be made.
+Das **12 Hallmarks of Aging**-Framework, entwickelt von Carlos López-Otín et al. (Cell 2013, erweitert 2023), bildet die wissenschaftliche Grundlage dafür, warum Organismen altern und was dagegen getan werden kann. Für [[Performance Coffee Brand]] bestimmt dieses Framework, welche Inhaltsstoffe verwendet werden und welche Aussagen getroffen werden dürfen.
 
-*Primary source: López-Otín C. et al., "Hallmarks of aging: An expanding universe", Cell 186(2), 2023*
-
----
-
-## The Three-Tier Framework (2023)
-
-### Tier 1: Primary Hallmarks (Causes)
-1. **Genomic Instability** — DNA damage accumulation
-2. **Telomere Attrition** — chromosome cap shortening
-3. **Epigenetic Alterations** — methylation pattern drift
-4. **Proteostasis Loss** — protein folding failure; aggregates
-
-### Tier 2: Antagonistic Hallmarks (Initially protective, later harmful)
-5. **Deregulated Nutrient Sensing** — AMPK/mTOR/Sirtuine/IGF-1 dysregulation
-6. **Mitochondrial Dysfunction** — mtDNA mutations, reduced ATP, excess ROS
-7. **Cellular Senescence** — SASP-secreting non-dividing cells
-
-### Tier 3: Integrative Hallmarks (Result from Tiers 1 & 2)
-8. **Stem Cell Exhaustion** — reduced regenerative capacity
-9. **Altered Intercellular Communication** — signaling breakdown
-10. **Chronic Inflammation (Inflammaging)** — sterile systemic low-grade inflammation
-11. **Dysbiosis** — gut microbiome imbalance
-12. **Mechanical Properties** *(NEW 2023)* — extracellular matrix stiffening
+*Primärquelle: López-Otín C. et al., „Hallmarks of aging: An expanding universe", Cell 186(2), 2023*
 
 ---
 
-## Addressability by Beverage Ingredients
+## Das Drei-Ebenen-Framework (2023)
 
-| Hallmark | Rating | Key Substances |
+### Ebene 1: Primäre Hallmarks (Ursachen)
+1. **Genomische Instabilität** — Akkumulation von DNA-Schäden
+2. **Telomer-Attrition** — Verkürzung der Chromosomenkappen
+3. **Epigenetische Veränderungen** — Drift der Methylierungsmuster
+4. **Proteostase-Verlust** — Fehlfaltung von Proteinen; Aggregate
+
+### Ebene 2: Antagonistische Hallmarks (zunächst schützend, später schädlich)
+5. **Dereguliertes Nährstoff-Sensing** — Dysregulation von AMPK/mTOR/Sirtuinen/IGF-1
+6. **Mitochondriale Dysfunktion** — mtDNA-Mutationen, reduzierter ATP-Output, erhöhte ROS
+7. **Zelluläre Seneszenz** — nicht-teilende Zellen, die SASP sezernieren
+
+### Ebene 3: Integrative Hallmarks (resultieren aus Ebenen 1 & 2)
+8. **Stammzell-Erschöpfung** — verringerte Regenerationskapazität
+9. **Veränderte interzelluläre Kommunikation** — Zusammenbruch der Signalgebung
+10. **Chronische Entzündung (Inflammaging)** — sterile systemische Niedriggradientzündung
+11. **Dysbiose** — Ungleichgewicht des Darmmikrobioms
+12. **Mechanische Eigenschaften** *(NEU 2023)* — Versteifung der extrazellulären Matrix
+
+---
+
+## Adressierbarkeit durch Getränke-Inhaltsstoffe
+
+| Hallmark | Bewertung | Schlüsselsubstanzen |
 |---|---|---|
 | Mitochondriale Dysfunktion | ★★★★ | [[Chlorogenic Acid]], CoQ10, [[Urolithin A]], NMN/NR |
 | Inflammaging | ★★★★ | [[Chlorogenic Acid]], Cafestol/Kahweol, Curcumin, Quercetin |
 | AMPK/mTOR/Sirtuine | ★★★★★ | Koffein, [[Chlorogenic Acid]], [[Trigonellin]], NMN |
-| Zelluläre Seneszenz | ★★★ | Quercetin, Fisetin (pulsing) |
-| Proteostase | ★★★ | Spermidine, Koffein, Lion's Mane |
-| Genomische Instabilität | ★★ | Antioxidantien (CGA) — indirect |
-| Telomer-Attrition | ★ | Barely addressable via nutrition |
+| Zelluläre Seneszenz | ★★★ | Quercetin, Fisetin (Pulsing) |
+| Proteostase | ★★★ | Spermidin, Koffein, Lion's Mane |
+| Genomische Instabilität | ★★ | Antioxidantien (CGA) — indirekt |
+| Telomer-Attrition | ★ | Kaum über Ernährung adressierbar |
 | Dysbiose | ★★★ | Kaffee → Bifidus ↑, Bacteroidetes ↑ |
 
 ---
 
-## Hallmark 1: Mitochondrial Dysfunction
+## Hallmark 1: Mitochondriale Dysfunktion
 
-**Mechanism:** Age-accumulated mtDNA mutations → inefficient electron transport chain → increased ROS, decreased ATP output, reduced mitophagy.
+**Mechanismus:** Altersbedingt akkumulierte mtDNA-Mutationen → ineffiziente Elektronentransportkette → erhöhte ROS, verringerter ATP-Output, reduzierte Mitophagie.
 
-**Addressability: HIGH (★★★★)**
+**Adressierbarkeit: HOCH (★★★★)**
 
-| Substance | Mechanism | Rating |
+| Substanz | Mechanismus | Bewertung |
 |---|---|---|
-| Koffein | Indirect AMPK → mitophagy induction | ++ |
-| [[Chlorogenic Acid]] | AMPK activation, PGC-1α upregulation (mitochondrial biogenesis) | +++ |
-| CoQ10 (Ubiquinol) | Direct component of respiratory chain (Complex I–III) | +++ |
-| [[Urolithin A]] | Strongest known mitophagy inducer; clinical data Amazentis 2022 | ++++ |
-| Cordyceps Militaris | Adenosine derivatives → VO2max improvement | ++ |
-| NMN / NR | NAD+ restoration → SIRT1/3 → mitophagy | +++ |
+| Koffein | Indirekt AMPK → Mitophagie-Induktion | ++ |
+| [[Chlorogenic Acid]] | AMPK-Aktivierung, PGC-1α-Hochregulierung (mitochondriale Biogenese) | +++ |
+| CoQ10 (Ubiquinol) | Direkter Bestandteil der Atmungskette (Komplex I–III) | +++ |
+| [[Urolithin A]] | Stärkster bekannter Mitophagie-Induktor; klinische Daten Amazentis 2022 | ++++ |
+| Cordyceps Militaris | Adenosin-Derivate → VO2max-Verbesserung | ++ |
+| NMN / NR | NAD+-Wiederherstellung → SIRT1/3 → Mitophagie | +++ |
 
-**Product strategy:** Urolithin A (via pomegranate extract) + Koffein + Chlorogensäure = triple synergistic base.
+**Produktstrategie:** Urolithin A (über Granatapfelextrakt) + Koffein + Chlorogensäure = dreifache synergistische Basis.
 
 ---
 
 ## Hallmark 2: Inflammaging
 
-**Mechanism:** Age-related sterile systemic inflammation via:
-- Senescent cells secreting SASP (proinflammatory cytokines, proteases)
-- Cellular debris accumulation (DAMPs)
-- Dysbiosis
-- NF-κB activation → IL-6, TNF-α, elevated hs-CRP
+**Mechanismus:** Altersbedingte sterile systemische Entzündung über:
+- Seneszente Zellen, die SASP sezernieren (proinflammatorische Zytokine, Proteasen)
+- Akkumulation von Zelltrümmern (DAMPs)
+- Dysbiose
+- NF-κB-Aktivierung → IL-6, TNF-α, erhöhtes hs-CRP
 
-**Addressability: VERY HIGH (★★★★)** — Coffee particularly strong here.
+**Adressierbarkeit: SEHR HOCH (★★★★)** — Kaffee ist hier besonders wirksam.
 
-| Substance | Mechanism | Evidence |
+| Substanz | Mechanismus | Evidenz |
 |---|---|---|
-| [[Chlorogenic Acid]] | NF-κB inhibition; direct antioxidant | Meta-analyses available |
-| Cafestol / Kahweol | Anti-inflammatory (COX-2 inhibition) | In vitro + animal |
-| Curcumin (liposomal) | NF-κB, IL-6, TNF-α inhibition | RCTs available |
-| Quercetin | NF-κB, NLRP3 inflammasome inhibition | Human RCTs |
-| NAC | Glutathione precursor; oxidative stress ↓ | Well-established |
-| Reishi | Beta-glucans; macrophage modulation | Strong in vitro |
+| [[Chlorogenic Acid]] | NF-κB-Hemmung; direktes Antioxidans | Meta-Analysen verfügbar |
+| Cafestol / Kahweol | Entzündungshemmend (COX-2-Hemmung) | In vitro + Tier |
+| Curcumin (liposomal) | NF-κB-, IL-6-, TNF-α-Hemmung | RCTs verfügbar |
+| Quercetin | NF-κB-, NLRP3-Inflammasom-Hemmung | Humane RCTs |
+| NAC | Glutathion-Vorläufer; oxidativer Stress ↓ | Gut etabliert |
+| Reishi | Beta-Glucane; Makrophagen-Modulation | Starke In-vitro-Daten |
 
-**Biomarker:** hs-CRP. 3 cups coffee/day → −15–25% hs-CRP (observational, n=10,000+).
-*Source: Furman D. et al., Nature Medicine 25, 2019*
+**Biomarker:** hs-CRP. 3 Tassen Kaffee/Tag → −15–25 % hs-CRP (observational, n=10.000+).
+*Quelle: Furman D. et al., Nature Medicine 25, 2019*
 
 ---
 
-## Hallmark 3: Deregulated Nutrient Sensing (AMPK/mTOR/Sirtuins)
+## Hallmark 3: Dereguliertes Nährstoff-Sensing (AMPK/mTOR/Sirtuine)
 
-**Mechanism:**
-- **AMPK** (AMP-activated protein kinase): energy sensor; activated at low ATP → promotes autophagy, inhibits mTOR
-- **mTOR** (mechanistic Target of Rapamycin): growth promoter; overactivation accelerates aging
-- **Sirtuins (SIRT1–7)**: NAD+-dependent deacetylases; regulate DNA repair, mitochondria, inflammation
+**Mechanismus:**
+- **AMPK** (AMP-aktivierte Proteinkinase): Energiesensor; wird bei niedrigem ATP aktiviert → fördert Autophagie, hemmt mTOR
+- **mTOR** (mechanistic Target of Rapamycin): Wachstumsförderer; Überaktivierung beschleunigt das Altern
+- **Sirtuine (SIRT1–7)**: NAD+-abhängige Deacetylasen; regulieren DNA-Reparatur, Mitochondrien, Entzündung
 
-**Addressability: EXTREMELY HIGH (★★★★★)** — this is the main longevity channel of coffee.
+**Adressierbarkeit: EXTREM HOCH (★★★★★)** — dies ist der wichtigste Longevity-Kanal von Kaffee.
 
-| Substance | Pathway | Effect |
+| Substanz | Pathway | Wirkung |
 |---|---|---|
-| [[Chlorogenic Acid]] | AMPK ↑ | Insulin sensitivity ↑, glucose uptake ↑ |
-| Koffein | AMPK ↑ (indirect via adenosine inhibition) | Fat oxidation ↑ |
-| [[Trigonellin]] | NAD+ precursor → SIRT1 ↑ | Mitochondrial function ↑ |
-| NMN / NR | NAD+ directly ↑ → SIRT1/3/6 ↑ | DNA repair, mitophagy |
-| Resveratrol | SIRT1 ↑ (controversial — Bryan Johnson discontinued) | Modest human effects |
-| Spermidine | mTOR-independent autophagy via eIF5A | Very strong in animal models |
+| [[Chlorogenic Acid]] | AMPK ↑ | Insulinsensitivität ↑, Glukoseaufnahme ↑ |
+| Koffein | AMPK ↑ (indirekt über Adenosin-Hemmung) | Fettoxidation ↑ |
+| [[Trigonellin]] | NAD+-Vorläufer → SIRT1 ↑ | Mitochondrienfunktion ↑ |
+| NMN / NR | NAD+ direkt ↑ → SIRT1/3/6 ↑ | DNA-Reparatur, Mitophagie |
+| Resveratrol | SIRT1 ↑ (umstritten — [[Bryan Johnson|Bryan Johnson]] hat es abgesetzt) | Moderate Wirkung beim Menschen |
+| Spermidin | mTOR-unabhängige Autophagie über eIF5A | Sehr starke Tierdaten |
 
 ---
 
-## Hallmark 4: Cellular Senescence
+## Hallmark 4: Zelluläre Seneszenz
 
-**Mechanism:** Senescent cells stop dividing but do not die; secrete SASP (proinflammatory cytokines, proteases, growth factors) and "infect" neighboring cells.
+**Mechanismus:** Seneszente Zellen hören auf sich zu teilen, sterben aber nicht; sie sezernieren SASP (proinflammatorische Zytokine, Proteasen, Wachstumsfaktoren) und „infizieren" benachbarte Zellen.
 
-**Addressability: MODERATE (★★★)** — pharmacological senolytics are easier than dietary.
+**Adressierbarkeit: MODERAT (★★★)** — pharmakologische Senolytika sind einfacher umzusetzen als diätetische.
 
-| Substance | Mechanism | Status |
+| Substanz | Mechanismus | Status |
 |---|---|---|
-| Quercetin | Senolyse: selective apoptosis inducer in senescent cells | Human pilot data (Mayo Clinic) |
-| Fisetin | Potent natural senolytic; strawberry flavonoid | Excellent murine data; human RCTs ongoing |
-| Dasatinib + Quercetin | Gold-standard senolytic (Rx) | Reference; not for food |
-| Curcumin | Weak senolytic activity | Complementary |
+| Quercetin | Senolyse: selektiver Apoptose-Induktor in seneszenten Zellen | Humane Pilotdaten (Mayo Clinic) |
+| Fisetin | Potenter natürlicher Senolytikum; Erdbeer-Flavonoid | Exzellente Mausdaten; humane RCTs laufen |
+| Dasatinib + Quercetin | Gold-Standard-Senolytikum (Rx) | Referenz; nicht für Lebensmittel |
+| Curcumin | Schwache senolytische Aktivität | Ergänzend |
 
-**Key constraint:** Senolyse probably works as pulsing protocol (e.g., 2 days/month high dose) — difficult to implement in a daily beverage. Quercetin as continuous senomorphic (low dose) is more practical.
+**Wichtige Einschränkung:** Senolyse funktioniert wahrscheinlich als Pulsing-Protokoll (z. B. 2 Tage/Monat hohe Dosis) — schwierig in einem täglichen Getränk umzusetzen. Quercetin als kontinuierliches Senomorphikum (niedrige Dosis) ist praktikabler.
 
-*Source: Kirkland JL, Tchkonia T., "Senolytic drugs: from discovery to translation", Journal of Internal Medicine 288(5), 2020*
+*Quelle: Kirkland JL, Tchkonia T., „Senolytic drugs: from discovery to translation", Journal of Internal Medicine 288(5), 2020*
 
 ---
 
-## Hallmark 5: Proteostasis Loss
+## Hallmark 5: Proteostase-Verlust
 
-**Mechanism:** The proteostasis network (chaperones, UPS, autophagy) maintains correct protein folding. With age, misfolded proteins accumulate → aggregates (as in Alzheimer's, Parkinson's).
+**Mechanismus:** Das Proteostase-Netzwerk (Chaperone, UPS, Autophagie) sorgt für korrekte Proteinfaltung. Mit zunehmendem Alter akkumulieren fehlgefaltete Proteine → Aggregate (wie bei Alzheimer, Parkinson).
 
-**Addressability: MODERATE (★★★)**
+**Adressierbarkeit: MODERAT (★★★)**
 
-| Substance | Mechanism | Evidence |
+| Substanz | Mechanismus | Evidenz |
 |---|---|---|
-| Spermidine | Autophagy induction → clearance of misfolded proteins | Animal + epidemiological |
-| Koffein | mTOR inhibition → autophagy ↑ | Well-established |
-| Lion's Mane (NGF↑) | NGF induction → neuroprotection | Human pilot studies |
-| Ashwagandha | Hsp70 induction (chaperone); anti-aggregating | In vitro + animal |
+| Spermidin | Autophagie-Induktion → Abbau fehlgefalteter Proteine | Tier + epidemiologisch |
+| Koffein | mTOR-Hemmung → Autophagie ↑ | Gut etabliert |
+| Lion's Mane (NGF↑) | NGF-Induktion → Neuroprotection | Humane Pilotstudien |
+| Ashwagandha | Hsp70-Induktion (Chaperon); anti-aggregierend | In vitro + Tier |
 
 ---
 
-## Implications for Performance Coffee Brand
+## Implikationen für die Performance Coffee Brand
 
-### High-Impact Hallmarks (Direct Product Relevance)
-1. **AMPK/mTOR/Sirtuine** — Core coffee mechanism; marketable without reaching for exotic claims
-2. **Inflammaging** — hs-CRP as trackable biomarker; community challenge viable
-3. **Mitochondrial Dysfunction** — Urolithin A (via pomegranate) adds clinically validated mitophagy support
+### Hochrelevante Hallmarks (direkte Produktrelevanz)
+1. **AMPK/mTOR/Sirtuine** — Kernmechanismus von Kaffee; vermarktbar ohne exotische Claims
+2. **Inflammaging** — hs-CRP als messbarer Biomarker; Community-Challenge realisierbar
+3. **Mitochondriale Dysfunktion** — Urolithin A (über Granatapfel) fügt klinisch validierte Mitophagie-Unterstützung hinzu
 
-### Medium-Impact Hallmarks (Supplementary Claims)
-4. **Proteostasis** — Lion's Mane + spermidine in stack
-5. **Zelluläre Seneszenz** — Quercetin at maintenance dose
-6. **Dysbiose** — Coffee's prebiotic effect on Bifidus/Bacteroidetes
+### Mittelrelevante Hallmarks (ergänzende Claims)
+4. **Proteostase** — Lion's Mane + Spermidin im Stack
+5. **Zelluläre Seneszenz** — Quercetin in Erhaltungsdosis
+6. **Dysbiose** — präbiotische Wirkung von Kaffee auf Bifidus/Bacteroidetes
 
-### Low-Impact / Avoid Claims
-7. **Genomische Instabilität** — Antioxidant effect only; indirect
-8. **Telomere Attrition** — Not meaningfully addressable; avoid claims
+### Geringrelevant / Claims vermeiden
+7. **Genomische Instabilität** — nur antioxidative Wirkung; indirekt
+8. **Telomer-Attrition** — nicht sinnvoll adressierbar; Claims vermeiden
 
-### EFSA Constraint
-EFSA does not permit "Anti-Aging" claims. All communication must use biomarker language (e.g., "supports hs-CRP within normal range") or structure/function claims (e.g., "contributes to normal energy metabolism").
+### EFSA-Einschränkung
+EFSA erlaubt keine „Anti-Aging"-Claims. Alle Kommunikation muss Biomarker-Sprache verwenden (z. B. „unterstützt hs-CRP im Normalbereich") oder Structure/Function Claims (z. B. „trägt zu einem normalen Energiestoffwechsel bei").
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Longevity Science Research Modul 0]] — source document
-- [[Chlorogenic Acid]] — primary coffee polyphenol and AMPK activator
-- [[Trigonellin]] — NAD+ precursor (Hallmark 3)
-- [[Inflammaging]] — Hallmark 10 concept page
-- [[Mitochondriale Dysfunktion]] — Hallmark 6 concept page
-- [[Zelluläre Seneszenz]] — Hallmark 7 concept page
-- [[AMPK mTOR Sirtuine]] — Hallmark 5 nutrient sensing axis
-- [[Urolithin A]] — strongest mitophagy inducer
-- [[Amazentis]] — Urolithin A IP holder
-- [[Performance Coffee Brand]] — product application
-- [[Bryan Johnson]] — reference; discontinued resveratrol (Hallmark 3 SIRT1 context)
-- [[Blutbild Panel]] — biomarker tracking panel (hs-CRP, HbA1c, etc.)
+- [[Longevity Science Research Modul 0]] — Quelldokument
+- [[Chlorogenic Acid|Chlorogensäure]] — primäres Kaffeepolyphenol und AMPK-Aktivator
+- [[Trigonellin]] — NAD+-Vorläufer (Hallmark 3)
+- [[Inflammaging]] — Konzeptseite zu Hallmark 10
+- [[Mitochondriale Dysfunktion]] — Konzeptseite zu Hallmark 6
+- [[Zelluläre Seneszenz]] — Konzeptseite zu Hallmark 7
+- [[AMPK mTOR Sirtuine]] — Nährstoff-Sensing-Achse aus Hallmark 5
+- [[Urolithin A]] — stärkster bekannter Mitophagie-Induktor
+- [[Amazentis]] — Urolithin-A-IP-Inhaber
+- [[Performance Coffee Brand]] — Produktanwendung
+- [[Bryan Johnson]] — Referenz; hat Resveratrol abgesetzt (Hallmark 3 SIRT1-Kontext)
+- [[Blutbild Panel]] — Biomarker-Tracking-Panel (hs-CRP, HbA1c etc.)

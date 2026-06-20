@@ -5,53 +5,53 @@ tags: [insolvenzrecht, rangrücktritt, §15a-inso, GmbH, GF-haftung, überschuld
 sources: ["raw/Privat/Finanzen/Aufgaben/P0 Sofort.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: German insolvency law concept — Rangrücktritt (subordination declaration) prevents GmbH over-indebtedness from triggering §15a InsO filing obligation; without it, GF faces personal criminal liability; directly relevant to Wagglz GmbH's 27,926.89 € Fehlbetrag
+summary: Konzept des deutschen Insolvenzrechts — ein Rangrücktritt verhindert, dass eine GmbH-Überschuldung die Insolvenzantragspflicht nach §15a InsO auslöst; ohne ihn droht dem GF persönliche strafrechtliche Haftung; unmittelbar relevant für den 27.926,89 € Fehlbetrag der Wagglz GmbH
 ---
 
 # Rangrücktritt §15a InsO
 
-## Overview
+## Überblick
 
-A **Rangrücktritt** (subordination declaration) is a legal instrument in German insolvency law where a creditor — typically a shareholder lending money to their own GmbH — agrees to rank their claim **behind all other creditors** in any insolvency proceedings. This is used specifically to prevent the company's balance sheet from showing **Überschuldung** (over-indebtedness).
+Ein **Rangrücktritt** ist ein rechtliches Instrument des deutschen Insolvenzrechts, bei dem ein Gläubiger — typischerweise ein Gesellschafter, der seiner eigenen GmbH Geld geliehen hat — zustimmt, seinen Anspruch im Falle einer Insolvenz **hinter alle anderen Gläubiger** zurückzustellen. Dieses Instrument wird eingesetzt, um zu verhindern, dass die Bilanz des Unternehmens eine **Überschuldung** ausweist.
 
-This concept is directly relevant to [[Oleg Personal Context|Oleg]]'s open [[P0 Sofortmaßnahmen]] item for [[Wagglz GmbH]].
+Dieses Konzept ist unmittelbar relevant für [[Oleg Personal Context|Olegs]] offenen [[P0 Sofortmaßnahmen]]-Punkt für die [[Wagglz GmbH]].
 
 ---
 
-## The §15a InsO Framework
+## Der §15a InsO Rahmen
 
 ### §15a InsO — Insolvenzantragspflicht
 
-German law (§15a InsO) imposes a **mandatory duty to file for insolvency** when:
+Das deutsche Recht (§15a InsO) begründet eine **Pflicht zur Stellung eines Insolvenzantrags**, wenn:
 
-1. **Zahlungsunfähigkeit** (illiquidity) — the company cannot meet its payment obligations as they fall due, **OR**
-2. **Überschuldung** (over-indebtedness) — total liabilities exceed total assets AND there is no positive going-concern prognosis
+1. **Zahlungsunfähigkeit** — das Unternehmen seinen fälligen Zahlungsverpflichtungen nicht nachkommen kann, **ODER**
+2. **Überschuldung** — die Gesamtverbindlichkeiten das Gesamtvermögen übersteigen UND keine positive Fortführungsprognose besteht
 
-**Filing deadline:** Within **6 weeks** of determining over-indebtedness (or 3 weeks for illiquidity).
+**Antragsfrist:** Innerhalb von **6 Wochen** nach Feststellung der Überschuldung (bzw. 3 Wochen bei Zahlungsunfähigkeit).
 
-### Personal Liability for the GF
+### Persönliche Haftung des GF
 
-As Geschäftsführer (GF), [[Oleg Personal Context|Oleg]] is **personally liable** if he fails to:
-- Recognize insolvency triggers
-- File for insolvency within the statutory period
-- Take all reasonable steps to resolve the situation
+Als Geschäftsführer (GF) haftet [[Oleg Personal Context|Oleg]] **persönlich**, wenn er es versäumt:
+- Insolvenzauslöser zu erkennen
+- innerhalb der gesetzlichen Frist einen Insolvenzantrag zu stellen
+- alle zumutbaren Schritte zur Behebung der Situation zu ergreifen
 
-Failure is a **Straftat** (criminal offense) under §15a Abs. 4 InsO — **Insolvenzverschleppung** (delayed insolvency filing), punishable by up to 3 years imprisonment or a fine.
+Ein Versäumnis stellt eine **Straftat** nach §15a Abs. 4 InsO dar — **Insolvenzverschleppung** — und ist mit bis zu 3 Jahren Freiheitsstrafe oder einer Geldstrafe bedroht.
 
 ---
 
-## How Rangrücktritt Resolves the Problem
+## Wie der Rangrücktritt das Problem löst
 
-### The Mechanism
+### Der Mechanismus
 
-If a shareholder has lent money to the GmbH (e.g., through a shareholder loan), that loan appears as a **liability** on the balance sheet. If this loan tips the company into Überschuldung, the GF would be obligated to file for insolvency.
+Hat ein Gesellschafter der GmbH Geld geliehen (z. B. durch ein Gesellschafterdarlehen), erscheint dieses Darlehen als **Verbindlichkeit** in der Bilanz. Führt dieses Darlehen zur Überschuldung der Gesellschaft, wäre der GF zur Insolvenzantragsstellung verpflichtet.
 
-By signing a **Rangrücktritt**, the shareholder/creditor agrees:
-> "My loan claim is subordinated — it will only be repaid AFTER all other creditors in an insolvency, and NOT during normal operations unless the company can pay all other creditors in full."
+Durch die Unterzeichnung eines **Rangrücktritts** erklärt der Gesellschafter/Gläubiger:
+> „Mein Darlehensanspruch tritt zurück — er wird erst NACH allen anderen Gläubigern im Insolvenzfall bedient und NICHT im laufenden Betrieb, solange das Unternehmen nicht alle anderen Gläubiger vollständig befriedigen kann."
 
-This loan is then **excluded from the liability calculation** for the purpose of determining Überschuldung → the over-indebtedness disappears from the balance sheet → no §15a InsO trigger.
+Das Darlehen wird dann **aus der Verbindlichkeitsberechnung** zur Überschuldungsfeststellung herausgenommen → die Überschuldung verschwindet aus der Bilanz → kein Auslöser nach §15a InsO.
 
-### The Wagglz Situation
+### Die Wagglz-Situation
 
 | Parameter | Wert |
 |---|---|
@@ -60,38 +60,38 @@ This loan is then **excluded from the liability calculation** for the purpose of
 | Dokument liegt bei | [[SP STB]] |
 | Risiko ohne Unterschrift | Strafbarkeit als GF |
 
-The 27.926,89 € likely represents either a shareholder loan from Oleg to Wagglz, or an amount by which liabilities exceed assets. By signing the Rangrücktritt, this amount is subordinated and the Überschuldung is resolved on paper.
+Die 27.926,89 € stellen wahrscheinlich entweder ein Gesellschafterdarlehen von Oleg an Wagglz dar oder den Betrag, um den die Verbindlichkeiten das Vermögen übersteigen. Durch die Unterzeichnung des Rangrücktritts wird dieser Betrag nachrangig gestellt und die Überschuldung ist bilanziell beseitigt.
 
 ---
 
 ## Wichtige Bedingungen für Wirksamkeit
 
-For a Rangrücktritt to be legally effective:
-1. **Schriftform** — must be in writing
-2. **Klare Rangrücktrittsklausel** — explicit subordination language
-3. **Qualifizierter Rangrücktritt** recommended — enhanced form that is more robust under current case law
-4. **Zeitpunkt** — must be in place BEFORE the balance sheet date for which the Überschuldung determination applies
+Damit ein Rangrücktritt rechtlich wirksam ist, müssen folgende Voraussetzungen erfüllt sein:
+1. **Schriftform** — muss schriftlich erfolgen
+2. **Klare Rangrücktrittsklausel** — eindeutige Nachrangigkeitsformulierung
+3. **Qualifizierter Rangrücktritt** empfohlen — verstärkte Form, die nach aktueller Rechtsprechung belastbarer ist
+4. **Zeitpunkt** — muss VOR dem Bilanzstichtag vorliegen, für den die Überschuldungsfeststellung gilt
 
-> ⚠️ **Deadline risk:** The 2026-06-15 deadline is critical — if the balance sheet date has passed and the Rangrücktritt is signed retroactively, its effectiveness may be questioned. SP STB should confirm the exact required timing.
-
----
-
-## Broader Context
-
-The Rangrücktritt is typically a **temporary measure** — it does not solve the underlying financial problem. It merely:
-- Prevents immediate insolvency obligation
-- Buys time to resolve the company's financial situation
-- Is often part of a broader restructuring or wind-down plan
-
-For [[Wagglz GmbH]], this suggests the company is in a financially stressed situation that requires resolution beyond just the Rangrücktritt signing.
+> ⚠️ **Fristenrisiko:** Die Frist 2026-06-15 ist kritisch — wurde der Bilanzstichtag bereits überschritten und der Rangrücktritt wird rückwirkend unterzeichnet, kann seine Wirksamkeit in Frage gestellt werden. [[SP STB]] sollte den genauen erforderlichen Zeitpunkt bestätigen.
 
 ---
 
-## Related Pages
+## Größerer Zusammenhang
 
-- [[P0 Sofortmaßnahmen]] — task requiring Rangrücktritt signature
-- [[P0 Sofortmaßnahmen Source Detail]] — source document
-- [[Wagglz GmbH]] — company requiring the Rangrücktritt
-- [[SP STB]] — Steuerberater holding the document
-- [[Oleg Personal Context]] — GF with personal liability exposure
-- [[MOC Finanzen]] — parent finance context
+Der Rangrücktritt ist typischerweise eine **vorübergehende Maßnahme** — er löst das zugrundeliegende finanzielle Problem nicht. Er bewirkt lediglich:
+- die sofortige Insolvenzantragspflicht abzuwenden
+- Zeit zur Bereinigung der finanziellen Lage des Unternehmens zu gewinnen
+- als Teil eines umfassenderen Restrukturierungs- oder Abwicklungsplans zu dienen
+
+Für die [[Wagglz GmbH]] deutet dies darauf hin, dass sich das Unternehmen in einer finanziell angespannten Situation befindet, die über die bloße Unterzeichnung des Rangrücktritts hinaus einer Lösung bedarf.
+
+---
+
+## Verwandte Seiten
+
+- [[P0 Sofortmaßnahmen]] — Aufgabe, die die Unterzeichnung des Rangrücktritts erfordert
+- [[P0 Sofortmaßnahmen Source Detail]] — Quelldokument
+- [[Wagglz GmbH]] — Unternehmen, das den Rangrücktritt benötigt
+- [[SP STB]] — Steuerberater, der das Dokument verwahrt
+- [[Oleg Personal Context]] — GF mit persönlichem Haftungsrisiko
+- [[MOC Finanzen]] — übergeordneter Finanzkontext

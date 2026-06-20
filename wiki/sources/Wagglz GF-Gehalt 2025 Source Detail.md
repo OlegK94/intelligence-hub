@@ -1,52 +1,52 @@
 ---
-title: Wagglz GF-Gehalt 2025 Source Detail
+title: Wagglz GF-Gehalt 2025 Quelldokument-Detail
 type: source
 tags: [wagglz, gehalt, einnahmen, gmbh, geschaeftsfuehrer, lohnsteuer, steuerberater, 2025, est-2025]
 sources: ["raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for Wagglz GmbH managing director salary 2025 — correctly taxed via SP STB, Lohnsteuerbescheinigung held by SP STB, required for ESt 2025 filing
+summary: Quelldokument für das Geschäftsführergehalt der Wagglz GmbH 2025 — korrekt versteuert über SP STB, Lohnsteuerbescheinigung liegt bei SP STB, erforderlich für die ESt-Veranlagung 2025
 ---
 
-# Wagglz GF-Gehalt 2025 — Source Detail
+# Wagglz GF-Gehalt 2025 — Quelldokument-Detail
 
-## Overview
+## Überblick
 
-This source document (aktualisiert: 2026-06-12) captures the key facts about [[Oleg Personal Context|Oleg]]'s Geschäftsführer (managing director) salary from [[Wagglz GmbH]] for the 2025 fiscal year. It is a finance record under Wagglz's Einnahmen (income) folder.
+Dieses Quelldokument (aktualisiert: 2026-06-12) erfasst die wesentlichen Fakten zum Geschäftsführergehalt von [[Oleg Personal Context|Oleg]] aus der [[Wagglz GmbH]] für das Steuerjahr 2025. Es ist ein Finanzdatensatz im Einnahmen-Ordner von Wagglz.
 
-> For the broader Wagglz GmbH entity context, see [[Wagglz GmbH]].
-> For the 2025 income tax filing this feeds into, see [[ESt 2025]].
+> Zum übergeordneten Kontext der Wagglz GmbH als Unternehmen, siehe [[Wagglz GmbH]].
+> Zur Einkommensteuererklärung 2025, in die dieses Dokument einfließt, siehe [[ESt 2025]].
 
-## Key Facts
+## Wesentliche Fakten
 
-| Fact | Detail |
+| Fakt | Detail |
 |---|---|
-| **Korrekte Versteuerung** | Salary correctly taxed (Lohnsteuer) |
+| **Korrekte Versteuerung** | Gehalt korrekt versteuert (Lohnsteuer) |
 | **Steuerberater** | SP STB (Steuerberater) |
-| **Lohnsteuerbescheinigung** | Held by SP STB; must be requested |
-| **Entnahmen-Klassifikation** | Geschäftsführergehalt — **not** verdeckte Gewinnausschüttung (vGA) |
-| **Relevanz** | Required document for [[ESt 2025]] filing |
+| **Lohnsteuerbescheinigung** | Liegt bei SP STB vor; muss angefordert werden |
+| **Entnahmen-Klassifikation** | Geschäftsführergehalt — **nicht** verdeckte Gewinnausschüttung (vGA) |
+| **Relevanz** | Erforderliches Dokument für die [[ESt 2025]]-Veranlagung |
 
-## Important Tax Distinction
+## Wichtige steuerliche Abgrenzung
 
-The source explicitly notes that the GF salary is classified as **Geschäftsführergehalt** (managing director salary), not as **verdeckte Gewinnausschüttung** (vGA — hidden profit distribution). This distinction matters:
+Das Quelldokument hält ausdrücklich fest, dass das GF-Gehalt als **Geschäftsführergehalt** eingestuft wird und nicht als **verdeckte Gewinnausschüttung** (vGA). Diese Unterscheidung ist bedeutsam:
 
-- **Geschäftsführergehalt:** Subject to Lohnsteuer (wage tax), treated as employment income in the personal tax return → reported via Lohnsteuerbescheinigung
-- **Verdeckte Gewinnausschüttung:** A hidden dividend — occurs when a GmbH provides benefits to its shareholder-GF at non-arm's-length conditions; taxed differently and triggers GmbH-level corporate tax adjustments
+- **Geschäftsführergehalt:** Unterliegt der Lohnsteuer, wird in der privaten Steuererklärung als Einkünfte aus nichtselbständiger Arbeit behandelt → Nachweis über die Lohnsteuerbescheinigung
+- **Verdeckte Gewinnausschüttung:** Eine verdeckte Dividende — entsteht, wenn eine GmbH ihrem Gesellschafter-GF Vorteile zu nicht fremdüblichen Konditionen gewährt; wird steuerlich anders behandelt und löst körperschaftsteuerliche Korrekturen auf Ebene der GmbH aus
 
-The correct classification as salary (not vGA) confirms that [[SP STB]] has structured the compensation properly.
+Die korrekte Einordnung als Gehalt (nicht als vGA) bestätigt, dass [[SP STB]] die Vergütung ordnungsgemäß strukturiert hat.
 
-## Action Required
+## Erforderliche Maßnahme
 
 > ⚠️ **Für [[ESt 2025]]:** Lohnsteuerbescheinigung Wagglz 2025 muss von [[SP STB]] angefordert werden.
 
-This is an open action item for the 2025 personal income tax return.
+Dies ist ein offener Handlungspunkt für die private Einkommensteuererklärung 2025.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Wagglz GmbH]] — the GmbH paying the salary
-- [[ESt 2025]] — income tax filing requiring this document
-- [[SP STB]] — Steuerberater holding the Lohnsteuerbescheinigung
-- [[ALG I 2025]] — co-referenced income source for 2025
-- [[Oleg Personal Context]] — GF receiving the salary
-- [[Oleg Business Entity Structure]] — broader entity and tax structure context
+- [[Wagglz GmbH]] — die GmbH, die das Gehalt zahlt
+- [[ESt 2025]] — Einkommensteuererklärung, für die dieses Dokument benötigt wird
+- [[SP STB]] — Steuerberater, der die Lohnsteuerbescheinigung verwahrt
+- [[ALG I 2025]] — weitere Einkommensquelle für 2025
+- [[Oleg Personal Context]] — GF, der das Gehalt bezieht
+- [[Oleg Business Entity Structure]] — übergeordneter Kontext zur Unternehmens- und Steuerstruktur

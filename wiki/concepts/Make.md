@@ -5,57 +5,57 @@ tags: [tool, automation, no-code, middleware, integration, doktorlib, tech-stack
 sources: ["raw/01-Strategie-Business/DoktorLib Automation Pipeline.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: No-code automation platform (formerly Integromat) used as middleware in the DoktorLib pipeline — triggers on Tally form submissions and routes data to Salesforce and Notion
+summary: No-code-Automatisierungsplattform (ehemals Integromat), die als Middleware in der DoktorLib-Pipeline eingesetzt wird — löst bei Tally-Formulareinreichungen aus und leitet Daten an Salesforce und Notion weiter
 ---
 
 # Make
 
-## Overview
+## Übersicht
 
-**Make** (formerly Integromat) is a no-code automation and integration platform. In the [[DoktorLib Automation Pipeline]], Make serves as the **automation middleware** — the connective layer between [[Tally]] form submissions and the downstream data stores ([[Salesforce]] and [[Notion]]).
+**Make** (ehemals Integromat) ist eine No-code-Automatisierungs- und Integrationsplattform. In der [[DoktorLib Automation Pipeline]] fungiert Make als **Automatisierungs-Middleware** — die verbindende Schicht zwischen [[Tally]]-Formulareinreichungen und den nachgelagerten Datenspeichern ([[Salesforce]] und [[Notion]]).
 
-## Role in the DoktorLib Pipeline
+## Rolle in der DoktorLib-Pipeline
 
 ```
-[TALLY] Form Submission
-    ↓ (trigger)
-[MAKE] Scenario
+[TALLY] Formulareinreichung
+    ↓ (Auslöser)
+[MAKE] Szenario
     ↓              ↓
 [SALESFORCE]   [NOTION DB]
 ```
 
-### Trigger
-- Tally Form Submission (both Intake Form and IT Audit Form)
+### Auslöser
+- Tally-Formulareinreichung (sowohl Intake Form als auch IT Audit Form)
 
-### Actions
-1. **Aktion 1:** Salesforce — create new Lead/Opportunity + populate fields from Tally data
-2. **Aktion 2:** Notion — create new DB page + synchronize fields
-3. **Error Handling:** Notification system on failure
+### Aktionen
+1. **Aktion 1:** Salesforce — neuen Lead/Opportunity anlegen + Felder mit Tally-Daten befüllen
+2. **Aktion 2:** Notion — neue Datenbankseite anlegen + Felder synchronisieren
+3. **Fehlerbehandlung:** Benachrichtigungssystem bei Fehlern
 
-## Why Make
+## Warum Make
 
-- Native Tally integration support
-- Robust Salesforce connector
-- Notion integration available
-- Visual scenario builder for non-developers
-- Error handling and retry logic
+- Native Tally-Integrationsunterstützung
+- Robuster Salesforce-Connector
+- Notion-Integration verfügbar
+- Visueller Szenario-Builder für Nicht-Entwickler
+- Fehlerbehandlung und Wiederholungslogik
 
-## Build Status
+## Entwicklungsstand
 
-Phase 2 of the pipeline — not yet built as of source document (2026-05-08).
+Phase 2 der Pipeline — zum Zeitpunkt des Quelldokuments (2026-05-08) noch nicht umgesetzt.
 
-## Open Build Items
+## Offene Aufgaben
 
-- [ ] Trigger: Tally Form Submission
-- [ ] Aktion 1: Salesforce Lead/Opportunity creation
-- [ ] Aktion 2: Notion DB page creation
-- [ ] Error Handling: failure notification setup
+- [ ] Auslöser: Tally-Formulareinreichung
+- [ ] Aktion 1: Salesforce Lead/Opportunity-Erstellung
+- [ ] Aktion 2: Notion-Datenbankseite erstellen
+- [ ] Fehlerbehandlung: Einrichtung der Fehlerbenachrichtigung
 
-## Related Pages
+## Verwandte Seiten
 
-- [[DoktorLib Automation Pipeline]] — pipeline context
-- [[DoktorLib Automation Pipeline Source Detail]] — full source
-- [[Tally]] — upstream trigger source
-- [[Salesforce]] — downstream action target
-- [[Notion]] — downstream action target
-- [[DoktorLib]] — organization context
+- [[DoktorLib Automation Pipeline]] — Pipeline-Kontext
+- [[DoktorLib Automation Pipeline Source Detail]] — vollständige Quelle
+- [[Tally]] — vorgelagerter Auslöser
+- [[Salesforce]] — nachgelagertes Aktionsziel
+- [[Notion]] — nachgelagertes Aktionsziel
+- [[DoktorLib]] — Organisationskontext

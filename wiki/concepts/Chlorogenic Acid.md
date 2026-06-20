@@ -1,210 +1,210 @@
 ---
-title: Chlorogenic Acid
+title: Chlorogensäure
 type: concept
 tags: [coffee, longevity, AMPK, insulin-sensitivity, polyphenol, light-roast, functional-beverage, chlorogenic, CGA, robusta, arabica, NF-kB, anti-inflammatory, GLP-1, performance-cafe, bioactive]
 sources: ["raw/Business/PerformanceCafe/CLAUDE.md", "raw/Business/PerformanceCafe/research/03_kaffee_specs.md", "raw/Business/PerformanceCafe/research/01_longevity_science.md"]
 created: 2026-06-14
 updated: 2026-06-19
-summary: Chlorogenic acid (CGA) — primary longevity polyphenol in coffee; AMPK activator (same pathway as metformin and caloric restriction); improves insulin sensitivity via GLP-1 potentiation and NF-κB inhibition; Robusta contains 7–12% TG vs. Arabica 4–8%; degrades with roasting (light roast preferred); 25–45 mg per 2g Freeze-Dried sachet; central ingredient in Performance Coffee Brand
+summary: Chlorogensäure (CGA) — primäres Longevity-Polyphenol in Kaffee; AMPK-Aktivator (gleicher Signalweg wie Metformin und Kalorienrestriktion); verbessert Insulinsensitivität über GLP-1-Potenzierung und NF-κB-Hemmung; Robusta enthält 7–12 % TG gegenüber Arabica 4–8 %; degradiert beim Rösten (helle Röstung bevorzugt); 25–45 mg pro 2g Gefriergetrocknetes Sachet; zentraler Wirkstoff der Performance Coffee Brand
 ---
 
-# Chlorogenic Acid (CGA)
+# Chlorogensäure (CGA)
 
-## Overview
+## Überblick
 
-**Chlorogenic acid (CGA)** is the primary polyphenol in coffee — an ester of caffeic acid and quinic acid — and the single most important longevity-active bioactive compound in coffee. The most bioactive forms are **5-Caffeoylquinic acid (5-CQA)** and **3,4-Dicaffeoylquinic acid (3,4-diCQA)**. CGA activates the same cellular energy-sensing pathway (AMPK) as metformin and caloric restriction, making it a highly credible longevity mechanism in a food matrix.
+**Chlorogensäure (CGA)** ist das primäre Polyphenol in Kaffee — ein Ester aus Kaffeesäure und Chinasäure — und die einzeln bedeutsamste longevity-aktive bioaktive Verbindung im Kaffee. Die bioaktivsten Formen sind **5-Caffeoylchinasäure (5-CQA)** und **3,4-Dicaffeoylchinasäure (3,4-diCQA)**. CGA aktiviert denselben zellulären Energiesensor-Signalweg (AMPK) wie Metformin und Kalorienrestriktion, was es zu einem hochgradig plausiblen Longevity-Mechanismus in einer Lebensmittelmatrix macht.
 
-CGA is central to the [[Performance Coffee Brand]] formulation rationale — Robusta coffee's higher CGA content and light-roast processing optimization both derive from this compound.
+CGA ist zentral für die Formulierungslogik der [[Performance Coffee Brand]] — der höhere CGA-Gehalt von Robusta-Kaffee und die Optimierung durch helle Röstung leiten sich beide von dieser Verbindung ab.
 
 ---
 
-## Chemistry
+## Chemie
 
-| Property | Value |
+| Eigenschaft | Wert |
 |---|---|
-| Type | Hydroxycinnamic acid ester (caffeic acid + quinic acid) |
-| Classification | Polyphenol, chlorogenic acid family |
-| Location | Highest in green/unroasted coffee beans |
-| Per Cup (Light Roast) | **250–350 mg** |
-| Per Cup (Medium Roast) | ~150–250 mg |
-| Per Cup (Dark Roast 220°C+) | **50–100 mg** |
+| Typ | Hydroxyzimtsäureester (Kaffeesäure + Chinasäure) |
+| Klassifikation | Polyphenol, Chlorogensäure-Familie |
+| Vorkommen | Am höchsten in grünen/ungerösteten Kaffeebohnen |
+| Pro Tasse (helle Röstung) | **250–350 mg** |
+| Pro Tasse (mittlere Röstung) | ~150–250 mg |
+| Pro Tasse (dunkle Röstung 220°C+) | **50–100 mg** |
 
 ---
 
-## Content by Coffee Type
+## Gehalt nach Kaffeesorte
 
-| Source | CGA Content (% TG, Raw Bean) |
+| Quelle | CGA-Gehalt (% TG, Rohbohne) |
 |---|---|
-| **Robusta** (*C. canephora*, Vietnamese) | **7–12%** |
-| **Arabica** (*C. arabica*) | 4–8% |
-| Espresso extract (Robusta, mg/100ml) | 150–300 mg |
-| Espresso extract (Arabica, mg/100ml) | 80–180 mg |
+| **Robusta** (*C. canephora*, vietnamesisch) | **7–12 %** |
+| **Arabica** (*C. arabica*) | 4–8 % |
+| Espresso-Extrakt (Robusta, mg/100 ml) | 150–300 mg |
+| Espresso-Extrakt (Arabica, mg/100 ml) | 80–180 mg |
 
-*References: Clarke & Vitzthum (2001); Farah (2012)*
+*Quellen: Clarke & Vitzthum (2001); Farah (2012)*
 
-Robusta contains **up to 2× more CGA** than Arabica in the raw bean. Vietnamese Robusta is specifically cited as the highest-CGA coffee source for the [[Performance Coffee Brand]] base.
-
----
-
-## Mechanisms of Action
-
-### 1. AMPK Activation (Primary)
-- CGA phosphorylates AMPK via the CAMKK2 pathway
-- In hepatocytes: glucose uptake increases 15–30% (HepG2 studies)
-- Same pathway as **metformin**, **exercise**, and **caloric restriction** → highly credible longevity mechanism
-- *Source: Ong KW et al., BBRC 2012*
-
-AMPK activation is associated with improved metabolic health, mitochondrial biogenesis, and autophagy — core longevity mechanisms. This places CGA in the same pathway as some of the most researched longevity interventions.
-
-### 2. Insulin Sensitivity (RCT Evidence)
-- Inhibits glucose-6-phosphatase in liver → reduces postprandial glucose spikes
-- RCT (n=56, T2DM risk): 400 mg CGA/day for 12 weeks
-- Result: Fasting glucose −8 mg/dL, HOMA-IR −0.4
-- *Source: Johnston KL et al., AJCN 2003; Thom, 2007*
-
-### 3. GLP-1 Potentiation
-- CGA increases postprandial GLP-1 secretion → improved satiety and glucose control
-- *Source: Zheng G et al., J Agric Food Chem 2004*
-
-### 4. NF-κB Inhibition (Anti-Inflammatory)
-- Direct NF-κB inhibition in macrophages → reduces IL-6 and TNF-α
-- Reduces [[Inflammaging]] upstream
-- Meta-analyses confirm hs-CRP reduction with regular coffee consumption
-
-### 5. Antioxidant Action
-- Scavenges reactive oxygen species (ROS)
-- Robusta extract ORAC value ~30% higher than Arabica extract at equivalent concentration
-- Indirect support for [[Mitochondriale Dysfunktion]] hallmark via oxidative stress reduction
+Robusta enthält **bis zu 2× mehr CGA** als Arabica in der Rohbohne. Vietnamesischer Robusta wird ausdrücklich als CGA-reichste Kaffee-Quelle für die Basis der [[Performance Coffee Brand]] genannt.
 
 ---
 
-## Processing Losses — Roasting
+## Wirkmechanismen
 
-CGA degrades significantly during roasting. This is the primary argument for **light/medium-light roasting** of longevity coffee:
+### 1. AMPK-Aktivierung (Primär)
+- CGA phosphoryliert AMPK über den CAMKK2-Signalweg
+- In Hepatozyten: Glukoseaufnahme steigt um 15–30 % (HepG2-Studien)
+- Gleicher Signalweg wie **Metformin**, **Sport** und **Kalorienrestriktion** → hochgradig plausibler Longevity-Mechanismus
+- *Quelle: Ong KW et al., BBRC 2012*
 
-| Roast Level | Temperature | CGA per Cup | CGA Retention | Recommendation |
+AMPK-Aktivierung ist mit verbesserter metabolischer Gesundheit, mitochondrialer Biogenese und Autophagie assoziiert — zentrale Longevity-Mechanismen. Damit reiht sich CGA in denselben Signalweg ein wie einige der meistuntersuchten Longevity-Interventionen.
+
+### 2. Insulinsensitivität (RCT-Evidenz)
+- Hemmt Glucose-6-Phosphatase in der Leber → reduziert postprandiale Glukosespitzen
+- RCT (n=56, T2DM-Risiko): 400 mg CGA/Tag über 12 Wochen
+- Ergebnis: Nüchternglukose −8 mg/dL, HOMA-IR −0,4
+- *Quelle: Johnston KL et al., AJCN 2003; Thom, 2007*
+
+### 3. GLP-1-Potenzierung
+- CGA erhöht die postprandiale GLP-1-Ausschüttung → verbesserte Sättigung und Glukosekontrolle
+- *Quelle: Zheng G et al., J Agric Food Chem 2004*
+
+### 4. NF-κB-Hemmung (Entzündungshemmend)
+- Direkte NF-κB-Hemmung in Makrophagen → Reduktion von IL-6 und TNF-α
+- Reduziert [[Inflammaging]] vorgelagert
+- Meta-Analysen bestätigen hs-CRP-Senkung bei regelmäßigem Kaffeekonsum
+
+### 5. Antioxidative Wirkung
+- Fängt reaktive Sauerstoffspezies (ROS) ab
+- ORAC-Wert von Robusta-Extrakt ~30 % höher als Arabica-Extrakt bei gleicher Konzentration
+- Indirekter Bezug zum Hallmark [[Mitochondriale Dysfunktion]] über Reduktion von oxidativem Stress
+
+---
+
+## Verarbeitungsverluste — Röstung
+
+CGA degradiert erheblich beim Rösten. Dies ist das zentrale Argument für **helle/mittelleichte Röstung** bei Longevity-Kaffee:
+
+| Röstgrad | Temperatur | CGA pro Tasse | CGA-Erhalt | Empfehlung |
 |---|---|---|---|---|
-| **Light** | 150–160°C / 210–220°C | 250–350 mg | **45–55%** | ✅ **Recommended** |
-| Medium | ~175–185°C / 220–230°C | 150–250 mg | 35–45% | ✅ Acceptable |
-| Dark | 220°C+ / 230–250°C+ | 50–100 mg | <15% | ❌ Avoid for CGA |
+| **Hell** | 150–160°C / 210–220°C | 250–350 mg | **45–55 %** | ✅ **Empfohlen** |
+| Mittel | ~175–185°C / 220–230°C | 150–250 mg | 35–45 % | ✅ Akzeptabel |
+| Dunkel | 220°C+ / 230–250°C+ | 50–100 mg | <15 % | ❌ Für CGA vermeiden |
 
-*Source: Farah et al. (2005), J. Agric. Food Chem.; SCA News (2014); Int. J. Food Sci. Technol. (2025)*
+*Quelle: Farah et al. (2005), J. Agric. Food Chem.; SCA News (2014); Int. J. Food Sci. Technol. (2025)*
 
-Key finding: Significant CGA degradation begins at 220°C; the process is non-linear.
-
----
-
-## Processing Losses — Instant Extraction
-
-After roasting, the extraction method further affects CGA content:
-
-| Method | CGA Retention (of post-roast content) |
-|---|---|
-| Spray-Dried | 50–65% |
-| **Freeze-Dried** | **70–85%** |
-| Spray-Freeze-Dried | 80–85% |
-| Cold Brew Freeze-Dried | 80–90% |
-
-Freeze-Dried is the recommended method for maximum CGA retention while maintaining commercial viability.
+Wichtige Erkenntnis: Signifikante CGA-Degradation beginnt ab 220°C; der Prozess ist nichtlinear.
 
 ---
 
-## CGA in the Performance Coffee Sachet
+## Verarbeitungsverluste — Instant-Extraktion
 
-**For the [[Performance Coffee Brand]] 2g Freeze-Dried Sachet (60/40 Robusta/Arabica):**
+Nach der Röstung beeinflusst die Extraktionsmethode den CGA-Gehalt weiter:
 
-| Processing Stage | CGA Calculation |
+| Methode | CGA-Erhalt (vom Post-Röst-Gehalt) |
 |---|---|
-| Raw coffee (2g, 60/40 blend) | ~136 mg CGA |
-| After Medium-Light roast (×0.50) | ~68 mg |
-| After Freeze-Drying + extraction (×0.75 × extraction yield ~60%) | **~25–45 mg/sachet** |
+| Sprühgetrocknet | 50–65 % |
+| **Gefriergetrocknet** | **70–85 %** |
+| Sprüh-Gefriergetrocknet | 80–85 % |
+| Cold Brew Gefriergetrocknet | 80–90 % |
 
-This is below the clinically relevant dosage for metabolic effects (**200–400 mg/day**) — suggesting multiple sachets per day or CGA supplementation from additional sources may be needed for full clinical effect. However, even 25–45 mg/sachet contributes meaningfully when combined with daily habitual coffee consumption.
+Gefriertrocknung ist die empfohlene Methode für maximalen CGA-Erhalt bei gleichzeitiger kommerzieller Umsetzbarkeit.
 
 ---
 
-## Biomarker Impact
+## CGA im Performance Coffee Sachet
 
-| Biomarker | Expected Effect with Regular Consumption |
+**Für das [[Performance Coffee Brand]] 2g Gefriergetrocknetes Sachet (60/40 Robusta/Arabica):**
+
+| Verarbeitungsschritt | CGA-Berechnung |
 |---|---|
-| **hs-CRP** | ↓ 15–30% (observational, n=10,000+, 3 cups/day) |
+| Rohkaffee (2g, 60/40-Mischung) | ~136 mg CGA |
+| Nach mittelleichter Röstung (×0,50) | ~68 mg |
+| Nach Gefriertrocknung + Extraktion (×0,75 × Extraktionsausbeute ~60 %) | **~25–45 mg/Sachet** |
+
+Dies liegt unterhalb der klinisch relevanten Dosierung für metabolische Effekte (**200–400 mg/Tag**) — was darauf hindeutet, dass mehrere Sachets pro Tag oder CGA-Supplementierung aus zusätzlichen Quellen für die volle klinische Wirkung nötig sein können. Dennoch leisten auch 25–45 mg/Sachet einen sinnvollen Beitrag in Kombination mit täglichem gewohnheitsmäßigem Kaffeekonsum.
+
+---
+
+## Biomarker-Auswirkungen
+
+| Biomarker | Erwarteter Effekt bei regelmäßigem Konsum |
+|---|---|
+| **hs-CRP** | ↓ 15–30 % (observationell, n=10.000+, 3 Tassen/Tag) |
 | **Nüchtern-Glucose** | ↓ 5–8 mg/dL |
-| **HOMA-IR** | ↓ ~0.4 (at 400 mg/day supplemental dose) |
-| **HbA1c** | ↓ 0.1–0.3% (pre-diabetic population) |
+| **HOMA-IR** | ↓ ~0,4 (bei 400 mg/Tag Supplementdosis) |
+| **HbA1c** | ↓ 0,1–0,3 % (prädiabetische Population) |
 
-These biomarkers are tracked in [[Blutbild Panel]] and measurable via [[DTC Biomarker Tests DACH]] providers (especially Cerascreen, Lykon).
+Diese Biomarker werden im [[Blutbild Panel]] erfasst und sind über [[DTC Biomarker Tests DACH]]-Anbieter messbar (insbesondere Cerascreen, Lykon).
 
 ---
 
-## Synergy in Coffee Stack
+## Synergie im Coffee Stack
 
 ```
-Chlorogenic Acid (CGA)
+Chlorogensäure (CGA)
     ↓
-AMPK Activation + NF-κB Inhibition + GLP-1 Potentiation
+AMPK-Aktivierung + NF-κB-Hemmung + GLP-1-Potenzierung
     ↓
-Insulin Sensitivity ↑ + Inflammaging ↓ + Mitochondrial Biogenesis ↑ (PGC-1α)
+Insulinsensitivität ↑ + Inflammaging ↓ + Mitochondriale Biogenese ↑ (PGC-1α)
 ```
 
-**Synergy with caffeine:** Both activate AMPK (via different mechanisms — CGA via CAMKK2, caffeine via adenosine receptor blockade). Combined effect is synergistic, not merely additive.
+**Synergie mit Koffein:** Beide aktivieren AMPK (über unterschiedliche Mechanismen — CGA über CAMKK2, Koffein über Adenosinrezeptor-Blockade). Der kombinierte Effekt ist synergistisch, nicht lediglich additiv.
 
-**Synergy with Trigonellin:** CGA addresses AMPK/mTOR axis; trigonellin addresses NAD+/Sirtuin axis — complementary longevity pathways from the same cup.
-
----
-
-## Marketing Claims (EFSA-Compatible)
-
-✅ Permissible:
-- "Contributes to normal blood glucose regulation" (via AMPK mechanism)
-- "Rich in polyphenols" (factual content claim)
-- "Contains chlorogenic acid" (compositional claim)
-- Biomarker narrative: "Our light-roast base delivers up to 300 mg of chlorogenic acid per serving, supporting hs-CRP and fasting glucose levels within healthy ranges."
-
-❌ Not permissible under EFSA:
-- "Anti-aging"
-- "Extends lifespan"
-- "Activates longevity pathways" (not an approved health claim)
+**Synergie mit Trigonellin:** CGA adressiert die AMPK/mTOR-Achse; Trigonellin adressiert die NAD+/Sirtuin-Achse — komplementäre Longevity-Signalwege aus derselben Tasse.
 
 ---
 
-## Comparison: CGA vs. Synthetic Supplements
+## Marketingaussagen (EFSA-kompatibel)
 
-| Source | Dose per Cup/Serving | Cost | Bioavailability |
+✅ Zulässig:
+- „Trägt zur normalen Blutzuckerregulation bei" (über AMPK-Mechanismus)
+- „Reich an Polyphenolen" (sachliche Inhaltsaussage)
+- „Enthält Chlorogensäure" (kompositionelle Aussage)
+- Biomarker-Narrativ: „Unsere hell geröstete Basis liefert bis zu 300 mg Chlorogensäure pro Portion und unterstützt hs-CRP- und Nüchternglukosewerte im gesunden Bereich."
+
+❌ Nicht zulässig gemäß EFSA:
+- „Anti-Aging"
+- „Verlängert die Lebensdauer"
+- „Aktiviert Longevity-Signalwege" (keine zugelassene gesundheitsbezogene Angabe)
+
+---
+
+## Vergleich: CGA vs. synthetische Nahrungsergänzungsmittel
+
+| Quelle | Dosis pro Tasse/Portion | Kosten | Bioverfügbarkeit |
 |---|---|---|---|
-| Light Roast Coffee (natural) | 250–350 mg CGA | Very low | Good (gut absorption ~33%) |
-| Green Coffee Extract (supplement) | 200–400 mg CGA | Low | Good |
-| Synthetic CGA | N/A | Higher | Research only |
+| Hell gerösteter Kaffee (natürlich) | 250–350 mg CGA | Sehr niedrig | Gut (Darmabsorption ~33 %) |
+| Grüner Kaffeeextrakt (Supplement) | 200–400 mg CGA | Niedrig | Gut |
+| Synthetische CGA | k. A. | Höher | Nur für Forschung |
 
-**Conclusion:** Natural light-roast coffee is the cost-effective, consumer-accepted delivery vehicle for CGA.
-
----
-
-## Strategic Role in Performance Coffee Brand
-
-CGA supports the product narrative at multiple levels:
-1. **Performance:** AMPK activation supports metabolic efficiency during training
-2. **Longevity:** AMPK is a master longevity regulator
-3. **Metabolic health:** Insulin sensitivity supports body composition goals
-4. **Differentiation:** Most coffee brands ignore CGA content; optimizing for it is a defensible claim
+**Fazit:** Natürlich hell gerösteter Kaffee ist das kosteneffiziente, verbraucherakzeptierte Vehikel zur CGA-Aufnahme.
 
 ---
 
-## Related Pages
+## Strategische Rolle in der Performance Coffee Brand
 
-- [[Performance Coffee Brand]] — primary application
-- [[Coffee Blend Ratios]] — blend strategy maximizing CGA
-- [[Coffee Roast Profile Longevity]] — roast grade impact on CGA
-- [[Coffee Extraction Methods Instant]] — extraction method impact on CGA
-- [[Trigonellin]] — complementary NAD+ precursor in same cup
-- [[Cafestol und Kahweol]] — other coffee phytochemicals
-- [[AMPK mTOR Sirtuine]] — pathway activated by CGA
-- [[Inflammaging]] — hallmark addressed by CGA's NF-κB inhibition
-- [[Mitochondriale Dysfunktion]] — mitochondrial biogenesis via PGC-1α
-- [[Hallmarks of Aging]] — framework context
-- [[Longevity Stack Ingredients]] — broader longevity stack
-- [[Blutbild Panel]] — biomarkers to track CGA effects
-- [[DTC Biomarker Tests DACH]] — testing providers for biomarker tracking
-- [[Bryan Johnson]] — longevity reference framework
-- [[Buôn Ma Thuột Dak Lak Robusta]] — high-CGA Robusta source
-- [[Longevity Science Research Modul 0]] — source document
-- [[Kaffee Spezifikation Modul 2]] — source document
+CGA unterstützt das Produktnarrativ auf mehreren Ebenen:
+1. **Performance:** AMPK-Aktivierung unterstützt metabolische Effizienz beim Training
+2. **Longevity:** AMPK ist ein zentraler Longevity-Regulator
+3. **Metabolische Gesundheit:** Insulinsensitivität unterstützt Körperzusammensetzungsziele
+4. **Differenzierung:** Die meisten Kaffeemarken ignorieren den CGA-Gehalt; dessen Optimierung ist ein verteidigungsfähiger Anspruch
+
+---
+
+## Verwandte Seiten
+
+- [[Performance Coffee Brand]] — primäre Anwendung
+- [[Coffee Blend Ratios]] — Blend-Strategie zur CGA-Maximierung
+- [[Coffee Roast Profile Longevity]] — Einfluss des Röstgrads auf CGA
+- [[Coffee Extraction Methods Instant]] — Einfluss der Extraktionsmethode auf CGA
+- [[Trigonellin]] — komplementärer NAD+-Vorläufer in derselben Tasse
+- [[Cafestol und Kahweol]] — weitere Kaffee-Phytochemikalien
+- [[AMPK mTOR Sirtuine]] — von CGA aktivierter Signalweg
+- [[Inflammaging]] — Hallmark, der durch CGA's NF-κB-Hemmung adressiert wird
+- [[Mitochondriale Dysfunktion]] — mitochondriale Biogenese über PGC-1α
+- [[Hallmarks of Aging]] — Rahmenwerk-Kontext
+- [[Longevity Stack Ingredients]] — breiterer Longevity Stack
+- [[Blutbild Panel]] — Biomarker zur Verfolgung von CGA-Effekten
+- [[DTC Biomarker Tests DACH]] — Testanbieter für Biomarker-Tracking
+- [[Bryan Johnson]] — Longevity-Referenzrahmen
+- [[Buôn Ma Thuột Dak Lak Robusta]] — CGA-reiche Robusta-Quelle
+- [[Longevity Science Research Modul 0]] — Quelldokument
+- [[Kaffee Spezifikation Modul 2]] — Quelldokument

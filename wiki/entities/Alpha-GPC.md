@@ -5,60 +5,60 @@ tags: [supplement, nootropic, cognition, acetylcholine]
 sources: ["02-Performance-Leben/Health Protocol — Master.md"]
 created: 2024-12-19
 updated: 2024-12-19
-summary: Choline compound used for cognitive enhancement and acetylcholine support in pre-workout protocols
+summary: Cholinverbindung zur kognitiven Verbesserung und Acetylcholin-Unterstützung in Pre-Workout-Protokollen
 ---
 
 # Alpha-GPC
 
-## Overview
+## Überblick
 
-Alpha-GPC (Alpha-glycerylphosphorylcholine) is a choline compound that serves as a precursor to acetylcholine, a neurotransmitter important for cognitive function, focus, and muscle contraction.
+Alpha-GPC (Alpha-Glycerylphosphorylcholin) ist eine Cholinverbindung, die als Vorläufer von Acetylcholin dient – einem Neurotransmitter, der für kognitive Funktion, Fokus und Muskelkontraktion wichtig ist.
 
-## Protocol Usage
+## Verwendung im Protokoll
 
 In [[Health Protocol Master]]:
-- **Timing:** 06:05 (during drive to gym)
-- **Purpose:** Pre-workout cognitive enhancement
-- **Combination:** Taken with [[L-Tyrosine]]
-- **Context:** Part of [[Supplement Stack]]
+- **Zeitpunkt:** 06:05 Uhr (während der Fahrt zum Fitnessstudio)
+- **Zweck:** Kognitive Verbesserung vor dem Training
+- **Kombination:** Einnahme zusammen mit [[L-Tyrosine]]
+- **Kontext:** Teil des [[Supplement Stack|Supplement-Stacks]]
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-- **Acetylcholine Production:** Crosses blood-brain barrier to support neurotransmitter synthesis
-- **Cognitive Enhancement:** Improves focus, attention, and mental clarity
-- **Muscle Function:** Supports neuromuscular communication
-- **Memory Support:** Enhances cholinergic signaling pathways
+- **Acetylcholin-Produktion:** Überquert die Blut-Hirn-Schranke zur Unterstützung der Neurotransmittersynthese
+- **Kognitive Verbesserung:** Verbessert Fokus, Aufmerksamkeit und geistige Klarheit
+- **Muskelfunktion:** Unterstützt die neuromuskuläre Kommunikation
+- **Gedächtnisunterstützung:** Verbessert cholinerge Signalwege
 
-## Benefits
+## Vorteile
 
-### Cognitive
-- Enhanced focus and concentration
-- Improved working memory
-- Better mind-muscle connection
-- Increased mental energy
+### Kognitiv
+- Gesteigerter Fokus und Konzentration
+- Verbessertes Arbeitsgedächtnis
+- Bessere Geist-Muskel-Verbindung
+- Erhöhte mentale Energie
 
 ### Performance
-- Enhanced training focus
-- Improved neuromuscular coordination
-- Better exercise technique execution
-- Increased motivation for training
+- Gesteigerter Trainingsfokus
+- Verbesserte neuromuskuläre Koordination
+- Bessere Ausführung von Übungstechniken
+- Erhöhte Trainingsmotivation
 
-## Timing Strategy
+## Timing-Strategie
 
-- **Pre-workout window:** 15-30 minutes before training
-- **Empty stomach:** Taken during commute for optimal absorption
-- **Synergistic pairing:** Combined with [[L-Tyrosine]] for dual-pathway cognitive enhancement
+- **Pre-Workout-Fenster:** 15–30 Minuten vor dem Training
+- **Nüchtern:** Einnahme während des Arbeitswegs für optimale Absorption
+- **Synergetische Kombination:** Zusammen mit [[L-Tyrosine]] für duale kognitive Verbesserung auf zwei Stoffwechselwegen
 
-## Scientific Support
+## Wissenschaftliche Grundlage
 
-- Well-researched choline source
-- Crosses blood-brain barrier effectively
-- Supports both cognitive and physical performance
-- Generally well-tolerated supplement
+- Gut erforschte Cholinquelle
+- Überquert die Blut-Hirn-Schranke effektiv
+- Unterstützt sowohl kognitive als auch körperliche Leistung
+- Allgemein gut verträgliches Supplement
 
-## Related Compounds
+## Verwandte Verbindungen
 
-- [[L-Tyrosine]] - complementary dopamine support
-- [[Choline]] - related acetylcholine precursor
-- [[Cognitive Enhancers]]
-- [[Pre-Workout Supplements]]
+- [[L-Tyrosine]] – ergänzende Dopamin-Unterstützung
+- [[Choline]] – verwandter Acetylcholin-Vorläufer
+- [[Cognitive Enhancers|Kognitive Verstärker]]
+- [[Pre-Workout Supplements|Pre-Workout-Supplemente]]

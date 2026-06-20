@@ -5,69 +5,69 @@ tags: [EOR, employment, remote-work, international, relocation, compliance, deel
 sources: ["raw/01-Strategie-Business/Cyprus Relocation.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: EOR (Employer of Record) — a third-party entity that legally employs workers on behalf of a company in a foreign country, enabling compliant cross-border remote work
+summary: EOR (Employer of Record) — eine dritte Partei, die Arbeitnehmer rechtlich im Namen eines Unternehmens in einem anderen Land anstellt und so rechtskonformes grenzüberschreitendes Arbeiten ermöglicht
 ---
 
 # Employer of Record (EOR)
 
-## Overview
+## Überblick
 
-An **Employer of Record (EOR)** is a third-party organization that legally employs workers on behalf of another company in a country where that company has no legal entity. EOR arrangements enable employees to work remotely from a foreign country in full legal compliance.
+Ein **Employer of Record (EOR)** ist eine dritte Organisation, die Arbeitnehmer rechtlich im Namen eines anderen Unternehmens in einem Land anstellt, in dem dieses Unternehmen keine eigene Rechtsperson besitzt. EOR-Vereinbarungen ermöglichen es Angestellten, von einem anderen Land aus vollständig rechtskonform remote zu arbeiten.
 
-## Relevance to Cyprus Relocation
+## Relevanz für die Zypern-Relokation
 
-EOR is a **gate item** for [[Cyprus Relocation]]. Since [[DoktorLib]] is a German company, Oleg cannot simply continue his employment contract while residing in Cyprus without either:
-1. DoktorLib establishing a Cypriot legal entity, OR
-2. Using an EOR provider to employ Oleg in Cyprus on DoktorLib's behalf
+EOR ist ein **Gate-Item** für [[Cyprus Relocation|die Zypern-Relokation]]. Da [[DoktorLib]] ein deutsches Unternehmen ist, kann Oleg seinen Arbeitsvertrag nicht einfach weiterführen, während er in Zypern lebt — es sei denn:
+1. DoktorLib gründet eine zypriotische Rechtsperson, ODER
+2. Ein EOR-Anbieter stellt Oleg in Zypern im Namen von DoktorLib an
 
-The same requirement applies to Oleg's partner (PM, Kosmetik industry).
+Dieselbe Anforderung gilt für Olegs Partnerin (PM, Kosmetikbranche).
 
-## How It Works
+## Funktionsweise
 
 ```
-DoktorLib (Germany) ←→ EOR Provider ←→ Oleg (Cyprus)
-[Business relationship]   [Legal employer]   [Worker]
+DoktorLib (Deutschland) ←→ EOR-Anbieter ←→ Oleg (Zypern)
+[Geschäftsbeziehung]     [Rechtlicher AG]   [Arbeitnehmer]
 ```
 
-- The EOR is the **legal employer** in Cyprus
-- DoktorLib remains the **business client** and directs the work
-- Oleg has a **local employment contract** through the EOR
-- The EOR handles: payroll, taxes, social security, compliance
+- Der EOR ist der **rechtliche Arbeitgeber** in Zypern
+- DoktorLib bleibt der **Auftraggeber** und leitet die Arbeit
+- Oleg hat einen **lokalen Arbeitsvertrag** über den EOR
+- Der EOR übernimmt: Gehaltsabrechnung, Steuern, Sozialversicherung, Compliance
 
-## Key Providers Mentioned
+## Genannte Hauptanbieter
 
-| Provider | Notes |
+| Anbieter | Hinweise |
 |---|---|
-| **Deel** | Leading global EOR platform; supports 150+ countries |
-| **Remote.com** | Competitor to Deel; strong EU coverage |
+| **Deel** | Führende globale EOR-Plattform; unterstützt 150+ Länder |
+| **Remote.com** | Konkurrent zu Deel; starke EU-Abdeckung |
 
-## Cost Considerations
+## Kostenbetrachtung
 
-- EOR typically costs **5–15% of employee salary** (employer-side cost)
-- **Open question:** Does DoktorLib absorb this cost, or does it reduce Oleg's effective compensation?
-- For the [[Cyprus Tax Regime]] 50% exemption to apply, Oleg must be employed (not contractor) — EOR satisfies this requirement
+- EOR kostet typischerweise **5–15 % des Mitarbeitergehalts** (arbeitgeberseitige Kosten)
+- **Offene Frage:** Übernimmt DoktorLib diese Kosten, oder reduzieren sie Olegs effektive Vergütung?
+- Damit die 50%-Befreiung des [[Cyprus Tax Regime|zypriotischen Steuerregimes]] gilt, muss Oleg angestellt sein (kein Auftragnehmer) — EOR erfüllt diese Anforderung
 
-## Risk Factors
+## Risikofaktoren
 
-### For Oleg
-- DoktorLib may **refuse** to support EOR arrangements
-- Cost may be passed to Oleg, reducing the tax benefit
-- Employment terms may change under a new EOR contract
+### Für Oleg
+- DoktorLib könnte EOR-Vereinbarungen **ablehnen**
+- Kosten könnten an Oleg weitergegeben werden und den Steuervorteil verringern
+- Beschäftigungsbedingungen könnten sich durch einen neuen EOR-Vertrag ändern
 
-### For Partner
-- Cosmetics/PM industry has **lower remote culture** → higher refusal risk
-- If partner cannot relocate, the move becomes solo or delayed
+### Für die Partnerin
+- Die Kosmetik-/PM-Branche hat eine **geringere Remote-Kultur** → höheres Ablehnungsrisiko
+- Falls die Partnerin nicht relocaten kann, wird der Umzug zur Einzelperson oder verzögert sich
 
-## Gate Item Status
+## Gate-Item-Status
 
 - [ ] Klärung mit DoktorLib: Remote aus Zypern möglich?
 - [ ] Falls nein: EOR-Lösung — wer trägt Kosten?
 - [ ] Gleiche Klärung für Arbeitgeber der Partnerin
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Cyprus Relocation]] — primary context
-- [[Cyprus Relocation Detail]] — full gate item documentation
-- [[Cyprus Tax Regime]] — tax framework that requires EOR for exemption eligibility
-- [[DoktorLib]] — Oleg's employer subject to EOR gate
-- [[Oleg Personal Context]] — worker requiring EOR arrangement
+- [[Cyprus Relocation|Zypern-Relokation]] — primärer Kontext
+- [[Cyprus Relocation Detail|Zypern-Relokation Detail]] — vollständige Gate-Item-Dokumentation
+- [[Cyprus Tax Regime|Zypriotisches Steuerregime]] — Steuerrahmen, der EOR für die Befreiungsberechtigung voraussetzt
+- [[DoktorLib]] — Olegs Arbeitgeber, der dem EOR-Gate unterliegt
+- [[Oleg Personal Context|Olegs persönlicher Kontext]] — Arbeitnehmer, der eine EOR-Vereinbarung benötigt

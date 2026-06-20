@@ -5,34 +5,34 @@ tags: [bank, konto, giro, dispo, finanzen, liquidität, 2026]
 sources: ["raw/inbox/2026-06 Finance Monthly.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Consorsbank Girokonto — Oleg's primary private account; in overdraft (Dispo) at −1,405 € as of June 2026 Vault snapshot; indicates active use of credit line and near-zero liquidity
+summary: Consorsbank Girokonto — Olegs primäres privates Konto; im Dispo bei −1.405 € gemäß dem Juni-2026-Vault-Snapshot; zeigt aktive Nutzung der Kreditlinie und nahezu null Liquidität an
 ---
 
 # Consorsbank
 
-## Overview
+## Überblick
 
-**Consorsbank** (BNP Paribas subsidiary) holds [[Oleg Personal Context|Oleg]]'s primary private Girokonto (current account). As of the June 2026 Vault snapshot, the account is in **Dispo** (overdraft).
+**Consorsbank** (Tochtergesellschaft der BNP Paribas) führt das primäre private Girokonto von [[Oleg Personal Context|Oleg]]. Gemäß dem Juni-2026-Vault-Snapshot befindet sich das Konto im **Dispo** (Überziehung).
 
-## Account Status
+## Kontostatus
 
 | Parameter | Stand (Vault) |
 |---|---|
 | **Konto** | Consorsbank Giro |
 | **Stand** | **−1.405 € (Dispo)** |
-| **Änderung vs. Vormonat** | TODO (requires June bank statement) |
+| **Änderung vs. Vormonat** | TODO (erfordert den Juni-Kontoauszug) |
 
-## Significance
+## Bedeutung
 
-- A negative balance on the primary account indicates the **Dispositionskredit** (overdraft facility) is actively in use
-- Combined with Ersparnisse of 1,10 €, this means **effectively zero private liquidity**
-- The Dispo carries interest costs that compound the [[Finanzübersicht 2026|structural deficit]]
-- Resolving the Dispo is part of the short-term financial stabilization priority
+- Ein negativer Saldo auf dem Hauptkonto zeigt an, dass der **Dispositionskredit** (Überziehungsfazilität) aktiv genutzt wird
+- In Kombination mit Ersparnissen von 1,10 € bedeutet dies **faktisch null private Liquidität**
+- Der Dispo verursacht Zinskosten, die das [[Finanzübersicht 2026|strukturelle Defizit]] weiter verschärfen
+- Die Bereinigung des Dispos ist Teil der kurzfristigen finanziellen Stabilisierungspriorität
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Finanzübersicht 2026]] — financial overview
-- [[Finance Monthly 2026-06 Source Detail]] — source
-- [[Fixkosten Übersicht]] — cost context
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — account holder
+- [[Finanzübersicht 2026]] — Finanzübersicht
+- [[Finance Monthly 2026-06 Source Detail]] — Quelle
+- [[Fixkosten Übersicht]] — Kostenkontext
+- [[MOC Finanzen]] — übergeordnete Finanzen-MOC
+- [[Oleg Personal Context]] — Kontoinhaber

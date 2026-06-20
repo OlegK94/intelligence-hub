@@ -5,50 +5,50 @@ tags: [tool, password-manager, security, privacy, proton, tech-stack]
 sources: ["raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-09
 updated: 2026-06-09
-summary: Privacy-first password manager by Proton AG — part of the Proton suite; supports Custom Fields, multi-URL, Vault structure, Credit Cards, Identity entries, and Secure Notes; currently used by Oleg but under migration review
+summary: Datenschutzorientierter Passwort-Manager von Proton AG — Teil der Proton-Suite; unterstützt benutzerdefinierte Felder, mehrere URLs, Vault-Struktur, Kreditkarten-, Identitäts-Einträge und sichere Notizen; wird derzeit von Oleg genutzt, steht aber unter Migrationsprüfung
 ---
 
 # Proton Pass
 
-## Overview
+## Überblick
 
-**Proton Pass** is a password manager developed by Proton AG (Switzerland), part of the broader Proton privacy suite (alongside Proton Mail, Proton VPN, Proton Drive). It is [[Oleg Personal Context|Oleg]]'s **current** password manager as of June 2026, currently under review for potential migration to [[Apple Passwords]].
+**Proton Pass** ist ein Passwort-Manager, der von Proton AG (Schweiz) entwickelt wurde und Teil der umfassenderen Proton-Datenschutz-Suite ist (zusammen mit Proton Mail, Proton VPN, Proton Drive). Es ist [[Oleg Personal Context|Olegs]] **aktueller** Passwort-Manager (Stand Juni 2026), der derzeit auf eine mögliche Migration zu [[Apple Passwords]] hin geprüft wird.
 
-## Feature Set
+## Funktionsumfang
 
-| Feature | Supported |
+| Funktion | Unterstützt |
 |---|---|
-| Custom Fields | ✅ |
-| Multiple URLs per entry | ✅ |
-| Credit Card entries | ✅ |
-| Identity entries | ✅ |
-| Secure Notes | ✅ |
-| Vault Structure (folders) | ✅ |
+| Benutzerdefinierte Felder | ✅ |
+| Mehrere URLs pro Eintrag | ✅ |
+| Kreditkarten-Einträge | ✅ |
+| Identitäts-Einträge | ✅ |
+| Sichere Notizen | ✅ |
+| Vault-Struktur (Ordner) | ✅ |
 | TOTP / OTPAuth | ✅ |
 | Passkeys | ✅ |
 
-## Data Export
+## Datenexport
 
 - **Format:** CSV
-- **Known issue:** On German locale systems, the CSV delimiter is **semicolon** (`;`) rather than the standard comma (`,`)
-- This caused the import failure into Apple Passwords — see [[Password Manager Migration Source Detail]] for the VS Code fix
+- **Bekanntes Problem:** Auf Systemen mit deutschem Gebietsschema ist das CSV-Trennzeichen ein **Semikolon** (`;`) statt dem Standard-Komma (`,`)
+- Dies führte zum Importfehler in Apple Passwords — siehe [[Password Manager Migration Source Detail]] für den VS Code-Fix
 
-## Privacy Profile
+## Datenschutzprofil
 
-- **Jurisdiction:** Switzerland (strong privacy laws)
-- **Encryption:** End-to-end encrypted
-- **Open source:** Audited
-- **Cross-platform:** iOS, macOS, Windows, Android, browser extensions
+- **Rechtsraum:** Schweiz (starke Datenschutzgesetze)
+- **Verschlüsselung:** Ende-zu-Ende-verschlüsselt
+- **Open Source:** Auditiert
+- **Plattformübergreifend:** iOS, macOS, Windows, Android, Browser-Erweiterungen
 
-## Migration Status
+## Migrationsstatus
 
-Currently under review for migration to [[Apple Passwords]]. Decision is pending an audit of how many entries actively use the advanced features (Custom Fields, multi-URL, Vault structure). See [[Password Manager Migration]] for the decision framework.
+Derzeit wird eine Migration zu [[Apple Passwords]] geprüft. Die Entscheidung steht noch aus, bis überprüft wurde, wie viele Einträge die erweiterten Funktionen (benutzerdefinierte Felder, mehrere URLs, Vault-Struktur) aktiv nutzen. Siehe [[Password Manager Migration]] für den Entscheidungsrahmen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Password Manager Migration]] — migration project
-- [[Password Manager Migration Source Detail]] — technical detail
-- [[Apple Passwords]] — potential migration target
-- [[Privacy and Tech Stack]] — broader tech stack context
-- [[MOC Tech und Setup]] — parent MOC
-- [[Oleg Personal Context]] — current user
+- [[Password Manager Migration]] — Migrationsprojekt
+- [[Password Manager Migration Source Detail]] — technische Details
+- [[Apple Passwords]] — potenzielles Migrationsziel
+- [[Privacy and Tech Stack]] — übergeordneter Tech-Stack-Kontext
+- [[MOC Tech und Setup]] — übergeordnete MOC
+- [[Oleg Personal Context]] — aktueller Nutzer

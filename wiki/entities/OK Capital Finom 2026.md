@@ -5,30 +5,30 @@ tags: [konto, finom, ok-capital, business-banking, 2026, finanzen]
 sources: ["raw/Privat/Finanzen/00 MOC Finanzen.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: OK Capital UG business banking account at Finom (European neobank for SMEs) — referenced in finance MOC; balance and transaction detail not available from current source
+summary: Geschäftskonto der OK Capital UG bei Finom (europäische Neobank für KMU) — im Finanzen-MOC referenziert; Kontostand und Transaktionsdetails aus aktueller Quelle nicht verfügbar
 ---
 
 # OK Capital Finom 2026
 
-## Overview
+## Übersicht
 
-**OK Capital Finom 2026** refers to the [[OK Capital UG]] business banking account at **Finom**, a European neobank targeting SMEs. It is listed alongside [[Wagglz Finom 2026]] and [[Consorsbank Girokonto 0250120493]] as one of three active accounts in [[MOC Finanzen Source Detail]].
+**OK Capital Finom 2026** bezeichnet das Geschäftskonto der [[OK Capital UG]] bei **Finom**, einer europäischen Neobank für KMU. Es wird zusammen mit [[Wagglz Finom 2026]] und [[Consorsbank Girokonto 0250120493]] als eines von drei aktiven Konten im [[MOC Finanzen Source Detail]] aufgeführt.
 
-> ⚠️ **Assumption [A]:** Account balance, IBAN, and transaction activity are not available from the current source. This page will be expanded when the OK Capital Finom source document is ingested.
+> ⚠️ **Annahme [A]:** Kontostand, IBAN und Transaktionsaktivität sind aus der aktuellen Quelle nicht verfügbar. Diese Seite wird erweitert, sobald das Quelldokument der OK Capital Finom eingelesen wurde.
 
-## Account Context
+## Kontokontext
 
 | Parameter | Detail |
 |---|---|
-| **Entity** | [[OK Capital UG]] |
-| **Bank** | Finom (EU neobank for SMEs) |
-| **Year reference** | 2026 |
-| **Purpose** | OK Capital UG business banking |
+| **Entität** | [[OK Capital UG]] |
+| **Bank** | Finom (EU-Neobank für KMU) |
+| **Jahresreferenz** | 2026 |
+| **Zweck** | Geschäftsbankverbindung der OK Capital UG |
 
-## Related Pages
+## Verwandte Seiten
 
-- [[MOC Finanzen]] — parent finance MOC
-- [[OK Capital UG]] — account holder entity
-- [[Wagglz Finom 2026]] — parallel Finom account for Wagglz
-- [[Consorsbank Girokonto 0250120493]] — Oleg's personal current account
-- [[Oleg Personal Context]] — account operator
+- [[MOC Finanzen]] — übergeordneter Finanzen-MOC
+- [[OK Capital UG]] — kontoführende Entität
+- [[Wagglz Finom 2026]] — paralleles Finom-Konto für Wagglz
+- [[Consorsbank Girokonto 0250120493]] — Olegs persönliches Girokonto
+- [[Oleg Personal Context]] — Kontobetreiber

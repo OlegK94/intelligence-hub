@@ -1,33 +1,33 @@
 ---
-title: Password Manager Migration Source Detail
+title: Passwort-Manager-Migration Quelldokument Detail
 type: source
 tags: [tech, passwords, migration, proton-pass, apple-passwords, csv, locale, entscheidung-offen]
 sources: ["raw/Privat/Tech/Password Manager Migration.md"]
 created: 2026-06-09
 updated: 2026-06-09
-summary: Source document for the attempted Proton Pass → Apple Passwords migration — CSV delimiter issue (German locale), field incompatibility analysis, decision framework, and CSV fix via VS Code
+summary: Quelldokument für den versuchten Proton Pass → Apple Passwords Umzug — CSV-Trennzeichen-Problem (deutsches Locale), Feldinkompatibilitätsanalyse, Entscheidungsrahmen und CSV-Fix via VS Code
 ---
 
-# Password Manager Migration — Source Detail
+# Passwort-Manager-Migration — Quelldokument Detail
 
-## Overview
+## Übersicht
 
-This source document (status: Entscheidung ausstehend, created 2026-06-09) captures the attempted migration from [[Proton Pass]] to [[Apple Passwords]], the technical blockers encountered, a structured decision framework, and a technical workaround for the CSV delimiter problem.
+Dieses Quelldokument (Status: Entscheidung ausstehend, erstellt 2026-06-09) dokumentiert den versuchten Wechsel von [[Proton Pass]] zu [[Apple Passwords]], die dabei aufgetretenen technischen Hindernisse, einen strukturierten Entscheidungsrahmen sowie einen technischen Workaround für das CSV-Trennzeichen-Problem.
 
-> For the entity summary and decision status, see [[Password Manager Migration]].
+> Für die Entitätszusammenfassung und den Entscheidungsstatus siehe [[Password Manager Migration]].
 
-## Attempted Migration Steps
+## Versuchte Migrationsschritte
 
 1. CSV-Export aus [[Proton Pass]]
 2. Import in [[Apple Passwords]] gescheitert
-3. Problem 1: **Deutsches Locale** → CSV-Delimiter ist Semikolon (`;`) statt Komma (`,`)
+3. Problem 1: **Deutsches Locale** → CSV-Trennzeichen ist Semikolon (`;`) statt Komma (`,`)
 4. Problem 2: **Feldinkompatibilität** → Apple Passwords kann mehrere Felder nicht abbilden
 
-## Fehlende Felder (Field Incompatibility)
+## Fehlende Felder (Feldinkompatibilität)
 
 | Feld | Proton Pass | Apple Passwords |
 |---|---|---|
-| Custom Fields | ✅ | ❌ |
+| Benutzerdefinierte Felder | ✅ | ❌ |
 | Mehrere URLs pro Eintrag | ✅ | ❌ |
 | Kreditkarten | ✅ | ❌ (separat in Wallet) |
 | Identity-Einträge | ✅ | ❌ |
@@ -36,43 +36,43 @@ This source document (status: Entscheidung ausstehend, created 2026-06-09) captu
 | TOTP/OTPAuth | ✅ | ✅ (aber manuell re-enroll erforderlich) |
 | Passkeys | ✅ | ✅ (aber manuell re-enroll erforderlich) |
 
-**Key finding:** Apple Passwords is effectively a username + password + TOTP manager only. Proton Pass supports a significantly broader data model.
+**Wichtigste Erkenntnis:** Apple Passwords ist im Wesentlichen nur ein Benutzername + Passwort + TOTP Manager. Proton Pass unterstützt ein deutlich umfangreicheres Datenmodell.
 
 ## Entscheidungsrahmen (Decision Framework)
 
 ### Bei Proton Pass bleiben, wenn:
-- Custom Fields aktiv genutzt (z.B. Kontofeldnummern, PINs, etc.)
-- Mehrere URLs pro Eintrag aktiv genutzt
-- Kreditkarten, Identities, Secure Notes aktiv genutzt
-- Vault-Struktur (Ordnung) aktiv genutzt
+- Benutzerdefinierte Felder aktiv genutzt werden (z.B. Kontonummern, PINs usw.)
+- Mehrere URLs pro Eintrag aktiv genutzt werden
+- Kreditkarten, Identities, Secure Notes aktiv genutzt werden
+- Vault-Struktur (Ordnung) aktiv genutzt wird
 
 ### Wechsel zu Apple Passwords sinnvoll, wenn:
-- Obige Felder größtenteils **legacy / ungenutzte** Daten sind
-- Workflow fast ausschließlich Benutzername + Passwort + TOTP
-- Volle **Apple-Integration** gewünscht (Autofill seamless, kein Extra-App)
+- Obige Felder größtenteils **veraltete / ungenutzte** Daten sind
+- Arbeitsablauf fast ausschließlich Benutzername + Passwort + TOTP umfasst
+- Volle **Apple-Integration** gewünscht wird (Autofill nahtlos, keine Extra-App)
 
-## Noch zu klären (Open Tasks)
+## Noch zu klären (Offene Aufgaben)
 
-- [ ] Durchgehen: Wie viele Proton Pass Einträge nutzen tatsächlich Custom Fields / Multi-URL / Notes aktiv?
-- [ ] Wenn <20% aktive Nutzung: Cleanup + Migration machbar
+- [ ] Durchgehen: Wie viele Proton Pass Einträge nutzen tatsächlich benutzerdefinierte Felder / Multi-URL / Notizen aktiv?
+- [ ] Wenn <20% aktive Nutzung: Bereinigung + Migration machbar
 - [ ] Wenn >50% aktive Nutzung: Bei Proton Pass bleiben
 
-## Technisches Fix (falls Migration fortgesetzt wird)
+## Technischer Fix (falls Migration fortgesetzt wird)
 
-**Problem:** German locale exports CSV with semicolon delimiter — Apple Passwords expects comma delimiter.
+**Problem:** Das deutsche Locale exportiert CSV mit Semikolon als Trennzeichen — Apple Passwords erwartet jedoch Komma als Trennzeichen.
 
 **Lösung via VS Code:**
 1. CSV in VS Code öffnen
-2. Find & Replace: `;` → `,`
+2. Suchen & Ersetzen: `;` → `,`
 3. ⚠️ Achte auf Felder, die selbst Kommas enthalten → diese müssen mit Anführungszeichen (Quotes) gewrappt sein
 
-> **Note:** Simple find-and-replace risks corrupting fields that contain literal semicolons or commas within their values. A more robust approach would use a CSV-aware tool or Python script to re-delimiter the file properly.
+> **Hinweis:** Ein einfaches Suchen-und-Ersetzen kann Felder beschädigen, die selbst Semikolons oder Kommas als Inhalt enthalten. Ein robusterer Ansatz wäre ein CSV-fähiges Werkzeug oder ein Python-Skript, um das Trennzeichen korrekt zu ersetzen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Password Manager Migration]] — entity page and decision status
-- [[Proton Pass]] — source password manager
-- [[Apple Passwords]] — target password manager
-- [[Privacy and Tech Stack]] — broader tech context (linked in source)
-- [[MOC Tech und Setup]] — parent MOC
-- [[Oleg Personal Context]] — decision maker
+- [[Password Manager Migration]] — Entitätsseite und Entscheidungsstatus
+- [[Proton Pass]] — Quell-Passwort-Manager
+- [[Apple Passwords]] — Ziel-Passwort-Manager
+- [[Privacy and Tech Stack]] — weiterer Tech-Kontext (im Quelldokument verlinkt)
+- [[MOC Tech und Setup]] — übergeordnete MOC
+- [[Oleg Personal Context]] — Entscheidungsträger

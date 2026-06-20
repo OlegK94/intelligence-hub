@@ -5,66 +5,66 @@ tags: [supplement, longevity, glutathione, antioxidant, NAC, N-acetyl-cysteine, 
 sources: ["raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: N-Acetyl Cysteine — glutathione precursor and antioxidant in the Performance Café longevity stack; key formulation challenge is strong sulfurous odor requiring masking in coffee format
+summary: N-Acetylcystein — Glutathion-Vorläufer und Antioxidans im Performance Café Longevity-Stack; zentrale Formulierungsherausforderung ist der starke schwefelartige Geruch, der im Kaffeeformat maskiert werden muss
 ---
 
-# NAC (N-Acetyl Cysteine)
+# NAC (N-Acetylcystein)
 
-## Overview
+## Überblick
 
-**NAC (N-Acetyl Cysteine)** is a form of the amino acid cysteine that serves as the primary precursor to **glutathione** — the body's master antioxidant. It is a candidate ingredient in the [[Performance Coffee Brand]] longevity stack but presents a significant **formulation challenge**.
+**NAC (N-Acetylcystein)** ist eine Form der Aminosäure Cystein und dient als primärer Vorläufer von **Glutathion** — dem wichtigsten Antioxidans des Körpers. Es ist ein Kandidat für den [[Performance Coffee Brand|Performance Coffee Brand]]-Longevity-Stack, stellt jedoch eine erhebliche **Formulierungsherausforderung** dar.
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-| Mechanism | Effect |
+| Mechanismus | Wirkung |
 |---|---|
-| **Glutathione precursor** | Replenishes intracellular glutathione — key antioxidant defense |
-| **Antioxidant** | Direct free radical scavenging |
-| **Anti-inflammatory** | Reduces NF-κB driven inflammation |
-| **Mucolytic** | Breaks down mucus (clinical application) |
-| **Neuroprotective** | Glutathione support in neuronal tissue |
+| **Glutathion-Vorläufer** | Ergänzt intrazelluläres Glutathion — zentrale antioxidative Abwehr |
+| **Antioxidans** | Direkte Neutralisierung freier Radikale |
+| **Entzündungshemmend** | Reduziert NF-κB-getriebene Entzündungen |
+| **Mukolytisch** | Löst Schleim auf (klinische Anwendung) |
+| **Neuroprotektiv** | Glutathion-Unterstützung in neuronalem Gewebe |
 
-## Longevity Rationale
+## Longevity-Begründung
 
-NAC appears in [[Bryan Johnson]]'s Blueprint stack as **NAC+Ginger+Curcumin**. Its inclusion in the [[Performance Coffee Brand]] stack aligns with:
-- Oxidative stress reduction
-- Glutathione maintenance under training load
-- Anti-inflammatory support for longevity
+NAC erscheint im Blueprint-Stack von [[Bryan Johnson]] als **NAC+Ginger+Curcumin**. Die Aufnahme in den [[Performance Coffee Brand]]-Stack steht im Einklang mit:
+- Reduktion von oxidativem Stress
+- Glutathion-Erhalt unter Trainingsbelastung
+- Entzündungshemmende Unterstützung für Longevity
 
-## Formulation Challenge: Odor
+## Formulierungsherausforderung: Geruch
 
-From the Performance Café critical decisions table:
+Aus der Performance Café-Tabelle kritischer Entscheidungen:
 
-| Question | Blocks | File |
+| Frage | Blockiert | Datei |
 |---|---|---|
 | NAC Geruchs-Maskierung — how? | Prototype | `research/05_prototyp_partner.md` |
 
-**The problem:** NAC has a strong, characteristic **sulfurous odor** (similar to rotten eggs at higher concentrations). This arises from the free thiol (-SH) group in the cysteine molecule.
+**Das Problem:** NAC hat einen starken, charakteristischen **Schwefelgeruch** (ähnlich wie faule Eier bei höheren Konzentrationen). Dieser entsteht durch die freie Thiol-(-SH-)Gruppe im Cystein-Molekül.
 
-**In a coffee format**, this is a significant challenge:
-- Coffee aroma is a premium sensory experience
-- NAC odor can overpower coffee notes at therapeutic doses
-- Consumer acceptance is critical for repeat purchase
+**Im Kaffeeformat** ist dies eine erhebliche Herausforderung:
+- Das Kaffeearoma ist ein hochwertiges sensorisches Erlebnis
+- Der NAC-Geruch kann bei therapeutischen Dosen die Kaffeenoten überlagern
+- Akzeptanz beim Verbraucher ist entscheidend für Wiederkäufe
 
-### Potential Masking Solutions (to be researched in `research/05_prototyp_partner.md`)
+### Mögliche Maskierungslösungen (zu erforschen in `research/05_prototyp_partner.md`)
 
-1. **Microencapsulation** — coat NAC in a lipid or cyclodextrin shell to delay odor release
-2. **Dose reduction** — use sub-odor-threshold doses (may compromise efficacy)
-3. **NAC-amide (NACA)** — odorless derivative with similar bioactivity
-4. **Enteric coating** — capsule format rather than soluble powder
-5. **Blend masking** — use complementary aromatic ingredients to suppress NAC notes
+1. **Mikroverkapselung** — NAC in einer Lipid- oder Cyclodextrin-Hülle einkapseln, um die Geruchsfreisetzung zu verzögern
+2. **Dosisreduktion** — Dosen unterhalb der Geruchsschwelle verwenden (kann die Wirksamkeit beeinträchtigen)
+3. **NAC-Amid (NACA)** — geruchloses Derivat mit ähnlicher Bioaktivität
+4. **Magensaftresistente Umhüllung** — Kapselformat statt löslichem Pulver
+5. **Blend-Maskierung** — komplementäre aromatische Zutaten verwenden, um NAC-Noten zu unterdrücken
 
-## Regulatory Status
+## Regulatorischer Status
 
-- NAC has an unusual regulatory history in the US (FDA has contested its supplement status due to prior drug approval)
-- In the EU: generally permitted as a food supplement
-- Not known to be a Novel Food concern (unlike [[NMN]], [[Urolithin A]], [[Spermidine]])
+- NAC hat in den USA eine ungewöhnliche regulatorische Geschichte (die FDA hat seinen Supplement-Status aufgrund einer vorherigen Arzneimittelzulassung angefochten)
+- In der EU: grundsätzlich als Nahrungsergänzungsmittel zugelassen
+- Gilt nicht als Novel Food-Problem (im Gegensatz zu [[NMN]], [[Urolithin A]], [[Spermidine]])
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — product context
-- [[Performance Cafe README Project Setup]] — source
-- [[Longevity Stack Ingredients]] — broader stack
-- [[Bryan Johnson]] — Blueprint includes NAC+Ginger+Curcumin
-- [[EU Novel Food Regulation]] — regulatory context (NAC likely exempt)
-- [[NMN]] — co-ingredient with different regulatory risk profile
+- [[Performance Coffee Brand]] — Produktkontext
+- [[Performance Cafe README Project Setup]] — Quelle
+- [[Longevity Stack Ingredients]] — umfassenderer Stack
+- [[Bryan Johnson]] — Blueprint enthält NAC+Ginger+Curcumin
+- [[EU Novel Food Regulation]] — regulatorischer Kontext (NAC wahrscheinlich ausgenommen)
+- [[NMN]] — Ko-Inhaltsstoff mit anderem regulatorischen Risikoprofil

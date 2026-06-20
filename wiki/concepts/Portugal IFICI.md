@@ -5,41 +5,41 @@ tags: [portugal, tax, NHR, IFICI, expat, relocation, rejected]
 sources: ["raw/01-Strategie-Business/Cyprus Relocation.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Portugal's IFICI tax regime (successor to NHR) — explicitly excludes sales professions from income tax exemption, making it unsuitable for Oleg's profile; rejected in favor of Cyprus
+summary: Portugals IFICI-Steuerregime (Nachfolger des NHR) — schließt Vertriebsberufe explizit von der Einkommensteuerbefreiung aus, was es für Olegs Profil ungeeignet macht; zugunsten von Zypern abgelehnt
 ---
 
 # Portugal IFICI
 
-## Overview
+## Überblick
 
-**IFICI** (Incentivo Fiscal à Investigação Científica e Inovação) is Portugal's successor to the **NHR (Non-Habitual Resident)** tax regime, introduced in 2024. It offers reduced tax rates for qualifying new residents, but with significant profession-based restrictions.
+**IFICI** (Incentivo Fiscal à Investigação Científica e Inovação) ist Portugals Nachfolger des **NHR (Non-Habitual Resident)**-Steuerregimes, eingeführt im Jahr 2024. Es bietet reduzierten Steuersätze für qualifizierte Neuansässige, jedoch mit erheblichen berufsbezogenen Einschränkungen.
 
-## Relevance
+## Relevanz
 
-Portugal was the main alternative to [[Cyprus Relocation|Cyprus]] in [[Oleg Personal Context|Oleg]]'s relocation analysis. It was **rejected** due to the IFICI regime's explicit exclusion of sales professions.
+Portugal war die wichtigste Alternative zu [[Cyprus Relocation|Zypern]] in [[Oleg Personal Context|Olegs]] Relocation-Analyse. Es wurde **abgelehnt**, da das IFICI-Regime Vertriebsberufe explizit ausschließt.
 
-## Why IFICI Was Rejected for Oleg
+## Warum IFICI für Oleg abgelehnt wurde
 
-> **Sales-Berufe explizit ausgeschlossen** — Sales professions are explicitly excluded from the IFICI income tax benefit.
+> **Sales-Berufe explizit ausgeschlossen** — Vertriebsberufe sind explizit vom IFICI-Einkommensteuerbonus ausgeschlossen.
 
-Since Oleg works in **B2B SaaS Sales** at [[DoktorLib]], the primary financial incentive (reduced/exempt income tax) does not apply. Without the tax benefit, Portugal offers no material advantage over Cyprus — and has higher costs (Lisbon cost of living has risen significantly).
+Da Oleg im **B2B SaaS Sales** bei [[DoktorLib]] tätig ist, gilt der primäre finanzielle Anreiz (reduzierte/befreite Einkommensteuer) nicht. Ohne den Steuervorteil bietet Portugal gegenüber Zypern keinen wesentlichen Vorteil — und hat höhere Lebenshaltungskosten (die Lebenshaltungskosten in Lissabon sind deutlich gestiegen).
 
-## Comparison with Cyprus
+## Vergleich mit Zypern
 
-| Aspect | Portugal (IFICI) | Cyprus |
+| Aspekt | Portugal (IFICI) | Zypern |
 |---|---|---|
-| Tax exemption for sales | ❌ Excluded | ✅ Applicable |
-| Cost of living | High (Lissabon) | Moderate |
-| German advisory available | — | ✅ |
+| Steuerbefreiung für Vertrieb | ❌ Ausgeschlossen | ✅ Anwendbar |
+| Lebenshaltungskosten | Hoch (Lissabon) | Moderat |
+| Deutsche Beratung verfügbar | — | ✅ |
 
-## Historical Context
+## Historischer Kontext
 
-- **NHR (old):** The original NHR regime (2009–2023) was broader and did not have the same profession restrictions — but it has ended for new applicants
-- **IFICI (new):** More targeted toward researchers, qualified professionals, and innovation workers; sales explicitly excluded
+- **NHR (alt):** Das ursprüngliche NHR-Regime (2009–2023) war breiter gefasst und hatte nicht dieselben Berufseinschränkungen — es ist jedoch für Neuantragsteller ausgelaufen
+- **IFICI (neu):** Stärker auf Forscher, qualifizierte Fachkräfte und Innovationsarbeiter ausgerichtet; Vertrieb explizit ausgeschlossen
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Cyprus Relocation]] — chosen alternative
-- [[Cyprus Tax Regime]] — winning tax framework
-- [[Cyprus Relocation Detail]] — full country comparison
-- [[Oleg Personal Context]] — decision maker
+- [[Cyprus Relocation]] — gewählte Alternative
+- [[Cyprus Tax Regime]] — siegreiches Steuerrahmenwerk
+- [[Cyprus Relocation Detail]] — vollständiger Ländervergleich
+- [[Oleg Personal Context]] — Entscheidungsträger

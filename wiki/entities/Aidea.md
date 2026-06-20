@@ -5,43 +5,43 @@ tags: [performance-cafe, CMO, contract-manufacturing, Italy, Milan, GMP, Halal, 
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Priority 4 CMO candidate for Performance Coffee Brand — Milan-based functional drinks and sachet specialist; GMP and Halal certified; RTD and sachet format experience
+summary: Priority-4-CMO-Kandidat für die Performance Coffee Brand — auf funktionelle Getränke und Sachets spezialisierter Hersteller aus Mailand; GMP- und Halal-zertifiziert; Erfahrung mit RTD- und Sachet-Formaten
 ---
 
 # Aidea
 
-## Overview
+## Überblick
 
-**Aidea** is a [[Performance Coffee Brand]] **Priority 4 CMO candidate**, based in Milan, Italy. Its specialization in functional drinks, sachets, and RTD (Ready-to-Drink) formats gives it direct format-relevant experience for the Performance Coffee sachet concept.
+**Aidea** ist ein [[Performance Coffee Brand|Performance Coffee Brand]] **Priority-4-CMO-Kandidat** mit Sitz in Mailand, Italien. Die Spezialisierung auf funktionelle Getränke, Sachets und RTD (Ready-to-Drink) verleiht dem Unternehmen direkte formatrelevante Erfahrung für das Performance Coffee Sachet-Konzept.
 
-## Key Facts
+## Eckdaten
 
-| Parameter | Detail |
+| Parameter | Details |
 |---|---|
-| **Country** | Italy (Milan) |
-| **Specialization** | Functional Drinks, Sachets, RTD |
-| **Certifications** | GMP, Halal |
+| **Land** | Italien (Mailand) |
+| **Spezialisierung** | Funktionelle Getränke, Sachets, RTD |
+| **Zertifizierungen** | GMP, Halal |
 | **Website** | aidea.it |
-| **CMO Priority** | **#4** |
+| **CMO-Priorität** | **#4** |
 
-## Key Capabilities
+## Kernkompetenzen
 
-- **Sachet/RTD format:** Direct format experience — can manufacture the physical product type needed
-- **GMP certified** — prerequisite for [[Kölner Liste]] pathway
-- **Halal certified** — opens additional market segments beyond primary DACH target
-- Functional beverage focus — understands the ingredient-in-liquid/powder challenges
+- **Sachet/RTD-Format:** Direkte Formaterfahrung — kann den benötigten physischen Produkttyp herstellen
+- **GMP-zertifiziert** — Voraussetzung für den [[Kölner Liste]]-Pfad
+- **Halal-zertifiziert** — erschließt zusätzliche Marktsegmente jenseits des primären DACH-Zielmarkts
+- Fokus auf funktionelle Getränke — Verständnis für die Herausforderungen bei Inhaltsstoffen in flüssiger oder Pulverform
 
-## Considerations
+## Überlegungen
 
-- Milan-based — more distant than DACH for logistics and site visits
-- RTD experience may not fully translate to dry powder sachet format nuances
-- Halal certification is a bonus not directly required for initial DACH launch
+- Sitz in Mailand — größere Distanz als DACH für Logistik und Standortbesuche
+- RTD-Erfahrung lässt sich möglicherweise nicht vollständig auf die Besonderheiten von Trockenpulver-Sachets übertragen
+- Halal-Zertifizierung ist ein Bonus, der für den initialen DACH-Launch nicht zwingend erforderlich ist
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — evaluation framework
-- [[CMO Erstkontakt Email Template]] — outreach template
-- [[Performance Cafe Supplier List]] — source document
-- [[Nutri-Epitech]] — Priority 3 CMO candidate
-- [[Herbafit]] — Priority 5 CMO candidate
-- [[Performance Coffee Brand]] — project entity
+- [[CMO Sourcing Performance Coffee]] — Evaluierungsrahmen
+- [[CMO Erstkontakt Email Template]] — Kontaktaufnahme-Vorlage
+- [[Performance Cafe Supplier List|Lieferantenliste Performance Cafe]] — Quelldokument
+- [[Nutri-Epitech]] — Priority-3-CMO-Kandidat
+- [[Herbafit]] — Priority-5-CMO-Kandidat
+- [[Performance Coffee Brand]] — Projektentität

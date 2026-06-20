@@ -5,57 +5,57 @@ tags: [tool, project-management, database, doktorlib, tech-stack, automation]
 sources: ["raw/01-Strategie-Business/DoktorLib Automation Pipeline.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Project planning and collaboration tool used as secondary data layer in the DoktorLib pipeline — receives synchronized data from Make and provides deployment-facing view replacing Excel handover
+summary: Projektplanungs- und Kollaborationstool, das als sekundäre Datenschicht in der DoktorLib-Pipeline eingesetzt wird — empfängt synchronisierte Daten aus Make und stellt die deployment-seitige Ansicht bereit, die die Excel-Übergabe ersetzt
 ---
 
 # Notion
 
-## Overview
+## Überblick
 
-**Notion** is a flexible all-in-one workspace tool used for notes, databases, wikis, and project management. In the [[DoktorLib Automation Pipeline]], Notion serves as the **secondary data layer** and **deployment-facing view** — complementing [[Salesforce]] (the primary backbone) with a more accessible interface for the deployment team.
+**Notion** ist ein flexibles All-in-one-Workspace-Tool für Notizen, Datenbanken, Wikis und Projektmanagement. In der [[DoktorLib Automation Pipeline]] fungiert Notion als **sekundäre Datenschicht** und **deployment-seitige Ansicht** — es ergänzt [[Salesforce]] (das primäre Datenfundament) durch eine zugänglichere Oberfläche für das Deployment-Team.
 
-## Role in the DoktorLib Pipeline
+## Rolle in der DoktorLib-Pipeline
 
-### Pipeline Position
+### Pipeline-Position
 
 ```
-[TALLY] → [MAKE] → [NOTION DB] (synchronized alongside Salesforce)
+[TALLY] → [MAKE] → [NOTION DB] (synchronisiert parallel zu Salesforce)
                         ↓
-              Deployment team accesses Notion-Link
-              (replaces Excel handover)
+              Deployment-Team greift auf Notion-Link zu
+              (ersetzt Excel-Übergabe)
 ```
 
-### Specific Uses
+### Konkrete Einsatzbereiche
 
-| Phase | Notion Role |
+| Phase | Rolle von Notion |
 |---|---|
-| Phase 2 (Make Automation) | Receives Tally intake data — new DB page created per customer |
-| IT Audit (Make) | IT audit data synchronized to existing Notion page |
-| Phase 4 (Deployment Handover) | Deployment-specific Notion template built; link shared instead of Excel |
+| Phase 2 (Make-Automatisierung) | Empfängt Tally-Intake-Daten — neue DB-Seite wird pro Kunde angelegt |
+| IT-Audit (Make) | IT-Audit-Daten werden mit bestehender Notion-Seite synchronisiert |
+| Phase 4 (Deployment-Übergabe) | Deployment-spezifisches Notion-Template wird gebaut; Link wird statt Excel geteilt |
 
-## Design Decision: Notion as Secondary, Salesforce as Primary
+## Designentscheidung: Notion als Sekundär-, Salesforce als Primärsystem
 
-The source document explicitly positions Notion as **Projektplanung** (project planning) while [[Salesforce]] is the **Daten-Backbone** (data backbone). This means:
-- Notion is the *human-readable, deployment-facing* layer
-- Salesforce is the *system-of-record, integration-facing* layer
-- Data flows from Tally → Make → **both** systems in parallel
+Das Quelldokument positioniert Notion explizit als **Projektplanung**, während [[Salesforce]] der **Daten-Backbone** ist. Das bedeutet:
+- Notion ist die *menschenlesbare, deployment-seitige* Schicht
+- Salesforce ist die *System-of-Record-, integrationsseitige* Schicht
+- Daten fließen von Tally → Make → **beide** Systeme parallel
 
-## Deployment Handover Benefit
+## Vorteil bei der Deployment-Übergabe
 
-The key outcome of using Notion for deployment:
-- **Before:** Deployment team receives Excel file (no single source of truth, version control issues)
-- **After:** Deployment team receives a **Notion link** (always current, connected to live data)
+Das zentrale Ergebnis des Notion-Einsatzes für das Deployment:
+- **Vorher:** Das Deployment-Team erhält eine Excel-Datei (keine einheitliche Wahrheitsquelle, Versionierungsprobleme)
+- **Nachher:** Das Deployment-Team erhält einen **Notion-Link** (stets aktuell, mit Live-Daten verknüpft)
 
-## Build Status (Open Items)
+## Build-Status (Offene Punkte)
 
 - [ ] Notion-Template für Deployment-Ansicht bauen (build deployment view template)
 - [ ] Link-Übergabe definieren (define link handover process)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[DoktorLib Automation Pipeline]] — pipeline context
-- [[DoktorLib Automation Pipeline Source Detail]] — full source
-- [[Make]] — automation layer writing to Notion
-- [[Salesforce]] — primary data backbone (Notion is secondary)
-- [[Tally]] — upstream input source
-- [[DoktorLib]] — organization context
+- [[DoktorLib Automation Pipeline]] — Pipeline-Kontext
+- [[DoktorLib Automation Pipeline Source Detail|DoktorLib Automation Pipeline Quelldokument]] — vollständige Quelle
+- [[Make]] — Automatisierungsschicht, die in Notion schreibt
+- [[Salesforce]] — primärer Daten-Backbone (Notion ist sekundär)
+- [[Tally]] — vorgelagerter Eingabe-Datenlieferant
+- [[DoktorLib]] — Organisationskontext

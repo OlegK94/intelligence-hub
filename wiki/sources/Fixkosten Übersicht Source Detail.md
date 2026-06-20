@@ -1,20 +1,20 @@
 ---
-title: Fixkosten Übersicht Source Detail
+title: Fixkosten Übersicht Quelldokument Detail
 type: source
 tags: [finanzen, fixkosten, ausgaben, monatlich, budget, 2026]
 sources: ["raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for Oleg's monthly fixed costs as of June 2026 — total ~2,120 € (58% of net Doctolib income of 3,638.82 €); key items are rent 991.09 €, VW Konsumkredit 681.57 €, and Uelzener Tierversicherung 132.48 €; variable Wagglz Darlehen adds 100–300 €
+summary: Quelldokument für Olegs monatliche Fixkosten Stand Juni 2026 — Gesamt ~2.120 € (58 % des Doctolib-Nettoeinkommens von 3.638,82 €); wichtigste Posten sind Miete 991,09 €, VW Konsumkredit 681,57 € und Uelzener Tierversicherung 132,48 €; variables Wagglz Darlehen kommt mit 100–300 € hinzu
 ---
 
-# Fixkosten Übersicht — Source Detail
+# Fixkosten Übersicht — Quelldokument Detail
 
-## Overview
+## Überblick
 
-This source document (aktualisiert: 2026-06-12, gesamt_monat: 2220) captures [[Oleg Personal Context|Oleg]]'s complete monthly fixed cost structure as of June 2026.
+Dieses Quelldokument (aktualisiert: 2026-06-12, gesamt_monat: 2220) erfasst die vollständige monatliche Fixkostenstruktur von [[Oleg Personal Context|Oleg]] zum Stand Juni 2026.
 
-> For the entity summary and analysis, see [[Fixkosten Übersicht]].
+> Für die Entitätszusammenfassung und Analyse siehe [[Fixkosten Übersicht]].
 
 ## Vollständige Kostentabelle
 
@@ -62,17 +62,17 @@ Verbleibend:            ~1.518,00 €  für Lebenshaltung + Sparen
 | Apple Finanzierung (Consors) | ✅ abbezahlt |
 | Consorsbank 260809254 | ✅ aufgelöst |
 
-> **Note:** [[Consorsbank Girokonto 260809254]] closure is confirmed by both this source and the P0 Sofortmaßnahmen task list, which records the account closed on 2026-06-12.
+> **Hinweis:** Die Schließung des [[Consorsbank Girokonto 260809254]] ist sowohl durch dieses Quelldokument als auch durch die P0-Sofortmaßnahmen-Aufgabenliste bestätigt, in der die Kontoschließung am 2026-06-12 vermerkt ist.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Fixkosten Übersicht]] — entity summary page
-- [[VW Konsumkredit]] — largest non-rent expense
-- [[Wagglz GmbH]] — variable darlehen
+- [[Fixkosten Übersicht]] — Entitätszusammenfassungsseite
+- [[VW Konsumkredit]] — größter Posten nach Miete
+- [[Wagglz GmbH]] — variables Darlehen
 - [[Barmenia]] — KV-Zusatz 33 €/Mo
-- [[Uelzener Tierversicherung]] — optimization target 132,48 €/Mo
-- [[Allianz Insurance Consolidation]] — Allianz RLV + PKV context
-- [[GSW Immobilien]] — Miete landlord
-- [[Consorsbank Girokonto 260809254]] — confirmed closed
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — account holder
+- [[Uelzener Tierversicherung]] — Optimierungsziel 132,48 €/Mo
+- [[Allianz Insurance Consolidation]] — Kontext zu Allianz RLV + PKV
+- [[GSW Immobilien]] — Vermieter Miete
+- [[Consorsbank Girokonto 260809254]] — Schließung bestätigt
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Kontoinhaber

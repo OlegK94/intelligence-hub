@@ -1,20 +1,20 @@
 ---
-title: Doctolib 2026 Source Detail
+title: Doctolib 2026 Quelldokument Detail
 type: source
 tags: [doctolib, gehalt, einnahmen, 2026, pkw-sachbezug, firmenwagen, steuerklasse, HEK, bonus, jahresprojektion, finanzen]
 sources: ["raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md"]
 created: 2026-01-05
 updated: 2026-06-12
-summary: Source document for Doctolib GmbH salary 2026 — 6,300 € brutto/month + 364 € PKW-Sachbezug (1%-Regel), 3,638.82 € netto; Q1 bonus 8,533 € brutto paid April 2026; Jan–Mai sum 41,040 € brutto / 22,327 € netto; full-year projection ~105,568 € brutto / ~66,416 € netto
+summary: Quelldokument für das Doctolib GmbH Gehalt 2026 — 6.300 € brutto/Monat + 364 € PKW-Sachbezug (1%-Regel), 3.638,82 € netto; Q1-Bonus 8.533 € brutto ausgezahlt April 2026; Jan–Mai Summe 41.040 € brutto / 22.327 € netto; Jahresprojektion ~105.568 € brutto / ~66.416 € netto
 ---
 
-# Doctolib 2026 — Source Detail
+# Doctolib 2026 — Quelldokument Detail
 
-## Overview
+## Überblick
 
-This source document (`raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md`, aktualisiert: 2026-06-12) captures the full salary structure, monthly payroll, and annual projection for [[Oleg Personal Context|Oleg]]'s employment at [[Doctolib GmbH]] beginning 05.01.2026.
+Dieses Quelldokument (`raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md`, aktualisiert: 2026-06-12) erfasst die vollständige Gehaltsstruktur, monatliche Lohnabrechnungen und die Jahresprojektion für die Anstellung von [[Oleg Personal Context|Oleg]] bei [[Doctolib GmbH]], beginnend am 05.01.2026.
 
-> For the entity summary, see [[Doctolib 2026]].
+> Zur Entitätszusammenfassung siehe [[Doctolib 2026]].
 
 ## Stammdaten
 
@@ -45,7 +45,7 @@ This source document (`raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md`, aktualis
 - Firmenwagen via **1%-Regelung**
 - Listenpreis ~36.400 € → 364 €/Monat geldwerter Vorteil
 - Wird voll versteuert und auf Lohnsteuer angerechnet
-- **Open item:** Fahrtenbuch vs. 1%-Regel prüfen lassen → [[P2 Diesen Monat]]
+- **Offener Punkt:** Fahrtenbuch vs. 1%-Regel prüfen lassen → [[P2 Diesen Monat]]
 
 ## Jahresprojektion 2026
 
@@ -57,27 +57,27 @@ This source document (`raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md`, aktualis
 
 > **Annahme:** 3 Quartalsboni analog Q1-Bonus (Apr). Tatsächliche Höhe unbekannt.
 
-## Notes on PKW-Sachbezug Tax Logic
+## Hinweise zur Steuerlogik beim PKW-Sachbezug
 
-The 1%-Regelung adds 364 € monthly to the EBV-Brutto (Entgeltbemessungsgrundlage) as a monetary benefit (geldwerter Vorteil). This:
-- Increases the taxable income base
-- Is reflected in the difference between Brutto (6.300 €) and EBV-Brutto (6.664 €)
-- Potential optimization: switching to Fahrtenbuch (logbook method) could reduce the taxable benefit if actual private use is lower than 1% of list price
+Die 1%-Regelung addiert monatlich 364 € zum EBV-Brutto (Entgeltbemessungsgrundlage) als geldwerten Vorteil. Dies:
+- Erhöht die steuerliche Bemessungsgrundlage
+- Spiegelt sich in der Differenz zwischen Brutto (6.300 €) und EBV-Brutto (6.664 €) wider
+- Mögliche Optimierung: Ein Wechsel zum Fahrtenbuch könnte den zu versteuernden Vorteil reduzieren, sofern die tatsächliche Privatnutzung unter 1% des Listenpreises liegt
 
-## Source Cross-References
+## Quellenverweise
 
-From source frontmatter:
-- [[Fixkosten Übersicht]] — 61% of netto in fixed costs
-- [[ESt 2025]] — prior year tax filing
-- [[Consorsbank Girokonto 0250120493]] — salary deposit account
+Aus dem Frontmatter des Quelldokuments:
+- [[Fixkosten Übersicht]] — 61% des Nettos in Fixkosten
+- [[ESt 2025]] — Steuererklärung des Vorjahres
+- [[Consorsbank Girokonto 0250120493]] — Gehaltskonto
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Doctolib 2026]] — entity summary page
-- [[HEK]] — health insurance provider
-- [[Fixkosten Übersicht]] — fixed costs relative to netto income
-- [[ESt 2025]] — prior tax year filing
-- [[Consorsbank Girokonto 0250120493]] — salary deposit account
-- [[P2 Diesen Monat]] — PKW optimization task
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — employee
+- [[Doctolib 2026]] — Entitätszusammenfassung
+- [[HEK]] — Krankenversicherungsanbieter
+- [[Fixkosten Übersicht]] — Fixkosten im Verhältnis zum Nettoeinkommen
+- [[ESt 2025]] — Steuererklärung des Vorjahres
+- [[Consorsbank Girokonto 0250120493]] — Gehaltskonto
+- [[P2 Diesen Monat]] — PKW-Optimierungsaufgabe
+- [[MOC Finanzen]] — übergeordnetes Finanzen-MOC
+- [[Oleg Personal Context]] — Arbeitnehmer

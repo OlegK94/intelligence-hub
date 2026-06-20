@@ -1,63 +1,63 @@
 ---
-title: Cyprus Relocation
+title: Zypern Relocation
 type: entity
 tags: [cyprus, relocation, someday, auswandern, steuer, portugal, expat, finanzen, paused]
 sources: ["raw/inbox/Cyprus Relocation Tracker.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Someday/paused relocation plan — Oleg considering Cyprus over Portugal for tax reasons (50% exemption for new residents); budget ~4,100 €/month for couple + dog, startup capital 30,000–35,000 €; not an active project, revisit in a few years
+summary: Someday/Paused Umzugsplan — Oleg erwägt Zypern statt Portugal aus steuerlichen Gründen (50 % Steuerbefreiung für Neuansässige); Budget ~4.100 €/Monat für Paar + Hund, Startkapital 30.000–35.000 €; kein aktives Projekt, Wiedervorlage in einigen Jahren
 ---
 
-# Cyprus Relocation
+# Zypern Relocation
 
-## Overview
+## Überblick
 
-**Cyprus Relocation** is a paused, someday-bucket relocation plan for [[Oleg Personal Context|Oleg]]. It is **not an active project** as of June 2026 — the file exists as a reference and requires no active tracking.
+**Zypern Relocation** ist ein pausierter Someday-Bucket-Umzugsplan für [[Oleg Personal Context|Oleg]]. Es handelt sich **nicht um ein aktives Projekt** (Stand Juni 2026) — die Datei dient als Referenz und erfordert kein aktives Tracking.
 
-> **Status: Paused.** Oleg plans to revisit relocation in a few years. No active tracking needed.
+> **Status: Pausiert.** Oleg plant, das Thema Relocation in einigen Jahren erneut aufzugreifen. Kein aktives Tracking erforderlich.
 
-## Why Cyprus (Over Portugal)
+## Warum Zypern (statt Portugal)
 
-Cyprus was favored over Portugal as a relocation destination primarily due to tax advantages:
+Zypern wurde als Umzugsziel gegenüber Portugal vor allem aufgrund steuerlicher Vorteile bevorzugt:
 
-- **50% Steuer-Exemption** for new residents (Non-Dom status) — significantly more favorable than Portugal's NHR regime
-- Portugal's NHR scheme has been modified/discontinued in its original form, reducing its attractiveness
+- **50 % Steuer-Exemption** für Neuansässige (Non-Dom-Status) — deutlich vorteilhafter als Portugals NHR-Regelung
+- Portugals NHR-Regelung wurde in ihrer ursprünglichen Form geändert bzw. abgeschafft, was ihre Attraktivität mindert
 
-## Budget Parameters
+## Budgetparameter
 
 | Parameter | Richtwert |
 |---|---|
 | Lebenshaltungskosten | ~4.100 €/Monat (Paar + Hund) |
 | Startkapital | 30.000–35.000 € |
 
-These are rough reference figures from the initial planning phase — not validated against current Cyprus costs.
+Dies sind grobe Richtwerte aus der ersten Planungsphase — nicht gegen aktuelle Kosten auf Zypern validiert.
 
-## When It Becomes Relevant Again
+## Wann das Thema wieder relevant wird
 
-When relocation is revisited:
-- **EOR (Employer of Record)** arrangements to review — needed if maintaining employment while abroad
-- **Steuerberater** consultation — Cyprus tax residency, German exit taxation
-- **Timeline** — re-evaluate life circumstances and business situation
-- Either reactivate this file or create a new tracker
+Wenn die Relocation erneut aufgegriffen wird:
+- **EOR (Employer of Record)**-Vereinbarungen prüfen — erforderlich, wenn ein Arbeitsverhältnis im Ausland fortgeführt werden soll
+- **Steuerberater**-Konsultation — Steuerwohnsitz Zypern, deutsche Wegzugsbesteuerung
+- **Zeitplan** — Lebensumstände und Geschäftssituation neu bewerten
+- Diese Datei reaktivieren oder einen neuen Tracker anlegen
 
-## Strategic Tensions
+## Strategische Spannungsfelder
 
-This plan is in **direct tension** with [[Café Berlin Partnership Hai]], which is Priority 1 as of June 2026 and requires Oleg's physical presence in Berlin during Phase 1 build-out. The café venture is a multi-year commitment that effectively defers relocation further.
+Dieser Plan steht in **direktem Widerspruch** zu [[Café Berlin Partnership Hai]], das seit Juni 2026 Priorität 1 hat und Olegs physische Präsenz in Berlin während des Phase-1-Aufbaus erfordert. Das Café-Vorhaben ist eine mehrjährige Verpflichtung, die eine Relocation weiter nach hinten verschiebt.
 
-See also the tension flagged in [[Café Berlin Partnership Hai]] entity page:
-> *"Priority 1 is a Berlin-based physical business; Priority 3 is leaving Berlin. These goals are currently in tension."*
+Siehe auch die im Entity-Artikel [[Café Berlin Partnership Hai]] vermerkte Spannung:
+> *„Priorität 1 ist ein Berliner Präsenzgeschäft; Priorität 3 ist, Berlin zu verlassen. Diese Ziele stehen derzeit im Widerspruch."*
 
-## Context in Oleg's Strategy
+## Einordnung in Olegs Strategie
 
-- Listed in the paused/someday bucket — not in the active priority stack
-- Prior to the café venture, this had more immediacy; now de-prioritized further
-- The 50% tax exemption is a meaningful financial lever for [[Financial Independence]] goals — relevant when business income scales
+- Im Paused/Someday-Bucket gelistet — nicht im aktiven Prioritätenstapel
+- Vor dem Café-Vorhaben hatte dieses Thema mehr Dringlichkeit; nun weiter de-priorisiert
+- Die 50 % Steuerbefreiung ist ein bedeutsamer finanzieller Hebel für [[Financial Independence]]-Ziele — relevant, wenn Geschäftseinkünfte skalieren
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Personal Context]] — subject of the relocation
-- [[Café Berlin Partnership Hai]] — Priority 1 project creating strategic tension
-- [[Financial Independence]] — underlying motivation for tax-efficient relocation
-- [[MOC Strategie und Business]] — strategic overview
-- [[MOC Finanzen]] — financial planning context
-- [[Cyprus Relocation Tracker Source Detail]] — raw source document
+- [[Oleg Personal Context]] — Person, auf die sich die Relocation bezieht
+- [[Café Berlin Partnership Hai]] — Priorität-1-Projekt, das strategische Spannungen erzeugt
+- [[Financial Independence]] — zugrundeliegende Motivation für steuereffiziente Relocation
+- [[MOC Strategie und Business]] — strategischer Überblick
+- [[MOC Finanzen]] — finanzplanerischer Kontext
+- [[Cyprus Relocation Tracker Source Detail]] — rohes Quelldokument

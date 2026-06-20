@@ -5,54 +5,54 @@ tags: [versicherung, tierversicherung, hund, finanzen, fixkosten, optimierung, 2
 sources: ["raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Uelzener Tierversicherung — pet (dog) insurance costing 132.48 €/month; third-largest insurance item in Oleg's fixed costs; flagged for market comparison by 2026-07-31
+summary: Uelzener Tierversicherung — Tierkrankenversicherung (Hund) mit monatlichen Kosten von 132,48 €; drittgrößter Versicherungsposten in Olegs Fixkosten; zur Marktkontrolle bis 2026-07-31 vorgemerkt
 ---
 
 # Uelzener Tierversicherung
 
-## Overview
+## Überblick
 
-**Uelzener Tierversicherung** is [[Oleg Personal Context|Oleg]]'s pet insurance provider for his dog. The contract is with **Uelzener Versicherungen**, a German insurer specializing in animal insurance. At **132,48 €/month (1,589.76 €/year)**, it is the **third-largest line item** in Oleg's fixed costs after rent and the VW Konsumkredit.
+**Uelzener Tierversicherung** ist [[Oleg Personal Context|Olegs]] Tierversicherungsanbieter für seinen Hund. Der Vertrag besteht mit den **Uelzener Versicherungen**, einem deutschen Versicherer, der auf Tierversicherungen spezialisiert ist. Mit **132,48 €/Monat (1.589,76 €/Jahr)** ist sie der **drittgrößte Einzelposten** in Olegs Fixkosten – nach der Miete und dem VW Konsumkredit.
 
-## Contract Details
+## Vertragsdetails
 
 | Parameter | Wert |
 |---|---|
 | **Anbieter** | Uelzener Versicherungen |
-| **Tier** | Hund (dog) |
+| **Tier** | Hund |
 | **Monatsbeitrag** | 132,48 € |
 | **Jahresbeitrag** | 1.589,76 € |
 | **Status** | Aktiv |
 
-## Optimization Context
+## Optimierungskontext
 
-The [[Fixkosten Übersicht]] explicitly flags this contract as an **optimization target**:
+Die [[Fixkosten Übersicht]] kennzeichnet diesen Vertrag ausdrücklich als **Optimierungsziel**:
 
-- **Task:** Vergleichsangebote prüfen (compare market offers)
-- **Deadline:** 2026-07-31
-- **Potential saving:** Market comparison may yield lower premiums for equivalent coverage
+- **Aufgabe:** Vergleichsangebote prüfen
+- **Frist:** 2026-07-31
+- **Einsparpotenzial:** Ein Marktvergleich kann niedrigere Prämien bei gleichwertigem Versicherungsschutz ergeben
 
-### Comparison Providers to Consider
+### Mögliche Vergleichsanbieter
 
-- **[[Barmenia]]** — also offers Tierversicherung (per existing wiki note)
+- **[[Barmenia]]** — bietet ebenfalls Tierversicherung an (laut vorhandenem Wiki-Eintrag)
 - HanseMerkur Tierversicherung
-- Agila (often competitive for dogs)
+- Agila (häufig wettbewerbsfähig für Hunde)
 - Petplan Deutschland
 
-> ⚠️ **Assumption [A]:** Coverage level and dog breed are not specified in the source. Premium comparison is only meaningful with equivalent coverage tiers.
+> ⚠️ **Annahme [A]:** Deckungsumfang und Hunderasse sind in der Quelle nicht angegeben. Ein Prämienvergleich ist nur bei gleichwertigen Leistungsstufen aussagekräftig.
 
-## Cost Context
+## Kostenkontext
 
-At 132,48 €/Mo, the Uelzener Tierversicherung costs:
-- More than the combined Allianz RLV (31,55 €) + Allianz PKV (22,62 €) + Barmenia KV (33,00 €) = 87,17 €
-- More than RSG/John Reed (40 €) + Netflix (19,99 €) + Spotify (21,99 €) + Proton (12,99 €) combined = 94,97 €
+Bei 132,48 €/Monat kostet die Uelzener Tierversicherung:
+- Mehr als Allianz RLV (31,55 €) + Allianz PKV (22,62 €) + Barmenia KV (33,00 €) zusammen = 87,17 €
+- Mehr als RSG/John Reed (40 €) + Netflix (19,99 €) + Spotify (21,99 €) + Proton (12,99 €) zusammen = 94,97 €
 
-This underscores why it is a priority for optimization review.
+Dies unterstreicht, warum sie bei der Optimierungsprüfung Priorität hat.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Fixkosten Übersicht]] — budget context
-- [[Fixkosten Übersicht Source Detail]] — source
-- [[Barmenia]] — alternative/comparison provider
-- [[MOC Finanzen]] — parent finance MOC
-- [[Oleg Personal Context]] — policyholder
+- [[Fixkosten Übersicht]] — Budgetkontext
+- [[Fixkosten Übersicht Source Detail]] — Quelle
+- [[Barmenia]] — alternativer Anbieter / Vergleichsanbieter
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Versicherungsnehmer

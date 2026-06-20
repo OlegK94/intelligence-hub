@@ -1,100 +1,100 @@
 ---
-title: Biomarker Testing
+title: Biomarker-Testing
 type: concept
 tags: [biomarkers, tracking, blood-panel, longevity, health, performance, measurement, ApoB, quarterly]
 sources: ["raw/Privat/Performance/_vault/Blutbild Panel.md", "raw/Privat/Performance/_vault/00 Performance-Übersicht.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Systematic blood biomarker testing as a health optimization and longevity tracking strategy — Oleg's protocol uses 24 markers quarterly with longevity-optimized reference ranges distinct from standard clinical norms
+summary: Systematisches Blut-Biomarker-Testing als Strategie zur Gesundheitsoptimierung und Longevity-Tracking — Olegs Protokoll umfasst 24 Marker quartalsweise mit longevity-optimierten Referenzbereichen, die sich deutlich von klinischen Standardwerten unterscheiden
 ---
 
-# Biomarker Testing
+# Biomarker-Testing
 
-## Overview
+## Überblick
 
-Biomarker testing refers to systematic measurement of blood (and other body fluid) markers to assess health status, track trends, and guide optimization decisions. In the context of longevity and performance optimization, biomarker testing uses **longevity-optimized reference ranges** rather than standard clinical norms — the distinction is important.
+Biomarker-Testing bezeichnet die systematische Messung von Blut- (und anderen Körperflüssigkeits-)Markern, um den Gesundheitszustand zu bewerten, Trends zu verfolgen und Optimierungsentscheidungen zu treffen. Im Kontext von Longevity und Performance-Optimierung werden dabei **longevity-optimierte Referenzbereiche** statt klinischer Standardwerte verwendet — dieser Unterschied ist entscheidend.
 
-## Longevity-Optimized vs. Standard Reference Ranges
+## Longevity-optimierte vs. klinische Standardreferenzbereiche
 
-A key insight from [[Peter Attia]]'s framework (reflected in [[Blutbild Panel]]):
+Eine zentrale Erkenntnis aus [[Peter Attia]]s Framework (abgebildet in [[Blutbild Panel]]):
 
-| Marker | Standard Clinical "Normal" | Longevity-Optimized Target | Why Different |
+| Marker | Klinisch „Normal" (Standard) | Longevity-optimiertes Ziel | Warum unterschiedlich |
 |---|---|---|---|
-| ApoB | <130 mg/dL (varies) | **<70 mg/dL** | Standard permits levels associated with elevated long-term CVD risk |
-| Nüchtern-Glucose | <100 mg/dL | **70–85 mg/dL** | Lower range optimal for metabolic health |
-| HbA1c | <5.7% | **<5,2%** | Standard threshold is pre-diabetic range; longevity target is tighter |
-| hsCRP | <10 mg/L (infection marker) | **<0,5 mg/L** | Standard range designed for infection detection, not chronic inflammation |
-| TSH | 0.4–4.0 mIU/L | **1,0–2,0 mIU/L** | Narrower optimal range within the broad clinical normal |
+| ApoB | <130 mg/dL (variiert) | **<70 mg/dL** | Standardwert erlaubt Werte, die mit erhöhtem Langzeit-CVD-Risiko verbunden sind |
+| Nüchtern-Glucose | <100 mg/dL | **70–85 mg/dL** | Niedrigerer Bereich optimal für Stoffwechselgesundheit |
+| HbA1c | <5,7% | **<5,2%** | Standardschwelle liegt im prädiabetischen Bereich; Longevity-Ziel ist enger gefasst |
+| hsCRP | <10 mg/L (Infektionsmarker) | **<0,5 mg/L** | Standardbereich zur Infektionserkennung konzipiert, nicht für chronische Entzündung |
+| TSH | 0,4–4,0 mIU/L | **1,0–2,0 mIU/L** | Engerer Optimalbereich innerhalb des breiten klinischen Normalbereichs |
 
-**The gap between "not sick" and "optimized" is the space that longevity-focused biomarker testing addresses.**
+**Die Lücke zwischen „nicht krank" und „optimiert" ist genau der Bereich, den longevity-fokussiertes Biomarker-Testing adressiert.**
 
-## Oleg's Protocol
+## Olegs Protokoll
 
-See [[Blutbild Panel]] for the complete 24-marker panel with all target ranges.
+Siehe [[Blutbild Panel]] für das vollständige 24-Marker-Panel mit allen Zielwerten.
 
 | Parameter | Detail |
 |---|---|
-| Markers | 24 total |
-| Timepoints | 4 per year (quarterly) |
-| Fasting | 12h before each draw |
-| Priority split | 11 core + 13 extended |
-| Format | PDF generated |
+| Marker | 24 gesamt |
+| Zeitpunkte | 4 pro Jahr (quartalsweise) |
+| Nüchtern | 12h vor jeder Blutentnahme |
+| Prioritätsaufteilung | 11 Kern + 13 erweitert |
+| Format | PDF wird erstellt |
 
-## Marker Categories
+## Marker-Kategorien
 
-### Cardiovascular Risk
-- **ApoB** (Priority 1) — particle count, superior to LDL-C
-- **LDL-C, HDL-C, Triglycerides** (Priority 2) — standard lipid panel
-- **Homocysteine** (Priority 2) — independent CVD and neurological risk factor
+### Kardiovaskuläres Risiko
+- **ApoB** (Priorität 1) — Partikelanzahl, überlegen gegenüber LDL-C
+- **LDL-C, HDL-C, Triglyzeride** (Priorität 2) — Standard-Lipidpanel
+- **Homocystein** (Priorität 2) — unabhängiger CVD- und neurologischer Risikofaktor
 
-### Metabolic Health
-- **Fasting Glucose, HbA1c, Fasting Insulin** (Priority 1) — full glucose/insulin axis
-- **Triglycerides** (Priority 2) — metabolic health proxy
+### Stoffwechselgesundheit
+- **Nüchtern-Glucose, HbA1c, Nüchtern-Insulin** (Priorität 1) — vollständige Glucose-/Insulinachse
+- **Triglyzeride** (Priorität 2) — Proxy für Stoffwechselgesundheit
 
-### Hormonal Status
-- **Total Testosterone, SHBG, Free Testosterone** (Priority 1) — male hormone axis
-- **IGF-1** (Priority 1) — growth hormone axis
-- **TSH** (Priority 1) — thyroid function
-- **Cortisol (morning)** (Priority 2) — HPA-axis, stress regulation
+### Hormoneller Status
+- **Gesamt-Testosteron, SHBG, freies Testosteron** (Priorität 1) — männliche Hormonachse
+- **IGF-1** (Priorität 1) — Wachstumshormonachse
+- **TSH** (Priorität 1) — Schilddrüsenfunktion
+- **Cortisol (morgens)** (Priorität 2) — HPA-Achse, Stressregulation
 
-### Inflammation
-- **hsCRP** (Priority 1) — systemic low-grade inflammation
+### Entzündung
+- **hsCRP** (Priorität 1) — systemische niedriggradige Entzündung
 
-### Organ Health
-- **ALT, AST, GGT** (Priority 2) — liver function
-- **Creatinine, eGFR** (Priority 2) — kidney function
+### Organgesundheit
+- **ALT, AST, GGT** (Priorität 2) — Leberfunktion
+- **Kreatinin, eGFR** (Priorität 2) — Nierenfunktion
 
-### Micronutrients
-- **Vitamin D (25-OH)** (Priority 1) — immune and performance function
-- **Ferritin** (Priority 2) — iron stores
-- **Magnesium (intracellular)** (Priority 2) — muscle/nerve function
-- **B12** (Priority 2) — neurological function
-- **Omega-3 Index** (Priority 2) — inflammation balance
+### Mikronährstoffe
+- **Vitamin D (25-OH)** (Priorität 1) — Immun- und Leistungsfunktion
+- **Ferritin** (Priorität 2) — Eisenspeicher
+- **Magnesium (intrazellulär)** (Priorität 2) — Muskel-/Nervenfunktion
+- **B12** (Priorität 2) — neurologische Funktion
+- **Omega-3-Index** (Priorität 2) — Entzündungsbalance
 
-## Relationship to Other Tracking Methods
+## Verhältnis zu anderen Tracking-Methoden
 
-Biomarker testing is one of three pillars of Oleg's health tracking:
+Biomarker-Testing ist eine von drei Säulen in Olegs Gesundheits-Tracking:
 
-| Method | Measures | Cadence |
+| Methode | Misst | Rhythmus |
 |---|---|---|
-| [[Blutbild Panel]] | Internal biochemistry | Quarterly |
-| [[3D Body Scan]] | Body composition, posture | ~12 weeks |
-| [[Health Protocol Master]] | Protocol adherence + daily metrics | Daily/weekly |
+| [[Blutbild Panel]] | Innere Biochemie | Quartalsweise |
+| [[3D Body Scan]] | Körperzusammensetzung, Haltung | ~12 Wochen |
+| [[Health Protocol Master]] | Protokolladhärenz + tägliche Metriken | Täglich/wöchentlich |
 
-## Key Practical Note: ApoB
+## Wichtiger praktischer Hinweis: ApoB
 
-**ApoB must be specifically requested** — it is not included in standard German blood panels. This is the single most important practical step to ensure Priority 1 coverage:
-> *"ApoB separat anfordern — explizit beim Arzt anfordern."* — [[Blutbild Panel Source Detail]]
+**ApoB muss explizit angefordert werden** — er ist nicht in deutschen Standard-Blutpanels enthalten. Dies ist der wichtigste praktische Schritt, um Priorität-1-Abdeckung sicherzustellen:
+> *„ApoB separat anfordern — explizit beim Arzt anfordern."* — [[Blutbild Panel Source Detail]]
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Blutbild Panel]] — Oleg's specific 24-marker panel
-- [[Blutbild Panel Source Detail]] — source document
-- [[3D Body Scan]] — complementary body composition tracking
-- [[3D Body Scan Scaneca Mai 2026]] — specific baseline event
-- [[Health Protocol Master]] — protocol context
-- [[Peter Attia]] — longevity biomarker framework
-- [[Supplement Stack]] — supplementation informed by biomarker results
-- [[BMR and TDEE]] — metabolic metrics context
-- [[Oleg Personal Context]] — subject
-- [[MOC Performance und Leben]] — parent MOC
+- [[Blutbild Panel]] — Olegs spezifisches 24-Marker-Panel
+- [[Blutbild Panel Source Detail]] — Quelldokument
+- [[3D Body Scan]] — ergänzendes Körperzusammensetzungs-Tracking
+- [[3D Body Scan Scaneca Mai 2026]] — spezifisches Baseline-Event
+- [[Health Protocol Master]] — Protokollkontext
+- [[Peter Attia]] — Longevity-Biomarker-Framework
+- [[Supplement Stack]] — Supplementierung auf Basis der Biomarker-Ergebnisse
+- [[BMR and TDEE]] — Kontext metabolischer Metriken
+- [[Oleg Personal Context]] — betreffende Person
+- [[MOC Performance und Leben]] — übergeordnete MOC

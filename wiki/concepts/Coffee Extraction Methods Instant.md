@@ -1,20 +1,20 @@
 ---
-title: Coffee Extraction Methods Instant
+title: Kaffee-Extraktionsmethoden Instant
 type: concept
 tags: [coffee, instant-coffee, freeze-dried, spray-dried, spray-freeze-dried, cold-brew, extraction, CGA, bioactive, performance-cafe, CMO, manufacturing]
 sources: ["raw/Business/PerformanceCafe/research/03_kaffee_specs.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Four instant coffee extraction methods compared for longevity/performance application — Freeze-Dried recommended for Phase 1 (70–85% CGA retention, 15–25 €/kg, high EU CMO availability); Spray-Freeze-Dried as Phase 2 option; cost chain from green bean to finished sachet
+summary: Vier Instant-Kaffee-Extraktionsmethoden im Vergleich für Longevity/Performance-Anwendung — Freeze-Dried empfohlen für Phase 1 (70–85% CGA-Erhalt, 15–25 €/kg, hohe EU-CMO-Verfügbarkeit); Spray-Freeze-Dried als Phase-2-Option; Kostenkette von Grünkaffee bis zum fertigen Sachet
 ---
 
-# Coffee Extraction Methods — Instant Coffee Comparison
+# Kaffee-Extraktionsmethoden — Instant-Kaffee-Vergleich
 
-## Overview
+## Überblick
 
-For the [[Performance Coffee Brand]] Instant-Kaffee-Sachet, the choice of instant coffee production method significantly impacts both bioactive retention ([[Chlorogenic Acid]], [[Trigonellin NAD Precursor]]) and commercial viability. Four methods are evaluated.
+Für das [[Performance Coffee Brand|Performance-Coffee-Brand]] Instant-Kaffee-Sachet hat die Wahl der Instant-Kaffee-Produktionsmethode erheblichen Einfluss sowohl auf die Bioaktiv-Retention ([[Chlorogenic Acid|Chlorogensäure]], [[Trigonellin NAD Precursor|Trigonellin NAD-Vorläufer]]) als auch auf die kommerzielle Tragfähigkeit. Vier Methoden werden bewertet.
 
-## Method Comparison
+## Methodenvergleich
 
 | Kriterium | Spray-Dried | **Freeze-Dried** | Spray-Freeze-Dried | Cold Brew Gefriergetrocknet |
 |---|---|---|---|---|
@@ -27,51 +27,51 @@ For the [[Performance Coffee Brand]] Instant-Kaffee-Sachet, the choice of instan
 | **Löslichkeit** | Sehr gut | **Gut** | Gut | Gut |
 | **Empfehlung Phase 1** | Nein | **JA** | Option Phase 2 | Nein |
 
-## Method Descriptions
+## Methodenbeschreibungen
 
-### 1. Spray-Dried (Rejected for Phase 1)
+### 1. Spray-Dried (Für Phase 1 abgelehnt)
 
-**Process:** Liquid extract sprayed through a nozzle into hot drying gas (200–250°C) → instant powder
+**Verfahren:** Flüssigextrakt wird durch eine Düse in heißes Trocknungsgas (200–250°C) gesprüht → Instantpulver
 
-**Key issues:**
-- Lowest CGA retention (50–65%) — heat exposure during drying
-- Lowest aroma quality (40–55% volatiles lost)
-- "Instant-typisch" flat flavor profile
-- Lower ingredient cost but not compatible with longevity positioning
+**Wesentliche Probleme:**
+- Geringster CGA-Erhalt (50–65%) — Hitzeeinwirkung beim Trocknen
+- Geringste Aromaqualität (40–55% der flüchtigen Stoffe gehen verloren)
+- Typisch flaches Geschmacksprofil wie herkömmlicher Instantkaffee
+- Niedrigere Rohstoffkosten, jedoch nicht vereinbar mit Longevity-Positionierung
 
-### 2. Freeze-Dried — RECOMMENDED Phase 1
+### 2. Freeze-Dried — EMPFOHLEN für Phase 1
 
-**Process:**
+**Verfahren:**
 1. Rösten (Medium-Light)
 2. Extraktion mit heißem Wasser (80–95°C) → Flüssigextrakt
 3. Abkühlen → Einfrieren bei −40°C bis −55°C (Blitzgefrieren)
 4. Vakuum-Sublimation: Wasser von fest → gasförmig (keine Hitze)
 5. Granulat/Pulver brechen und sieben
 
-**CGA retention: 70–85%** (of post-roast content) — best commercially available process
-**Taste quality:** High — industry gold standard for instant coffee
-**EU CMO availability:** High — multiple established CMOs in Hamburg, Spain, Eastern Europe
+**CGA-Erhalt: 70–85%** (des Gehalts nach der Röstung) — bestes kommerziell verfügbares Verfahren
+**Geschmacksqualität:** Hoch — Goldstandard der Industrie für Instantkaffee
+**EU-CMO-Verfügbarkeit:** Hoch — mehrere etablierte CMOs in Hamburg, Spanien, Osteuropa
 
-### 3. Spray-Freeze-Dried (SFD) — Phase 2 Option
+### 3. Spray-Freeze-Dried (SFD) — Option für Phase 2
 
-**Process:** Extract sprayed into microdroplets → flash-frozen in liquid nitrogen → freeze-dried
+**Verfahren:** Extrakt wird zu Mikrotröpfchen versprüht → Blitzgefrieren in flüssigem Stickstoff → Gefriertrocknung
 
-**CGA retention: up to 85%** — highest in comparison studies (ScienceDirect 2022)
-**Cost:** +20–40% vs. classical Freeze-Dried
-**Availability:** Limited — some Asian CMOs; limited EU presence
-**Recommendation:** Evaluate in Phase 2 if budget allows and SFD CMO identified in EU
+**CGA-Erhalt: bis zu 85%** — höchster Wert in Vergleichsstudien (ScienceDirect 2022)
+**Kosten:** +20–40% gegenüber klassischem Freeze-Dried
+**Verfügbarkeit:** Begrenzt — einige asiatische CMOs; geringe EU-Präsenz
+**Empfehlung:** In Phase 2 prüfen, wenn das Budget es erlaubt und ein SFD-CMO in der EU identifiziert wurde
 
-### 4. Cold Brew Freeze-Dried (Rejected Phase 1)
+### 4. Cold Brew Freeze-Dried (Für Phase 1 abgelehnt)
 
-**Process:** Cold extraction (<25°C, 12–24h) → concentrate → freeze-drying
+**Verfahren:** Kaltextraktion (<25°C, 12–24 Std.) → Konzentrat → Gefriertrocknung
 
-**CGA retention: 80–90%** — highest because no heat during extraction
-**Bitterness:** Much lower (no protonation of bitter compounds at cold temperatures)
-**Cost:** 30–50 €/kg — 2–3× Freeze-Dried
-**B2B availability in EU:** Very limited; still niche market
-**Recommendation:** Revisit in Phase 3 if "premium" or "low-bitterness" positioning becomes priority
+**CGA-Erhalt: 80–90%** — höchster Wert, da keine Hitze während der Extraktion
+**Bitterkeit:** Deutlich geringer (keine Protonierung bitterer Verbindungen bei Kalttemperaturen)
+**Kosten:** 30–50 €/kg — 2–3× gegenüber Freeze-Dried
+**B2B-Verfügbarkeit in der EU:** Sehr begrenzt; weiterhin Nischenmarkt
+**Empfehlung:** In Phase 3 erneut prüfen, falls eine „Premium"- oder „geringe Bitterkeit"-Positionierung zur Priorität wird
 
-## Cost Chain — Green Bean to Sachet
+## Kostenkette — Grünkaffee bis Sachet
 
 | Prozessschritt | Kosten €/kg |
 |---|---|
@@ -82,9 +82,9 @@ For the [[Performance Coffee Brand]] Instant-Kaffee-Sachet, the choice of instan
 | **Gesamt Freeze-Dried Endprodukt** | **~18–28 €/kg** |
 | **Pro 2g-Sachet Kaffeeanteil** | **0.04–0.06 €** |
 
-**Key insight:** Coffee COGS in the sachet are extremely low (4–6 cents per sachet), even with premium Freeze-Dried processing. The cost is dominated by functional ingredients, packaging, and CMO overhead.
+**Wichtige Erkenntnis:** Die Kaffee-COGS im Sachet sind extrem niedrig (4–6 Cent pro Sachet), selbst bei Premium-Freeze-Dried-Verarbeitung. Die Kosten werden von funktionellen Zutaten, Verpackung und CMO-Gemeinkosten dominiert.
 
-## EU CMO Contacts for Freeze-Dried
+## EU-CMO-Kontakte für Freeze-Dried
 
 | Firma | Standort | Website |
 |---|---|---|
@@ -94,22 +94,22 @@ For the [[Performance Coffee Brand]] Instant-Kaffee-Sachet, the choice of instan
 | JDE (Jacobs Douwe Egberts) | Amsterdam / DE | via Geschäftsbeziehung |
 | Olympic Coffee | Osteuropa / EU | Europages |
 
-Note: OFI has production assets in Vietnam for Instant extracts — potentially vertically integrated sourcing.
+Hinweis: OFI verfügt über Produktionsanlagen in Vietnam für Instant-Extrakte — potenziell vertikal integrierte Beschaffung.
 
-## Integration with CMO Sourcing
+## Integration mit CMO-Beschaffung
 
-The Freeze-Dried recommendation directly informs [[CMO Sourcing Performance Coffee]]:
-- CMO must have Freeze-Dried capability
-- Not all CMOs in the [[CMO Erstkontakt Email Template]] list are Freeze-Dried specialists — this is a screening criterion
-- Freeze-Dried and functional ingredient formulation are different competencies; CMO may need both or the product may be assembled in two steps
+Die Freeze-Dried-Empfehlung fließt direkt in [[CMO Sourcing Performance Coffee|CMO-Beschaffung Performance Coffee]] ein:
+- Der CMO muss über Freeze-Dried-Kapazitäten verfügen
+- Nicht alle CMOs auf der Liste im [[CMO Erstkontakt Email Template|CMO-Erstkontakt-E-Mail-Template]] sind Freeze-Dried-Spezialisten — dies ist ein Auswahlkriterium
+- Freeze-Dried und die Formulierung funktioneller Zutaten sind unterschiedliche Kompetenzen; der CMO muss beides beherrschen oder das Produkt wird in zwei Schritten konfektioniert
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Chlorogenic Acid]] — bioactive most affected by extraction choice
-- [[Trigonellin NAD Precursor]] — secondary bioactive
-- [[Coffee Roast Profile Longevity]] — upstream process feeding into extraction
-- [[Coffee Blend Ratios]] — blend that goes into the extraction process
-- [[CMO Sourcing Performance Coffee]] — CMO must support Freeze-Dried
-- [[EU Green Coffee Importers]] — upstream sourcing
-- [[Kaffee Spezifikation Modul 2]] — source document
-- [[Performance Coffee Brand]] — application context
+- [[Chlorogenic Acid|Chlorogensäure]] — Bioaktivstoff, der am stärksten von der Extraktionswahl beeinflusst wird
+- [[Trigonellin NAD Precursor|Trigonellin NAD-Vorläufer]] — sekundärer Bioaktivstoff
+- [[Coffee Roast Profile Longevity|Kaffee-Röstprofil Longevity]] — vorgelagerter Prozess, der in die Extraktion einfließt
+- [[Coffee Blend Ratios|Kaffee-Blend-Verhältnisse]] — Blend, der in den Extraktionsprozess eingeht
+- [[CMO Sourcing Performance Coffee|CMO-Beschaffung Performance Coffee]] — CMO muss Freeze-Dried unterstützen
+- [[EU Green Coffee Importers|EU-Grünkaffee-Importeure]] — vorgelagerte Beschaffung
+- [[Kaffee Spezifikation Modul 2]] — Quelldokument
+- [[Performance Coffee Brand]] — Anwendungskontext

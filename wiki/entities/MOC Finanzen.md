@@ -5,50 +5,50 @@ tags: [moc, finanzen, privat, navigation, banking, steuern, 2026]
 sources: ["raw/Privat/Finanzen/00 MOC Finanzen.md", "raw/Privat/Finanzen/Archiv/GESAMTANALYSE Archiv.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Master navigation hub for Oleg's private finances — links to accounts, tax filing, costs, and income sources; supersedes the archived GESAMTANALYSE (Jan 2025–Jun 2026)
+summary: Zentrale Navigationshub für Olegs Privatfinanzen — verknüpft Konten, Steuererklärung, Kosten und Einkommensquellen; ersetzt die archivierte GESAMTANALYSE (Jan 2025–Jun 2026)
 ---
 
 # MOC Finanzen
 
-## Overview
+## Überblick
 
-**MOC Finanzen** is [[Oleg Personal Context|Oleg]]'s master financial navigation hub (Map of Content). It consolidates links to all active financial pages — banking accounts, tax matters, cost overviews, and income sources.
+**MOC Finanzen** ist [[Oleg Personal Context|Olegs]] zentrale finanzielle Navigationshub (Map of Content). Sie bündelt Links zu allen aktiven Finanzseiten — Bankkonten, Steuerangelegenheiten, Kostenübersichten und Einkommensquellen.
 
-> For historical context (Jan 2025 – Jun 2026 initial analysis), see [[GESAMTANALYSE Archiv Source Detail]].
+> Für historischen Kontext (Jan 2025 – Jun 2026, Erstanalyse) siehe [[GESAMTANALYSE Archiv Source Detail]].
 
-## Archive Note
+## Archivhinweis
 
-The [[GESAMTANALYSE Archiv Source Detail]] documents that a comprehensive initial financial analysis was completed for the period **Jan 2025 – Jun 2026**, with results stored in:
+Die [[GESAMTANALYSE Archiv Source Detail]] dokumentiert, dass eine umfassende finanzielle Erstanalyse für den Zeitraum **Jan 2025 – Jun 2026** abgeschlossen wurde, mit Ergebnissen gespeichert in:
 - `Finanzdaten_Privat/GESAMTANALYSE_Oleg_Kober_2025-2026.md`
 - `Finanzdaten_Privat/Finanzdashboard_Oleg_Kober_2026.html`
 
-This MOC represents the **current** (post-archive) financial navigation layer.
+Dieser MOC stellt die **aktuelle** (nach der Archivierung) finanzielle Navigationsebene dar.
 
-## Key Financial Pages
+## Wichtige Finanzseiten
 
-### Banking & Accounts
-- [[Consorsbank Girokonto 0250120493]] — primary personal current account
-- [[Wagglz Finom 2026]] — Wagglz business account
-- [[OK Capital Finom 2026]] — OK Capital business account
+### Banking & Konten
+- [[Consorsbank Girokonto 0250120493]] — primäres persönliches Girokonto
+- [[Wagglz Finom 2026]] — Wagglz Geschäftskonto
+- [[OK Capital Finom 2026]] — OK Capital Geschäftskonto
 
-### Income
-- [[Doctolib 2026]] — primary active employment income
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — 2025 GF salary from Wagglz
-- [[ALG I 2025]] — unemployment benefit received in 2025
+### Einkommen
+- [[Doctolib 2026]] — primäres aktives Beschäftigungseinkommen
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — GF-Gehalt 2025 von Wagglz
+- [[ALG I 2025]] — erhaltenes Arbeitslosengeld 2025
 
-### Tax
-- [[ESt 2025]] — 2025 income tax filing
-- [[ALG I Progressionsvorbehalt]] — tax mechanism for ALG I
-- [[SP STB]] — tax advisor
+### Steuern
+- [[ESt 2025]] — Einkommensteuererklärung 2025
+- [[ALG I Progressionsvorbehalt]] — steuerlicher Mechanismus für ALG I
+- [[SP STB]] — Steuerberater
 
-### Costs
-- [[Fixkosten Übersicht]] — fixed cost overview
+### Kosten
+- [[Fixkosten Übersicht]] — Übersicht der Fixkosten
 
-### Strategy
-- [[Financial Independence]] — overarching financial goal
+### Strategie
+- [[Financial Independence]] — übergeordnetes finanzielles Ziel
 
-## Related Pages
+## Verwandte Seiten
 
-- [[GESAMTANALYSE Archiv Source Detail]] — archived initial analysis (Jan 2025 – Jun 2026)
-- [[Oleg Personal Context]] — account holder
-- [[MOC Strategie und Business]] — strategic context
+- [[GESAMTANALYSE Archiv Source Detail]] — archivierte Erstanalyse (Jan 2025 – Jun 2026)
+- [[Oleg Personal Context]] — Kontoinhaber
+- [[MOC Strategie und Business]] — strategischer Kontext

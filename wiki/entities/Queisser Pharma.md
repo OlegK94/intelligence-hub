@@ -5,35 +5,35 @@ tags: [performance-cafe, CMO, contract-manufacturing, Flensburg, GMP, ISO-22000,
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: German CMO (Flensburg) listed in Performance Coffee Brand supplier list — NEM, sachets, powder specialist; ISO 22000 + GMP certified; not in top-5 email outreach priority list
+summary: Deutscher CMO (Flensburg) auf der Lieferantenliste der Performance Coffee Brand — NEM-, Sachet- und Pulverspezialist; ISO 22000 + GMP zertifiziert; nicht in der Top-5-Prioritätsliste für die erste E-Mail-Kontaktaufnahme
 ---
 
 # Queisser Pharma
 
-## Overview
+## Überblick
 
-**Queisser Pharma** is a German contract manufacturer based in Flensburg, listed in the [[Performance Coffee Brand]] [[Performance Cafe Supplier List|supplier list]] under "sofort kontaktieren" (contact immediately). It specializes in NEM (Nahrungsergänzungsmittel), sachets, and powder formats with both ISO 22000 and GMP certification.
+**Queisser Pharma** ist ein deutscher Lohnhersteller (CMO) mit Sitz in Flensburg, der in der [[Performance Coffee Brand]] [[Performance Cafe Supplier List|Lieferantenliste]] unter „sofort kontaktieren" aufgeführt ist. Das Unternehmen ist spezialisiert auf NEM (Nahrungsergänzungsmittel), Sachets und Pulverformate und verfügt sowohl über eine ISO 22000- als auch eine GMP-Zertifizierung.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Country** | Germany (Flensburg) |
-| **Specialization** | NEM, Sachets, Pulver |
-| **Certifications** | ISO 22000, GMP |
+| **Land** | Deutschland (Flensburg) |
+| **Spezialisierung** | NEM, Sachets, Pulver |
+| **Zertifizierungen** | ISO 22000, GMP |
 | **Website** | queisser.de |
-| **CMO Priority** | Not in top-5 email list |
+| **CMO-Priorität** | Nicht in der Top-5-E-Mail-Liste |
 
-## Certifications Strength
+## Zertifizierungsstärke
 
-Queisser holds **both ISO 22000 and GMP** — the strongest certification combination in the supplier list alongside [[Aidea]] (GMP + Halal). This makes Queisser one of the best-positioned CMOs for the [[Kölner Liste]] pathway.
+Queisser verfügt über **sowohl ISO 22000 als auch GMP** — die stärkste Zertifizierungskombination in der Lieferantenliste, gleichauf mit [[Aidea]] (GMP + Halal). Damit ist Queisser einer der am besten positionierten CMOs für den [[Kölner Liste]]-Weg.
 
-> ⚠️ **Note:** Despite strong certifications and direct format relevance (NEM + sachets), Queisser Pharma does not appear in the [[CMO Erstkontakt Email Template]] priority list of 5 candidates. Possible explanations: (a) Flensburg location (Northern Germany — less convenient than Düsseldorf/Hamburg); (b) primarily pharmaceutical/NEM focus rather than functional food/coffee; (c) higher MOQs for pilot batches. This gap should be investigated — Queisser's GMP + ISO 22000 dual certification may make it worth adding to outreach.
+> ⚠️ **Hinweis:** Trotz starker Zertifizierungen und direkter Formatrelevanz (NEM + Sachets) erscheint Queisser Pharma nicht in der Prioritätsliste mit 5 Kandidaten des [[CMO Erstkontakt Email Template]]. Mögliche Erklärungen: (a) Standort Flensburg (Norddeutschland — weniger günstig als Düsseldorf/Hamburg); (b) primär pharmazeutischer/NEM-Fokus statt Functional Food/Kaffee; (c) höhere MOQs für Pilotchargen. Diese Lücke sollte untersucht werden — Queissers doppelte GMP + ISO 22000 Zertifizierung könnte es rechtfertigen, das Unternehmen in die Kontaktaufnahme aufzunehmen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Cafe Supplier List]] — source document
-- [[CMO Sourcing Performance Coffee]] — CMO evaluation
-- [[CMO Erstkontakt Email Template]] — outreach list (Queisser not included — see note)
-- [[Kölner Liste]] — certification Queisser GMP supports
-- [[Performance Coffee Brand]] — project entity
+- [[Performance Cafe Supplier List|Lieferantenliste]] — Quelldokument
+- [[CMO Sourcing Performance Coffee]] — CMO-Bewertung
+- [[CMO Erstkontakt Email Template]] — Outreach-Liste (Queisser nicht enthalten — siehe Hinweis)
+- [[Kölner Liste]] — Zertifizierung, die Queissers GMP unterstützt
+- [[Performance Coffee Brand]] — Projekteinheit

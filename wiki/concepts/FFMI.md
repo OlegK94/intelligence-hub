@@ -5,60 +5,60 @@ tags: [body-composition, muscle-mass, fitness-metrics, natural-athlete, tracking
 sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Fat-Free Mass Index — a body composition metric measuring muscle mass relative to height, used to assess natural muscular development; Oleg's baseline = 21.3
+summary: Fat-Free Mass Index — eine Körperzusammensetzungs-Kennzahl, die die Muskelmasse relativ zur Körpergröße misst und zur Bewertung natürlicher Muskelentwicklung verwendet wird; Olegs Ausgangswert = 21,3
 ---
 
 # FFMI (Fat-Free Mass Index)
 
-## Overview
+## Überblick
 
-**FFMI** (Fat-Free Mass Index) is a body composition metric that measures lean muscle mass relative to height. It is used to assess muscular development in a size-normalized way, similar to BMI but focused on lean tissue rather than total weight.
+**FFMI** (Fat-Free Mass Index) ist eine Körperzusammensetzungs-Kennzahl, die die fettfreie Muskelmasse relativ zur Körpergröße misst. Sie wird zur Bewertung der Muskelentwicklung auf größennormierte Weise verwendet – ähnlich wie der BMI, jedoch auf mageres Gewebe statt auf das Gesamtgewicht fokussiert.
 
-## Formula
+## Formel
 
 ```
-FFMI = Lean Mass (kg) / Height (m)²
+FFMI = Magermasse (kg) / Körpergröße (m)²
 ```
 
-Sometimes normalized for height:
+Manchmal auf die Körpergröße normiert:
 ```
-Normalized FFMI = FFMI + 6.1 × (1.80 - height in meters)
+Normalized FFMI = FFMI + 6.1 × (1.80 - Körpergröße in Metern)
 ```
 
-## Reference Ranges
+## Referenzbereiche
 
-| FFMI Range | Category |
+| FFMI-Bereich | Kategorie |
 |---|---|
-| < 18 | Below average muscle mass |
-| 18–20 | Average |
-| 20–22 | Above average / athletic |
-| 22–25 | Competitive natural bodybuilder range |
-| > 25–26 | Suspected performance enhancers (historical research threshold) |
+| < 18 | Unterdurchschnittliche Muskelmasse |
+| 18–20 | Durchschnittlich |
+| 20–22 | Überdurchschnittlich / athletisch |
+| 22–25 | Bereich für kompetitive Natural-Bodybuilder |
+| > 25–26 | Verdacht auf leistungssteigernde Mittel (historische Forschungsschwelle) |
 
-## Oleg's Baseline (May 2026)
+## Olegs Ausgangswert (Mai 2026)
 
-- **FFMI: 21.3** — assessed from [[3D Body Scan Scaneca Mai 2026]]
-- **Interpretation:** "Solide Muskelmasse für Natural-Athlet" (solid muscle mass for a natural athlete)
-- **Context:** 77.1 kg lean mass on 96.7 kg total weight
+- **FFMI: 21,3** — ermittelt aus [[3D Body Scan Scaneca Mai 2026]]
+- **Interpretation:** „Solide Muskelmasse für Natural-Athlet"
+- **Kontext:** 77,1 kg Magermasse bei 96,7 kg Gesamtgewicht
 
-At FFMI 21.3, [[Oleg Personal Context|Oleg]] falls in the upper portion of the "above average / athletic" range — consistent with a trained natural athlete without performance-enhancing substances.
+Mit einem FFMI von 21,3 liegt [[Oleg Personal Context|Oleg]] im oberen Bereich der Kategorie „überdurchschnittlich / athletisch" — konsistent mit einem trainierten Natural-Athleten ohne leistungssteigernde Substanzen.
 
-## Use in Protocol
+## Verwendung im Protokoll
 
-- Used to assess whether lean mass is maintained during fat loss phases
-- Target: Maintain FFMI ≥ current level while reducing body fat from 20.3% → 15–17%
-- Relevant for [[Health Protocol Master]] nutrition and training targets
+- Wird verwendet, um zu prüfen, ob die Magermasse während Fettabbau-Phasen erhalten bleibt
+- Ziel: FFMI ≥ aktueller Wert halten, während der Körperfettanteil von 20,3 % auf 15–17 % reduziert wird
+- Relevant für Ernährungs- und Trainingsziele im [[Health Protocol Master]]
 
-## Limitations
+## Einschränkungen
 
-- Does not account for muscle quality or distribution
-- Height normalization varies by formula
-- Less informative for very tall or very short individuals
-- Cannot distinguish water retention from muscle mass
+- Berücksichtigt weder Muskelqualität noch -verteilung
+- Die Höhennormierung variiert je nach Formel
+- Weniger aussagekräftig für sehr große oder sehr kleine Personen
+- Kann Wassereinlagerungen nicht von Muskelmasse unterscheiden
 
-## Related Pages
+## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026]] — source of Oleg's FFMI measurement
-- [[Body Composition Analysis]] — broader tracking context
-- [[Health Protocol Master]] — protocol using this metric
-- [[Oleg Personal Context]] — subject
+- [[3D Body Scan Scaneca Mai 2026]] — Quelle von Olegs FFMI-Messung
+- [[Body Composition Analysis]] — umfassenderer Tracking-Kontext
+- [[Health Protocol Master]] — Protokoll, das diese Kennzahl verwendet
+- [[Oleg Personal Context]] — betreffende Person

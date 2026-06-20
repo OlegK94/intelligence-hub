@@ -1,88 +1,88 @@
 ---
-title: EU Novel Food Regulation
+title: EU Novel Food Verordnung
 type: concept
 tags: [regulatory, EU, novel-food, NMN, urolithin-a, spermidine, longevity, supplement, food-law, performance-cafe]
 sources: ["raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: EU Novel Food Regulation (EU) 2015/2283 — framework requiring pre-market authorization for food ingredients not widely consumed in the EU before May 1997; critical blocker for NMN, Urolithin A, and Spermidine in Performance Café stack
+summary: EU Novel Food Verordnung (EU) 2015/2283 — Rahmenwerk mit Pflicht zur Vorab-Zulassung für Lebensmittelzutaten, die vor dem Mai 1997 in der EU nicht weit verbreitet waren; kritischer regulatorischer Blocker für NMN, Urolithin A und Spermidine im Performance Café Stack
 ---
 
-# EU Novel Food Regulation
+# EU Novel Food Verordnung
 
-## Overview
+## Überblick
 
-The **EU Novel Food Regulation** (EU) 2015/2283 establishes a pre-market authorization framework for "novel foods" — food ingredients that were not widely consumed in the EU before **May 1997**. This regulation is the **#1 regulatory blocker** for the [[Performance Coffee Brand]] ingredient stack.
+Die **EU Novel Food Verordnung** (EU) 2015/2283 legt ein Vorab-Zulassungsrahmenwerk für „Novel Foods" fest — Lebensmittelzutaten, die vor dem **Mai 1997** in der EU nicht weit verbreitet konsumiert wurden. Diese Verordnung ist der **#1 regulatorische Blocker** für den Zutaten-Stack der [[Performance Coffee Brand]].
 
 ## Definition: Novel Food
 
-A "novel food" is any food or food ingredient that:
-- Was not significantly consumed by humans in the EU before 1 May 1997, AND
-- Falls into specific categories (new chemical entities, traditional foods from third countries, foods produced using new processes, etc.)
+Ein „Novel Food" ist jedes Lebensmittel oder jede Lebensmittelzutat, die:
+- Vor dem 1. Mai 1997 von Menschen in der EU nicht in nennenswertem Umfang verzehrt wurde, UND
+- In bestimmte Kategorien fällt (neue chemische Verbindungen, traditionelle Lebensmittel aus Drittländern, mit neuen Verfahren hergestellte Lebensmittel usw.)
 
-## Pre-Market Authorization Requirement
+## Pflicht zur Vorab-Zulassung
 
-- **Authorization required** before placing a novel food on the EU market
-- **Application process:** Submit to EFSA (European Food Safety Authority) for safety assessment
-- **Timeline:** Can take 18 months to several years
-- **Cost:** Significant — application fees + scientific dossier preparation
-- **Outcome:** Approval may be generic (any company can use) or **proprietary** (only the applicant for 5 years)
+- **Zulassung erforderlich**, bevor ein Novel Food auf dem EU-Markt in Verkehr gebracht werden darf
+- **Antragsverfahren:** Einreichung bei der EFSA (Europäische Behörde für Lebensmittelsicherheit) zur Sicherheitsbewertung
+- **Zeitrahmen:** Kann 18 Monate bis mehrere Jahre dauern
+- **Kosten:** Erheblich — Antragsgebühren + Erstellung des wissenschaftlichen Dossiers
+- **Ergebnis:** Die Zulassung kann generisch sein (jedes Unternehmen darf die Zutat verwenden) oder **proprietär** (nur der Antragsteller für 5 Jahre)
 
-## Relevance to Performance Coffee Brand
+## Relevanz für die Performance Coffee Brand
 
-### Critical Ingredients Under Scrutiny
+### Kritische Zutaten unter Prüfung
 
-| Ingredient | Novel Food Status | Implication |
+| Zutat | Novel Food Status | Auswirkung |
 |---|---|---|
-| [[NMN]] (Nicotinamide Mononucleotide) | ⚠️ Likely Novel Food — status under review 2025 | Cannot sell in EU without authorization |
-| [[Urolithin A]] | ✅ Novel Food approved (as MITOPURE by [[Amazentis]]) | Licensed use only — patent + authorization tied to Amazentis |
-| [[Spermidine]] | ⚠️ Status unclear — research required | May require authorization |
+| [[NMN]] (Nicotinamide Mononucleotide) | ⚠️ Wahrscheinlich Novel Food — Status unter Prüfung 2025 | Ohne Zulassung kein Verkauf in der EU |
+| [[Urolithin A]] | ✅ Novel Food zugelassen (als MITOPURE durch [[Amazentis]]) | Nur lizenzierte Verwendung — Patent + Zulassung an Amazentis gebunden |
+| [[Spermidine]] | ⚠️ Status unklar — Recherche erforderlich | Zulassung möglicherweise erforderlich |
 
-### NMN Situation (2025)
+### NMN-Situation (2025)
 
-NMN's EU Novel Food status is actively contested:
-- NMN was available as a supplement pre-1997 in limited forms
-- However, the European Commission has been moving toward Novel Food classification
-- Several member states have already restricted NMN sales
-- **Outcome as of 2025: TBD — must be confirmed in `research/06_regulatorik.md`**
+Der EU Novel Food Status von NMN ist aktiv umstritten:
+- NMN war vor 1997 in begrenztem Umfang als Nahrungsergänzungsmittel erhältlich
+- Die Europäische Kommission bewegt sich jedoch auf eine Novel Food-Einstufung zu
+- Mehrere Mitgliedstaaten haben den Verkauf von NMN bereits eingeschränkt
+- **Stand 2025: Noch offen — muss in `research/06_regulatorik.md` bestätigt werden**
 
-### Urolithin A Situation
+### Urolithin A-Situation
 
-- Amazentis obtained Novel Food authorization for Urolithin A under the name MITOPURE
-- This authorization was **proprietary** for 5 years from grant date
-- Using Urolithin A likely requires either:
-  1. Licensing from [[Amazentis]] (cost TBD), OR
-  2. Waiting for proprietary protection to expire, OR
-  3. Using a different form/application not covered by the authorization
+- Amazentis hat die Novel Food-Zulassung für Urolithin A unter dem Namen MITOPURE erhalten
+- Diese Zulassung war ab dem Genehmigungsdatum für **5 Jahre proprietär**
+- Die Verwendung von Urolithin A erfordert wahrscheinlich entweder:
+  1. Eine Lizenz von [[Amazentis]] (Kosten noch offen), ODER
+  2. Das Abwarten des Ablaufs des Eigentumsschutzes, ODER
+  3. Die Verwendung einer anderen Form/Anwendung, die nicht von der Zulassung abgedeckt ist
 
-## Lebensmittel vs. NEM Classification
+## Klassifizierung: Lebensmittel vs. NEM
 
-A parallel regulatory decision for the [[Performance Coffee Brand]]:
+Eine parallele regulatorische Entscheidung für die [[Performance Coffee Brand]]:
 
-| Classification | Lebensmittel (Food) | NEM (Nahrungsergänzungsmittel / Supplement) |
+| Klassifizierung | Lebensmittel | NEM (Nahrungsergänzungsmittel / Supplement) |
 |---|---|---|
-| Novel Food rules | Apply fully | Apply fully |
-| Health claims | EFSA Regulation 1924/2006 | Same |
-| Maximum dosing | Often lower | Higher allowances |
-| Marketing flexibility | More restricted | More flexible for performance claims |
-| Consumer perception | "Daily coffee" | "Supplement product" |
+| Novel Food-Regeln | Gelten vollständig | Gelten vollständig |
+| Health Claims | EFSA Verordnung 1924/2006 | Gleich |
+| Maximale Dosierung | Oft niedriger | Höhere Spielräume |
+| Marketing-Flexibilität | Stärker eingeschränkt | Flexibler für Performance-Claims |
+| Wahrnehmung durch Verbraucher | „Täglicher Kaffee" | „Supplement-Produkt" |
 
-This classification decision is a **strategic fork**: positioning as a food product maximizes distribution but restricts dosing; NEM classification allows higher ingredient doses but changes the retail and marketing landscape.
+Diese Klassifizierungsentscheidung ist eine **strategische Weiche**: Die Positionierung als Lebensmittel maximiert die Distribution, schränkt aber die Dosierung ein; die NEM-Klassifizierung erlaubt höhere Zutaten-Dosen, verändert aber das Einzelhandels- und Marketingumfeld.
 
-## Key Action Required
+## Erforderliche Maßnahmen
 
-Priority 1 in the Performance Café research sequence:
+Priorität 1 in der Performance Café Recherche-Sequenz:
 ```
 claude "Kläre den EU Novel Food Status für NMN, Urolithin A und Spermidine.
 Schreibe Ergebnisse nach research/06_regulatorik.md"
 ```
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — primary affected project
-- [[Performance Cafe README Project Setup]] — source document
-- [[NMN]] — Novel Food blocker ingredient
-- [[Urolithin A]] — Novel Food approved (Amazentis proprietary)
-- [[Spermidine]] — Novel Food status unclear
-- [[Amazentis]] — holds Novel Food authorization for Urolithin A
-- [[Longevity Stack Ingredients]] — broader ingredient context
+- [[Performance Coffee Brand]] — primär betroffenes Projekt
+- [[Performance Cafe README Project Setup|Performance Café README Projekt-Setup]] — Quelldokument
+- [[NMN]] — Novel Food-Blocker-Zutat
+- [[Urolithin A]] — Novel Food zugelassen (Amazentis proprietär)
+- [[Spermidine]] — Novel Food Status unklar
+- [[Amazentis]] — besitzt die Novel Food-Zulassung für Urolithin A
+- [[Longevity Stack Ingredients|Longevity Stack Zutaten]] — weiterer Zutaten-Kontext

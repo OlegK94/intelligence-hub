@@ -5,43 +5,43 @@ tags: [performance-cafe, CMO, contract-manufacturing, Italy, GMP, longevity, sma
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Priority 3 CMO candidate for Performance Coffee Brand — Italian manufacturer with longevity-stack experience and small MOQ capability; GMP certified; most relevant for the full longevity concept
+summary: Priorität-3-CMO-Kandidat für Performance Coffee Brand — italienischer Hersteller mit Longevity-Stack-Erfahrung und Small-MOQ-Fähigkeit; GMP-zertifiziert; am relevantesten für das vollständige Longevity-Konzept
 ---
 
 # Nutri-Epitech
 
-## Overview
+## Übersicht
 
-**Nutri-Epitech** is a [[Performance Coffee Brand]] **Priority 3 CMO candidate**, based in Italy. Its key differentiators are **longevity-stack formulation experience** and **small MOQ** capability — the latter being critical for the 1,000–2,000 sachet pilot batch.
+**Nutri-Epitech** ist ein [[Performance Coffee Brand]]-**Priorität-3-CMO-Kandidat** mit Sitz in Italien. Die wichtigsten Alleinstellungsmerkmale sind **Erfahrung in der Longevity-Stack-Formulierung** und die Fähigkeit zu **kleinen MOQ** — Letzteres ist entscheidend für die Pilotcharge von 1.000–2.000 Sachets.
 
-## Key Facts
+## Eckdaten
 
 | Parameter | Detail |
 |---|---|
-| **Country** | Italy |
-| **Specialization** | Longevity-Stack formulation, small MOQ |
-| **Certifications** | GMP |
+| **Land** | Italien |
+| **Spezialisierung** | Longevity-Stack-Formulierung, Small MOQ |
+| **Zertifizierungen** | GMP |
 | **Website** | nutri-epitech.com |
-| **CMO Priority** | **#3** |
+| **CMO-Priorität** | **#3** |
 
-## Why Priority 3
+## Warum Priorität 3
 
-- **Longevity-stack experience** — most conceptually aligned with Performance Coffee Brand's ingredient philosophy
-- **Small MOQ** — critical for the pilot phase (1,000–2,000 sachets); many German CMOs have high MOQs
-- GMP certification — prerequisite for [[Kölner Liste]] pathway
-- Italian manufacturer with EU compliance
+- **Longevity-Stack-Erfahrung** — konzeptionell am stärksten auf die Zutatenphilosophie von Performance Coffee Brand ausgerichtet
+- **Small MOQ** — entscheidend für die Pilotphase (1.000–2.000 Sachets); viele deutsche CMOs haben hohe MOQs
+- GMP-Zertifizierung — Voraussetzung für den [[Kölner Liste]]-Weg
+- Italienischer Hersteller mit EU-Konformität
 
-## Considerations
+## Überlegungen
 
-- Italian regulatory culture differs from German [[NEM Konformität]] — may require additional alignment
-- Less convenient for site visits than DACH CMOs
-- Despite lower priority ranking than Prinova/Lehvoss (functional ingredient breadth), the longevity focus makes Nutri-Epitech potentially the most philosophically aligned CMO
+- Die italienische Regulierungskultur unterscheidet sich von der deutschen [[NEM Konformität]] — möglicherweise ist eine zusätzliche Abstimmung erforderlich
+- Weniger praktisch für Werksbesuche als DACH-CMOs
+- Trotz niedrigerer Priorität als Prinova/Lehvoss (funktionale Zutatenbreite) macht der Longevity-Fokus Nutri-Epitech zum potenziell philosophisch am besten ausgerichteten CMO
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — evaluation framework
-- [[CMO Erstkontakt Email Template]] — outreach template
-- [[Performance Cafe Supplier List]] — source document
-- [[Lehvoss Nutrition]] — Priority 2 CMO candidate
-- [[Aidea]] — Priority 4 CMO candidate
-- [[Performance Coffee Brand]] — project entity
+- [[CMO Sourcing Performance Coffee]] — Evaluierungsrahmen
+- [[CMO Erstkontakt Email Template]] — Kontaktaufnahme-Vorlage
+- [[Performance Cafe Supplier List]] — Quelldokument
+- [[Lehvoss Nutrition]] — Priorität-2-CMO-Kandidat
+- [[Aidea]] — Priorität-4-CMO-Kandidat
+- [[Performance Coffee Brand]] — Projektentität

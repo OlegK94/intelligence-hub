@@ -5,16 +5,16 @@ tags: [finance, unternehmen, gmbh, wagglz, insolvenz, kapital, darlehen, gesells
 sources: ["raw/Business/Wagglz/Wagglz GmbH — Finance Vault.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Finance Vault for Wagglz GmbH — capital transfer history from VW-Bank Privatkredit via crypto into the GmbH, monthly Gesellschafterdarlehen payments of ~357 €/Mo, open insolvency assessment questions, missing documents list, and three strategic options (liquidation, dormancy, continuation)
+summary: Finance Vault für die Wagglz GmbH — Kapitaltransfer-Historie vom VW-Bank Privatkredit über Krypto in die GmbH, monatliche Gesellschafterdarlehen-Zahlungen von ~357 €/Mo, offene Insolvenzprüfungsfragen, Liste fehlender Dokumente sowie drei strategische Optionen (Liquidation, Dormancy, Weiterführung)
 ---
 
-# Wagglz GmbH — Finance Vault (Source Detail)
+# Wagglz GmbH — Finance Vault (Quelldokument)
 
-## Overview
+## Überblick
 
-This source document (status: Analyse ausstehend, created: 2026-06-13) is the primary finance record for [[Wagglz GmbH]], owned and operated by [[Oleg Personal Context|Oleg Kober]]. It documents the unusual capital transfer chain from a personal VW-Bank Kredit through crypto into the GmbH, flags critical insolvency law questions, and outlines three strategic options pending completion of financial analysis.
+Dieses Quelldokument (Status: Analyse ausstehend, erstellt: 2026-06-13) ist die primäre Finanzaufzeichnung für [[Wagglz GmbH]], im Eigentum und Betrieb von [[Oleg Personal Context|Oleg Kober]]. Es dokumentiert die ungewöhnliche Kapitaltransfer-Kette von einem privaten VW-Bank Kredit über Krypto in die GmbH, benennt kritische insolvenzrechtliche Fragen und skizziert drei strategische Optionen, die nach Abschluss der Finanzanalyse zu bewerten sind.
 
-> For the entity summary and strategic context, see [[Wagglz GmbH]].
+> Für die Entitätszusammenfassung und den strategischen Kontext siehe [[Wagglz GmbH]].
 
 ## Stammdaten
 
@@ -32,22 +32,22 @@ This source document (status: Analyse ausstehend, created: 2026-06-13) is the pr
 
 **Monatliche Transfers aktuell:** ~357 €/Mo (Teil der Gesellschafterdarlehen-Zahlungen)
 
-> ⚠️ **Assumption [A]:** All capital amounts are unknown — this source explicitly defers to original documents (Bankbelege, Gesellschaftsvertrag, Darlehensvertrag) which have not yet been ingested. The 357 €/Mo figure is the only confirmed numeric value.
+> ⚠️ **Annahme [A]:** Alle Kapitalbeträge sind unbekannt — dieses Quelldokument verweist ausdrücklich auf Originaldokumente (Bankbelege, Gesellschaftsvertrag, Darlehensvertrag), die noch nicht eingepflegt wurden. Der Wert von 357 €/Mo ist der einzige bestätigte numerische Wert.
 
 ## Kritische Offene Fragen — Insolvenzrecht
 
 > [!danger] Insolvenzprüfung ausstehend
 
-Four questions determine whether [[Wagglz GmbH]] faces insolvency obligations:
+Vier Fragen bestimmen, ob [[Wagglz GmbH]] Insolvenzpflichten unterliegt:
 
-1. **Überschuldung (§ 19 InsO):** Ist Eigenkapital positiv oder negativ?
-2. **Zahlungsunfähigkeit (§ 17 InsO):** Können fällige Verbindlichkeiten aus Liquidität bedient werden?
-3. **Antragspflicht:** Besteht Insolvenzantragspflicht? (21-Tage-Frist ab Kenntnis)
+1. **Überschuldung (§ 19 InsO):** Ist das Eigenkapital positiv oder negativ?
+2. **Zahlungsunfähigkeit (§ 17 InsO):** Können fällige Verbindlichkeiten aus der Liquidität bedient werden?
+3. **Antragspflicht:** Besteht eine Insolvenzantragspflicht? (21-Tage-Frist ab Kenntnis)
 4. **Anfechtungsrisiko:** Wurden Zahlungen nach möglicher Insolvenzreife geleistet? (§§ 129 ff. InsO)
 
-These are not merely accounting questions — failure to file within the 21-day window creates **personal criminal liability** (§ 15a InsO) for the GF (Oleg). This is a high-priority legal risk that cannot be deferred.
+Es handelt sich hierbei nicht um bloße Bilanzierungsfragen — die Versäumnis der Antragstellung innerhalb der 21-Tage-Frist begründet **persönliche strafrechtliche Haftung** (§ 15a InsO) für den GF (Oleg). Dies ist ein hochprioritäres rechtliches Risiko, das nicht aufgeschoben werden darf.
 
-## Benötigte Dokumente (Checklist)
+## Benötigte Dokumente (Checkliste)
 
 - [ ] BWA (aktuelle, vom Steuerberater)
 - [ ] Jahresabschlüsse (Bilanz + GuV, alle vorhandenen Jahre)
@@ -55,37 +55,37 @@ These are not merely accounting questions — failure to file within the 21-day 
 - [ ] Steuerbescheide (KSt, GewSt, USt)
 - [ ] Gesellschaftsvertrag / Darlehensverträge / Rangrücktritte
 
-All five document categories are outstanding. No financial analysis can be completed until these are obtained from [[SP STB]] (Steuerberater).
+Alle fünf Dokumentenkategorien stehen noch aus. Eine Finanzanalyse kann erst durchgeführt werden, wenn diese von [[SP STB]] (Steuerberater) beschafft wurden.
 
-## Strategische Optionen (zu bewerten nach Analyse)
+## Strategische Optionen (nach Analyse zu bewerten)
 
 | Option | Beschreibung | Kosten/Aufwand |
 |---|---|---|
 | **1. Liquidation** | GmbH auflösen — geordnete Abwicklung | TBD nach Analyse |
 | **2. Dormancy** | GmbH schlafendstellen (keine Aktivität, minimale laufende Kosten) | TBD nach Analyse |
-| **3. Weiterführung** | Nur wenn operative Profitabilität realistisch | TBD nach Analyse |
+| **3. Weiterführung** | Nur wenn operative Profitabilität realistisch ist | TBD nach Analyse |
 
-Option 3 (Weiterführung) is explicitly conditional — only viable if business profitability is realistic after analysis. Given the note "bisher keine erkennbaren Rückflüsse" (no visible returns to date), this is likely the least probable outcome.
+Option 3 (Weiterführung) ist ausdrücklich an eine Bedingung geknüpft — sie kommt nur in Betracht, wenn die geschäftliche Rentabilität nach der Analyse realistisch erscheint. Angesichts des Hinweises „bisher keine erkennbaren Rückflüsse" ist dies voraussichtlich das unwahrscheinlichste Ergebnis.
 
-## Capital Chain Risk Analysis
+## Risikoanalyse der Kapitalkette
 
-The Kapitaltransfer-Historie reveals a layered structure with significant risk:
+Die Kapitaltransfer-Historie offenbart eine mehrschichtige Struktur mit erheblichen Risiken:
 
-1. **Layer 1 — Personal liability:** VW-Bank Privatkredit is in Oleg's name. If Wagglz GmbH cannot repay the Gesellschafterdarlehen, Oleg remains personally liable for the VW-Bank loan.
-2. **Layer 2 — Crypto tax event:** The Crypto-Erlös → GmbH Einlage transfer may have triggered a taxable disposal event depending on holding period and amount. This is an open tax question.
-3. **Layer 3 — Rangrücktritt concern:** If Gesellschafterdarlehen does not include a formal Rangrücktritt (subordination clause), it may count as a liability in insolvency assessment, worsening Überschuldung.
+1. **Schicht 1 — Persönliche Haftung:** Der VW-Bank Privatkredit läuft auf Olegs Namen. Sollte die Wagglz GmbH das Gesellschafterdarlehen nicht zurückzahlen können, bleibt Oleg persönlich für das VW-Bank-Darlehen haftbar.
+2. **Schicht 2 — Steuerliches Ereignis durch Krypto:** Der Transfer Crypto-Erlös → GmbH Einlage kann je nach Haltedauer und Betrag einen steuerpflichtigen Veräußerungsvorgang ausgelöst haben. Dies ist eine offene steuerliche Frage.
+3. **Schicht 3 — Rangrücktritt-Problematik:** Enthält das Gesellschafterdarlehen keinen formellen Rangrücktritt (Nachrangklausel), kann es in der Insolvenzprüfung als Verbindlichkeit gewertet werden und die Überschuldung verschlechtern.
 
-## Connection to Master Prompt
+## Bezug zum Master Prompt
 
-This document defers the full strategic analysis to: `[[Master Prompt – Gesamtanalyse]]` — indicating a planned comprehensive multi-entity financial analysis covering Wagglz GmbH alongside other Oleg entities ([[OK Capital UG]], etc.).
+Dieses Dokument verweist die vollständige strategische Analyse auf: `[[Master Prompt – Gesamtanalyse]]` — dies deutet auf eine geplante umfassende Mehreinheiten-Finanzanalyse hin, die die Wagglz GmbH gemeinsam mit anderen Oleg-Entitäten ([[OK Capital UG]] usw.) behandelt.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Wagglz GmbH]] — entity page
-- [[OK Capital UG]] — related entity
-- [[Oleg Personal Context]] — GF and Gesellschafter
-- [[Oleg Business Entity Structure]] — entity context
-- [[SP STB]] — Steuerberater (document source)
-- [[ESt 2025]] — tax filing context
-- [[ALG I 2025]] — co-income source 2025
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — GF salary context
+- [[Wagglz GmbH]] — Entitätsseite
+- [[OK Capital UG]] — verbundene Entität
+- [[Oleg Personal Context]] — GF und Gesellschafter
+- [[Oleg Business Entity Structure]] — Entitätskontext
+- [[SP STB]] — Steuerberater (Dokumentenquelle)
+- [[ESt 2025]] — Steuererklärungs-Kontext
+- [[ALG I 2025]] — weitere Einkommensquelle 2025
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Kontext zum GF-Gehalt

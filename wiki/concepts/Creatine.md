@@ -1,70 +1,70 @@
 ---
-title: Creatine
+title: Kreatin
 type: concept
 tags: [supplement, performance, strength, cognition, creatine-monohydrate, momentous]
 sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Creatine monohydrate — one of the most evidence-backed supplements for strength, power, and cognitive performance; Oleg takes 5g daily via Momentous with flexible timing
+summary: Kreatin-Monohydrat — eines der am besten belegten Supplemente für Kraft, Leistung und kognitive Performance; Oleg nimmt täglich 5g von Momentous, mit flexiblem Einnahmezeitpunkt
 ---
 
-# Creatine
+# Kreatin
 
-## Overview
+## Überblick
 
-Creatine is one of the most extensively researched supplements in sports science. It functions as a phosphate donor in the ATP-PCr energy system, supporting rapid energy resynthesis during high-intensity efforts. It also has emerging evidence for cognitive benefits.
+Kreatin ist eines der am umfangreichsten erforschten Supplemente in der Sportwissenschaft. Es fungiert als Phosphatdonor im ATP-PCr-Energiesystem und unterstützt die schnelle Energieresynthese bei hochintensiven Belastungen. Darüber hinaus gibt es zunehmend Belege für kognitive Vorteile.
 
-## Protocol (Oleg's Stack)
+## Protokoll (Olegs Stack)
 
-- **Brand:** [[Momentous]] Creatine
-- **Dose:** 5g daily
-- **Timing:** Flexible — **Konsistenz > Timing** (consistency over timing)
-- **Form:** Creatine monohydrate (implied; standard Momentous offering)
+- **Marke:** [[Momentous]] Kreatin
+- **Dosis:** 5g täglich
+- **Zeitpunkt:** Flexibel — **Konsistenz > Timing**
+- **Form:** Kreatin-Monohydrat (impliziert; Standard-Angebot von Momentous)
 
-## Why Timing Is Flexible
+## Warum der Zeitpunkt flexibel ist
 
-Once muscle creatine stores are saturated (typically 4+ weeks of daily supplementation), the exact timing of the daily 5g dose becomes largely irrelevant. Research shows that:
-- Pre- and post-workout timing show marginal differences in long-term outcomes
-- Consistent daily dosing matters far more than timing
-- Splitting or taking with carbohydrates can marginally improve uptake but is not required
+Sobald die Kreatinspeicher in den Muskeln gesättigt sind (typischerweise nach 4+ Wochen täglicher Supplementierung), wird der genaue Zeitpunkt der täglichen 5g-Dosis weitgehend irrelevant. Forschungsergebnisse zeigen:
+- Pre- und Post-Workout-Timing zeigen marginale Unterschiede bei Langzeitergebnissen
+- Konsistente tägliche Einnahme ist weitaus wichtiger als der Zeitpunkt
+- Die Aufteilung oder Einnahme mit Kohlenhydraten kann die Aufnahme geringfügig verbessern, ist aber nicht erforderlich
 
-This is reflected in the source principle: *"Konsistenz > Timing."*
+Dies spiegelt sich im Quellprinzip wider: *„Konsistenz > Timing."*
 
-## Mechanisms of Action
+## Wirkmechanismen
 
-### Physical Performance
-- **Phosphocreatine resynthesis:** Rapidly regenerates ATP during high-intensity efforts (sprints, heavy lifts)
-- **Increased training volume:** Allows more reps/sets before fatigue
-- **Power output:** Enhanced explosive performance
-- **Muscle hydration:** Slight intracellular water retention (can increase measured weight by 1–2 kg)
+### Körperliche Leistungsfähigkeit
+- **Phosphokreatin-Resynthese:** Regeneriert ATP schnell bei hochintensiven Belastungen (Sprints, schwere Gewichte)
+- **Erhöhtes Trainingsvolumen:** Ermöglicht mehr Wiederholungen/Sätze vor Ermüdung
+- **Leistungsabgabe:** Verbesserte explosive Performance
+- **Muskelhydratation:** Leichte intrazelluläre Wassereinlagerung (kann das gemessene Gewicht um 1–2 kg erhöhen)
 
-### Cognitive Performance
-- **Brain energy availability:** Supports ATP production in neurons
-- **Cognitive fatigue resistance:** May reduce mental fatigue, especially under sleep deprivation
-- **Neuroprotection:** Emerging evidence for protective effects
+### Kognitive Leistungsfähigkeit
+- **Energieverfügbarkeit im Gehirn:** Unterstützt die ATP-Produktion in Neuronen
+- **Widerstandsfähigkeit gegen kognitive Ermüdung:** Kann mentale Erschöpfung reduzieren, insbesondere bei Schlafmangel
+- **Neuroprotection:** Aufkommende Belege für schützende Effekte
 
-## Evidence Base
+## Evidenzbasis
 
-Creatine monohydrate is one of the most studied supplements:
-- Hundreds of randomized controlled trials
-- Consistent benefit for strength, power, and high-intensity performance
-- Safe for long-term use in healthy individuals
-- No need for cycling
-- International Society of Sports Nutrition (ISSN): classified as generally safe and effective
+Kreatin-Monohydrat ist eines der am besten untersuchten Supplemente:
+- Hunderte randomisierter kontrollierter Studien
+- Konsistenter Nutzen für Kraft, Leistung und hochintensive Performance
+- Sicher für den Langzeitgebrauch bei gesunden Personen
+- Kein Cycling notwendig
+- International Society of Sports Nutrition (ISSN): als allgemein sicher und wirksam eingestuft
 
-## Integration with Health Protocol
+## Integration in das Health Protocol
 
-In [[Oleg Personal Context|Oleg]]'s protocol:
-- Supports 6-day training split (see [[Health Protocol Master]])
-- Part of the body recomposition goal (20.3% → 15–17% body fat)
-- Contributes to maintaining lean mass (77.1 kg target during fat loss)
-- Does not interfere with [[HIIT Training]] or [[Zone 2 Cardio]] protocols
+In [[Oleg Personal Context|Olegs]] Protokoll:
+- Unterstützt den 6-Tage-Trainingsplan (siehe [[Health Protocol Master]])
+- Teil des Körperkompositionsziels (20,3% → 15–17% Körperfettanteil)
+- Trägt zur Erhaltung der Muskelmasse bei (77,1 kg Ziel während der Fettreduktion)
+- Beeinträchtigt weder [[HIIT Training]]- noch [[Zone 2 Cardio]]-Protokolle
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context
-- [[Supplement Stack Source Detail]] — source document
-- [[Momentous]] — brand
-- [[Health Protocol Master]] — protocol integration
-- [[Alpha-GPC]] — complementary cognitive supplement
-- [[Oleg Personal Context]] — user
+- [[Supplement Stack]] — Stack-Kontext
+- [[Supplement Stack Source Detail]] — Quelldokument
+- [[Momentous]] — Marke
+- [[Health Protocol Master]] — Protokollintegration
+- [[Alpha-GPC]] — ergänzendes kognitives Supplement
+- [[Oleg Personal Context]] — Nutzer

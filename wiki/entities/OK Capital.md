@@ -5,16 +5,16 @@ tags: [holding, kapitalgesellschaft, oleg-kober, berlin, performance-cafe, waggl
 sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: OK Capital is Oleg Kober's existing holding company — parent entity for Wagglz and the planned Performance Coffee Brand UG/GmbH; will hold IP (brand rights + recipes) for the Performance Coffee Brand via an IP licensing structure
+summary: OK Capital ist Oleg Kobers bestehende Holdinggesellschaft — Mutterunternehmen für Wagglz und die geplante Performance Coffee Brand UG/GmbH; wird das geistige Eigentum (Markenrechte + Rezepturen) für die Performance Coffee Brand über eine IP-Lizenzstruktur halten
 ---
 
 # OK Capital
 
-## Overview
+## Überblick
 
-**OK Capital** is [[Oleg Personal Context|Oleg Kober]]'s existing holding company (Kapitalgesellschaft) based in Berlin. It serves as the corporate parent for Oleg's current and future business ventures.
+**OK Capital** ist [[Oleg Personal Context|Oleg Kobers]] bestehende Holdinggesellschaft (Kapitalgesellschaft) mit Sitz in Berlin. Sie fungiert als Muttergesellschaft für Olegs aktuelle und zukünftige Geschäftsvorhaben.
 
-## Current Portfolio
+## Aktuelles Portfolio
 
 ```
 OK Capital (Holding)
@@ -23,23 +23,23 @@ OK Capital (Holding)
     └── [Performance Coffee Brand] UG/GmbH (geplant)
 ```
 
-- **[[Wagglz]]** — existing operating subsidiary (details TBD)
-- **[[Performance Coffee Brand]] UG/GmbH** — planned new subsidiary (50% Oleg, 50% [[Hai]])
+- **[[Wagglz]]** — bestehende operative Tochtergesellschaft (Details ausstehend)
+- **[[Performance Coffee Brand]] UG/GmbH** — geplante neue Tochtergesellschaft (50 % Oleg, 50 % [[Hai]])
 
-## Role in Performance Coffee Brand Structure
+## Rolle in der Performance Coffee Brand Struktur
 
-### Phase 1 (Immediate)
-OK Capital is the **majority context** for the new Performance Coffee Brand entity:
-- Performance Coffee Brand UG founded directly
-- Oleg holds his 50% personally (not via OK Capital — structure TBD by Steuerberater)
+### Phase 1 (Sofortmaßnahmen)
+OK Capital bildet den **Mehrheitskontext** für die neue Performance Coffee Brand Gesellschaft:
+- Performance Coffee Brand UG wird direkt gegründet
+- Oleg hält seine 50 % persönlich (nicht über OK Capital — Struktur vom Steuerberater zu klären)
 
-### Phase 2: IP Holding (ab Monat 6)
+### Phase 2: IP-Holding (ab Monat 6)
 
-OK Capital will hold all **Intellectual Property**:
+OK Capital wird das gesamte **geistige Eigentum** halten:
 - Markenrechte (trademark rights)
 - Rezepturen (formulations/recipes)
 
-**IP Licensing Structure:**
+**IP-Lizenzstruktur:**
 ```
 OK Capital
     └── Owns IP (Markenrechte + Rezepturen)
@@ -48,31 +48,31 @@ OK Capital
             → 95% steuerfreie Gewinnausschüttung zwischen Kapitalgesellschaften
 ```
 
-### Why IP Sits at Holding Level
+### Warum das IP auf Holding-Ebene angesiedelt ist
 
-1. **Risk isolation** — IP survives even if the operating startup fails
-2. **Tax efficiency** — dividends between German Kapitalgesellschaften are 95% tax-free (§ 8b KStG)
-3. **Exit optionality** — IP can be valued and sold separately from the operating business
+1. **Risikoabschirmung** — das IP bleibt erhalten, selbst wenn das operative Startup scheitert
+2. **Steuerliche Effizienz** — Dividenden zwischen deutschen Kapitalgesellschaften sind zu 95 % steuerfrei (§ 8b KStG)
+3. **Exit-Flexibilität** — das IP kann unabhängig vom operativen Geschäft bewertet und verkauft werden
 
-## Strategic Notes
+## Strategische Hinweise
 
-- OK Capital is already established — no formation costs for the holding layer
-- The Steuerberater must confirm optimal structure for Oleg's 50% stake (personal vs. via OK Capital)
-- [[Cyprus Relocation]] goal creates complexity: active German holding + Cyprus tax residency requires [[Wegzugsteuer]] planning
+- OK Capital ist bereits gegründet — keine Gründungskosten für die Holding-Ebene
+- Der Steuerberater muss die optimale Struktur für Olegs 50-%-Anteil bestätigen (persönlich vs. über OK Capital)
+- Das [[Cyprus Relocation|Zypern-Umzugsziel]] erhöht die Komplexität: eine aktive deutsche Holding kombiniert mit Zypern als steuerlichem Wohnsitz erfordert eine [[Wegzugsteuer]]-Planung
 
-## ⚠️ Contradiction Note
+## ⚠️ Widerspruchshinweis
 
-The [[Café Berlin Partnership Hai — Planning Detail]] source references "GmbH (Oleg, ruhend)" as a potential café operating vehicle. The [[Oleg Business Entity Structure]] wiki page identifies the **UG as dormant** and **GmbH as active**. OK Capital's relationship to these entities (GmbH vs. UG vs. OK Capital itself) should be clarified with the Steuerberater.
+Die Quelle [[Café Berlin Partnership Hai — Planning Detail]] nennt „GmbH (Oleg, ruhend)" als mögliches operatives Fahrzeug für das Café. Die Wiki-Seite [[Oleg Business Entity Structure]] identifiziert die **UG als ruhend** und die **GmbH als aktiv**. Die Beziehung von OK Capital zu diesen Gesellschaften (GmbH vs. UG vs. OK Capital selbst) sollte mit dem Steuerberater geklärt werden.
 
-**Best interpretation:** OK Capital IS the active holding GmbH, with a dormant UG as a separate entity. The café planning document may be referring to activating OK Capital itself as the café operator — but this conflicts with using it as the Performance Coffee Brand holding structure. Resolution required.
+**Beste Interpretation:** OK Capital IST die aktive Holding-GmbH, während eine ruhende UG als separate Gesellschaft existiert. Das Café-Planungsdokument könnte sich darauf beziehen, OK Capital selbst als Café-Betreiber zu aktivieren — dies steht jedoch im Widerspruch zur Nutzung als Holding-Struktur für die Performance Coffee Brand. Klärungsbedarf besteht.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Personal Context]] — owner
-- [[Oleg Business Entity Structure]] — broader entity overview
-- [[Wagglz]] — existing sibling entity
-- [[Performance Coffee Brand]] — new venture under OK Capital
-- [[Performance Coffee Brand Entity Structure Source Detail]] — source document
-- [[Café Berlin Partnership Hai]] — parallel venture with potential entity overlap
-- [[Cyprus Relocation]] — tax complexity interaction
-- [[Cyprus Tax Regime]] — Non-Domicile / exit tax implications
+- [[Oleg Personal Context]] — Eigentümer
+- [[Oleg Business Entity Structure]] — Überblick über die gesamte Gesellschaftsstruktur
+- [[Wagglz]] — bestehende Schwestergesellschaft
+- [[Performance Coffee Brand]] — neues Vorhaben unter OK Capital
+- [[Performance Coffee Brand Entity Structure Source Detail]] — Quelldokument
+- [[Café Berlin Partnership Hai]] — paralleles Vorhaben mit möglicher Gesellschaftsüberschneidung
+- [[Cyprus Relocation]] — steuerliche Wechselwirkung
+- [[Cyprus Tax Regime]] — Non-Domicile / Wegzugsteuer-Implikationen

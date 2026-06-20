@@ -1,76 +1,76 @@
 ---
-title: Forward Head Posture
+title: Kopfvorneigung (Forward Head Posture)
 type: concept
 tags: [posture, corrective-exercise, neck, breathing, performance, hyrox, scan, forward-head]
 sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Performance/_vault/Körper & Scan.md", "02-Performance-Leben/Health Protocol — Master.md", "Clippings/Build Muscle, Great Posture & Resilience to Injury  Jeff Cavaliere.md"]
 created: 2026-06-06
 updated: 2026-06-13
-summary: Forward head posture (30° deviation) identified in Oleg's May 2026 scan — directly impairs breathing efficiency via diaphragm compression; corrected via daily posture protocol including neck training and face pulls
+summary: Kopfvorneigung (30° Abweichung) im Scan von Oleg (Mai 2026) identifiziert — beeinträchtigt die Atemeffizienz direkt durch Zwerchfellkompression; Korrektur durch tägliches Haltungsprotokoll mit Nackentraining und Face Pulls
 ---
 
-# Forward Head Posture
+# Kopfvorneigung (Forward Head Posture)
 
-## Overview
+## Überblick
 
-**Forward Head Posture (FHP)** is a postural deviation where the head is displaced anteriorly relative to the neutral spine position. It is one of the most common postural dysfunctions in the modern sedentary population, driven by screen use, desk work, and chronic anterior chain dominance.
+**Forward Head Posture (FHP)** ist eine Haltungsabweichung, bei der der Kopf gegenüber der neutralen Wirbelsäulenposition nach vorne verlagert ist. Es handelt sich um eine der häufigsten Haltungsstörungen in der modernen, überwiegend sitzenden Bevölkerung — verursacht durch Bildschirmnutzung, Schreibtischarbeit und chronische Dominanz der vorderen Muskelkette.
 
-## Oleg's Finding
+## Olegs Befund
 
-- **Measured deviation:** ~30°
-- **Identified by:** [[3D Body Scan Scaneca Mai 2026]] (Scaneca / Labor Berlin, 29.05.2026)
-- **Classification:** Ausgeprägte Kopfvorneigung (pronounced forward head position)
+- **Gemessene Abweichung:** ~30°
+- **Identifiziert durch:** [[3D Body Scan Scaneca Mai 2026]] (Scaneca / Labor Berlin, 29.05.2026)
+- **Klassifikation:** Ausgeprägte Kopfvorneigung
 
-## Mechanism: Impact on Breathing
+## Mechanismus: Auswirkung auf die Atmung
 
-The vault-level structural findings ([[Körper und Body Composition Scan Source Detail]]) add critical context not previously captured:
+Die strukturellen Befunde auf Vault-Ebene ([[Körper und Body Composition Scan Source Detail]]) liefern wichtigen Kontext, der bisher nicht erfasst wurde:
 
 > *Forward Head Position → Zwerchfellkompression → verringerte Lungenkapazität*
 
-Mechanism:
-1. **Anterior head displacement** compresses the anterior neck muscles and cervical fasciae
-2. **Thoracic kyphosis** (usually co-occurring) rounds the upper back, compressing the thoracic cage
-3. **Diaphragm compression:** The compressed thoracic cage restricts full diaphragmatic excursion
-4. **Reduced lung capacity:** Less tidal volume per breath → reduced oxygen delivery during training
-5. **Performance impact:** Directly limits aerobic capacity and exercise tolerance
+Mechanismus:
+1. **Anteriore Kopfverlagerung** komprimiert die vorderen Nackenmuskulatur und die zervikalen Faszien
+2. **Thorakale Kyphose** (tritt meist gleichzeitig auf) rundet den oberen Rücken und komprimiert den Brustkorb
+3. **Zwerchfellkompression:** Der komprimierte Brustkorb schränkt die vollständige Zwerchfellexkursion ein
+4. **Verringerte Lungenkapazität:** Geringeres Atemzugvolumen pro Atemzug → reduzierte Sauerstoffversorgung beim Training
+5. **Leistungseinbuße:** Begrenzt die aerobe Kapazität und Belastungstoleranz direkt
 
-This is particularly relevant for [[Hyrox Competition]] performance, where breathing efficiency under load is critical.
+Dies ist besonders relevant für die [[Hyrox Competition|Hyrox-Wettkampf]]-Leistung, bei der die Atemeffizienz unter Belastung entscheidend ist.
 
-**Intervention value:** *Correcting FHP = direct capacity increase* — not just aesthetic or comfort improvement.
+**Interventionswert:** *FHP korrigieren = direkte Kapazitätssteigerung* — nicht nur eine ästhetische oder komfortbezogene Verbesserung.
 
-## Correction Protocol
+## Korrekturprotokoll
 
-### Daily Posture Protocol (from [[Health Protocol Master]])
+### Tägliches Haltungsprotokoll (aus [[Health Protocol Master]])
 
-- **Face pulls:** External rotation and retraction of the shoulder girdle — counteracts anterior chain dominance
-- **Neck stretching:** Cervical flexion/extension and lateral stretches — restores cervical mobility
-- **Chin tucks:** Cervical retraction drill — resets deep cervical flexor activation
+- **Face Pulls:** Außenrotation und Retraktion des Schultergürtels — wirkt der Dominanz der vorderen Muskelkette entgegen
+- **Nackendehnung:** Zervikale Flexion/Extension und laterale Dehnungen — stellt die Beweglichkeit der Halswirbelsäule wieder her
+- **Chin Tucks:** Übung zur zervikalen Retraktion — aktiviert die tiefen Halsflexoren neu
 
-### Neck Training (from [[Jeff Cavaliere]] / [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]])
+### Nackentraining (aus [[Jeff Cavaliere]] / [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere|Muskelaufbau, gute Haltung und Verletzungsresilienz – Jeff Cavaliere]])
 
-- **4-direction plate-and-towel series:** On bench, 4 directions (supine, prone, each lateral)
-- **Rationale:** Strong neck → better default cervical alignment → supports correction
-- **Frequency:** 3×/week as dedicated small-muscle session
+- **4-Richtungs-Serie mit Scheibe und Handtuch:** Auf der Bank, 4 Richtungen (Rückenlage, Bauchlage, jeweils seitlich)
+- **Begründung:** Starker Nacken → bessere natürliche Halswirbelsäulenausrichtung → unterstützt die Korrektur
+- **Häufigkeit:** 3×/Woche als eigenständige Einheit für kleine Muskelgruppen
 
-### Structural Considerations
+### Strukturelle Überlegungen
 
-- Bilateral asymmetry (rightward CoG shift) noted in the same scan — may be causally related to FHP (compensatory pattern). See [[Corrective Exercise]].
-- Strong [[Glute Medius]] and posterior chain training supports global postural improvement
+- Bilaterale Asymmetrie (Schwerpunktverlagerung nach rechts) wurde im selben Scan festgestellt — könnte ursächlich mit FHP zusammenhängen (Kompensationsmuster). Siehe [[Corrective Exercise|Korrekturübungen]].
+- Intensives Training des [[Glute Medius|Gluteus medius]] und der hinteren Muskelkette unterstützt die globale Haltungsverbesserung
 
-## Progress Tracking
+## Fortschrittsverfolgung
 
-- **Baseline:** 30° at [[3D Body Scan Scaneca Mai 2026]] (29.05.2026)
-- **Follow-up:** [[3D Body Scan Scaneca Mai 2026#Target Values]] — reassess at 12-week scan
-- **Subjective markers:** Reduced neck tension, improved breathing depth, reduced forward head appearance
+- **Ausgangswert:** 30° beim [[3D Body Scan Scaneca Mai 2026]] (29.05.2026)
+- **Folgemessung:** [[3D Body Scan Scaneca Mai 2026#Target Values]] — Neubewertung beim 12-Wochen-Scan
+- **Subjektive Marker:** Reduzierte Nackenverspannungen, verbesserte Atemtiefe, weniger ausgeprägte Kopfvorneigung im Erscheinungsbild
 
-## Related Pages
+## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026]] — measurement event
-- [[Körper und Body Composition Scan Source Detail]] — structural findings source
-- [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere]] — neck training protocol source
-- [[Health Protocol Master]] — correction protocol
-- [[Jeff Cavaliere]] — expert source
-- [[Corrective Exercise]] — broader corrective framework
-- [[Glute Medius]] — related structural deficit
-- [[Hyrox Competition]] — performance context
-- [[Neck Training]] — specific protocol
-- [[Oleg Personal Context]] — subject
+- [[3D Body Scan Scaneca Mai 2026]] — Messereignis
+- [[Körper und Body Composition Scan Source Detail]] — Quelle der strukturellen Befunde
+- [[Build Muscle, Great Posture and Resilience to Injury Jeff Cavaliere|Muskelaufbau, gute Haltung und Verletzungsresilienz – Jeff Cavaliere]] — Quelle des Nackentraining-Protokolls
+- [[Health Protocol Master]] — Korrekturprotokoll
+- [[Jeff Cavaliere]] — Expertenquelle
+- [[Corrective Exercise|Korrekturübungen]] — übergeordneter Korrekturrahmen
+- [[Glute Medius|Gluteus medius]] — verwandtes strukturelles Defizit
+- [[Hyrox Competition|Hyrox-Wettkampf]] — Leistungskontext
+- [[Neck Training|Nackentraining]] — spezifisches Protokoll
+- [[Oleg Personal Context|Olegs persönlicher Kontext]] — Testperson

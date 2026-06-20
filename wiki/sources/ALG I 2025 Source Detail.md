@@ -1,23 +1,23 @@
 ---
-title: ALG I 2025 Source Detail
+title: ALG I 2025 Quelldokument-Detail
 type: source
 tags: [alg-i, einnahmen, 2025, steuer, progressionsvorbehalt, lohnersatzleistung, §32b-estg, §46-estg, finanzen, bundesagentur-fuer-arbeit]
 sources: ["raw/Privat/Finanzen/Einnahmen/ALG I 2025.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for ALG I 2025 — confirms ~8,400 € received until ~June 2025; tax-free Lohnersatzleistung; §32b EStG Progressionsvorbehalt applies; §46 EStG triggers Pflichtveranlagung; ALG-I-Bescheinigung required for ESt 2025
+summary: Quelldokument für ALG I 2025 — bestätigt ~8.400 € erhalten bis ca. Juni 2025; steuerfreie Lohnersatzleistung; §32b EStG Progressionsvorbehalt greift; §46 EStG löst Pflichtveranlagung aus; ALG-I-Bescheinigung erforderlich für ESt 2025
 ---
 
-# ALG I 2025 — Source Detail
+# ALG I 2025 — Quelldokument-Detail
 
-## Overview
+## Übersicht
 
-This source document (`raw/Privat/Finanzen/Einnahmen/ALG I 2025.md`, aktualisiert: 2026-06-12) captures the key facts and tax implications of [[Oleg Personal Context|Oleg]]'s Arbeitslosengeld I receipt in 2025.
+Dieses Quelldokument (`raw/Privat/Finanzen/Einnahmen/ALG I 2025.md`, aktualisiert: 2026-06-12) erfasst die wesentlichen Fakten und steuerlichen Auswirkungen des Arbeitslosengeld-I-Bezugs von [[Oleg Personal Context|Oleg]] im Jahr 2025.
 
-> For the entity summary page, see [[ALG I 2025]].
-> For the Progressionsvorbehalt calculation framework, see [[ALG I Progressionsvorbehalt]].
+> Zur Entitäts-Übersichtsseite siehe [[ALG I 2025]].
+> Zum Berechnungsrahmen für den Progressionsvorbehalt siehe [[ALG I Progressionsvorbehalt]].
 
-## Fakten (from Source)
+## Fakten (aus der Quelle)
 
 | | |
 |---|---|
@@ -25,33 +25,33 @@ This source document (`raw/Privat/Finanzen/Einnahmen/ALG I 2025.md`, aktualisier
 | **Betrag (geschätzt)** | ~8.400 € gesamt |
 | **Steuerliche Behandlung** | Lohnersatzleistung → steuerfrei, aber Progressionsvorbehalt |
 
-## Steuerliche Relevanz (from Source)
+## Steuerliche Relevanz (aus der Quelle)
 
 - ALG I selbst steuerfrei
 - **§32b EStG Progressionsvorbehalt:** erhöht den Steuersatz auf das übrige Einkommen
 - **§46 EStG:** Pflichtveranlagung wenn Lohnersatzleistungen > 410 €/Jahr — mit ~8.400 € klar überschritten
 - ALG-I-Bescheinigung (Bundesagentur für Arbeit) muss für [[ESt 2025]] vorliegen
 
-## Updates to Existing Wiki
+## Aktualisierungen bestehender Wiki-Seiten
 
-This source **resolves two open questions** flagged in the prior [[ALG I 2025]] entity page (which was seeded from the Wagglz GF-Gehalt source only):
+Diese Quelle **beantwortet zwei offene Fragen**, die auf der bisherigen [[ALG I 2025]]-Entitätsseite vermerkt waren (welche ursprünglich nur aus der Wagglz GF-Gehalt-Quelle gespeist wurde):
 
-| Previously Unknown | Now Known |
+| Zuvor unbekannt | Jetzt bekannt |
 |---|---|
-| Duration of ALG I receipt | bis ca. Juni 2025 |
-| Amount received | ~8.400 € gesamt |
+| Dauer des ALG-I-Bezugs | bis ca. Juni 2025 |
+| Erhaltener Betrag | ~8.400 € gesamt |
 
-The entity page [[ALG I 2025]] has been updated accordingly.
+Die Entitätsseite [[ALG I 2025]] wurde entsprechend aktualisiert.
 
-## No Contradictions
+## Keine Widersprüche
 
-This source is consistent with the existing [[ALG I 2025]] entity and [[ALG I Progressionsvorbehalt]] concept pages. It adds specificity (amount, duration) without conflicting with previously recorded tax mechanics.
+Diese Quelle stimmt mit der bestehenden [[ALG I 2025]]-Entität und der [[ALG I Progressionsvorbehalt]]-Konzeptseite überein. Sie ergänzt konkrete Details (Betrag, Zeitraum), ohne die zuvor erfassten steuerlichen Mechanismen in Frage zu stellen.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[ALG I 2025]] — entity page (updated with this data)
-- [[ALG I Progressionsvorbehalt]] — calculation mechanism
-- [[ESt 2025]] — tax filing where this applies
-- [[SP STB]] — tax advisor
-- [[Oleg Personal Context]] — recipient
-- [[MOC Finanzen]] — parent finance MOC
+- [[ALG I 2025]] — Entitätsseite (mit diesen Daten aktualisiert)
+- [[ALG I Progressionsvorbehalt]] — Berechnungsmechanismus
+- [[ESt 2025]] — Steuererklärung, auf die dies zutrifft
+- [[SP STB]] — Steuerberater
+- [[Oleg Personal Context]] — Leistungsempfänger
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC

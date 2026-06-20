@@ -1,47 +1,47 @@
 ---
-title: CMO Erstkontakt Email Template
+title: CMO Erstkontakt E-Mail Template
 type: source
 tags: [performance-cafe, CMO, manufacturing, outreach, email-template, instant-coffee, sachets, NEM, functional-beverage, ops]
 sources: ["raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: German-language CMO outreach email template for Performance Coffee Brand — initial contact and follow-up templates, prioritized list of 5 CMO candidates (DE + IT), key technical questions around sachets, GMP, and NAC odor masking
+summary: Deutschsprachiges CMO-Outreach-E-Mail-Template für die Performance Coffee Brand — Erstkontakt- und Nachfass-Templates, priorisierte Liste von 5 CMO-Kandidaten (DE + IT), zentrale technische Fragen zu Sachets, GMP und NAC-Geruchsmaskierung
 ---
 
 # CMO Erstkontakt — E-Mail Template (Source Detail)
 
-## Overview
+## Überblick
 
-This source document (status: bereit zum Versenden, date: 2026-06-15) provides ready-to-send German-language outreach templates for [[Performance Coffee Brand]]'s [[CMO Sourcing Performance Coffee|CMO partner search]], plus a prioritized contact list of 5 manufacturing candidates.
+Dieses Quelldokument (Status: bereit zum Versenden, Datum: 2026-06-15) enthält versandfertige deutschsprachige Outreach-Templates für die [[Performance Coffee Brand|Performance Coffee Brand]]s [[CMO Sourcing Performance Coffee|CMO-Partnersuche]] sowie eine priorisierte Kontaktliste mit 5 Produktionskandidaten.
 
-> For the broader CMO sourcing strategy and evaluation framework, see [[CMO Sourcing Performance Coffee]].
+> Zur übergeordneten CMO-Sourcing-Strategie und dem Bewertungsrahmen siehe [[CMO Sourcing Performance Coffee]].
 
-## Sender Identity
+## Absenderidentität
 
 - **Name:** [[Oleg Personal Context|Oleg Kober]]
-- **Role:** Mitgründer — Performance Coffee Brand
-- **Email:** accounts@ok-holding.com
-- **Location:** Berlin, Deutschland
+- **Rolle:** Mitgründer — Performance Coffee Brand
+- **E-Mail:** accounts@ok-holding.com
+- **Standort:** Berlin, Deutschland
 
 ---
 
-## Initial Outreach Template
+## Erstkontakt-Template
 
-**Subject:** Anfrage: Entwicklung Instant-Kaffee-Sachet mit funktionellen Inhaltsstoffen
+**Betreff:** Anfrage: Entwicklung Instant-Kaffee-Sachet mit funktionellen Inhaltsstoffen
 
-### Key Content of Email
+### Wesentlicher E-Mail-Inhalt
 
-**What Performance Coffee Brand is looking for:**
+**Was die Performance Coffee Brand sucht:**
 - Instant-Kaffee-Pulver + funktionelle Inhaltsstoffe (8–12g Stick-Pack)
 - Aluminium-Verbundfolie, Schutzgas-Versiegelung
-- Pilot-Batch: **1,000–2,000 Sachets** (Erstphase)
-- Later scale: **10,000–50,000 Sachets/Monat**
+- Pilot-Batch: **1.000–2.000 Sachets** (Erstphase)
+- Spätere Skalierung: **10.000–50.000 Sachets/Monat**
 
-**Tier-1 Stack disclosed in email:**
+**In der E-Mail offengelegter Tier-1-Stack:**
 
-| Ingredient | Status |
+| Inhaltsstoff | Status |
 |---|---|
-| Kaffee Light Roast Instant | Base |
+| Kaffee Light Roast Instant | Basis |
 | [[L-Theanin]] | NEM-konform |
 | [[Alpha-GPC]] | NEM-konform |
 | Lion's Mane | NEM-konform |
@@ -49,109 +49,109 @@ This source document (status: bereit zum Versenden, date: 2026-06-15) provides r
 | Kreatin Monohydrat | NEM-konform |
 | [[Taurin]] | NEM-konform |
 
-> ⚠️ **Notable:** NAC (N-Acetyl-Cysteine) is mentioned in the email as a technical challenge ingredient but does **not** appear in the Tier-1 stack described in [[Performance Coffee Brand Hai Onepager]]. See contradiction note below.
+> ⚠️ **Hinweis:** NAC (N-Acetyl-Cystein) wird in der E-Mail als technisch herausfordernder Inhaltsstoff erwähnt, erscheint jedoch **nicht** im Tier-1-Stack des [[Performance Coffee Brand Hai Onepager]]. Siehe Widerspruchshinweis unten.
 
-**Four Questions Asked of CMO Candidates:**
-1. Grundsätzliche Machbarkeit (Instant-Kaffee + stack in einem Sachet)?
-2. MOQ und ungefähre Kosten für Pilot-Batch?
+**Vier Fragen an die CMO-Kandidaten:**
+1. Grundsätzliche Machbarkeit (Instant-Kaffee + Stack in einem Sachet)?
+2. MOQ und ungefähre Kosten für den Pilot-Batch?
 3. Welche Zertifizierungen hat die Anlage? (GMP, ISO, [[Kölner Liste]]-ready?)
 4. Erfahrung mit NAC-Maskierung oder Flavoristen-Netzwerk?
 
 ---
 
-## Follow-Up Template (After 1 Week No Response)
+## Nachfass-Template (nach 1 Woche ohne Antwort)
 
-**Subject:** Nachfrage: Instant-Kaffee-Sachet Entwicklung
+**Betreff:** Nachfrage: Instant-Kaffee-Sachet Entwicklung
 
-Brief follow-up referencing original email date, noting CMO partner decision is imminent to create urgency.
+Kurze Nachfass-E-Mail mit Bezug auf das ursprüngliche Sendedatum; weist auf die bevorstehende CMO-Partnerentscheidung hin, um Dringlichkeit zu erzeugen.
 
 ---
 
-## CMO Candidate Priority List
+## Priorisierte CMO-Kandidatenliste
 
 | Priorität | Firma | Land/Stadt | Stärke |
 |---|---|---|---|
-| 1 | **Prinova** | DE, Düsseldorf | Größte Erfahrung functional ingredients |
-| 2 | **Lehvoss Nutrition** | DE, Hamburg | Custom Formulation Experte |
-| 3 | **Nutri-Epitech** | IT | Longevity-Stack Erfahrung, kleine MOQ |
+| 1 | **Prinova** | DE, Düsseldorf | Größte Erfahrung mit funktionellen Inhaltsstoffen |
+| 2 | **Lehvoss Nutrition** | DE, Hamburg | Custom-Formulation-Experte |
+| 3 | **Nutri-Epitech** | IT | Longevity-Stack-Erfahrung, kleine MOQ |
 | 4 | **Aidea** | IT, Mailand | Functional Drinks + Sachets |
 | 5 | **Herbafit** | DE | Pulver-Sachets, IFS Food |
 
-### Candidate Profiles
+### Kandidatenprofile
 
-#### 1. Prinova (Düsseldorf, DE) — Priority 1
-- Largest functional ingredients experience in the list
-- German-based → favorable for DACH regulatory alignment ([[NEM Konformität]])
-- Most likely to understand the full Tier-1 stack complexity
+#### 1. Prinova (Düsseldorf, DE) — Priorität 1
+- Größte Erfahrung mit funktionellen Inhaltsstoffen auf der Liste
+- Deutschlandbasiert → vorteilhaft für regulatorische Ausrichtung im DACH-Raum ([[NEM Konformität]])
+- Höchste Wahrscheinlichkeit, die volle Komplexität des Tier-1-Stacks zu verstehen
 
-#### 2. Lehvoss Nutrition (Hamburg, DE) — Priority 2
-- Custom formulation specialist
-- German-based → [[Kölner Liste]] familiarity likely
-- Strong for bespoke formula development
+#### 2. Lehvoss Nutrition (Hamburg, DE) — Priorität 2
+- Spezialist für Custom Formulation
+- Deutschlandbasiert → Vertrautheit mit der [[Kölner Liste]] wahrscheinlich
+- Stark bei der Entwicklung maßgeschneiderter Formeln
 
-#### 3. Nutri-Epitech (IT) — Priority 3
-- Longevity stack experience — potentially most relevant for the full Performance Coffee Brand concept
-- **Small MOQ** — important for the 1,000–2,000 unit pilot batch
-- Italian manufacturer; EU-compliant but different regulatory culture
+#### 3. Nutri-Epitech (IT) — Priorität 3
+- Longevity-Stack-Erfahrung — potenziell am relevantesten für das Gesamtkonzept der Performance Coffee Brand
+- **Kleine MOQ** — wichtig für den Pilot-Batch mit 1.000–2.000 Einheiten
+- Italienischer Hersteller; EU-konform, jedoch andere regulatorische Kultur
 
-#### 4. Aidea (Milan, IT) — Priority 4
-- Functional drinks + sachets expertise
-- Relevant format experience for the stick-pack design
+#### 4. Aidea (Mailand, IT) — Priorität 4
+- Expertise bei Functional Drinks + Sachets
+- Relevante Formaterfahrung für das Stick-Pack-Design
 
-#### 5. Herbafit (DE) — Priority 5
-- Powder sachet specialists
-- **IFS Food** certified — relevant but different from GMP/[[Kölner Liste]]
-
----
-
-## Technical Challenge: NAC Odor Masking
-
-The email explicitly flags **NAC (N-Acetyl-Cysteine)** as a formulation challenge:
-- NAC has a **characteristic sulfur odor** (due to the thiol group in its molecular structure)
-- Masking this in a sachet product requires either:
-  - **Flavorist intervention** — specialist flavor masking
-  - **Encapsulation** — microencapsulation of NAC to isolate the odor
-  - **Alternative NAC form** — e.g., NAC ethyl ester (less odorous but different efficacy profile)
-
-This is a real formulation challenge. CMOs with in-house flavorists or established flavorist networks are preferred.
-
-> ⚠️ **Contradiction with Tier-1 Stack:** NAC does not appear in the published Tier-1 stack on [[Performance Coffee Brand Hai Onepager]] or in the [[Performance Coffee Brand CLAUDE Project Context]] stack definition. Its appearance in the CMO email as a "technical challenge" suggests either: (a) NAC is under consideration for a Tier-2 stack expansion, or (b) it was included in an earlier draft and later removed from the official stack. This should be clarified in the stack definition documents.
+#### 5. Herbafit (DE) — Priorität 5
+- Spezialist für Pulver-Sachets
+- **IFS Food** zertifiziert — relevant, jedoch anders als GMP/[[Kölner Liste]]
 
 ---
 
-## Key Technical Specs in Email
+## Technische Herausforderung: NAC-Geruchsmaskierung
 
-| Parameter | Spec |
+Die E-Mail benennt **NAC (N-Acetyl-Cystein)** explizit als Formulierungsherausforderung:
+- NAC besitzt einen **charakteristischen Schwefelgeruch** (bedingt durch die Thiolgruppe in seiner Molekülstruktur)
+- Die Maskierung in einem Sachet-Produkt erfordert entweder:
+  - **Flavoristen-Intervention** — spezialisierte Geschmacksmaskierung
+  - **Verkapselung** — Mikroverkapselung von NAC zur Geruchsisolierung
+  - **Alternative NAC-Form** — z. B. NAC-Ethylester (weniger geruchsintensiv, aber abweichendes Wirkprofil)
+
+Dies ist eine reale Formulierungsherausforderung. CMOs mit hauseigenen Flavoristen oder etablierten Flavoristen-Netzwerken werden bevorzugt.
+
+> ⚠️ **Widerspruch zum Tier-1-Stack:** NAC erscheint weder im veröffentlichten Tier-1-Stack des [[Performance Coffee Brand Hai Onepager]] noch in der Stack-Definition des [[Performance Coffee Brand CLAUDE Project Context]]. Sein Auftauchen in der CMO-E-Mail als „technische Herausforderung" deutet darauf hin, dass: (a) NAC für eine Tier-2-Stack-Erweiterung in Betracht gezogen wird, oder (b) es in einem früheren Entwurf enthalten war und später aus dem offiziellen Stack entfernt wurde. Dies sollte in den Stack-Definitionsdokumenten geklärt werden.
+
+---
+
+## Zentrale technische Spezifikationen in der E-Mail
+
+| Parameter | Spezifikation |
 |---|---|
 | Format | Stick-Pack / Sachet |
-| Fill weight | 8–12g |
-| Packaging | Aluminium-Verbundfolie |
-| Sealing | Schutzgas-Versiegelung (protective gas sealing) |
-| Pilot MOQ | 1,000–2,000 Sachets |
-| Scale target | 10,000–50,000 Sachets/Monat |
+| Füllgewicht | 8–12g |
+| Verpackung | Aluminium-Verbundfolie |
+| Versiegelung | Schutzgas-Versiegelung (Protective Gas Sealing) |
+| Pilot-MOQ | 1.000–2.000 Sachets |
+| Skalierungsziel | 10.000–50.000 Sachets/Monat |
 
 ---
 
-## Integration with Certification Strategy
+## Einbindung in die Zertifizierungsstrategie
 
-The email asks about GMP and [[Kölner Liste]]-readiness — consistent with [[Certification Roadmap Performance Coffee Brand]] where:
-- GMP certification is a prerequisite for [[Kölner Liste]] (Phase 1 certification)
-- CMO selection directly feeds certification capability
+Die E-Mail fragt nach GMP- und [[Kölner Liste]]-Readiness — konsistent mit dem [[Certification Roadmap Performance Coffee Brand]], wonach:
+- GMP-Zertifizierung eine Voraussetzung für die [[Kölner Liste]] ist (Phase-1-Zertifizierung)
+- Die CMO-Auswahl die Zertifizierungsfähigkeit direkt beeinflusst
 
-The IFS Food certification of Herbafit is noted but ranks lower than GMP/Kölner Liste capability, consistent with the certification roadmap's prioritization.
+Die IFS-Food-Zertifizierung von Herbafit wird vermerkt, rangiert jedoch niedriger als GMP/Kölner-Liste-Kompetenz — konsistent mit der Priorisierung im Zertifizierungs-Roadmap.
 
 ---
 
-## Related Pages
+## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — broader CMO evaluation framework
-- [[Performance Coffee Brand]] — project entity
-- [[Certification Roadmap Performance Coffee Brand]] — certification requirements CMO must meet
-- [[NEM Konformität]] — regulatory framework
-- [[Kölner Liste]] — certification CMO must support
-- [[Longevity Stack Ingredients]] — full ingredient context
-- [[L-Theanin]] — Tier-1 ingredient
-- [[Alpha-GPC]] — Tier-1 ingredient
-- [[Ashwagandha KSM-66]] — Tier-1 ingredient
-- [[Taurin]] — Tier-1 ingredient
-- [[Oleg Personal Context]] — sender / founder
+- [[CMO Sourcing Performance Coffee]] — übergeordneter CMO-Bewertungsrahmen
+- [[Performance Coffee Brand]] — Projekteinheit
+- [[Certification Roadmap Performance Coffee Brand]] — Zertifizierungsanforderungen, die der CMO erfüllen muss
+- [[NEM Konformität]] — regulatorischer Rahmen
+- [[Kölner Liste]] — Zertifizierung, die der CMO unterstützen muss
+- [[Longevity Stack Ingredients]] — vollständiger Inhaltsstoffkontext
+- [[L-Theanin]] — Tier-1-Inhaltsstoff
+- [[Alpha-GPC]] — Tier-1-Inhaltsstoff
+- [[Ashwagandha KSM-66]] — Tier-1-Inhaltsstoff
+- [[Taurin]] — Tier-1-Inhaltsstoff
+- [[Oleg Personal Context]] — Absender / Gründer

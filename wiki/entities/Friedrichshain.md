@@ -5,33 +5,33 @@ tags: [berlin, neighborhood, location, café, retail, standort]
 sources: ["raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Berlin neighborhood identified as a target location for the Café Berlin Partnership Hai venture
+summary: Berliner Stadtviertel, das als Zielstandort für das Vorhaben Café Berlin Partnership Hai identifiziert wurde
 ---
 
 # Friedrichshain
 
-## Overview
+## Überblick
 
-**Friedrichshain** is a Berlin neighborhood (Bezirk) in the eastern part of the city, identified alongside [[Prenzlauer Berg]] as a **target location** (Zielgebiet) for the [[Café Berlin Partnership Hai]] venture.
+**Friedrichshain** ist ein Berliner Bezirk im östlichen Teil der Stadt, der gemeinsam mit [[Prenzlauer Berg]] als **Zielstandort** (Zielgebiet) für das Vorhaben [[Café Berlin Partnership Hai]] identifiziert wurde.
 
-## Context in Café Planning
+## Kontext in der Café-Planung
 
-From the [[Café Berlin Partnership Hai — Planning Detail]] planning document:
+Aus dem Planungsdokument [[Café Berlin Partnership Hai — Planning Detail]]:
 
-- **Rent benchmark:** 25–40 €/m²
-- **Target floor area:** 80–120 m²
-- **Open decision:** Laufkundschaft (foot traffic) vs. Destinationskonzept (destination concept)
+- **Mietrichtwert:** 25–40 €/m²
+- **Angestrebte Fläche:** 80–120 m²
+- **Offene Entscheidung:** Laufkundschaft vs. Destinationskonzept
 
-## Neighborhood Profile (General)
+## Stadtviertel-Profil (Allgemein)
 
-- Dense urban area with strong café/bar culture
-- Young demographic, high foot traffic on main streets (e.g., Simon-Dach-Straße)
-- Competitive café market
-- Mix of residential and commercial uses
-- Good public transport (U-Bahn, Tram, S-Bahn)
+- Dichtes städtisches Gebiet mit ausgeprägter Café- und Kneipenkultur
+- Junges demografisches Profil, hohes Fußgängeraufkommen in den Hauptstraßen (z. B. Simon-Dach-Straße)
+- Wettbewerbsintensiver Café-Markt
+- Mix aus Wohn- und Gewerbenutzung
+- Gute Anbindung an den öffentlichen Nahverkehr (U-Bahn, Tram, S-Bahn)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Café Berlin Partnership Hai]] — venture context
-- [[Café Berlin Partnership Hai — Planning Detail]] — source document
-- [[Prenzlauer Berg]] — alternative target location
+- [[Café Berlin Partnership Hai]] — Vorhaben-Kontext
+- [[Café Berlin Partnership Hai — Planning Detail]] — Quelldokument
+- [[Prenzlauer Berg]] — alternativer Zielstandort
