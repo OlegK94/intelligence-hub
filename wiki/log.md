@@ -487,3 +487,9 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 - Erstellt: [[Andy Galpin]], [[Kelly Starrett]], [[Stacy Sims]], [[Dan Garner]]
 - Aktualisiert: [[Supplement Stack]] — Wissenschaftliche Referenzen-Tabelle erweitert
 - Notes: Momentous Scientific Advisory Board dokumentiert — 6 Experten (Huberman, Galpin, Starrett, Sims, Garner, McDaniel) als Referenzen für Olegs Stack; Brandon McDaniel (MLB VP Player Performance) fehlt noch als eigene Entity
+
+## [2026-06-20 20:00] query | "32 Tricks Claude Code — was fehlt noch?"
+- Quelle: Clippings/32 Tricks to Level Up Claude Code in 16 Mins.md (YouTube, Nate Herk)
+- Output: outputs/notes/2026-06-20-claude-code-32-tricks-audit.html (Apple-Stil)
+- Befund: 21 umgesetzt/verfügbar, 3 echte Lücken (Custom Skills, CLAUDE.md schlanker+routen, Permissions Allow/Deny), 5 optional (Coding), 3 nicht relevant
+- Supplement Stack: deutsche Übersetzung mit 2026-06-20-Update + Scientific-References-Tabelle (Galpin/Starrett/Sims/Garner/McDaniel) re-integriert nach Rebase-Verlust

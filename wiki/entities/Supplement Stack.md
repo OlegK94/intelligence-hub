@@ -1,91 +1,85 @@
 ---
 title: Supplement Stack
 type: entity
-tags: [supplements, performance, momentous, creatine, omega3, whey, sulforaphane, vitamin-d, alpha-gpc, l-tyrosine, aktiv, rhonda-patrick]
-sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
+tags: [supplements, performance, momentous, thorne, creatine, omega3, whey, collagen, vitamin-d, zinc, magnesium, aktiv]
+sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/inbox/supplement-stack-update-2026-06-20.md"]
 created: 2026-06-06
-updated: 2026-06-06
-summary: Olegs aktiver Supplement-Stack — primär Momentous mit 6 aktiven Supplements, Sulforaphan als einzige Nicht-Momentous-Ausnahme nach Rhonda-Patrick-Protokoll, situativer Pre-Workout (Alpha-GPC + L-Tyrosine) und explizite Ausschlussliste
+updated: 2026-06-20
+summary: "Olegs aktiver Supplement-Stack per 2026-06-20 — Momentous: Protein, Kreatin, Magnesium, Collagen, Omega-3 · Thorne: Vitamin D3 Drops, Zinc Picolinat 30mg"
 ---
 
 # Supplement Stack
 
 ## Überblick
 
-Olegs Supplement-Stack folgt dem **Momentous-exklusiv**-Prinzip mit zwei bewussten Ausnahmen. Das Protokoll ist evidenzbasiert, duplikatfrei und aktiv gepflegt.
+Olegs Supplement-Stack (Stand: 2026-06-20) ist **Momentous-primär** mit [[Thorne]] als zweite Marke für D3 und Zink. Der Stack wurde aktualisiert — Collagen und Zink sind neu hinzugekommen, das bisherige Complete Expert Stack Bundle wurde durch Einzelprodukte ersetzt.
 
-> Für vollständige Quellendetails und Dosierungshinweise siehe [[Supplement Stack Source Detail]].
 > Für das tägliche Timing siehe [[Health Protocol Master]].
 
-## Leitprinzip
+## Aktiver Stack (Stand 2026-06-20)
 
-> Momentous-exklusiv + 2 spezifische Ausnahmen. Keine Duplikate. Nur was evidenzbasiert und sinnvoll ist.
+| Supplement | Marke | Anmerkung |
+|---|---|---|
+| Protein Isolat (Whey) | [[Momentous]] | Post-Workout ~40g |
+| Kreatin (Monohydrat) | [[Momentous]] | 5g täglich, Timing flexibel |
+| Magnesium | [[Momentous]] | Schlaf/Kognition |
+| Collagen | [[Momentous]] | ⚠️ Neu — zuvor explizit ausgeschlossen |
+| Omega-3 | [[Momentous]] | Mit Mahlzeit |
+| Vitamin D3 Drops | [[Thorne]] | Ersetzt bisherigen Eigenvorrat (20.000 IU × 2/Woche) |
+| Zinc Picolinat 30mg | [[Thorne]] | ⚠️ Neu im Stack |
 
-**Marke:** [[Momentous]] (primär)
-**Ausnahmen:** Nur wenn Momentous kein gleichwertiges Produkt hat
-**Filter:** Evidenzbasiert, keine Redundanz
+## Contradictions / Updates
 
-## Aktiver Stack – Übersicht
+> ⚠️ **Update 2026-06-20:** Der Stack weicht in drei Punkten von der vorherigen Wiki-Version ab:
+>
+> 1. **Collagen** — war bisher unter „Explizit ausgeschlossen" geführt („derzeit nicht benötigt"). Jetzt aktiv eingenommen via Momentous. Grund für die Kehrtwende nicht dokumentiert — möglicherweise Gelenkschutz/Hyrox-Vorbereitung.
+> 2. **Zinc Picolinat 30mg (Thorne)** — zuvor nicht im Stack. Zweite Ausnahme von der Momentous-Exklusivität (nach Sunday Natural).
+> 3. **D3-Protokoll**: Wechsel von eigenem Hochdosis-Vorrat (20.000 IU × 2/Woche) zu Thorne D3 Drops — genaue Dosierung nicht spezifiziert; Monitoring empfohlen.
+>
+> **Abgesetzt (bestätigt 2026-06-20):** Alpha-GPC und L-Tyrosine (Pre-Workout) werden nicht mehr eingenommen.
+> **Status unklar:** Sulforaphan (Sunday Natural), Apigenin, L-Theanin — nicht im aktuellen Stack erwähnt.
 
-| Supplement | Marke | Dosis | Timing |
-|---|---|---|---|
-| Complete Expert Stack (D3/K2, Mag L-Threonate, Apigenin, L-Theanin, etc.) | [[Momentous]] | Laut Anweisung | Laut Anweisung |
-| Whey Protein Isolate (Unflavored) | [[Momentous]] | ~40g | 07:40 nach dem Training (im Auto) |
-| Omega-3 | [[Momentous]] | Laut Anweisung | Zur Mahlzeit |
-| Creatine | [[Momentous]] | 5g täglich | Flexibel (Konsistenz > Timing) |
-| Sulforaphan (Brokkolisprossen-Extrakt) | [[Sunday Natural]] | Laut Anweisung | Laut Anweisung |
-| Vitamin D3 20,000 IU + K2 | Eigener Vorrat | Hochdosis | 2× / Woche (Mo + Do) |
+## Abgesetzt (Stand 2026-06-20)
 
-## Pre-Workout-Stack (situativ)
-
-- **[[Alpha-GPC]]** — kognitive Aktivierung, im Auto vor dem Training eingenommen (06:05)
-- **[[L-Tyrosine]]** — Dopamin-Unterstützung, zusammen mit Alpha-GPC eingenommen
-
-## Explizit ausgeschlossen
-
-| Supplement | Grund |
-|---|---|
-| L-Glutamin | Ernährung liefert ausreichende Mengen |
-| Collagen Peptides | Derzeit nicht benötigt |
-| Fiber+ | Ballaststoffzufuhr über die Ernährung ausreichend |
-| Alles andere | Kein nachgewiesener evidenzbasierter Nutzen |
+- **[[Alpha-GPC]]** — Pre-Workout, kognitive Aktivierung — **nicht mehr eingenommen** (bestätigt 2026-06-20).
+- **[[L-Tyrosine]]** — Pre-Workout, Dopamin-Support — **nicht mehr eingenommen** (bestätigt 2026-06-20).
 
 ## Wichtige Hinweise
 
-### Sulforaphan-Ausnahme
-Das einzige Nicht-Momentous-Supplement. Quelle: [[Rhonda Patrick]]-Protokoll. Momentous bietet kein entsprechendes Brokkolisprossen-Extrakt-Produkt an.
+### Kreatin-Protokoll
+5g/Tag mit flexiblem Timing — entspricht dem wissenschaftlichen Konsens, dass die Kreatin-Sättigung das genaue Timing für erfahrene Nutzer irrelevant macht.
 
-### Creatine-Protokoll
-5g/Tag mit flexiblem Timing — entspricht dem wissenschaftlichen Konsens, dass die Creatine-Sättigung das genaue Timing für erfahrene Nutzer irrelevant macht.
-
-### Vitamin-D3-Hochdosisprotokoll
-20,000 IU × 2 pro Woche = 40,000 IU/Woche. K2 wird zur sicheren Calciumverwertung gleichzeitig eingenommen.
-
-> ⚠️ **Mögliche Doppelung:** Der Momentous Complete Expert Stack enthält Vitamin D3/K2. In Kombination mit den 20,000 IU × 2/Woche aus dem eigenen Vorrat kann die gesamte wöchentliche D3-Zufuhr hoch ausfallen. Blutspiegel-Kontrolle empfohlen. Siehe [[Supplement Stack Source Detail]] für die vollständige Diskussion.
+### Vitamin-D3-Protokoll
+Wechsel auf [[Thorne]] D3 Drops. Da auch frühere Momentous-Bundles D3/K2 enthielten, ist bei Kombination eine Blutspiegel-Kontrolle empfohlen.
 
 ## Integration mit dem Health Protocol
 
 Der Supplement-Stack ist verknüpft mit:
-- **[[Health Protocol Master]]** — tägliche Timing-Struktur (06:05 Alpha-GPC, 07:40 Proteinshake)
+- **[[Health Protocol Master]]** — tägliche Timing-Struktur (07:40 Proteinshake)
 - **[[BMR and TDEE]]** — Proteinziel von 195–200g, unterstützt durch Whey-Supplementierung
 - **[[3D Body Scan Scaneca Mai 2026]]** — Körperzusammensetzungs-Baseline als Grundlage für den Protokollbedarf
 
-## Referenzierte wissenschaftliche Rahmenwerke
+## Wissenschaftliche Referenzen
 
-- **[[Andrew Huberman]]** — Momentous ist der offizielle Supplement-Partner des Huberman Lab; Stack-Design durch Huberman-Protokolle beeinflusst
-- **[[Rhonda Patrick]]** — Sulforaphan-Protokoll (Brokkolisprossen-Extrakt zur NRF2-Pathway-Aktivierung, Krebsrisikoreduktion)
+Olegs Stack basiert auf den Frameworks folgender Experten — alle außer Rhonda Patrick sind direkte **Momentous Scientific Advisors**:
+
+| Experte | Rolle | Relevanz für Stack |
+|---|---|---|
+| [[Andrew Huberman]] | Neurowissenschaftler, Huberman Lab | Momentous-Partner; tägliche Protokoll-Struktur |
+| [[Rhonda Patrick]] | Biochemikerin, Longevity-Forscherin | Sulforaphan-Protokoll (NRF2-Pathway) |
+| [[Andy Galpin]] | Ph.D., CSU-Professor & Coach | Kraft/Ausdauer-Physiologie, Kreatin-Protokoll |
+| [[Kelly Starrett]] | Co-Gründer The Ready State | Mobility, Recovery, Verletzungsprävention |
+| [[Stacy Sims]] | Trainingsphysiologin | Weibliche Performance-Physiologie (Momentous-Advisor) |
+| [[Dan Garner]] | Olympic Strength & Nutrition Coach | Elite-Athleten-Ernährung und Supplementierung |
+| [[Brandon McDaniel]] | MLB VP of Player Performance | Athletik-Management im Profisport |
 
 ## Verwandte Seiten
 
 - [[Supplement Stack Source Detail]] — vollständiges Quelldokument
 - [[Health Protocol Master]] — Timing und Integration
-- [[Alpha-GPC]] — kognitives Pre-Workout-Supplement
-- [[L-Tyrosine]] — Dopamin-Pre-Workout-Supplement
 - [[Momentous]] — primäre Marke
+- [[Thorne]] — zweite Marke (D3, Zink)
 - [[Rhonda Patrick]] — Quelle des Sulforaphan-Protokolls
-- [[Sulforaphane]] — Brokkolisprossen-Extrakt
 - [[Creatine]] — 5g-Tagesprotokoll
-- [[Magnesium L-Threonate]] — Schlaf-/Kognitions-Supplement im Bundle
-- [[Apigenin]] — Schlaf-Supplement im Bundle
 - [[Oleg Personal Context]] — betreffende Person
 - [[MOC Performance und Leben]] — übergeordnete MOC
