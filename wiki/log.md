@@ -8,7 +8,7 @@ Append-only timeline of ingests, queries, and lint passes.
 - Ready to ingest first source from `raw/inbox/` or any path under `raw/`.
 
 ## [2026-06-13 09:45 UTC] ingest | raw/Privat/Performance/Health Protocol — Master.md
-- Pages: [[wikisourceshealth-protocol-master.md]], [[wikientitiesandrew-huberman.md]], [[wikientitiesrhonda-patrick.md]], [[wikientitiesbryan-johnson.md]], [[wikiconceptshiit-training.md]], [[wikiconceptszone-2-cardio.md]], [[wikiconceptsnsdr.md]], [[wikiconcepts3d-body-scan.md]], [[wikiconceptssauna.md]], [[wikiconceptssupplement-stack.md]], [[wikientitiesalpha-gpc.md]], [[wikientitiesl-tyrosine.md]], [[index.md]]
+- Pages: [[Health Protocol Master]], [[Andrew Huberman]], [[Rhonda Patrick]], [[Bryan Johnson]], [[Hiit Training]], [[Zone 2 Cardio]], [[Nsdr]], [[3d Body Scan]], [[Sauna]], [[Supplement Stack]], [[Alpha Gpc]], [[L Tyrosine]], [[index.md]]
 - Ingested comprehensive health optimization protocol with baseline 3D body scan metrics, 6-day training split, nutrition plan, and daily structure. Created source page plus 10 entity/concept pages covering key experts (Huberman, Patrick, Johnson), training methods (HIIT, Zone 2), recovery protocols (NSDR, Sauna), supplements (Alpha-GPC, L-Tyrosine), and assessment methods (3D body scanning). All pages extensively cross-linked with Obsidian wikilinks.
 
 ## [2026-06-13 09:48 UTC] ingest | Clippings/Andrew Huberman.md
