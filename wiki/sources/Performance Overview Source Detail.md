@@ -5,7 +5,7 @@ tags: [performance, overview, body-composition, nutrition, hyrox, zone-2, postur
 sources: ["raw/Privat/Performance/_vault/00 Performance-Übersicht.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Master performance overview document — body baseline (96.7 kg, 20.3% KFA, 77.1 kg lean mass), nutrition targets (2,800 kcal, 220 g protein), primary limitators (aerobic capacity, visceral fat, bilateral asymmetry, forward head posture), and Zone 2 + Posture unified protocol; reference framework: Huberman, Attia, Bryan Johnson
+summary: "Master performance overview document — body baseline (96.7 kg, 20.3% KFA, 77.1 kg lean mass), nutrition targets (2,800 kcal, 220 g protein), primary limitators (aerobic capacity, visceral fat, bilateral asymmetry, forward head posture), and Zone 2 + Posture unified protocol; reference framework: Huberman, Attia, Bryan Johnson"
 ---
 
 # Performance Overview — Source Detail

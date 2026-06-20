@@ -5,7 +5,7 @@ tags: [aufgaben, P1, finanzen, steuern, wagglz, fixkosten, 2026]
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Source document for Oleg's P1 (diese Woche) task list — three priority actions: ESt 2025 document collection, Wagglz strategy decision, and fixed cost optimization review
+summary: "Source document for Oleg's P1 (diese Woche) task list — three priority actions: ESt 2025 document collection, Wagglz strategy decision, and fixed cost optimization review"
 ---
 
 # P1 – Diese Woche (Source Detail)

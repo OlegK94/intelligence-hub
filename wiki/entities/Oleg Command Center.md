@@ -5,7 +5,7 @@ tags: [dashboard, moc, oleg, finanzen, performance, rehabilitation, kritische-za
 sources: ["raw/Privat/MOC/Finanz-Home.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Oleg's top-level personal Command Center — dual-track system running Financial Rehabilitation and Performance/Body in parallel; current critical state: -7,970 € structural annual deficit, -1,405 € overdraft, 1.10 € savings; ~4,611 € April commission allocated to Rehabilitation Plan
+summary: "Oleg's top-level personal Command Center — dual-track system running Financial Rehabilitation and Performance/Body in parallel; current critical state: -7,970 € structural annual deficit, -1,405 € overdraft, 1.10 € savings; ~4,611 € April commission allocated to Rehabilitation Plan"
 ---
 
 # Oleg Kober — Command Center

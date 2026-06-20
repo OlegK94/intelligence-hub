@@ -5,7 +5,7 @@ tags: [performance-cafe, ingredients, database, longevity, nootropics, adaptogen
 sources: ["raw/Business/PerformanceCafe/research/02_ingredienzen_db.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Full scientific ingredient database for Performance Café — 46 ingredients across 7 categories (stimulants, nootropics, adaptogens, functional mushrooms, amino acids, longevity core, vitamins/minerals); EU regulatory status, heat stability at 90°C, COGS per portion, Blueprint alignment, and three SKU formulations; regulatory blockers: NMN and Urolithin A not yet EU-approved
+summary: "Full scientific ingredient database for Performance Café — 46 ingredients across 7 categories (stimulants, nootropics, adaptogens, functional mushrooms, amino acids, longevity core, vitamins/minerals); EU regulatory status, heat stability at 90°C, COGS per portion, Blueprint alignment, and three SKU formulations; regulatory blockers: NMN and Urolithin A not yet EU-approved"
 ---
 
 # Performance Café — Vollständige Ingredienzen-Datenbank (Source Detail)

@@ -5,7 +5,7 @@ tags: [company, NR, NIAGEN, nicotinamide-riboside, patent, NAD-precursor, perfor
 sources: ["raw/Business/PerformanceCafe/legal/ip_landscape.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: US company (NASDAQ: NAGE) rebranded from ChromaDex Corp. to Niagen Bioscience Inc. in 2025; sole significant patent holder for NR (Nicotinamide Riboside) as supplement ingredient; licenses NIAGEN to brands including Nestlé Health Science; new NR salt form patent (US 12,252,506) expires ~2034; contact partnerops@niagenbio.com
+summary: "US company (NASDAQ: NAGE) rebranded from ChromaDex Corp. to Niagen Bioscience Inc. in 2025; sole significant patent holder for NR (Nicotinamide Riboside) as supplement ingredient; licenses NIAGEN to brands including Nestlé Health Science; new NR salt form patent (US 12,252,506) expires ~2034; contact partnerops@niagenbio.com"
 ---
 
 # ChromaDex / Niagen Bioscience

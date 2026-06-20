@@ -5,7 +5,7 @@ tags: [inbox, actions, aufgaben, privat]
 sources: ["raw/inbox/📥 Offene Actions.md"]
 created: 2026-06-16
 updated: 2026-06-16
-summary: Privater Action-Tracker (Scope: nur privat) — diese Woche Café Planning Session, kurzfristig Password Manager + Allianz + Hyrox-Anmeldung, mittelfristig Scaneca 3D-Scan
+summary: "Privater Action-Tracker (Scope: nur privat) — diese Woche Café Planning Session, kurzfristig Password Manager + Allianz + Hyrox-Anmeldung, mittelfristig Scaneca 3D-Scan"
 ---
 
 Offene Actions Inbox ist der zentrale private Action-Tracker von [[Oleg Personal Context]]. Scope explizit: nur Privat. Doctolib-Arbeit und Firmen-Automations sind ausgeschlossen (source: [[Offene Actions Inbox Source Detail]]).

@@ -5,7 +5,7 @@ tags: [wagglz, gmbh, business, finanzen, geschäftsführer, 2025, 2026, auflösu
 sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Wagglz GmbH — Oleg's company with no revenue since January 2026; strategic decision required by 2026-07-01: continue (with concept) vs. dissolve (§17 EStG loss); ongoing costs ~120–255 €/month via Oleg-Darlehen
+summary: "Wagglz GmbH — Oleg's company with no revenue since January 2026; strategic decision required by 2026-07-01: continue (with concept) vs. dissolve (§17 EStG loss); ongoing costs ~120–255 €/month via Oleg-Darlehen"
 ---
 
 # Wagglz GmbH

@@ -5,7 +5,7 @@ tags: [performance-cafe, coffee, robusta, arabica, vietnam, sourcing, roasting, 
 sources: ["raw/Business/PerformanceCafe/research/03_kaffee_specs.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: Performance Café Modul 2 — scientific specification for coffee base of the Longevity Sachet: Robusta vs. Arabica comparison, Vietnamese Robusta sourcing (Dak Lak/Buôn Ma Thuột), 5 blend scenarios, roast grade longevity analysis, 4 extraction methods, and sourcing contacts for EU importers, DACH roasters, and Freeze-Dried CMOs
+summary: "Performance Café Modul 2 — scientific specification for coffee base of the Longevity Sachet: Robusta vs. Arabica comparison, Vietnamese Robusta sourcing (Dak Lak/Buôn Ma Thuột), 5 blend scenarios, roast grade longevity analysis, 4 extraction methods, and sourcing contacts for EU importers, DACH roasters, and Freeze-Dried CMOs"
 ---
 
 # Kaffee-Spezifikation Modul 2 — Performance Café (Source Detail)

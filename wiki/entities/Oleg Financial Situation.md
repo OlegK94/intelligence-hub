@@ -22,7 +22,7 @@ Diese Seite dokumentiert die **privaten Finanzen** von [[Oleg Personal Context|O
 | Provision netto | ~4.611 € | Quartalsweise (Jan/Apr/Jul/Okt) |
 | **Monatsdurchschnitt inkl. Provision** | **~5.173 €** | Geglättet |
 
-> **Jahresnettoeinkommen (geschätzt):** ~61.079 € (Fix: 43.666 € + Provision: 18.444 €)
+> **Jahresnettoeinkommen (geschätzt):** ~62.110 € (Fix: 43.666 € + Provision: 18.444 €)
 
 ### Firmenwagen
 - Doctolib-Firmenwagen: **~348 € geldwerter Vorteil brutto/Mo** → erhöht steuerlich relevantes Einkommen, ist kein Cashzufluss
