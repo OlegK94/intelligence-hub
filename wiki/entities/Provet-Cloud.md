@@ -12,12 +12,16 @@
 ## Marktposition
 
 - **#1 meistgesucht** auf VetSoftwareHub.com (2024)
-- **3.000+ Kliniken** in **45+ Ländern**
+- **2.900+ Kliniken** weltweit (Screenshot-Bestätigung 2026-06-21)
 - **55.000+ Tierärzte** nutzen das System
-- **14 Millionen Konsultationen** in 2025 über die Plattform
+- **20M+ Tiere** bisher versorgt
+- **150+ Integrationen**
 - **90 %** aller finnischen Tierarztpraxen nutzen Provet (Stand: 2014)
 - Nordhealth-Gesamtumsatz: ~$60 M/Jahr (Software-Abonnements)
 - Mitarbeiter: 400+ (Provet-Team)
+
+### Bekannte Großkunden (bestätigt via Website)
+CVS Group • Pets at Home • AniCura • IVC Evidensia • Animalia • AmeriVet • UNAVETS • SPCA • University of Cambridge
 
 ## Expansion Timeline
 
@@ -35,14 +39,16 @@
 
 ---
 
-## Preismodell
+## Preismodell (bestätigt via provet.com Screenshots 2026-06-21)
 
-- **Ab €25/User/Monat** (Subscription)
-- Pläne: **Optimise** → **Elevate** → **Enterprise**
-- 10 User: ~€250–€460/Monat je nach Plan
-- Add-ons separat berechnet
-- Kein Free Trial
-- Preisdetails nur auf Anfrage (kein öffentliches Pricing-Sheet)
+| Plan | US | UK | Inkludiert |
+|------|----|----|-----------|
+| **Core** | $99/vet/Monat | £99/vet/Monat | 1 Vet im Platform-Fee. Free für Non-Vet-Staff. Free Provet Academy. Fast Implementation. Unified Payments. |
+| **Pro** | $129/vet/Monat | £119/vet/Monat | Alles in Core + Referral Portal, Multi-Location-Mgmt, Triage Board, Dedicated Customer Success |
+| **Enterprise** | Custom | Custom | Alles in Pro + Dedicated Account Manager, SLA, Custom Terms, Single Sign-On |
+| **AI Scribe** (Add-on) | — | £30/seat/Monat | Dictation, Desktop/Tablet/Mobile, 30 Min/Monat frei, Unlimited Usage, Custom Templates |
+
+**Enterprise Pilot-Angebot:** Bis 5 Kliniken, 3 Monate gratis, Implementation inklusive, kein Vertrag nötig.
 
 ---
 
@@ -158,7 +164,7 @@
 | GOT-Abrechnung | Nicht DACH-spezifisch | GOT-konform (DE/AT-spezifisch) |
 | Onboarding | Unbekannt | 6-Schritt-Wizard, schnelle Einrichtung |
 | App-Store-Präsenz | Kein Mobile-First | iOS/Android möglich |
-| Tierhalter-Portal | Eingeschränkt | Core-Feature in Wagglz |
+| Tierhalter-Portal | ⚠️ Online-Buchung (self-service) vorhanden, kein vollständiges Pet-Owner-Portal | Vollständiges Portal: Tiere, Termine, Rechnungen, Nachrichten — echter Differenziator |
 
 ---
 

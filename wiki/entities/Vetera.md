@@ -56,10 +56,15 @@
 | Statistik & Berichte | ✅ |
 | Marketing | ✅ |
 | Controlling | ✅ |
-| Videosprechstunde | ✅ |
+| Videosprechstunde | ✅ (bestätigt: "Video-Sprechstunde") |
 | Echtzeit-Kollaboration & Chat | ✅ (neuere Version) |
-| Unbegrenzte Filialen in einer DB | ✅ |
+| Unbegrenzte Filialen in einer DB | ✅ (bestätigt: "Beliebig viele Filialen in nur einer Datenbank") |
 | Multi-Site | ✅ |
+| **Digitales Wartezimmer** | ✅ (bestätigt via Screenshot) |
+| **Online-Terminvereinbarung** | ✅ (bestätigt via Screenshot) |
+| **Automatisierte digitale Kommunikation** | ✅ (bestätigt via Screenshot) |
+| **Digitale Patientenakte** | ✅ (bestätigt via Screenshot) |
+| **Geräteanbindung** | ✅ (bestätigt via Screenshot) |
 
 ---
 
