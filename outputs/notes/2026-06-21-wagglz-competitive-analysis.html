@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wagglz — Vollständige Asset & Wettbewerbs-Analyse</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+  :root {
+    --blue: #2E54CB;
+    --lime: #CCFFB0;
+    --lavender: #A6A6FF;
+    --bg: #F5F5F7;
+    --card: #FFFFFF;
+    --text: #1D1D1F;
+    --text-secondary: #6E6E73;
+    --border: #D2D2D7;
+    --success: #34C759;
+    --warning: #FF9F0A;
+    --danger: #FF3B30;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  .hero {
+    background: var(--blue);
+    color: white;
+    padding: 80px 40px 60px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -60px; right: -80px;
+    width: 300px; height: 300px;
+    background: var(--lavender);
+    border-radius: 50%;
+    opacity: 0.25;
+  }
+
+  .hero::after {
+    content: '';
+    position: absolute;
+    bottom: -40px; left: 20%;
+    width: 200px; height: 200px;
+    background: var(--lime);
+    border-radius: 50%;
+    opacity: 0.15;
+  }
+
+  .hero-inner { max-width: 900px; margin: 0 auto; position: relative; z-index: 1; }
+
+  .logo-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 100px;
+    padding: 6px 16px 6px 6px;
+    margin-bottom: 24px;
+  }
+
+  .logo-circle {
+    width: 28px; height: 28px;
+    background: var(--lime);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px; color: var(--blue);
+  }
+
+  .logo-badge span { font-size: 13px; font-weight: 500; }
+
+  h1 { font-size: 44px; font-weight: 700; line-height: 1.1; margin-bottom: 16px; }
+
+  .hero-meta { font-size: 14px; opacity: 0.7; margin-top: 20px; }
+
+  .container { max-width: 900px; margin: 0 auto; padding: 40px 40px; }
+
+  .section { margin-bottom: 48px; }
+
+  .section-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--blue);
+    margin-bottom: 12px;
+  }
+
+  h2 { font-size: 28px; font-weight: 700; margin-bottom: 8px; }
+  h3 { font-size: 18px; font-weight: 600; margin-bottom: 12px; color: var(--text); }
+
+  .lead { font-size: 17px; color: var(--text-secondary); line-height: 1.7; margin-bottom: 24px; }
+
+  .card {
+    background: var(--card);
+    border-radius: 16px;
+    padding: 24px;
+    border: 1px solid var(--border);
+    margin-bottom: 16px;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  .stat-card {
+    background: var(--card);
+    border-radius: 16px;
+    padding: 20px 24px;
+    border: 1px solid var(--border);
+    text-align: center;
+  }
+
+  .stat-num { font-size: 36px; font-weight: 700; color: var(--blue); }
+  .stat-label { font-size: 13px; color: var(--text-secondary); margin-top: 4px; }
+
+  .brand-colors {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin: 16px 0;
+  }
+
+  .color-swatch {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 16px;
+  }
+
+  .swatch-circle { width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); }
+  .swatch-info { }
+  .swatch-name { font-size: 13px; font-weight: 600; }
+  .swatch-hex { font-size: 11px; color: var(--text-secondary); font-family: monospace; }
+
+  .step-list { list-style: none; }
+
+  .step-item {
+    display: flex;
+    gap: 16px;
+    padding: 16px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .step-item:last-child { border-bottom: none; }
+
+  .step-num {
+    width: 32px; height: 32px;
+    background: var(--blue);
+    color: white;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  .step-content h4 { font-size: 15px; font-weight: 600; margin-bottom: 4px; }
+  .step-content p { font-size: 14px; color: var(--text-secondary); }
+  .step-fields {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .field-tag {
+    background: #F5F5F7;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 2px 10px;
+    font-size: 12px;
+    color: var(--text-secondary);
+  }
+
+  .field-tag.required { border-color: var(--blue); color: var(--blue); background: rgba(46,84,203,0.06); }
+
+  .insight-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  @media (max-width: 600px) {
+    .insight-grid { grid-template-columns: 1fr; }
+    h1 { font-size: 30px; }
+    .container { padding: 24px 20px; }
+  }
+
+  .insight-card {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 20px;
+    border: 1px solid var(--border);
+  }
+
+  .insight-card.highlight { border-color: var(--blue); background: rgba(46,84,203,0.03); }
+  .insight-card.warning { border-color: var(--warning); background: rgba(255,159,10,0.04); }
+  .insight-card.success { border-color: var(--success); background: rgba(52,199,89,0.04); }
+
+  .insight-icon { font-size: 24px; margin-bottom: 8px; }
+  .insight-card h4 { font-size: 14px; font-weight: 600; margin-bottom: 6px; }
+  .insight-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
+
+  .competitor-card {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 20px 24px;
+    border: 1px solid var(--border);
+    margin-bottom: 12px;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 16px;
+    align-items: start;
+  }
+
+  .comp-badge {
+    width: 44px; height: 44px;
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+  }
+
+  .comp-badge.doctolib { background: #00A885; color: white; font-size: 14px; font-weight: 700; }
+  .comp-badge.rex { background: #1A1A2E; color: white; font-size: 12px; font-weight: 700; }
+  .comp-badge.defcon { background: #6366F1; color: white; font-size: 20px; }
+  .comp-badge.fantastical { background: #E8524A; color: white; font-size: 20px; }
+  .comp-badge.generic { background: var(--bg); color: var(--text-secondary); }
+
+  .comp-name { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+  .comp-type { font-size: 12px; color: var(--text-secondary); margin-bottom: 8px; }
+  .comp-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.6; }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+  }
+
+  .tag {
+    border-radius: 6px;
+    padding: 3px 10px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .tag.blue { background: rgba(46,84,203,0.1); color: var(--blue); }
+  .tag.green { background: rgba(52,199,89,0.1); color: #1B7A39; }
+  .tag.red { background: rgba(255,59,48,0.1); color: #C0392B; }
+  .tag.gray { background: #F5F5F7; color: var(--text-secondary); border: 1px solid var(--border); }
+
+  table { width: 100%; border-collapse: collapse; }
+  th { background: var(--bg); padding: 10px 14px; text-align: left; font-size: 12px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--border); }
+  td { padding: 12px 14px; font-size: 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+
+  .check { color: var(--success); }
+  .cross { color: var(--danger); }
+  .partial { color: var(--warning); }
+
+  .action-list { list-style: none; }
+  .action-item {
+    display: flex;
+    gap: 12px;
+    padding: 12px 16px;
+    background: var(--card);
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    margin-bottom: 8px;
+    align-items: flex-start;
+  }
+
+  .priority-badge {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 4px;
+    padding: 2px 7px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  .priority-badge.p1 { background: rgba(255,59,48,0.1); color: var(--danger); }
+  .priority-badge.p2 { background: rgba(255,159,10,0.1); color: var(--warning); }
+  .priority-badge.p3 { background: rgba(46,84,203,0.1); color: var(--blue); }
+
+  .action-text { font-size: 14px; }
+  .action-text strong { font-weight: 600; }
+  .action-text span { font-size: 13px; color: var(--text-secondary); display: block; margin-top: 2px; }
+
+  .divider { height: 1px; background: var(--border); margin: 40px 0; }
+
+  footer { text-align: center; color: var(--text-secondary); font-size: 12px; padding: 24px 40px 40px; }
+
+  .dept-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 8px;
+    margin-top: 12px;
+  }
+
+  .dept-item {
+    background: #F5F5F7;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .zip-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 10px;
+    margin-top: 12px;
+  }
+
+  .zip-folder {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px;
+  }
+
+  .zip-folder-name { font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+  .zip-folder-count { font-size: 12px; color: var(--text-secondary); }
+
+  .calendar-feature {
+    display: flex;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    align-items: flex-start;
+  }
+  .calendar-feature:last-child { border-bottom: none; }
+  .cal-icon { font-size: 18px; flex-shrink: 0; width: 28px; }
+  .cal-text { font-size: 14px; }
+  .cal-text strong { font-weight: 600; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="logo-badge">
+      <div class="logo-circle">W</div>
+      <span>Wagglz Veterinary Platform</span>
+    </div>
+    <h1>Asset- &amp; Wettbewerbs­analyse</h1>
+    <p style="font-size:18px; opacity:0.85; margin-top:12px; max-width:600px;">
+      Vollständige Auswertung aller 19 Screenshots, des Brand-Kits (ZIP), der Wireframes,
+      Figma-Frames und Referenz-Software — Doctolib, Rex, Fantastical und weitere.
+    </p>
+    <div class="hero-meta">Erstellt: 21. Juni 2026 · Claude Code Analysis · Wagglz Platform Intelligence</div>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- STATS ROW -->
+  <div class="card-grid" style="margin-top:32px;">
+    <div class="stat-card">
+      <div class="stat-num">19</div>
+      <div class="stat-label">Screenshot-Assets analysiert</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num">64</div>
+      <div class="stat-label">Dateien im Brand-ZIP</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num">6</div>
+      <div class="stat-label">Onboarding-Schritte im Wireframe</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-num">14</div>
+      <div class="stat-label">Tiermedizinische Fachbereiche</div>
+    </div>
+  </div>
+
+  <!-- BRAND IDENTITY -->
+  <div class="section">
+    <div class="section-label">Brand Identity</div>
+    <h2>Wagglz — Markenidentität</h2>
+    <p class="lead">Aus dem Brand-Kit (ZIP + SVG-Logo) wurden Farben, Typografie und alle Assets extrahiert.</p>
+
+    <div class="card">
+      <h3>Farben</h3>
+      <div class="brand-colors">
+        <div class="color-swatch">
+          <div class="swatch-circle" style="background:#2E54CB;"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Wagglz Blue</div>
+            <div class="swatch-hex">#2E54CB</div>
+          </div>
+        </div>
+        <div class="color-swatch">
+          <div class="swatch-circle" style="background:#CCFFB0; border-color: #ccc;"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Lime Green</div>
+            <div class="swatch-hex">#CCFFB0</div>
+          </div>
+        </div>
+        <div class="color-swatch">
+          <div class="swatch-circle" style="background:#A6A6FF;"></div>
+          <div class="swatch-info">
+            <div class="swatch-name">Lavender</div>
+            <div class="swatch-hex">#A6A6FF</div>
+          </div>
+        </div>
+      </div>
+      <p style="font-size:14px; color:var(--text-secondary); margin-top:8px;">
+        ⚠️ Die aktuelle App verwendet nur neutrale <code>foreground/background</code> Tailwind-Tokens —
+        die Markenfarben sind noch nicht in der UI implementiert.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Typografie &amp; Logomark</h3>
+      <p style="font-size:14px; color:var(--text-secondary); margin-bottom:12px;">
+        Schriftfamilie: <strong>Poppins</strong> (alle 9 Gewichte + Kursivschnitte im ZIP enthalten).<br>
+        Logomark: Stilisiertes "W" in Wagglz Blue mit Lime-Green-Akzenten. Vektordaten in SVG, AI, EPS.
+      </p>
+      <div style="display:flex; gap:8px; flex-wrap:wrap;">
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7;">Poppins Thin 100</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7;">Poppins Light 300</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7;">Poppins Regular 400</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7; font-weight:500;">Poppins Medium 500</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7; font-weight:600;">Poppins SemiBold 600</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7; font-weight:700;">Poppins Bold 700</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7; font-weight:800;">Poppins ExtraBold 800</span>
+        <span style="font-family:Georgia,serif; font-size:13px; background:#F5F5F7; padding:4px 12px; border-radius:6px; border:1px solid #D2D2D7; font-weight:900;">Poppins Black 900</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Brand-Archiv (ZIP) — 64 Dateien</h3>
+      <p style="font-size:14px; color:var(--text-secondary); margin-bottom:12px;">Erstellt Juni–August 2024. Enthält vollständiges Marketing-Material.</p>
+      <div class="zip-grid">
+        <div class="zip-folder">
+          <div class="zip-folder-name">🖼 Logomark</div>
+          <div class="zip-folder-count">8 Raster + 3 Vektor (SVG, AI, EPS)</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">🔤 Fonts</div>
+          <div class="zip-folder-count">18 TTF-Dateien (Poppins, alle Gewichte)</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">💼 LinkedIn</div>
+          <div class="zip-folder-count">10 Dateien: Cover + Avatare (PNG+JPG)</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">📘 Facebook</div>
+          <div class="zip-folder-count">4 Dateien: Cover + Mobile</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">🌐 Google</div>
+          <div class="zip-folder-count">3 PNG-Dateien</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">💳 Business Cards</div>
+          <div class="zip-folder-count">AI + PDF + Preview JPG</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">📊 Presentation</div>
+          <div class="zip-folder-count">3 PPTX (Pitch Deck + Investoren)</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">📄 Design Concept</div>
+          <div class="zip-folder-count">Wagglz_Design_Concept.pdf (6.3 MB)</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">✉️ E-Mail Signatur</div>
+          <div class="zip-folder-count">1 DOCX</div>
+        </div>
+        <div class="zip-folder">
+          <div class="zip-folder-name">📱 WhatsApp App</div>
+          <div class="zip-folder-count">6 JPEG (App-Screenshots, Juni 2024)</div>
+        </div>
+      </div>
+      <div style="margin-top:14px; padding:12px; background:rgba(46,84,203,0.06); border-radius:10px; border:1px solid rgba(46,84,203,0.2);">
+        <strong style="font-size:13px; color:var(--blue);">💡 Empfehlung:</strong>
+        <span style="font-size:13px; color:var(--text-secondary);"> Das Design Concept PDF (6.3 MB) und die Investoren-Präsentation sind noch nicht analysiert — sehr hoher Informationswert für Feature-Roadmap und UX-Specs.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- ONBOARDING WIREFRAMES -->
+  <div class="section">
+    <div class="section-label">Wagglz Design-Dokumente</div>
+    <h2>Onboarding-Wizard — Vollständige Wireframe-Analyse</h2>
+    <p class="lead">6 Screens analysiert (01-1 bis 01-9). Der Wizard deckt die komplette Praxis-Registrierung ab.</p>
+
+    <ul class="step-list">
+      <li class="step-item">
+        <div class="step-num">1</div>
+        <div class="step-content">
+          <h4>Organisation Type</h4>
+          <p>Auswahl zwischen "Create a praxis profile" und "Create a clinic profile" — zwei große Radio-Cards. Sprachauswahl DE/EN im Header.</p>
+          <div class="step-fields">
+            <span class="field-tag required">Praxis</span>
+            <span class="field-tag required">Klinik</span>
+          </div>
+        </div>
+      </li>
+      <li class="step-item">
+        <div class="step-num">1b</div>
+        <div class="step-content">
+          <h4>Business Information</h4>
+          <p>Pflichtfelder (deutsch-rechtliche Anforderungen): Praxisname, Handelsregisternummer, Steuernummer, Praxistyp (Dropdown), USt-IdNr., Mitarbeiterzahl (Dropdown).</p>
+          <div class="step-fields">
+            <span class="field-tag required">Practice name*</span>
+            <span class="field-tag required">Business registration number*</span>
+            <span class="field-tag required">Tax ID (Steuernummer)*</span>
+            <span class="field-tag required">Type of practice*</span>
+            <span class="field-tag required">VAT ID (USt-IdNr.)*</span>
+            <span class="field-tag required">Number of employees*</span>
+          </div>
+        </div>
+      </li>
+      <li class="step-item">
+        <div class="step-num">2</div>
+        <div class="step-content">
+          <h4>Contact Details</h4>
+          <p>Kontaktdaten inkl. Fax (für traditionelle Praxen). Abteilungs-Multiselect als Pill-Tags. Praxisbild-Upload.</p>
+          <div class="step-fields">
+            <span class="field-tag required">Practice Address*</span>
+            <span class="field-tag">Website URL</span>
+            <span class="field-tag required">Phone number*</span>
+            <span class="field-tag">Emergency contact</span>
+            <span class="field-tag required">Email address*</span>
+            <span class="field-tag">Fax number</span>
+            <span class="field-tag required">Department(s)*</span>
+            <span class="field-tag">Practice image upload</span>
+          </div>
+        </div>
+      </li>
+      <li class="step-item">
+        <div class="step-num">3</div>
+        <div class="step-content">
+          <h4>Veterinarian Information</h4>
+          <p>Approbation, Zulassungsbehörde, Tierärztekammer, Berufshaftpflicht, Abschluss, Fachgebiete, Ausweis-Upload.</p>
+          <div class="step-fields">
+            <span class="field-tag required">Approbationsnummer*</span>
+            <span class="field-tag">Zulassungsbehörde</span>
+            <span class="field-tag">Tierärztekammer-Nr.</span>
+            <span class="field-tag">Berufshaftpflicht</span>
+            <span class="field-tag">Abschluss + Institution</span>
+          </div>
+        </div>
+      </li>
+      <li class="step-item">
+        <div class="step-num">4</div>
+        <div class="step-content">
+          <h4>Operating Information</h4>
+          <p>Öffnungszeiten (Mo–So toggle + Uhrzeiten), angebotene Services als Pill-Tag-Multiselect, benutzerdefinierte Services.</p>
+          <div class="step-fields">
+            <span class="field-tag">Öffnungszeiten Mo–So</span>
+            <span class="field-tag">Notdienst on/off + Zeiten</span>
+            <span class="field-tag">Services (Pills)</span>
+            <span class="field-tag">Zahlungsmethoden</span>
+          </div>
+        </div>
+      </li>
+      <li class="step-item">
+        <div class="step-num">5</div>
+        <div class="step-content">
+          <h4>Technical Requirements</h4>
+          <p>Terminlängen-Slots (15/30/45/60 Min.), Migration von bestehender Software, Sprache.</p>
+          <div class="step-fields">
+            <span class="field-tag">Appointment duration (15/30/45/60 Min.)</span>
+            <span class="field-tag">Migration from software</span>
+            <span class="field-tag">Sprache</span>
+          </div>
+        </div>
+      </li>
+      <li class="step-item">
+        <div class="step-num">6</div>
+        <div class="step-content">
+          <h4>Add Employee Profiles (optional)</h4>
+          <p>Mitarbeiter-Einladung mit Foto-Upload. Dann: DSGVO-Checkbox + optionaler Marketing-Opt-in (auf Deutsch). "Submit"-Button → Erfolgsscreen "Congratulations! 🎉 Explore platform".</p>
+          <div class="step-fields">
+            <span class="field-tag">First Name / Last Name</span>
+            <span class="field-tag required">Role*</span>
+            <span class="field-tag required">Email*</span>
+            <span class="field-tag">Profilbild</span>
+            <span class="field-tag required">Datenschutz-Checkbox*</span>
+            <span class="field-tag">Marketing-Opt-in (optional)</span>
+          </div>
+        </div>
+      </li>
+    </ul>
+
+    <div class="card" style="margin-top:16px;">
+      <h3>Fachbereiche — Vollständige Liste (aus a4-1.png)</h3>
+      <p style="font-size:14px; color:var(--text-secondary); margin-bottom:4px;">14 Abteilungen für das Multiselect-Dropdown in Schritt 2:</p>
+      <div class="dept-grid">
+        <div class="dept-item">🩺 General Practice (Small Animal)</div>
+        <div class="dept-item">🔪 Surgery</div>
+        <div class="dept-item">🔬 Internal Medicine</div>
+        <div class="dept-item">🚨 Emergency &amp; Critical Care</div>
+        <div class="dept-item">🦠 Dermatology</div>
+        <div class="dept-item">🦷 Dentistry</div>
+        <div class="dept-item">👁 Ophthalmology</div>
+        <div class="dept-item">❤️ Cardiology</div>
+        <div class="dept-item">🧠 Neurology</div>
+        <div class="dept-item">🧬 Oncology</div>
+        <div class="dept-item">📸 Radiology/Imaging</div>
+        <div class="dept-item">🐾 Behavioral Medicine</div>
+        <div class="dept-item">🐍 Exotic Animal Care</div>
+        <div class="dept-item">🧪 Laboratory/Pathology</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- CALENDAR WIREFRAME -->
+  <div class="section">
+    <div class="section-label">Wagglz App — Kalender</div>
+    <h2>Kalender-Wireframe Analyse</h2>
+    <p class="lead">wireframe-1.png zeigt die Wochenansicht (22–27 Feb. 2025) mit Wagglz "W"-Branding. Starke Anlehnung an Fantastical + Google Calendar.</p>
+
+    <div class="card">
+      <div>
+        <div class="calendar-feature">
+          <div class="cal-icon">🅆</div>
+          <div class="cal-text"><strong>Header-Bar:</strong> Wagglz "W"-Logo (grau), Suchfeld mit Dropdown-Chevron, Info-Icon, Settings-Gear, User-Avatar</div>
+        </div>
+        <div class="calendar-feature">
+          <div class="cal-icon">📅</div>
+          <div class="cal-text"><strong>Datumsbereich:</strong> "22 - 27 Feb. 2025" — Mo bis Sa (6 Tage, kein Sonntag)</div>
+        </div>
+        <div class="calendar-feature">
+          <div class="cal-icon">🔘</div>
+          <div class="cal-text"><strong>Ansicht-Toggle:</strong> Day | <strong>Week</strong> (aktiv, dunkle Pill) | Month + zusätzlicher "Week"-Dropdown oben rechts</div>
+        </div>
+        <div class="calendar-feature">
+          <div class="cal-icon">📆</div>
+          <div class="cal-text"><strong>Linkes Panel:</strong> "Today"-Button + Hamburger | Mini-Monatskalender Februar 2025 (SO–SA, Datum 19 hervorgehoben) | "My Calendar" Dropdown | "My Task" Dropdown</div>
+        </div>
+        <div class="calendar-feature">
+          <div class="cal-icon">➕</div>
+          <div class="cal-text"><strong>Create-Button:</strong> "+ Create" Pill mit Dropdown-Pfeil (oben links)</div>
+        </div>
+        <div class="calendar-feature">
+          <div class="cal-icon">🗓</div>
+          <div class="cal-text"><strong>Zeitraster:</strong> 7 AM – 5 PM sichtbar. Events als graue Blöcke mit Patientenname "Martin Musterman" (Platzhalter). Dotted "Now"-Line um ~10 Uhr mit schwarzem Punkt</div>
+        </div>
+        <div class="calendar-feature">
+          <div class="cal-icon">🎨</div>
+          <div class="cal-text"><strong>Design:</strong> Sehr helles Grau-Weiß-Schema. Minimal, sauber. Engste Anlehnung an Google Calendar-Layout mit Fantastical-Mini-Kalender.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="insight-grid">
+      <div class="insight-card warning">
+        <div class="insight-icon">⚠️</div>
+        <h4>Lücke: "My Task"-Feature</h4>
+        <p>Wireframe zeigt einen "My Task"-Bereich im linken Panel. In der aktuellen App noch nicht vorhanden.</p>
+      </div>
+      <div class="insight-card warning">
+        <div class="insight-icon">⚠️</div>
+        <h4>Lücke: Mini-Kalender</h4>
+        <p>Linkes Panel mit Mini-Monatskalender (Fantastical-Style) fehlt noch in der aktuellen Implementation.</p>
+      </div>
+      <div class="insight-card success">
+        <div class="insight-icon">✅</div>
+        <h4>Implementiert: Wochenraster</h4>
+        <p>Mo–Sa 6-Tage-Raster, Zeitslots, farbige Events, "Heute"-Button, Vor/Zurück-Navigation — alle vorhanden.</p>
+      </div>
+      <div class="insight-card success">
+        <div class="insight-icon">✅</div>
+        <h4>Implementiert: Termin-Modal</h4>
+        <p>Slot-Click öffnet neues Termin-Formular. Event-Click öffnet Edit-Modal. Patienten-Dropdown aus Supabase.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- COMPETITIVE APP LANDSCAPE -->
+  <div class="section">
+    <div class="section-label">Wettbewerb — App Store</div>
+    <h2>Dog Apps Folder — Direkter Wettbewerb (iPhone Screenshots)</h2>
+    <p class="lead">Die 6 WhatsApp-Screenshots (Juni 2024) zeigen einen iOS-Ordner "Dog Apps" mit 11 Konkurrenz-Apps. Wagglz-App-Icon wurde in zwei Farbvarianten getestet: Lila/Blau vs. Grün.</p>
+
+    <div class="card" style="padding:0; overflow:hidden;">
+      <table>
+        <thead>
+          <tr>
+            <th>App</th>
+            <th>Kategorie</th>
+            <th>Relevanz für Wagglz</th>
+            <th>Bewertung</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>🟢 Rover</strong></td>
+            <td>Gassi-Service / Pet Sitting</td>
+            <td>Marktplatz-Modell, Buchungs-UX</td>
+            <td><span class="tag gray">Anderes Segment</span></td>
+          </tr>
+          <tr>
+            <td><strong>Rex</strong></td>
+            <td>Veterinär-Praxissoftware</td>
+            <td><strong>Direkter Wettbewerber</strong> — Praxisverwaltung, Patientenakten</td>
+            <td><span class="tag red">Direktkonkurrenz</span></td>
+          </tr>
+          <tr>
+            <td><strong>Hundeo</strong></td>
+            <td>Hunde-Trainings-App</td>
+            <td>Zielgruppe Tierhalter überschneidet sich</td>
+            <td><span class="tag gray">Anderes Segment</span></td>
+          </tr>
+          <tr>
+            <td><strong>Dogorama</strong></td>
+            <td>Social Network für Hundebesitzer</td>
+            <td>Community-Feature-Inspiration</td>
+            <td><span class="tag gray">Indirekt</span></td>
+          </tr>
+          <tr>
+            <td><strong>Tractive GPS</strong></td>
+            <td>GPS-Tracker für Haustiere</td>
+            <td>Hardware-Integration möglich</td>
+            <td><span class="tag gray">Anderes Segment</span></td>
+          </tr>
+          <tr>
+            <td><strong>PetBacker</strong></td>
+            <td>Pet Care Marktplatz</td>
+            <td>Buchungs- und Review-UX</td>
+            <td><span class="tag gray">Anderes Segment</span></td>
+          </tr>
+          <tr>
+            <td><strong>Dog Walk / Walkies</strong></td>
+            <td>Gassi-Service</td>
+            <td>Gering — andere Zielgruppe</td>
+            <td><span class="tag gray">Anderes Segment</span></td>
+          </tr>
+          <tr>
+            <td><strong>PetLEO</strong></td>
+            <td>Pet Health App</td>
+            <td>Tiergesundheit-Features, Tierhalter-Portal</td>
+            <td><span class="tag blue">Teilweise Überschneidung</span></td>
+          </tr>
+          <tr>
+            <td><strong>Dog Assistant</strong></td>
+            <td>AI-Assistent für Hunde</td>
+            <td>KI-Feature-Inspiration</td>
+            <td><span class="tag blue">Teilweise Überschneidung</span></td>
+          </tr>
+          <tr>
+            <td><strong>Wagglz (eigene App)</strong></td>
+            <td>Veterinär-Plattform</td>
+            <td>2x im Ordner — eigene App in Testphase. Icon-Varianten: Lila/Blau + Grün getestet</td>
+            <td><span class="tag green">Eigenes Produkt</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="insight-grid" style="margin-top:16px;">
+      <div class="insight-card highlight">
+        <div class="insight-icon">🔑</div>
+        <h4>Rex = Direkter Hauptkonkurrent</h4>
+        <p>Rex ist als einzige App direkte Veterinär-Praxissoftware im Folder. Screenshots von Rex-UI noch ausstehend. Muss detailliert analysiert werden.</p>
+      </div>
+      <div class="insight-card">
+        <div class="insight-icon">🎨</div>
+        <h4>Icon-Varianten: Lila vs. Grün</h4>
+        <p>Wagglz testete 2 Icon-Farben: Lila/Blau (#2E54CB-ähnlich) und Grün (#CCFFB0-ähnlich). Beide entsprechen den Brand-Farben aus dem SVG-Logo.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- COMPETITOR REFERENCE -->
+  <div class="section">
+    <div class="section-label">Design-Inspiration</div>
+    <h2>UI-Referenz-Software</h2>
+    <p class="lead">Aus den Screenshots identifizierte Design-Inspirations-Tools.</p>
+
+    <div class="competitor-card">
+      <div class="comp-badge doctolib">D+</div>
+      <div>
+        <div class="comp-name">Doctolib</div>
+        <div class="comp-type">Primär-Referenz · Terminbuchungsplattform für Ärzte</div>
+        <div class="comp-desc">Wagglz ist konzeptionell als "Doctolib für Tierärzte" positioniert. Kernfunktionen: Online-Buchung, Praxis-Profil, Behandlungsdokumentation, Abrechnung. Deutsche und europäische Präsenz. Vollständige App-Analyse noch ausstehend.</div>
+        <div class="tag-list">
+          <span class="tag blue">Terminbuchung</span>
+          <span class="tag blue">Praxis-Profil</span>
+          <span class="tag blue">Patientenportal</span>
+          <span class="tag blue">Abrechnung</span>
+          <span class="tag gray">Screenshots vorhanden — nicht analysiert</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="competitor-card">
+      <div class="comp-badge rex">Rex</div>
+      <div>
+        <div class="comp-name">Rex Software / VetSoftware</div>
+        <div class="comp-type">Spezialist · Veterinär-Praxissoftware</div>
+        <div class="comp-desc">Direkter Wettbewerber im Veterinär-Segment. Praxisverwaltung, Patientenakten, GOT-Abrechnung, Medikamentenverwaltung. Screenshots im Rohmaterial vorhanden aber noch nicht als separate Dateien identifiziert — möglicherweise in den Doctolib-Screenshots enthalten.</div>
+        <div class="tag-list">
+          <span class="tag blue">Patientenakte</span>
+          <span class="tag blue">GOT-Abrechnung</span>
+          <span class="tag blue">Medikamente</span>
+          <span class="tag gray">Screenshots ausstehend</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="competitor-card">
+      <div class="comp-badge fantastical">📅</div>
+      <div>
+        <div class="comp-name">Fantastical</div>
+        <div class="comp-type">Design-Inspiration · Kalender-App (macOS/iOS)</div>
+        <div class="comp-desc">Screenshot (fantastical.png) zeigt die charakteristische Fantastical-UI: dunkle Seitenleiste mit Mini-Kalender + Terminliste, rechts Wochenraster mit farbigen Events. Wetter-Integration (59°/40° ☁). Events: "All-Team Kickoff", "Financial Update", "Design Review". Wagglz adaptiert dieses Layout für die Veterinär-Wochenansicht.</div>
+        <div class="tag-list">
+          <span class="tag green">Dunkle Sidebar</span>
+          <span class="tag green">Mini-Kalender</span>
+          <span class="tag green">Farbige Events</span>
+          <span class="tag green">Tagesvorschau-Liste</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="competitor-card">
+      <div class="comp-badge defcon">📋</div>
+      <div>
+        <div class="comp-name">Defcon Systems</div>
+        <div class="comp-type">Referenz-Screenshot · Project Management Tool</div>
+        <div class="comp-desc">calendar-week.png zeigt einen Defcon-Kalender als Referenz für das Wochenraster-Layout. Farbige Karten-Events mit Avataren/Assignees. "Oct 4–10 Woche"-View. Status: "On track" Badge. Modernes SaaS-Design als UI-Inspiration.</div>
+        <div class="tag-list">
+          <span class="tag green">Farbige Task-Cards</span>
+          <span class="tag green">Avatar-Assignees</span>
+          <span class="tag green">Filter/Sort-Bar</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- MARKETING PAGES -->
+  <div class="section">
+    <div class="section-label">Marketing &amp; Lead-Gen</div>
+    <h2>Demo-Request &amp; Landing Pages</h2>
+
+    <div class="card-grid">
+      <div class="card">
+        <h3>arrange-a-demo.png</h3>
+        <p style="font-size:14px; color:var(--text-secondary);">Lead-Gen-Formular für Praxen. Headline "Let's get down to business!" Felder: Praxisname, Adresse, E-Mail, Telefon, Vor-/Nachname, Rolle, Wunschtermin (Kalender-Icon) + Wunschzeit (Uhr-Icon). DSGVO-Checkbox. CTA: schwarzer Pill-Button "Arrange a demo". Sprach-Toggle DE/EN + "Pet Owners"-Nav-Link.</p>
+      </div>
+      <div class="card">
+        <h3>arrange-a-demo-2.png</h3>
+        <p style="font-size:14px; color:var(--text-secondary);">Danke-Seite nach Demo-Anfrage. "Thank you for your request" + Lorem-Ipsum-Bestätigungstext. Link: "Go to the homepage". Minimales, zentriertes Layout auf weißem Hintergrund.</p>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Design Frames (Figma-Snippets)</h3>
+      <p style="font-size:14px; color:var(--text-secondary); margin-bottom:12px;">Zwei isolierte Frame-Labels aus dem Figma/Wireframe-Dokument:</p>
+      <div style="display:flex; gap:10px; flex-wrap:wrap;">
+        <div style="background:#1A1A1A; color:white; border-radius:8px; padding:10px 20px; font-size:14px; font-weight:600;">Praxis Registration</div>
+        <div style="background:#2A2A2A; color:white; border-radius:8px; padding:10px 20px; font-size:14px; font-weight:600;">Banking payment details?</div>
+      </div>
+      <p style="font-size:13px; color:var(--text-secondary); margin-top:10px;">💡 "Banking payment details?" deutet auf einen weiteren Onboarding-Schritt für Bankverbindung/SEPA hin — noch nicht im Wireframe-Hauptflow, aber geplant.</p>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- GAP ANALYSIS -->
+  <div class="section">
+    <div class="section-label">Gap-Analyse</div>
+    <h2>Wireframe vs. Aktuelle App</h2>
+
+    <div class="card" style="padding:0; overflow:hidden;">
+      <table>
+        <thead>
+          <tr>
+            <th>Feature / Screen</th>
+            <th>Wireframe</th>
+            <th>App (aktuell)</th>
+            <th>Prio</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Praxis vs. Klinik Auswahl</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="partial">⚡</span> Im DB-Schema, kein UI</td>
+            <td>P2</td>
+          </tr>
+          <tr>
+            <td>Business Information (USt-IdNr., HR-Nr.)</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P1</td>
+          </tr>
+          <tr>
+            <td>Department-Multiselect (14 Fachbereiche)</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="partial">⚡</span> Teilweise in DB</td>
+            <td>P2</td>
+          </tr>
+          <tr>
+            <td>Fax-Nummer Feld</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P3</td>
+          </tr>
+          <tr>
+            <td>Praxisbild-Upload</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P2</td>
+          </tr>
+          <tr>
+            <td>Employee Profile Upload + Einladung</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P2</td>
+          </tr>
+          <tr>
+            <td>Onboarding Erfolgsscreen</td>
+            <td><span class="check">✅</span> "Congratulations! 🎉"</td>
+            <td><span class="cross">❌</span> Redirect zu /kalender</td>
+            <td>P3</td>
+          </tr>
+          <tr>
+            <td>Banking/SEPA Onboarding</td>
+            <td><span class="partial">⚡</span> Frame-Label vorhanden</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P2</td>
+          </tr>
+          <tr>
+            <td>Kalender Wochenraster</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="check">✅</span> Implementiert</td>
+            <td>—</td>
+          </tr>
+          <tr>
+            <td>Kalender Mini-Kalender (links)</td>
+            <td><span class="check">✅</span> Fantastical-Style</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P2</td>
+          </tr>
+          <tr>
+            <td>Kalender "My Task"-Panel</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P3</td>
+          </tr>
+          <tr>
+            <td>Termin-Modal (New + Edit)</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="check">✅</span> Implementiert</td>
+            <td>—</td>
+          </tr>
+          <tr>
+            <td>Wagglz Markenfarben (#2E54CB)</td>
+            <td><span class="check">✅</span> Im SVG-Logo</td>
+            <td><span class="cross">❌</span> Nur neutral tokens</td>
+            <td>P1</td>
+          </tr>
+          <tr>
+            <td>Poppins als App-Schrift</td>
+            <td><span class="check">✅</span> Im ZIP</td>
+            <td><span class="cross">❌</span> System-Font</td>
+            <td>P1</td>
+          </tr>
+          <tr>
+            <td>Demo-Anfrage Landing Page</td>
+            <td><span class="check">✅</span> Designed</td>
+            <td><span class="cross">❌</span> Fehlt</td>
+            <td>P3</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- ACTION PLAN -->
+  <div class="section">
+    <div class="section-label">Nächste Schritte</div>
+    <h2>Priorisierter Aktionsplan</h2>
+
+    <ul class="action-list">
+      <li class="action-item">
+        <span class="priority-badge p1">P1</span>
+        <div class="action-text">
+          <strong>Wagglz-Markenfarben einbinden</strong>
+          <span>Poppins-Font via next/font/google laden. CSS-Variablen <code>--wagglz-blue: #2E54CB</code>, <code>--wagglz-lime: #CCFFB0</code>, <code>--wagglz-lavender: #A6A6FF</code> in <code>app/globals.css</code>. Sidebar + Buttons + Highlights anpassen.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p1">P1</span>
+        <div class="action-text">
+          <strong>Onboarding: Business Information vervollständigen</strong>
+          <span>Fehlende Pflichtfelder ergänzen: Business Registration Number, USt-IdNr. (VAT), Steuernummer, Mitarbeiteranzahl. Bereits im DB-Schema vorhanden.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p2">P2</span>
+        <div class="action-text">
+          <strong>Onboarding: Department-Multiselect (14 Fachbereiche)</strong>
+          <span>Alle 14 veterinären Fachbereiche aus a4-1.png als Pill-Multiselect in Schritt 2. Daten in <code>praxen.services_offered</code> speichern.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p2">P2</span>
+        <div class="action-text">
+          <strong>Onboarding: Praxisbild + Mitarbeiter-Upload</strong>
+          <span>Supabase Storage Integration für Praxisbild (Schritt 2) und Mitarbeiter-Profilbild (Schritt 6). Vorerst optional, aber im Wireframe sichtbar.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p2">P2</span>
+        <div class="action-text">
+          <strong>Kalender: Mini-Monatskalender (Fantastical-Style)</strong>
+          <span>Linkes Panel mit mini-Calendar-Komponente zum Wochenwechsel. Aktuelle Woche hervorgehoben. Kein großer Aufwand, großer UX-Gewinn.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p2">P2</span>
+        <div class="action-text">
+          <strong>Placeholder-Seiten für alle Nav-Links erstellen</strong>
+          <span>/tiere, /behandlungen, /rechnungen, /nachrichten, /einstellungen — derzeit 404-Fehler. Minimale Skeleton-Pages genügen.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p3">P3</span>
+        <div class="action-text">
+          <strong>Design Concept PDF analysieren (6.3 MB)</strong>
+          <span>Wagglz_Design_Concept.pdf aus ZIP enthält wahrscheinlich vollständige UI-Spezifikationen, Screens und Interaction-Flows. Höchster Informationswert.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p3">P3</span>
+        <div class="action-text">
+          <strong>Investoren-Präsentation analysieren</strong>
+          <span>Original_Wagglz_GmbH_Investoren_Präsentation.pptx enthält Go-to-Market-Strategie, Marktanalyse, Feature-Roadmap und finanzielle Projektion.</span>
+        </div>
+      </li>
+      <li class="action-item">
+        <span class="priority-badge p3">P3</span>
+        <div class="action-text">
+          <strong>Onboarding: Erfolgsscreen + Banking-Schritt</strong>
+          <span>Step 6 Completion → "Congratulations! 🎉" Screen mit "Explore platform" Link. Separater Banking/SEPA-Schritt als Frame "Banking payment details?" geplant.</span>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- KEY INSIGHTS -->
+  <div class="section">
+    <div class="section-label">Schlüssel-Erkenntnisse</div>
+    <h2>Top Insights aus der Asset-Analyse</h2>
+
+    <div class="insight-grid">
+      <div class="insight-card highlight">
+        <div class="insight-icon">🎨</div>
+        <h4>Klare Brand-Identität vorhanden</h4>
+        <p>Vollständiges Brand-Kit: 3 Farben (#2E54CB, #CCFFB0, #A6A6FF), Poppins-Font (alle Gewichte), Logos in allen Formaten (SVG, AI, EPS, PNG, JPG). Sofort einsetzbar.</p>
+      </div>
+      <div class="insight-card highlight">
+        <div class="insight-icon">📋</div>
+        <h4>Ausgereifte Onboarding-UX</h4>
+        <p>6-Schritt-Wizard ist vollständig durchdesignt mit deutsch-rechtlichen Pflichtfeldern (USt-IdNr., Steuernummer, HR-Nr.) — klar auf den deutschen Markt zugeschnitten.</p>
+      </div>
+      <div class="insight-card">
+        <div class="insight-icon">📝</div>
+        <h4>Alter Produktname: "Wufflz"</h4>
+        <p>Cover-Slide (1.png) zeigt alten Namen "Wufflz" mit playful Logo. Umbenannt zu "Wagglz". Beide Namen stehen für Veterinär-Plattform, nicht Gassi-Service.</p>
+      </div>
+      <div class="insight-card">
+        <div class="insight-icon">🏥</div>
+        <h4>Fax-Feld deutet auf konservative Zielgruppe</h4>
+        <p>Contact Details enthält Faxnummer-Feld — signalisiert, dass Tierarztpraxen in Deutschland noch stark auf traditionelle Kommunikation setzen. Relevant für Akzeptanz-Strategie.</p>
+      </div>
+      <div class="insight-card warning">
+        <div class="insight-icon">⚠️</div>
+        <h4>App-Design weicht von Brand ab</h4>
+        <p>Aktuelle App nutzt generische Tailwind-Tokens (foreground/background). Wagglz Blue (#2E54CB) und Poppins fehlen komplett. Hoher Brand-Consistency-Aufwand vor Launch.</p>
+      </div>
+      <div class="insight-card success">
+        <div class="insight-icon">🚀</div>
+        <h4>Investor-Deck vorhanden</h4>
+        <p>ZIP enthält Investoren-Präsentation (Original_Wagglz_GmbH_Investoren_Präsentation.pptx) — deutet auf aktive Fundraising-Aktivität. Feature-Roadmap vermutlich dort spezifiziert.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <p>Wagglz Competitive Intelligence · Erstellt von Claude Code · 21. Juni 2026</p>
+  <p style="margin-top:4px;">Analysiert: 19 Screenshots · 1 Brand-ZIP (64 Dateien) · SVG-Logomark · 6 WhatsApp App-Screenshots (in Analyse)</p>
+</footer>
+
+</body>
+</html>
