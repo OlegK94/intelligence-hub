@@ -2,6 +2,18 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-21] query | Wagglz Asset- & Wettbewerbs-Analyse
+
+- Analysiert: 19 Screenshots aus `raw/assets/wagglz-tier/7RI3XqEc3RR6znirkakZcm/`, 6 WhatsApp App-Fotos (ZIP), SVG-Logomark
+- Brand-Erkenntnisse: Farben #2E54CB (Blue), #CCFFB0 (Lime), #A6A6FF (Lavender); Font Poppins; alter Produktname war "Wufflz"
+- Onboarding-Wireframes: 6-Schritt-Wizard vollständig analysiert (Business Info → Kontakt → Veterinär → Betrieb → Technik → Mitarbeiter)
+- 14 Fachbereiche für Department-Multiselect extrahiert (a4-1.png)
+- Wettbewerber identifiziert: Rex (Direktkonkurrenz), Doctolib (Referenz), Rover, PetLEO, Hundeo, Dogorama, Tractive GPS, PetBacker, Dog Walk, Walkies, Dog Assistant
+- Design-Inspiration: Fantastical-App (Kalender), Defcon Systems (Wochenraster)
+- ZIP-Inhalt: vollständiges Brand-Kit + Pitch Deck + Investoren-Präsentation + Design Concept PDF (6.3 MB, noch nicht gelesen)
+- Output: `outputs/notes/2026-06-21-wagglz-competitive-analysis.html`
+- TODO: Design_Concept.pdf analysieren · Investoren-Präsentation lesen · Poppins + Brand-Farben in App einbinden
+
 ## [2026-06-13] setup | LLM Wiki initialized
 
 - Created Karpathy-style schema (CLAUDE.md), tools, and directory structure.
@@ -493,3 +505,5 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 - Output: outputs/notes/2026-06-20-claude-code-32-tricks-audit.html (Apple-Stil)
 - Befund: 21 umgesetzt/verfügbar, 3 echte Lücken (Custom Skills, CLAUDE.md schlanker+routen, Permissions Allow/Deny), 5 optional (Coding), 3 nicht relevant
 - Supplement Stack: deutsche Übersetzung mit 2026-06-20-Update + Scientific-References-Tabelle (Galpin/Starrett/Sims/Garner/McDaniel) re-integriert nach Rebase-Verlust
+## [2026-06-21] todo | Wagglz Setup
+- TODO: Supabase Projekt in Frankfurt (eu-west-1) erstellen + .env.local befüllen → App lokal testen
