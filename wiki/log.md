@@ -28,6 +28,13 @@ Append-only timeline of ingests, queries, and lint passes.
 - Entität erstellt: [[Provet-Cloud]]
 - Output: `outputs/notes/2026-06-21-provet-cloud-analysis.html`
 
+## [2026-06-21] ingest | Index + Log update — Provet-Cloud & Vetera entities
+
+- Wiki-Index aktualisiert: [[Provet Cloud]], [[Vetera]], [[Nordhealth]] eingetragen (updated 2026-06-21)
+- Supplement Stack raw/inbox Update 2026-06-20 bestätigt als bereits abgedeckt (wiki-Eintrag existiert, updated 2026-06-20)
+- Alle raw/inbox-Dateien geprüft: keine neuen Duplikate; alle relevanten Inhalte bereits in wiki/ representiert
+- Keine unverarbeiteten Dateien im raw/ gefunden (Archiv.zip noch nicht auf Server; Intelligence-Hub-Unterordner existiert nicht auf Server)
+
 ## [2026-06-21] query | Wagglz Asset- & Wettbewerbs-Analyse
 
 - Analysiert: 19 Screenshots aus `raw/assets/wagglz-tier/7RI3XqEc3RR6znirkakZcm/`, 6 WhatsApp App-Fotos (ZIP), SVG-Logomark
