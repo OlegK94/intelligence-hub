@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Provet Cloud — Vollständige Wettbewerbsanalyse</title>
+<style>
+  :root {
+    --blue: #0064D2;
+    --provet-teal: #00A88B;
+    --wagglz-blue: #2E54CB;
+    --lime: #CCFFB0;
+    --bg: #F5F5F7;
+    --card: #FFFFFF;
+    --text: #1D1D1F;
+    --secondary: #6E6E73;
+    --border: #D2D2D7;
+    --green: #34C759;
+    --red: #FF3B30;
+    --orange: #FF9F0A;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+
+  .hero { background: linear-gradient(135deg, #004D6E 0%, #00A88B 100%); color: white; padding: 72px 40px 52px; position: relative; overflow: hidden; }
+  .hero::after { content: ''; position: absolute; top: -80px; right: -60px; width: 320px; height: 320px; background: rgba(255,255,255,0.06); border-radius: 50%; }
+  .hero-inner { max-width: 860px; margin: 0 auto; position: relative; z-index: 1; }
+  .badge { display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 100px; padding: 5px 14px; margin-bottom: 20px; font-size: 12px; font-weight: 500; }
+  .rank-1 { background: rgba(255,215,0,0.2); border-color: rgba(255,215,0,0.5); font-weight: 700; }
+  h1 { font-size: 42px; font-weight: 700; line-height: 1.1; }
+  .hero-sub { font-size: 17px; opacity: 0.85; margin-top: 14px; max-width: 580px; }
+  .hero-meta { font-size: 12px; opacity: 0.6; margin-top: 20px; }
+
+  .container { max-width: 860px; margin: 0 auto; padding: 40px; }
+  .section { margin-bottom: 48px; }
+  .label { font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--provet-teal); margin-bottom: 10px; }
+  h2 { font-size: 26px; font-weight: 700; margin-bottom: 8px; }
+  h3 { font-size: 17px; font-weight: 600; margin-bottom: 10px; }
+  .lead { font-size: 16px; color: var(--secondary); line-height: 1.7; margin-bottom: 20px; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 24px 0; }
+  .stat { background: white; border-radius: 14px; padding: 18px; border: 1px solid var(--border); text-align: center; }
+  .stat-n { font-size: 32px; font-weight: 700; color: var(--provet-teal); line-height: 1; }
+  .stat-l { font-size: 12px; color: var(--secondary); margin-top: 6px; }
+
+  .card { background: white; border-radius: 16px; padding: 22px 24px; border: 1px solid var(--border); margin-bottom: 14px; }
+  .card-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 14px; }
+  @media (max-width: 640px) { .card-grid { grid-template-columns: 1fr; } .stats { grid-template-columns: 2fr 2fr; } h1 { font-size: 28px; } .container { padding: 20px; } }
+
+  table { width: 100%; border-collapse: collapse; }
+  th { background: var(--bg); padding: 10px 14px; text-align: left; font-size: 12px; font-weight: 600; color: var(--secondary); text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--border); }
+  td { padding: 11px 14px; font-size: 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .c { color: var(--green); font-weight: 600; }
+  .x { color: var(--red); font-weight: 600; }
+  .p { color: var(--orange); font-weight: 600; }
+
+  .timeline { position: relative; padding-left: 24px; border-left: 2px solid var(--border); }
+  .t-item { position: relative; padding: 0 0 20px 20px; }
+  .t-item::before { content: ''; position: absolute; left: -28px; top: 4px; width: 10px; height: 10px; border-radius: 50%; background: var(--provet-teal); border: 2px solid white; box-shadow: 0 0 0 2px var(--provet-teal); }
+  .t-year { font-size: 11px; font-weight: 700; color: var(--provet-teal); text-transform: uppercase; letter-spacing: 0.05em; }
+  .t-text { font-size: 14px; margin-top: 2px; }
+
+  .feature-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; margin-top: 12px; }
+  .feature-item { background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+  .feature-icon { font-size: 20px; margin-bottom: 6px; }
+  .feature-name { font-size: 13px; font-weight: 600; }
+  .feature-desc { font-size: 12px; color: var(--secondary); margin-top: 3px; line-height: 1.4; }
+
+  .pro-con { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 14px; }
+  .pro-box { background: rgba(52,199,89,0.05); border: 1px solid rgba(52,199,89,0.2); border-radius: 12px; padding: 16px; }
+  .con-box { background: rgba(255,59,48,0.05); border: 1px solid rgba(255,59,48,0.2); border-radius: 12px; padding: 16px; }
+  .box-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 10px; }
+  .pro-box .box-title { color: #1B7A39; }
+  .con-box .box-title { color: #C0392B; }
+  .item-list { list-style: none; }
+  .item-list li { font-size: 13px; padding: 4px 0; border-bottom: 1px solid rgba(0,0,0,0.05); display: flex; gap: 8px; align-items: flex-start; }
+  .item-list li:last-child { border-bottom: none; }
+
+  .rank-list { list-style: none; }
+  .rank-item { display: flex; align-items: center; gap: 12px; padding: 10px 14px; background: white; border-radius: 10px; border: 1px solid var(--border); margin-bottom: 6px; }
+  .rank-num { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; flex-shrink: 0; }
+  .rank-num.first { background: #FFD700; color: #7A5A00; }
+  .rank-num.other { background: var(--bg); color: var(--secondary); border: 1px solid var(--border); }
+  .rank-name { font-size: 14px; font-weight: 600; flex: 1; }
+  .rank-tag { font-size: 11px; color: var(--secondary); }
+  .rank-item.provet-item { border-color: var(--provet-teal); background: rgba(0,168,139,0.04); }
+  .rank-item.wagglz-gap { border-color: var(--wagglz-blue); background: rgba(46,84,203,0.04); }
+
+  .opp-card { background: white; border-radius: 14px; padding: 18px 20px; border: 2px solid var(--wagglz-blue); margin-bottom: 10px; }
+  .opp-header { display: flex; gap: 10px; align-items: flex-start; margin-bottom: 8px; }
+  .opp-icon { font-size: 22px; flex-shrink: 0; }
+  .opp-title { font-size: 15px; font-weight: 700; color: var(--wagglz-blue); }
+  .opp-body { font-size: 13px; color: var(--secondary); line-height: 1.6; }
+
+  .ai-badge { display: inline-flex; align-items: center; gap: 6px; background: linear-gradient(135deg, #667eea, #764ba2); color: white; border-radius: 8px; padding: 4px 12px; font-size: 12px; font-weight: 600; margin-bottom: 10px; }
+
+  .divider { height: 1px; background: var(--border); margin: 40px 0; }
+  footer { text-align: center; color: var(--secondary); font-size: 12px; padding: 20px 40px 40px; }
+
+  .sources { font-size: 12px; color: var(--secondary); }
+  .sources a { color: var(--blue); text-decoration: none; }
+  .sources a:hover { text-decoration: underline; }
+  .sources li { padding: 3px 0; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="badge rank-1">🥇 #1 meistgesucht auf VetSoftwareHub.com</div>
+    <h1>Provet Cloud</h1>
+    <p class="hero-sub">Vollständige Wettbewerbsanalyse — Europas führende Veterinär-Praxismanagement-Software. Eigentümer: Nordhealth AS (Oslo: NORDH).</p>
+    <div class="hero-meta">Deep Research · 21. Juni 2026 · Wagglz Competitive Intelligence</div>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- KEY METRICS -->
+  <div class="stats" style="margin-top: 32px;">
+    <div class="stat"><div class="stat-n">3.000+</div><div class="stat-l">Kliniken weltweit</div></div>
+    <div class="stat"><div class="stat-n">45+</div><div class="stat-l">Länder</div></div>
+    <div class="stat"><div class="stat-n">55.000+</div><div class="stat-l">Tierärzte</div></div>
+    <div class="stat"><div class="stat-n">$60M</div><div class="stat-l">Nordhealth Umsatz/Jahr</div></div>
+  </div>
+
+  <!-- COMPANY -->
+  <div class="section">
+    <div class="label">Unternehmen</div>
+    <h2>Nordhealth / Provet — Geschichte</h2>
+    <p class="lead">Gegründet 2001 in Finnland. Provet begann als Windows-App — umgebaut zu einem vollständigen Cloud-PIMS. Heute an der Osloer Börse gelistet.</p>
+
+    <div class="timeline">
+      <div class="t-item"><div class="t-year">2001</div><div class="t-text">Gründung Nordhealth, Helsinki (Janne Huttunen)</div></div>
+      <div class="t-item"><div class="t-year">2005</div><div class="t-text">Erwerb des Provet Windows-Produkts; Umwandlung zu Browser-App</div></div>
+      <div class="t-item"><div class="t-year">2014</div><div class="t-text"><strong>90 %</strong> aller finnischen Tierarztpraxen nutzen Provet — Marktbeherrschung erreicht</div></div>
+      <div class="t-item"><div class="t-year">2015–2019</div><div class="t-text">Internationale Expansion: Estland → Schweden → UK → Italien/Spanien → Norwegen</div></div>
+      <div class="t-item"><div class="t-year">Aug 2025</div><div class="t-text">Clinical AI Suite Launch: AI Scribe, Patient History Summary, AI Discharge Instructions</div></div>
+      <div class="t-item"><div class="t-year">Nov 2025</div><div class="t-text">Rebrand: "Provet Cloud" → "Provet"</div></div>
+      <div class="t-item"><div class="t-year">Jan 2025</div><div class="t-text">US-Pilot: Erste Partnerschaft mit US-Veterinärgruppe (200+ Standorte) — Nordamerika-Expansion</div></div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- FEATURES -->
+  <div class="section">
+    <div class="label">Produktfeatures</div>
+    <h2>Vollständiger Feature-Stack</h2>
+    <p class="lead">Provet bietet eine All-in-One-Plattform: von der Online-Buchung bis zur automatischen Rechnung und KI-Notizen.</p>
+
+    <div class="feature-grid">
+      <div class="feature-item">
+        <div class="feature-icon">📅</div>
+        <div class="feature-name">Terminplanung</div>
+        <div class="feature-desc">Self-Service-Buchung, Clinician-Slot-Matching, Drag&Drop, Side-by-Side Ressourcenansicht, Erinnerungen</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">📋</div>
+        <div class="feature-name">EMR / Patientenakte</div>
+        <div class="feature-desc">Gesamte Patient Journey in einem Workspace: History, Notizen, Labor, Imaging, Schätzungen, Rechnungen</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">💰</div>
+        <div class="feature-name">Invoicing & Billing</div>
+        <div class="feature-desc">Integrierte Rechnungsstellung, Multi-Currency, automatische Abstimmung</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">💳</div>
+        <div class="feature-name">Provet Pay</div>
+        <div class="feature-desc">Terminal + Card-on-File + Pay-by-Link, Auto-Reconciliation</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">📊</div>
+        <div class="feature-name">Business Intelligence</div>
+        <div class="feature-desc">Customizable Reports, Auto-Reporting, Financial Dashboards</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">🖥</div>
+        <div class="feature-name">Digital Whiteboard</div>
+        <div class="feature-desc">Echtzeit-Übersicht aller stationären Patienten im Haus</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">🔗</div>
+        <div class="feature-name">Referral Portal</div>
+        <div class="feature-desc">Überweisungen und Kommunikation zwischen Kliniken</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">💬</div>
+        <div class="feature-name">Messaging</div>
+        <div class="feature-desc">Vet-to-Client Kommunikation, Erinnerungen, Bestätigungen</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">🌐</div>
+        <div class="feature-name">Online-Buchung</div>
+        <div class="feature-desc">Patienten-Self-Service, Slot-Matching, automatische Bestätigung</div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon">🔌</div>
+        <div class="feature-name">150+ Integrationen</div>
+        <div class="feature-desc">REST API + Webhooks, JSON, Labor (Antech), Imaging, Payment, Open Data Ownership</div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:16px; border: 2px solid #764ba2;">
+      <div class="ai-badge">✨ NEU: Clinical AI Suite — August 2025</div>
+      <h3 style="margin-top:8px;">AI-Features (250+ tägl. aktive Nutzer nach Launch)</h3>
+      <div class="feature-grid" style="margin-top:10px;">
+        <div class="feature-item">
+          <div class="feature-icon">🎙</div>
+          <div class="feature-name">AI Scribe</div>
+          <div class="feature-desc">Ambient Recording → automatische SOAP-Notizen in Echtzeit. Erkennt Vet-Terminologie, mehrere Sprecher, verschiedene Akzente.</div>
+        </div>
+        <div class="feature-item">
+          <div class="feature-icon">📖</div>
+          <div class="feature-name">Patient History Summary</div>
+          <div class="feature-desc">Gesamte Patientenhistorie → klinisch relevante Zusammenfassung auf Knopfdruck.</div>
+        </div>
+        <div class="feature-item">
+          <div class="feature-icon">📄</div>
+          <div class="feature-name">AI Discharge Instructions</div>
+          <div class="feature-desc">Automatische Entlassungsanweisungen aus klinischen Notizen — spart wertvolle Zeit nach der Konsultation.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- PRICING -->
+  <div class="section">
+    <div class="label">Preismodell</div>
+    <h2>Pricing Plans</h2>
+    <div class="card" style="padding:0; overflow:hidden;">
+      <table>
+        <thead>
+          <tr><th>Plan</th><th>Zielgruppe</th><th>Preis (geschätzt)</th><th>Besonderheiten</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Optimise</strong></td>
+            <td>Kleinklinik, Einzelpraxis</td>
+            <td>ab €25/User/Monat<br><small>10 User ≈ €250/Mo</small></td>
+            <td>Kernfeatures</td>
+          </tr>
+          <tr>
+            <td><strong>Elevate</strong></td>
+            <td>Mittelgroße Praxis, Spezialisten</td>
+            <td>~€460/Mo für 10 User</td>
+            <td>+ Business Intelligence, Referral Portal</td>
+          </tr>
+          <tr>
+            <td><strong>Enterprise</strong></td>
+            <td>Multi-Site-Gruppen, Kliniken</td>
+            <td>Auf Anfrage</td>
+            <td>+ Dedizierter Support, Custom Integrations</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:13px; color:var(--secondary); margin-top:10px;">⚠️ Kein öffentliches Pricing-Sheet — Demo-Anfrage erforderlich. Kein Free Trial.</p>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- TOP 10 RANKING -->
+  <div class="section">
+    <div class="label">Marktposition</div>
+    <h2>Top 10 Meistgesucht — VetSoftwareHub 2024</h2>
+    <p class="lead">Quelle: LinkedIn-Screenshot (IMG_3342.PNG) — Post von Adam Wysocki, VetSoftwareHub.com</p>
+
+    <ul class="rank-list">
+      <li class="rank-item provet-item">
+        <div class="rank-num first">1</div>
+        <div class="rank-name">Provet (Cloud)</div>
+        <div class="rank-tag">🥇 Marktführer EU — direkter Hauptkonkurrent zu Wagglz</div>
+      </li>
+      <li class="rank-item"><div class="rank-num other">2</div><div class="rank-name">Vetsource</div><div class="rank-tag">Online-Apotheke / Prescription Management</div></li>
+      <li class="rank-item"><div class="rank-num other">3</div><div class="rank-name">Covetrus Pulse</div><div class="rank-tag">ehemals eVetPractice — US-fokussiert</div></li>
+      <li class="rank-item"><div class="rank-num other">4</div><div class="rank-name">Instinct</div><div class="rank-tag">Emergency & Critical Care PIMS</div></li>
+      <li class="rank-item"><div class="rank-num other">5</div><div class="rank-name">ezyVet</div><div class="rank-tag">IDEXX-Tochter — starke Laborintegration</div></li>
+      <li class="rank-item"><div class="rank-num other">6</div><div class="rank-name">Digital (Digitail)</div><div class="rank-tag">Cloud-PIMS für kleinere Praxen</div></li>
+      <li class="rank-item"><div class="rank-num other">7</div><div class="rank-name">Nidana</div><div class="rank-tag">Spezialist-PIMS</div></li>
+      <li class="rank-item"><div class="rank-num other">8</div><div class="rank-name">PetDesk</div><div class="rank-tag">Client-Kommunikation & Reminders</div></li>
+      <li class="rank-item"><div class="rank-num other">9</div><div class="rank-name">Shepherd</div><div class="rank-tag">AI-first PIMS, US-fokussiert</div></li>
+      <li class="rank-item"><div class="rank-num other">10</div><div class="rank-name">Neo (IDEXX) / Vetspire</div><div class="rank-tag">Gleichstand — IDEXX-Produkt / Cloud-PIMS</div></li>
+      <li class="rank-item wagglz-gap">
+        <div class="rank-num" style="background: rgba(46,84,203,0.15); color: var(--wagglz-blue); border: 1px solid var(--wagglz-blue); font-size:10px;">—</div>
+        <div class="rank-name" style="color: var(--wagglz-blue);">Wagglz</div>
+        <div class="rank-tag">Noch kein Ranking — Pre-Launch. Einzige DACH-GOT-konforme Lösung.</div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- PROS / CONS -->
+  <div class="section">
+    <div class="label">User Reviews — G2 & Capterra</div>
+    <h2>Stärken & Schwächen</h2>
+
+    <div class="pro-con">
+      <div class="pro-box">
+        <div class="box-title">✅ Stärken</div>
+        <ul class="item-list">
+          <li>✅ GDPR-konform, EU-Datenspeicherung</li>
+          <li>✅ Bestes EU/UK-Fit aller PIMS</li>
+          <li>✅ Offene REST API + Webhooks</li>
+          <li>✅ 150+ Integrationen</li>
+          <li>✅ Großtier-Features vorhanden</li>
+          <li>✅ iPad/Browser-optimiert</li>
+          <li>✅ Customizable Reporting</li>
+          <li>✅ AI Scribe (seit Aug 2025)</li>
+          <li>✅ Multi-Site, Multi-Currency</li>
+          <li>✅ Support-Erstreaktion sehr gut</li>
+        </ul>
+      </div>
+      <div class="con-box">
+        <div class="box-title">❌ Schwächen</div>
+        <ul class="item-list">
+          <li>❌ Viele Klicks für einfache Aufgaben</li>
+          <li>❌ Unübersichtliche UI ("messy")</li>
+          <li>❌ Labor-Ergebnisse schwer auffindbar</li>
+          <li>❌ Backline-Support kaum erreichbar</li>
+          <li>❌ Integrationen oft problemanfällig</li>
+          <li>❌ Datenmigration crashanfällig</li>
+          <li>❌ Kein einfaches Sales-Reporting</li>
+          <li>❌ System-Downtime während Praxiszeiten</li>
+          <li>❌ Kein Free Trial</li>
+          <li>❌ Preistransparenz fehlt</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- COMPETITOR COMPARISON -->
+  <div class="section">
+    <div class="label">Wettbewerbsvergleich</div>
+    <h2>Provet vs. Top-Konkurrenten</h2>
+
+    <div class="card" style="padding:0; overflow:hidden;">
+      <table>
+        <thead>
+          <tr>
+            <th>Kriterium</th>
+            <th>Provet</th>
+            <th>ezyVet (IDEXX)</th>
+            <th>Covetrus Pulse</th>
+            <th>Wagglz (geplant)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Preis ab</strong></td>
+            <td>€25/user/Mo</td>
+            <td>$260/user/Mo</td>
+            <td>Nicht öffentlich</td>
+            <td>TBD</td>
+          </tr>
+          <tr>
+            <td><strong>EU-Datenspeicherung</strong></td>
+            <td><span class="c">✅</span></td>
+            <td><span class="x">❌</span></td>
+            <td><span class="x">❌</span></td>
+            <td><span class="c">✅ (DE/EU)</span></td>
+          </tr>
+          <tr>
+            <td><strong>DSGVO-Konformität</strong></td>
+            <td><span class="c">✅</span></td>
+            <td><span class="p">⚡</span></td>
+            <td><span class="p">⚡</span></td>
+            <td><span class="c">✅ Core</span></td>
+          </tr>
+          <tr>
+            <td><strong>GOT-Abrechnung (DE)</strong></td>
+            <td><span class="x">❌</span></td>
+            <td><span class="x">❌</span></td>
+            <td><span class="x">❌</span></td>
+            <td><span class="c">✅ Core</span></td>
+          </tr>
+          <tr>
+            <td><strong>AI Scribe</strong></td>
+            <td><span class="c">✅ (Aug 2025)</span></td>
+            <td><span class="x">❌</span></td>
+            <td><span class="c">✅</span></td>
+            <td>Roadmap</td>
+          </tr>
+          <tr>
+            <td><strong>Open REST API</strong></td>
+            <td><span class="c">✅</span></td>
+            <td><span class="p">⚡</span></td>
+            <td><span class="p">⚡</span></td>
+            <td><span class="c">✅ (geplant)</span></td>
+          </tr>
+          <tr>
+            <td><strong>Tierhalter-Portal</strong></td>
+            <td><span class="p">⚡ Eingeschränkt</span></td>
+            <td><span class="p">⚡</span></td>
+            <td><span class="p">⚡</span></td>
+            <td><span class="c">✅ Core</span></td>
+          </tr>
+          <tr>
+            <td><strong>UX-Bewertung</strong></td>
+            <td>Mäßig (viele Klicks)</td>
+            <td>Gut</td>
+            <td>Mäßig</td>
+            <td>Modern (Ziel)</td>
+          </tr>
+          <tr>
+            <td><strong>Multi-Site</strong></td>
+            <td><span class="c">✅ Stark</span></td>
+            <td><span class="c">✅ Stark</span></td>
+            <td><span class="c">✅</span></td>
+            <td>Roadmap</td>
+          </tr>
+          <tr>
+            <td><strong>Hauptmarkt</strong></td>
+            <td>EU (Nordics, UK)</td>
+            <td>EN-sprachig, IDEXX-Kunden</td>
+            <td>USA</td>
+            <td>DACH</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- WAGGLZ OPPORTUNITIES -->
+  <div class="section">
+    <div class="label">Wagglz vs. Provet — Chancen</div>
+    <h2>Wo Wagglz gewinnen kann</h2>
+
+    <div class="opp-card">
+      <div class="opp-header">
+        <div class="opp-icon">🎯</div>
+        <div>
+          <div class="opp-title">GOT-Abrechnung — Einzigartiger DACH-Vorteil</div>
+        </div>
+      </div>
+      <div class="opp-body">Provet, ezyVet und Covetrus Pulse haben <strong>keine GOT-konforme Abrechnung</strong> für Deutschland/Österreich. Die Gebührenordnung für Tierärzte (GOT) mit Faktoren 1.0–6.0 ist für alle deutschen Praxen Pflicht. Wagglz ist die einzige Lösung, die das nativ unterstützt — das ist ein echter Lock-in-Vorteil.</div>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-header">
+        <div class="opp-icon">✨</div>
+        <div>
+          <div class="opp-title">UX & Einfachheit — Provet's größte Schwäche</div>
+        </div>
+      </div>
+      <div class="opp-body">Das häufigste Nutzer-Beschwerde bei Provet ist "zu viele Klicks" und "unübersichtliche UI". Wagglz's Fantastical-inspiriertes Kalenderdesign und minimale UI sind genau das Gegenteil. Wenn Wagglz konsequent auf <strong>unter 3 Klicks pro Aufgabe</strong> optimiert, ist das ein starkes Differenzierungsmerkmal.</div>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-header">
+        <div class="opp-icon">🐾</div>
+        <div>
+          <div class="opp-title">Tierhalter-Portal als First-Class-Feature</div>
+        </div>
+      </div>
+      <div class="opp-body">Provet hat ein eingeschränktes Tierhalter-Portal — es ist kein Kernprodukt. Wagglz ist als "Doctolib für Tierärzte" konzipiert, wo das Tierhalter-Erlebnis (Buchung, Tiere, Rechnungen, Impfpässe) <strong>gleichberechtigt zur Praxis-Software</strong> ist. Das ist ein echter B2C2B-Wettbewerbsvorteil.</div>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-header">
+        <div class="opp-icon">💰</div>
+        <div>
+          <div class="opp-title">Transparentes Pricing & kein Lock-in</div>
+        </div>
+      </div>
+      <div class="opp-body">Provet verbirgt Preise hinter Demo-Anfragen und kein Free Trial. Wagglz kann hier mit <strong>transparentem, öffentlichem Pricing</strong> und einer Testphase punkten — besonders wichtig für kleinere Einzelpraxen, die kein Verkaufsgespräch wollen.</div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="section">
+    <div class="label">Quellen</div>
+    <h2>Recherche-Quellen</h2>
+    <ul class="sources item-list" style="list-style:none;">
+      <li>📊 <a href="https://www.vetsoftwarehub.com/product/provet-cloud">VetSoftwareHub — Provet Cloud Profil & Ranking</a></li>
+      <li>🌐 <a href="https://www.provet.com/">Provet.com — Offizielle Website</a></li>
+      <li>💹 <a href="https://finance.yahoo.com/quote/NORDH.OL/">Nordhealth AS — Oslo Stock Exchange (NORDH.OL)</a></li>
+      <li>🤖 <a href="https://www.linkedin.com/posts/provet-cloud_provets-clinical-ai-is-here-activity-7363585590543450113-aL-E">LinkedIn — Clinical AI Suite Launch (Aug 2025)</a></li>
+      <li>⭐ <a href="https://www.capterra.com/p/137569/Provet-Cloud/reviews/">Capterra — Provet Cloud Reviews</a></li>
+      <li>⭐ <a href="https://www.g2.com/products/provet-cloud/reviews">G2 — Provet Cloud Reviews 2025</a></li>
+      <li>🆚 <a href="https://www.puppilot.co/resources/compare-pims/covetrus-pulse-vs-provet-cloud">Puppilot — Covetrus Pulse vs. Provet Cloud</a></li>
+      <li>🏢 <a href="https://venturingeuropeanmarkets.substack.com/p/nordhealth">Nordhealth Unternehmensgeschichte (Substack)</a></li>
+      <li>📱 IMG_3342.PNG — LinkedIn-Screenshot: VetSoftwareHub Top-10-Ranking (Most-searched 2024)</li>
+    </ul>
+  </div>
+
+</div>
+
+<footer>
+  <p>Provet Cloud Competitive Intelligence · Wagglz Platform · Deep Research 21. Juni 2026</p>
+</footer>
+
+</body>
+</html>
