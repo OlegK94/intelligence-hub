@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Raw/ Vollständiger Asset-Audit | Intelligence Hub 2026-06-21</title>
+<style>
+  :root {
+    --blue: #2E54CB; --lime: #CCFFB0; --lavender: #A6A6FF;
+    --bg: #F8F9FC; --card: #fff; --border: #E2E6F0; --text: #0F1629; --muted: #6B7280;
+    --green: #00A651; --yellow: #E65100; --red: #C62828;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+  .hero { background: linear-gradient(135deg, #0F1629 0%, #1a2a5e 100%); padding: 52px 40px; color: white; text-align: center; }
+  .hero h1 { font-size: 32px; font-weight: 700; margin-bottom: 8px; }
+  .hero p { font-size: 16px; opacity: 0.75; }
+  .badge { display: inline-block; background: rgba(255,255,255,0.12); border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; padding: 4px 14px; font-size: 13px; margin-top: 14px; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 48px 24px; }
+  h2.section { font-size: 22px; font-weight: 700; margin: 48px 0 20px; padding-bottom: 10px; border-bottom: 2px solid var(--border); }
+  .card { background: var(--card); border-radius: 14px; padding: 24px; margin-bottom: 16px; border: 1px solid var(--border); box-shadow: 0 2px 8px rgba(0,0,0,0.04); }
+  .card h3 { font-size: 16px; font-weight: 700; margin-bottom: 10px; }
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { background: var(--bg); font-weight: 600; padding: 10px 12px; text-align: left; border-bottom: 2px solid var(--border); }
+  td { padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .pill { display: inline-block; padding: 2px 9px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+  .pill.done { background: #E8F8EF; color: #00763A; }
+  .pill.app { background: #E8EDFB; color: var(--blue); }
+  .pill.todo { background: #FFF8E1; color: #E65100; }
+  .pill.wiki { background: #F0EDFF; color: #5B2FBE; }
+  .pill.skip { background: #F5F5F5; color: #9CA3AF; }
+  .swatch { display: inline-block; width: 20px; height: 20px; border-radius: 4px; vertical-align: middle; margin-right: 6px; border: 1px solid rgba(0,0,0,0.08); }
+  .alert-green { background: #F0FFF6; border-left: 4px solid var(--green); border-radius: 10px; padding: 14px 18px; margin-bottom: 16px; font-size: 14px; }
+  .alert-yellow { background: #FFFBF0; border-left: 4px solid #F5A623; border-radius: 10px; padding: 14px 18px; margin-bottom: 16px; font-size: 14px; }
+  .path { font-family: monospace; font-size: 12px; color: var(--muted); background: #F5F5F5; padding: 2px 6px; border-radius: 4px; }
+  .big-num { font-size: 36px; font-weight: 800; color: var(--blue); line-height: 1; }
+  .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 32px; }
+  .stat { background: var(--card); border-radius: 14px; padding: 20px; text-align: center; border: 1px solid var(--border); }
+  .stat .label { font-size: 13px; color: var(--muted); margin-top: 4px; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>Raw/ — Vollständiger Asset-Audit</h1>
+  <p>Alle Dateien geprüft, kategorisiert und mit Verwendungsempfehlung versehen</p>
+  <span class="badge">2026-06-21 · Intelligence Hub · Wagglz-20260619T195338Z-3-001.zip vollständig gelesen</span>
+</div>
+
+<div class="container">
+
+  <div class="stat-row">
+    <div class="stat"><div class="big-num">103</div><div class="label">Dateien in raw/ gesamt</div></div>
+    <div class="stat"><div class="big-num">~250</div><div class="label">Wiki-Seiten bereits erstellt</div></div>
+    <div class="stat"><div class="big-num">12</div><div class="label">Design-Concept-Seiten analysiert</div></div>
+    <div class="stat"><div class="big-num">20</div><div class="label">Investor-Pitch-Folien gelesen</div></div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <h2 class="section">📦 Wagglz ZIP — Vollständiger Inhalt</h2>
+  <!-- ═══════════════════════════════════════════════════ -->
+
+  <div class="alert-green">
+    <strong>✅ ZIP vollständig extrahiert und analysiert.</strong> Enthält 7 Ordner mit Brand-Assets, Fonts, Social Media, Präsentationen und Design-Dokumenten.
+  </div>
+
+  <div class="grid-2">
+
+    <!-- Design Concept -->
+    <div class="card">
+      <h3>🎨 Design Concept PDF <span class="pill done">Analysiert</span></h3>
+      <p class="path">Wagglz/Design Concept/Wagglz_Design_Concept.pdf · 12 Seiten · Julia Akenteva · Juni 2024</p>
+      <table style="margin-top:12px;">
+        <tr><th>Seite</th><th>Inhalt</th></tr>
+        <tr><td>1</td><td>Cover — "Design Concept · Pet Care App"</td></tr>
+        <tr><td>2</td><td>Wagglz Wordmark in Bubble-Schrift (blau auf blau)</td></tr>
+        <tr><td>3</td><td>Logo-Anwendungen: Foto, Blue BG Lime, W-Icon auf Lavender</td></tr>
+        <tr><td>4</td><td><strong>Farbpalette:</strong> Ultramarine #2E54CE (P2132C) · Lime #CCFFB0 (P372C) · Lila #A6A6FF (P2705C) + Tints</td></tr>
+        <tr><td>5</td><td><strong>Typografie:</strong> Poppins Black / Medium / Regular / Light</td></tr>
+        <tr><td>6</td><td>Logo-Evolution Mai → Juni 2024</td></tr>
+        <tr><td>7</td><td>Billboard-Mockup: "Making tails happy · wagglz.de"</td></tr>
+        <tr><td>8</td><td>Visitenkarte: Oleg Kober · CEO · +49 174 9306055</td></tr>
+        <tr><td>9</td><td>Merch: Hund trägt Wagglz-Hoodie mit W-Icon</td></tr>
+        <tr><td>10</td><td>T-Shirt: Ultramarine mit großem W-Logomark</td></tr>
+        <tr><td>11</td><td>Outdoor-Werbung: "Best care for best friends"</td></tr>
+        <tr><td>12</td><td>Abschluss-Slide "Thank you."</td></tr>
+      </table>
+    </div>
+
+    <!-- Investoren-Pitch -->
+    <div class="card">
+      <h3>📊 Investoren-Präsentation <span class="pill done">Analysiert</span></h3>
+      <p class="path">Wagglz/Presentation Template/Original_Wagglz_GmbH_Investoren_Präsentation.pptx · 20 Folien · Aug 2024</p>
+      <div style="margin-top:12px; font-size:14px;">
+        <div class="alert-yellow" style="margin-bottom:10px;"><strong>Historisch wichtig:</strong> Das ursprüngliche Wagglz war ein <strong>Dogwalking-Abo-Service</strong> — kein Tierarzt-PIMS! Pivot erfolgte 2024–2025.</div>
+        <table>
+          <tr><th>Thema</th><th>Inhalt</th></tr>
+          <tr><td>Tagline</td><td>"We get Tails wagging"</td></tr>
+          <tr><td>MVP</td><td>Dogwalking 2.0 – digital im Abo</td></tr>
+          <tr><td>Problem</td><td>Zeitmangel + Schuldgefühle bei Hundebesitzern</td></tr>
+          <tr><td>TAM</td><td>€1,56 Mrd./Jahr (Deutschland)</td></tr>
+          <tr><td>SOM</td><td>€22,1 Mio./Jahr (Berlin)</td></tr>
+          <tr><td>Preise</td><td>Activ €280/Mo · Explorer €385 · Adventure €475 · VIP €525</td></tr>
+          <tr><td>GTM</td><td>Berlin-First, Tierarztpraxen, Hundeschulen, Fahrzeuge</td></tr>
+          <tr><td>Persona</td><td>Sabine Müller, 35, Marketing-Managerin, Labrador "Bruno"</td></tr>
+          <tr><td>Mission</td><td>"Glückliche Hunde, entspannte Besitzer"</td></tr>
+          <tr><td>Kontakt</td><td>Oleg Kober · Founder & CEO · +49 174 9306055</td></tr>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fonts -->
+  <div class="card">
+    <h3>🔤 Poppins Font-Familie <span class="pill app">In App implementiert</span></h3>
+    <p class="path">Wagglz/Fonts/ · 14 TTF-Dateien · alle Gewichte + Kursiv · SIL Open Font License</p>
+    <div style="margin-top: 12px; display: flex; flex-wrap: wrap; gap: 8px;">
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">Thin 100</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">ExtraLight 200</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">Light 300</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">Regular 400</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">Medium 500</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">SemiBold 600</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">Bold 700</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">ExtraBold 800</span>
+      <span style="font-size:13px; padding: 4px 10px; background:#F0EDFF; border-radius:6px; color:#5B2FBE;">Black 900</span>
+    </div>
+    <p style="margin-top:10px; font-size:13px; color:var(--muted);">Kopiert nach <code>Wagglz-App/public/fonts/Poppins-{weight}.ttf</code> und via <code>next/font/local</code> eingebunden.</p>
+  </div>
+
+  <!-- Logos -->
+  <div class="card">
+    <h3>🐾 Logomark & Brand-Dateien <span class="pill app">SVG in App</span></h3>
+    <div class="grid-3" style="margin-top:12px;">
+      <div>
+        <strong style="font-size:13px;">Vector</strong>
+        <ul style="font-size:13px; list-style:none; margin-top:6px; space-y: 2px;">
+          <li>✅ Wagglz_Logo.svg → <code>public/wagglz-logo.svg</code></li>
+          <li>📁 Wagglz_Logo.eps (Print)</li>
+          <li>📁 Wagglz_Logo.ai (Illustrator)</li>
+        </ul>
+      </div>
+      <div>
+        <strong style="font-size:13px;">Raster</strong>
+        <ul style="font-size:13px; list-style:none; margin-top:6px;">
+          <li>Logo-01: Blau auf Weiß</li>
+          <li>Logo-02: Lime auf Blau</li>
+          <li>Logo-03: Weiß auf Blau</li>
+          <li>Logo-04: Blau auf Lime</li>
+        </ul>
+      </div>
+      <div>
+        <strong style="font-size:13px;">Business Cards</strong>
+        <ul style="font-size:13px; list-style:none; margin-top:6px;">
+          <li>Wagglz_BC.pdf (druckfertig)</li>
+          <li>Wagglz_BC.ai (editierbar)</li>
+          <li>Wagglz_BC_Curves.ai (Kurven)</li>
+          <li>Wagglz_BC_Preview.jpg</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Social Media -->
+  <div class="card">
+    <h3>📱 Social Media Assets</h3>
+    <table style="margin-top:10px;">
+      <tr><th>Plattform</th><th>Format</th><th>Dateien</th><th>Status</th></tr>
+      <tr><td>LinkedIn</td><td>Cover 1584×396</td><td>Wagglz_LinkedIn_Cover_1584x396_1/2.jpg</td><td><span class="pill todo">Bereit zum Upload</span></td></tr>
+      <tr><td>LinkedIn</td><td>Personal Cover</td><td>Wagglz_LinkedIn_Cover_Personal_1/2.jpg</td><td><span class="pill todo">Bereit zum Upload</span></td></tr>
+      <tr><td>LinkedIn</td><td>Avatar (4 Varianten)</td><td>Wagglz_Li_Avatar_1/2/3/4.jpg+.png</td><td><span class="pill todo">Bereit zum Upload</span></td></tr>
+      <tr><td>Facebook</td><td>Cover 851×315</td><td>Wagglz_FB_851x315_1.jpg</td><td><span class="pill todo">Bereit zum Upload</span></td></tr>
+      <tr><td>Facebook</td><td>Mobile Cover</td><td>Wagglz_FB_Mobil_1/2.jpg</td><td><span class="pill todo">Bereit zum Upload</span></td></tr>
+      <tr><td>Google</td><td>Profil-Bilder</td><td>Wagglz_Google.jpg, _2.png, _3.png</td><td><span class="pill todo">Bereit zum Upload</span></td></tr>
+    </table>
+  </div>
+
+  <!-- E-Mail Signatur -->
+  <div class="card">
+    <h3>✉️ E-Mail Signatur <span class="pill todo">Noch einrichten</span></h3>
+    <p class="path">Wagglz/E-Mail Signatur/E-Mail Signatur.docx</p>
+    <p style="margin-top:8px; font-size:14px; color:var(--muted);">DOCX-Datei mit fertig formatierter E-Mail-Signatur. Für Oleg Kober (CEO) in Outlook/Mail einrichten.</p>
+  </div>
+
+  <!-- PitchDeck Template -->
+  <div class="card">
+    <h3>📋 PitchDeck Template <span class="pill skip">Template-Dummy — nicht verwenden</span></h3>
+    <p class="path">Wagglz/Presentation Template/Wagglz_PitchDeck_Template_.pptx + Google Slides Version</p>
+    <p style="margin-top:8px; font-size:14px; color:var(--muted);">Generisches Pitch-Deck-Template mit Placeholder-Text (Digital Assets, Generic Company). Kein echter Wagglz-Inhalt. Nur die visuelle Vorlage verwenden.</p>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <h2 class="section">📂 Alle Anderen raw/-Dateien — Audit</h2>
+  <!-- ═══════════════════════════════════════════════════ -->
+
+  <div class="card">
+    <h3>Business/Wagglz — alle verarbeitet</h3>
+    <table>
+      <tr><th>Datei</th><th>Wiki-Seite</th><th>Status</th></tr>
+      <tr><td class="path">Business/Wagglz/Wagglz GmbH.md</td><td>[[Wagglz GmbH]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td class="path">Business/Wagglz/Wagglz GmbH — Finance Vault.md</td><td>[[Wagglz GmbH]] + [[Oleg-Darlehen]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td class="path">Business/Wagglz/Finanzen/...</td><td>[[Wagglz Finom 2026]], [[Wagglz GF-Gehalt 2025]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>Business/PerformanceCafe — vollständig analysiert (15 Dateien)</h3>
+    <table>
+      <tr><th>Ordner</th><th>Wiki-Seiten</th><th>Status</th></tr>
+      <tr><td class="path">research/ (7 Dateien)</td><td>[[Performance Coffee Brand]], [[NMN EU Status]], [[Ingredient Suppliers]], etc.</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td class="path">brand/, legal/, ops/</td><td>[[Aevum Brand]], [[Performance Coffee Brand Legal]], [[CMO Sourcing]], [[Kölner Liste]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td class="path">models/unit_economics.py</td><td>Unit Economics im Wiki referenziert</td><td><span class="pill done">✅ Wiki</span></td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>Privat/ — vollständig verarbeitet</h3>
+    <table>
+      <tr><th>Bereich</th><th>Wiki-Seiten</th><th>Status</th></tr>
+      <tr><td>Finanzen (18 Dateien)</td><td>[[Finanzübersicht 2026]], [[Fixkosten]], [[ESt 2025]], [[VW Kredit]], etc.</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td>Performance (8 Dateien)</td><td>[[Health Protocol Master]], [[Supplement Stack]], [[Hyrox 10-Week]], [[3D Body Scan]], etc.</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td>Tech (3 Dateien)</td><td>[[Privacy Tech Stack]], [[Password Manager Migration]], [[Claude Projects Setup]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td>Versicherungen</td><td>[[Allianz Insurance Consolidation]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td>Auswandern</td><td>[[Cyprus Relocation]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+      <tr><td>Recherchen</td><td>[[TEMPUR Matratzenkauf]]</td><td><span class="pill done">✅ Wiki</span></td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>Inbox/ — alle verarbeitet</h3>
+    <table>
+      <tr><th>Datei</th><th>Status</th></tr>
+      <tr><td class="path">supplement-stack-update-2026-06-20.md</td><td><span class="pill done">✅ [[Supplement Stack]] updated 2026-06-20</span></td></tr>
+      <tr><td class="path">00-Master-Context.md</td><td><span class="pill done">✅ [[Oleg Personal Context]]</span></td></tr>
+      <tr><td class="path">2026-06 Finance Monthly.md</td><td><span class="pill done">✅ [[Finanzübersicht 2026]]</span></td></tr>
+      <tr><td class="path">Cyprus Relocation Tracker.md</td><td><span class="pill done">✅ [[Cyprus Relocation]]</span></td></tr>
+      <tr><td class="path">📥 Offene Actions.md</td><td><span class="pill done">✅ [[P0 Sofortmaßnahmen]], [[P2 Diesen Monat]]</span></td></tr>
+      <tr><td class="path">Unbenannt 1/2.base</td><td><span class="pill skip">Obsidian Canvas — kein Text-Inhalt</span></td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>assets/wagglz-tier/ — 19 Wireframe-Screenshots</h3>
+    <table>
+      <tr><th>Datei</th><th>Inhalt</th><th>Status</th></tr>
+      <tr><td class="path">01-1 bis 01-9-create-an-account-*.png</td><td>6-Schritt-Onboarding-Wizard vollständig</td><td><span class="pill done">✅ Analysiert + Wiki</span></td></tr>
+      <tr><td class="path">calendar-week.png</td><td>Wochenkalender-Wireframe</td><td><span class="pill done">✅ Analysiert</span></td></tr>
+      <tr><td class="path">fantastical.png</td><td>Fantastical als Kalender-Referenz</td><td><span class="pill done">✅ Analysiert</span></td></tr>
+      <tr><td class="path">wireframe-1.png, frame.png, frame-2.png</td><td>Mobile App Wireframes</td><td><span class="pill done">✅ Analysiert</span></td></tr>
+      <tr><td class="path">a4-1.png</td><td>14-Fachbereich-Multiselect für Onboarding</td><td><span class="pill done">✅ Analysiert</span></td></tr>
+      <tr><td class="path">1.png (Cover)</td><td>Pitch-Deck Cover "Wufflz" (alter Name)</td><td><span class="pill done">✅ Analysiert</span></td></tr>
+      <tr><td class="path">arrange-a-demo.png, arrange-a-demo-2.png</td><td>Demo-Buchungs-Wireframe</td><td><span class="pill done">✅ Analysiert</span></td></tr>
+    </table>
+  </div>
+
+  <div class="card">
+    <h3>Screenshot-Archive (Provet + Vetera)</h3>
+    <table>
+      <tr><th>Archiv</th><th>Inhalt</th><th>Status</th></tr>
+      <tr><td class="path">Archiv.zip (79 MB, 103 Screenshots)</td><td>Provet Cloud Website vollständig: Pricing, Features, AI, Customers</td><td><span class="pill done">✅ Analysiert + HTML Report</span></td></tr>
+      <tr><td class="path">Archiv Kopie.zip (3 MB, 10 Screenshots)</td><td>Vetera Website: Digital Features, Filialsystem, Stats</td><td><span class="pill done">✅ Analysiert + HTML Report</span></td></tr>
+      <tr><td class="path">IMG_3342.PNG</td><td>VetSoftwareHub Top-10 Ranking (LinkedIn)</td><td><span class="pill done">✅ Wiki [[Provet Cloud]]</span></td></tr>
+      <tr><td class="path">IMG_3343/3344.PNG</td><td>Longevity Peptide Post (nicht relevant)</td><td><span class="pill skip">Kein Wagglz-Bezug</span></td></tr>
+    </table>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <h2 class="section">🎯 Was jetzt in der App verwendbar ist</h2>
+  <!-- ═══════════════════════════════════════════════════ -->
+
+  <div class="card">
+    <table>
+      <tr><th>Asset</th><th>Quelle</th><th>Status</th><th>Wo</th></tr>
+      <tr>
+        <td><strong>Poppins (9 Gewichte, Originaldateien)</strong></td>
+        <td class="path">ZIP → Wagglz/Fonts/</td>
+        <td><span class="pill app">✅ App</span></td>
+        <td><code>public/fonts/Poppins-*.ttf</code></td>
+      </tr>
+      <tr>
+        <td><strong>SVG-Logo Wagglz Wordmark</strong></td>
+        <td class="path">ZIP → Wagglz/Logomark/Vector/Wagglz_Logo.svg</td>
+        <td><span class="pill app">✅ App</span></td>
+        <td><code>public/wagglz-logo.svg</code> → Sidebar</td>
+      </tr>
+      <tr>
+        <td><strong>Farbpalette komplett</strong></td>
+        <td class="path">Design Concept PDF Seite 4</td>
+        <td><span class="pill app">✅ App</span></td>
+        <td><code>globals.css</code> CSS-Variablen</td>
+      </tr>
+      <tr>
+        <td><strong>W-Logomark als Favicon</strong></td>
+        <td class="path">ZIP → Wagglz/Logomark/Raster/Wagglz_Logo-01.png</td>
+        <td><span class="pill todo">⏳ TODO</span></td>
+        <td><code>public/favicon.ico</code></td>
+      </tr>
+      <tr>
+        <td><strong>Taglines für Onboarding/Marketing</strong></td>
+        <td class="path">Investoren-Pitch + Billboard</td>
+        <td><span class="pill todo">⏳ TODO</span></td>
+        <td>Onboarding-Wizard Landing, Auth-Seiten</td>
+      </tr>
+      <tr>
+        <td><strong>LinkedIn Cover (für Launch)</strong></td>
+        <td class="path">ZIP → Wagglz/LinkedIn/</td>
+        <td><span class="pill todo">⏳ TODO</span></td>
+        <td>LinkedIn Wagglz-Unternehmensseite</td>
+      </tr>
+      <tr>
+        <td><strong>E-Mail-Signatur (Oleg)</strong></td>
+        <td class="path">ZIP → Wagglz/E-Mail Signatur/</td>
+        <td><span class="pill todo">⏳ TODO</span></td>
+        <td>olegkober@wagglz.de</td>
+      </tr>
+      <tr>
+        <td><strong>Business Cards (Druck)</strong></td>
+        <td class="path">ZIP → Wagglz/Business Cards/Wagglz_BC.pdf</td>
+        <td><span class="pill todo">⏳ TODO</span></td>
+        <td>Druckerei beauftragen</td>
+      </tr>
+      <tr>
+        <td><strong>Wagglz BC.pdf druckfertig</strong></td>
+        <td class="path">ZIP → Business Cards/</td>
+        <td><span class="pill todo">⏳ Drucken</span></td>
+        <td>Kontaktdaten prüfen (wagglz.de Domain aktiv?)</td>
+      </tr>
+      <tr>
+        <td><strong>Pitch-Deck Template (visuelle Vorlage)</strong></td>
+        <td class="path">ZIP → Presentation Template/Wagglz_PitchDeck_Template_.pptx</td>
+        <td><span class="pill todo">⏳ Mit echten Inhalten füllen</span></td>
+        <td>Für Investor-Gespräche (Tierarzt-PIMS Pivot)</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- ═══════════════════════════════════════════════════ -->
+  <h2 class="section">📌 Pivot-Erkenntnis — Wichtig für Wagglz-Strategie</h2>
+  <!-- ═══════════════════════════════════════════════════ -->
+
+  <div class="card" style="background: #FFFBF0; border-left: 4px solid #F5A623;">
+    <h3>Wagglz 2024 vs. 2025+ — zwei sehr verschiedene Produkte</h3>
+    <div class="grid-2" style="margin-top:14px; font-size:14px;">
+      <div>
+        <strong>Original Wagglz (2024)</strong>
+        <ul style="list-style:none; margin-top:8px; space-y:4px;">
+          <li>🐕 Dogwalking-Abo-Service für Hundebesitzer</li>
+          <li>🚐 Eigene Fahrzeuge, Naturausläufe</li>
+          <li>💶 €280–525/Monat Subscription</li>
+          <li>📍 Berlin-First Rollout</li>
+          <li>🎯 Zielgruppe: Berufstätige Hundebesitzer</li>
+          <li>📊 TAM: €1,56 Mrd. (Dogwalking DE)</li>
+        </ul>
+      </div>
+      <div>
+        <strong>Wagglz Heute (2025+)</strong>
+        <ul style="list-style:none; margin-top:8px; space-y:4px;">
+          <li>🏥 Veterinär-Praxismanagement-Software (PIMS)</li>
+          <li>☁️ SaaS / Cloud-native</li>
+          <li>💶 B2B SaaS (Preismodell noch TBD)</li>
+          <li>📍 DACH-First (GOT-Abrechnung)</li>
+          <li>🎯 Zielgruppe: Tierärzte / Praxen</li>
+          <li>📊 TAM: DACH Veterinär-PIMS Markt</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:14px; font-size:14px; color:var(--muted);"><strong>Brand bleibt:</strong> Farben, Logo, Font und Taglines passen für beide Use Cases — das ist ein Zufallstreffer der Designerin!</p>
+  </div>
+
+  <div style="margin-top:48px; padding-top:24px; border-top:1px solid var(--border); text-align:center; font-size:13px; color:var(--muted);">
+    Intelligence Hub · Raw/ Asset Audit abgeschlossen · 2026-06-21<br>
+    Alle Dateien gelesen, kategorisiert und mit Verwendungsempfehlung versehen.
+  </div>
+
+</div>
+</body>
+</html>
