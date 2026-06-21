@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vetera + DACH Veterinär-Software-Markt — Wettbewerbsanalyse</title>
+<style>
+  :root { --vetera: #1A6B4A; --nordhealth: #004D6E; --wagglz: #2E54CB; --bg: #F5F5F7; --card: #FFFFFF; --text: #1D1D1F; --secondary: #6E6E73; --border: #D2D2D7; --green: #34C759; --red: #FF3B30; --orange: #FF9F0A; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+
+  .hero { background: linear-gradient(135deg, #1A6B4A 0%, #2D9E6B 100%); color: white; padding: 72px 40px 52px; position: relative; overflow: hidden; }
+  .hero::after { content: ''; position: absolute; bottom: -60px; right: 10%; width: 240px; height: 240px; background: rgba(255,255,255,0.06); border-radius: 50%; }
+  .hero-inner { max-width: 860px; margin: 0 auto; position: relative; z-index: 1; }
+  .badge { display: inline-flex; align-items: center; gap: 8px; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 100px; padding: 5px 14px; margin-bottom: 20px; font-size: 12px; font-weight: 500; }
+  h1 { font-size: 40px; font-weight: 700; line-height: 1.1; }
+  .hero-sub { font-size: 17px; opacity: 0.85; margin-top: 14px; max-width: 600px; }
+  .hero-meta { font-size: 12px; opacity: 0.6; margin-top: 20px; }
+
+  .container { max-width: 860px; margin: 0 auto; padding: 40px; }
+  .section { margin-bottom: 48px; }
+  .label { font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--vetera); margin-bottom: 10px; }
+  h2 { font-size: 26px; font-weight: 700; margin-bottom: 8px; }
+  h3 { font-size: 17px; font-weight: 600; margin-bottom: 10px; }
+  .lead { font-size: 16px; color: var(--secondary); line-height: 1.7; margin-bottom: 20px; }
+
+  .alert { background: rgba(255,159,10,0.08); border: 2px solid rgba(255,159,10,0.4); border-radius: 14px; padding: 18px 20px; margin-bottom: 20px; }
+  .alert-title { font-size: 14px; font-weight: 700; color: #7A5A00; margin-bottom: 6px; }
+  .alert-body { font-size: 13px; color: var(--secondary); line-height: 1.6; }
+
+  .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin: 24px 0; }
+  .stat { background: white; border-radius: 14px; padding: 18px; border: 1px solid var(--border); text-align: center; }
+  .stat-n { font-size: 30px; font-weight: 700; color: var(--vetera); line-height: 1.1; }
+  .stat-l { font-size: 12px; color: var(--secondary); margin-top: 6px; }
+
+  .card { background: white; border-radius: 16px; padding: 22px 24px; border: 1px solid var(--border); margin-bottom: 14px; }
+
+  table { width: 100%; border-collapse: collapse; }
+  th { background: var(--bg); padding: 10px 14px; text-align: left; font-size: 12px; font-weight: 600; color: var(--secondary); text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid var(--border); }
+  td { padding: 11px 14px; font-size: 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .c { color: var(--green); font-weight: 600; }
+  .x { color: var(--red); font-weight: 600; }
+  .p { color: var(--orange); font-weight: 600; }
+
+  .market-bar { margin: 8px 0; }
+  .bar-label { display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 13px; }
+  .bar-track { height: 8px; background: var(--bg); border-radius: 100px; overflow: hidden; border: 1px solid var(--border); }
+  .bar-fill { height: 100%; border-radius: 100px; }
+
+  .pro-con { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .pro-box { background: rgba(52,199,89,0.05); border: 1px solid rgba(52,199,89,0.2); border-radius: 12px; padding: 16px; }
+  .con-box { background: rgba(255,59,48,0.05); border: 1px solid rgba(255,59,48,0.2); border-radius: 12px; padding: 16px; }
+  .box-title { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 10px; }
+  .pro-box .box-title { color: #1B7A39; }
+  .con-box .box-title { color: #C0392B; }
+  .item-list li { font-size: 13px; padding: 4px 0; border-bottom: 1px solid rgba(0,0,0,0.05); display: flex; gap: 8px; list-style: none; }
+  .item-list li:last-child { border-bottom: none; }
+
+  .opp-card { background: white; border-radius: 14px; padding: 18px 20px; border: 2px solid var(--wagglz); margin-bottom: 10px; }
+  .opp-title { font-size: 15px; font-weight: 700; color: var(--wagglz); margin-bottom: 6px; }
+  .opp-body { font-size: 13px; color: var(--secondary); line-height: 1.6; }
+
+  .critical { background: rgba(255,59,48,0.06); border: 2px solid rgba(255,59,48,0.3); border-radius: 14px; padding: 18px 20px; margin-bottom: 12px; }
+  .critical-title { font-size: 14px; font-weight: 700; color: var(--red); margin-bottom: 6px; }
+
+  .divider { height: 1px; background: var(--border); margin: 40px 0; }
+  footer { text-align: center; color: var(--secondary); font-size: 12px; padding: 20px 40px 40px; }
+
+  @media (max-width: 640px) { .stat-row { grid-template-columns: 2fr 2fr; } .pro-con { grid-template-columns: 1fr; } h1 { font-size: 28px; } .container { padding: 20px; } }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="badge">🇩🇪 DACH-Marktführer · Gegründet 1989 · Von Nordhealth übernommen 2022</div>
+    <h1>Vetera + DACH Veterinär-Software-Markt</h1>
+    <p class="hero-sub">Vollständige Analyse des deutschen Markts: Vetera (18.000+ User), easyVET (5.000+ Praxen), IDEXX Animana, Provet Cloud — und wo Wagglz angreifen kann.</p>
+    <div class="hero-meta">Deep Research · 21. Juni 2026 · Wagglz Competitive Intelligence</div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="alert" style="margin-top:28px;">
+    <div class="alert-title">⚡ Kritische strategische Erkenntnis</div>
+    <div class="alert-body">Vetera (DACH-Marktführer, 18.000 User) und Provet Cloud (EU-Marktführer, 3.000 Kliniken) gehören <strong>demselben Eigentümer: Nordhealth AS</strong>. Nordhealth kontrolliert de facto den gesamten europäischen PIMS-Markt. Wagglz tritt gegen ein konsolidiertes Duopol an — und hat trotzdem klare Lücken zu besetzen.</div>
+  </div>
+
+  <!-- MARKET OVERVIEW -->
+  <div class="section">
+    <div class="label">DACH Markt</div>
+    <h2>Veterinär-Software-Markt Deutschland/Österreich/Schweiz</h2>
+
+    <div class="stat-row">
+      <div class="stat"><div class="stat-n">18.000+</div><div class="stat-l">Vetera-Nutzer (DACH)</div></div>
+      <div class="stat"><div class="stat-n">7</div><div class="stat-l">Vet-Universitäten nutzen Vetera</div></div>
+      <div class="stat"><div class="stat-n">1989</div><div class="stat-l">Vetera gegründet</div></div>
+      <div class="stat"><div class="stat-n">€8,36M</div><div class="stat-l">Nordhealth kaufte Vetera (2022)</div></div>
+    </div>
+
+    <div class="card" style="padding:0; overflow:hidden;">
+      <table>
+        <thead><tr><th>Software</th><th>Nutzer/Praxen</th><th>Fokus</th><th>Eigentümer</th><th>Cloud</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><strong>easyVET</strong></td>
+            <td>5.000+ Praxen weltweit</td>
+            <td>DE / International</td>
+            <td>Unabhängig</td>
+            <td><span class="p">⚡ Teils</span></td>
+          </tr>
+          <tr style="background: rgba(26,107,74,0.04);">
+            <td><strong>Vetera</strong> 🇩🇪</td>
+            <td>18.000+ DACH-Nutzer</td>
+            <td>DE / AT / CH</td>
+            <td>Nordhealth (Provet)</td>
+            <td><span class="p">⚡ VeteraSky in Entwicklung</span></td>
+          </tr>
+          <tr>
+            <td><strong>IDEXX Animana</strong></td>
+            <td>DACH-fokussiert</td>
+            <td>DE / AT / CH</td>
+            <td>IDEXX Laboratories</td>
+            <td><span class="c">✅</span></td>
+          </tr>
+          <tr>
+            <td><strong>Provet Cloud</strong></td>
+            <td>3.000+ Kliniken, 45 Länder</td>
+            <td>EU (UK, Nordics)</td>
+            <td>Nordhealth</td>
+            <td><span class="c">✅</span></td>
+          </tr>
+          <tr style="background: rgba(46,84,203,0.04);">
+            <td><strong>Wagglz</strong> 🚀</td>
+            <td>Pre-Launch</td>
+            <td>DACH (DE first)</td>
+            <td>Wagglz GmbH</td>
+            <td><span class="c">✅ Native</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div style="margin-top:16px;">
+      <h3>Marktanteil DACH (geschätzt nach Nutzerzahl)</h3>
+      <div class="market-bar">
+        <div class="bar-label"><span>Vetera</span><span>~55%</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:55%; background: #1A6B4A;"></div></div>
+      </div>
+      <div class="market-bar">
+        <div class="bar-label"><span>easyVET</span><span>~20%</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:20%; background: #4A90D9;"></div></div>
+      </div>
+      <div class="market-bar">
+        <div class="bar-label"><span>IDEXX Animana</span><span>~12%</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:12%; background: #D9534F;"></div></div>
+      </div>
+      <div class="market-bar">
+        <div class="bar-label"><span>Provet Cloud</span><span>~8%</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:8%; background: #00A88B;"></div></div>
+      </div>
+      <div class="market-bar">
+        <div class="bar-label"><span>Andere / Wagglz</span><span>~5%</span></div>
+        <div class="bar-track"><div class="bar-fill" style="width:5%; background: #2E54CB;"></div></div>
+      </div>
+      <p style="font-size:11px; color:var(--secondary); margin-top:8px;">* Schätzung basierend auf öffentlich verfügbaren Nutzerzahlen</p>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- VETERA DEEP DIVE -->
+  <div class="section">
+    <div class="label">Vetera — Deep Dive</div>
+    <h2>Vetera by Nordhealth</h2>
+    <p class="lead">Gegründet 1989 in Eltville am Rhein. Seit 35+ Jahren der vertrauenswürdigste Name in der deutschen Veterinär-Software. Von Nordhealth für €8,36M übernommen (Juni 2022).</p>
+
+    <div class="card">
+      <h3>Vollständiger Feature-Stack</h3>
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:6px; margin-top:10px;">
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">📅 Terminmanagement</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">👤 Patienten-/Kundenverwaltung</div>
+        <div style="font-size:13px; padding:6px 10px; background:#ECFDF5; border-radius:8px; border:1px solid #A7F3D0; font-weight:600;">⚖️ GOT-Abrechnung + Barsoi-Liste</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">📊 Buchhaltung & Rechnungswesen</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">🔬 Labor-Integration (extern)</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">🖼 Bildarchivierung (PACS/DICOM)</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">📦 Lager & Bestandsmanagement</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">📈 Statistik & Berichte / Controlling</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">📣 Marketing-Tools</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">🎥 Videosprechstunde</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">💬 Echtzeit-Kollaboration & Chat</div>
+        <div style="font-size:13px; padding:6px 10px; background:var(--bg); border-radius:8px; border:1px solid var(--border);">🔗 Alle Schnittstellen kostenlos</div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>Preismodell</h3>
+      <p style="font-size:14px; color:var(--secondary);">
+        Abrechnung <strong>per Arbeitsplatz-Lizenz</strong> (nicht per Modul). <strong>Im Preis inklusive:</strong> lebenslange Hotline · Installation vor Ort · intensive Schulung · alle Schnittstellen (!) · Datenübernahme von anderen Programmen · Formular-Anpassung.<br><br>
+        ⚠️ Genaue Preise nur auf Anfrage — kein öffentliches Pricing. Kein Free Trial.
+      </p>
+    </div>
+
+    <div class="pro-con">
+      <div class="pro-box">
+        <div class="box-title">✅ Stärken Vetera</div>
+        <ul class="item-list">
+          <li>✅ GOT-Abrechnung nativ (Pflicht DE/AT)</li>
+          <li>✅ 35 Jahre Erfahrung & Vertrauen</li>
+          <li>✅ 18.000 Bestandsnutzer = starkes Netzwerk</li>
+          <li>✅ Alle Schnittstellen kostenlos</li>
+          <li>✅ Lebenslanger Support inklusive</li>
+          <li>✅ Installation + Schulung vor Ort</li>
+          <li>✅ Datenmigration von Konkurrenz</li>
+          <li>✅ Veterinäruniversitäten als Referenz</li>
+        </ul>
+      </div>
+      <div class="con-box">
+        <div class="box-title">❌ Schwächen Vetera</div>
+        <ul class="item-list">
+          <li>❌ Keine eigene Cloud (bis VeteraSky)</li>
+          <li>❌ Desktop-first, kein modernes SaaS</li>
+          <li>❌ UX veraltet (VeteraSky als Reaktion)</li>
+          <li>❌ Kein Tierhalter-Portal</li>
+          <li>❌ Installation vor Ort notwendig</li>
+          <li>❌ Intransparentes Pricing</li>
+          <li>❌ Kein Self-Service-Onboarding</li>
+          <li>❌ Kein App-Store (iOS/Android)</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- WAGGLZ OPPORTUNITIES -->
+  <div class="section">
+    <div class="label">Wagglz vs. DACH-Markt</div>
+    <h2>Strategische Chancen für Wagglz</h2>
+
+    <div class="critical">
+      <div class="critical-title">🚨 Pflicht: Vetera-Daten-Import</div>
+      <p style="font-size:13px; color:var(--secondary); line-height:1.6;">Vetera bietet selbst Datenmigration von Konkurrenz-Software an und macht das zum Kaufargument. <strong>Wagglz MUSS einen Vetera-Import anbieten</strong>, sonst ist der Wechsel für 18.000 Bestandsnutzer nicht realistisch. Ohne Migration kein Wachstum im DACH-Markt.</p>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-title">🌐 Cloud-Native als Alleinstellungsmerkmal</div>
+      <div class="opp-body">Vetera (Desktop), easyVET (teils), IDEXX Animana — alle haben ihre Wurzeln in Desktop-Software. <strong>Wagglz ist von Tag 1 cloud-native</strong>: kein Install, kein Server, läuft auf jedem Gerät, überall. Das ist der fundamentale Architektur-Vorteil gegen 35 Jahre alten Bestand.</div>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-title">📱 Tierhalter-Portal — Kein Konkurrent bietet das wirklich</div>
+      <div class="opp-body">Kein DACH-Konkurrent hat ein echtes Tierhalter-Portal als Core-Product. Vetera, easyVET, IDEXX Animana sind alle <strong>reine B2B-Tools</strong>. Wagglz's "Doctolib-Modell" mit eigenem Tierhalter-App ist ein echter Differenzierungsvorteil und öffnet eine zweite Einnahmequelle (B2C2B).</div>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-title">⚖️ GOT-Abrechnung ist Pflicht — kein Differenzierungsmerkmal allein</div>
+      <div class="opp-body">GOT-Abrechnung bietet Vetera schon seit Jahrzehnten. Es ist die <strong>Mindestanforderung für den deutschen Markt</strong>, kein USP. Wagglz muss es zwingend anbieten, aber der Wettbewerbsvorteil liegt in der Kombination mit moderner UX, Cloud-native, und Tierhalter-Portal.</div>
+    </div>
+
+    <div class="opp-card">
+      <div class="opp-title">🎯 Go-To-Market: Neugründungen & modernisierungswillige Praxen</div>
+      <div class="opp-body">Die 18.000 Vetera-Bestandskunden sind kurzfristig schwer zu gewinnen (Lock-in, Datenmigration, Schulung). <strong>Bessere Erstmarktstrategie:</strong> Neugründungen ("greenfield"), junge Tierärzte nach dem Studium, und Praxen die VeteraSky-Enttäuschungen haben. Dann schrittweise Migration der Bestandskunden aufbauen.</div>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- FULL COMPETITIVE MATRIX -->
+  <div class="section">
+    <div class="label">Vollständiger Vergleich</div>
+    <h2>DACH Feature-Matrix: Alle Konkurrenten vs. Wagglz</h2>
+
+    <div class="card" style="padding:0; overflow:hidden;">
+      <table>
+        <thead>
+          <tr>
+            <th>Feature</th>
+            <th>Vetera</th>
+            <th>easyVET</th>
+            <th>IDEXX Animana</th>
+            <th>Provet Cloud</th>
+            <th>Wagglz (Ziel)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>GOT-Abrechnung DE/AT</strong></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td><td><span class="x">❌</span></td><td><span class="c">✅</span></td></tr>
+          <tr><td><strong>Cloud-Native SaaS</strong></td><td><span class="x">❌</span> (VeteraSky bald)</td><td><span class="p">⚡</span></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td></tr>
+          <tr><td><strong>Tierhalter-Portal</strong></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="p">⚡ Eingeschränkt</span></td><td><span class="p">⚡</span></td><td><span class="c">✅ Core</span></td></tr>
+          <tr><td><strong>Online-Buchung durch Tierhalter</strong></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="p">⚡</span></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td></tr>
+          <tr><td><strong>DSGVO / EU-Datenspeicherung</strong></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td><td><span class="p">⚡</span></td><td><span class="c">✅</span></td><td><span class="c">✅ DE</span></td></tr>
+          <tr><td><strong>AI Scribe / KI-Notizen</strong></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="c">✅ (Aug 2025)</span></td><td>Roadmap</td></tr>
+          <tr><td><strong>Datenmigration (Import)</strong></td><td><span class="c">✅ (eigene Funktion)</span></td><td><span class="c">✅</span></td><td><span class="c">✅</span></td><td><span class="p">⚡</span></td><td><span class="x">❌ Pflicht!</span></td></tr>
+          <tr><td><strong>Schnittstellen kostenlos</strong></td><td><span class="c">✅</span></td><td>Unklar</td><td>Unklar</td><td>Viele Add-ons</td><td>TBD</td></tr>
+          <tr><td><strong>Transparentes Pricing</strong></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="c">✅ Ziel</span></td></tr>
+          <tr><td><strong>Self-Service Onboarding</strong></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="c">✅ 6-Schritt-Wizard</span></td></tr>
+          <tr><td><strong>Videosprechstunde</strong></td><td><span class="c">✅</span></td><td>Unklar</td><td>Unklar</td><td><span class="x">❌</span></td><td>Roadmap</td></tr>
+          <tr><td><strong>Modern UX (2024+ Standard)</strong></td><td><span class="x">❌</span></td><td><span class="x">❌</span></td><td><span class="p">⚡</span></td><td><span class="p">⚡</span></td><td><span class="c">✅ Ziel</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="section">
+    <div class="label">Quellen</div>
+    <h2>Recherche-Quellen</h2>
+    <ul style="list-style:none; font-size:13px; color:var(--secondary);">
+      <li style="padding:4px 0;">🏢 <a href="https://nordhealth.com/news/nordhealth-acquires-vetera/" style="color:#004D6E;">Nordhealth — Pressemitteilung Vetera-Akquisition</a></li>
+      <li style="padding:4px 0;">⚖️ <a href="https://www.noerr.com/en/press/noerr-advises-nordhealth-on-the-acquisiton-of-vetera" style="color:#004D6E;">Noerr — Legal Advisor für Akquisition</a></li>
+      <li style="padding:4px 0;">🎨 <a href="https://www.amplifyn.com/work/vetera-practice-management-software-for-veterinary-clinics-ux-design-germany" style="color:#004D6E;">Amplifyn — VeteraSky UX Case Study</a></li>
+      <li style="padding:4px 0;">📰 <a href="https://vet-magazin.de/firmennews-deutschland/software-tieraerzte/vetera.net-gp-software/VETERA.net-Software-Praxisverwaltung-Tieraerzte.html" style="color:#004D6E;">VET-MAGAZIN — Vetera Produktprofil</a></li>
+      <li style="padding:4px 0;">📝 <a href="https://www.rebovet24.de/blog/rebovet/der-dschungel-der-praxissoftware-eine-orientierung" style="color:#004D6E;">rebovet24 — Praxissoftware DACH-Vergleich</a></li>
+      <li style="padding:4px 0;">💹 <a href="https://www.marketscreener.com/quote/stock/NORDHEALTH-123402799/news/Nordhealth-AS-OB-NORDH-agreed-to-acquire-Vetera-Gmbh-from-NGC-Nachfolgekapital-GmbH-for-an-enterpr-39768652/" style="color:#004D6E;">MarketScreener — Nordhealth/Vetera Akquisitionsdetails</a></li>
+    </ul>
+  </div>
+
+</div>
+
+<footer>
+  <p>Vetera + DACH Marktanalyse · Wagglz Platform · 21. Juni 2026</p>
+</footer>
+
+</body>
+</html>
