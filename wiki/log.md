@@ -2,6 +2,44 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-21] query | Vetera + DACH Veterinär-Software-Markt
+
+- Kernfakt: Vetera (1989, Eltville am Rhein) = DACH-Marktführer mit 18.000+ Nutzern
+- Nordhealth kaufte Vetera Juni 2022 für €8,36M → gleicher Eigentümer wie Provet Cloud
+- DACH-Rangfolge: Vetera ~55%, easyVET ~20%, IDEXX Animana ~12%, Provet ~8%
+- Vetera-Stärken: GOT-Abrechnung nativ, alle Schnittstellen kostenlos, lebenslanger Support, Schulung vor Ort
+- Vetera-Schwächen: kein Cloud-native (VeteraSky in Entwicklung), veraltete UX, kein Tierhalter-Portal
+- Wagglz kritische Pflicht erkannt: Vetera-Datenmigration/-Import muss angeboten werden
+- Go-To-Market-Empfehlung: Neugründungen + junge Tierärzte, dann Bestandsmigration
+- Entität erstellt: [[Vetera]]
+- Output: `outputs/notes/2026-06-21-vetera-dach-analysis.html`
+- IMGs 3342-3344 = LinkedIn-Screenshots (nicht Provet-UI): #3342 = VetSoftwareHub Top-10 (Provet #1), #3343+3344 = Longevity-Peptide-Post
+
+## [2026-06-21] query | Provet Cloud Deep Research
+
+- Quellen: 5 Web-Suchen, provet.com (geblockt), Review-Aggregatoren, LinkedIn-Screenshot IMG_3342.PNG
+- Kernfakten: #1 VetSoftwareHub, 3.000+ Kliniken, 45+ Länder, 55.000+ Vets, ~$60M Umsatz (Nordhealth)
+- Gegründet: 2001 Nordhealth Helsinki; Provet erworben ~2005; 90% FI-Marktanteil 2014
+- Preise: ab €25/User/Monat (Optimise/Elevate/Enterprise)
+- AI Suite lanciert Aug 2025: AI Scribe + Patient History Summary + AI Discharge Instructions
+- Stärken: GDPR-EU, Open REST API, 150+ Integrationen, Multi-Site
+- Schwächen: UX (viele Klicks), Support-Backline, Datenmigration, kein GOT
+- Wagglz-Chancen: GOT-Pflicht DE/AT (kein Konkurrent hat das), UX-Vorteil, Tierhalter-Portal, transparentes Pricing
+- Entität erstellt: [[Provet-Cloud]]
+- Output: `outputs/notes/2026-06-21-provet-cloud-analysis.html`
+
+## [2026-06-21] query | Wagglz Asset- & Wettbewerbs-Analyse
+
+- Analysiert: 19 Screenshots aus `raw/assets/wagglz-tier/7RI3XqEc3RR6znirkakZcm/`, 6 WhatsApp App-Fotos (ZIP), SVG-Logomark
+- Brand-Erkenntnisse: Farben #2E54CB (Blue), #CCFFB0 (Lime), #A6A6FF (Lavender); Font Poppins; alter Produktname war "Wufflz"
+- Onboarding-Wireframes: 6-Schritt-Wizard vollständig analysiert (Business Info → Kontakt → Veterinär → Betrieb → Technik → Mitarbeiter)
+- 14 Fachbereiche für Department-Multiselect extrahiert (a4-1.png)
+- Wettbewerber identifiziert: Rex (Direktkonkurrenz), Doctolib (Referenz), Rover, PetLEO, Hundeo, Dogorama, Tractive GPS, PetBacker, Dog Walk, Walkies, Dog Assistant
+- Design-Inspiration: Fantastical-App (Kalender), Defcon Systems (Wochenraster)
+- ZIP-Inhalt: vollständiges Brand-Kit + Pitch Deck + Investoren-Präsentation + Design Concept PDF (6.3 MB, noch nicht gelesen)
+- Output: `outputs/notes/2026-06-21-wagglz-competitive-analysis.html`
+- TODO: Design_Concept.pdf analysieren · Investoren-Präsentation lesen · Poppins + Brand-Farben in App einbinden
+
 ## [2026-06-13] setup | LLM Wiki initialized
 
 - Created Karpathy-style schema (CLAUDE.md), tools, and directory structure.
@@ -493,3 +531,5 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 - Output: outputs/notes/2026-06-20-claude-code-32-tricks-audit.html (Apple-Stil)
 - Befund: 21 umgesetzt/verfügbar, 3 echte Lücken (Custom Skills, CLAUDE.md schlanker+routen, Permissions Allow/Deny), 5 optional (Coding), 3 nicht relevant
 - Supplement Stack: deutsche Übersetzung mit 2026-06-20-Update + Scientific-References-Tabelle (Galpin/Starrett/Sims/Garner/McDaniel) re-integriert nach Rebase-Verlust
+## [2026-06-21] todo | Wagglz Setup
+- TODO: Supabase Projekt in Frankfurt (eu-west-1) erstellen + .env.local befüllen → App lokal testen

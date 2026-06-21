@@ -1,0 +1,1251 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wagglz &amp; Clippings Analyse — Erkenntnisse &amp; nächste Schritte</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #F5F5F7;
+      --surface: #FFFFFF;
+      --surface-2: #F0F0F2;
+      --accent: #0071E3;
+      --accent-dark: #0058B0;
+      --accent-light: #E8F1FC;
+      --text-primary: #1D1D1F;
+      --text-secondary: #6E6E73;
+      --text-tertiary: #A1A1A6;
+      --green: #34C759;
+      --green-bg: #F0FBF3;
+      --orange: #FF9500;
+      --orange-bg: #FFF8EC;
+      --red: #FF3B30;
+      --red-bg: #FFF1F0;
+      --border: rgba(0,0,0,0.08);
+      --shadow-sm: 0 1px 3px rgba(0,0,0,0.07), 0 1px 2px rgba(0,0,0,0.05);
+      --shadow-md: 0 4px 16px rgba(0,0,0,0.08), 0 1px 4px rgba(0,0,0,0.04);
+      --shadow-lg: 0 12px 40px rgba(0,0,0,0.10), 0 2px 8px rgba(0,0,0,0.05);
+      --radius: 16px;
+      --radius-sm: 10px;
+      --radius-xs: 6px;
+    }
+
+    body {
+      font-family: -apple-system, "SF Pro Display", "SF Pro Text", BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    /* ── Layout ── */
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      background: linear-gradient(145deg, #0071E3 0%, #004DB8 60%, #003080 100%);
+      color: white;
+      padding: 72px 24px 64px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 70% 30%, rgba(255,255,255,0.08) 0%, transparent 60%);
+    }
+    .hero-eyebrow {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      opacity: 0.75;
+      margin-bottom: 16px;
+    }
+    .hero h1 {
+      font-size: clamp(28px, 5vw, 46px);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+      margin-bottom: 20px;
+      position: relative;
+    }
+    .hero-date {
+      font-size: 15px;
+      opacity: 0.7;
+      font-weight: 400;
+      position: relative;
+    }
+    .hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      margin-top: 44px;
+      flex-wrap: wrap;
+      position: relative;
+    }
+    .hero-stat {
+      text-align: center;
+    }
+    .hero-stat-num {
+      font-size: 42px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1;
+    }
+    .hero-stat-label {
+      font-size: 12px;
+      opacity: 0.65;
+      font-weight: 500;
+      margin-top: 6px;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+    .hero-divider {
+      width: 1px;
+      height: 48px;
+      background: rgba(255,255,255,0.2);
+      align-self: center;
+    }
+
+    /* ── Section navigation pills ── */
+    .section-nav {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding: 24px 0 0;
+      justify-content: center;
+    }
+    .nav-pill {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 6px 16px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      text-decoration: none;
+      transition: all 0.15s ease;
+      box-shadow: var(--shadow-sm);
+    }
+    .nav-pill:hover {
+      background: var(--accent-light);
+      color: var(--accent);
+      border-color: rgba(0,113,227,0.2);
+    }
+
+    /* ── Section header ── */
+    .section {
+      margin-top: 56px;
+    }
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .section-num {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: white;
+      font-size: 15px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .section-title {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.015em;
+      color: var(--text-primary);
+    }
+    .section-subtitle {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    /* ── Cards ── */
+    .card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-md);
+      padding: 28px 32px;
+      margin-bottom: 16px;
+    }
+    .card-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .card-title .icon {
+      font-size: 18px;
+    }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .card-sm {
+      background: var(--surface);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-sm);
+      padding: 20px 24px;
+    }
+
+    /* ── Wireframe screenshots row ── */
+    .wireframe-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .wireframe-card {
+      background: var(--surface);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-sm);
+      overflow: hidden;
+    }
+    .wireframe-thumb {
+      background: linear-gradient(135deg, #E8F1FC 0%, #D1E4FA 100%);
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+    }
+    .wireframe-body {
+      padding: 16px 18px;
+    }
+    .wireframe-label {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 4px;
+    }
+    .wireframe-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+    }
+    .wireframe-desc {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    /* ── Schema gaps table ── */
+    .schema-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+    }
+    .schema-table th {
+      background: var(--bg);
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text-tertiary);
+      border-bottom: 1px solid var(--border);
+    }
+    .schema-table td {
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    .schema-table tr:last-child td {
+      border-bottom: none;
+    }
+    .schema-table tr:hover td {
+      background: var(--bg);
+    }
+    code {
+      font-family: "SF Mono", "JetBrains Mono", "Fira Code", Consolas, monospace;
+      font-size: 12px;
+      background: var(--surface-2);
+      padding: 2px 7px;
+      border-radius: 4px;
+      color: var(--accent-dark);
+      border: 1px solid rgba(0,0,0,0.06);
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .badge-red { background: var(--red-bg); color: var(--red); }
+    .badge-orange { background: var(--orange-bg); color: var(--orange); }
+    .badge-green { background: var(--green-bg); color: var(--green); }
+    .badge-blue { background: var(--accent-light); color: var(--accent); }
+
+    /* ── Onboarding stepper ── */
+    .stepper {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      flex-wrap: wrap;
+      margin: 16px 0;
+    }
+    .step-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text-secondary);
+    }
+    .step-dot {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--accent-light);
+      color: var(--accent);
+      font-size: 11px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .step-arrow {
+      color: var(--text-tertiary);
+      font-size: 12px;
+      margin: 0 6px;
+    }
+
+    /* ── Skills cards ── */
+    .skill-card {
+      background: var(--surface);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-sm);
+      padding: 20px 24px;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+    .skill-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      background: var(--accent-light);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      flex-shrink: 0;
+    }
+    .skill-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-primary);
+      font-family: "SF Mono", monospace;
+      color: var(--accent);
+      margin-bottom: 4px;
+    }
+    .skill-desc {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    /* ── Health protocol cards ── */
+    .protocol-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 12px;
+      margin-top: 12px;
+    }
+    .protocol-item {
+      background: var(--bg);
+      border-radius: var(--radius-xs);
+      padding: 14px 16px;
+      border: 1px solid var(--border);
+    }
+    .protocol-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--text-tertiary);
+      margin-bottom: 4px;
+    }
+    .protocol-value {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+    .protocol-note {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    /* ── Priority checklist ── */
+    .checklist {
+      list-style: none;
+    }
+    .checklist li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+      font-size: 14px;
+    }
+    .checklist li:last-child { border-bottom: none; }
+    .check-icon {
+      flex-shrink: 0;
+      font-size: 16px;
+      margin-top: 1px;
+    }
+    .check-pri {
+      flex-shrink: 0;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 10px;
+      margin-top: 2px;
+    }
+    .pri-p0 { background: #FFF1F0; color: var(--red); }
+    .pri-p1 { background: var(--orange-bg); color: var(--orange); }
+    .pri-p2 { background: var(--accent-light); color: var(--accent); }
+    .check-text { flex: 1; }
+    .check-text strong { font-weight: 600; }
+    .check-text .sub {
+      display: block;
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    /* ── Impact numbers row ── */
+    .impact-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+    .impact-card {
+      background: var(--surface);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-sm);
+      padding: 20px 16px;
+      text-align: center;
+    }
+    .impact-num {
+      font-size: 38px;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1;
+    }
+    .impact-num.red { color: var(--red); }
+    .impact-num.orange { color: var(--orange); }
+    .impact-num.green { color: var(--green); }
+    .impact-num.blue { color: var(--accent); }
+    .impact-label {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-top: 6px;
+      font-weight: 500;
+    }
+
+    /* ── Tag pills ── */
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .tag {
+      background: var(--accent-light);
+      color: var(--accent);
+      border-radius: 8px;
+      padding: 4px 12px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* ── Info rows ── */
+    .info-row {
+      display: flex;
+      gap: 8px;
+      align-items: baseline;
+      font-size: 14px;
+      padding: 8px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .info-row:last-child { border-bottom: none; }
+    .info-key {
+      font-weight: 600;
+      color: var(--text-primary);
+      min-width: 180px;
+      flex-shrink: 0;
+      font-size: 13px;
+    }
+    .info-val {
+      color: var(--text-secondary);
+      font-size: 13px;
+    }
+
+    /* ── Divider ── */
+    .divider {
+      height: 1px;
+      background: var(--border);
+      margin: 32px 0;
+    }
+
+    /* ── Two-col ── */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    @media (max-width: 640px) {
+      .two-col { grid-template-columns: 1fr; }
+      .card { padding: 20px; }
+    }
+
+    /* ── Alert banners ── */
+    .alert {
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+      padding: 16px 20px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 16px;
+      border: 1px solid;
+      font-size: 14px;
+    }
+    .alert-icon { font-size: 18px; flex-shrink: 0; }
+    .alert-orange { background: var(--orange-bg); border-color: rgba(255,149,0,0.2); color: #7A4700; }
+    .alert-red { background: var(--red-bg); border-color: rgba(255,59,48,0.2); color: #7A0000; }
+    .alert-green { background: var(--green-bg); border-color: rgba(52,199,89,0.2); color: #0A5C1F; }
+    .alert-blue { background: var(--accent-light); border-color: rgba(0,113,227,0.2); color: #003A80; }
+
+    /* ── Footer ── */
+    footer {
+      margin-top: 72px;
+      padding: 32px 0 24px;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      color: var(--text-tertiary);
+      font-size: 13px;
+    }
+    footer strong { color: var(--text-secondary); }
+
+    /* ── Utilities ── */
+    .mt-4 { margin-top: 4px; }
+    .mt-8 { margin-top: 8px; }
+    .mt-12 { margin-top: 12px; }
+    .mt-16 { margin-top: 16px; }
+    .mt-24 { margin-top: 24px; }
+    .mb-8 { margin-bottom: 8px; }
+    .mb-16 { margin-bottom: 16px; }
+    .text-sm { font-size: 13px; }
+    .text-secondary { color: var(--text-secondary); }
+    .font-mono { font-family: "SF Mono", monospace; font-size: 12px; }
+  </style>
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════ HERO -->
+<div class="hero">
+  <div class="hero-eyebrow">Intelligence Hub · Synthesis Report</div>
+  <h1>Wagglz &amp; Clippings Analyse<br>Erkenntnisse &amp; nächste Schritte</h1>
+  <div class="hero-date">20. Juni 2026 &nbsp;·&nbsp; 5 Sektionen &nbsp;·&nbsp; Vollständige Tagesübersicht</div>
+
+  <div class="hero-stats">
+    <div class="hero-stat">
+      <div class="hero-stat-num">6</div>
+      <div class="hero-stat-label">Schema-Gaps</div>
+    </div>
+    <div class="hero-divider"></div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">3</div>
+      <div class="hero-stat-label">Wiki Ingestions</div>
+    </div>
+    <div class="hero-divider"></div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">5</div>
+      <div class="hero-stat-label">DSGVO Blocker</div>
+    </div>
+    <div class="hero-divider"></div>
+    <div class="hero-stat">
+      <div class="hero-stat-num">21</div>
+      <div class="hero-stat-label">/ 32 Tricks aktiv</div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- Section nav -->
+  <nav class="section-nav">
+    <a class="nav-pill" href="#s1">1 · Wireframes</a>
+    <a class="nav-pill" href="#s2">2 · Claude Code Workflow</a>
+    <a class="nav-pill" href="#s3">3 · Health &amp; Performance</a>
+    <a class="nav-pill" href="#s4">4 · Finanzen</a>
+    <a class="nav-pill" href="#s5">5 · Next Steps</a>
+  </nav>
+
+  <!-- ══════════════════════════ SECTION 1 -->
+  <section class="section" id="s1">
+    <div class="section-header">
+      <div class="section-num">1</div>
+      <div>
+        <div class="section-title">Wagglz Wireframes — Was die eigenen Designs verraten</div>
+        <div class="section-subtitle">Analyse der Screenshots in raw/assets/wagglz-tier/7RI3XqEc3RR6znirkakZcm/</div>
+      </div>
+    </div>
+
+    <div class="alert alert-blue">
+      <span class="alert-icon">🔍</span>
+      <div>Die Screenshots sind <strong>Wagglz' eigene Design-Wireframes</strong> (W-Logo sichtbar) — keine Wettbewerber-Screens. Dies ist das echte, geplante UX der App.</div>
+    </div>
+
+    <!-- Wireframe cards -->
+    <div class="wireframe-grid">
+      <div class="wireframe-card">
+        <div class="wireframe-thumb">📅</div>
+        <div class="wireframe-body">
+          <div class="wireframe-label">wireframe-1</div>
+          <div class="wireframe-name">Kalenderansicht (Core)</div>
+          <div class="wireframe-desc">Fantastical-inspired Wochenansicht (22–27 Feb 2025). Patient "Martin Musterman" · 8:00 / 8:30 Uhr. Day/Week/Month-Toggle. Sidebar: My Calendar + My Task.</div>
+        </div>
+      </div>
+      <div class="wireframe-card">
+        <div class="wireframe-thumb">🏥</div>
+        <div class="wireframe-body">
+          <div class="wireframe-label">01-1 · Step 1</div>
+          <div class="wireframe-name">Onboarding: Praxis vs. Klinik</div>
+          <div class="wireframe-desc">Zwei-Optionen-Auswahl. 6-Step-Stepper sichtbar. DE/EN Sprachumschalter vorhanden.</div>
+        </div>
+      </div>
+      <div class="wireframe-card">
+        <div class="wireframe-thumb">🩺</div>
+        <div class="wireframe-body">
+          <div class="wireframe-label">01-5 · Step 3</div>
+          <div class="wireframe-name">Tierarzt-Informationen</div>
+          <div class="wireframe-desc">Approbationsnummer, Zulassungsbehörde, Tierärztekammer, Berufshaftpflicht, Abschluss, Fachgebiete, Ausweis-Upload. Multi-Vet-Add möglich.</div>
+        </div>
+      </div>
+      <div class="wireframe-card">
+        <div class="wireframe-thumb">⚙️</div>
+        <div class="wireframe-body">
+          <div class="wireframe-label">01-6 · Step 4</div>
+          <div class="wireframe-name">Betriebsinformationen</div>
+          <div class="wireframe-desc">Öffnungszeiten, Notdienstzeiten, Zahlungsmethoden, Services als Pill-Tags (Impfung, Fäden ziehen, Blutuntersuchung, Altersvorsorge).</div>
+        </div>
+      </div>
+      <div class="wireframe-card">
+        <div class="wireframe-thumb">🔧</div>
+        <div class="wireframe-body">
+          <div class="wireframe-label">01-7 · Step 5</div>
+          <div class="wireframe-name">Technische Anforderungen</div>
+          <div class="wireframe-desc">Slot-Dauer-Präferenz, System-Zugänge, Migration von bestehender Praxissoftware, Benachrichtigungs-Methoden, Feature-Toggles.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Onboarding stepper visualization -->
+    <div class="card mt-8">
+      <div class="card-title"><span class="icon">📋</span> 6-Step Onboarding Wizard</div>
+      <div class="stepper">
+        <div class="step-item"><div class="step-dot">1</div> Business Info</div>
+        <span class="step-arrow">›</span>
+        <div class="step-item"><div class="step-dot">2</div> Contact Details</div>
+        <span class="step-arrow">›</span>
+        <div class="step-item"><div class="step-dot">3</div> Vet Info</div>
+        <span class="step-arrow">›</span>
+        <div class="step-item"><div class="step-dot">4</div> Operating Info</div>
+        <span class="step-arrow">›</span>
+        <div class="step-item"><div class="step-dot">5</div> Tech Requirements</div>
+        <span class="step-arrow">›</span>
+        <div class="step-item"><div class="step-dot">6</div> Add Employees</div>
+      </div>
+      <div class="mt-12 text-sm text-secondary">
+        Services als Pill-Tags:
+        <div class="tag-row mt-4">
+          <span class="tag">Impfung</span>
+          <span class="tag">Fäden ziehen</span>
+          <span class="tag">Blutuntersuchung</span>
+          <span class="tag">Altersvorsorge</span>
+          <span class="tag">+ weitere</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Schema gaps -->
+    <div class="card">
+      <div class="card-title"><span class="icon">⚠️</span> Schema-Gaps — 6 identifizierte Fehlstellen</div>
+
+      <div class="impact-row mt-8 mb-16">
+        <div class="impact-card">
+          <div class="impact-num red">2</div>
+          <div class="impact-label">Fehlende Tabellen-Felder<br>(praxen)</div>
+        </div>
+        <div class="impact-card">
+          <div class="impact-num red">9</div>
+          <div class="impact-label">Fehlende Vet-Felder<br>(mitarbeiter)</div>
+        </div>
+        <div class="impact-card">
+          <div class="impact-num orange">1</div>
+          <div class="impact-label">Fehlende Tabelle<br>(payment_methods)</div>
+        </div>
+        <div class="impact-card">
+          <div class="impact-num orange">1</div>
+          <div class="impact-label">Migration-Capture<br>Feld fehlt</div>
+        </div>
+        <div class="impact-card">
+          <div class="impact-num orange">1</div>
+          <div class="impact-label">Sprachpräferenz<br>fehlt</div>
+        </div>
+      </div>
+
+      <table class="schema-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Tabelle</th>
+            <th>Fehlende Felder</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="color:var(--text-tertiary);font-weight:700;">1</td>
+            <td><code>praxen</code></td>
+            <td>
+              <code>praxis_typ</code> (praxis|klinik)<br>
+              <code>services_offered text[]</code><br>
+              <code>appointment_duration_minutes integer</code><br>
+              <code>notdienst_stunden</code>
+            </td>
+            <td><span class="badge badge-red">✗ Fehlt</span></td>
+          </tr>
+          <tr>
+            <td style="color:var(--text-tertiary);font-weight:700;">2</td>
+            <td><code>praxis_mitarbeiter</code></td>
+            <td>
+              <code>approbations_nummer</code> · <code>zulassungsbehoerde</code><br>
+              <code>tieraerztekammer_nummer</code> · <code>berufshaftpflicht_details jsonb</code><br>
+              <code>abschluss_name</code> · <code>abschluss_institution</code><br>
+              <code>abschluss_jahr integer</code> · <code>fachgebiete text[]</code><br>
+              <code>ausweis_dokument_path text</code>
+            </td>
+            <td><span class="badge badge-red">✗ Fehlt</span></td>
+          </tr>
+          <tr>
+            <td style="color:var(--text-tertiary);font-weight:700;">3</td>
+            <td>—</td>
+            <td>Tabelle <code>payment_methods</code> pro Praxis — keine Tabelle vorhanden</td>
+            <td><span class="badge badge-red">✗ Fehlt</span></td>
+          </tr>
+          <tr>
+            <td style="color:var(--text-tertiary);font-weight:700;">4</td>
+            <td>Onboarding</td>
+            <td>Migration-from-software Feld für Daten-Import-Capture</td>
+            <td><span class="badge badge-orange">⚠ Gap</span></td>
+          </tr>
+          <tr>
+            <td style="color:var(--text-tertiary);font-weight:700;">5</td>
+            <td>User / Praxis</td>
+            <td>Sprachpräferenz (<code>language_preference</code>) pro User/Praxis</td>
+            <td><span class="badge badge-orange">⚠ Gap</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <div class="card-title"><span class="icon">🎯</span> Implementierungsprioritäten aus Wireframes</div>
+      <div class="info-row">
+        <div class="info-key">Core Feature</div>
+        <div class="info-val">Der <strong>Kalender ist das Herzstück</strong> — Appointment-Booking zuerst bauen</div>
+      </div>
+      <div class="info-row">
+        <div class="info-key">Onboarding-Komplexität</div>
+        <div class="info-val">6-Step-Wizard mit Validierung + Multi-Vet-Add → dedizierte Component-Architektur nötig</div>
+      </div>
+      <div class="info-row">
+        <div class="info-key">Services-Schema</div>
+        <div class="info-val">Tags = <code>praxen.services_offered text[]</code> — simples Array, kein JOIN nötig</div>
+      </div>
+      <div class="info-row">
+        <div class="info-key">Slot-Dauer</div>
+        <div class="info-val">Konfiguration pro Praxis, <em>nicht</em> pro Termin — in <code>praxen</code>-Tabelle</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════ SECTION 2 -->
+  <section class="section" id="s2">
+    <div class="section-header">
+      <div class="section-num">2</div>
+      <div>
+        <div class="section-title">Claude Code Workflow — Was wir für die App-Entwicklung nutzen können</div>
+        <div class="section-subtitle">Aus raw/Clippings/32 Tricks to get more from Claude Code.md — 21/32 implementiert</div>
+      </div>
+    </div>
+
+    <div class="alert alert-green">
+      <span class="alert-icon">✓</span>
+      <div><strong>21 von 32 Tricks</strong> bereits implementiert. 11 ausstehend — 3 davon direkt für Wagglz relevant.</div>
+    </div>
+
+    <div class="two-col">
+      <div class="card">
+        <div class="card-title"><span class="icon">⚡</span> Sofort umsetzbar für Wagglz</div>
+        <ul class="checklist">
+          <li>
+            <span class="check-icon">🤖</span>
+            <div class="check-text">
+              <strong>Subagents für parallele DB-Migrationen</strong>
+              <span class="sub">Agents pro Tabellen-Gruppe spawnen — schema / api / ui parallel</span>
+            </div>
+          </li>
+          <li>
+            <span class="check-icon">🌿</span>
+            <div class="check-text">
+              <strong>Worktrees für Feature-Branches</strong>
+              <span class="sub"><code>git worktree add</code> per Feature: schema, api, ui</span>
+            </div>
+          </li>
+          <li>
+            <span class="check-icon">📸</span>
+            <div class="check-text">
+              <strong>Screenshot Self-Check Loop</strong>
+              <span class="sub">Nach UI-Änderungen Screenshot nehmen → zurück zu Claude zur visuellen Verifikation</span>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <div class="card-title"><span class="icon">⏳</span> Pending — noch nicht umgesetzt</div>
+        <ul class="checklist">
+          <li>
+            <span class="check-icon" style="color:var(--orange)">⚠</span>
+            <div class="check-text">
+              <strong>Wagglz-App/CLAUDE.md erstellen</strong>
+              <span class="sub">Architektur, Stack, Naming Conventions dokumentieren</span>
+            </div>
+          </li>
+          <li>
+            <span class="check-icon" style="color:var(--orange)">⚠</span>
+            <div class="check-text">
+              <strong>Wagglz-App/.claude/skills/ Verzeichnis</strong>
+              <span class="sub">3 Skills erstellen (siehe unten)</span>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card mt-16">
+      <div class="card-title"><span class="icon">🛠</span> Custom Skills für Wagglz-App</div>
+      <div style="display:flex;flex-direction:column;gap:12px;margin-top:12px;">
+        <div class="skill-card">
+          <div class="skill-icon">🚀</div>
+          <div>
+            <div class="skill-name">/feature-build</div>
+            <div class="skill-desc">Standard-Flow für jedes Feature: <strong>schema → RLS → types → API → UI → test</strong>. Sorgt für konsistente Architektur-Entscheidungen über alle Features hinweg.</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <div class="skill-icon">🗄️</div>
+          <div>
+            <div class="skill-name">/db-migration</div>
+            <div class="skill-desc">Migration anwenden, TypeScript-Types generieren, Wiki-Seite updaten. Alles in einem Befehl.</div>
+          </div>
+        </div>
+        <div class="skill-card">
+          <div class="skill-icon">🔐</div>
+          <div>
+            <div class="skill-name">/api-test</div>
+            <div class="skill-desc">Supabase RLS-Policies mit verschiedenen User-Rollen testen (Admin, Tierarzt, Rezeption, nicht-authentifiziert).</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════ SECTION 3 -->
+  <section class="section" id="s3">
+    <div class="section-header">
+      <div class="section-num">3</div>
+      <div>
+        <div class="section-title">Health &amp; Performance — Wiki-Ingestions ausstehend</div>
+        <div class="section-subtitle">2 Quellen bereit für Ingest, 1 Update benötigt</div>
+      </div>
+    </div>
+
+    <div class="alert alert-orange">
+      <span class="alert-icon">⚠️</span>
+      <div><strong>3 Wiki-Seiten ausstehend.</strong> Jeff Cavaliere (neu), Rhonda Patrick (Update), Finance Monthly 2026-06 (neu).</div>
+    </div>
+
+    <!-- Jeff Cavaliere -->
+    <div class="card">
+      <div class="card-title"><span class="icon">💪</span> Jeff Cavaliere (Athlean-X) — Huberman Lab Podcast</div>
+      <div class="two-col" style="gap:12px;margin-top:8px;">
+        <div>
+          <div class="info-row">
+            <div class="info-key">Tendon Health</div>
+            <div class="info-val">Weighted Stretching — nicht nur passiv dehnen</div>
+          </div>
+          <div class="info-row">
+            <div class="info-key">Hypertrophie</div>
+            <div class="info-val">Schlaf + Protein-Timing kritisch für Muskelaufbau</div>
+          </div>
+          <div class="info-row">
+            <div class="info-key">Recovery</div>
+            <div class="info-val">Kältebad-Timing beachten: nicht direkt nach Krafttraining</div>
+          </div>
+          <div class="info-row">
+            <div class="info-key">Progression</div>
+            <div class="info-val">Progressive Overload = primärer Hypertrophie-Treiber</div>
+          </div>
+        </div>
+        <div>
+          <div style="background:var(--bg);border-radius:10px;padding:16px;height:100%;">
+            <div style="font-size:11px;font-weight:700;letter-spacing:0.04em;text-transform:uppercase;color:var(--text-tertiary);margin-bottom:8px;">Relevanz</div>
+            <div class="tag-row">
+              <span class="tag">Hyrox Prep</span>
+              <span class="tag">Body Composition</span>
+              <span class="tag">Verletzungsprävention</span>
+            </div>
+            <div style="margin-top:16px;font-size:12px;font-weight:600;color:var(--orange);">⚠ Zu erstellen</div>
+            <div style="font-size:12px;color:var(--text-secondary);margin-top:4px;font-family:monospace;">wiki/entities/Jeff-Cavaliere.md<br>wiki/sources/Huberman-Cavaliere.md</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Rhonda Patrick -->
+    <div class="card">
+      <div class="card-title"><span class="icon">🔬</span> Rhonda Patrick — Full Protocol (1936-Zeilen Transcript)</div>
+      <div class="protocol-row mt-8">
+        <div class="protocol-item">
+          <div class="protocol-label">Sauna</div>
+          <div class="protocol-value">4× / Woche</div>
+          <div class="protocol-note">20 min · 80°C+<br>Kardiovaskular + Longevity</div>
+        </div>
+        <div class="protocol-item">
+          <div class="protocol-label">Kältebad</div>
+          <div class="protocol-value">11 min / Woche</div>
+          <div class="protocol-note">57°F (14°C) Wasser<br>Nicht nach Krafttraining!</div>
+        </div>
+        <div class="protocol-item">
+          <div class="protocol-label">Omega-3</div>
+          <div class="protocol-value">2g EPA+DHA</div>
+          <div class="protocol-note">Täglich · Minimum</div>
+        </div>
+        <div class="protocol-item">
+          <div class="protocol-label">Sulforaphane</div>
+          <div class="protocol-value">Täglich</div>
+          <div class="protocol-note">Brokkolisprossen oder<br>Supplement</div>
+        </div>
+        <div class="protocol-item">
+          <div class="protocol-label">Vitamin D</div>
+          <div class="protocol-value">5.000 IU</div>
+          <div class="protocol-note">+ K2 kombination</div>
+        </div>
+        <div class="protocol-item">
+          <div class="protocol-label">Zone 2 Cardio</div>
+          <div class="protocol-value">45 min · 4×/W</div>
+          <div class="protocol-note">VO2 max = #1<br>Longevity-Biomarker</div>
+        </div>
+      </div>
+      <div style="margin-top:16px;font-size:12px;font-weight:600;color:var(--orange);">⚠ Update benötigt</div>
+      <div style="font-size:12px;color:var(--text-secondary);margin-top:4px;font-family:monospace;">wiki/entities/Rhonda-Patrick.md → Full Protocol Details ergänzen</div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════ SECTION 4 -->
+  <section class="section" id="s4">
+    <div class="section-header">
+      <div class="section-num">4</div>
+      <div>
+        <div class="section-title">Finanzen — Inbox-Dokumente</div>
+        <div class="section-subtitle">Aktuelle Situation + offene Posten aus dem Master-Context</div>
+      </div>
+    </div>
+
+    <div class="two-col">
+      <div class="card">
+        <div class="card-title"><span class="icon">📊</span> Finance Monthly 2026-06</div>
+        <ul class="checklist">
+          <li>
+            <span class="check-icon" style="color:var(--orange)">⚠</span>
+            <div class="check-text">
+              <strong>Wiki-Ingest ausstehend</strong>
+              <span class="sub">wiki/sources/Finance-Monthly-2026-06.md erstellen</span>
+            </div>
+          </li>
+          <li>
+            <span class="check-icon" style="color:var(--orange)">⚠</span>
+            <div class="check-text">
+              <strong>Finanzübersicht updaten</strong>
+              <span class="sub">wiki/syntheses/Finanzübersicht.md mit aktuellen Daten</span>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <div class="card-title"><span class="icon">📍</span> Aktueller Status (00-Master-Context)</div>
+        <div class="info-row">
+          <div class="info-key">Standort</div>
+          <div class="info-val">Oleg · Berlin · aktiv</div>
+        </div>
+        <div class="info-row">
+          <div class="info-key">Wagglz GmbH</div>
+          <div class="info-val">Aktiv — noch kein Revenue</div>
+        </div>
+        <div class="info-row">
+          <div class="info-key">Doctolib</div>
+          <div class="info-val">Day Job · läuft</div>
+        </div>
+        <div class="info-row">
+          <div class="info-key">Strukturelles Defizit</div>
+          <div class="info-val" style="color:var(--orange);">⚠ Wagglz nicht revenue-generierend</div>
+        </div>
+        <div class="info-row">
+          <div class="info-key">Cyprus Relocation</div>
+          <div class="info-val" style="color:var(--text-tertiary);">⏸ Pausiert / Someday</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title"><span class="icon">📌</span> Offene Aktionen aus Inbox</div>
+      <ul class="checklist">
+        <li>
+          <span class="check-icon" style="color:var(--red)">✗</span>
+          <span class="check-pri pri-p0">P0</span>
+          <div class="check-text">
+            <strong>Café Berlin</strong>
+            <span class="sub">Dringend — Spezifik noch zu klären</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Hyrox Race Prep</strong>
+            <span class="sub">Rennen-Vorbereitung</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Health Protocol Review</strong>
+            <span class="sub">Rhonda Patrick + Cavaliere Protokoll integrieren</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--accent)">○</span>
+          <span class="check-pri pri-p2">P2</span>
+          <div class="check-text">
+            <strong>Password Manager Migration</strong>
+            <span class="sub">Wechsel notwendig</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--accent)">○</span>
+          <span class="check-pri pri-p2">P2</span>
+          <div class="check-text">
+            <strong>Allianz Versicherung Review</strong>
+            <span class="sub">Überprüfung / ggf. Anpassung</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════ SECTION 5 -->
+  <section class="section" id="s5">
+    <div class="section-header">
+      <div class="section-num">5</div>
+      <div>
+        <div class="section-title">Prioritized Next Steps</div>
+        <div class="section-subtitle">Diese Woche · Geordnet nach Priorität und Kontext</div>
+      </div>
+    </div>
+
+    <!-- Big impact numbers -->
+    <div class="impact-row">
+      <div class="impact-card">
+        <div class="impact-num red">6</div>
+        <div class="impact-label">Schema-Gaps zu migrieren</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-num orange">3</div>
+        <div class="impact-label">Skills zu erstellen</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-num orange">5</div>
+        <div class="impact-label">DSGVO Phase 1 Blocker</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-num blue">3</div>
+        <div class="impact-label">Wiki-Ingestions</div>
+      </div>
+      <div class="impact-card">
+        <div class="impact-num green">231</div>
+        <div class="impact-label">Wiki-Seiten re-indexieren</div>
+      </div>
+    </div>
+
+    <!-- Wagglz checklist -->
+    <div class="card">
+      <div class="card-title"><span class="icon">🐾</span> Wagglz App — Diese Woche</div>
+      <ul class="checklist">
+        <li>
+          <span class="check-icon" style="color:var(--red)">✗</span>
+          <span class="check-pri pri-p0">P0</span>
+          <div class="check-text">
+            <strong>Schema-Gap-Migration anwenden</strong>
+            <span class="sub">praxis_typ, services_offered, Vet-Credentials, payment_methods Tabelle</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--red)">✗</span>
+          <span class="check-pri pri-p0">P0</span>
+          <div class="check-text">
+            <strong>Wagglz-App/CLAUDE.md erstellen</strong>
+            <span class="sub">Architekturübersicht, Tech Stack, Naming Conventions</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Wagglz-App/.claude/skills/ erstellen</strong>
+            <span class="sub">feature-build · db-migration · api-test</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>DSGVO Phase 1 Blocker implementieren</strong>
+            <span class="sub">Security Headers · Zod · E-Mail Bestätigung · weitere</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Onboarding-Wizard Component starten</strong>
+            <span class="sub">6-Step-Flow · Dedizierte Component-Architektur</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--accent)">○</span>
+          <span class="check-pri pri-p2">P2</span>
+          <div class="check-text">
+            <strong>Kalender-Wochenansicht bauen</strong>
+            <span class="sub">Core Feature · Fantastical-inspired · Day/Week/Month-Toggle</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Intelligence Hub checklist -->
+    <div class="card">
+      <div class="card-title"><span class="icon">🧠</span> Intelligence Hub — Diese Woche</div>
+      <ul class="checklist">
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Jeff Cavaliere Entity + Huberman-Source ingestieren</strong>
+            <span class="sub">wiki/entities/Jeff-Cavaliere.md · wiki/sources/Huberman-Cavaliere.md</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Rhonda Patrick Entity updaten</strong>
+            <span class="sub">Full Protocol Details aus 1936-Zeilen Transcript</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--orange)">⚠</span>
+          <span class="check-pri pri-p1">P1</span>
+          <div class="check-text">
+            <strong>Finance Monthly 2026-06 ingestieren</strong>
+            <span class="sub">wiki/sources/ + wiki/syntheses/Finanzübersicht.md updaten</span>
+          </div>
+        </li>
+        <li>
+          <span class="check-icon" style="color:var(--accent)">○</span>
+          <span class="check-pri pri-p2">P2</span>
+          <div class="check-text">
+            <strong>log.md + index.md updaten</strong>
+            <span class="sub">Nach allen Ingestions: chronologisches Log + Index aktualisieren</span>
+          </div>
+        </li>
+      </ul>
+    </div>
+
+    <!-- On Mac -->
+    <div class="card">
+      <div class="card-title"><span class="icon">💻</span> On Mac — Sync-Befehle</div>
+      <div style="background:var(--text-primary);color:#A8FF78;border-radius:10px;padding:20px 24px;font-family:'SF Mono','JetBrains Mono',monospace;font-size:13px;line-height:1.8;margin-top:4px;">
+        <span style="color:#69D2E7;"># Beide Repos auf Stand bringen</span><br>
+        <span style="color:#F8F8F2;">git pull</span><br>
+        <br>
+        <span style="color:#69D2E7;"># Wiki re-indexieren (231 Seiten)</span><br>
+        <span style="color:#F8F8F2;">bash scripts/qmd-sync.sh &amp;&amp; qmd embed</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════ FOOTER -->
+  <footer>
+    <div style="margin-bottom:8px;">
+      <strong>Generated by Claude Code</strong> — Intelligence Hub
+    </div>
+    <div>20. Juni 2026 &nbsp;·&nbsp; accounts@ok-holding.com &nbsp;·&nbsp; claude-sonnet-4-6</div>
+  </footer>
+
+</div>
+</body>
+</html>
