@@ -1,73 +1,73 @@
 ---
-title: MOC Performance and Leben
+title: MOC Performance und Leben
 type: source
 tags: [MOC, performance, health, training, lifestyle, navigation]
 sources: ["raw/00-MOC/MOC Performance & Leben.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Map of Content for Oleg's Performance & Life domain — active protocols, baseline data, and research areas
+summary: Map of Content für Olegs Bereich Performance & Leben — aktive Protokolle, Basisdaten und Recherchethemen
 ---
 
 # MOC Performance und Leben
 
-## Overview
+## Überblick
 
-This is the navigation hub for [[Oleg Personal Context|Oleg]]'s **Performance & Leben** (Performance & Life) domain within his personal vault. It organizes active health protocols, baseline measurement data, and ongoing research topics.
+Dies ist der Navigationshub für [[Oleg Personal Context|Olegs]] Bereich **Performance & Leben** in seinem persönlichen Vault. Er organisiert aktive Gesundheitsprotokolle, Basismessdaten und laufende Recherchethemen.
 
-## Structure
+## Struktur
 
-### Protokolle (Aktiv — Active Protocols)
+### Protokolle (Aktiv)
 
-Currently active systems and programs:
+Aktuell aktive Systeme und Programme:
 
-- [[Health Protocol Master]] — master daily health and training protocol
-- [[Supplement Stack]] — active supplementation protocol
-- [[Hyrox 10-Week Training]] — competition preparation program (Priority 4)
-- [[Tagesstruktur & Schedule]] — daily schedule and time structure
+- [[Health Protocol Master]] — übergeordnetes tägliches Gesundheits- und Trainingsprotokoll
+- [[Supplement Stack]] — aktives Supplementierungsprotokoll
+- [[Hyrox 10-Week Training]] — Wettkampfvorbereitungsprogramm (Priorität 4)
+- [[Tagesstruktur & Schedule]] — Tagesablauf und Zeitstruktur
 
 ### Baseline
 
-Measurement and assessment baselines:
+Mess- und Bewertungsbaselines:
 
-- [[3D Body Scan — Scaneca Mai 2026]] — May 2026 body composition baseline via Scaneca at Labor Berlin
+- [[3D Body Scan — Scaneca Mai 2026]] — Körperzusammensetzungs-Baseline Mai 2026 via Scaneca im Labor Berlin
 
-### Recherchen (Research)
+### Recherchen
 
-Ongoing research topics:
+Laufende Recherchethemen:
 
-- [[TEMPUR Matratzenkauf]] — mattress purchase research
+- [[TEMPUR Matratzenkauf]] — Recherche zum Matratzenkauf
 
-## Relationship to Other MOCs
+## Bezug zu anderen MOCs
 
-This MOC is one of four domain MOCs referenced in [[Oleg Home MOC]]:
+Dieser MOC ist einer von vier Bereichs-MOCs, die im [[Oleg Home MOC]] referenziert werden:
 
-| MOC | Domain |
+| MOC | Bereich |
 |---|---|
-| [[MOC Strategie und Business]] | Business and strategy |
-| **MOC Performance und Leben** | Health, training, lifestyle |
-| [[MOC Tech und Setup]] | Tools and technology |
-| [[MOC Recherchen]] | Research projects |
+| [[MOC Strategie und Business]] | Business und Strategie |
+| **MOC Performance und Leben** | Gesundheit, Training, Lifestyle |
+| [[MOC Tech und Setup]] | Tools und Technologie |
+| [[MOC Recherchen]] | Rechercheprojekte |
 
-## Key Linked Entities
+## Wichtige verknüpfte Entitäten
 
-- [[Oleg Personal Context]] — vault owner and protocol participant
-- [[Andrew Huberman]] — scientific framework source
-- [[Rhonda Patrick]] — nutritional research source
-- [[Bryan Johnson]] — systematic optimization framework
+- [[Oleg Personal Context]] — Vault-Inhaber und Protokoll-Teilnehmer
+- [[Andrew Huberman]] — Quelle wissenschaftlicher Frameworks
+- [[Rhonda Patrick]] — Quelle für Ernährungsforschung
+- [[Bryan Johnson]] — Framework für systematische Optimierung
 
-## Notes on Linked Pages Not Yet in Wiki
+## Hinweise zu verlinkten Seiten, die noch nicht im Wiki vorhanden sind
 
-The following pages are referenced in this MOC but not yet fully ingested:
+Die folgenden Seiten werden in diesem MOC referenziert, sind aber noch nicht vollständig eingearbeitet:
 
-- **Tagesstruktur & Schedule** — daily schedule detail (partially covered in [[Health Protocol Master]])
-- **TEMPUR Matratzenkauf** — mattress purchase research (sleep optimization research context)
-- **3D Body Scan — Scaneca Mai 2026** — redirects to existing [[3D Body Scan]] concept page
+- **Tagesstruktur & Schedule** — Details zum Tagesablauf (teilweise abgedeckt in [[Health Protocol Master]])
+- **TEMPUR Matratzenkauf** — Recherche zum Matratzenkauf (Kontext: Schlafoptimierungsrecherche)
+- **3D Body Scan — Scaneca Mai 2026** — leitet zur bestehenden Konzeptseite [[3D Body Scan]] weiter
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Home MOC]] — parent navigation hub
-- [[Health Protocol Master]] — primary active protocol
-- [[Hyrox 10-Week Training]] — active competition prep
-- [[3D Body Scan]] — baseline measurement methodology
-- [[Supplement Stack]] — active supplementation
-- [[Zone 2 Cardio]] — daily dog-walk activity
+- [[Oleg Home MOC]] — übergeordneter Navigationshub
+- [[Health Protocol Master]] — primäres aktives Protokoll
+- [[Hyrox 10-Week Training]] — aktive Wettkampfvorbereitung
+- [[3D Body Scan]] — Methodik der Basismessung
+- [[Supplement Stack]] — aktive Supplementierung
+- [[Zone 2 Cardio]] — tägliche Aktivität beim Gassigehen

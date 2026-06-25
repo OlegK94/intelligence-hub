@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wagglz · DSGVO & Security Audit</title>
+<style>
+  :root {
+    --bg: #f5f5f7;
+    --card: #ffffff;
+    --ink: #1d1d1f;
+    --grey: #6e6e73;
+    --line: #d2d2d7;
+    --blue: #0071e3;
+    --green: #34c759;
+    --amber: #ff9f0a;
+    --red: #ff3b30;
+    --purple: #bf5af2;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.47;
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 80px 24px 120px; }
+  .eyebrow { color: var(--red); font-weight: 600; font-size: 17px; letter-spacing: -0.01em; margin-bottom: 12px; }
+  h1 { font-size: 52px; font-weight: 700; letter-spacing: -0.03em; line-height: 1.05; margin-bottom: 16px; }
+  .lead { font-size: 21px; color: var(--grey); font-weight: 400; max-width: 680px; margin-bottom: 60px; }
+
+  /* Stats */
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line); border-radius: 22px; overflow: hidden; margin-bottom: 72px; }
+  .stat { background: var(--card); padding: 32px 24px; text-align: center; }
+  .stat .num { font-size: 48px; font-weight: 700; letter-spacing: -0.03em; line-height: 1; }
+  .stat .lbl { font-size: 14px; color: var(--grey); margin-top: 8px; }
+  .red { color: var(--red); }
+  .amber { color: var(--amber); }
+  .green { color: var(--green); }
+  .blue { color: var(--blue); }
+
+  /* Section */
+  section { margin-bottom: 64px; }
+  h2 { font-size: 32px; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 6px; }
+  .sub { color: var(--grey); font-size: 16px; margin-bottom: 24px; }
+
+  /* Blocking cards */
+  .block-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .block { background: var(--card); border-radius: 16px; padding: 20px 22px; border-left: 4px solid var(--red); }
+  .block.amber { border-left-color: var(--amber); }
+  .block h3 { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
+  .block p { font-size: 14px; color: var(--grey); line-height: 1.5; }
+  .block .tag { display: inline-block; font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 980px; margin-bottom: 8px; }
+  .tag.dsgvo { background: rgba(255,59,48,.1); color: #c1271d; }
+  .tag.security { background: rgba(191,90,242,.1); color: #9b33cc; }
+  .tag.auth { background: rgba(255,159,10,.12); color: #b86e00; }
+  .tag.rls { background: rgba(0,113,227,.1); color: #005ab5; }
+
+  /* Phase rows */
+  .phase { background: var(--card); border-radius: 18px; padding: 28px; margin-bottom: 12px; }
+  .phase-header { display: flex; align-items: center; gap: 14px; margin-bottom: 20px; }
+  .phase-num { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 16px; flex: none; }
+  .p1 .phase-num { background: var(--red); color: #fff; }
+  .p2 .phase-num { background: var(--amber); color: #fff; }
+  .p3 .phase-num { background: var(--green); color: #fff; }
+  .phase-title { font-size: 20px; font-weight: 600; }
+  .phase-when { font-size: 14px; color: var(--grey); margin-top: 2px; }
+  .checklist { list-style: none; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .checklist li { font-size: 14px; display: flex; align-items: flex-start; gap: 8px; }
+  .checklist li::before { content: "○"; font-size: 14px; color: var(--grey); flex: none; margin-top: 0px; }
+  .checklist li.done::before { content: "✓"; color: var(--green); font-weight: 700; }
+
+  /* What's already good */
+  .good-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .good { background: var(--card); border-radius: 14px; padding: 16px 18px; display: flex; align-items: flex-start; gap: 12px; }
+  .check { flex: none; width: 24px; height: 24px; border-radius: 50%; background: var(--green); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 700; }
+  .good .body { font-size: 14px; font-weight: 500; }
+  .good .body small { display: block; color: var(--grey); font-weight: 400; font-size: 13px; margin-top: 2px; }
+
+  /* Critical RLS */
+  .rls-box { background: #fff8f0; border: 1px solid #ff9f0a33; border-radius: 18px; padding: 28px; margin-bottom: 12px; }
+  .rls-box h3 { font-size: 18px; font-weight: 600; margin-bottom: 8px; color: #b86e00; }
+  .rls-box p { font-size: 15px; color: var(--ink); line-height: 1.6; }
+  .rls-box code { background: #f5f0e8; padding: 2px 6px; border-radius: 4px; font-family: "SF Mono", Menlo, monospace; font-size: 13px; }
+
+  /* Cost box */
+  .cost { background: var(--card); border-radius: 18px; padding: 28px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line); border-radius: 18px; overflow: hidden; margin-bottom: 12px; }
+  .cost-item { background: var(--card); padding: 20px; }
+  .cost-item .amount { font-size: 24px; font-weight: 700; letter-spacing: -0.02em; color: var(--ink); }
+  .cost-item .desc { font-size: 13px; color: var(--grey); margin-top: 4px; }
+
+  .foot { color: var(--grey); font-size: 13px; text-align: center; padding-top: 40px; border-top: 1px solid var(--line); margin-top: 40px; }
+  @media (max-width: 720px) {
+    h1 { font-size: 38px; }
+    .stats { grid-template-columns: repeat(2,1fr); }
+    .block-grid { grid-template-columns: 1fr; }
+    .good-grid { grid-template-columns: 1fr; }
+    .checklist { grid-template-columns: 1fr; }
+    .cost { grid-template-columns: repeat(2,1fr); }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow">Wagglz App · DSGVO & Security Audit · 2026-06-20</div>
+  <h1>13 Blocker.<br>Bevor ihr launcht.</h1>
+  <p class="lead">Vollständiger DSGVO- und Security-Audit für den deutschen Markt. Die Architektur (Next.js 15, Supabase, RLS) ist solide — aber ohne diese Fixes dürft ihr keine echten Nutzerdaten verarbeiten.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="num red">13</div><div class="lbl">Blocker (kein Launch)</div></div>
+    <div class="stat"><div class="num amber">12</div><div class="lbl">High — vor Beta</div></div>
+    <div class="stat"><div class="num green">9</div><div class="lbl">bereits gut</div></div>
+    <div class="stat"><div class="num blue">3</div><div class="lbl">Wochen bis Compliance</div></div>
+  </div>
+
+  <!-- BLOCKING -->
+  <section>
+    <h2>Blocker — kein Launch ohne diese</h2>
+    <p class="sub">Verstöße gegen DSGVO Art. 13, 17, 20, 28 · Bußgelder bis 4 % des Jahresumsatzes</p>
+    <div class="block-grid">
+
+      <div class="block">
+        <div class="tag dsgvo">DSGVO Art. 13</div>
+        <h3>Keine Datenschutzerklärung & kein Impressum</h3>
+        <p>In Deutschland Pflicht (TMG § 5 + DSGVO). Ohne Anwalt: Abmahnrisiko ab Tag 1. Kosten: ~2.000–5.000 € einmalig.</p>
+      </div>
+
+      <div class="block">
+        <div class="tag dsgvo">DSGVO Art. 28</div>
+        <h3>Kein Data Processing Agreement mit Supabase</h3>
+        <p>Supabase ist euer Auftragsverarbeiter. Ein schriftlicher AV-Vertrag ist Pflicht. Supabase DPA liegt bereit — muss nur unterzeichnet werden.</p>
+      </div>
+
+      <div class="block">
+        <div class="tag dsgvo">DSGVO Art. 44–49</div>
+        <h3>Datenspeicherort unklar — US-Risiko</h3>
+        <p>Supabase Standard-Region kann US sein. Personendaten dürfen ohne SCCs nicht in die USA. Sofort EU-Region erzwingen: <code>eu-west-1</code> (Frankfurt).</p>
+      </div>
+
+      <div class="block">
+        <div class="tag dsgvo">DSGVO Art. 7 · TTDSG § 25</div>
+        <h3>Kein Cookie-Consent-Management</h3>
+        <p>Deutsches Recht: Tracking erst nach expliziter Einwilligung. Kein Banner = Rechtsverstoß ab erstem Nutzer. Cookiebot oder Usercentrics: ~300–1.000 €/Jahr.</p>
+      </div>
+
+      <div class="block">
+        <div class="tag dsgvo">DSGVO Art. 20</div>
+        <h3>Keine Datenweitergabe / Export-Funktion</h3>
+        <p>Nutzer haben Recht auf maschinenlesbare Kopie ihrer Daten (JSON/CSV). Muss innerhalb 30 Tagen erfüllbar sein. Kein API-Endpunkt vorhanden.</p>
+      </div>
+
+      <div class="block">
+        <div class="tag dsgvo">DSGVO Art. 17</div>
+        <h3>Kein "Account löschen"-Flow in der App</h3>
+        <p>Login-Formular ist Platzhalter. Kein UI für Datenlöschung. Cascading Delete in DB ist korrekt gebaut — aber kein Nutzer kann es auslösen.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag auth">Auth</div>
+        <h3>E-Mail-Bestätigung deaktiviert</h3>
+        <p><code>enable_confirmations = false</code> in config.toml. Jeder kann sich mit fremden E-Mails registrieren. Muss vor echten Nutzern an.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag auth">Auth</div>
+        <h3>Passwort min. 6 Zeichen — BSI fordert 12+</h3>
+        <p><code>minimum_password_length = 6</code> + keine Komplexitätsvorgabe. Deutsches BSI empfiehlt min. 12 Zeichen mit Groß/Klein/Zahlen/Sonderzeichen.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag security">Security</div>
+        <h3>Keine Security Headers (CSP, HSTS, X-Frame)</h3>
+        <p>next.config.ts hat keine HTTP-Security-Headers. Ohne CSP: XSS-Angriffe möglich. Ohne HSTS: kein HTTPS-Enforcement durch Browser. Fix: ~2h Arbeit.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag rls">RLS</div>
+        <h3>Walker-Acceptance-Flow in RLS kaputt</h3>
+        <p>Walker können Buchungen nicht annehmen: RLS erlaubt nur Owner-Updates. <code>UPDATE bookings SET walker_id = auth.uid()</code> wird blockiert. Core Feature defekt.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag rls">RLS</div>
+        <h3>Keine Admin-RLS-Policies</h3>
+        <p>Admin-Rolle ist im Schema definiert, aber Admin-User können keine anderen Profile oder alle Buchungen sehen. Admin-Dashboard wäre funktionslos.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag dsgvo">DSGVO Art. 32</div>
+        <h3>Kein Audit-Logging</h3>
+        <p>Wer hat wann welche Daten geändert? Keine <code>audit_logs</code>-Tabelle. Bei einer Datenpanne (Art. 33) müsst ihr das nachweisen können.</p>
+      </div>
+
+      <div class="block amber">
+        <div class="tag security">Security</div>
+        <h3>Kein Input-Validation (Zod)</h3>
+        <p>Kein Schema für Profil-, Pet- oder Booking-Daten. Display-Name könnte 10.000 Zeichen lang sein, Avatar-URL könnte <code>javascript:</code>-Link sein.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- RLS CRITICAL -->
+  <section>
+    <h2>Kritischer RLS-Fehler im Detail</h2>
+    <p class="sub">Der Walker-Acceptance-Flow ist durch die aktuellen Policies blockiert</p>
+    <div class="rls-box">
+      <h3>Problem: Walker kann keine Buchungen annehmen</h3>
+      <p>Die aktuelle RLS-Policy <code>"Owners can update own bookings"</code> erlaubt nur Owner-Updates (<code>owner_id = auth.uid()</code>). Wenn ein Walker auf "Annehmen" klickt und <code>walker_id = auth.uid()</code> setzt, blockiert RLS die Anfrage — weil der Walker nicht der Owner ist. Das Core-Feature der App (Walker nimmt Buchung an) funktioniert nicht.</p>
+    </div>
+    <div class="rls-box">
+      <h3>Problem: Walkers sehen keine offenen Buchungen</h3>
+      <p>Die Policy <code>"Walkers can view assigned bookings"</code> zeigt nur Buchungen wo <code>walker_id = auth.uid()</code>. Neue (pending) Buchungen haben noch keinen Walker — also sieht kein Walker sie. Kein Walker kann ein Angebot annehmen, das er nicht sehen kann.</p>
+    </div>
+  </section>
+
+  <!-- WHAT'S GOOD -->
+  <section>
+    <h2>Was bereits gut ist</h2>
+    <p class="sub">Die technische Basis ist solide — diese Dinge müssen nicht angefasst werden</p>
+    <div class="good-grid">
+      <div class="good"><div class="check">✓</div><div class="body">RLS aktiviert<small>Alle 3 Tabellen mit Row Level Security</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">Parameterized Queries<small>Kein SQL-Injection-Risiko via Supabase SDK</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">JWT + Refresh-Rotation<small>Sessions sicher, Token-Rotation aktiviert</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">Cascade Delete im Schema<small>profiles → pets → bookings korrekt</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">Middleware Route Protection<small>/dashboard blockiert ohne Session</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">Secrets in .env<small>Keine Hardcoded Keys, .gitignore korrekt</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">React 19 XSS-Schutz<small>JSX escapet automatisch, kein dangerouslySetHTML</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">TypeScript strict mode<small>Typsicherheit von Anfang an</small></div></div>
+      <div class="good"><div class="check">✓</div><div class="body">Supabase Storage aktiviert<small>Bilder-Upload vorbereitet</small></div></div>
+    </div>
+  </section>
+
+  <!-- PHASES -->
+  <section>
+    <h2>Umsetzungsplan</h2>
+    <p class="sub">3 Phasen — von Blocker-Fix bis produktionsreif</p>
+
+    <div class="phase p1">
+      <div class="phase-header">
+        <div class="phase-num">1</div>
+        <div>
+          <div class="phase-title">Sofort — Woche 1</div>
+          <div class="phase-when">Ohne diese Punkte dürfen keine echten Daten verarbeitet werden</div>
+        </div>
+      </div>
+      <ul class="checklist">
+        <li>Supabase EU-Region erzwingen (Frankfurt eu-west-1)</li>
+        <li>Supabase DPA unterzeichnen (supabase.com/legal)</li>
+        <li>Anwalt: Datenschutzerklärung + Impressum beauftragen</li>
+        <li>E-Mail-Bestätigung aktivieren (enable_confirmations = true)</li>
+        <li>Passwort min. 12 Zeichen + Komplexität</li>
+        <li>Security Headers in next.config.ts (CSP, HSTS, X-Frame)</li>
+        <li>RLS: Walker-Acceptance-Policy hinzufügen</li>
+        <li>RLS: Admin-Policies hinzufügen</li>
+        <li>RLS: Walker kann pending Buchungen sehen</li>
+        <li>Input Validation mit Zod (Profile, Pets, Bookings)</li>
+        <li>Supabase TypeScript-Types generieren</li>
+        <li>Avatar URL Validation (nur https://, Whitelist Domains)</li>
+      </ul>
+    </div>
+
+    <div class="phase p2">
+      <div class="phase-header">
+        <div class="phase-num">2</div>
+        <div>
+          <div class="phase-title">Beta Launch — Woche 2</div>
+          <div class="phase-when">DSGVO-Pflichten für echte Nutzer</div>
+        </div>
+      </div>
+      <ul class="checklist">
+        <li>Cookie-Consent-Banner (Cookiebot/Usercentrics)</li>
+        <li>/privacy + /impressum + /terms Seiten live</li>
+        <li>Datenschutzerklärung online</li>
+        <li>/api/user/export — JSON-Export aller Nutzerdaten</li>
+        <li>"Account löschen" UI im Dashboard</li>
+        <li>Audit-Log-Tabelle + Trigger (wer ändert was wann)</li>
+        <li>2FA / TOTP aktivieren (Supabase config)</li>
+        <li>Session Timeout (8h Inaktivität)</li>
+        <li>Husky + lint-staged (Pre-commit Hooks)</li>
+        <li>GitHub Actions CI (typecheck + lint + build)</li>
+        <li>Sentry Error Monitoring</li>
+        <li>Daten-Retention-Policy dokumentieren</li>
+      </ul>
+    </div>
+
+    <div class="phase p3">
+      <div class="phase-header">
+        <div class="phase-num">3</div>
+        <div>
+          <div class="phase-title">GA Launch — Woche 3+</div>
+          <div class="phase-when">Skalierung, Monitoring, EU-Expansion</div>
+        </div>
+      </div>
+      <ul class="checklist">
+        <li>API Rate Limiting (@upstash/ratelimit)</li>
+        <li>Supabase Vault (Telefon, Standort verschlüsselt)</li>
+        <li>Seed-Daten für lokale Entwicklung</li>
+        <li>Supabase Edge Functions (Zahlungen, Notifications)</li>
+        <li>Datenpanne-Prozess dokumentieren (Art. 33)</li>
+        <li>Sub-Processor-Liste veröffentlichen</li>
+        <li>Dependabot für Dependency Updates</li>
+        <li>Backup + PITR-Strategie dokumentieren</li>
+        <li>security.txt Vulnerability Disclosure</li>
+        <li>Länderspezifische Legal Docs (FR, ES, NL)</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- COST -->
+  <section>
+    <h2>Kostenschätzung</h2>
+    <p class="sub">Einmalig + laufend für DSGVO-Compliance</p>
+    <div class="cost">
+      <div class="cost-item">
+        <div class="amount">2–5k €</div>
+        <div class="desc">Datenschutz-Anwalt<br>Datenschutzerklärung, Impressum, AV-Verträge</div>
+      </div>
+      <div class="cost-item">
+        <div class="amount">300–1k €</div>
+        <div class="desc">CMP (Cookiebot etc.)<br>pro Jahr, Cookie-Consent-Management</div>
+      </div>
+      <div class="cost-item">
+        <div class="amount">1–3k €</div>
+        <div class="desc">Security Audit<br>Penetration Test empfohlen vor GA</div>
+      </div>
+      <div class="cost-item">
+        <div class="amount">80–120h</div>
+        <div class="desc">Dev-Aufwand<br>Phase 1+2, verteilt auf 2–3 Wochen</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="foot">Wagglz App · DSGVO & Security Audit · 2026-06-20 · Für den deutschen Markt und EU-Expansion</div>
+
+</div>
+</body>
+</html>

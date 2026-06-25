@@ -5,63 +5,63 @@ tags: [tool, crm, data-backbone, saas, doktorlib, tech-stack, automation]
 sources: ["raw/01-Strategie-Business/DoktorLib Automation Pipeline.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: CRM platform selected as the Long-Term Data Backbone for the DoktorLib Automation Pipeline — primary system of record for all lead and customer data
+summary: CRM-Plattform, die als langfristiges Daten-Backbone der DoktorLib Automation Pipeline ausgewählt wurde — primäres System of Record für alle Lead- und Kundendaten
 ---
 
 # Salesforce
 
-## Overview
+## Überblick
 
-**Salesforce** is a leading enterprise CRM (Customer Relationship Management) platform. In the [[DoktorLib Automation Pipeline]], it has been designated as the **Long-Term Data Backbone** — the primary system of record for all lead, opportunity, and customer data.
+**Salesforce** ist eine führende Enterprise-CRM-Plattform (Customer Relationship Management). In der [[DoktorLib Automation Pipeline]] wurde sie als **langfristiges Daten-Backbone** designiert — das primäre System of Record für alle Lead-, Opportunity- und Kundendaten.
 
-## Role in the DoktorLib Pipeline
+## Rolle in der DoktorLib Pipeline
 
-### Design Decision
+### Architekturentscheidung
 
-> **Salesforce = Long-Term Data Backbone** (not just Notion)
+> **Salesforce = Langfristiges Daten-Backbone** (nicht nur Notion)
 
-This is an explicit architectural decision documented in the source. Salesforce is chosen over Notion as the primary data store because:
-- Scalability for growing lead volume
-- Structured field-based data (vs. Notion's flexible but less structured DB)
-- Integration with [[Dust Agent]] for KEB generation
-- CRM-native workflows (Opportunity stages, Lead routing)
+Dies ist eine explizite Architekturentscheidung, die in der Quelle dokumentiert ist. Salesforce wird gegenüber Notion als primärer Datenspeicher gewählt, weil:
+- Skalierbarkeit bei wachsendem Lead-Volumen
+- Strukturierte feldbasierte Daten (vs. Notions flexibler, aber weniger strukturierter DB)
+- Integration mit [[Dust Agent]] für die KEB-Generierung
+- CRM-native Workflows (Opportunity-Stufen, Lead-Routing)
 
-### Data Flow Position
+### Position im Datenfluss
 
 ```
 [TALLY] → [MAKE] → [SALESFORCE] ← [DUST AGENT reads]
                         ↓
-                 [NOTION] (secondary)
+                 [NOTION] (sekundär)
 ```
 
-### Specific Uses
+### Konkrete Einsatzbereiche
 
-| Phase | Salesforce Role |
+| Phase | Salesforce-Rolle |
 |---|---|
-| Phase 2 (Make Automation) | Receives Tally intake data via Make — Lead/Opportunity created + fields populated |
-| Demo Call | Discovery Notes entered manually by sales rep |
-| IT Audit (Make) | Receives IT Audit data from second Tally form |
-| Phase 3 (Dust Agent) | All SF data read by Dust Agent to generate KEB |
+| Phase 2 (Make Automation) | Empfängt Tally-Intake-Daten via Make — Lead/Opportunity wird angelegt und Felder werden befüllt |
+| Demo Call | Discovery Notes werden manuell vom Sales-Rep eingetragen |
+| IT-Audit (Make) | Empfängt IT-Audit-Daten aus dem zweiten Tally-Formular |
+| Phase 3 (Dust Agent) | Alle SF-Daten werden vom Dust Agent ausgelesen, um das KEB zu generieren |
 
-## Current State (Problem)
+## Aktueller Zustand (Problem)
 
-Pre-pipeline, Salesforce was used for:
-- Discovery Notes as free-text (not scalable)
-- Partial data entry (late — only at Demo Call stage)
+Vor der Pipeline wurde Salesforce genutzt für:
+- Discovery Notes als Freitext (nicht skalierbar)
+- Unvollständige Dateneingabe (spät — erst beim Demo Call)
 
-The pipeline transforms Salesforce into a **complete, structured, early-populated** data system.
+Die Pipeline verwandelt Salesforce in ein **vollständiges, strukturiertes, frühzeitig befülltes** Datensystem.
 
-## Trigger for Dust Agent
+## Auslöser für den Dust Agent
 
-- **Stage-Change trigger:** When SF Opportunity stage changes to "Vertragsunterzeichnung" (contract signed), this can optionally trigger the Dust Agent automatically
-- Manual trigger also possible
+- **Stage-Change-Trigger:** Wenn sich die SF-Opportunity-Stufe auf „Vertragsunterzeichnung" ändert, kann dies optional den Dust Agent automatisch auslösen
+- Manueller Auslöser ist ebenfalls möglich
 
-## Related Pages
+## Verwandte Seiten
 
-- [[DoktorLib Automation Pipeline]] — pipeline context
-- [[DoktorLib Automation Pipeline Source Detail]] — full source
-- [[Make]] — automation layer writing to Salesforce
-- [[Tally]] — input source
-- [[Dust Agent]] — reads Salesforce data for KEB generation
-- [[Notion]] — secondary layer alongside Salesforce
-- [[DoktorLib]] — organization context
+- [[DoktorLib Automation Pipeline]] — Pipeline-Kontext
+- [[DoktorLib Automation Pipeline Source Detail|DoktorLib Automation Pipeline Quellendetail]] — vollständige Quelle
+- [[Make]] — Automatisierungsschicht, die in Salesforce schreibt
+- [[Tally]] — Eingabequelle
+- [[Dust Agent]] — liest Salesforce-Daten für die KEB-Generierung
+- [[Notion]] — sekundäre Schicht neben Salesforce
+- [[DoktorLib]] — Organisationskontext

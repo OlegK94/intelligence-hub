@@ -1,0 +1,91 @@
+{
+  "metadata" : {
+    "browser_name" : "Safari",
+    "browser_version" : "26.5",
+    "data_type" : "extensions",
+    "export_time_usec" : 1781445168462141,
+    "schema_version" : 1
+  },
+  "extensions" : [
+    {
+      "composed_identifier" : "com.khanov.BlockerX.SafariExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "1Blocker-Aktionen",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "me.proton.pass.catalyst.safari-extension (2SB5Z68H26)",
+      "developer_name" : "Proton AG",
+      "display_name" : "Proton Pass: Password Manager",
+      "marketplace_lookup" : {
+        "store_identifier" : "6502835663"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacWebExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "1Blocker Scripts",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "md.obsidian.Obsidian-Web-Clipper.Extension (6JSW4SJWN9)",
+      "developer_name" : "Dynalist Inc.",
+      "display_name" : "Obsidian Web Clipper",
+      "marketplace_lookup" : {
+        "store_identifier" : "6720708363"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacBlockTrackersExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "Tracker blockieren",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacBlockInternationalExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "Regionale Regeln",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacBlockAdultExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "Erwachsenenseiten blockieren",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacBlockAdsExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "Werbung blockieren",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacBlockAnnoyancesExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "Lästige Elemente blockieren",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    },
+    {
+      "composed_identifier" : "com.khanov.BlockerX.MacBlockCustomExtension (6P9PN587KS)",
+      "developer_name" : "1Blocker LLC",
+      "display_name" : "Benutzerdefinierte Regeln",
+      "marketplace_lookup" : {
+        "store_identifier" : "1365531024"
+      }
+    }
+  ]
+}

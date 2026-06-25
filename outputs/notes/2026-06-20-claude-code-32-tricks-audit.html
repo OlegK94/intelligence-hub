@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claude Code · 32 Tricks Audit</title>
+<style>
+  :root {
+    --bg: #f5f5f7;
+    --card: #ffffff;
+    --ink: #1d1d1f;
+    --grey: #6e6e73;
+    --line: #d2d2d7;
+    --blue: #0071e3;
+    --green: #34c759;
+    --amber: #ff9f0a;
+    --red: #ff3b30;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.47;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 80px 24px 120px; }
+  .eyebrow { color: var(--blue); font-weight: 600; font-size: 19px; letter-spacing: -0.01em; margin-bottom: 12px; }
+  h1 { font-size: 56px; font-weight: 700; letter-spacing: -0.03em; line-height: 1.05; margin-bottom: 20px; }
+  .lead { font-size: 23px; color: var(--grey); font-weight: 400; max-width: 660px; margin-bottom: 64px; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--line); border-radius: 22px; overflow: hidden; margin-bottom: 72px; }
+  .stat { background: var(--card); padding: 36px 28px; text-align: center; }
+  .stat .num { font-size: 52px; font-weight: 700; letter-spacing: -0.03em; line-height: 1; }
+  .stat .lbl { font-size: 15px; color: var(--grey); margin-top: 10px; }
+  .num.green { color: var(--green); }
+  .num.amber { color: var(--amber); }
+  .num.blue { color: var(--blue); }
+
+  h2 { font-size: 34px; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 8px; }
+  .sub { color: var(--grey); font-size: 17px; margin-bottom: 28px; }
+  section { margin-bottom: 64px; }
+
+  .row { background: var(--card); border-radius: 18px; padding: 22px 26px; margin-bottom: 12px; display: flex; align-items: flex-start; gap: 18px; }
+  .pill { flex: none; font-size: 13px; font-weight: 600; padding: 5px 13px; border-radius: 980px; white-space: nowrap; margin-top: 2px; }
+  .pill.open { background: rgba(255,159,10,.14); color: #b86e00; }
+  .pill.miss { background: rgba(255,59,48,.12); color: #c1271d; }
+  .pill.opt { background: rgba(110,110,115,.12); color: var(--grey); }
+  .row .body h3 { font-size: 19px; font-weight: 600; letter-spacing: -0.01em; }
+  .row .body p { color: var(--grey); font-size: 16px; margin-top: 4px; }
+  .row .num { flex: none; width: 30px; color: var(--line); font-weight: 700; font-size: 20px; text-align: right; }
+
+  .done-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .done { background: var(--card); border-radius: 16px; padding: 18px 22px; display: flex; align-items: center; gap: 14px; }
+  .check { flex: none; width: 26px; height: 26px; border-radius: 50%; background: var(--green); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 700; }
+  .done span { font-size: 16px; font-weight: 500; }
+  .done small { display: block; color: var(--grey); font-weight: 400; font-size: 14px; }
+
+  .foot { color: var(--grey); font-size: 14px; text-align: center; padding-top: 40px; border-top: 1px solid var(--line); }
+  @media (max-width: 720px) {
+    h1 { font-size: 40px; } .lead { font-size: 19px; }
+    .stats { grid-template-columns: repeat(2, 1fr); } .done-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow">Claude Code Setup · Audit</div>
+  <h1>32 Tricks.<br>Was noch fehlt.</h1>
+  <p class="lead">Abgleich des Videos „32 Tricks to Level Up Claude Code" (Nate Herk) gegen dein Intelligence-Hub-Setup. Das meiste ist reines Verhalten und jederzeit verfügbar — echte Einrichtungs-Lücken gibt es nur drei.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="num green">21</div><div class="lbl">umgesetzt / verfügbar</div></div>
+    <div class="stat"><div class="num amber">3</div><div class="lbl">echte Lücken</div></div>
+    <div class="stat"><div class="num blue">5</div><div class="lbl">optional (Coding)</div></div>
+    <div class="stat"><div class="num">3</div><div class="lbl">nicht relevant</div></div>
+  </div>
+
+  <section>
+    <h2>Echte Lücken</h2>
+    <p class="sub">Das solltest du noch einrichten — passt direkt zu diesem Vault.</p>
+
+    <div class="row">
+      <div class="num">12</div>
+      <div class="pill miss">fehlt</div>
+      <div class="body">
+        <h3>Custom Skills</h3>
+        <p>Dein <code>.claude/skills/</code> ist leer. Ingest, Query, Lint und Audit gehören als <code>/ingest</code>, <code>/query</code>, <code>/lint</code> Slash-Commands rein — dann läuft dein CLAUDE.md-Workflow per einem Befehl statt Fließtext. Größter Hebel.</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="num">15</div>
+      <div class="pill open">teilweise</div>
+      <div class="body">
+        <h3>CLAUDE.md schlank halten &amp; routen</h3>
+        <p>Empfehlung im Video: 150–200 Zeilen. Dein CLAUDE.md ist ~250 Zeilen und wird in jede Session geladen. Detail-Konventionen in separate Dateien auslagern, im CLAUDE.md nur verlinken.</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="num">30</div>
+      <div class="pill open">teilweise</div>
+      <div class="body">
+        <h3>Permissions Allow/Deny formalisieren</h3>
+        <p>Du hast <code>bash-guard.sh</code> (blockt gefährliche Befehle) — gut. Aber keine explizite Allow-Liste. Sichere Befehle (python3 tools/*, git status, qmd) erlauben → Tempo wie „dangerously-skip" ohne das Risiko.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Optional — nur bei Coding</h2>
+    <p class="sub">Für reine Wissens-Arbeit kaum relevant. Erst wenn du Apps/Websites baust.</p>
+
+    <div class="row"><div class="num">32</div><div class="pill opt">optional</div><div class="body"><h3>Context7 MCP</h3><p>Aktuelle Library-Doku in den Kontext injizieren. Nur beim Programmieren nützlich.</p></div></div>
+    <div class="row"><div class="num">21</div><div class="pill opt">optional</div><div class="body"><h3>Chrome DevTools MCP</h3><p>Browser steuern, Screenshots, Frontend-Checks. Relevant für Web-Visualisierungen im Apple-Stil.</p></div></div>
+    <div class="row"><div class="num">3</div><div class="pill opt">optional</div><div class="body"><h3>Voice Input</h3><p>Diktieren ins Terminal. Komfort-Feature, kein Setup-Muss.</p></div></div>
+    <div class="row"><div class="num">28</div><div class="pill opt">optional</div><div class="body"><h3>BQ / SQL-Analytics</h3><p>Für dich ersetzt durch QMD-Hybrid-Suche — du hast keine SQL-DB.</p></div></div>
+    <div class="row"><div class="num">31</div><div class="pill opt">optional</div><div class="body"><h3>Agent Teams</h3><p>Mehrere Agents, die miteinander reden. Lohnt erst bei großen Multi-File-Projekten.</p></div></div>
+  </section>
+
+  <section>
+    <h2>Bereits erledigt</h2>
+    <p class="sub">21 Tricks sind eingerichtet oder als Standard-Verhalten verfügbar.</p>
+    <div class="done-grid">
+      <div class="done"><div class="check">✓</div><span>/init &amp; CLAUDE.md<small>Trick 1 — vollständig gepflegt</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Status Line<small>Trick 2 — Tasks/Inbox/Ingest</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Notification-Hooks<small>Trick 19 — E-Mail nach Session</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Git Worktrees<small>Trick 23 — Ordner vorhanden</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Auto-Compact<small>Trick 6 — aktiviert</small></span></div>
+      <div class="done"><div class="check">✓</div><span>PreCompact-Snapshot<small>Trick 6 — Hook sichert Kontext</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Remote / Phone Control<small>Trick 27 — du nutzt Web/Mobile</small></span></div>
+      <div class="done"><div class="check">✓</div><span>/loop<small>Trick 25 — Skill verfügbar</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Sub-Agents parallel<small>Trick 11 — verfügbar</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Plan Mode<small>Trick 7 — Standard</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Screenshots lesen<small>Trick 20 — genutzt</small></span></div>
+      <div class="done"><div class="check">✓</div><span>Inspiration klonen<small>Trick 22 — Apple-Design-Vorlage</small></span></div>
+    </div>
+  </section>
+
+  <div class="foot">Intelligence Hub · 2026-06-20 · Quelle: „32 Tricks to Level Up Claude Code in 16 Mins" — Nate Herk</div>
+
+</div>
+</body>
+</html>

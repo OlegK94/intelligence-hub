@@ -1,81 +1,55 @@
 ---
-title: OK Capital UG Source Detail
+title: OK Capital UG Quelldokument-Detail
 type: source
-tags: [finance, unternehmen, ug, ok-capital, insolvenz, liquidation, dormancy, wagglz, oleg]
-sources: ["raw/Finanzdaten/ObsidianVault/Finance/OK Capital UG.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Raw source document for OK Capital UG — Stammdaten, shared cost structure with Wagglz GmbH (~8,000 €/Jahr combined deficit), pending insolvency questions, required documents, and strategic options (liquidation/dormancy/merger/continuation)
+tags: [holding, ug, ok-capital, wagglz, finanzen, bankkonten, finom, google-workspace, darlehen, kosten]
+sources: ["raw/Business/OK-Capital/OK Capital UG.md"]
+created: 2026-06-12
+updated: 2026-06-12
+summary: Quelldokument für die OK Capital UG — Holdingstruktur (100 % Oleg → UG → Wagglz GmbH), Finom-Bankkonto, 31,60 €/Monat Fixkosten (WestX + Google Workspace), 0,00 € Saldo Juni 2026, 100 € Gesellschafterdarlehen von Oleg
 ---
 
-# OK Capital UG — Source Detail
+# OK Capital UG — Quelldokument-Detail
 
-## Overview
+## Übersicht
 
-This source document (status: Analyse ausstehend, tags: finance / unternehmen / ug / ok-capital, created 2026-06-13) is the primary record for [[OK Capital UG]] — [[Oleg Personal Context|Oleg]]'s second corporate entity. It is the least documented of his business entities.
+Dieses Quelldokument (raw/Business/OK-Capital/OK Capital UG.md, aktualisiert: 2026-06-12) erfasst die Struktur, Bankkonten und das Kostenprofil der [[OK Capital UG]], Olegs Holdinggesellschaft.
 
-> For the entity summary, strategic options, and contradiction notes, see [[OK Capital UG]].
+> Für die Entitätszusammenfassung und Widerspruchshinweise siehe [[OK Capital UG]].
 
-## Source Frontmatter
+## Struktur (wie dokumentiert)
 
-```yaml
-tags: [finance, unternehmen, ug, ok-capital]
-created: 2026-06-13
-status: analyse-ausstehend
+```
+Oleg Kober (Privat)
+      ↓ 100%
+OK Capital UG  ←── Holding
+      ↓ 100%
+  Wagglz GmbH  ←── Operativ
 ```
 
-## Stammdaten (from Source)
+## Bankkonten
 
-| Field | Value |
+- **Finom:**
+  - WestX: 23,50 €/Mo
+  - Google: 8,10 €/Mo
+- **Saldo Jun 2026:** 0,00 €
+- **Darlehen:** Oleg → OK Capital UG: 100 € (01.03.2026)
+
+## Kosten 2026
+
+| Posten | Betrag/Mo |
 |---|---|
-| Rechtsform | UG (haftungsbeschränkt) |
-| Gesellschafter/GF | Oleg Kober |
-| Verbindung zu | [[Wagglz GmbH]] |
+| WestX | 23,50 € |
+| Google Workspace | 8,10 € |
+| **Gesamt** | ~31,60 € |
 
-## Bekannte Fakten
+## Quell-Tags aus der Rohdatei
 
-- Gemeinsam mit Wagglz: Jahresabschlüsse fällig
-- Gesamtkosten Jahresabschlüsse: **5,000 € (aktuell)**, **2,500 € (nächstes Jahr)**
-- Gesamtbelastung beider Einheiten: **~8,000 €/Jahr**
-- Rückflüsse an Privat: **keine erkennbaren**
+- tags: [unternehmen, holding, ok-capital]
+- aktualisiert: 2026-06-12
 
-## Open Critical Questions (from Source)
+## Verwandte Seiten
 
-> [!danger] Insolvenzprüfung ausstehend
-> Identical check items as [[Wagglz GmbH]]:
-> - Eigenkapital positiv/negativ?
-> - Zahlungsfähigkeit?
-> - Antragspflicht?
-> - Haftungsrisiken GF?
-
-## Benötigte Dokumente
-
-- [ ] Jahresabschluss / BWA (alles was vorhanden)
-- [ ] Kontoauszüge
-- [ ] Gesellschaftsvertrag / Darlehensverträge
-
-## Strategische Optionen (to be evaluated after analysis)
-
-1. **Liquidation**
-2. **Dormancy**
-3. **Verschmelzung mit Wagglz** (sofern sinnvoll)
-4. **Weiterführung**
-
-→ Vollständige Analyse: [[Master Prompt Gesamtanalyse]]
-
-## Source Wikilinks (Original)
-
-The source document contains the following wikilinks:
-- `[[Wagglz GmbH]]`
-- `[[Master Prompt – Gesamtanalyse]]`
-
-> **Note:** The source uses `[[Master Prompt – Gesamtanalyse]]` — mapped in this wiki to [[Master Prompt Gesamtanalyse]].
-
-## Related Pages
-
-- [[OK Capital UG]] — entity page
-- [[Wagglz GmbH]] — sister entity
-- [[Master Prompt Gesamtanalyse]] — analysis framework
-- [[Oleg Personal Context]] — entity owner
-- [[Oleg Business Entity Structure]] — broader entity context
-- [[Financial Independence]] — strategic goal affected by entity costs
+- [[OK Capital UG]] — Entitätsseite
+- [[Wagglz GmbH]] — operative Tochtergesellschaft
+- [[Oleg Business Entity Structure|Oleg Business Entity Structure]] — übergeordneter Entitätskontext
+- [[Oleg Personal Context|Oleg Personal Context]] — Eigentümer

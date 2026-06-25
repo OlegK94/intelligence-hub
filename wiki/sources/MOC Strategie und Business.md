@@ -5,65 +5,65 @@ tags: [MOC, strategy, business, ventures, berlin, GmbH, UG]
 sources: ["raw/00-MOC/MOC Strategie & Business.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Map of Content for Oleg's Strategy & Business domain — active ventures, archived projects, and legal entity context
+summary: Inhaltsverzeichnis für Olegs Bereich Strategie & Business — aktive Projekte, archivierte Vorhaben und rechtlicher Unternehmenskontext
 ---
 
 # MOC Strategie & Business
 
-## Overview
+## Überblick
 
-This is the navigation hub for [[Oleg Personal Context|Oleg]]'s **Strategie & Business** domain within his personal vault. It organizes active business projects, archived/completed ventures, and provides structural context for his company entities.
+Dies ist der Navigationsknotenpunkt für [[Oleg Personal Context|Olegs]] Bereich **Strategie & Business** innerhalb seines persönlichen Vaults. Er organisiert aktive Geschäftsprojekte, archivierte bzw. abgeschlossene Vorhaben und liefert strukturellen Kontext zu seinen Unternehmenseinheiten.
 
-This MOC is one of four domain MOCs referenced in [[Oleg Home MOC]].
+Dieses MOC ist eines von vier Bereichs-MOCs, auf die im [[Oleg Home MOC]] verwiesen wird.
 
-## Aktive Projekte (Active Projects)
+## Aktive Projekte
 
-| Project | Status | Notes |
+| Projekt | Status | Hinweise |
 |---|---|---|
-| [[Café Berlin Partnership Hai]] | 🟡 Planung | Priority 1 |
-| [[DoktorLib Automation Pipeline]] | 🟡 In Bau | Priority 2 |
-| [[Cyprus Relocation]] | 🔴 Blockiert | Priority 3 |
+| [[Café Berlin Partnership Hai]] | 🟡 Planung | Priorität 1 |
+| [[DoktorLib Automation Pipeline]] | 🟡 In Bau | Priorität 2 |
+| [[Cyprus Relocation]] | 🔴 Blockiert | Priorität 3 |
 
-## Abgeschlossen / Archiv (Completed / Archive)
+## Abgeschlossen / Archiv
 
-| Project | Status |
+| Projekt | Status |
 |---|---|
-| [[Allianz Insurance Consolidation]] | Completed / Archived |
-| Café Berlin — Solo-Analyse | Rejected |
+| [[Allianz Insurance Consolidation]] | Abgeschlossen / Archiviert |
+| Café Berlin — Solo-Analyse | Verworfen |
 
-> **Note:** The [[Oleg Home MOC]] lists [[Allianz Insurance Consolidation]] as still **open** (⚪ Offen, Priority 6). The MOC Strategie & Business places it under **Abgeschlossen / Archiv**. This is a potential contradiction — either the insurance project was completed/abandoned between the Home MOC and this MOC's last update, or the categorization is inconsistent. See [[Allianz Insurance Consolidation]] for full context.
+> **Hinweis:** Das [[Oleg Home MOC]] führt [[Allianz Insurance Consolidation]] noch als **offen** (⚪ Offen, Priorität 6). Das MOC Strategie & Business ordnet es unter **Abgeschlossen / Archiv** ein. Dies ist ein möglicher Widerspruch — entweder wurde das Versicherungsprojekt zwischen dem letzten Update des Home MOC und diesem MOC abgeschlossen bzw. aufgegeben, oder die Kategorisierung ist inkonsistent. Siehe [[Allianz Insurance Consolidation]] für den vollständigen Kontext.
 
-## Kontext (Entity Structure)
+## Kontext (Unternehmensstruktur)
 
-- **GmbH:** Betriebsgesellschaft für Ventures (operating company for ventures) — **active**
-- **UG:** ruhend (dormant)
-- **Fashion Brand:** eingestellt (discontinued)
+- **GmbH:** Betriebsgesellschaft für Ventures — **aktiv**
+- **UG:** ruhend
+- **Modemarke:** eingestellt
 
-### Notes on Legal Entities
+### Hinweise zu den Rechtseinheiten
 
-- The GmbH is the active vehicle for Oleg's business activities, including potentially the [[Café Berlin Partnership Hai]] venture
-- The UG is dormant — likely retained for future use or pending dissolution
-- A **Fashion Brand** was previously active but has been **discontinued** — this is new information not captured elsewhere in the wiki
+- Die GmbH ist das aktive Vehikel für Olegs Geschäftstätigkeiten, einschließlich des potenziellen Vorhabens [[Café Berlin Partnership Hai]]
+- Die UG ist ruhend — wahrscheinlich für eine zukünftige Nutzung behalten oder steht vor der Auflösung
+- Eine **Modemarke** war zuvor aktiv, wurde jedoch **eingestellt** — dies sind neue Informationen, die anderswo im Wiki nicht erfasst sind
 
-## Relationship to Other MOCs
+## Beziehung zu anderen MOCs
 
-| MOC | Domain |
+| MOC | Bereich |
 |---|---|
-| **MOC Strategie und Business** | Business and strategy |
-| [[MOC Performance und Leben]] | Health, training, lifestyle |
-| [[MOC Tech und Setup]] | Tools and technology |
-| [[MOC Recherchen]] | Research projects |
+| **MOC Strategie und Business** | Geschäft und Strategie |
+| [[MOC Performance und Leben]] | Gesundheit, Training, Lebensstil |
+| [[MOC Tech und Setup]] | Werkzeuge und Technologie |
+| [[MOC Recherchen]] | Forschungsprojekte |
 
-## Key Entities
+## Wichtige Entitäten
 
-- [[Oleg Personal Context]] — vault owner and business principal
-- [[Café Berlin Partnership Hai]] — primary active venture
-- [[DoktorLib Automation Pipeline]] — work-related automation project
-- [[Cyprus Relocation]] — blocked strategic relocation goal
-- [[Hai]] — café co-founder and business partner
+- [[Oleg Personal Context]] — Vault-Inhaber und Geschäftsverantwortlicher
+- [[Café Berlin Partnership Hai]] — primäres aktives Vorhaben
+- [[DoktorLib Automation Pipeline]] — arbeitsbezogenes Automatisierungsprojekt
+- [[Cyprus Relocation]] — blockiertes strategisches Verlagerungsziel
+- [[Hai]] — Café-Mitgründer und Geschäftspartner
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Home MOC]] — parent navigation hub
-- [[Financial Independence]] — overarching strategic goal
-- [[Allianz Insurance Consolidation]] — archived project (see contradiction note above)
+- [[Oleg Home MOC]] — übergeordneter Navigationsknotenpunkt
+- [[Financial Independence]] — übergeordnetes strategisches Ziel
+- [[Allianz Insurance Consolidation]] — archiviertes Projekt (siehe Widerspruchshinweis oben)

@@ -1,82 +1,82 @@
 ---
-title: Oleg Business Entity Structure
+title: Olegs Unternehmensstruktur (Rechtsträger)
 type: synthesis
 tags: [GmbH, UG, legal-entity, business-structure, germany, ventures, fashion-brand, café, rechtsträger]
 sources: ["raw/00-MOC/MOC Strategie & Business.md", "raw/00-MOC/🏠 Home.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
 created: 2026-06-13
 updated: 2026-06-14
-summary: Synthesis of Oleg's German legal entity structure — active GmbH, dormant UG, discontinued fashion brand, and open question of which entity to use for Café Berlin
+summary: Synthese von Olegs deutscher Unternehmensstruktur — aktive GmbH, ruhende UG, eingestellte Modemarke und offene Frage, welcher Rechtsträger für das Café Berlin genutzt werden soll
 ---
 
-# Oleg Business Entity Structure
+# Olegs Unternehmensstruktur (Rechtsträger)
 
-## Overview
+## Überblick
 
-This page synthesizes what is known about [[Oleg Personal Context|Oleg]]'s business entity structure in Germany, as referenced across [[MOC Strategie und Business]], [[Oleg Home MOC]], and the [[Café Berlin Partnership Hai — Planning Detail]] source document.
+Diese Seite fasst zusammen, was über [[Oleg Personal Context|Olegs]] Unternehmensstruktur in Deutschland bekannt ist — wie in [[MOC Strategie und Business]], [[Oleg Home MOC]] und dem Quelldokument [[Café Berlin Partnership Hai — Planning Detail]] referenziert.
 
-## Entity Summary
+## Übersicht der Rechtsträger
 
-| Entity | Status | Purpose |
+| Rechtsträger | Status | Zweck |
 |---|---|---|
-| GmbH | 🟢 Active | Betriebsgesellschaft für Ventures (operating company for ventures) |
-| UG | ⚪ Dormant (ruhend) | Unclear — retained but inactive |
-| Fashion Brand | ❌ Discontinued (eingestellt) | Former venture, now closed |
+| GmbH | 🟢 Aktiv | Betriebsgesellschaft für Ventures |
+| UG | ⚪ Ruhend | Unklar — gehalten, aber inaktiv |
+| Modemarke | ❌ Eingestellt | Ehemaliges Venture, mittlerweile geschlossen |
 
 ## GmbH (Gesellschaft mit beschränkter Haftung)
 
-- **Status:** Active operating entity
-- **Function:** Vehicle for business ventures
-- **Relevance:** One of three options for [[Café Berlin Partnership Hai]] legal structure
-- **Cross-border consideration:** Active GmbH while residing in [[Cyprus Relocation|Cyprus]] creates tax complexity (Wegzugsteuer, permanent establishment risk)
+- **Status:** Aktive Betriebsgesellschaft
+- **Funktion:** Vehikel für unternehmerische Ventures
+- **Relevanz:** Eine von drei Optionen für die Rechtsstruktur des [[Café Berlin Partnership Hai]]
+- **Grenzüberschreitende Besonderheit:** Eine aktive GmbH bei gleichzeitigem Wohnsitz auf [[Cyprus Relocation|Zypern]] erzeugt steuerliche Komplexität (Wegzugsteuer, Betriebsstättenrisiko)
 
 ## UG (Unternehmergesellschaft)
 
-- **Status:** Dormant (ruhend)
-- **Nature:** UG is a "mini-GmbH" — lower share capital (€1 minimum vs €25,000 for GmbH)
-- **Current use:** None — retained but not operating
-- **Future options:** Re-activate, merge into GmbH, or dissolve
+- **Status:** Ruhend
+- **Charakter:** Die UG ist eine „Mini-GmbH" — geringeres Stammkapital (mindestens 1 € vs. 25.000 € bei der GmbH)
+- **Aktuelle Nutzung:** Keine — gehalten, aber nicht operativ
+- **Optionen:** Reaktivierung, Verschmelzung mit der GmbH oder Auflösung
 
-## Fashion Brand (Discontinued)
+## Modemarke (Eingestellt)
 
-- **Status:** Eingestellt (discontinued/shut down)
-- **Source:** Listed in [[MOC Strategie und Business]] Kontext section
-- **Note:** Only mention in the vault — no further details documented.
+- **Status:** Eingestellt
+- **Quelle:** Aufgeführt im Kontext-Abschnitt von [[MOC Strategie und Business]]
+- **Hinweis:** Einzige Erwähnung im Vault — keine weiteren Details dokumentiert.
 
-## ⚠️ Contradiction: GmbH "ruhend" in Planning Document
+## ⚠️ Widerspruch: GmbH als „ruhend" im Planungsdokument
 
-The [[Café Berlin Partnership Hai — Planning Detail]] source refers to "GmbH (Oleg, ruhend)" when listing entity options for the café venture. However, [[MOC Strategie und Business]] and [[Oleg Home MOC]] consistently describe the GmbH as **active**.
+Das Quelldokument [[Café Berlin Partnership Hai — Planning Detail]] bezeichnet die GmbH als „GmbH (Oleg, ruhend)", wenn es die Rechtsträgeroptionen für das Café-Venture auflistet. [[MOC Strategie und Business]] und [[Oleg Home MOC]] beschreiben die GmbH jedoch durchgehend als **aktiv**.
 
-| Source | GmbH Status |
+| Quelle | GmbH-Status |
 |---|---|
 | [[MOC Strategie und Business]] | Aktiv (Betriebsgesellschaft) |
-| [[Oleg Home MOC]] | Active (implied) |
-| [[Café Berlin Partnership Hai — Planning Detail]] | "ruhend" |
+| [[Oleg Home MOC]] | Aktiv (impliziert) |
+| [[Café Berlin Partnership Hai — Planning Detail]] | „ruhend" |
 
-**Resolution:** Most likely the planning document uses "ruhend" informally to mean "not yet deployed for this specific venture" — not formally dormant in a legal sense. The GmbH is the active holding entity; the question in the planning session is whether to activate it *as the café operating company* or create a new entity. The formally dormant entity remains the UG.
+**Auflösung:** Das Planungsdokument verwendet „ruhend" höchstwahrscheinlich informell im Sinne von „für dieses konkrete Venture noch nicht eingesetzt" — nicht als formellen Ruhezustand im rechtlichen Sinne. Die GmbH ist die aktive Holdinggesellschaft; die Frage in der Planungssitzung lautet, ob sie *als Betriebsgesellschaft des Cafés* aktiviert wird oder ob eine neue Gesellschaft gegründet werden soll. Der formal ruhende Rechtsträger bleibt die UG.
 
-## Legal Entity Options for Café Berlin
+## Rechtsträgeroptionen für das Café Berlin
 
-Three options discussed in [[Café Berlin Partnership Hai — Planning Detail]]:
+Im Dokument [[Café Berlin Partnership Hai — Planning Detail]] werden drei Optionen diskutiert:
 
-1. **GmbH (Oleg) als Betriebsgesellschaft aktivieren** — use existing GmbH, add Hai as co-shareholder
-2. **Neue GbR gründen** — simple partnership, lower overhead, unlimited liability
-3. **Neue GmbH gemeinsam gründen** — clean slate for both founders, €25k share capital required
+1. **GmbH (Oleg) als Betriebsgesellschaft aktivieren** — bestehende GmbH nutzen, Hai als Mitgesellschafter aufnehmen
+2. **Neue GbR gründen** — einfache Personengesellschaft, geringerer Verwaltungsaufwand, unbeschränkte Haftung
+3. **Neue GmbH gemeinsam gründen** — sauberer Neustart für beide Gründer, 25.000 € Stammkapital erforderlich
 
-Key Gesellschaftervertrag topics: Vesting, Exit-Regelungen, Stimmanteile.
+Wesentliche Themen des Gesellschaftervertrags: Vesting, Exit-Regelungen, Stimmanteile.
 
-## Implications for Cyprus Relocation
+## Auswirkungen auf den Umzug nach Zypern
 
-Maintaining an active GmbH in Germany while relocating to [[Cyprus Relocation|Cyprus]] raises structural questions:
-- **Geschäftsführer residence:** Managing director residing abroad may trigger German tax residency rules
-- **Permanent establishment:** GmbH activities may still create German tax liability
-- **Wegzugsteuer:** German exit tax on unrealized gains in GmbH shares
-- These are among the blockers for the Cyprus move (Steuerberater consultation required)
+Die Beibehaltung einer aktiven GmbH in Deutschland bei gleichzeitigem Umzug nach [[Cyprus Relocation|Zypern]] wirft strukturelle Fragen auf:
+- **Geschäftsführer-Wohnsitz:** Ein im Ausland ansässiger Geschäftsführer kann deutsche Steuerregelungen zur unbeschränkten Steuerpflicht auslösen
+- **Betriebsstätte:** Die Aktivitäten der GmbH können weiterhin eine deutsche Steuerpflicht begründen
+- **Wegzugsteuer:** Deutsche Wegzugsteuer auf nicht realisierte Wertzuwächse der GmbH-Anteile
+- Diese Punkte zählen zu den Hindernissen für den Zypern-Umzug (Konsultation eines Steuerberaters erforderlich)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Personal Context]] — entity owner
-- [[MOC Strategie und Business]] — primary source
-- [[Cyprus Relocation]] — relocation goal affected by entity structure
-- [[Café Berlin Partnership Hai]] — active venture decision on entity
-- [[Café Berlin Partnership Hai — Planning Detail]] — planning document with contradiction
-- [[Financial Independence]] — overarching goal these entities serve
+- [[Oleg Personal Context]] — Inhaber der Rechtsträger
+- [[MOC Strategie und Business]] — primäre Quelle
+- [[Cyprus Relocation]] — Umzugsziel, das durch die Unternehmensstruktur beeinflusst wird
+- [[Café Berlin Partnership Hai]] — aktuelle Venture-Entscheidung zur Rechtsträgerauswahl
+- [[Café Berlin Partnership Hai — Planning Detail]] — Planungsdokument mit dem beschriebenen Widerspruch
+- [[Financial Independence]] — übergeordnetes Ziel, dem diese Rechtsträger dienen

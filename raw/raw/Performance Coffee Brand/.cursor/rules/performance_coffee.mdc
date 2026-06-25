@@ -1,0 +1,34 @@
+---
+description: Performance Coffee Brand — Recherche, Rezeptur, Unit Economics
+globs:
+  - "Performance Coffee Brand/**"
+alwaysApply: true
+---
+
+# Performance Coffee Brand
+
+Projektroot: `Performance Coffee Brand/`. Vollständiger Kontext in `Performance Coffee Brand/CLAUDE.md`.
+
+## Scope
+
+- **eCommerce/DTC-only** funktionale Kaffee-Marke (DACH-Markt)
+- Co-Founder: Oleg + Hai — **Brand**, nicht Café-Betrieb
+- **Nicht im Scope:** Physisches Café, Flagship, Partner-Cafés, Doctolib, Wagglz Tierapp
+- Historische Café-Notizen: `recherche/_archiv/cafe-berlin-historie.md` (deprecated)
+
+## Konventionen
+
+- **Parent raw/ ist read-only** — `raw/Business/Performance Coffee Brand/` zitieren, nie ändern
+- Recherche in `recherche/` (Module 00–07); Auftragsbrief bei Entscheidungen aktualisieren
+- Inhaltsstoffkosten → `modelle/inhaltsstoffe_db.csv`; COGS → `modelle/unit_economics.py`
+- Brand-Drafts → `marke/`; Regulatorik → `recht/`; Shopify/Fulfillment → `betrieb/`
+- Stabile Synthesen → Parent `wiki/entities/Performance Coffee Brand.md`
+- Keine Git-Commits ohne explizite Anfrage
+- Recherche-Prosa: Deutsch
+
+## Priorisierte offene Fragen
+
+1. CM-Outreach (Pure Flavour, Wonnda) — Modul 03
+2. COGS + RRP — Modul 06
+3. Rechtliche Entity (Wagglz GmbH vs. neue GmbH)
+4. Markenname (noch offen)

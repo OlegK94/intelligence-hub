@@ -16,9 +16,18 @@ raw/Business/Wagglz/Daten/
 raw/Business/OK-Capital/Daten/
 raw/Business/Cafe/*.pdf
 raw/Business/Cafe/*.html
-raw/assets/
+# raw/assets/ — tracked (images, screenshots, references)
+# raw/assets/*.psd
+# raw/assets/*.ai
 
 # Nested duplicate vault folder (legacy)
 Intelligence Hub/
 
 # QMD index lives in ~/.cache/qmd/
+__pycache__/
+.env
+.claude/worktrees/
+
+outputs/notes/*.log
+raw/Intelligence-Hub/
+*.zip

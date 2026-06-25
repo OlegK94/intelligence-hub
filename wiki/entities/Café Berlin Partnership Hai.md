@@ -1,99 +1,111 @@
 ---
-title: Café Berlin Partnership Hai
+title: Café Berlin Partnerschaft Hai
 type: entity
-tags: [business, partnership, café, berlin, venture, project, friedrichshain, prenzlauer-berg, co-founder, hai]
-sources: ["raw/00-MOC/🏠 Home.md", "raw/00-MOC/MOC Strategie & Business.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md"]
+tags: [business, partnership, café, berlin, venture, project, friedrichshain, prenzlauer-berg, co-founder, hai, archiviert]
+sources: ["raw/Business/Cafe/Café Berlin — Partnership Hai.md", "raw/Business/Cafe/cafe_masterplan_2026.md"]
 created: 2026-06-13
-updated: 2026-06-14
-summary: Business venture — Oleg co-founding a café in Berlin with partner Hai; Priority 1 as of June 2026, in planning phase with detailed kickoff agenda for 14.06.2026
+updated: 2026-06-16
+summary: "ARCHIVIERT: Ursprüngliches physisches Café-Konzept mit Hai (GROVE) — ersetzt durch Performance Coffee Brand (Instant-Sachet, skalierbar). GROVE-Businessplan als Referenz behalten."
 ---
 
-# Café Berlin Partnership Hai
+# Café Berlin Partnerschaft Hai (GROVE → Performance Coffee Brand)
 
-## Overview
+## Status-Update 2026-06-16
 
-A planned café business venture in Berlin between [[Oleg Personal Context|Oleg]] and his business partner [[Hai]]. This is Oleg's **top priority** (Priority 1) as of June 2026.
+> ⚠️ **Pivot vollzogen.** Das ursprüngliche physische Café-Konzept (GROVE) wurde durch das **[[Performance Coffee Brand]]** ersetzt. Gleiche Partner (Oleg + [[Hai]]), anderes Produkt: Instant-Kaffee-Sachet statt Café-Standort.
+>
+> Grund: Performance Coffee Brand ist skalierbarer, kein physischer Standort nötig, höhere Margins, bessere FI-Kompatibilität.
+>
+> GROVE-Businessplan (`raw/Business/Cafe/cafe_masterplan_2026.md`) bleibt als Referenz im Vault — nicht gelöscht.
 
-## Project Status
+---
 
-- **Status:** 🟡 Planung (Planning)
-- **Priority:** 1 of 6 active priorities
-- **Planning Session:** 14.06.2026 (kickoff with Hai)
+# GROVE — Ursprüngliches Café-Konzept (Archiv)
 
-## Origin: Why Partnership, Not Solo
+## Überblick
 
-Oleg previously analyzed a solo café concept in May 2026 (see [[Café Berlin Solo Analyse]]) and rejected it — a single-operator café creates an **Einkommensdeckel** (income ceiling) incompatible with [[Financial Independence]] goals.
+Ein geplantes Café-Geschäftsvorhaben in Berlin zwischen [[Oleg Personal Context|Oleg]] und seinem Geschäftspartner [[Hai]]. Dies ist Olegs **höchste Priorität** (Priorität 1) mit Stand Juni 2026.
 
-The partnership model with [[Hai]] changes this by enabling:
-- **Scalability** through shared operational capacity
-- **Shared burden** — risk and workload split
-- **Complementary networks** — Oleg's finance/B2B side + Hai's operational/culinary side
+## Projektstatus
 
-## Parties and Role Split
+- **Status:** 🟡 Planung
+- **Priorität:** 1 von 6 aktiven Prioritäten
+- **Planungssession:** 14.06.2026 (Kickoff mit Hai)
 
-| Partner | Proposed Role |
+## Ursprung: Warum Partnerschaft statt Solo
+
+Oleg analysierte im Mai 2026 zuvor ein Solo-Café-Konzept (siehe [[Café Berlin Solo Analyse]]) und verwarf es — ein Einzelbetreiber-Café erzeugt einen **Einkommensdeckel**, der mit den Zielen zur [[Financial Independence]] unvereinbar ist.
+
+Das Partnerschaftsmodell mit [[Hai]] ändert dies, indem es folgendes ermöglicht:
+- **Skalierbarkeit** durch gemeinsame operative Kapazität
+- **Geteilte Last** — Risiko und Arbeitsaufwand werden aufgeteilt
+- **Ergänzende Netzwerke** — Olegs Finanz-/B2B-Seite + Hais operative/kulinarische Seite
+
+## Parteien und Rollenaufteilung
+
+| Partner | Vorgeschlagene Rolle |
 |---|---|
 | **Oleg** | Strategie, Finance, Verhandlung, B2B-Netzwerk |
 | **Hai** | Operatives, Konzept, Küchenlogik, Lieferanten |
 
-**Open:** Who serves as Geschäftsführer (GF)? Who leads full-time in Phase 1?
+**Offen:** Wer übernimmt die Geschäftsführung (GF)? Wer leitet den Vollzeitbetrieb in Phase 1?
 
-## Location
+## Standort
 
-- **Target areas:** [[Friedrichshain]] or [[Prenzlauer Berg]]
-- **Target size:** 80–120 m²
-- **Rent benchmark:** 25–40 €/m²
-- **Estimated monthly rent:** ~2,000–4,800 €
+- **Zielgebiete:** [[Friedrichshain]] oder [[Prenzlauer Berg]]
+- **Zielgröße:** 80–120 m²
+- **Miet-Richtwert:** 25–40 €/m²
+- **Geschätzte Monatsmiete:** ~2.000–4.800 €
 
-## Concept (Open)
+## Konzept (offen)
 
-- Specialty Coffee / Café-Bar / hybrid — not yet decided
-- Laufkundschaft vs. Destinationskonzept — model TBD
-- Outdoor seating possible (requires Sondernutzungserlaubnis Berlin)
+- Specialty Coffee / Café-Bar / Hybrid — noch nicht entschieden
+- Laufkundschaft vs. Destinationskonzept — Modell noch offen
+- Außenbestuhlung möglich (erfordert Sondernutzungserlaubnis Berlin)
 
-## Financial Structure
+## Finanzstruktur
 
-- **Break-even target:** < 18 months
-- **Revenue levers:** Lunch trade, events, own brand (merch/coffee)
-- **Financing:** KfW ERP-Gründerkredit under consideration
-- **Buffer required:** Min. 3 months rent + renovation + initial equipment
-- **Equity/debt ratio:** To be set in planning session
+- **Break-even-Ziel:** < 18 Monate
+- **Umsatzhebel:** Mittagsgeschäft, Events, eigene Marke (Merch/Kaffee)
+- **Finanzierung:** KfW ERP-Gründerkredit wird geprüft
+- **Puffer erforderlich:** Mindestens 3 Monatsmieten + Renovierung + Erstausstattung
+- **Eigenkapital-/Fremdkapitalquote:** Wird in der Planungssession festgelegt
 
-## Legal Entity
+## Rechtsform
 
-Three options under discussion:
-1. Activate Oleg's existing GmbH as operating vehicle
-2. Create new GbR or GmbH jointly
-3. Gesellschaftervertrag with vesting, exit, and voting provisions
+Drei Optionen werden diskutiert:
+1. Olegs bestehende GmbH als Betriebsgesellschaft aktivieren
+2. Gemeinsam eine neue GbR oder GmbH gründen
+3. Gesellschaftervertrag mit Vesting-, Exit- und Stimmrechtsregelungen
 
-See [[Oleg Business Entity Structure]] for current entity context.
+Siehe [[Oleg Business Entity Structure]] für den aktuellen Unternehmenskontext.
 
-## Legal Prerequisites (Pre-Researched)
+## Rechtliche Voraussetzungen (vorab recherchiert)
 
 - Gaststättenerlaubnis (Ordnungsamt)
-- IHK Gaststättenunterrichtung (~50 €, 1-day course)
+- IHK Gaststättenunterrichtung (~50 €, eintägiger Kurs)
 - Gesundheitsamt-Anmeldung
 - Mehrwegpflicht-Compliance
-- Brandschutzkonzept (if renovation)
+- Brandschutzkonzept (bei Renovierung)
 
-## Oleg's Strengths
+## Olegs Stärken
 
-- Professional gastronomie background
-- Berliner Café-Bar-Szene network
-- GmbH structure already in place
+- Beruflicher Hintergrund in der Gastronomie
+- Netzwerk in der Berliner Café-Bar-Szene
+- GmbH-Struktur bereits vorhanden
 
-## Strategic Tensions
+## Strategische Spannungsfelder
 
-> **Tension with [[Cyprus Relocation]]:** Priority 1 is a Berlin-based physical business; Priority 3 is leaving Berlin. These goals are currently in tension — the café requires Oleg's physical presence at least in Phase 1, while relocation to Cyprus is a medium-term goal. This is not resolved in source documents.
+> **Konflikt mit [[Cyprus Relocation]]:** Priorität 1 ist ein physisches Berliner Unternehmen; Priorität 3 ist das Verlassen Berlins. Diese Ziele stehen derzeit im Widerspruch — das Café erfordert Olegs physische Präsenz zumindest in Phase 1, während der Umzug nach Zypern ein mittelfristiges Ziel ist. Dies ist in den Quelldokumenten nicht aufgelöst.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Café Berlin Partnership Hai — Planning Detail]] — full source document
-- [[Café Berlin Solo Analyse]] — rejected predecessor
-- [[Hai]] — co-founder
-- [[Oleg Personal Context]] — project owner
-- [[Oleg Business Entity Structure]] — legal entity context
-- [[MOC Strategie und Business]] — strategic MOC
-- [[Cyprus Relocation]] — strategic tension
-- [[Financial Independence]] — underlying motivation
-- [[KfW ERP-Gründerkredit]] — financing option
+- [[Café Berlin Partnership Hai — Planning Detail|Café Berlin Partnerschaft Hai — Planungsdetail]] — vollständiges Quelldokument
+- [[Café Berlin Solo Analyse]] — verworfener Vorgänger
+- [[Hai]] — Mitgründer
+- [[Oleg Personal Context|Oleg Persönlicher Kontext]] — Projektverantwortlicher
+- [[Oleg Business Entity Structure|Oleg Unternehmensstruktur]] — rechtlicher Unternehmenskontext
+- [[MOC Strategie und Business]] — strategische MOC
+- [[Cyprus Relocation|Umzug nach Zypern]] — strategisches Spannungsfeld
+- [[Financial Independence]] — zugrunde liegende Motivation
+- [[KfW ERP-Gründerkredit]] — Finanzierungsoption

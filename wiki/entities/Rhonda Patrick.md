@@ -1,92 +1,52 @@
 ---
 title: Rhonda Patrick
 type: entity
-tags: [scientist, nutrition, longevity, sulforaphane, sauna, health-optimization, podcast, foundmyfitness, visceral-fat, inflammation, creatine]
-sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md", "Clippings/The Best Vitality & Health Protocols  Dr. Rhonda Patrick.md"]
-created: 2026-06-06
-updated: 2026-06-14
-summary: Biomedical researcher and host of FoundMyFitness podcast; sulforaphane protocol directly influences Oleg's supplement stack; advocates 10 g creatine, intermittent fasting, visceral fat reduction, and gut health
+tags: [scientist, longevity, health-optimization, biochemistry, nutrition, podcast, biohacking, foundmyfitness, huberman-lab]
+sources: ["raw/Business/PerformanceCafe/brand/positioning.md"]
+created: 2026-06-15
+updated: 2026-06-15
+summary: Biomedizinische Wissenschaftlerin und Gründerin von FoundMyFitness — Expertin für Longevity, Mikronährstoff-Optimierung und Trainingsbiochemie; gilt als wichtige Einflussperson im Biohacker/Blueprint-Segment der Performance Coffee Brand
 ---
 
 # Rhonda Patrick
 
-## Overview
+## Überblick
 
-**Dr. Rhonda Patrick** (PhD, biomedical science) is the host of the **FoundMyFitness** podcast and one of the most rigorous public science communicators in health optimization. She translates research on nutrition, longevity, supplementation, and exercise biochemistry into evidence-graded protocols. Her 2026-03-23 Huberman Lab episode is one of the most content-dense health protocol discussions available. (source: [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]])
+**Dr. Rhonda Patrick** ist eine biomedizinische Wissenschaftlerin und Wissenschaftskommunikatorin mit den Schwerpunkten Aging, Ernährungsbiochemie und Sportphysiologie. Sie ist Gründerin und Gastgeberin von **FoundMyFitness** (foundmyfitness.com), einem Podcast und Newsletter mit Fokus auf longevity-orientierter Wissenschaft.
 
-## Direct Influence on Oleg's Protocol
+## Relevanz für das Wiki
 
-### Sulforaphane (Explicit Cite in Source)
-The [[Supplement Stack]] source document explicitly names the **Rhonda Patrick protocol** as the reason [[Sulforaphane]] (via [[Sunday Natural]]) is the sole non-[[Momentous]] exception in Oleg's stack:
-> *"Rhonda-Patrick-Protokoll; Momentous hat kein Äquivalent"*
+### Performance Coffee Brand
+Rhonda Patrick wird als eine der zentralen Einflusspersonen genannt, deren Publikum das **Biohacker / Blueprint-Follower**-Segment (Segment 3, hohes LTV) für [[Performance Coffee Brand]] ausmacht:
+- Konsumenten, die mit Rhonda Patrick, [[Bryan Johnson]], [[Andrew Huberman]] und Peter Attia vertraut sind, bilden die Nischen-, aber High-LTV-Zielgruppe
+- Ihr Publikum ist wissenschaftlich versiert, vertraut im Umgang mit Supplement-Protokollen und bereit, Premiumpreise für evidenzbasierte Produkte zu zahlen
 
-### Creatine Dosing (Potential Upgrade)
-Rhonda advocates **10 g creatine daily** (vs. Oleg's current 5 g), with up to 25 g when sleep-deprived for cognitive offset. This is an actionable upgrade to consider.
+### Huberman Lab Verbindung
+[[Andrew Huberman]] hatte Rhonda Patrick als Gast im Huberman Lab — die Episode [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] ist im Wiki erfasst und fließt direkt in [[Oleg Personal Context|Olegs]] Supplement-Stack und Gesundheitsprotokolle ein.
 
-### Pre-Sleep Fasting
-Rhonda's 3-hour pre-sleep fast for cardiovascular reset: Oleg's current gap (dinner 19:30, sleep 20:30) is ~1 hour — extending to 17:30 dinner or 20:30 sleep at 23:30 would align.
+## Zentrale Forschungsgebiete
 
-### Visceral Fat Risk
-Oleg's waist (97.2 cm) and abdomen (101.4 cm) from Scaneca scan are approaching the 100 cm risk threshold Rhonda cites for metabolic/cardiovascular risk. Intermittent fasting + high-intensity exercise are her primary reduction tools.
+- **Sulforaphan:** Verbindung aus Brokkolisprossen mit NRF2-Aktivierung — Oleg nimmt Sulforaphan gemäß [[Daily Protocol Checklist]]
+- **Saunaprotokolle:** Hitzeschockproteine, Longevity-Vorteile, kardiovaskuläre Gesundheit
+- **Omega-3:** EPA/DHA-Dosierung für kardiovaskuläre und kognitive Gesundheit
+- **Vitamin D:** Optimale Werte (Bereich 50–80 ng/mL), Dosierungsstrategien
+- **Trainingsbiochemie:** HIIT, Zone 2 Cardio, Irisin und Aging
+- **Mikronährstoff-Genomik:** Personalisierte Ernährung auf Basis genetischer Varianten
 
-## Key Research Areas
+## Beziehungen zu anderen Experten
 
-### Sulforaphane / NRF2
-- Pioneered popular understanding of sulforaphane's NRF2 pathway → endogenous antioxidant cascade
-- Broccoli sprout supplementation or extract
-- Applications: cancer prevention, inflammation, neuroprotection
+| Experte | Beziehung |
+|---|---|
+| [[Andrew Huberman]] | Häufige Podcast-Gastauftritte; komplementäre Themenbereiche |
+| [[Bryan Johnson]] | Paralleler Longevity-Fokus; unterschiedliche Methodik (Blueprint = protokollzuerst, FoundMyFitness = forschungszuerst) |
+| Peter Attia | Ähnliche evidenzbasierte Longevity-Positionierung; komplementäre Zielgruppen |
 
-### Gut Health & Inflammation
-- LPS (lipopolysaccharide) from gut permeability → binds LDL → foam cells → atherosclerosis
-- Tight junction mechanics; postprandial inflammatory response
-- Glutamine as gut epithelial energy source; T-cell activation
+## Verwandte Seiten
 
-### Supplementation Science
-- Omega-3 (prescription Lovaza preferred for purity): 2 g EPA/DHA daily
-- Vitamin D3: 5,000–8,000 IU daily; synergistic with omega-3 and resistance training
-- Magnesium: Threonate (cognition) vs. Bisglycinate (sleep)
-- NAC: situational only — avoid daily use around exercise (blunts adaptations)
-
-### Sauna Therapy
-- Cardiovascular and longevity benefits of heat stress
-- Heat shock proteins, all-cause mortality reduction
-- Aligns with Oleg's post-workout sauna protocol in [[Health Protocol Master]]
-
-### Hormesis & Cortisol
-- Beneficial stressors (HIIT, fasting, cold, sauna) → proper cortisol spike-recovery pattern
-- Chronic stress → cortisol dysregulation → lose anti-inflammatory cortisol benefits
-- Deliberate cold lowers cortisol (contrary to common narrative)
-
-### Visceral Fat
-- 44% higher cancer risk; double all-cause mortality
-- Acts as inflammatory endocrine organ
-- Estrogen decline (perimenopause) shifts fat storage viscerally
-- Best intervention: caloric deficit + intermittent fasting + high-intensity exercise
-
-## Personal Exercise Routine
-- 5–6 hours/week: strength (deadlifts/cleans/squats to singles) + CrossFit-style HIIT
-- Frequent fasted training; Peloton Tabata as travel fallback
-- No phone at workouts; competitive athlete background (jump rope)
-
-## Platforms
-
-- **Podcast:** FoundMyFitness
-- **YouTube:** FoundMyFitness channel
-- **Website:** foundmyfitness.com
-
-## Related Experts
-
-- [[Andrew Huberman]] — frequent host/guest; episode source
-- [[Bryan Johnson]] — shared longevity optimization focus
-
-## Related Pages
-
-- [[Supplement Stack]] — Rhonda Patrick protocol referenced
-- [[Supplement Stack Source Detail]] — source document with explicit Rhonda Patrick cite
-- [[The Best Vitality & Health Protocols Dr. Rhonda Patrick]] — full episode source
-- [[Sulforaphane]] — specific supplement from her protocol
-- [[Creatine]] — her 10 g protocol vs. Oleg's 5 g
-- [[Health Protocol Master]] — broader protocol
-- [[Sauna]] — research area
-- [[3D Body Scan Scaneca Mai 2026]] — Oleg's baseline (visceral fat context)
-- [[Oleg Personal Context]] — protocol follower
+- [[Performance Coffee Brand]] — Rhonda Patricks Publikum = Zielgruppe Segment 3
+- [[Performance Coffee Brand Positioning]] — Quelldokument zur Positionierung
+- [[Andrew Huberman]] — häufiger Kooperationspartner und Querverweise
+- [[Bryan Johnson]] — paralleler Longevity-Influencer
+- [[Health Protocol Master]] — Protokolle, informiert durch Rhonda Patricks Forschung
+- [[Supplement Stack]] — Sulforaphan enthalten gemäß FoundMyFitness-Einfluss
+- [[Daily Protocol Checklist]] — Sulforaphan erscheint um 13:30 Uhr

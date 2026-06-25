@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Screenshot Intelligence Report — Provet Cloud & Vetera | 2026-06-21</title>
+<style>
+  :root {
+    --wagglz-blue: #2E54CB;
+    --wagglz-lime: #CCFFB0;
+    --wagglz-lavender: #A6A6FF;
+    --provet-purple: #3D2B8E;
+    --vetera-red: #E8003D;
+    --bg: #F9F9F7;
+    --card: #FFFFFF;
+    --text: #1A1A1A;
+    --muted: #6B6B6B;
+    --border: #E8E8E4;
+    --green: #00A651;
+    --yellow: #F5A623;
+    --red: #E53935;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+  .hero { background: linear-gradient(135deg, var(--provet-purple) 0%, #1A0A5E 100%); padding: 60px 40px; text-align: center; color: white; }
+  .hero h1 { font-size: 36px; font-weight: 700; letter-spacing: -0.5px; margin-bottom: 12px; }
+  .hero p { font-size: 18px; opacity: 0.8; max-width: 600px; margin: 0 auto; }
+  .badge { display: inline-block; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 20px; padding: 4px 14px; font-size: 13px; margin-top: 16px; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 48px 24px; }
+  .section-title { font-size: 28px; font-weight: 700; margin-bottom: 8px; margin-top: 48px; }
+  .section-subtitle { color: var(--muted); font-size: 16px; margin-bottom: 28px; }
+  .card { background: var(--card); border-radius: 16px; padding: 28px; margin-bottom: 20px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); border: 1px solid var(--border); }
+  .card h3 { font-size: 18px; font-weight: 700; margin-bottom: 12px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  .price-card { background: var(--card); border-radius: 16px; padding: 28px; border: 2px solid var(--border); text-align: center; }
+  .price-card.featured { border-color: var(--provet-purple); background: #F8F6FF; }
+  .price-card .plan { font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: var(--muted); margin-bottom: 8px; }
+  .price-card .amount { font-size: 40px; font-weight: 800; color: var(--provet-purple); line-height: 1; }
+  .price-card .period { font-size: 14px; color: var(--muted); margin-bottom: 16px; }
+  .price-card ul { list-style: none; text-align: left; font-size: 14px; }
+  .price-card ul li { padding: 5px 0; padding-left: 22px; position: relative; }
+  .price-card ul li::before { content: '✓'; position: absolute; left: 0; color: var(--green); font-weight: 700; }
+  .feature-tag { display: inline-block; background: #F0F0FF; color: var(--provet-purple); border-radius: 8px; padding: 4px 10px; font-size: 13px; margin: 3px; font-weight: 500; }
+  .feature-tag.new { background: #E8F8EF; color: #00763A; }
+  .feature-tag.ai { background: linear-gradient(135deg, #E8E0FF, #D0C8FF); color: #4A2FBE; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; margin-top: 16px; }
+  th { background: var(--bg); font-weight: 600; padding: 12px 14px; text-align: left; border-bottom: 2px solid var(--border); }
+  td { padding: 11px 14px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .pill { display: inline-block; padding: 3px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+  .pill.yes { background: #E8F8EF; color: #00763A; }
+  .pill.no { background: #FFF0F0; color: #C62828; }
+  .pill.partial { background: #FFF8E1; color: #E65100; }
+  .alert { border-radius: 12px; padding: 18px 22px; margin-bottom: 24px; font-size: 15px; }
+  .alert.red { background: #FFF0F0; border-left: 4px solid var(--red); }
+  .alert.yellow { background: #FFFBF0; border-left: 4px solid var(--yellow); }
+  .alert.green { background: #F0FFF6; border-left: 4px solid var(--green); }
+  .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 24px; }
+  .stat { background: var(--card); border-radius: 14px; padding: 22px; text-align: center; border: 1px solid var(--border); }
+  .stat .num { font-size: 34px; font-weight: 800; color: var(--provet-purple); }
+  .stat .label { font-size: 13px; color: var(--muted); margin-top: 4px; }
+  .vetera-section { --brand: var(--vetera-red); }
+  .vetera-section .section-title { color: var(--vetera-red); }
+  .vetera-section .stat .num { color: var(--vetera-red); }
+  .wagglz-section .section-title { color: var(--wagglz-blue); }
+  .source-note { font-size: 12px; color: var(--muted); margin-top: 8px; }
+  .screenshot-label { display: inline-block; background: #F5F5F5; border-radius: 6px; padding: 2px 8px; font-size: 11px; color: var(--muted); font-family: monospace; margin-left: 6px; }
+  .customer-logos { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+  .customer-pill { background: var(--bg); border: 1px solid var(--border); border-radius: 20px; padding: 6px 14px; font-size: 14px; font-weight: 500; }
+  h2.divider { font-size: 22px; font-weight: 700; border-bottom: 2px solid var(--border); padding-bottom: 12px; margin-top: 48px; margin-bottom: 24px; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>Screenshot Intelligence Report</h1>
+  <p>Provet Cloud & Vetera — vollständige Analyse aus 113 Screenshots (provet.com + vetera.net)</p>
+  <span class="badge">2026-06-21 · 113 Screenshots · Archiv.zip + Archiv Kopie.zip</span>
+</div>
+
+<div class="container">
+
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- PROVET CLOUD -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+
+  <div class="section-title" style="color: var(--provet-purple);">Provet Cloud — Deep Dive</div>
+  <div class="section-subtitle">103 Screenshots von provet.com · Zeitraum 11:37–11:45 Uhr</div>
+
+  <div class="stat-row">
+    <div class="stat"><div class="num">2.900+</div><div class="label">Kliniken weltweit</div></div>
+    <div class="stat"><div class="num">55.000+</div><div class="label">Veterinary Professionals</div></div>
+    <div class="stat"><div class="num">20M+</div><div class="label">Tiere versorgt</div></div>
+    <div class="stat"><div class="num">150+</div><div class="label">Integrationen</div></div>
+  </div>
+
+  <p class="source-note" style="margin-bottom:24px;">Quelle: provet.com Homescreen-Statistiken <span class="screenshot-label">11:42:56</span></p>
+
+  <!-- Pricing -->
+  <h2 class="divider">Bestätigte Preisstruktur (UK & US)</h2>
+
+  <div class="grid-3" style="margin-bottom:16px;">
+    <div class="price-card">
+      <div class="plan">Core</div>
+      <div class="amount">$99</div>
+      <div class="period">pro Vet / Monat (US)<br>£99 (UK)</div>
+      <ul>
+        <li>1 Vet im Platform-Fee inkl.</li>
+        <li>Non-Vet Staff kostenlos</li>
+        <li>Provet Academy kostenlos</li>
+        <li>Fast Implementation</li>
+        <li>Unified Payments</li>
+      </ul>
+    </div>
+    <div class="price-card featured">
+      <div class="plan">Pro ⭐</div>
+      <div class="amount">$129</div>
+      <div class="period">pro Vet / Monat (US)<br>£119 (UK)</div>
+      <ul>
+        <li>Alles in Core</li>
+        <li>Referral Portal</li>
+        <li>Multi-Location-Management</li>
+        <li>Triage Board</li>
+        <li>Dedicated Customer Success</li>
+      </ul>
+    </div>
+    <div class="price-card">
+      <div class="plan">Enterprise</div>
+      <div class="amount" style="font-size:28px;">Custom</div>
+      <div class="period">Flexible Billing</div>
+      <ul>
+        <li>Alles in Pro</li>
+        <li>Dedicated Account Manager</li>
+        <li>Service Level Agreement</li>
+        <li>Custom Terms</li>
+        <li>Single Sign-On</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="card" style="background:#F8F6FF; border-color: var(--provet-purple);">
+    <h3>AI Scribe — Add-on</h3>
+    <div style="font-size:32px; font-weight:800; color:var(--provet-purple);">£30 <span style="font-size:16px; font-weight:400; color:var(--muted);">/ seat / Monat</span></div>
+    <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:8px;">
+      <span class="feature-tag ai">Dictation (Desktop/Tablet/Mobile)</span>
+      <span class="feature-tag ai">30 Min/Monat kostenlos</span>
+      <span class="feature-tag ai">Unlimited Usage-Option</span>
+      <span class="feature-tag ai">Custom Templates</span>
+      <span class="feature-tag ai">Kostenlos für Support-Staff</span>
+      <span class="feature-tag ai">Built & validated by Veterinarians</span>
+    </div>
+  </div>
+
+  <div class="alert yellow">
+    <strong>Enterprise-Pilot-Angebot (bestätigt via Screenshot):</strong> Bis 5 Kliniken testen mit <strong>3 Monaten kostenlos</strong>, Implementation inklusive, kein Vertrag nötig. Stark für Enterprise-Akquise!
+    <span class="screenshot-label">11:45:01</span>
+  </div>
+
+  <!-- Features bestätigt -->
+  <h2 class="divider">Bestätigte Feature-Module (aus UI-Screenshots)</h2>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Workflow-Tabs (aus Konsultation-UI)</h3>
+      <p style="margin-bottom:12px; color:var(--muted); font-size:14px;">Gefunden im App-Screenshot (Consultation #21009, Buddy, Golden Retriever) <span class="screenshot-label">11:37:47</span></p>
+      <span class="feature-tag">Overview</span>
+      <span class="feature-tag">Clinical Notes</span>
+      <span class="feature-tag">Diagnoses</span>
+      <span class="feature-tag">Laboratory</span>
+      <span class="feature-tag">Treatment Items</span>
+      <span class="feature-tag">Patient Discharge</span>
+    </div>
+    <div class="card">
+      <h3>Sidebar-Navigation (Dashboard)</h3>
+      <p style="margin-bottom:12px; color:var(--muted); font-size:14px;">Winterset Animal Hospital Demo <span class="screenshot-label">11:37:23</span></p>
+      <span class="feature-tag">Dashboard</span>
+      <span class="feature-tag">Triage</span>
+      <span class="feature-tag">Plans</span>
+      <span class="feature-tag">Laboratory</span>
+      <span class="feature-tag">Diagnostic Imaging</span>
+      <span class="feature-tag">Records</span>
+      <span class="feature-tag">Calendar / Appointments</span>
+      <span class="feature-tag">Boarding</span>
+      <span class="feature-tag">Finder</span>
+      <span class="feature-tag">Shifts</span>
+      <span class="feature-tag">Day Plan</span>
+      <span class="feature-tag">Booking Availability</span>
+      <span class="feature-tag">Staff</span>
+      <span class="feature-tag">Inventory</span>
+      <span class="feature-tag">Reports</span>
+      <span class="feature-tag">Settings</span>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Terminplanung — bestätigt <span class="screenshot-label">11:39:33</span></h3>
+      <span class="feature-tag new">Online Booking & Smart Scheduling</span>
+      <span class="feature-tag">Self-Service für Tierhalter</span>
+      <span class="feature-tag">Automated Patient Reminders</span>
+      <span class="feature-tag">Shift & Resource Views</span>
+      <p style="margin-top:12px; font-size:14px; color:var(--muted);">Tierhalter können selbst online buchen — Provet bietet also bereits einen Teil des Tierhalter-Self-Service an!</p>
+    </div>
+    <div class="card">
+      <h3>Provet Clinical AI <span class="screenshot-label">11:40:55</span></h3>
+      <span class="feature-tag ai">Summarize patient history</span>
+      <span class="feature-tag ai">Transcribe consults</span>
+      <span class="feature-tag ai">Auto-generate discharge instructions</span>
+      <span class="feature-tag ai">Free for support staff</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>Provet Pay — Integrated Payments <span class="screenshot-label">11:41:03</span></h3>
+    <p style="color:var(--muted); font-size:14px; margin-bottom:12px;">"Veterinary payments made smooth and easy. Handling payments shouldn't add stress to running your veterinary practice."</p>
+    <span class="feature-tag">Terminal</span>
+    <span class="feature-tag">Card-on-File</span>
+    <span class="feature-tag">Pay-by-Link</span>
+    <span class="feature-tag">Auto-Reconciliation</span>
+    <span class="feature-tag">Add payment to multiple invoices</span>
+  </div>
+
+  <!-- Kunden -->
+  <h2 class="divider">Bekannte Enterprise-Kunden (bestätigt via Website)</h2>
+  <div class="card">
+    <div class="customer-logos">
+      <span class="customer-pill">CVS Group 🇬🇧</span>
+      <span class="customer-pill">Pets at Home 🇬🇧</span>
+      <span class="customer-pill">AniCura 🇸🇪</span>
+      <span class="customer-pill">IVC Evidensia 🇪🇺</span>
+      <span class="customer-pill">Animalia 🌍</span>
+      <span class="customer-pill">AmeriVet 🇺🇸</span>
+      <span class="customer-pill">UNAVETS 🇪🇸</span>
+      <span class="customer-pill">SPCA 🌍</span>
+      <span class="customer-pill">University of Cambridge 🎓</span>
+    </div>
+    <div style="margin-top:16px;" class="alert green">
+      <strong>CVS Group-Zitat:</strong> "We specifically looked for an all-in-one platform that offered deep integration and customization capabilities via our open REST API. Provet did just that!"
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- VETERA -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+
+  <div class="section-title vetera-section" style="color:var(--vetera-red); margin-top:64px;">Vetera — Bestätigte Features (DACH)</div>
+  <div class="section-subtitle">10 Screenshots von vetera.net · Zeitraum 11:49–11:50 Uhr</div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Software Funktionen — Menü <span class="screenshot-label">11:49:09</span></h3>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Terminplanung & Ressourcenmanagement</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Kundschaftskommunikation</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Patienten- & Kundenaufzeichnungen</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Bildauftrags- & Archivierungssystem (PACS)</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Anbindung interner & externer Labore</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Lager- & Bestandsverwaltung</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Buchhaltung & Rechnungswesen</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Statistiken & Managementreports</span>
+      <span class="feature-tag" style="background:#FFF0F4; color:var(--vetera-red);">Digitale Funktionen</span>
+    </div>
+    <div class="card">
+      <h3>Digitale Funktionen <span class="screenshot-label">11:49:39</span></h3>
+      <p style="color:var(--muted); font-size:14px; margin-bottom:12px;">Bestätigt via Screenshot — 6 digitale Module:</p>
+      <span class="feature-tag new">Digitales Wartezimmer</span>
+      <span class="feature-tag new">Online-Terminvereinbarung</span>
+      <span class="feature-tag new">Automatisierte digitale Kommunikation</span>
+      <span class="feature-tag new">Video-Sprechstunde</span>
+      <span class="feature-tag new">Digitale Patientenakte</span>
+      <span class="feature-tag new">Geräteanbindung</span>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Kleintierpraxis USPs <span class="screenshot-label">11:50:04</span></h3>
+      <p style="color:var(--muted); font-size:14px; margin-bottom:12px;">"Vetera wächst mit Ihnen und Ihren Anforderungen"</p>
+      <ul style="list-style:none;">
+        <li style="padding:4px 0; padding-left:22px; position:relative;">✅ <strong>Volle Kostenkontrolle ohne versteckte Gebühren</strong></li>
+        <li style="padding:4px 0; padding-left:22px; position:relative;">✅ Schnittstellen kostenfrei aktivierbar</li>
+        <li style="padding:4px 0; padding-left:22px; position:relative;">✅ Frei skalierbar für jede Unternehmensgröße</li>
+        <li style="padding:4px 0; padding-left:22px; position:relative;">✅ Telefonischer Experten-Support</li>
+        <li style="padding:4px 0; padding-left:22px; position:relative;">✅ Finanz- und Datenschutzkonform</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Filialsystem <span class="screenshot-label">11:50:17</span></h3>
+      <p style="font-size:26px; font-weight:700; margin:12px 0;">"Beliebig viele Filialen in nur einer Datenbank"</p>
+      <ul style="list-style:none; font-size:14px;">
+        <li style="padding:3px 0;">✅ Unbegrenzte Filialen / Firmen anlegbar</li>
+        <li style="padding:3px 0;">✅ Alles bleibt auf einer Datenbank</li>
+        <li style="padding:3px 0;">✅ Zentrale und standortübergreifende Datenpflege</li>
+        <li style="padding:3px 0;">✅ Standortspezifische Datenpflege</li>
+        <li style="padding:3px 0;">✅ Echtzeit-Datenübertragung</li>
+      </ul>
+    </div>
+  </div>
+
+
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- WAGGLZ STRATEGIE -->
+  <!-- ═══════════════════════════════════════════════════════════════ -->
+
+  <div class="section-title wagglz-section" style="color:var(--wagglz-blue); margin-top:64px;">Wagglz — Strategische Ableitungen</div>
+  <div class="section-subtitle">Was bedeuten diese Screenshot-Erkenntnisse für Wagglz?</div>
+
+  <div class="alert red">
+    <strong>⚠️ Kritische Erkenntnis: Provet hat bereits Online-Buchung für Tierhalter!</strong><br>
+    Das "Tierhalter-Portal" ist kein Wagglz-Alleinstellungsmerkmal mehr in der Basisfunktion. Wagglz muss deutlich weiter gehen: vollständige Tierhalter-App mit Krankenakte-Zugriff, Nachrichten, Rechnungen, Impfpass — nicht nur Terminbuchung.
+  </div>
+
+  <div class="alert yellow">
+    <strong>⚠️ Preisvergleich: Provet ist teurer als erwartet!</strong><br>
+    Core $99/£99 pro Vet/Monat — eine 5-Vet-Praxis zahlt $495–$645/Monat nur für Core/Pro. Wagglz kann mit einem All-in-One DACH-spezifischen Angebot (GOT inklusive) günstiger und besser positionieren.
+  </div>
+
+  <div class="alert green">
+    <strong>✅ Bestätigte Wagglz-Differenzierer:</strong><br>
+    1. <strong>GOT-Abrechnung nativ</strong> — Provet hat sie nicht, Vetera schon → für DE/AT unverzichtbar<br>
+    2. <strong>DACH-Sprache & Compliance</strong> — Vetera bietet DACH, Provet ist englischsprachig<br>
+    3. <strong>Vollständiges Tierhalter-Portal</strong> (über reine Buchung hinaus) — Krankenakte, Impfpass, Chat<br>
+    4. <strong>Transparentes Pricing</strong> — Provet zeigt erstmals öffentliche Preise; Vetera noch nicht<br>
+    5. <strong>Modernes UX</strong> — Provet-UI hat viele Klicks, Wagglz kann Fantastical-UX bieten
+  </div>
+
+  <h2 class="divider">Vollständiger Feature-Vergleich: Provet vs. Vetera vs. Wagglz</h2>
+
+  <div class="card" style="overflow-x:auto;">
+    <table>
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th style="color:var(--provet-purple);">Provet Cloud</th>
+          <th style="color:var(--vetera-red);">Vetera</th>
+          <th style="color:var(--wagglz-blue);">Wagglz (Ziel)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Terminplanung</strong></td><td><span class="pill yes">✅ inkl. Self-Service</span></td><td><span class="pill yes">✅</span></td><td><span class="pill yes">✅ Fantastical-UX</span></td></tr>
+        <tr><td><strong>Online-Buchung Tierhalter</strong></td><td><span class="pill yes">✅ Core-Feature</span></td><td><span class="pill yes">✅ Online-Terminvereinbarung</span></td><td><span class="pill yes">✅ + App</span></td></tr>
+        <tr><td><strong>GOT-Abrechnung (DE/AT)</strong></td><td><span class="pill no">❌ Fehlt</span></td><td><span class="pill yes">✅ Nativ</span></td><td><span class="pill yes">✅ Core-Feature</span></td></tr>
+        <tr><td><strong>Cloud-nativ / SaaS</strong></td><td><span class="pill yes">✅</span></td><td><span class="pill partial">⚠️ VeteraSky in Entw.</span></td><td><span class="pill yes">✅</span></td></tr>
+        <tr><td><strong>Vollst. Tierhalter-Portal</strong></td><td><span class="pill partial">⚠️ Nur Buchung</span></td><td><span class="pill partial">⚠️ Dig. Patientenakte</span></td><td><span class="pill yes">✅ Vollständig (Core!)</span></td></tr>
+        <tr><td><strong>Krankenakte Tierhalter-Zugriff</strong></td><td><span class="pill no">❌</span></td><td><span class="pill partial">⚠️ Unklar</span></td><td><span class="pill yes">✅</span></td></tr>
+        <tr><td><strong>Laborintegration</strong></td><td><span class="pill yes">✅ Antech + API</span></td><td><span class="pill yes">✅ intern & extern</span></td><td><span class="pill partial">⚠️ Phase 2</span></td></tr>
+        <tr><td><strong>PACS/DICOM Bildarchiv</strong></td><td><span class="pill yes">✅</span></td><td><span class="pill yes">✅</span></td><td><span class="pill partial">⚠️ Phase 2</span></td></tr>
+        <tr><td><strong>AI-Assistenz (Scribe)</strong></td><td><span class="pill yes">✅ AI Scribe (£30 Add-on)</span></td><td><span class="pill no">❌</span></td><td><span class="pill partial">⚠️ Roadmap</span></td></tr>
+        <tr><td><strong>Multi-Site / Filialen</strong></td><td><span class="pill yes">✅ Multi-Location</span></td><td><span class="pill yes">✅ "beliebig viele"</span></td><td><span class="pill yes">✅</span></td></tr>
+        <tr><td><strong>Datenmigration</strong></td><td><span class="pill partial">⚠️ Problematisch</span></td><td><span class="pill yes">✅ Angeboten</span></td><td><span class="pill yes">✅ MUSS angeboten werden</span></td></tr>
+        <tr><td><strong>Transparentes Pricing</strong></td><td><span class="pill yes">✅ Jetzt öffentlich</span></td><td><span class="pill no">❌ Auf Anfrage</span></td><td><span class="pill yes">✅ Öffentlich</span></td></tr>
+        <tr><td><strong>DACH-Sprache</strong></td><td><span class="pill no">❌ Englisch</span></td><td><span class="pill yes">✅ Deutsch</span></td><td><span class="pill yes">✅ Deutsch</span></td></tr>
+        <tr><td><strong>UX-Qualität</strong></td><td><span class="pill partial">⚠️ Viele Klicks</span></td><td><span class="pill partial">⚠️ Desktop-first</span></td><td><span class="pill yes">✅ Fantastical-inspired</span></td></tr>
+        <tr><td><strong>Preis (5-Vet-Praxis)</strong></td><td>$495–645/Monat</td><td>Auf Anfrage</td><td>TBD (günstiger?)</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Sonstige Screenshots -->
+  <h2 class="divider">Weitere Screenshot-Erkenntnisse</h2>
+
+  <div class="grid-2">
+    <div class="card">
+      <h3>Supplement-Bestellung Momentous <span class="screenshot-label">2026-06-20 17:48</span></h3>
+      <p style="color:var(--muted); font-size:14px; margin-bottom:12px;">Oleg's aktiver Warenkorb bei Momentous — bestätigt neuen Supplement Stack:</p>
+      <ul style="list-style:none; font-size:14px;">
+        <li style="padding:4px 0;">• Kreatin-Monohydrat 15.8 oz — €38,95</li>
+        <li style="padding:4px 0;">• Whey Protein Isolat 25 Portionen (Schokolade) — €53,95</li>
+        <li style="padding:4px 0;">• Magnesium L-Threonate 145mg 90 Stk — €44,95</li>
+        <li style="padding:4px 0;">• Grass Fed Collagen Peptides 1.12 lb — €69,95</li>
+      </ul>
+      <p style="margin-top:10px; font-size:13px; color:var(--muted);">→ Wiki [[Supplement Stack]] bestätigt & aktuell</p>
+    </div>
+    <div class="card">
+      <h3>Tech-Setup Oleg <span class="screenshot-label">2026-06-20 15:15 + 09:55</span></h3>
+      <p style="color:var(--muted); font-size:14px; margin-bottom:12px;">Bestätigte Apps & Services:</p>
+      <span class="feature-tag">ProtonVPN (Login-Item)</span>
+      <span class="feature-tag">Raycast (Login-Item)</span>
+      <span class="feature-tag">AdGuard (Background)</span>
+      <span class="feature-tag">Adobe Acrobat DC (Background)</span>
+      <span class="feature-tag">Vercel (Account: Oleg)</span>
+      <p style="margin-top:10px; font-size:13px; color:var(--muted);">Vercel-Account bestätigt mit: Wagglz-Domain, Overview, Billing — Wagglz-App ist auf Vercel deployed</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h3>QMD / Intelligence Hub Status <span class="screenshot-label">2026-06-20 21:24</span></h3>
+    <p style="color:var(--muted); font-size:14px; margin-bottom:12px;">Terminal-Screenshot zeigt aktuellen Stand des Intelligence Hub QMD-Index:</p>
+    <table>
+      <thead><tr><th>Collection</th><th>Dateien</th><th>Update</th></tr></thead>
+      <tbody>
+        <tr><td>hub-wiki</td><td>285</td><td>52 min ago</td></tr>
+        <tr><td>hub-privat</td><td>37</td><td>7 days ago</td></tr>
+        <tr><td>hub-business</td><td>30</td><td>1 day ago</td></tr>
+        <tr><td>hub-outputs</td><td>7</td><td>3h ago</td></tr>
+      </tbody>
+    </table>
+    <p style="margin-top:10px; font-size:13px; color:var(--muted);">239 Embeddings ausstehend · 691 Chunks gesamt · Model: gemma3-300M-GGUF / Qwen3 / query-expansion-1.7B</p>
+  </div>
+
+  <!-- Footer -->
+  <div style="margin-top:48px; padding-top:24px; border-top:1px solid var(--border); text-align:center; color:var(--muted); font-size:13px;">
+    Intelligence Hub · Wagglz Competitive Intelligence · 2026-06-21<br>
+    Quellen: 103 Screenshots Archiv.zip (provet.com) + 10 Screenshots Archiv Kopie.zip (vetera.net)
+  </div>
+
+</div>
+</body>
+</html>

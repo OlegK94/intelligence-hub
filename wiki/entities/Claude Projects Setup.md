@@ -5,44 +5,44 @@ tags: [AI, claude, anthropic, productivity, knowledge-management, LLM, projects,
 sources: ["raw/00-MOC/MOC Tech & Setup.md", "raw/Privat/Tech/Claude Projects Setup.md"]
 created: 2026-06-13
 updated: 2026-06-07
-summary: Oleg's fully configured Claude AI Projects setup — 7 projects spanning creative, strategy, tech, performance, and café domains; context-driven vs task-driven distinction; global German-language output preference and no-code tech stack
+summary: Olegs vollständig konfiguriertes Claude-AI-Projects-Setup — 7 Projekte aus den Bereichen Creative, Strategie, Tech, Performance und Café; Unterscheidung zwischen kontext- und aufgabengetriebenen Projekten; globale Einstellung für deutschsprachige Ausgaben und No-Code-Technologiestack
 ---
 
 # Claude Projects Setup
 
-## Overview
+## Überblick
 
-**Claude Projects** is [[Oleg Personal Context|Oleg]]'s primary structured AI configuration within Anthropic's Claude platform. As of June 2026, the setup comprises **7 active projects**, each with a defined role, instruction schema, and output standard.
+**Claude Projects** ist [[Oleg Personal Context|Olegs]] primäre strukturierte KI-Konfiguration innerhalb der Claude-Plattform von Anthropic. Stand Juni 2026 umfasst das Setup **7 aktive Projekte**, jedes mit einer definierten Rolle, einem Instruktionsschema und einem Ausgabestandard.
 
-> For full configuration detail, instruction schema, and global preferences, see [[Claude Projects Setup Source Detail]].
+> Für vollständige Konfigurationsdetails, Instruktionsschema und globale Einstellungen siehe [[Claude Projects Setup Source Detail]].
 
-## Project Map (7 Projects)
+## Projektübersicht (7 Projekte)
 
 | Projekt | Typ | Rolle |
 |---|---|---|
-| Creative & Brand | Task-driven | Creative Director + Brand Strategist |
+| Creative & Brand | Task-driven | Creative Director + Brand Stratege |
 | Performance & Leben | Context-driven | Elite Performance Coach + Life Advisor |
-| Texte & Kommunikation | Task-driven | Senior Communication Strategist |
+| Texte & Kommunikation | Task-driven | Senior Communication Stratege |
 | Research & Analyse | Task-driven | World-Class Analyst |
-| Tech & Code | Task-driven | Senior Solution Architect (No-Code only) |
+| Tech & Code | Task-driven | Senior Solution Architect (nur No-Code) |
 | Strategie & Business | Task-driven | Elite Stratege + Operator |
 | Café | Context-driven | Gastro-Entrepreneur + Business Builder |
 
-## Key Design Distinction
+## Wesentliche Designunterscheidung
 
-### Context-driven Projects
-- **Café** and **Performance & Leben**
-- Accumulate context over time — persistent state across sessions
-- Mirror ongoing, multi-month workstreams: [[Café Berlin Partnership Hai]] and [[Health Protocol Master]]
+### Kontextgetriebene Projekte
+- **Café** und **Performance & Leben**
+- Akkumulieren Kontext über die Zeit — persistenter Zustand über Sitzungen hinweg
+- Spiegeln laufende, mehrmonatige Workstreams wider: [[Café Berlin Partnership Hai]] und [[Health Protocol Master]]
 
-### Task-driven Projects
-- All other 5 projects
-- Deliverable-oriented — minimal persistent state
-- Used for discrete outputs: analysis, communications, tech builds, strategy documents
+### Aufgabengetriebene Projekte
+- Alle anderen 5 Projekte
+- Ergebnisorientiert — minimaler persistenter Zustand
+- Eingesetzt für klar abgegrenzte Outputs: Analysen, Kommunikation, Tech-Builds, Strategiedokumente
 
-## Instruction Schema (All Projects)
+## Instruktionsschema (alle Projekte)
 
-Every project instruction follows a standardized 6-part structure:
+Jede Projektinstruktion folgt einer standardisierten 6-teiligen Struktur:
 1. Zweck (Purpose)
 2. Kontext (Context)
 3. Fokus (Focus)
@@ -50,39 +50,39 @@ Every project instruction follows a standardized 6-part structure:
 5. Output-Standard (Deliverable quality)
 6. Nie (Explicit prohibitions)
 
-## Global Preferences (Cross-Project)
+## Globale Einstellungen (projektübergreifend)
 
-- **Deutsch always** — regardless of input language
-- Direkt, präzise — no consulting-speak
+- **Deutsch immer** — unabhängig von der Eingabesprache
+- Direkt, präzise — kein Consulting-Speak
 - Vollständige, sofort verwendbare Deliverables
-- No neutral summaries
-- No prompt-echo introductions
-- Assumptions always explicitly marked
+- Keine neutralen Zusammenfassungen
+- Keine Prompt-Echo-Einleitungen
+- Annahmen werden stets explizit markiert
 
 ## Tech Stack (No-Code / DoktorLib)
 
 [[Make]] · [[Tally]] · [[Notion]] · [[Salesforce]] · [[Dust Agent]]
 
-This stack directly supports [[DoktorLib Automation Pipeline]] (the active no-code build project) and general knowledge work.
+Dieser Stack unterstützt direkt die [[DoktorLib Automation Pipeline]] (das aktive No-Code-Bauprojekt) sowie die allgemeine Wissensarbeit.
 
-## Alignment with Wiki Architecture
+## Ausrichtung an der Wiki-Architektur
 
-The Claude Projects configuration reflects and supports this wiki:
-- The **"sofort verwendbar"** output standard mirrors the wiki's entity/source page structure
-- The **"Annahmen explizit markieren"** preference matches `⚠️ Assumption [A]` callouts throughout the wiki
-- The **Café** context-driven project corresponds exactly to the Priority 1 strategic workstream
-- The **Tech & Code** project (No-Code only) directly serves the [[DoktorLib Automation Pipeline]] build
+Die Claude-Projects-Konfiguration spiegelt dieses Wiki wider und unterstützt es:
+- Der **„sofort verwendbar"**-Ausgabestandard entspricht der Entity-/Source-Page-Struktur des Wikis
+- Die Einstellung **„Annahmen explizit markieren"** korrespondiert mit den `⚠️ Assumption [A]`-Callouts im gesamten Wiki
+- Das **Café**-Kontextprojekt entspricht exakt dem strategischen Workstream mit Priorität 1
+- Das **Tech & Code**-Projekt (nur No-Code) dient direkt dem Aufbau der [[DoktorLib Automation Pipeline]]
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Claude Projects Setup Source Detail]] — full source document
-- [[MOC Tech und Setup]] — parent MOC
-- [[Oleg Personal Context]] — vault owner and Claude user
-- [[Café Berlin Partnership Hai]] — Café (context-driven) project domain
-- [[Health Protocol Master]] — Performance & Leben (context-driven) project domain
-- [[DoktorLib Automation Pipeline]] — Tech & Code + Strategie & Business project domain
-- [[Dust Agent]] — AI tool in stack (comparison: both Dust and Claude are AI tools in Oleg's stack)
-- [[Make]] — automation tool
-- [[Tally]] — form tool
-- [[Notion]] — knowledge management tool
-- [[Salesforce]] — CRM tool
+- [[Claude Projects Setup Source Detail]] — vollständiges Quelldokument
+- [[MOC Tech und Setup]] — übergeordnetes MOC
+- [[Oleg Personal Context]] — Wiki-Eigentümer und Claude-Nutzer
+- [[Café Berlin Partnership Hai]] — Projektdomäne Café (kontextgetrieben)
+- [[Health Protocol Master]] — Projektdomäne Performance & Leben (kontextgetrieben)
+- [[DoktorLib Automation Pipeline]] — Projektdomäne Tech & Code + Strategie & Business
+- [[Dust Agent]] — KI-Tool im Stack (Vergleich: sowohl Dust als auch Claude sind KI-Tools in Olegs Stack)
+- [[Make]] — Automatisierungstool
+- [[Tally]] — Formulartool
+- [[Notion]] — Wissensmanagement-Tool
+- [[Salesforce]] — CRM-Tool

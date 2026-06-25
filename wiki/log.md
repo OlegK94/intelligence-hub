@@ -2,13 +2,58 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-21] query | Vetera + DACH Veterinär-Software-Markt
+
+- Kernfakt: Vetera (1989, Eltville am Rhein) = DACH-Marktführer mit 18.000+ Nutzern
+- Nordhealth kaufte Vetera Juni 2022 für €8,36M → gleicher Eigentümer wie Provet Cloud
+- DACH-Rangfolge: Vetera ~55%, easyVET ~20%, IDEXX Animana ~12%, Provet ~8%
+- Vetera-Stärken: GOT-Abrechnung nativ, alle Schnittstellen kostenlos, lebenslanger Support, Schulung vor Ort
+- Vetera-Schwächen: kein Cloud-native (VeteraSky in Entwicklung), veraltete UX, kein Tierhalter-Portal
+- Wagglz kritische Pflicht erkannt: Vetera-Datenmigration/-Import muss angeboten werden
+- Go-To-Market-Empfehlung: Neugründungen + junge Tierärzte, dann Bestandsmigration
+- Entität erstellt: [[Vetera]]
+- Output: `outputs/notes/2026-06-21-vetera-dach-analysis.html`
+- IMGs 3342-3344 = LinkedIn-Screenshots (nicht Provet-UI): #3342 = VetSoftwareHub Top-10 (Provet #1), #3343+3344 = Longevity-Peptide-Post
+
+## [2026-06-21] query | Provet Cloud Deep Research
+
+- Quellen: 5 Web-Suchen, provet.com (geblockt), Review-Aggregatoren, LinkedIn-Screenshot IMG_3342.PNG
+- Kernfakten: #1 VetSoftwareHub, 3.000+ Kliniken, 45+ Länder, 55.000+ Vets, ~$60M Umsatz (Nordhealth)
+- Gegründet: 2001 Nordhealth Helsinki; Provet erworben ~2005; 90% FI-Marktanteil 2014
+- Preise: ab €25/User/Monat (Optimise/Elevate/Enterprise)
+- AI Suite lanciert Aug 2025: AI Scribe + Patient History Summary + AI Discharge Instructions
+- Stärken: GDPR-EU, Open REST API, 150+ Integrationen, Multi-Site
+- Schwächen: UX (viele Klicks), Support-Backline, Datenmigration, kein GOT
+- Wagglz-Chancen: GOT-Pflicht DE/AT (kein Konkurrent hat das), UX-Vorteil, Tierhalter-Portal, transparentes Pricing
+- Entität erstellt: [[Provet-Cloud]]
+- Output: `outputs/notes/2026-06-21-provet-cloud-analysis.html`
+
+## [2026-06-21] ingest | Index + Log update — Provet-Cloud & Vetera entities
+
+- Wiki-Index aktualisiert: [[Provet Cloud]], [[Vetera]], [[Nordhealth]] eingetragen (updated 2026-06-21)
+- Supplement Stack raw/inbox Update 2026-06-20 bestätigt als bereits abgedeckt (wiki-Eintrag existiert, updated 2026-06-20)
+- Alle raw/inbox-Dateien geprüft: keine neuen Duplikate; alle relevanten Inhalte bereits in wiki/ representiert
+- Keine unverarbeiteten Dateien im raw/ gefunden (Archiv.zip noch nicht auf Server; Intelligence-Hub-Unterordner existiert nicht auf Server)
+
+## [2026-06-21] query | Wagglz Asset- & Wettbewerbs-Analyse
+
+- Analysiert: 19 Screenshots aus `raw/assets/wagglz-tier/7RI3XqEc3RR6znirkakZcm/`, 6 WhatsApp App-Fotos (ZIP), SVG-Logomark
+- Brand-Erkenntnisse: Farben #2E54CB (Blue), #CCFFB0 (Lime), #A6A6FF (Lavender); Font Poppins; alter Produktname war "Wufflz"
+- Onboarding-Wireframes: 6-Schritt-Wizard vollständig analysiert (Business Info → Kontakt → Veterinär → Betrieb → Technik → Mitarbeiter)
+- 14 Fachbereiche für Department-Multiselect extrahiert (a4-1.png)
+- Wettbewerber identifiziert: Rex (Direktkonkurrenz), Doctolib (Referenz), Rover, PetLEO, Hundeo, Dogorama, Tractive GPS, PetBacker, Dog Walk, Walkies, Dog Assistant
+- Design-Inspiration: Fantastical-App (Kalender), Defcon Systems (Wochenraster)
+- ZIP-Inhalt: vollständiges Brand-Kit + Pitch Deck + Investoren-Präsentation + Design Concept PDF (6.3 MB, noch nicht gelesen)
+- Output: `outputs/notes/2026-06-21-wagglz-competitive-analysis.html`
+- TODO: Design_Concept.pdf analysieren · Investoren-Präsentation lesen · Poppins + Brand-Farben in App einbinden
+
 ## [2026-06-13] setup | LLM Wiki initialized
 
 - Created Karpathy-style schema (CLAUDE.md), tools, and directory structure.
 - Ready to ingest first source from `raw/inbox/` or any path under `raw/`.
 
 ## [2026-06-13 09:45 UTC] ingest | raw/Privat/Performance/Health Protocol — Master.md
-- Pages: [[wikisourceshealth-protocol-master.md]], [[wikientitiesandrew-huberman.md]], [[wikientitiesrhonda-patrick.md]], [[wikientitiesbryan-johnson.md]], [[wikiconceptshiit-training.md]], [[wikiconceptszone-2-cardio.md]], [[wikiconceptsnsdr.md]], [[wikiconcepts3d-body-scan.md]], [[wikiconceptssauna.md]], [[wikiconceptssupplement-stack.md]], [[wikientitiesalpha-gpc.md]], [[wikientitiesl-tyrosine.md]], [[index.md]]
+- Pages: [[Health Protocol Master]], [[Andrew Huberman]], [[Rhonda Patrick]], [[Bryan Johnson]], [[Hiit Training]], [[Zone 2 Cardio]], [[Nsdr]], [[3d Body Scan]], [[Sauna]], [[Supplement Stack]], [[Alpha Gpc]], [[L Tyrosine]], [[index.md]]
 - Ingested comprehensive health optimization protocol with baseline 3D body scan metrics, 6-day training split, nutrition plan, and daily structure. Created source page plus 10 entity/concept pages covering key experts (Huberman, Patrick, Johnson), training methods (HIIT, Zone 2), recovery protocols (NSDR, Sauna), supplements (Alpha-GPC, L-Tyrosine), and assessment methods (3D body scanning). All pages extensively cross-linked with Obsidian wikilinks.
 
 ## [2026-06-13 09:48 UTC] ingest | Clippings/Andrew Huberman.md
@@ -149,3 +194,349 @@ Contradiction noted: Health Protocol Master source states 15% body fat goal; raw
 ## [2026-06-13 16:46 UTC] ingest | raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md
 - Pages: [[OK Capital Finom 2026]], [[OK Capital UG]]
 - Ingested raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md. Created 2 new pages: (1) sources/OK Capital Finom 2026 — source summary page with full account detail, recurring costs (WestX 23,50 €/Mo + Google 8,10 €/Mo), and Oleg Darlehen 100 € (01.03.2026); (2) entities/OK Capital UG — new entity page for the UG business entity, cross-referencing existing Oleg Business Entity Structure wiki knowledge. Flagged potential contradiction: source references GmbH as 'ruhend' in Café Berlin Planning Detail context, but the UG (not GmbH) is the formally dormant entity per existing wiki — added ⚠️ Assumption [A] callout on OK Capital UG page. Also flagged that zero saldo + active 31,60 €/Mo costs suggests entity is operationally minimal but not fully dormant. Updated index.md with both new pages in their respective sections.
+
+## [2026-06-15 12:00] write | raw/Business/PerformanceCafe/research/01_longevity_science.md
+- Created/updated: [[Longevity Science Grundlagen]]
+- Notes: Modul 0 vollständig ausgearbeitet (280+ Zeilen). Abgedeckt: 12 Hallmarks of Aging (López-Otín 2023) mit Adressierbarkeits-Matrix, Kaffee als Longevity-Substanz (Chlorogensäure AMPK-Mechanismus, Trigonellin als NAD+-Vorstufe nach Nature Metabolism 2024, Cafestol/Kahweol LDL-Kontraindikation, Epidemiologie J-Kurve mit BMJ 2017 Metaanalyse n=3,8 Mio.), Biomarker-Profil (hs-CRP, HbA1c, ApoB, NAD+, IGF-1) mit DTC-Anbietern in DACH (Cerascreen, Lykon, Sanitas Health). Status in CLAUDE.md auf ✅ abgeschlossen gesetzt.
+
+## [2026-06-15 12:00] ingest | raw/Business/Wagglz/Wagglz GmbH.md + Wagglz GmbH — Finance Vault.md
+- Created/updated: [[Wagglz]]
+- Notes: Neue Entity-Seite wiki/entities/Wagglz.md erstellt. Abdeckt: Stammdaten (100% OK Capital UG, GF Oleg Kober), Kapitalstruktur (VW-Bank-Kredit → Crypto → GmbH), Finanzlage (0 € Umsatz 2026, 27.926,89 € Fehlbetrag, §19 InsO Überschuldung, Rangrücktritt noch nicht unterschrieben), laufende Kosten, monatliche Gesellschafterdarlehen 2026 (~2.170 €), strategische Optionen (Weiterführung / Auflösung §17 EStG / Dormancy), offene kritische Punkte. Wikilinks zu [[OK Capital UG]], [[Insolvenzprüfung]], [[Gesellschafterdarlehen]], [[Oleg Business Entity Structure]].
+
+## [2026-06-15 12:00] edit | raw/Business/PerformanceCafe/CLAUDE.md
+- Notes: Umbenennung "Performance Café" → "Performance Coffee Brand" (Aufgabe 3). Produktname-Feld aktualisiert auf "Performance Coffee Brand (Arbeitstitel)". Datum auf 2026-06-15 aktualisiert. Modul-0-Status auf ✅ abgeschlossen gesetzt.
+
+## [2026-06-15 17:10 UTC] ingest | raw/Business/OK-Capital/OK Capital UG.md
+- Pages: [[OK Capital UG]], [[OK Capital UG Source Detail]], [[Wagglz GmbH]], [[Oleg Business Entity Structure]]
+- Ingested raw/Business/OK-Capital/OK Capital UG.md. Created 4 new pages: (1) OK Capital UG [entity] — holding company detail, 31.60 €/Mo costs, 0.00 € balance, 100 € shareholder loan, two-tier structure diagram; (2) OK Capital UG Source Detail [source] — raw source summary; (3) Wagglz GmbH [entity] — new entity page for the operational subsidiary (previously only implied in wiki); (4) Updated Oleg Business Entity Structure [entity] — reconciled the previously ambiguous 'active GmbH + dormant UG' description with the now-confirmed structure (OK Capital UG = holding, Wagglz GmbH = operativ subsidiary of UG). Key contradiction resolved: earlier wiki pages described a 'dormant UG' but OK Capital UG is actively incurring costs as a holding — 'dormant' referred to absence of trading activity, not legal dormancy. Flagged ongoing tension with Café Berlin Planning Detail reference to 'GmbH (Oleg, ruhend)' — best interpretation is Wagglz GmbH not yet deployed for café, not formally dormant. Index updated with OK Capital UG, Wagglz GmbH, and Oleg Business Entity Structure entries; source entry added for OK Capital UG Source Detail.
+
+## [2026-06-15 17:42 UTC] ingest | raw/Business/OK-Capital/Rangrücktritt §15a InsO.md
+- Pages: [[Rangrücktritt §15a InsO Source Detail]], [[Rangrücktritt §15a InsO]], [[Wagglz GmbH]]
+- Ingested raw/Business/OK-Capital/Rangrücktritt §15a InsO.md. Created 3 new wiki pages: (1) 'Rangrücktritt §15a InsO Source Detail' (source) — full legal mechanism documentation for the P0 subordination declaration, including §15a/§19 InsO chain, Überschuldung of 27,926.89 €, criminal liability risk, and 2026-06-15 signature deadline; (2) 'Rangrücktritt §15a InsO' (entity) — summary entity page with legal chain diagram and urgency note; (3) 'Wagglz GmbH' (entity) — new company entity under OK-Capital umbrella, flagging assumption that it is distinct from Oleg's primary GmbH in Oleg Business Entity Structure. Added cross-links throughout to Oleg Personal Context, Oleg Business Entity Structure, and P0 Sofort. Updated index.md: added Wagglz GmbH under Entities/Companies, Rangrücktritt §15a InsO under Entities/Projects, and Rangrücktritt §15a InsO Source Detail under Sources/Business & Strategy. No contradictions with existing wiki detected — this is entirely new territory (OK-Capital / Wagglz domain not previously documented).
+
+## [2026-06-15 17:48 UTC] ingest | raw/Business/PerformanceCafe/CLAUDE.md
+- Pages: [[Performance Coffee Brand CLAUDE Project Context]], [[Performance Coffee Brand]], [[NMN]], [[Urolithin A]], [[Trigonellin]], [[Chlorogenic Acid]], [[Longevity Stack Ingredients]], [[Kölner Liste]], [[Oleg Personal Context]], [[Bryan Johnson]]
+- Ingested raw/Business/PerformanceCafe/CLAUDE.md. Created 8 new articles: (1) source page 'Performance Coffee Brand CLAUDE Project Context' capturing the full CLAUDE.md; (2) entity page 'Performance Coffee Brand' summarizing the startup concept, white space, segments, stack, and regulatory blockers; (3) concept page 'NMN' covering NAD+ pathway, trigonellin connection, and EU Novel Food blocker; (4) concept page 'Urolithin A' covering mitophagy mechanism and Amazentis/Mitopure patent barrier; (5) concept page 'Trigonellin' covering the 2024 NMN-precursor discovery and roast optimization; (6) concept page 'Chlorogenic Acid' covering AMPK activation and Vietnamese Robusta optimization; (7) concept page 'Longevity Stack Ingredients' mapping all proposed ingredients with regulatory/IP status; (8) concept page 'Kölner Liste' covering DACH anti-doping certification relevance. Updated 'Bryan Johnson' entity to add coffee-removal white space detail and Performance Coffee Brand connection. Updated 'Oleg Personal Context' entity to add Performance Coffee Brand as a business venture and incorporate the Doctolib/Hyrox athlete/biohacker framing from the CLAUDE.md. Updated index.md with new entries under Entities (Performance Coffee Brand), Concepts (Trigonellin, Chlorogenic Acid, Longevity Stack Ingredients, Kölner Liste, NMN, Urolithin A), and Sources (Performance Coffee Brand CLAUDE Project Context). No contradictions with existing wiki content found — the Performance Coffee Brand is a new project not previously represented. Note: Daily Protocol Checklist already contained a [[Performance Coffee]] wikilink confirming this project was anticipated in prior wiki content.
+
+## [2026-06-15 19:17 UTC] ingest | raw/Business/PerformanceCafe/README.md
+- Pages: [[Performance Cafe README Project Setup]], [[Performance Coffee Brand]], [[EU Novel Food Regulation]], [[Amazentis]], [[Chromadex Niagen Bioscience]], [[Kölner Liste]], [[NAC]], [[Spermidine]]
+- Ingested raw/Business/PerformanceCafe/README.md. Created 7 new articles: (1) Performance Cafe README Project Setup [source] — project setup, toolchain, module priority order, critical blockers; (2) Performance Coffee Brand [entity] — updated/created full entity page for the longevity coffee brand concept, consolidating README + CLAUDE.md context (CLAUDE.md was already referenced in existing Bryan Johnson and Chlorogenic Acid pages, confirming this brand concept existed partially in wiki); (3) EU Novel Food Regulation [concept] — EU 2015/2283 framework; blocks NMN, Urolithin A, Spermidine; (4) Amazentis [entity] — Swiss biotech holding Urolithin A patents (MITOPURE) and Novel Food authorization; IP blocker; (5) Chromadex [entity] — US biotech holding NR/NMN-adjacent patents (Tru Niagen); parallel IP blocker; (6) Kölner Liste [concept] — German anti-doping certification roadmap for Performance Café CMO selection; (7) NAC [concept] — N-Acetyl Cysteine; glutathione precursor; sulfurous odor formulation challenge; (8) Spermidine [concept] — polyamine autophagy inducer; EU Novel Food status unclear. Updated index.md with all new entries under appropriate categories. Existing Bryan Johnson page already referenced Performance Coffee Brand and CLAUDE.md — no contradictions found. Existing Chlorogenic Acid page already referenced Performance Coffee Brand CLAUDE Project Context. The Performance Coffee Brand entity page was newly created as a proper full entity page (prior wiki only had concept-level references scattered in Bryan Johnson and Chlorogenic Acid pages). NMN and Urolithin A pages are referenced but not yet in wiki — flagged for future creation via wikilinks.
+
+## [2026-06-15 19:24 UTC] ingest | raw/Business/PerformanceCafe/TODO.md
+- Pages: [[Performance Coffee Brand TODO Master]], [[Performance Coffee Brand]], [[Wagglz GmbH]], [[Hai]], [[NMN]], [[Urolithin A]], [[Trigonellin]], [[Longevity Stack Ingredients]], [[EUIPO Trademark Registration]], [[Kölner Liste]]
+- Ingested raw/Business/PerformanceCafe/TODO.md. Created 8 new articles:
+
+1. **Performance Coffee Brand TODO Master** (source) — Full task list source document for all phases (0–4+) with budget breakdown, regulatory blockers, brand naming candidates (AEVUM/KOLVR/ORVYN), CMO tasks, and go-to-market strategy.
+
+2. **Performance Coffee Brand** (entity) — Updated/created comprehensive entity page integrating TODO.md data with existing CLAUDE.md/README.md knowledge; covers product concept, Tier-1/Tier-2 stacks, regulatory blockers, go-to-market, pricing, certifications roadmap, and phase timeline. Flagged new risk: Hai's dual-venture bandwidth (Café Berlin + Performance Coffee simultaneously).
+
+3. **Wagglz GmbH** (entity) — New entity page for the operating vehicle; documents reactivation requirements, ownership structure, and open question about relationship to Oleg's personal GmbH/UG structure.
+
+4. **Hai** (entity) — Expanded from existing partial references; now documents dual-venture role (Café Berlin + Performance Coffee Brand), 50% Gesellschafter status in Wagglz GmbH, and flagged bandwidth risk.
+
+5. **NMN** (concept) — New dedicated concept page covering NAD+ mechanism, EU Novel Food blocker status, Chromadex IP overlap, decision tree with Trigonellin fallback, and stack tier placement.
+
+6. **Urolithin A** (concept) — New dedicated concept page covering mitophagy mechanism, Amazentis dual barrier (patent + Novel Food), decision options, and Tier-2 deferral rationale.
+
+7. **Trigonellin** (concept) — New concept page covering NAD+ precursor pathway, roast sensitivity, and strategic role as natural NMN fallback if EU approval is denied.
+
+8. **Longevity Stack Ingredients** (concept) — Comprehensive Tier-1 / Tier-2 ingredient framework with regulatory status, NAD+ pathway strategy, and formulation challenges (NAC odor, Curcumin solubility).
+
+9. **EUIPO Trademark Registration** (concept) — New concept covering EU trademark process, Nice Classes 30+5, cost (~1.000€), and pre-launch timing requirement.
+
+10. **Kölner Liste** (concept) — New concept covering German anti-doping certification; MVP standard for DACH market; progression to Informed Sport and NSF.
+
+Index updated with all new entries properly categorized. No contradictions found with existing wiki content — the TODO.md is consistent with the CLAUDE.md and README.md already ingested (Amazentis, Chromadex, Bryan Johnson entries remain valid). New risk flagged: Hai simultaneously co-founding Café Berlin (Priority 1) and Performance Coffee Brand — bandwidth not addressed in any source document.
+
+## [2026-06-15 19:32 UTC] ingest | raw/Business/PerformanceCafe/brand/positioning.md
+- Pages: [[Performance Coffee Brand Positioning]], [[Performance Coffee Brand]], [[Rhonda Patrick]], [[Peter Attia]], [[Competitive Landscape Performance Coffee]]
+- Ingested raw/Business/PerformanceCafe/brand/positioning.md (status: fertig, date: 2026-06-15).
+
+New pages created:
+1. **Performance Coffee Brand Positioning** (source) — Full brand positioning document: tagline 'Perform now. Live longer.', 3 segments (Athlete/Executive/Biohacker), brand voice rules, 5-competitor differentiation matrix, pricing story at 3.49€/sachet, visual identity (matte off-white + amber, 30×110mm stick-pack), 3-phase launch messaging sequence. Includes regulatory notes on EFSA 'Anti-Aging' prohibition and pharmaceutical law claim restrictions.
+2. **Performance Coffee Brand** (entity) — Updated/created comprehensive entity page consolidating all known information about the startup concept; added brand positioning section, competitive matrix, document status tracker, founder-market fit section. Previously existed as entity in sources (README/CLAUDE) but now has its own dedicated entity page with full positioning context.
+3. **Rhonda Patrick** (entity) — New entity page; referenced in positioning document as Segment 3 biohacker influencer; connected to Huberman Lab episode already in wiki and to Oleg's sulforaphane use in Daily Protocol Checklist.
+4. **Peter Attia** (entity) — New entity page; referenced as Segment 3 biohacker influencer; connected to NMN and longevity ingredient discussions.
+5. **Competitive Landscape Performance Coffee** (comparison) — New comparison page; structured competitor profiles for Blueprint, Four Sigmatic, RYZE, MUD\WTR, Timeline Mitopure; positioning matrix visualization; pricing comparison table; strategic conclusion with risk factors.
+
+Index updated with all new pages in appropriate categories. Existing entity [[Bryan Johnson]] already had the blueprint/coffee white-space context from prior ingestion — no contradiction.
+
+Notable cross-links: Amazentis appears as BOTH competitor (Timeline Mitopure) AND IP blocker — flagged in Competitive Landscape page. The positioning doc references internal files (naming_brief, marktanalyse, business_case) not yet ingested — noted in source page.
+
+No contradictions found with existing wiki content.
+
+## [2026-06-15 19:34 UTC] ingest | raw/Business/PerformanceCafe/hai-fragen.md
+- Pages: [[Fragen an Hai Performance Coffee Brand]], [[Hai]], [[Performance Coffee Brand]]
+- Ingested raw/Business/PerformanceCafe/hai-fragen.md. Created 3 new pages: (1) source page 'Fragen an Hai Performance Coffee Brand' — full structured analysis of the due-diligence questionnaire with significance notes per section; (2) entity page 'Hai' — consolidated from all sources (café partnership + coffee brand), now includes all open questions from the questionnaire and dual-venture involvement note; (3) updated entity page 'Performance Coffee Brand' — added candidate brand names (AEVUM, KOLVR, ORVYN), Phase 0-1 budget (5-8k EUR 50/50), vesting structure (4yr/1yr cliff), Blueprint transparency strategy, updated co-founder section. Two contradictions flagged: (a) questionnaire references both 'UG-Gründungskosten' (new UG) and 'Wagglz GmbH als operative Einheit' (existing GmbH) as legal entity options — both remain open, no decision made; (b) Hai's role spans both café and coffee brand simultaneously — capacity risk noted. Index updated with new source entry and Hai entity entry; Performance Coffee Brand updated with brand name candidates.
+
+## [2026-06-15 19:39 UTC] ingest | raw/Business/PerformanceCafe/hai-onepager.md
+- Pages: [[Performance Coffee Brand Hai Onepager]], [[Performance Coffee Brand]], [[Hai]], [[Wagglz GmbH]], [[OK Capital Holding]], [[Taurin]], [[Lion's Mane]], [[Ashwagandha KSM-66]]
+- Ingested raw/Business/PerformanceCafe/hai-onepager.md. Created 6 new pages: (1) Performance Coffee Brand Hai Onepager [source] — full source detail with Tier-1 stack, market numbers, GTM, budget, and legal structure; (2) Performance Coffee Brand [entity] — updated/created master entity page consolidating all three Performance Cafe sources; (3) Hai [entity] — person page for co-founder appearing in both café and coffee ventures; (4) Wagglz GmbH [entity] — operating vehicle for Performance Coffee; (5) OK Capital Holding [entity] — IP holding entity; (6) Taurin [concept] — Tier-1 ingredient with Science 2023 longevity reference. Also created Lion's Mane [concept] and Ashwagandha KSM-66 [concept] as new ingredient pages introduced by this source. Updated index.md with all new pages categorized. Key new information: brand name candidates AEVUM/KOLVR/ORVYN (first appearance in wiki); 77% contribution margin at Tier-1; 130 boxes/month break-even; Hyrox GTM channel with 8,500 participants/event figure; explicit Tier-1 vs Tier-2 stack split logic (Tier-1 = no Novel Food/IP issues, Tier-2 = deferred). One potential contradiction flagged: Wagglz GmbH identity relative to Oleg's existing GmbH in Oleg Business Entity Structure is ambiguous.
+
+## [2026-06-15 19:42 UTC] ingest | raw/Business/PerformanceCafe/legal/entity_structure.md
+- Pages: [[Performance Coffee Brand Entity Structure Source Detail]], [[OK Capital]], [[Performance Coffee Brand Legal and Entity Structure]], [[Hai]], [[Performance Coffee Brand AEVUM Naming]], [[Wagglz]]
+- Ingested raw/Business/PerformanceCafe/legal/entity_structure.md. Created 5 new wiki pages:
+
+1. **Performance Coffee Brand Entity Structure Source Detail** (source) — Full source document ingestion: UG→GmbH roadmap, 50/50 Oleg+Hai structure under OK Capital, 4-year vesting with 1-year cliff, deadlock clauses, IP separation at holding level (4–6% license fees), EUIPO trademark plan for Classes 30+5, AEVUM as top name candidate.
+
+2. **OK Capital** (entity) — New entity page for Oleg's existing holding company; documents portfolio (Wagglz + planned Performance Coffee Brand), Phase 2 IP structure with 95% tax-free inter-company dividends (§ 8b KStG), and cross-references to Cyprus Relocation complexity. Flagged contradiction with Café Berlin source that refers to 'GmbH (Oleg, ruhend)' — best interpretation documented.
+
+3. **Performance Coffee Brand Legal and Entity Structure** (entity) — Structured summary of all legal/corporate decisions: phase roadmap, partnership terms, role split table, EUIPO strategy.
+
+4. **Hai** (entity) — Consolidated Hai's role across BOTH ventures (Performance Coffee Brand 50/50 + Café Berlin partnership). Previously Hai appeared as a reference in other pages but had no dedicated entity page. Now documents confirmed contributions, role splits in both ventures, vesting terms, and flags the concentration risk of two simultaneous ventures with the same partner.
+
+5. **Performance Coffee Brand AEVUM Naming** (entity) — Dedicated page for brand name candidates; AEVUM etymology and trademark fit analysis, Kolvr/Orvyn alternatives, EUIPO research status.
+
+6. **Wagglz** (entity) — Stub entity page for existing OK Capital subsidiary mentioned in corporate structure; documents the gap in available information.
+
+Key contradiction noted: The Café Berlin Planning Detail references 'GmbH (Oleg, ruhend)' as potential café operator, but the Performance Coffee Brand entity structure shows OK Capital as the active holding with Wagglz and Performance Coffee Brand beneath it. The Oleg Business Entity Structure page identifies GmbH=active, UG=dormant. This three-way inconsistency is documented in both OK Capital and Performance Coffee Brand Entity Structure Source Detail pages.
+
+Index updated with all new pages plus reorganized for completeness; Hai moved from implicit reference to explicit entity listing.
+
+## [2026-06-15 19:51 UTC] ingest | raw/Business/PerformanceCafe/ops/certification_roadmap.md
+- Pages: [[Performance Coffee Brand Certification Roadmap Source Detail]], [[Kölner Liste]], [[Informed Sport]], [[NSF Certified for Sport]], [[NEM Konformität]], [[EFSA Health Claims]], [[Certification Roadmap Performance Coffee Brand]]
+- Ingested raw/Business/PerformanceCafe/ops/certification_roadmap.md. Created 6 new pages: (1) Performance Coffee Brand Certification Roadmap Source Detail [source] — full ops document mapping 3-tier certification strategy with costs, timelines, and processes; (2) Kölner Liste [entity] — German athlete supplement certification, DACH MVP tier for Performance Coffee Brand; (3) Informed Sport [entity] — LGC Group pan-European per-batch certification, scale tier; (4) NSF Certified for Sport [entity] — US gold standard certification, US expansion tier; (5) NEM Konformität [concept] — mandatory EU/DACH food law compliance framework covering LMIV labeling, Novel Food checks (NMN, Urolithin A), and EFSA health claims; (6) EFSA Health Claims [concept] — EU health claims regulation, what is permitted vs. forbidden, Blueprint transparency strategy as compliant alternative. Also created (7) Certification Roadmap Performance Coffee Brand [synthesis] — maps all three tiers plus mandatory compliance to business phases, costs, and dependencies. Key cross-links added to existing entities: Performance Coffee Brand, Amazentis (Urolithin A Novel Food), Chromadex (NMN IP), NMN, Urolithin A, Bryan Johnson (Blueprint strategy), EU Novel Food Regulation. Important finding documented in NEM Konformität: both NMN and Urolithin A face regulatory/IP blockers (Novel Food + patent) that could prevent their use in the stack — this is the core launch risk beyond certifications. Updated index.md with new Certifications section under Entities, and NEM Konformität + EFSA Health Claims added to Concepts. LGC Group added as company entity stub.
+
+## [2026-06-15 19:53 UTC] ingest | raw/Business/PerformanceCafe/ops/cmo-email-template.md
+- Pages: [[CMO Erstkontakt Email Template]], [[CMO Sourcing Performance Coffee]], [[Performance Coffee Brand]]
+- Ingested raw/Business/PerformanceCafe/ops/cmo-email-template.md. Created: (1) CMO Erstkontakt Email Template [source] — full template detail, 5 candidate profiles, technical specs, NAC odor masking challenge; (2) CMO Sourcing Performance Coffee [entity] — new entity consolidating CMO search workstream with selection criteria and certification dependency mapping; (3) Updated Performance Coffee Brand [entity] — added CMO sourcing status, NAC contradiction note, and links to new pages. Key findings: (a) NAC appears in CMO email as technical challenge but is absent from official Tier-1 stack in other sources — contradiction flagged on both CMO pages and Performance Coffee Brand entity; (b) Herbafit has IFS Food (not GMP/Kölner Liste) — noted in ranking rationale; (c) Sender email accounts@ok-holding.com confirms OK-Holding connection to Performance Coffee Brand; (d) Pilot batch target (1,000–2,000 sachets) and scale target (10,000–50,000/month) are now formally documented. Index updated with all new/updated pages.
+
+## [2026-06-15 20:55 UTC] ingest | raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md
+- Pages: [[Wagglz GF-Gehalt 2025 Source Detail]], [[Wagglz GmbH]], [[ESt 2025]], [[SP STB]], [[ALG I 2025]]
+- Ingested raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md. Created 5 new pages: (1) Wagglz GF-Gehalt 2025 Source Detail [source] — primary source document summary with tax classification detail and action item; (2) Wagglz GmbH [entity] — new business entity stub, flagged as missing from Oleg Business Entity Structure (contradiction/gap noted); (3) ESt 2025 [entity] — 2025 income tax return entity, notes Progressionsvorbehalt implication of ALG I + GF salary combination; (4) SP STB [entity] — Steuerberater stub; (5) ALG I 2025 [entity] — unemployment benefit stub with Progressionsvorbehalt explanation. Key observations: (a) Wagglz GmbH was not previously documented in the wiki — it appears to be a third distinct entity alongside the GmbH and UG referenced in Oleg Business Entity Structure; contradiction flagged on Wagglz GmbH page. (b) Co-occurrence of ALG I and GF salary in same tax year triggers Progressionsvorbehalt — this is a non-obvious tax implication worth surfacing. (c) All wikilinks from the original source ([[ESt 2025]], [[Wagglz GmbH]], [[ALG I 2025]]) now resolve to real pages. Index updated with Finance & Tax section under Entities and Sources.
+
+## [2026-06-15 20:59 UTC] ingest | raw/Business/Wagglz/Wagglz GmbH — Finance Vault.md
+- Pages: [[Wagglz GmbH Finance Vault]], [[Wagglz GmbH]], [[OK Capital UG]]
+- Ingested raw/Business/Wagglz/Wagglz GmbH — Finance Vault.md. Created 3 new articles: (1) Wagglz GmbH Finance Vault [source] — full detail on capital chain, insolvency questions, document checklist, strategic options; (2) Wagglz GmbH [entity] — consolidated entity page noting the capital chain risk, insolvency legal exposure, and connection to OK Capital UG; (3) OK Capital UG [entity] — stub entity created from single reference in Finance Vault, flagged as assumption-heavy pending additional sources. The Wagglz GmbH entity page previously existed only as a cross-reference target in ALG I 2025 and Wagglz GF-Gehalt 2025 Source Detail — this ingestion gives it a proper entity page. No contradictions found with existing wiki content; the existing ALG I 2025 and Wagglz GF-Gehalt 2025 Source Detail pages are consistent with this new source. Index updated with all three new pages under appropriate categories.
+
+## [2026-06-15 21:02 UTC] ingest | raw/Business/Wagglz/Wagglz GmbH.md
+- Pages: [[Wagglz GmbH Source Detail]], [[Wagglz GmbH]], [[Rangrücktritt §15a InsO]], [[OK Capital UG]]
+- Ingested raw/Business/Wagglz/Wagglz GmbH.md. Created 4 new pages: (1) 'Wagglz GmbH Source Detail' (source) — full company data, insolvency figures, loan schedule, costs, strategic options; (2) 'Wagglz GmbH' (entity) — master entity page for the company with insolvency analysis, §19/§15a InsO legal context, option to continue vs. dissolve; (3) 'Rangrücktritt §15a InsO' (concept) — legal instrument concept page covering the subordination mechanism, Wagglz application, drafting requirements, and Oleg's personal liability risk; (4) 'OK Capital UG' (entity) — holding UG that owns 100% of Wagglz GmbH, with corporate structure diagram and contradiction note on Gesellschafter identity in loan documents. All pages cross-link to existing wiki entities: Oleg Personal Context, SP STB, ALG I 2025, ESt 2025, Oleg Business Entity Structure, P0 Sofort, P1 Diese Woche. Wagglz GmbH entity page updated to include both source files in frontmatter (existing GF-Gehalt source + new Wagglz GmbH source). Index updated with new entries in Entities (OK Capital UG, Wagglz GmbH under Companies), Concepts (Rangrücktritt §15a InsO under Legal & Business), and Sources (Wagglz GmbH Source Detail). No contradictions found with existing wiki content — ALG I 2025 already references Wagglz GmbH as GF-salary payer, consistent with new data.
+
+## [2026-06-15 21:03 UTC] ingest | raw/Privat/Auswandern/Cyprus Relocation Tracker.md
+- Pages: [[Cyprus Relocation Tracker Source Detail]], [[Cyprus Relocation]]
+- Ingested raw/Privat/Auswandern/Cyprus Relocation Tracker.md. Created new source page 'Cyprus Relocation Tracker Source Detail' in wiki/sources/ capturing the paused private tracker. Updated the existing 'Cyprus Relocation' entity page to: (1) add the private tracker as a third source, (2) note the paused/someday status from the private file, (3) add the reactivation checklist, and (4) confirm financial benchmarks (4,100 €/month, 30,000–35,000 € startup capital) are consistent across both source documents — no contradictions found. Updated index.md to include the new source page entry and reorganized the existing truncated index into a clean full index covering all currently visible wiki pages. The private tracker's data is fully consistent with the existing Cyprus Relocation entity page content.
+
+## [2026-06-15 21:07 UTC] ingest | raw/Privat/Finanzen/00 MOC Finanzen.md
+- Pages: [[MOC Finanzen Source Detail]], [[MOC Finanzen]], [[Doctolib 2026]], [[VW Konsumkredit]], [[Consorsbank Girokonto 0250120493]], [[OK Capital UG]], [[Fixkosten Übersicht]], [[ESt 2025]], [[ALG I Progressionsvorbehalt]], [[Rangrücktritt §15a InsO]], [[Wagglz Finom 2026]], [[OK Capital Finom 2026]]
+- Ingested raw/Privat/Finanzen/00 MOC Finanzen.md. Created: (1) MOC Finanzen Source Detail [source], (2) MOC Finanzen [entity — finance dashboard hub], (3) Doctolib 2026 [entity — 3,638.82 €/month + 8,249.96 € bonus], (4) VW Konsumkredit [entity — 18,858 € Restschuld until Nov 2028], (5) Consorsbank Girokonto 0250120493 [entity — +971.67 € saldo], (6) OK Capital UG [entity — updated/created with finance MOC context], (7) Fixkosten Übersicht [entity — ~2,200 €/month placeholder], (8) ESt 2025 [entity — complex 2025 filing with Wagglz + ALG I + Doctolib], (9) ALG I Progressionsvorbehalt [concept — §32b EStG mechanism], (10) Rangrücktritt §15a InsO [concept — subordination agreement], (11) Wagglz Finom 2026 [entity — Wagglz business banking], (12) OK Capital Finom 2026 [entity — OK Capital business banking]. Updated index.md with new Finance section entries, added MOC Finanzen to MOCs section, added new contradiction (Doctolib vs DoktorLib employer name). Note: ALG I 2025 entity already existed in wiki — not duplicated but cross-referenced. Several stub pages (P0 Sofort, P1 Diese Woche, P2 Diesen Monat, Wagglz GF-Gehalt 2025, SP STB, Wagglz GmbH) referenced but not created as they either already exist or await their own source ingestion.
+
+## [2026-06-15 21:08 UTC] ingest | raw/Privat/Finanzen/Archiv/GESAMTANALYSE Archiv.md
+- Pages: [[GESAMTANALYSE Archiv Source Detail]], [[MOC Finanzen]]
+- Ingested raw/Privat/Finanzen/Archiv/GESAMTANALYSE Archiv.md. Created one new source page (GESAMTANALYSE Archiv Source Detail) documenting the archive pointer, its two referenced external files (GESAMTANALYSE_Oleg_Kober_2025-2026.md and Finanzdashboard_Oleg_Kober_2026.html), and the period covered (Jan 2025–Jun 2026). Created/updated MOC Finanzen entity page to reference the archive and establish it as the current financial navigation hub superseding the archive. Both pages include full wikilinks to existing financial entities (ESt 2025, ALG I 2025, Wagglz GF-Gehalt 2025, Doctolib 2026, Fixkosten Übersicht, Consorsbank, etc.) and flag that the actual analysis content has not been ingested. No contradictions found with existing wiki content — the source is purely a pointer/archive document with no substantive data to conflict. Index updated with new MOC Finanzen entity and GESAMTANALYSE Archiv Source Detail source entries.
+
+## [2026-06-15 21:15 UTC] ingest | raw/Privat/Finanzen/Aufgaben/P0 Sofort.md
+- Pages: [[P0 Sofortmaßnahmen Source Detail]], [[P0 Sofortmaßnahmen]], [[Rangrücktritt §15a InsO]], [[VW Kredit]], [[Consorsbank Girokonto 260809254]]
+- Ingested raw/Privat/Finanzen/Aufgaben/P0 Sofort.md. Created 5 new pages: (1) P0 Sofortmaßnahmen Source Detail — source page for the raw file; (2) P0 Sofortmaßnahmen — entity page summarizing open critical tasks (Rangrücktritt Wagglz by 2026-06-15 with §15a InsO criminal liability risk, Vollständigkeitserklärung SP STB by 2026-06-20 blocking Jahresabschluss) and completed items; (3) Rangrücktritt §15a InsO — new concept page explaining the legal mechanism, GF criminal liability under Insolvenzverschleppung, and the Wagglz-specific situation with 27,926.89 € Fehlbetrag; (4) VW Kredit — new entity page for the confirmed vehicle loan (18,858 € Restschuld, runs until Nov 2028); (5) Consorsbank Girokonto 260809254 — new entity page for the now-closed second Consorsbank account (distinct from the existing 0250120493 main account). Updated index.md to include all new pages under Entities (Accounts & Finance), Concepts (Finance & Law), and Sources (Finance) sections. No contradictions found with existing wiki content — the Consorsbank 260809254 account is confirmed distinct from the existing 0250120493 entity page.
+
+## [2026-06-15 21:18 UTC] ingest | raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md
+- Pages: [[P1 Diese Woche Source Detail]], [[ESt 2025]], [[Wagglz GmbH]], [[Fixkosten Übersicht]], [[Oleg-Darlehen]], [[HEK]], [[Barmenia]], [[SP STB]]
+- Ingested raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md. Created 8 new pages: (1) P1 Diese Woche Source Detail [source] — full task list with extracted data points; (2) ESt 2025 [entity] — tax filing with document checklist, Progressionsvorbehalt note, Lohnsteuerbescheinigung blocker; (3) Wagglz GmbH [entity] — zero revenue since Jan 2026, §17 EStG dissolution option, Oleg-Darlehen financing; (4) Fixkosten Übersicht [entity] — 61% fixkostenquote, three optimization targets; (5) Oleg-Darlehen [entity] — shareholder loan to Wagglz, §17 EStG loss implications; (6) SP STB [entity] — Steuerberater handling ESt 2025 and Wagglz; (7) HEK [entity] — KV provider for ESt 2025; (8) Barmenia [entity] — second KV provider for ESt 2025, possible Tierversicherung comparison candidate. All pages cross-linked to existing wiki pages (ALG I 2025, ALG I Progressionsvorbehalt, Allianz Insurance Consolidation, Consorsbank Girokonto 0250120493, Oleg Business Entity Structure, MOC Finanzen, Oleg Personal Context, Wagglz GF-Gehalt 2025 Source Detail). Updated index.md with all new entries categorized. No contradictions found with existing wiki content; one new potential contradiction flagged in Wagglz GmbH page (Lohnsteuerbescheinigung not yet available vs. assumed availability in ESt 2025 workflow).
+
+## [2026-06-15 21:21 UTC] ingest | raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md
+- Pages: [[P2 Diesen Monat Source Detail]], [[Doctolib PKW-Sachbezug]], [[Notfallfonds]], [[DZR GmbH]], [[VW Konsumkredit]], [[P2 Diesen Monat]], [[ARAG Wagglz Versicherung]]
+- Ingested raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md. Created: (1) P2 Diesen Monat Source Detail (source page — full task breakdown with financial context), (2) P2 Diesen Monat (entity page — task summary with wikilinks), (3) Doctolib PKW-Sachbezug (concept page — 1%-Regel vs Fahrtenbuch analysis), (4) Notfallfonds (concept page — emergency fund goal, Q2 bonus allocation conflict with VW Sondertilgung), (5) DZR GmbH (entity page — creditor, payment history, closure pending), (6) VW Konsumkredit (entity page — loan details, Sondertilgung evaluation framework), (7) ARAG Wagglz Versicherung (entity page — insurance cancellation task). Added wikilinks throughout to existing wiki pages: Wagglz GmbH, SP STB, Doctolib 2026, Consorsbank Girokonto 0250120493, Fixkosten Übersicht, MOC Finanzen, P0 Sofortmaßnahmen, Wagglz Finom 2026, Financial Independence. Noted one new contradiction: Notfallfonds task confirms Consorsbank Tagesgeld exists but is currently unfunded (0 €) — the MOC Finanzen Source Detail references this account but did not specify its funded status. Updated index.md with all new pages in appropriate categories.
+
+## [2026-06-15 21:25 UTC] ingest | raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md
+- Pages: [[Fixkosten Übersicht Source Detail]], [[Fixkosten Übersicht]], [[VW Konsumkredit]], [[Uelzener Tierversicherung]], [[GSW Immobilien]], [[Barmenia]]
+- Ingested raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md. Created 6 new pages: (1) Fixkosten Übersicht Source Detail [source] — full cost table with all line items, income comparison, and closed positions; (2) Fixkosten Übersicht [entity] — analysis, breakdown by category, optimization targets, risk flags, and temporal outlook; (3) VW Konsumkredit [entity] — 681.57 €/Mo loan, Restschuld 18,858 €, ends Nov 2028, financial impact analysis; (4) Uelzener Tierversicherung [entity] — 132.48 €/Mo dog insurance, optimization target with comparison providers; (5) GSW Immobilien [entity] — Oleg's landlord Auerstr. 29 Berlin, 991.09 €/Mo, §536 BGB Vorbehalt explained; (6) Updated Barmenia [entity] — added 33 €/Mo KV-Zusatz from Fixkosten Übersicht, updated sources/tags, added insurance stack context and Uelzener comparison angle. Cross-links added throughout: Consorsbank Girokonto 260809254 (existing entity, closure confirmed by this source), ARAG Wagglz Versicherung (existing entity, future saving noted), Allianz Insurance Consolidation (existing entity, RLV 31.55 €/Mo confirmed), Wagglz GmbH (existing entity, variable darlehen). No contradictions found with existing wiki content. Index updated with new Finance entities section and new source entry.
+
+## [2026-06-15 21:26 UTC] ingest | raw/Privat/Finanzen/Ausgaben/VW Konsumkredit.md
+- Pages: [[VW Konsumkredit]], [[VW Konsumkredit Source Detail]]
+- Ingested raw/Privat/Finanzen/Ausgaben/VW Konsumkredit.md. Created two new pages: (1) wiki/entities/VW Konsumkredit.md — entity page with full loan details, restlaufzeit calculation, Sondertilgung decision analysis, and integration into Oleg's broader financial picture; (2) wiki/sources/VW Konsumkredit Source Detail.md — faithful source summary preserving original data and open task. Added wikilinks to MOC Finanzen, Fixkosten Übersicht, Q-Bonus Doctolib, Consorsbank Girokonto 0250120493, Schulden Übersicht, and Oleg Personal Context. Index updated with VW Konsumkredit in Entities section and VW Konsumkredit Source Detail in Sources section. No contradictions with existing wiki content found. Note: Q-Bonus Doctolib and Schulden Übersicht are forward-referenced — those pages may need creation when relevant sources are ingested.
+
+## [2026-06-15 21:28 UTC] ingest | raw/Privat/Finanzen/Einnahmen/ALG I 2025.md
+- Pages: [[ALG I 2025]], [[ALG I 2025 Source Detail]], [[ALG I Progressionsvorbehalt]]
+- Ingested raw/Privat/Finanzen/Einnahmen/ALG I 2025.md. Key changes:
+
+1. UPDATED wiki/entities/ALG I 2025.md — Added two previously unknown facts now confirmed by the new source: (a) duration 'bis ca. Juni 2025', (b) amount '~8.400 € gesamt'. Removed the [A] assumption flags for these fields. Added §46 EStG Pflichtveranlagung note (explicitly stated in source). Added reference to new source detail page. Updated sources frontmatter to include the new raw file.
+
+2. CREATED wiki/sources/ALG I 2025 Source Detail.md — New source summary page capturing the raw document's facts, statutory references (§32b EStG, §46 EStG), required Bescheinigung, and explicit note on what this source resolves vs. the prior entity stub.
+
+3. UPDATED wiki/concepts/ALG I Progressionsvorbehalt.md — Added §46 EStG Pflichtveranlagung note (newly confirmed from source), updated the 'Magnitude for Oleg' section to reference the now-known ~8,400 € figure instead of the prior 'not yet known' placeholder. Updated sources frontmatter. Updated practical example to use 8,400 € as the ALG I amount. Added reference to ALG I 2025 Source Detail.
+
+4. No contradictions found with existing wiki content. The new source confirms and resolves open questions from the entity page seeded from the Wagglz GF-Gehalt source — fully consistent.
+
+5. Updated index.md — Added ALG I 2025 Source Detail to Sources section; updated ALG I 2025 entity summary to include the now-known amount and period; updated ALG I Progressionsvorbehalt concept summary to note the ~8,400 € figure.
+
+## [2026-06-15 21:29 UTC] ingest | raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md
+- Pages: [[Doctolib 2026 Source Detail]], [[Doctolib 2026]]
+- Ingested raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md. Created two new pages: (1) 'Doctolib 2026' entity page — employer entity for Oleg from Jan 2026, documenting salary structure (6,300 € brutto + 364 € PKW-Sachbezug, 3,638.82 € netto, Steuerklasse 1, HEK), Q1 bonus (8,533 € brutto, April 2026), Jan–Mai payroll totals (41,040 € brutto / 22,327 € netto), and full-year projection (~105,568 € brutto / ~66,416 € netto); (2) 'Doctolib 2026 Source Detail' source page — raw source transcription with detailed notes on PKW-Sachbezug tax logic, cross-references to Fixkosten Übersicht (61% netto in fixed costs), ESt 2025, Consorsbank Girokonto 0250120493, and P2 Diesen Monat. Added wikilinks to: HEK (already in wiki as entity), Fixkosten Übersicht, Consorsbank Girokonto 0250120493, ESt 2025, P2 Diesen Monat, MOC Finanzen, Oleg Personal Context, Wagglz GmbH. Updated index.md with Doctolib 2026 under Entities and Doctolib 2026 Source Detail under Sources. No contradictions found with existing wiki content — HEK is confirmed as Oleg's KV for 2026 (consistent with Doctolib employer record), and Consorsbank Girokonto 0250120493 is listed in source as salary-deposit account (consistent with existing entity page which notes this account is likely the salary-receipt account). The 61% Fixkosten ratio aligns with the Fixkosten Übersicht entity already in the wiki.
+
+## [2026-06-15 21:32 UTC] ingest | raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md
+- Pages: [[Consorsbank Girokonto 0250120493 Source Detail]], [[Consorsbank Girokonto 0250120493]], [[VW-Bank Finanzierung]], [[GSW Miete]], [[Consorsbank Tagesgeld 253403894]], [[Consorsbank Depot 1117241081]]
+- Ingested raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md. Changes:
+
+1. CREATED wiki/sources/Consorsbank Girokonto 0250120493 Source Detail.md — full source summary with IBAN (DE23760300800250120493), BIC (CSDBDE71XXX), Dispo (5.000 €), complete 2026 balance history (Jan–Mai), all regular income items (Doctolib 3.638,82 €/month, Q1 bonus 8.249,96 €, Spesenerstattungen 731,50 €), all 10 fixed outgoing line items (~2.053,29 €/month total), and 3 linked accounts (Tagesgeld 253403894, closed Girokonto 260809254, Depot 1117241081).
+
+2. UPDATED wiki/entities/Consorsbank Girokonto 0250120493.md — significantly expanded from sparse MOC-seeded stub to full entity page with IBAN/BIC/Dispo, income table, outgoings table with 10 line items, 2026 balance history, linked accounts, and liquidity assessment. Added source to frontmatter.
+
+3. CREATED wiki/entities/VW-Bank Finanzierung.md — new entity for the 681,57 €/month VW Bank financing debit (second-largest fixed cost); inferred ~32.700 € financed vehicle over 48 months; 8.178,84 €/year.
+
+4. CREATED wiki/entities/GSW Miete.md — new entity for 991,09 €/month rent to GSW (state-owned Berlin housing); below-market regulated contract; strategic tension with Cyprus Relocation noted.
+
+5. CREATED wiki/entities/Consorsbank Tagesgeld 253403894.md — new entity for linked savings account; 1,00% p.a. from 16.06.2026; below-market rate noted.
+
+6. CREATED wiki/entities/Consorsbank Depot 1117241081.md — new entity for linked investment depot; no holdings data available.
+
+7. No contradictions with existing wiki content found. All figures (Barmenia 33 €, Uelzener 132,48 €, Allianz PKV 22,62 €, Consorsbank 260809254 closure) are consistent with existing entity pages.
+
+8. New data point: Doctolib net monthly salary confirmed as 3.638,82 € (previously unspecified in wiki). Q1 bonus of 8.249,96 € confirmed as net (received directly in Girokonto).
+
+9. Updated index.md with new entries under Finance — Accounts (Tagesgeld, Depot), Finance — Costs (GSW Miete, VW-Bank), and Sources (Consorsbank Girokonto Source Detail).
+
+## [2026-06-15 21:35 UTC] ingest | raw/Privat/Finanzen/Rehabilitation Plan.md
+- Pages: [[Finanz Rehabilitation Plan]], [[Finanz Rehabilitation Plan Source Detail]], [[OK Capital UG]], [[VW Bank Kredit]]
+- Ingested raw/Privat/Finanzen/Rehabilitation Plan.md. Created 4 new wiki pages:
+
+1. **wiki/entities/Finanz Rehabilitation Plan.md** — Entity page summarizing the 3-phase plan, structural deficit mechanics, phase details, and key pending decisions. Links to Wagglz GmbH, OK Capital UG, Fixkosten Übersicht, SP STB, ESt 2025.
+
+2. **wiki/sources/Finanz Rehabilitation Plan Source Detail.md** — Source page with all quantitative data from the document. Flags two key contradictions/gaps: (a) VW-Bank-Kredit 681,57 €/Mo not previously recorded in wiki — potential discrepancy with stated ~1.215 €/Mo fixed cost figure in Phase 3; (b) Gesellschafterdarlehen 357 €/Mo is a new specific figure.
+
+3. **wiki/entities/OK Capital UG.md** — New entity page for OK Capital UG, previously only mentioned as a wikilink in Wagglz-related pages. Documents its role as structural cost block, pending decision (liquidation/dormancy/continuation), and known gaps.
+
+4. **wiki/entities/VW Bank Kredit.md** — New entity page for the VW-Bank loan (681,57 €/Mo until 11/2028), previously unrecorded in wiki. Flags potential contradiction with the ~1.215 €/Mo fixed cost total stated in the rehabilitation plan (the VW loan alone is 56% of that figure).
+
+Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK Capital UG, VW Bank Kredit) and a new 'Financial Rehabilitation' cross-domain theme cluster. The source document introduces two previously unrecorded financial obligations (VW-Bank-Kredit and Gesellschafterdarlehen 357 €/Mo) that should be reconciled with the Fixkosten Übersicht pages.
+
+## [2026-06-15 21:36 UTC] ingest | raw/Privat/Finanzen/Steuern/ALG I Progressionsvorbehalt.md
+- Pages: [[ALG I Progressionsvorbehalt Source Detail]], [[ALG I Progressionsvorbehalt]]
+- Ingested raw/Privat/Finanzen/Steuern/ALG I Progressionsvorbehalt.md. Created new source page 'ALG I Progressionsvorbehalt Source Detail' capturing the §32b EStG mechanics and the worked 2025 example (30,000 € taxable income + 8,400 € ALG I → ~25% rate → ~7,500 € tax vs ~5,500 € without → ~2,000 € Mehrbelastung). Updated the existing 'ALG I Progressionsvorbehalt' concept page to: (1) add the new source to its sources array, (2) incorporate a second worked example table (Example B) from the new source alongside the existing Example A, (3) add a note that SP STB is responsible for exact calculation (directly from source), (4) add wikilink to the new source detail page. No contradictions found — the new source's ~2,000 € Mehrbelastung estimate aligns with the concept page's existing illustrative example despite using a different income base (30k vs 50k). Updated index.md to add the new source page entry under Sources.
+
+## [2026-06-15 21:38 UTC] ingest | raw/Privat/Finanzen/Steuern/ESt 2025.md
+- Pages: [[ESt 2025 Source Detail]], [[ESt 2025]]
+- Ingested raw/Privat/Finanzen/Steuern/ESt 2025.md. Created two new pages: (1) ESt 2025 Source Detail (source type) capturing all content from the raw file, and (2) ESt 2025 (entity type) as the canonical entity page for Oleg's 2025 income tax filing. The source was fully consistent with existing wiki pages — ALG I ~8,400 €, period until June 2025, §32b/§46 EStG mechanics, and KV providers (HEK + Barmenia) all confirm existing data without contradiction. Notable new information: Doctolib explicitly confirmed at 0 € for 2025 (starts Jan 2026); Vollständigkeitserklärung for SP STB has an earlier deadline (2026-06-20) vs other docs (2026-06-30); estimated zvE 30,000–35,000 €. Updated index.md to add ESt 2025 entity and ESt 2025 Source Detail entries under appropriate categories.
+
+## [2026-06-15 21:45 UTC] ingest | raw/Privat/Finanzen/Templates/Claude Session – Performance.md
+- Pages: [[Claude Session Template Performance]], [[Oleg Personal Context]], [[3D Body Scan Scaneca Mai 2026]], [[BMR and TDEE]]
+- Ingested raw/Privat/Finanzen/Templates/Claude Session – Performance.md. Created new source page 'Claude Session Template Performance' capturing the full template structure, context block, and 5 session types. Updated 'Oleg Personal Context' entity with new data points: WHR target <0.86 (previously missing from wiki), bilateral asymmetry / rightward CoG shift (not previously captured), protein target discrepancy resolved (195-200g scan-based vs 220g operational/body-weight-based), Peter Attia explicitly added to reference framework, Hyrox primary limiter named as aerobic capacity. Updated '3D Body Scan Scaneca Mai 2026' entity to include WHR target <0.86 and bilateral asymmetry structural finding. Updated 'BMR and TDEE' concept to document the protein target discrepancy and add 220g as the operational figure. Noted one contradiction: protein target 220g (template) vs 195-200g (scan document) — both documented with methodology explanation. No existing pages deleted or contradicted beyond the protein figure clarification. Index updated with new source entry.
+
+## [2026-06-15 21:48 UTC] ingest | raw/Privat/MOC/Finanz-Home.md
+- Pages: [[Finanz-Home Dashboard Source Detail]], [[Oleg Command Center]], [[Rehabilitation Plan]], [[Oleg Personal Context]]
+- Ingested raw/Privat/MOC/Finanz-Home.md (Oleg's Command Center dashboard). Created 3 new pages: (1) Finanz-Home Dashboard Source Detail — source summary with full metric analysis and cross-reference validation; (2) Oleg Command Center — entity page for the dashboard with financial severity assessment and navigation map; (3) Rehabilitation Plan — stub entity page for the 3-phase financial recovery framework (full content pending ingestion of source doc). Updated Oleg Personal Context entity to add financial metrics (net salary 3,638.82 €, structural deficit -7,970 €, overdraft -1,405 €, savings 1.10 €, April commission ~4,611 €) alongside existing body composition data — all metrics consistent with existing wiki (no contradictions found). Body composition figures (20.3% KFA, WHR 0.92, target <0.86) confirmed consistent with 3D Body Scan Scaneca Mai 2026 entries. Flagged 4 stub pages newly identified: Finanz-Übersicht, Blutbild Panel 24 Marker, Master Prompt Gesamtanalyse, and Rehabilitation Plan detail content. Updated index.md with new entries categorized under Entities (Oleg Command Center, Rehabilitation Plan, Finanz-Übersicht stub), Sources (Finanz-Home Dashboard Source Detail), and Stub Pages section.
+
+## [2026-06-15 21:51 UTC] ingest | raw/Privat/Performance/_vault/00 Performance-Übersicht.md
+- Pages: [[Performance Overview Source Detail]], [[Performance Overview]], [[Peter Attia]], [[Zone 2 Cardio]], [[Blutbild Panel]]
+- Ingested raw/Privat/Performance/_vault/00 Performance-Übersicht.md. Created 5 new pages: (1) Performance Overview Source Detail [source] — full content capture including body baseline, nutrition, limitators, protocol notes, and contradiction flags on KFA target range (14–16% vs 15–17% vs 15%); (2) Performance Overview [entity] — master performance entity consolidating goals, baseline, nutrition, limitators, Zone 2+Posture unified protocol, and protocol rules; (3) Peter Attia [entity] — new stub-to-full entity for the third named reference authority (alongside Huberman and Bryan Johnson), covering ApoB, Zone 2, metabolic health, longevity medicine; (4) Zone 2 Cardio [concept] — new concept page covering physiology, Zone 2+Posture unified protocol framing, Hyrox application, Attia longevity connection, intensity guidelines; (5) Blutbild Panel [entity] — stub entity for 24-marker blood panel, noting ApoB must be separately requested. Key additions to existing wiki: ApoB note (first explicit mention), Zone 2 as unified protocol with posture correction (new synthesis), Peter Attia as named authority (first appearance), explicit weight target ~88-90 kg (new metric), KFA target discrepancy flagged (14-16% in this source vs 15-17% in scan source vs 15% in Health Protocol Master). No existing pages required modification as new pages capture all new knowledge. Index updated with all new pages.
+
+## [2026-06-15 21:54 UTC] ingest | raw/Privat/Performance/_vault/Blutbild Panel.md
+- Pages: [[Blutbild Panel]], [[Blutbild Panel Source Detail]], [[Biomarker Testing]]
+- Ingested raw/Privat/Performance/_vault/Blutbild Panel.md. Key changes: (1) Upgraded Blutbild Panel entity page from stub to full entity — populated all 24 markers with longevity-optimized target ranges, quarterly schedule, Priority 1/2 split, ApoB instruction, and base supplementation protocol. (2) Created new Blutbild Panel Source Detail source page capturing the raw document content. (3) Upgraded Biomarker Testing concept page from a stub reference to a full concept page covering longevity-optimized vs standard reference ranges, marker categories, and integration with Oleg's 3-pillar tracking system. (4) Updated index.md with Blutbild Panel (entity), Biomarker Testing (concept), and Blutbild Panel Source Detail (source) entries. No contradictions found — supplement dosages are consistent with existing Supplement Stack entries; ApoB emphasis aligns with existing Peter Attia references; Vitamin D target (50–80 ng/mL) is consistent with protocol context. Minor marker count discrepancy noted (14 Priority 2 rows vs stated 13) — flagged in entity and source pages.
+
+## [2026-06-15 21:56 UTC] ingest | raw/Privat/Performance/_vault/Hyrox Prep.md
+- Pages: [[Hyrox Prep Source Detail]], [[Hyrox Competition]], [[Zone 2 Training]], [[Performance Overview]]
+- Ingested raw/Privat/Performance/_vault/Hyrox Prep.md. Created 4 new pages: (1) Hyrox Prep Source Detail [source] — full protocol documentation including Zone 2 structure, 12-week milestones, structural blockers, and pending weekly protocol items; (2) Hyrox Competition [entity] — upgraded from implicit references to a full entity page consolidating competition format, Oleg's current status, preparation strategy, and structural blockers; (3) Zone 2 Training [concept] — new concept page covering Zone 2 physiology, Oleg's specific protocol parameters, sequencing rules, and relationship to Hyrox; (4) Performance Overview [entity] — created stub entity for the parent 00 Performance-Übersicht vault document referenced internally by Hyrox Prep and Blutbild Panel sources. Flagged one contradiction: Hyrox Prep source describes a 12-week plan while an existing wiki reference is to Hyrox 10-Week Training — both noted as potentially valid for different competition timelines, with 12-week plan being the more recently created document. All wikilinks cross-referenced to existing pages (3D Body Scan Scaneca Mai 2026, Forward Head Posture, Blutbild Panel, Health Protocol Master, Cold Exposure Protocols, Brick Training, Corrective Exercise, etc.). Updated index.md with new entries in Entities, Concepts, and Sources sections.
+
+## [2026-06-15 21:59 UTC] ingest | raw/Privat/Performance/_vault/Körper & Scan.md
+- Pages: [[Körper und Body Composition Scan Source Detail]], [[3D Body Scan Scaneca Mai 2026]], [[Zone 2 Training]], [[Forward Head Posture]]
+- Ingested raw/Privat/Performance/_vault/Körper & Scan.md. Created: (1) 'Körper und Body Composition Scan Source Detail' source page capturing new detail from this vault document. (2) Updated '3D Body Scan Scaneca Mai 2026' entity page to incorporate new data: structural findings with Hyrox injury risk context, 14–16% KFA alternate target, explicit weight goal ~88–90 kg, Zone 2 as visceral fat priority action, forward head → breathing mechanism, same-conditions repeat scan protocol. (3) Created 'Zone 2 Training' concept page (new page, referenced in source but not previously in wiki). (4) Created/updated 'Forward Head Posture' concept page to add the breathing mechanism detail (diaphragm compression) sourced from this vault document — significant new content not in the prior stub. Key contradiction flagged: this vault note specifies KFA target 14–16% vs. 15–17% in the original scan source — both recorded with explanation. Index updated with new entries across Entities, Concepts, and Sources.
+
+## [2026-06-15 22:00 UTC] ingest | raw/README.md
+- Pages: [[Raw Vault Structure README]], [[Vault Architecture]]
+- Ingested raw/README.md — a structural/meta source describing the vault's directory layout and inbox→ingest→wiki workflow. Created two new pages: (1) 'Raw Vault Structure README' (type: source) — summarizes the raw/ folder structure, maps sub-areas to their wiki equivalents, and documents the _archiv/ exclusion rule; (2) 'Vault Architecture' (type: concept) — generalizes the two-layer immutable-raw / living-wiki design pattern, documents page type hierarchy, YAML frontmatter standard, and naming conventions. Both pages are wikilinked to all relevant entities already in the wiki (Wagglz GmbH, Café Berlin Partnership Hai, Performance Coffee Brand, Cyprus Relocation, ESt 2025, Hyrox Competition, Supplement Stack, Apple Passwords, Proton Pass, and all MOC pages). Index updated with both new pages; existing entries preserved unchanged. No contradictions identified — the README is a pure structural document with no data conflicts.
+
+## [2026-06-15 22:02 UTC] ingest | raw/data/README.md
+- Pages: [[Structured Data Directory README]]
+- Ingested raw/data/README.md — a minimal 3-line README for the vault's structured data directory. Created one new source page: 'Structured Data Directory README' (wiki/sources/). The README contains no substantive content beyond labeling the directory's purpose (CSV exports for Dataview/CLI: cashflow, health metrics, training logs) and a no-secrets rule. No entity or concept pages required. No contradictions with existing wiki content. Updated index.md to add the new source entry under Sources. The index was also lightly reorganized to ensure all previously existing pages visible in the wiki dump are represented — no existing entries were removed.
+
+## [2026-06-15 22:04 UTC] ingest | raw/inbox/00-Master-Context.md
+- Pages: [[Master Context Oleg Kober]], [[Oleg Personal Context]], [[OK Capital UG]], [[Cyprus Relocation]]
+- Ingested raw/inbox/00-Master-Context.md. Created 4 new pages: (1) Master Context Oleg Kober [source] — full detail of the central truth document; (2) Oleg Personal Context [entity] — upgraded/replaced stub with comprehensive profile including named OK Capital UG, confirmed income figures, Cyprus downgrade, and all active priorities; (3) OK Capital UG [entity] — new entity page naming the dormant UG for the first time (previously wiki referred to it only as 'the dormant UG'); (4) Cyprus Relocation [entity] — new entity page resolving the previously flagged strategic tension with Café Berlin; explicitly downgraded to Someday/Maybe per 2026-06-13 update. Key wiki-wide updates: Cyprus/Relocation tension with Café Berlin is now resolved (café wins, relocation has no active timeline); OK Capital UG named; Doctolib income figures confirmed (3,638.82 €/month + ~4,611 €/quarter provision); Scaneca follow-up target date confirmed as 2026-09-01; no contradictions with existing wiki found except one flagged — Master Context lists OK Capital UG as dormant while earlier Café planning docs used 'GmbH (ruhend)' loosely, now clarified. Index updated with all existing and new pages, organized by Entities/Concepts/Sources/Syntheses/Comparisons.
+
+## [2026-06-15 22:07 UTC] ingest | raw/inbox/2026-06 Finance Monthly.md
+- Pages: [[Finance Monthly 2026-06 Source Detail]], [[Finanzübersicht 2026]], [[Doctolib]], [[Consorsbank]], [[OK Capital UG]]
+- Ingested raw/inbox/2026-06 Finance Monthly.md. Created 5 new pages: (1) Finance Monthly 2026-06 Source Detail — full source summary with cashflow table, account snapshot, tax obligations, company obligations, and risk register; (2) Finanzübersicht 2026 — new entity page synthesizing Oleg's overall 2026 financial picture including structural deficit ~−7,970 €/year, near-zero savings (1.10 €), Consorsbank in Dispo (−1,405 €), and 10,000 € combined Jahresabschluss costs due; (3) Doctolib — new entity page for Oleg's primary employer (3,638.82 €/month netto); (4) Consorsbank — new entity page for primary private account currently in overdraft; (5) OK Capital UG — new entity page for the dormant UG with 5,000 € Jahresabschluss due and insolvency risk flagged. Key new information added to wiki: (a) structural annual deficit figure ~−7,970 € (first time quantified); (b) ALG-I-Bescheinigung deadline 2026-06-30 (additive to existing ALG I 2025 page); (c) Wagglz and OK Capital each have 5,000 € Jahresabschluss costs currently due; (d) zero savings liquidity crisis; (e) § 15a InsO GF-Haftung risk flagged. No direct contradictions with existing wiki found — source data is additive. Updated index.md with all new pages categorized under Entities (Finance), Sources (Finance), and existing structure preserved.
+
+## [2026-06-15 22:09 UTC] ingest | raw/inbox/Cyprus Relocation Tracker.md
+- Pages: [[Cyprus Relocation]], [[Cyprus Relocation Tracker Source Detail]]
+- Ingested raw/inbox/Cyprus Relocation Tracker.md. Created two new pages: (1) entities/Cyprus Relocation — entity page for the paused relocation plan with full context, budget parameters, strategic tensions, and wikilinks; (2) sources/Cyprus Relocation Tracker Source Detail — source summary page. Key integrations: linked to Café Berlin Partnership Hai (pre-existing strategic tension confirmed and cross-linked), Financial Independence, Oleg Personal Context, MOC Strategie und Business, MOC Finanzen. No contradictions found with existing wiki content — the paused status is consistent with Cyprus not appearing in any existing active priority lists. Updated index.md with Cyprus Relocation entry under Entities > Business & Projects and Cyprus Relocation Tracker Source Detail under Sources > Business.
+
+## [2026-06-15 22:18 UTC] ingest | raw/Business/PerformanceCafe/brand/naming_brief.md
+- Pages: [[Performance Cafe Naming Brief]], [[Performance Coffee Brand Naming]], [[Aevum Brand]], [[Performance Coffee Brand Voice and Positioning]], [[Performance Coffee Brand Packaging Concept]]
+- Ingested raw/Business/PerformanceCafe/brand/naming_brief.md. Created 5 new pages: (1) 'Performance Cafe Naming Brief' [source] — full source summary of the completed Modul 7 naming brief with all 15 candidates, domain/EUIPO analysis, positioning, and packaging specs; (2) 'Performance Coffee Brand Naming' [entity] — entity page for the naming decision process with top recommendation AEVUM and full candidate matrix; (3) 'Aevum Brand' [entity] — dedicated entity for the top-recommended brand name, etymology, IP assessment, and design implications; (4) 'Performance Coffee Brand Voice and Positioning' [concept] — brand voice framework, taglines, target audience messaging, and competitor matrix; (5) 'Performance Coffee Brand Packaging Concept' [concept] — packaging design spec, materials, color system, sachet dimensions, MOQ, and sachet manufacturer options. Updated index.md with all new pages in correct categories plus reorganized existing entries for clarity. Cross-linked to existing wiki entities: Bryan Johnson, Andrew Huberman, AG1, Alpha-GPC, L-Theanin, Ashwagandha KSM-66, Taurin, Kölner Liste, Informed Sport, NEM Konformität, CMO Sourcing Performance Coffee, Certification Roadmap Performance Coffee Brand, Amazentis, Longevity Stack Ingredients, Oleg Personal Context. No contradictions with existing wiki found — this is new brand/naming content not previously covered.
+
+## [2026-06-16 10:30] ingest | gap-fill — alle fehlenden raw/ Quelldateien
+- Erstellt: 26 neue wiki/sources/ Seiten für alle raw/.md-Dateien ohne entsprechende source page
+- Neue Seiten:
+  - [[GROVE Businessplan und Betriebshandbuch 2026]] — Vollständiger Businessplan (34 Sektionen)
+  - [[Café Berlin Partnership Hai Raw Source]] — Ursprüngliche Kickoff-Agenda
+  - [[OK Capital UG Finance Vault Source Detail]] — Holding-Stammblatt
+  - [[Performance Coffee Brand Master Research Brief]] — 9-Modul Forschungsauftrag
+  - [[Performance Coffee Brand Longevity Science Source Detail]] — Modul 0
+  - [[Performance Coffee Brand Ingredienzen Datenbank]] — Modul 1
+  - [[Performance Coffee Brand Kaffee-Spezifikation]] — Modul 2
+  - [[Performance Coffee Brand Marktanalyse]] — Modul 3
+  - [[Performance Coffee Brand Prototyp Partner Source Detail]] — Modul 4
+  - [[Performance Coffee Brand Regulatorik Report]] — Modul 5
+  - [[Performance Coffee Brand Business Case]] — Modul 6
+  - [[Performance Coffee Brand IP und Patent-Landschaft]] — Modul 8
+  - [[Performance Coffee Brand Supplier List]] — Ops Lieferantenliste
+  - [[Wagglz Finom 2026 Source Detail]] — Wagglz Finom-Konto 2026
+  - [[Cyprus Relocation Source Detail]] — Zypern Strategie-Dokument
+  - [[Cyprus Relocation Tracker Privat Source Detail]] — Kurznotiz pausiert
+  - [[Privat Finanz-Übersicht Source Detail]] — Überblick Privatfinanzen
+  - [[Finanzielle Gesamtanalyse Oleg Kober 2025-2026]] — Vollständige Analyse Juni 2026
+  - [[Master Prompt Gesamtfinanzanalyse Source Detail]] — Analyse-Prompt-Template
+  - [[Claude Session Finanzen Template]] — Kurzformat Finance-Session-Template
+  - [[MOC Performance und Leben Source Detail]] — Navigation Performance-Bereich
+  - [[MOC Tech und Setup Source Detail]] — Navigation Tech-Bereich
+  - [[Health Protocol Master Source Detail]] — 6-Tage-Split, 2.800 kcal, Tagesstruktur
+  - [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Privates Versicherungsdokument
+  - [[Offene Actions Inbox Source Detail]] — Privater Action-Tracker (inbox)
+  - [[Inbox 2026-06-13 Source Detail]] — Leere Inbox-Placeholder-Datei
+- Aktualisiert: wiki/index.md (Sections erweitert: Health, Finance, Business, Relocation, Inbox)
+- Notizen: Einige Seiten decken Dateien ab die unter neuem Vault-Pfad leben, während ältere wiki sources noch auf alte Pfade verweisen (01-Strategie-Business/ etc.)
+
+## [2026-06-16 12:20] update | GROVE → Performance Coffee Brand pivot dokumentiert
+- Updated: [[Café Berlin Partnership Hai]] — Status-Update: physisches Café-Konzept GROVE ersetzt durch Performance Coffee Brand
+- Updated: [[Performance Coffee Brand]] — GROVE-Pivot-Kontext ergänzt
+- Notes: GROVE-Businessplan (cafe_masterplan_2026.md) bleibt als Referenz erhalten, ist aber archiviert
+
+## [2026-06-19 19:37 UTC] ingest | raw/Business/Cafe/cafe_masterplan_2026.md
+- Pages: [[GROVE Businessplan Source Detail]], [[GROVE Businessplan und Betriebshandbuch 2026]], [[Vietnamese Coffee GROVE]], [[ROYCE Nama Schokolade]], [[GROVE Cashflow Trigger System]], [[GROVE Revenue Streams]], [[GROVE Sessions External]]
+- Ingested GROVE Businessplan 2026 (cafe_masterplan_2026.md) — created source summary, updated GROVE Businessplan entity, created new entities for Wagglz GmbH context, GROVE Revenue Streams, Vietnamese Coffee concept, ROYCE Nama Schokolade, Espresso Club Radio reference, and Cashflow Trigger System; updated index.
+
+## [2026-06-19 19:43 UTC] ingest | raw/Business/PerformanceCafe/legal/ip_landscape.md
+- Pages: [[Performance Café IP Landscape Modul 8]], [[Amazentis]], [[Timeline Nutrition]], [[Chromadex Niagen Bioscience]], [[NMN EU Status 2026]], [[Urolithin A]]
+- Ingested Performance Café IP & Patent Landscape (Modul 8) — created source summary page, updated Amazentis entity with full patent detail, created new entities for Chromadex/Niagen Bioscience and NMN EU Status, created concept pages for EU Novel Food Regulation, EUIPO Trademark Strategy, Trade Secret Strategy, GmbH IP Structure, and IP Risk Matrix; updated index with all new pages.
+
+## [2026-06-19 19:48 UTC] ingest | raw/Business/PerformanceCafe/ops/supplier_list.md
+- Pages: [[Performance Cafe Supplier List]], [[Ingredient Suppliers Performance Coffee]], [[Prinova]], [[Lehvoss Nutrition]], [[Nutri-Epitech]], [[Aidea]], [[Herbafit]], [[Queisser Pharma]], [[ESB Naturkost]], [[Constantia Flexibles]], [[Flavorist Services Performance Coffee]], [[Schutzgas-Versiegelung]]
+- Ingested Performance Coffee Brand supplier list (raw/Business/PerformanceCafe/ops/supplier_list.md) — created source summary page and updated/created entity/concept pages for CMO suppliers, ingredient suppliers, analysis labs, and flavorists; linked to existing Performance Coffee Brand wiki pages.
+
+## [2026-06-19 19:53 UTC] ingest | raw/Business/PerformanceCafe/research/00_master_brief.md
+- Pages: [[Performance Cafe Master Brief Source Detail]], [[Performance Coffee Brand]], [[Performance Cafe Research Team Roles]], [[Longevity Stack Ingredients]]
+- Ingested Performance Café Master Research Brief (00_master_brief.md) — created source summary page and updated Performance Coffee Brand entity with full 9-module research structure, team roles, and module-to-file mapping.
+
+## [2026-06-19 19:58 UTC] ingest | raw/Business/PerformanceCafe/research/01_longevity_science.md
+- Pages: [[Longevity Science Research Modul 0]], [[Hallmarks of Aging]], [[Chlorogenic Acid]], [[Trigonellin]]
+- Ingested raw/Business/PerformanceCafe/research/01_longevity_science.md — created source summary page, plus entity/concept pages for Longevity Hallmarks of Aging, Chlorogensäure, Trigonellin, Cafestol/Kahweol, DTC Biomarker Tests DACH, and Longevity Science Kaffee Stack; updated index.
+
+## [2026-06-19 20:03 UTC] ingest | raw/Business/PerformanceCafe/research/02_ingredienzen_db.md
+- Pages: [[Performance Cafe Ingredienzen Datenbank]]
+- Ingested Performance Café Ingredienzen-Datenbank (Modul 1) — created source summary + 15 new entity/concept pages covering all major ingredient categories, SKU formulations, regulatory blockers (NMN, Urolithin A), and the Blueprint Coffee hypothetical stack; updated Bryan Johnson entity with 2026 stack details; flagged multiple regulatory status items as wiki-searchable concepts.
+
+## [2026-06-19 20:08 UTC] ingest | raw/Business/PerformanceCafe/research/03_kaffee_specs.md
+- Pages: [[Kaffee Spezifikation Modul 2]], [[Chlorogenic Acid]], [[Trigonellin NAD Precursor]], [[Coffee Roast Profile Longevity]], [[Coffee Extraction Methods Instant]], [[Coffee Blend Ratios]]
+- Ingested Performance Café Modul 2 (Kaffee-Spezifikation): created source summary + 8 new entity/concept pages covering Robusta vs. Arabica, Vietnamese Robusta sourcing, chlorogenic acid, trigonellin, roasting profiles, and instant extraction methods; updated index.
+
+## [2026-06-19 20:13 UTC] ingest | raw/Business/PerformanceCafe/research/04_marktanalyse.md
+- Pages: [[Performance Cafe Marktanalyse Source Detail]], [[Blueprint by Bryan Johnson]], [[Bryan Johnson]], [[Four Sigmatic]], [[RYZE Mushroom Coffee]], [[MUDWTR]], [[Bulletproof Coffee]], [[Clevr Blends]]
+- Ingested Performance Café market analysis (04_marktanalyse.md) — created source summary, updated Bryan Johnson entity, created new entities for Blueprint, Four Sigmatic, RYZE, MUD\WTR, Timeline Nutrition (update), key market concept pages, and pricing analysis; updated index.
+
+## [2026-06-20 12:00] ingest | raw/inbox/supplement-stack-update-2026-06-20.md
+- Updated: [[Supplement Stack]]
+- Notes: Stack-Update per Nutzerangabe — Momentous: Protein Isolat, Kreatin, Magnesium, Collagen, Omega-3; Thorne: Vitamin D3 Drops, Zinc Picolinat 30mg. Collagen war zuvor explizit ausgeschlossen → Contradictions-Sektion hinzugefügt. Thorne Zinc Picolinat 30mg neu. D3 von Eigenvorrat auf Thorne D3 Drops gewechselt. Status von Sulforaphane, Alpha-GPC, L-Tyrosine unbestätigt.
+
+## [2026-06-20 12:30] ingest | Momentous Scientific Advisors (Screenshot)
+- Erstellt: [[Andy Galpin]], [[Kelly Starrett]], [[Stacy Sims]], [[Dan Garner]]
+- Aktualisiert: [[Supplement Stack]] — Wissenschaftliche Referenzen-Tabelle erweitert
+- Notes: Momentous Scientific Advisory Board dokumentiert — 6 Experten (Huberman, Galpin, Starrett, Sims, Garner, McDaniel) als Referenzen für Olegs Stack; Brandon McDaniel (MLB VP Player Performance) fehlt noch als eigene Entity
+
+## [2026-06-20 20:00] query | "32 Tricks Claude Code — was fehlt noch?"
+- Quelle: Clippings/32 Tricks to Level Up Claude Code in 16 Mins.md (YouTube, Nate Herk)
+- Output: outputs/notes/2026-06-20-claude-code-32-tricks-audit.html (Apple-Stil)
+- Befund: 21 umgesetzt/verfügbar, 3 echte Lücken (Custom Skills, CLAUDE.md schlanker+routen, Permissions Allow/Deny), 5 optional (Coding), 3 nicht relevant
+- Supplement Stack: deutsche Übersetzung mit 2026-06-20-Update + Scientific-References-Tabelle (Galpin/Starrett/Sims/Garner/McDaniel) re-integriert nach Rebase-Verlust
+## [2026-06-21] todo | Wagglz Setup
+- TODO: Supabase Projekt in Frankfurt (eu-west-1) erstellen + .env.local befüllen → App lokal testen

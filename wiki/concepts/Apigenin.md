@@ -5,43 +5,43 @@ tags: [supplement, sleep, flavonoid, chamomile, momentous, estrogen, huberman]
 sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Plant flavonoid (from chamomile) included in the Momentous Complete Expert Stack — promotes sleep onset; part of the Huberman sleep cocktail; mild estrogen modulator
+summary: Pflanzliches Flavonoid (aus Kamille) im Momentous Complete Expert Stack — fördert das Einschlafen; Teil des Huberman-Schlaf-Cocktails; milder Östrogen-Modulator
 ---
 
 # Apigenin
 
-## Overview
+## Überblick
 
-**Apigenin** is a naturally occurring plant flavonoid found in high concentrations in chamomile. It promotes sleep onset and relaxation through mild GABA-A receptor modulation.
+**Apigenin** ist ein natürlich vorkommendes pflanzliches Flavonoid, das in hohen Konzentrationen in Kamille vorkommt. Es fördert das Einschlafen und die Entspannung durch eine milde Modulation des GABA-A-Rezeptors.
 
-## Protocol Usage
+## Protokoll-Verwendung
 
-- **Included in:** [[Momentous]] Complete Expert Stack
-- **Role:** Sleep onset support
-- **Timing:** Evening (per Momentous instructions)
-- **Context:** Part of [[Oleg Personal Context|Oleg]]'s [[Supplement Stack]]
+- **Enthalten in:** [[Momentous]] Complete Expert Stack
+- **Rolle:** Unterstützung des Einschlafens
+- **Zeitpunkt:** Abends (gemäß Momentous-Anweisungen)
+- **Kontext:** Teil von [[Oleg Personal Context|Olegs]] [[Supplement Stack]]
 
-## Mechanisms
+## Wirkmechanismen
 
-- **GABA-A modulation:** Mild positive allosteric modulator — promotes relaxation without sedation
-- **Estrogen modulation:** Apigenin inhibits an enzyme that converts testosterone to estrogen — potential hormonal implication for males at higher doses
-- **Anxiolytic:** Mild anti-anxiety effects
+- **GABA-A-Modulation:** Milder positiver allosterischer Modulator — fördert Entspannung ohne Sedierung
+- **Östrogen-Modulation:** Apigenin hemmt ein Enzym, das Testosteron in Östrogen umwandelt — mögliche hormonelle Auswirkungen bei Männern in höheren Dosierungen
+- **Anxiolytisch:** Milde angstlösende Wirkung
 
-## Huberman Protocol Context
+## Huberman-Protokoll-Kontext
 
-Apigenin is part of [[Andrew Huberman]]'s sleep supplement stack (alongside [[Magnesium L-Threonate]] and [[L-Theanin]]). Its inclusion in the Momentous Expert Stack directly reflects this recommendation.
+Apigenin ist Teil von [[Andrew Huberman]]s Schlaf-Supplement-Stack (zusammen mit [[Magnesium L-Threonate]] und [[L-Theanin]]). Die Aufnahme in den Momentous Expert Stack spiegelt diese Empfehlung direkt wider.
 
-## Notes
+## Hinweise
 
-- Generally considered safe at supplement doses (50mg typical)
-- Mild estrogen-modulating effect is worth monitoring for males using long-term
-- Not a sedative — promotes natural sleep onset
+- Bei Supplement-Dosierungen allgemein als sicher eingestuft (typisch 50 mg)
+- Der milde östrogen-modulierende Effekt ist bei Männern bei Langzeitanwendung überwachungswürdig
+- Kein Sedativum — fördert natürliches Einschlafen
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — stack context
-- [[Momentous]] — brand
-- [[Magnesium L-Threonate]] — co-supplement in sleep stack
-- [[L-Theanin]] — co-supplement in sleep stack
-- [[Andrew Huberman]] — protocol source
-- [[Health Protocol Master]] — broader protocol
+- [[Supplement Stack]] — Stack-Kontext
+- [[Momentous]] — Marke
+- [[Magnesium L-Threonate]] — Ergänzungsmittel im Schlaf-Stack
+- [[L-Theanin]] — Ergänzungsmittel im Schlaf-Stack
+- [[Andrew Huberman]] — Protokollquelle
+- [[Health Protocol Master]] — übergeordnetes Protokoll

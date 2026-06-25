@@ -5,36 +5,36 @@ tags: [business, café, berlin, rejected, archive, solo-venture]
 sources: ["raw/00-MOC/MOC Strategie & Business.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Rejected solo analysis of a Berlin café venture — predecessor to the Café Berlin Partnership Hai project; archived
+summary: Abgelehnte Solo-Analyse eines Berliner Café-Projekts — Vorläufer des Café Berlin Partnership Hai-Projekts; archiviert
 ---
 
-# Café Berlin — Solo-Analyse (Rejected)
+# Café Berlin — Solo-Analyse (Abgelehnt)
 
-## Overview
+## Überblick
 
-This entry represents a prior strategic analysis of opening a café in Berlin as a **solo venture** by [[Oleg Personal Context|Oleg]]. The analysis was ultimately **rejected**, and the project was archived.
+Dieser Eintrag repräsentiert eine frühere strategische Analyse zur Eröffnung eines Cafés in Berlin als **Solo-Vorhaben** von [[Oleg Personal Context|Oleg]]. Die Analyse wurde letztendlich **abgelehnt** und das Projekt archiviert.
 
-## Context
+## Kontext
 
-The rejection of the solo café concept appears to have preceded or directly led to the current [[Café Berlin Partnership Hai]] project, which involves co-founding with partner [[Hai]] rather than going it alone.
+Die Ablehnung des Solo-Café-Konzepts scheint dem aktuellen Projekt [[Café Berlin Partnership Hai]] vorausgegangen zu sein bzw. direkt dazu geführt zu haben. Dieses Projekt beinhaltet eine Mitgründung mit Partner [[Hai]] anstatt eines Alleingangs.
 
-This suggests a deliberate strategic shift:
-- Solo analysis → deemed non-viable or undesirable
-- Partnership model with Hai → adopted as the preferred path forward
+Dies deutet auf eine bewusste strategische Neuausrichtung hin:
+- Solo-Analyse → als nicht tragfähig oder unerwünscht eingestuft
+- Partnerschaftsmodell mit Hai → als bevorzugter Weg nach vorne gewählt
 
-## Archived Status
+## Archivierungsstatus
 
-- **Status:** Rejected / Archived
-- **Listed in:** [[MOC Strategie und Business]] under Abgeschlossen / Archiv
-- **Successor project:** [[Café Berlin Partnership Hai]]
+- **Status:** Abgelehnt / Archiviert
+- **Aufgeführt in:** [[MOC Strategie und Business]] unter Abgeschlossen / Archiv
+- **Nachfolgeprojekt:** [[Café Berlin Partnership Hai]]
 
-## Strategic Implication
+## Strategische Implikation
 
-The existence of this prior solo analysis indicates Oleg conducted due diligence before committing to the partnership structure. The partnership model (Priority 1 as of June 2026) was chosen over the solo model.
+Die Existenz dieser früheren Solo-Analyse zeigt, dass Oleg eine sorgfältige Prüfung (Due Diligence) durchgeführt hat, bevor er sich für die Partnerschaftsstruktur entschieden hat. Das Partnerschaftsmodell (Priorität 1 ab Juni 2026) wurde gegenüber dem Solo-Modell bevorzugt.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Café Berlin Partnership Hai]] — active successor project
-- [[Oleg Personal Context]] — decision maker
-- [[MOC Strategie und Business]] — parent MOC
-- [[Hai]] — co-founder in the partnership model
+- [[Café Berlin Partnership Hai]] — aktives Nachfolgeprojekt
+- [[Oleg Personal Context|Oleg Personal Context]] — Entscheidungsträger
+- [[MOC Strategie und Business]] — übergeordnete MOC
+- [[Hai]] — Mitgründer im Partnerschaftsmodell

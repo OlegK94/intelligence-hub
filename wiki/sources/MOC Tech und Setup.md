@@ -5,78 +5,78 @@ tags: [MOC, tech, setup, privacy, infrastructure, tools, navigation]
 sources: ["raw/00-MOC/MOC Tech & Setup.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Map of Content for Oleg's Tech & Setup domain — active tech projects, infrastructure stack, and device inventory as of June 2026
+summary: Inhaltsübersicht (Map of Content) für Olegs Bereich Tech & Setup — aktive Tech-Projekte, Infrastruktur-Stack und Geräteinventar, Stand Juni 2026
 ---
 
 # MOC Tech & Setup
 
-## Overview
+## Überblick
 
-This is the navigation hub for [[Oleg Personal Context|Oleg]]'s **Tech & Setup** domain within his personal vault. It organizes active tech-related projects and documents his current infrastructure stack.
+Dies ist der Navigationshub für [[Oleg Personal Context|Olegs]] **Tech & Setup**-Bereich innerhalb seines persönlichen Vaults. Er organisiert aktive technikbezogene Projekte und dokumentiert seinen aktuellen Infrastruktur-Stack.
 
-This MOC is one of four domain MOCs referenced in [[Oleg Home MOC]].
+Dieser MOC ist einer von vier Domain-MOCs, die im [[Oleg Home MOC]] referenziert werden.
 
-## Aktiv (Active Projects)
+## Aktiv (Aktive Projekte)
 
-- [[Privacy and Tech Stack]] — active topic/document on privacy posture and tool choices
-- [[Claude Projects Setup]] — setup and configuration of Claude AI projects
-- [[Password Manager Migration]] — open project (Priority 5 in [[Oleg Home MOC]])
+- [[Privacy and Tech Stack]] — aktives Thema/Dokument zu Privacy-Haltung und Toolauswahl
+- [[Claude Projects Setup]] — Einrichtung und Konfiguration von Claude-KI-Projekten
+- [[Password Manager Migration]] — offenes Projekt (Priorität 5 im [[Oleg Home MOC]])
 
 ## Infrastruktur (Infrastructure Stack)
 
 ### Domain & DNS
 - **Domain:** `ok-holding.com`
-- **DNS Provider:** GoDaddy
+- **DNS-Anbieter:** GoDaddy
 
-### Communication
-- **Email:** Proton Mail
+### Kommunikation
+- **E-Mail:** Proton Mail
 - **VPN:** Proton VPN
 
-### Security
-- **Passwords:** Proton Pass (current)
-- **Migration Target:** Apple Passwords (migration open — see [[Password Manager Migration]])
+### Sicherheit
+- **Passwörter:** Proton Pass (aktuell)
+- **Migrationsziel:** Apple Passwords (Migration offen — siehe [[Password Manager Migration]])
 
-### Browsers
+### Browser
 - **Desktop:** Brave
 - **iOS:** Safari
 
-### Devices
+### Geräte
 - iPhone
 - iPad Air 2025
 - Mac
 
-## Relationship to Other MOCs
+## Beziehung zu anderen MOCs
 
-| MOC | Domain |
+| MOC | Bereich |
 |---|---|
-| [[MOC Strategie und Business]] | Business and strategy |
-| [[MOC Performance und Leben]] | Health, training, lifestyle |
-| **MOC Tech und Setup** | Tools, infrastructure, privacy |
-| [[MOC Recherchen]] | Research projects |
+| [[MOC Strategie und Business]] | Business und Strategie |
+| [[MOC Performance und Leben]] | Gesundheit, Training, Lifestyle |
+| **MOC Tech und Setup** | Tools, Infrastruktur, Privacy |
+| [[MOC Recherchen]] | Rechercheprojekte |
 
-## Notes on Active Topics
+## Hinweise zu aktiven Themen
 
 ### Privacy and Tech Stack
-A dedicated document on Oleg's privacy posture and tool selections. The current stack reflects a **Proton-centric privacy approach** (Mail + VPN + Pass) combined with privacy-respecting browsers (Brave on desktop, Safari on iOS).
+Ein dediziertes Dokument zu Olegs Privacy-Haltung und Toolauswahl. Der aktuelle Stack spiegelt einen **Proton-zentrierten Privacy-Ansatz** (Mail + VPN + Pass) kombiniert mit datenschutzfreundlichen Browsern (Brave auf dem Desktop, Safari auf iOS) wider.
 
 ### Claude Projects Setup
-Suggests Oleg actively uses Claude AI (Anthropic) in a structured "Projects" format — likely for knowledge management, writing, or business analysis tasks. This aligns with the LLM-powered wiki architecture of this vault.
+Deutet darauf hin, dass Oleg Claude AI (Anthropic) aktiv in einem strukturierten „Projects"-Format nutzt — wahrscheinlich für Wissensmanagement, Schreiben oder Business-Analysen. Dies passt zur LLM-gestützten Wiki-Architektur dieses Vaults.
 
 ### Password Manager Migration
-Currently using **Proton Pass**; considering migration to **Apple Passwords**. The migration decision is pending (see [[Password Manager Migration]] for full context). This creates a potential consistency question: the Home MOC lists this as Priority 5 with no tool specified; this MOC clarifies the current tool (Proton Pass) and the migration target (Apple Passwords).
+Aktuell wird **Proton Pass** verwendet; eine Migration zu **Apple Passwords** wird erwogen. Die Migrationsentscheidung steht noch aus (siehe [[Password Manager Migration]] für den vollständigen Kontext). Dies wirft eine potenzielle Konsistenzfrage auf: Der Home MOC listet dies als Priorität 5 ohne Toolangabe; dieser MOC präzisiert das aktuelle Tool (Proton Pass) und das Migrationsziel (Apple Passwords).
 
-## Infrastructure Design Principles
+## Designprinzipien der Infrastruktur
 
-The stack reflects a consistent set of preferences:
-- **Privacy-first:** Proton ecosystem (Mail, VPN, Pass), Brave browser
-- **Apple ecosystem integration:** iPhone, iPad, Mac, Safari (iOS), considering Apple Passwords
-- **Domain ownership:** `ok-holding.com` suggests GmbH/holding company branding alignment
-- **Minimalism:** Clean, maintainable stack without redundant tools
+Der Stack spiegelt eine konsistente Reihe von Präferenzen wider:
+- **Privacy-first:** Proton-Ökosystem (Mail, VPN, Pass), Brave Browser
+- **Apple-Ökosystem-Integration:** iPhone, iPad, Mac, Safari (iOS), Apple Passwords in Erwägung gezogen
+- **Domain-Eigentümerschaft:** `ok-holding.com` deutet auf eine Übereinstimmung mit dem GmbH/Holding-Unternehmens-Branding hin
+- **Minimalismus:** Schlanker, wartbarer Stack ohne redundante Tools
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Oleg Home MOC]] — parent navigation hub
-- [[Oleg Personal Context]] — vault owner
-- [[Password Manager Migration]] — active Priority 5 project
-- [[Privacy and Tech Stack]] — privacy posture document
-- [[Oleg Business Entity Structure]] — `ok-holding.com` domain aligns with GmbH holding structure
+- [[Oleg Home MOC]] — übergeordneter Navigationshub
+- [[Oleg Personal Context]] — Vault-Inhaber
+- [[Password Manager Migration]] — aktives Projekt mit Priorität 5
+- [[Privacy and Tech Stack]] — Dokument zur Privacy-Haltung
+- [[Oleg Business Entity Structure]] — Domain `ok-holding.com` passt zur GmbH-Holding-Struktur

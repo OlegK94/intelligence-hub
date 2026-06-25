@@ -63,7 +63,23 @@ def extract_json(text: str) -> dict:
         brace = re.search(r"\{.*\}", text, re.DOTALL)
         if brace:
             text = brace.group(0)
-    return json.loads(text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # Try repair: replace unescaped newlines inside string values
+        try:
+            import re as _re
+            repaired = _re.sub(r'(?<!\\)\n', r'\\n', text)
+            return json.loads(repaired)
+        except json.JSONDecodeError:
+            pass
+        # Last resort: use json5 / demjson if available, else re-raise
+        try:
+            import json5  # type: ignore
+            return json5.loads(text)
+        except (ImportError, Exception):
+            pass
+        raise
 
 
 def call_claude(client, system: str, user: str, max_tokens: int = 16384) -> str:

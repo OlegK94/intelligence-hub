@@ -1,26 +1,26 @@
 ---
-title: Cyprus Relocation Detail
+title: Zypern Relocation Detail
 type: source
 tags: [relocation, zypern, cyprus, steuern, tax, expat, strategie, blockiert, EOR, employer-of-record, steuerberater]
 sources: ["raw/01-Strategie-Business/Cyprus Relocation.md"]
 created: 2026-04-19
 updated: 2026-06-14
-summary: Full source document for Oleg's Cyprus Relocation plan — country comparison, cost structure, startup capital, gate items (EOR + tax advisor), lifestyle fit, and timeline
+summary: Vollständiges Quelldokument für Olegs Zypern-Relocation-Plan — Ländervergleich, Kostenstruktur, Startkapital, Gate-Items (EOR + Steuerberater), Lifestyle-Eignung und Zeitplan
 ---
 
-# Cyprus Relocation — Source Detail
+# Zypern Relocation — Quelldokument Detail
 
-## Overview
+## Übersicht
 
-This source document (status: Blockiert — 2 Gate-Items offen, created 2026-04-19) captures the full strategic analysis behind [[Oleg Personal Context|Oleg]]'s decision to target **Cyprus** as his relocation destination, along with the open blockers that must be resolved before the move can proceed.
+Dieses Quelldokument (Status: Blockiert — 2 Gate-Items offen, erstellt 2026-04-19) enthält die vollständige strategische Analyse hinter [[Oleg Personal Context|Olegs]] Entscheidung, **Zypern** als Relocation-Ziel anzusteuern, sowie die offenen Blocker, die vor dem Umzug geklärt werden müssen.
 
-> For the entity summary and strategic tension with [[Café Berlin Partnership Hai]], see [[Cyprus Relocation]].
+> Für die Entity-Zusammenfassung und die strategische Spannung mit [[Café Berlin Partnership Hai]] siehe [[Cyprus Relocation]].
 
-## Country Decision
+## Länderwahl
 
 **Ranking: Zypern > Portugal > Griechenland > Italien**
 
-### Comparative Analysis
+### Vergleichsanalyse
 
 | Kriterium | Zypern | Portugal (IFICI) |
 |---|---|---|
@@ -30,37 +30,37 @@ This source document (status: Blockiert — 2 Gate-Items offen, created 2026-04-
 | Lebenshaltungskosten | Moderat | Stark gestiegen (Lissabon) |
 | Deutsch-Zypriotische Steuerberatung | Verfügbar | — |
 
-### Why Portugal (IFICI) Was Rejected
+### Warum Portugal (IFICI) abgelehnt wurde
 
-Portugal's IFICI (successor to NHR) **explicitly excludes sales professions** from the income tax exemption. Since Oleg works in B2B SaaS Sales at [[DoktorLib]], the primary tax benefit would not apply. This makes Cyprus the clear winner for his profile.
+Portugals IFICI (Nachfolger des NHR) **schließt Sales-Berufe explizit** von der Einkommenssteuer-Exemption aus. Da Oleg im B2B SaaS Sales bei [[DoktorLib]] tätig ist, würde der primäre Steuervorteil nicht greifen. Damit ist Zypern für sein Profil der klare Gewinner.
 
-### Why Cyprus Wins
+### Warum Zypern gewinnt
 
-- **50% income tax exemption** for new arrivals (Neuankömmlinge) — applicable to Oleg's sales role
-- **Minimum salary threshold:** ~55,000 € (Oleg's income likely meets or exceeds this)
-- **Moderate cost of living** vs. significantly risen costs in Lisbon
-- **German-Cypriot tax advisory** infrastructure available for cross-border planning
+- **50% Einkommenssteuer-Exemption** für Neuankömmlinge — auf Olegs Sales-Rolle anwendbar
+- **Mindestgehaltsgrenze:** ~55.000 € (Olegs Einkommen dürfte diese Schwelle erreichen oder überschreiten)
+- **Moderate Lebenshaltungskosten** gegenüber den deutlich gestiegenen Kosten in Lissabon
+- **Deutsch-Zypriotische Steuerberatungsinfrastruktur** für grenzüberschreitende Planung verfügbar
 
-## Realistic Cost Structure (2026)
+## Realistische Kostenstruktur (2026)
 
-**Monthly budget for couple + dog: ~4,100 €**
+**Monatliches Budget für Paar + Hund: ~4.100 €**
 
-- Approximately **30% of combined net income** under Cyprus tax regime
-- Leaves a **substantial annual surplus** for investment and/or property
+- Entspricht ca. **30% des gemeinsamen Nettoeinkommens** unter dem zypriotischen Steuerregime
+- Lässt einen **erheblichen jährlichen Überschuss** für Investitionen und/oder Immobilien
 
-This cost structure implies combined net income of approximately **~13,700 € / month** under the Cyprus 50% exemption regime — a significant improvement over the German tax burden.
+Diese Kostenstruktur impliziert ein gemeinsames Nettoeinkommen von ca. **~13.700 € / Monat** unter der zypriotischen 50%-Exemption — eine deutliche Verbesserung gegenüber der deutschen Steuerlast.
 
-## Startup Capital
+## Startkapital
 
-**30,000–35,000 €** identified as sufficient for a comfortable relocation.
+**30.000–35.000 €** als ausreichend für eine komfortable Relocation identifiziert.
 
-This covers:
-- Moving costs
-- Rental deposit + initial rent
-- Setup costs (furnishing, equipment)
-- Buffer before regular income resumes
+Dies deckt ab:
+- Umzugskosten
+- Mietkaution + erste Mietzahlungen
+- Einrichtungskosten (Möbel, Ausstattung)
+- Puffer bis zur Wiederaufnahme regelmäßiger Einkünfte
 
-## Gate-Items (Both Must Be Resolved Before Move)
+## Gate-Items (beide müssen vor dem Umzug geklärt sein)
 
 ### Gate 1: Employer of Record (EOR) — DoktorLib
 
@@ -68,64 +68,64 @@ This covers:
 - [ ] Falls nein: EOR-Lösung (z.B. **Deel**, **Remote.com**) — wer trägt Kosten?
 - [ ] Arbeitsrechtliche Konsequenzen prüfen
 
-**Context:** German employers generally cannot simply employ workers residing in another EU country without either a local entity or an EOR arrangement. DoktorLib would need to either support this directly or engage an EOR provider. The cost of EOR (typically 5–15% of salary) is a material consideration — the question of who bears it (employer vs. employee) is unresolved.
+**Kontext:** Deutsche Arbeitgeber können Mitarbeitende, die in einem anderen EU-Land ansässig sind, in der Regel nicht einfach beschäftigen, ohne dort entweder eine lokale Gesellschaft oder eine EOR-Vereinbarung zu haben. DoktorLib müsste dies entweder direkt unterstützen oder einen EOR-Anbieter beauftragen. Die Kosten eines EOR (typischerweise 5–15% des Gehalts) sind ein wesentlicher Faktor — die Frage, wer diese trägt (Arbeitgeber oder Arbeitnehmer), ist noch ungeklärt.
 
 ### Gate 2: EOR — Partnerin (PM, Kosmetik)
 
 - [ ] Gleiche Klärung für Arbeitgeber der Partnerin
 - [ ] Kosmetikbranche: Remote-Kultur tendenziell geringer → **Risikofaktor**
 
-**Context:** Oleg's partner works in the cosmetics/PM industry. Remote culture in this sector is generally lower than in tech/SaaS, making EOR resolution harder and more uncertain. This is flagged as a risk factor — if the partner cannot work remotely from Cyprus, the relocation may be a solo move or may not happen.
+**Kontext:** Olegs Partnerin arbeitet in der Kosmetik-/PM-Branche. Die Remote-Kultur in diesem Sektor ist generell geringer als in Tech/SaaS, was die EOR-Klärung schwieriger und unsicherer macht. Dies ist als Risikofaktor markiert — falls die Partnerin nicht remote aus Zypern arbeiten kann, könnte der Umzug solo erfolgen oder ganz entfallen.
 
 ### Gate 3: Deutsch-Zypriotischer Steuerberater
 
-- [ ] Kontakt herstellen (Empfehlung via Expat-Communities)
+- [ ] Kontakt herstellen (Empfehlung über Expat-Communities)
 - [ ] Themen:
   - **Exit-Besteuerung Deutschland** (Wegzugsteuer)
   - **Doppelbesteuerungsabkommen DE-CY** (double taxation treaty Germany-Cyprus)
-  - **50%-Exemption Antrag** (application process)
+  - **50%-Exemption Antrag** (Antragsverfahren)
 
-**Note:** This is listed as Gate 3 in the source but framed as prerequisite alongside Gates 1 and 2. The tax advisor is needed to confirm the 50% exemption applicability and plan the exit from Germany's tax system.
+**Hinweis:** Dies ist in der Quelle als Gate 3 gelistet, wird aber als gleichrangige Voraussetzung neben Gates 1 und 2 behandelt. Der Steuerberater wird benötigt, um die Anwendbarkeit der 50%-Exemption zu bestätigen und den Wegzug aus dem deutschen Steuersystem zu planen.
 
-## ⚠️ Assumption [A] — Physical Presence Requirement
+## ⚠️ Annahme [A] — Mindestaufenthaltspflicht
 
 > *Annahme [A]: 50%-Exemption setzt mindestens 60 Tage physische Präsenz auf Zypern voraus — Steuerberater bestätigen lassen.*
 
-The 50% income tax exemption likely requires a **minimum 60 days of physical presence** in Cyprus per year. This assumption must be confirmed by the Deutsch-Zypriotischer Steuerberater. If confirmed, it constrains travel patterns and time in Germany (relevant given [[Café Berlin Partnership Hai]] which requires Berlin presence in Phase 1).
+Die 50%ige Einkommenssteuer-Exemption erfordert wahrscheinlich **mindestens 60 Tage physische Präsenz** auf Zypern pro Jahr. Diese Annahme muss vom Deutsch-Zypriotischen Steuerberater bestätigt werden. Falls bestätigt, schränkt dies Reisemuster und die Zeit in Deutschland ein (relevant angesichts [[Café Berlin Partnership Hai]], das in Phase 1 Berliner Präsenz erfordert).
 
-## Lifestyle Fit (Validated)
+## Lifestyle-Eignung (validiert)
 
-| Category | Assessment |
+| Kategorie | Einschätzung |
 |---|---|
-| Sport | CrossFit/Gym in Limassol/Nikosia — well available |
-| Outdoor | Meer (sea), Troodos-Gebirge (mountains), ganzjährig warm (warm year-round) |
-| Hund (>20 kg) | Cyprus grundsätzlich hundefreundlich; EU pet passport (EU-Heimtierausweis) required for entry |
+| Sport | CrossFit/Gym in Limassol/Nikosia — gut verfügbar |
+| Outdoor | Meer, Troodos-Gebirge, ganzjährig warm |
+| Hund (>20 kg) | Zypern grundsätzlich hundefreundlich; EU-Heimtierausweis erforderlich für die Einreise |
 | Kinder | Noch kein Plan, aber gute Infrastruktur vorhanden |
 
-This validates that Oleg's lifestyle priorities — training (see [[Health Protocol Master]]), outdoor activity, dog ownership — are compatible with Cyprus.
+Dies bestätigt, dass Olegs Lifestyle-Prioritäten — Training (siehe [[Health Protocol Master]]), Outdoor-Aktivitäten, Hundehaltung — mit Zypern vereinbar sind.
 
-## Timeline
+## Zeitplan
 
-- **No hard deadline**
-- **Realistic earliest:** **2027** — after EOR clarification for both Oleg and partner
+- **Kein fester Stichtag**
+- **Realistisch frühestens: 2027** — nach EOR-Klärung für Oleg und Partnerin
 
-The 2027 horizon is consistent with [[Café Berlin Partnership Hai]] Phase 1 requiring Berlin presence through at least 2026.
+Der Horizont 2027 ist konsistent mit [[Café Berlin Partnership Hai]] Phase 1, die mindestens bis 2026 Berliner Präsenz erfordert.
 
-## Cross-Reference: Strategic Tension
+## Querverweis: Strategische Spannung
 
-This source does not address the tension between:
-- [[Café Berlin Partnership Hai]] (Priority 1 — requires Berlin presence)
-- Cyprus Relocation (Priority 3 — leaving Berlin permanently)
+Dieses Quelldokument behandelt nicht die Spannung zwischen:
+- [[Café Berlin Partnership Hai]] (Priorität 1 — erfordert Berliner Präsenz)
+- Zypern Relocation (Priorität 3 — dauerhaftes Verlassen Berlins)
 
-See [[Cyprus Relocation]] entity page and [[Café Berlin Partnership Hai]] for the documented tension note.
+Siehe [[Cyprus Relocation]] Entity-Seite und [[Café Berlin Partnership Hai]] für den dokumentierten Spannungshinweis.
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Cyprus Relocation]] — entity summary page
-- [[Oleg Personal Context]] — decision maker
-- [[DoktorLib]] — employer whose EOR policy is a gate item
-- [[Café Berlin Partnership Hai]] — strategic tension (Berlin vs. Cyprus)
-- [[Financial Independence]] — underlying motivation
-- [[Oleg Business Entity Structure]] — GmbH implications for Cyprus move
-- [[MOC Strategie und Business]] — strategic MOC
-- [[Cyprus Tax Regime]] — tax framework concept (see below)
+- [[Cyprus Relocation]] — Entity-Zusammenfassungsseite
+- [[Oleg Personal Context]] — Entscheidungsträger
+- [[DoktorLib]] — Arbeitgeber, dessen EOR-Regelung ein Gate-Item ist
+- [[Café Berlin Partnership Hai]] — strategische Spannung (Berlin vs. Zypern)
+- [[Financial Independence]] — zugrunde liegende Motivation
+- [[Oleg Business Entity Structure]] — GmbH-Implikationen für den Zypern-Umzug
+- [[MOC Strategie und Business]] — strategische MOC
+- [[Cyprus Tax Regime]] — steuerliches Rahmenkonzept (siehe unten)

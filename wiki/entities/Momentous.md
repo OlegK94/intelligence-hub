@@ -5,61 +5,61 @@ tags: [supplement-brand, performance, huberman, evidence-based, whey, creatine, 
 sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-06
 updated: 2026-06-06
-summary: Premium supplement brand and official Huberman Lab partner — primary brand for Oleg's supplement stack, covering protein, creatine, omega-3, and the Complete Expert Stack bundle
+summary: Premium-Supplement-Marke und offizieller Huberman-Lab-Partner — Hauptmarke für Olegs Supplement-Stack, mit Protein, Kreatin, Omega-3 und dem Complete Expert Stack Bundle
 ---
 
 # Momentous
 
-## Overview
+## Überblick
 
-**Momentous** is a premium supplement company known for high-quality, third-party tested products. It is the **official supplement partner of the Huberman Lab podcast** ([[Andrew Huberman]]), which contributes to its prominence in evidence-based health optimization communities.
+**Momentous** ist ein Premium-Supplement-Unternehmen, bekannt für hochwertige, von Dritten getestete Produkte. Es ist der **offizielle Supplement-Partner des Huberman Lab Podcasts** ([[Andrew Huberman]]), was zu seiner Bekanntheit in evidenzbasierten Gesundheitsoptimierungs-Communities beiträgt.
 
-Momentous is the **primary brand** in [[Oleg Personal Context|Oleg]]'s [[Supplement Stack]], covering the majority of his active supplements.
+Momentous ist die **Hauptmarke** in [[Oleg Personal Context|Olegs]] [[Supplement Stack]], die den Großteil seiner aktiven Supplemente abdeckt.
 
-## Products Used (Oleg's Stack)
+## Verwendete Produkte (Olegs Stack)
 
-| Product | Role in Stack |
+| Produkt | Rolle im Stack |
 |---|---|
-| Complete Expert Stack | Bundled foundational supplements (D3/K2, Magnesium L-Threonate, Apigenin, L-Theanin, etc.) |
-| Whey Protein Isolate (Unflavored) | Post-workout protein (~40g) |
-| Omega-3 | Essential fatty acids |
-| Creatine | 5g daily for strength and cognition |
+| Complete Expert Stack | Gebündeltes Basissupplement-Paket (D3/K2, Magnesium L-Threonat, Apigenin, L-Theanin, etc.) |
+| Whey Protein Isolate (Unflavored) | Post-Workout-Protein (~40g) |
+| Omega-3 | Essentielle Fettsäuren |
+| Creatine | 5g täglich für Kraft und Kognition |
 
-## Brand Principles
+## Markenprinzipien
 
-- **Third-party tested:** NSF Certified for Sport and/or Informed Sport
-- **Research-backed:** Formulations based on peer-reviewed research
-- **Clean formulations:** No unnecessary additives
-- **Transparency:** Clear dosing and ingredient disclosure
+- **Drittanbieter-geprüft:** NSF Certified for Sport und/oder Informed Sport
+- **Forschungsbasiert:** Formulierungen auf Basis von Peer-Review-Studien
+- **Saubere Formulierungen:** Keine unnötigen Zusatzstoffe
+- **Transparenz:** Klare Dosierungs- und Inhaltsstoffangaben
 
-## Huberman Lab Connection
+## Huberman-Lab-Verbindung
 
-Momentous is the official supplement partner of [[Andrew Huberman]]'s podcast. This connection means:
-- Products are formulated around Huberman's evidence-based protocols
-- The Complete Expert Stack mirrors Huberman's recommended supplement regimen
-- Dosing is based on scientific literature referenced in podcast episodes
+Momentous ist der offizielle Supplement-Partner des Podcasts von [[Andrew Huberman]]. Diese Verbindung bedeutet:
+- Produkte werden auf Basis von Hubermans evidenzbasierten Protokollen formuliert
+- Der Complete Expert Stack spiegelt Hubermans empfohlenes Supplement-Regime wider
+- Die Dosierung basiert auf wissenschaftlicher Literatur, die in Podcast-Episoden referenziert wird
 
-## Procurement
+## Beschaffung
 
-- **Channels:** Momentous website (international shipping) or Amazon
-- **Note:** International shipping available for Germany
+- **Kanäle:** Momentous-Website (internationaler Versand) oder Amazon
+- **Hinweis:** Internationaler Versand nach Deutschland verfügbar
 
-## Why Momentous as Primary Brand
+## Warum Momentous als Hauptmarke
 
-The [[Supplement Stack]] source document states the guiding principle as "Momentous-exklusiv" — Momentous is preferred because:
-1. High quality / third-party testing standard
-2. Product range covers most needed supplements
-3. Huberman protocol alignment
-4. Single-source simplicity (no duplicate sourcing)
+Das Quelldokument des [[Supplement Stack]] nennt als Leitprinzip „Momentous-exklusiv" — Momentous wird bevorzugt, weil:
+1. Hohe Qualität / Drittanbieter-Teststandard
+2. Das Produktsortiment deckt die meisten benötigten Supplemente ab
+3. Übereinstimmung mit dem Huberman-Protokoll
+4. Vereinfachte Beschaffung aus einer Quelle (kein doppeltes Sourcing)
 
-Exceptions are made only when Momentous offers **no equivalent product** — currently only [[Sulforaphane]] (sourced from [[Sunday Natural]]).
+Ausnahmen werden nur dann gemacht, wenn Momentous **kein gleichwertiges Produkt** anbietet — derzeit nur [[Sulforaphane]] (bezogen von [[Sunday Natural]]).
 
-## Related Pages
+## Verwandte Seiten
 
-- [[Supplement Stack]] — full stack using Momentous products
-- [[Supplement Stack Source Detail]] — source document
-- [[Andrew Huberman]] — Huberman Lab partnership
-- [[Health Protocol Master]] — protocol context
-- [[Creatine]] — specific product
-- [[Sulforaphane]] — sole non-Momentous exception
-- [[Oleg Personal Context]] — end user
+- [[Supplement Stack]] — vollständiger Stack mit Momentous-Produkten
+- [[Supplement Stack Source Detail]] — Quelldokument
+- [[Andrew Huberman]] — Huberman-Lab-Partnerschaft
+- [[Health Protocol Master]] — Protokollkontext
+- [[Creatine]] — spezifisches Produkt
+- [[Sulforaphane]] — einzige Nicht-Momentous-Ausnahme
+- [[Oleg Personal Context]] — Endnutzer

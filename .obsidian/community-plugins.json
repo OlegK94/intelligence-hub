@@ -1,3 +1,13 @@
 [
-  "terminal"
+  "terminal",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-tasks-plugin",
+  "obsidian42-brat",
+  "obsidian-kanban",
+  "marp",
+  "dataview",
+  "periodic-notes",
+  "realclaudian",
+  "templater-obsidian"
 ]

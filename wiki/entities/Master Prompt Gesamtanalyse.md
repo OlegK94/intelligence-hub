@@ -5,45 +5,45 @@ tags: [finance, analyse, unternehmen, insolvenz, strategie, oleg, prompts]
 sources: ["raw/Finanzdaten/ObsidianVault/Finance/OK Capital UG.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Referenced analysis framework for the comprehensive review of Oleg's corporate entities (OK Capital UG and Wagglz GmbH) — covers insolvency checks, strategic options, and documentation review; not yet ingested as a standalone source
+summary: Referenziertes Analyseframework für die umfassende Prüfung von Olegs Unternehmenseinheiten (OK Capital UG und Wagglz GmbH) — umfasst Insolvenzprüfungen, strategische Optionen und Dokumentenprüfung; noch nicht als eigenständige Quelle eingelesen
 ---
 
 # Master Prompt — Gesamtanalyse
 
-## Overview
+## Überblick
 
-The **Master Prompt — Gesamtanalyse** is referenced in both [[OK Capital UG]] and [[Wagglz GmbH]] source materials as the framework document for conducting a comprehensive analysis of Oleg's corporate entities.
+Der **Master Prompt — Gesamtanalyse** wird in den Quellmaterialien sowohl von [[OK Capital UG]] als auch von [[Wagglz GmbH]] als Rahmendokument für die Durchführung einer umfassenden Analyse von Olegs Unternehmenseinheiten referenziert.
 
-> ⚠️ **Stub page** — This page was created from a wikilink reference (`[[Master Prompt – Gesamtanalyse]]`) in [[OK Capital UG Source Detail]]. The underlying source document has not been ingested. Content below is inferred from context.
+> ⚠️ **Stub-Seite** — Diese Seite wurde aus einem Wikilink-Verweis (`[[Master Prompt – Gesamtanalyse]]`) in [[OK Capital UG Source Detail]] erstellt. Das zugrundeliegende Quelldokument wurde noch nicht eingelesen. Der nachfolgende Inhalt ist aus dem Kontext abgeleitet.
 
-## Purpose (Inferred)
+## Zweck (abgeleitet)
 
-Based on its position in the OK Capital UG document, the Gesamtanalyse framework likely covers:
+Basierend auf seiner Position im OK Capital UG-Dokument deckt das Gesamtanalyse-Framework voraussichtlich folgende Bereiche ab:
 
-1. **Insolvency Assessment** for each entity:
-   - Eigenkapitalstatus (positive/negative equity)
-   - Zahlungsfähigkeit (liquidity)
-   - Antragspflicht prüfen (insolvency filing obligation)
-   - GF-Haftungsrisiken (managing director liability)
+1. **Insolvenzbeurteilung** für jede Einheit:
+   - Eigenkapitalstatus (positives/negatives Eigenkapital)
+   - Zahlungsfähigkeit (Liquidität)
+   - Antragspflicht prüfen (Insolvenzantragspflicht)
+   - GF-Haftungsrisiken (Haftungsrisiken des Geschäftsführers)
 
-2. **Document Review:**
+2. **Dokumentenprüfung:**
    - Jahresabschluss / BWA
    - Kontoauszüge
    - Gesellschaftsvertrag / Darlehensverträge
 
-3. **Strategic Decision Framework:**
-   - Liquidation vs. Dormancy vs. Merger vs. Continuation
-   - Cost/benefit for each entity
+3. **Strategischer Entscheidungsrahmen:**
+   - Liquidation vs. Dormancy vs. Verschmelzung vs. Fortführung
+   - Kosten-Nutzen-Abwägung für jede Einheit
 
-## Scope
+## Umfang
 
-- [[OK Capital UG]] — explicitly references this document
-- [[Wagglz GmbH]] — implicitly in scope (same open questions)
+- [[OK Capital UG]] — referenziert dieses Dokument explizit
+- [[Wagglz GmbH]] — implizit im Scope (dieselben offenen Fragen)
 
-## Related Pages
+## Verwandte Seiten
 
-- [[OK Capital UG]] — references this framework
-- [[OK Capital UG Source Detail]] — raw source with the link
-- [[Wagglz GmbH]] — co-entity in scope
-- [[Oleg Business Entity Structure]] — entity structure overview
-- [[Oleg Personal Context]] — decision maker
+- [[OK Capital UG]] — referenziert dieses Framework
+- [[OK Capital UG Source Detail]] — Rohquelle mit dem Verweis
+- [[Wagglz GmbH]] — gemeinsame Einheit im Scope
+- [[Oleg Business Entity Structure]] — Übersicht der Unternehmensstruktur
+- [[Oleg Personal Context]] — Entscheidungsträger

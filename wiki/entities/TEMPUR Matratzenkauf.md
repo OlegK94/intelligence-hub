@@ -10,63 +10,63 @@ summary: Abgeschlossene Kaufentscheidung — 2× TEMPUR PRO Plus SmartCool 90×2
 
 # TEMPUR Matratzenkauf
 
-## Overview
+## Überblick
 
-Completed purchase research and decision for mattresses. [[Oleg Personal Context|Oleg]] and his partner selected **2× TEMPUR PRO Plus SmartCool 90×200** in different firmness levels, driven by a 40 kg weight difference that made a shared firmness level an unacceptable compromise.
+Abgeschlossene Kaufrecherche und -entscheidung für Matratzen. [[Oleg Personal Context|Oleg]] und seine Partnerin haben sich für **2× TEMPUR PRO Plus SmartCool 90×200** in unterschiedlichen Härtegraden entschieden, bedingt durch einen Gewichtsunterschied von 40 kg, der einen gemeinsamen Härtegrad zu einem inakzeptablen Kompromiss gemacht hätte.
 
-> For the full comparison tables and deal research, see [[TEMPUR Matratzenkauf Source Detail]].
+> Für die vollständigen Vergleichstabellen und Angebotsrecherche siehe [[TEMPUR Matratzenkauf Source Detail]].
 
 ## Status
 
 - **Status:** ✅ Abgeschlossen (Concluded)
-- **Decision Made:** 2026-05-14
-- **Linked to:** [[MOC Performance and Leben]]
+- **Entscheidung getroffen:** 2026-05-14
+- **Verknüpft mit:** [[MOC Performance and Leben]]
 
-## Decision
+## Entscheidung
 
-**2× TEMPUR PRO Plus SmartCool, 90×200 cm** — one per person, different firmness levels.
+**2× TEMPUR PRO Plus SmartCool, 90×200 cm** — eine pro Person, unterschiedliche Härtegrade.
 
-### Why Two Separate Mattresses
+### Warum zwei separate Matratzen
 
-- **40 kg weight difference** (Oleg ~100 kg vs. partner ~60 kg)
-- A single shared firmness would be a compromise for both
-- Two separate 90×200 mattresses allow each person to sleep on their optimal firmness
-- This is the standard TEMPUR recommendation for couples with significantly different body weights
+- **40 kg Gewichtsunterschied** (Oleg ~100 kg vs. Partnerin ~60 kg)
+- Ein einziger gemeinsamer Härtegrad wäre für beide ein Kompromiss
+- Zwei separate 90×200-Matratzen ermöglichen es jeder Person, auf dem optimalen Härtegrad zu schlafen
+- Dies ist die Standard-TEMPUR-Empfehlung für Paare mit deutlich unterschiedlichen Körpergewichten
 
-## Configuration
+## Konfiguration
 
 | Person | Gewicht | Schlafposition | Härtegrad |
 |---|---|---|---|
 | [[Oleg Personal Context\|Oleg]] | ~100 kg | Rücken + Seite | **Medium Firm** |
 | Partnerin | ~60 kg | — | **Medium** |
 
-## Product Choice: SmartCool
+## Produktwahl: SmartCool
 
-Smart Cool was chosen over the CoolQuilt variant because:
-- **Washable cover** — hygiene advantage, no counterpart in CoolQuilt
-- **Lower price** — SmartCool is cheaper despite identical core material
-- Core TEMPUR material is identical between both variants
+SmartCool wurde gegenüber der CoolQuilt-Variante gewählt, weil:
+- **Waschbarer Bezug** — hygienischer Vorteil, ohne Entsprechung bei CoolQuilt
+- **Niedrigerer Preis** — SmartCool ist trotz identischem Kernmaterial günstiger
+- Das TEMPUR-Kernmaterial ist bei beiden Varianten identisch
 
-## Pillows
+## Kissen
 
 | Person | Modell | Größe |
 |---|---|---|
 | Oleg (188 cm, ~100 kg) | TEMPUR Shape SmartCool Queen | **L** |
 | Partnerin | TEMPUR Shape SmartCool Queen | **M** |
 
-> **Note:** Pillow L size for Oleg (188 cm) supports proper cervical alignment during sleep — relevant to his [[Forward Head Posture]] correction protocol (30° deviation identified at [[3D Body Scan Scaneca Mai 2026]]). Proper sleep posture complements the face pulls and neck stretching documented in [[Health Protocol Master]].
+> **Hinweis:** Kissengröße L für Oleg (188 cm) unterstützt eine korrekte Halswirbelsäulenausrichtung während des Schlafs — relevant für sein [[Forward Head Posture]]-Korrekturprotokoll (30° Abweichung festgestellt beim [[3D Body Scan Scaneca Mai 2026]]). Eine korrekte Schlafhaltung ergänzt die Face Pulls und Nackendehnung, die im [[Health Protocol Master]] dokumentiert sind.
 
-## Deals Available
+## Verfügbare Angebote
 
-- **Hersteller-Aktion:** Up to 600 € discount on SmartCool mattresses (TEMPUR website)
-- **Second Chance B-Ware:** Up to 60% discount (TEMPUR website — returned/display items)
-- **Third-party codes:** No verified discount codes found for XXXLutz or TEMPUR via third parties
+- **Hersteller-Aktion:** Bis zu 600 € Rabatt auf SmartCool-Matratzen (TEMPUR-Website)
+- **Second Chance B-Ware:** Bis zu 60% Rabatt (TEMPUR-Website — Rückgabe-/Ausstellungsstücke)
+- **Drittanbieter-Codes:** Keine verifizierten Rabattcodes für XXXLutz oder TEMPUR über Drittanbieter gefunden
 
-## Related Pages
+## Verwandte Seiten
 
-- [[TEMPUR Matratzenkauf Source Detail]] — full source document
-- [[Sleep Optimization]] — broader sleep context
-- [[Forward Head Posture]] — cervical alignment relevance (pillow selection)
-- [[Health Protocol Master]] — protocol with sleep and posture correction goals
-- [[MOC Performance and Leben]] — parent MOC
-- [[Oleg Personal Context]] — purchaser
+- [[TEMPUR Matratzenkauf Source Detail]] — vollständiges Quelldokument
+- [[Sleep Optimization]] — übergeordneter Schlafkontext
+- [[Forward Head Posture]] — Relevanz der Halswirbelsäulenausrichtung (Kissenauswahl)
+- [[Health Protocol Master]] — Protokoll mit Schlaf- und Haltungskorrekturzielen
+- [[MOC Performance and Leben]] — übergeordnete MOC
+- [[Oleg Personal Context]] — Käufer

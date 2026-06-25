@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Analyse-Anweisung — Kontoauszüge Oleg Kober</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
+
+:root {
+  --bg: #0c0e0f;
+  --surface: #131618;
+  --surface2: #1a1d20;
+  --border: #252a2e;
+  --text: #c8d0d8;
+  --muted: #5a6370;
+  --white: #eef1f4;
+  --red: #ff4545;
+  --red-dim: #2a0f0f;
+  --amber: #f5a623;
+  --amber-dim: #2a1e08;
+  --green: #2ecc71;
+  --green-dim: #0a2318;
+  --blue: #4a9eff;
+  --blue-dim: #0d1f35;
+  --purple: #a78bfa;
+  --purple-dim: #1e1535;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 13px;
+  line-height: 1.7;
+  padding: 36px 22px;
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.mono { font-family: 'Space Mono', monospace; }
+
+header {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.eyebrow {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: 700;
+  color: var(--white);
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+  margin-bottom: 8px;
+}
+
+.header-sub { font-size: 12px; color: var(--muted); font-family: 'Space Mono', monospace; }
+
+/* Steps */
+.step {
+  margin-bottom: 36px;
+}
+
+.step-head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.step-num {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.step-num.blue { background: var(--blue-dim); color: var(--blue); border: 1px solid var(--blue); }
+.step-num.amber { background: var(--amber-dim); color: var(--amber); border: 1px solid var(--amber); }
+.step-num.green { background: var(--green-dim); color: var(--green); border: 1px solid var(--green); }
+.step-num.purple { background: var(--purple-dim); color: var(--purple); border: 1px solid var(--purple); }
+.step-num.red { background: var(--red-dim); color: var(--red); border: 1px solid var(--red); }
+
+.step-title { font-size: 16px; font-weight: 600; color: var(--white); }
+.step-sub { font-size: 11px; color: var(--muted); margin-top: 2px; }
+
+/* Boxes */
+.box {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 16px 18px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.box.blue { border-color: var(--blue); background: var(--blue-dim); }
+.box.amber { border-color: var(--amber); background: var(--amber-dim); }
+.box.green { border-color: var(--green); background: var(--green-dim); }
+.box.red { border-color: var(--red); background: var(--red-dim); }
+
+.box-title {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+  margin-bottom: 8px;
+}
+
+.box.blue .box-title { color: var(--blue); }
+.box.amber .box-title { color: var(--amber); }
+.box.green .box-title { color: var(--green); }
+.box.red .box-title { color: var(--red); }
+
+/* The prompt box */
+.prompt-box {
+  background: #0a0f0a;
+  border: 1px solid var(--green);
+  border-radius: 3px;
+  padding: 20px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  line-height: 1.8;
+  color: #a8d8a8;
+  white-space: pre-wrap;
+  word-break: break-word;
+  position: relative;
+}
+
+.prompt-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--green);
+  margin-bottom: 8px;
+  opacity: 0.7;
+}
+
+.prompt-highlight { color: #ffffff; font-weight: 700; }
+.prompt-comment { color: #4a7a4a; }
+.prompt-value { color: var(--amber); }
+
+/* Analysis items */
+.analysis-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.analysis-item {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 12px 14px;
+}
+
+.ai-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--blue);
+  margin-bottom: 6px;
+}
+
+.ai-title { font-size: 12px; font-weight: 600; color: var(--white); margin-bottom: 4px; }
+.ai-desc { font-size: 11px; color: var(--muted); line-height: 1.5; }
+
+/* Checklist */
+.checklist { list-style: none; }
+.checklist li {
+  display: flex;
+  gap: 10px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 12px;
+  align-items: flex-start;
+}
+.checklist li:last-child { border-bottom: none; }
+.check { color: var(--green); font-family: 'Space Mono', monospace; flex-shrink: 0; margin-top: 1px; }
+.check.pending { color: var(--amber); }
+.check.skip { color: var(--muted); }
+
+/* Path cards */
+.paths { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 10px; }
+.path-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.path-head {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.path-badge {
+  font-family: 'Space Mono', monospace;
+  font-size: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 2px 7px;
+  border-radius: 2px;
+}
+
+.path-badge.recommended { background: var(--green-dim); color: var(--green); }
+.path-badge.fallback { background: var(--amber-dim); color: var(--amber); }
+
+.path-title { font-size: 12px; font-weight: 600; color: var(--white); }
+.path-body { padding: 12px 14px; font-size: 11px; color: var(--text); line-height: 1.6; }
+.path-body strong { color: var(--white); }
+
+hr { border: none; border-top: 1px solid var(--border); margin: 28px 0; }
+
+footer {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: var(--muted);
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+  margin-top: 32px;
+}
+
+.tag {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  padding: 2px 7px;
+  border-radius: 2px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+
+.tag.blue { background: var(--blue-dim); color: var(--blue); }
+.tag.green { background: var(--green-dim); color: var(--green); }
+.tag.amber { background: var(--amber-dim); color: var(--amber); }
+.tag.red { background: var(--red-dim); color: var(--red); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Arbeitsanweisung · Finanzanalyse</div>
+  <h1>500 Kontoauszüge analysieren —<br>so geht's systematisch</h1>
+  <div class="header-sub">Oleg Kober · Erstellt 10.06.2026 · Für zukünftige Claude-Gespräche</div>
+</header>
+
+<!-- Step 1: Data prep -->
+<div class="step">
+  <div class="step-head">
+    <div class="step-num blue">1</div>
+    <div>
+      <div class="step-title">Daten vorbereiten — Wähle einen Weg</div>
+      <div class="step-sub">Empfehlung: CSV-Export statt 500 PDFs</div>
+    </div>
+  </div>
+
+  <div class="paths">
+    <div class="path-card">
+      <div class="path-head">
+        <span class="path-badge recommended">Empfohlen</span>
+        <span class="path-title">CSV / Excel Export</span>
+      </div>
+      <div class="path-body">
+        Consorsbank bietet im Online-Banking einen <strong>Transaktionsexport</strong> an. Gehe zu:<br><br>
+        <strong>Konto → Umsätze → Export / Download</strong><br><br>
+        Format: <strong>CSV oder Excel</strong> wählen. Zeitraum: maximale Laufzeit wählen (alle Jahre).<br><br>
+        Eine einzige Datei enthält alle Transaktionen. <strong>Das ist 100× effizienter als 500 PDFs.</strong> Diese eine Datei kannst du direkt in Claude hochladen.
+      </div>
+    </div>
+
+    <div class="path-card">
+      <div class="path-head">
+        <span class="path-badge fallback">Fallback</span>
+        <span class="path-title">PDF-Batches (500 Stück)</span>
+      </div>
+      <div class="path-body">
+        Wenn kein CSV-Export möglich: PDFs in <strong>Batches von 20–25 Stück</strong> hochladen.<br><br>
+        Pro Batch ein neues Gespräch starten, den <strong>Master-Prompt (Schritt 3)</strong> einfügen, dann die PDFs hochladen.<br><br>
+        Ergebnisse jedes Batches als <strong>Excel-Tabelle speichern</strong> — Claude liefert eine strukturierte Auswertung pro Batch. Am Ende alles zusammenführen.
+      </div>
+    </div>
+  </div>
+
+  <div class="box amber">
+    <div class="box-title">Consorsbank CSV-Export — wo genau</div>
+    Webseite: Online-Banking einloggen → Girokonto auswählen → Tab "Umsätze" → oben rechts Symbol "Herunterladen" oder "Exportieren" → Format CSV oder MT940 → Zeitraum: "Alle" oder längstmöglicher Bereich. Alternativ in der App: Konto → Umsätze → Teilen-Symbol oben rechts.
+  </div>
+</div>
+
+<!-- Step 2: Existing context -->
+<div class="step">
+  <div class="step-head">
+    <div class="step-num amber">2</div>
+    <div>
+      <div class="step-title">Was bereits bekannt ist — nicht neu erklären</div>
+      <div class="step-sub">Dieser Kontext muss nicht erneut aufgebaut werden</div>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="box-title">Bereits analysiert (Stand Juni 2026)</div>
+    <div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px;">
+      <span class="tag blue">Kontoauszüge März–Juni 2026</span>
+      <span class="tag blue">Fixkosten.xlsx</span>
+      <span class="tag blue">Gehaltsnachweise Doctolib</span>
+      <span class="tag blue">Nebenkostenabrechnung 2024</span>
+      <span class="tag green">Einkommensstruktur bekannt</span>
+      <span class="tag green">Kostenstruktur bekannt</span>
+      <span class="tag amber">Jahresdefizit berechnet</span>
+      <span class="tag red">Sanierungsplan erstellt</span>
+    </div>
+    <ul class="checklist">
+      <li><span class="check">✓</span>Regelgehalt netto: 3.638,82 €/Monat (Doctolib GmbH)</li>
+      <li><span class="check">✓</span>Provision: quartalsweise, 1 Monat nach Quartalsende — Jan/Apr/Jul/Okt, je ~4.611 € netto</li>
+      <li><span class="check">✓</span>VW-Bank Kredit: 681,57 €/Mo bis 11/2028 — persönl. Kredit für Crypto-Investment → in Wagglz geflossen</li>
+      <li><span class="check">✓</span>Wagglz GmbH + OK Capital UG: ~357 €/Mo Gesellschafterdarlehnen; 5.000 € Jahresabschlüsse fällig</li>
+      <li><span class="check">✓</span>Jahresdefizit strukturell: −7.970 €/Jahr (Ausgaben > Einkommen)</li>
+      <li><span class="check">✓</span>Aktueller Kontostand: −1.405 € (10.06.2026)</li>
+      <li><span class="check">✓</span>Tagesgeldkonto: 1,10 € · Kein Depot · Keine Ersparnisse</li>
+      <li><span class="check">✓</span>Ausgaben Istwert: Ø 5.840 €/Mo (Ø März–Mai 2026)</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Step 3: The master prompt -->
+<div class="step">
+  <div class="step-head">
+    <div class="step-num green">3</div>
+    <div>
+      <div class="step-title">Der Master-Prompt — einfach kopieren & einfügen</div>
+      <div class="step-sub">Diesen Text an den Anfang jedes neuen Gesprächs setzen, dann Dateien hochladen</div>
+    </div>
+  </div>
+
+  <div class="prompt-label">Prompt — zum Kopieren</div>
+  <div class="prompt-box"><span class="prompt-highlight">KONTEXT — BITTE VOLLSTÄNDIG LESEN BEVOR DU ANTWORTEST</span>
+
+<span class="prompt-comment">--- WER ICH BIN ---</span>
+Oleg Kober, 32 Jahre, 188 cm, Berlin (Auerstr. 29, 10249).
+Angestellt bei Doctolib GmbH (Sales/Business Development).
+
+<span class="prompt-comment">--- EINKOMMEN ---</span>
+Fixgehalt brutto: <span class="prompt-value">75.000 €/Jahr</span>
+Provision brutto: <span class="prompt-value">32.000 €/Jahr</span> — quartalsweise, 1 Monat nach Quartalsende
+Provisionsauszahlung: <span class="prompt-value">Januar · April · Juli · Oktober</span>
+Regelgehalt netto: <span class="prompt-value">3.638,82 €/Monat</span>
+Provision netto (pro Zahlung): <span class="prompt-value">~4.611 €</span>
+Zusatz: 50 € steuerfreie Sachbezüge/Mo, Firmenwagen (Dienstwagen ~348 € geldwerter Vorteil brutto)
+
+<span class="prompt-comment">--- FESTE MONATLICHE KOSTEN ---</span>
+Miete (GSW Immobilien): <span class="prompt-value">987,09 €</span>
+VW-Bank Kredit: <span class="prompt-value">681,57 €</span> bis 11/2028 (persönl. Kredit für Crypto-Investment → Wagglz)
+Kieferorthopädie (Dr. Wiemann): <span class="prompt-value">176,53 €</span> Ratenzahlung
+Odin KV (Uelzener): <span class="prompt-value">132,48 €</span>
+Strom (Vattenfall): <span class="prompt-value">79,00 €</span>
+John Reed / RSG Group: <span class="prompt-value">50 €</span> (alle 6 Mo +30 € Servicegebühr)
+Allianz Risikoleben: <span class="prompt-value">31,55 €</span>
+Barmenia Heilpraktiker-KV: <span class="prompt-value">33,00 €</span> (erstattet ~100–200 €/Mo Osteopathie → BEHALTEN)
+Allianz Private KV (Zahn): <span class="prompt-value">22,62 €</span>
+Spotify: <span class="prompt-value">21,99 €</span>
+Netflix: <span class="prompt-value">19,99 €</span>
+Proton VPN/Mail: <span class="prompt-value">12,99 €</span>
+Haarkunstler Berlin: <span class="prompt-value">~70 €/Mo</span> (35,20 € je Besuch, alle 10–14 Tage)
+
+<span class="prompt-comment">--- UNTERNEHMEN (KRITISCH) ---</span>
+Wagglz GmbH: Gesellschafterdarlehnen laufend ~<span class="prompt-value">357 €/Mo</span> Abfluss
+OK Capital UG (haftungsbeschränkt): ebenfalls Darlehensflüsse
+Jahresabschlüsse: <span class="prompt-value">5.000 € aktuell fällig</span>, nächstes Jahr 2.500 €
+Gesamtbelastung durch Unternehmen: ~<span class="prompt-value">8.000 €/Jahr</span>
+
+<span class="prompt-comment">--- BEKANNTE PROBLEME ---</span>
+1. Jährliches Strukturdefizit: <span class="prompt-value">−7.970 €</span> (Ausgaben übersteigen Einkommen)
+2. Provision wird konsumiert statt als Puffer genutzt
+3. Spontankäufe unabhängig vom Kontostand (z.B. 783 € Suit Supply bei −1.400 € Saldo)
+4. Apple/iTunes: unkontrollierte Kleinbuchungen, mehrfach pro Monat
+5. Kein Notfallkonto (1,10 € Stand), kein Depot, keine Ersparnisse
+
+<span class="prompt-comment">--- ZIELE ---</span>
+- Reale Ausgaben nach Kategorien verstehen (Istwerte, nicht Schätzungen)
+- Provision-Timing historisch verifizieren (wann und wie viel genau?)
+- Fehlerquellen identifizieren (welche Monate, welche Kategorien, welche Trigger?)
+- Sparplan entwickeln der mit der Einkommensstruktur funktioniert
+- Wagglz-Gesamtexponierung berechnen (wie viel insgesamt rein- und rausgeflossen?)
+
+<span class="prompt-comment">--- DEIN AUFTRAG ---</span>
+Ich lade jetzt Kontoauszüge / eine CSV-Exportdatei hoch.
+Analysiere alle Transaktionen nach den ANALYSE-AUFTRÄGEN unten.
+Antworte auf Deutsch. Direkt und konkret — keine allgemeinen Ratschläge.
+Zahlen immer mit Belegen aus den Transaktionen.
+
+<span class="prompt-highlight">ANALYSE-AUFTRÄGE (alle abarbeiten):</span>
+
+A) EINKOMMENSANALYSE
+   - Alle Gehalts- und Provisionseingänge tabellarisch erfassen
+   - Provision: exakte Beträge und Daten pro Quartal historisch
+   - Abweichungen vom Regelgehalt: wann und warum?
+
+B) AUSGABEN-KATEGORISIERUNG
+   Kategorisiere JEDEN Ausgang in: Wohnen · Kredite · Versicherungen ·
+   Lebensmittel · Restaurants/Delivery · Kleidung · Abos/Digital ·
+   Gesundheit/Körperpflege · Unternehmen (Wagglz/OK Capital) ·
+   Spontankäufe >200€ · Sonstiges
+   → Monatssummen pro Kategorie
+
+C) WAGGLZ/OK CAPITAL TOTAL
+   - Alle Transfers an Wagglz GmbH und OK Capital UG auflisten
+   - Summe aller Abflüsse gesamt
+   - Alle Rückflüsse (falls vorhanden)
+   - Netto-Exponierung
+
+D) MONATLICHE CASHFLOW-ÜBERSICHT
+   - Pro Monat: Einnahmen / Ausgaben / Saldo / Monatsende-Kontostand
+   - Monate im Dispo markieren
+   - Provisions-Monate hervorheben
+
+E) TOP-AUSGABEN-ANALYSE
+   - Die 20 größten Einzeltransaktionen historisch (>200 €)
+   - Alle Transaktionen bei "Suit Supply", "Media Markt", "KADEWE",
+     "Uniqlo", "STEAMONE" oder ähnlichen Spontankäufen
+   - Was wäre die Ersparnis wenn diese Käufe nicht passiert wären?
+
+F) SPARQUOTEN-BERECHNUNG
+   - Tatsächliche monatliche Sparquote historisch (war je etwas gespart?)
+   - Hätte-Szenario: Was wäre wenn Provision-Protokoll befolgt worden wäre?
+
+G) TREND-ANALYSE
+   - Werden Ausgaben historisch mehr oder weniger?
+   - In welchen Monaten lief es am besten / schlechtesten?
+   - Welche Kategorie ist am stärksten gewachsen?
+
+H) KONKRETE EMPFEHLUNG
+   - Die 5 spezifischen Verhaltensänderungen mit dem größten Impact
+   - Mit konkreten € -Werten belegt aus den historischen Daten
+</div>
+</div>
+
+<!-- Step 4: Analysis framework -->
+<div class="step">
+  <div class="step-head">
+    <div class="step-num purple">4</div>
+    <div>
+      <div class="step-title">Spezifische Analysen die du anfordern solltest</div>
+      <div class="step-sub">Zusatzfragen für vertiefte Einsichten</div>
+    </div>
+  </div>
+
+  <div class="analysis-grid">
+    <div class="analysis-item">
+      <div class="ai-tag">Apple / Digital</div>
+      <div class="ai-title">Apple-Audit</div>
+      <div class="ai-desc">Sage Claude: "Liste alle Apple.com/Bill, PayPal iTunes, Google Play und ähnlichen Digital-Buchungen auf — mit Summe pro Monat." Erfahrungsgemäß kommen hier 50–100 €/Mo zusammen ohne es zu merken.</div>
+    </div>
+
+    <div class="analysis-item">
+      <div class="ai-tag">Food & Delivery</div>
+      <div class="ai-title">Essen-Analyse</div>
+      <div class="ai-desc">Sage Claude: "Addiere alle Buchungen bei Wolt, Bolt, Lieferando, EDEKA, REWE, Biomarkt, allen Restaurants und Spätis. Was gebe ich pro Monat fürs Essen aus — aufgeteilt nach Supermarkt / Delivery / Restaurant?"</div>
+    </div>
+
+    <div class="analysis-item">
+      <div class="ai-tag">Provision Historisch</div>
+      <div class="ai-title">Provisions-Kalibrierung</div>
+      <div class="ai-desc">Sage Claude: "Zeige alle Monate wo Doctolib mehr als 5.000 € überwiesen hat — mit Datum und Betrag. Wie hoch war die Provision pro Quartal im Durchschnitt über alle Jahre?"</div>
+    </div>
+
+    <div class="analysis-item">
+      <div class="ai-tag">Dispo-Geschichte</div>
+      <div class="ai-title">Dispo-Analyse</div>
+      <div class="ai-desc">Sage Claude: "In wie vielen Monaten war das Konto im Minus? Was war der tiefste Stand? Wie lange dauerten Dispo-Phasen im Schnitt? Berechne die geschätzten Zinsen die ich dadurch gezahlt habe."</div>
+    </div>
+
+    <div class="analysis-item">
+      <div class="ai-tag">Kleidung / Shopping</div>
+      <div class="ai-title">Shopping-Pattern</div>
+      <div class="ai-desc">Sage Claude: "Liste alle Kleidungs- und Shopping-Käufe über 100 € auf. Was habe ich in den letzten 3 Jahren insgesamt für Kleidung ausgegeben? Suit Supply, Uniqlo, LFDY, Carhartt etc."</div>
+    </div>
+
+    <div class="analysis-item">
+      <div class="ai-tag">Gesundheit</div>
+      <div class="ai-title">Körper & Gesundheitskosten</div>
+      <div class="ai-desc">Sage Claude: "Fasse alle Ausgaben für Osteopathie (Osteo+ Eric Pauly), Physiotherapie, Zahnarzt (DZR, Dr. Wiemann), Apotheke, Nahrungsergänzung zusammen — monatlich und jährlich."</div>
+    </div>
+  </div>
+</div>
+
+<!-- Step 5: Output expectations -->
+<div class="step">
+  <div class="step-head">
+    <div class="step-num red">5</div>
+    <div>
+      <div class="step-title">Was du am Ende haben sollst</div>
+      <div class="step-sub">Diese Outputs fordere explizit an</div>
+    </div>
+  </div>
+
+  <div class="box green">
+    <div class="box-title">Verlange diese konkreten Deliverables</div>
+    <ul class="checklist">
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Jahres-Übersicht Tabelle:</strong> Für jedes Jahr: Gesamteinnahmen / Gesamtausgaben / Saldo / Sparquote in %</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Kategorie-Ranking:</strong> Was kostet mich am meisten? Top 10 Ausgaben-Kategorien jährlich</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Wagglz-Gesamt-Bilanz:</strong> Wie viel Euro habe ich insgesamt an die Firmen transferiert?</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Provisions-Tabelle:</strong> Jede Provision mit Datum und Betrag — historisch vollständig</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Spontankauf-Liste:</strong> Alle Käufe >300 € die keine Fixkosten sind</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Spar-Potenzial-Rechnung:</strong> Hätte ich X in Kategorie Y gespart, hätte ich heute Z auf dem Konto</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Aktualisierter Sanierungsplan:</strong> Auf Basis der vollständigen historischen Daten — war der Juni 2026 Plan korrekt oder muss er angepasst werden?</li>
+      <li><span class="check pending">→</span><strong style="color:var(--white);">Excel-Export:</strong> Bitte Claude "Erstelle mir eine downloadbare Excel-Tabelle mit allen kategorisierten Transaktionen"</li>
+    </ul>
+  </div>
+</div>
+
+<!-- Important notes -->
+<hr>
+
+<div class="step">
+  <div class="step-head">
+    <div class="step-num blue">!</div>
+    <div>
+      <div class="step-title">Wichtige Hinweise für die Analyse</div>
+    </div>
+  </div>
+
+  <div class="box red">
+    <div class="box-title">Nicht verwirren lassen</div>
+    Folgende Transaktionen sind Erstattungen / Gutschriften die nicht als Einkommen zählen:<br>
+    Barmenia-Erstattungen (Osteopathie), Allianz-Erstattungen (Zahnarzt), PayPal-Rückbuchungen, Laura Jakobi (Miete-Anteil + Odin), Artur Kober (Abos), "pad thai" / kleine Überweisungen von Freunden.
+  </div>
+
+  <div class="box amber">
+    <div class="box-title">Transaktionen die Wagglz zuzuordnen sind</div>
+    Wagglz GmbH · OK Capital UG · "Gesellschafterdarlehnen" · "Darlehnen" im Verwendungszweck von/an diese Firmen. NICHT dazu zählen: VW-Bank (das ist ein separater persönlicher Kredit).
+  </div>
+
+  <div class="box blue">
+    <div class="box-title">Falls Claude sagt "zu viele Daten"</div>
+    Dann teile den CSV in zwei Hälften (z.B. Jahr 2021–2023 und 2024–2026) und verarbeite in zwei Gesprächen. Ergebnisse kombinierst du danach in einem dritten Gespräch: "Hier sind die Zusammenfassungen aus zwei Analysen — kombiniere sie zu einem Gesamtbild."
+  </div>
+</div>
+
+<footer>
+  Diese Anweisung ist für die Finanzanalyse Oleg Kober erstellt · Stand 10.06.2026 · Bei Rückfragen: neues Gespräch mit diesem Dokument + Masterkontext starten.
+</footer>
+
+</body>
+</html>

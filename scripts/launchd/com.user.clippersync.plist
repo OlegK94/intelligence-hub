@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.en.dtd">
+<!-- Vorlage — wird von mac-setup.sh automatisch mit echten Pfaden befüllt -->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.clippersync</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>VAULT_PATH/tools/clipper_sync.sh</string>
+    </array>
+
+    <key>WatchPaths</key>
+    <array>
+        <string>HOME_PATH/Library/Mobile Documents/com~apple~CloudDocs/Clipper</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>VAULT_PATH/outputs/notes/launchd_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>VAULT_PATH/outputs/notes/launchd_stderr.log</string>
+</dict>
+</plist>
