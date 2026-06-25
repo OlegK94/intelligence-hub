@@ -1,55 +1,95 @@
 ---
 title: OK Capital UG
 type: entity
-tags: [unternehmen, ug, ok-capital, ruhend, jahresabschluss, finanzen, wagglz, finom, insolvenzrisiko]
-sources: ["raw/inbox/2026-06 Finance Monthly.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: OK Capital UG — Olegs ruhende Gesellschaft; Jahresabschluss aktuell mit 5.000 € fällig; Finom-Kontostand unbekannt (Stand Juni 2026); Insolvenzrisiko gemeldet, Dokumentenprüfung erforderlich
+tags: [unternehmen, holding, ok-capital, wagglz, finanzen, finom, westx, google-workspace, oleg, struktur]
+sources: ["raw/Business/OK-Capital/OK Capital UG.md"]
+created: 2026-06-12
+updated: 2026-06-12
+summary: OK Capital UG ist Olegs Holding-Gesellschaft (100% im Eigentum von Oleg Kober); hält 100% der Wagglz GmbH; monatliche Fixkosten ~31,60 € (WestX 23,50 € + Google Workspace 8,10 €); Banksaldo Juni 2026: 0,00 €; Oleg-Darlehen an OK Capital: 100 € (01.03.2026)
 ---
 
 # OK Capital UG
 
 ## Überblick
 
-**OK Capital UG** ist [[Oleg Personal Context|Olegs]] **ruhende UG** (Unternehmergesellschaft haftungsbeschränkt — die deutsche „Mini-GmbH"). Sie ist die formal ruhende Gesellschaft in Olegs Unternehmensstruktur (im Gegensatz dazu: [[Wagglz GmbH]] ist die aktive Gesellschaft).
+**OK Capital UG** ist die Holding-Gesellschaft von [[Oleg Personal Context|Oleg Kober]]. Sie fungiert als rechtliche Obergesellschaft in einer einfachen Zwei-Ebenen-Struktur: Oleg hält 100 % der OK Capital UG, und OK Capital UG hält 100 % der operativen [[Wagglz GmbH]].
 
-> Diese Entitätsseite wurde neu aus [[Finance Monthly 2026-06 Source Detail]] erstellt. Frühere Wiki-Verweise auf „OK Capital" (z. B. in [[Allianz Insurance Consolidation Detail]]) verlinken nun hierher.
+---
 
-## Status
+## Beteiligungsstruktur
 
-| Parameter | Stand |
+```
+Oleg Kober (Privat)
+      ↓ 100 %
+OK Capital UG  ←── Holding
+      ↓ 100 %
+  Wagglz GmbH  ←── Operativ
+```
+
+Die OK Capital UG ist eine reine Holding ohne eigenen operativen Geschäftsbetrieb. Sämtliche operative Tätigkeit findet auf Ebene der [[Wagglz GmbH]] statt.
+
+---
+
+## Bankkonten
+
+| Konto | Kosten |
 |---|---|
-| **Betrieb** | Ruhend (dormant) |
-| **Jahresabschluss** | 5.000 € — aktuell fällig |
-| **Finom-Konto** | 0,00 € (Stand Jun 2026) |
+| Finom: WestX | 23,50 €/Monat |
+| Google Workspace | 8,10 €/Monat |
+| **Saldo Juni 2026** | **0,00 €** |
 
-## Finanzielle Verpflichtungen
+---
 
-- **Jahresabschluss-Kosten: 5.000 €** — aktuell fällig. Auch ruhende Gesellschaften müssen in Deutschland Jahresabschlüsse einreichen.
-- **Finom-Konto: 0,00 € (Stand Jun 2026)** — siehe Widerspruch unten.
+## Laufende Kosten 2026
 
-## Widersprüche / Aktualisierungen
+| Posten | Betrag |
+|---|---|
+| WestX (Finom) | 23,50 €/Mo |
+| Google Workspace | 8,10 €/Mo |
+| **Gesamt** | **~31,60 €/Mo** |
+| **Jahreshochrechnung** | **~379,20 €/Jahr** |
 
-> ⚠️ **Saldo-Widerspruch:** Diese Seite gibt den Finom-Saldo mit **0,00 € (Stand Jun 2026)** an. Die Quelle [[OK Capital Finom 2026]] markiert den Saldo dagegen als *„aus der aktuellen Quelle nicht verfügbar"*. Bis ein Finom-Kontoauszug eingepflegt ist, gilt **0,00 € als unbestätigte Annahme [A]** — vor Steuer- oder Insolvenzentscheidungen aus dem Finom-Dashboard verifizieren.
+Die monatlichen Fixkosten der Holding sind mit ~31,60 € sehr niedrig, da kein operativer Betrieb auf dieser Ebene stattfindet.
 
-## Insolvenzrisiko
+---
 
-Der [[Finance Monthly 2026-06 Source Detail]] weist ausdrücklich ein **Insolvenzrisiko** für sowohl Wagglz als auch OK Capital aus, verbunden mit dem Hinweis, Dokumente zu **prüfen**. Für eine UG gilt:
-- Übersteigen die Verbindlichkeiten das Vermögen (Überschuldung), muss der GF die Insolvenz prüfen
-- Die **§ 15a InsO 21-Tage-Antragspflicht** (Antragsflicht innerhalb von 21 Tagen nach Eintritt der Insolvenz) gilt
-- Die Nichterfüllung der Antragspflicht stellt Insolvenzverschleppung dar (eine Straftat)
+## Darlehen
 
-## Verhältnis zu Olegs Unternehmensstruktur
+| | |
+|---|---|
+| **Darlehensgeber** | Oleg Kober (Privat) |
+| **Darlehensnehmer** | OK Capital UG |
+| **Betrag** | 100 € |
+| **Datum** | 01.03.2026 |
 
-Siehe [[Oleg Business Entity Structure]] für das Gesamtbild. Die UG ist ruhend, während die GmbH (Wagglz) das aktive operative Vehikel war.
+Oleg hat der Holding am 01.03.2026 ein Darlehen von 100 € gewährt. Dies ist im Zusammenhang mit dem Nullsaldo von 0,00 € (Juni 2026) zu sehen — die Holding weist keine wesentliche Liquidität aus.
+
+---
+
+## Steuerliche und gesellschaftsrechtliche Überlegungen
+
+> ⚠️ **Keine detaillierten Steuerdaten im Quelldokument.** Folgende Punkte sind typisch für eine UG/GmbH-Holding und sollten mit [[SP STB]] abgestimmt werden:
+>
+> - Das Darlehen von Oleg an OK Capital UG muss schriftlich dokumentiert und zu marktüblichen Konditionen verzinst sein, um eine verdeckte Einlage zu vermeiden.
+> - Gewinne aus [[Wagglz GmbH]] können steuerbegünstigt an OK Capital UG ausgeschüttet werden (§ 8b KStG: 95 % der Dividende steuerfrei auf Holding-Ebene).
+> - Die Holding-Struktur ist eine typische Gestaltung zur steuerlichen Optimierung und zur Trennung von operativem und Vermögensbereich.
+
+---
+
+## Verbindung zu anderen Entitäten
+
+- **Tochtergesellschaft:** [[Wagglz GmbH]] (100 % Beteiligung)
+- **Alleingesellschafter:** [[Oleg Personal Context|Oleg Kober]]
+- **Steuerberater:** [[SP STB]]
+- **Finanz-Überblick:** [[MOC Finanzen]]
+
+---
 
 ## Verwandte Seiten
 
-- [[Finance Monthly 2026-06 Source Detail]] — Quelle
-- [[Finanzübersicht 2026]] — Finanzübersicht (10.000 € kombinierter Jahresabschluss)
-- [[Wagglz GmbH]] — die aktive GmbH
-- [[Oleg Business Entity Structure]] — Unternehmensstruktur
-- [[SP STB]] — Steuerberater (möglicherweise zuständig für den Jahresabschluss)
+- [[OK Capital UG Source Detail]] — Quelldokument
+- [[Wagglz GmbH]] — operative Tochtergesellschaft
+- [[Oleg Personal Context]] — Alleingesellschafter
+- [[SP STB]] — Steuerberater
 - [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — GF und Gesellschafter
+- [[ESt 2025]] — steuerrelevanter Kontext

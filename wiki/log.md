@@ -591,3 +591,83 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
   - raw/Archiv/ + raw/Archiv Kopie/ (Screenshots)
   - raw/Wagglz/ (Logomark, Presentation Templates)
 - Notes: raw/raw/ = alter Vault-Inhalt vor Reorganisation; vollständig verfügbar
+
+## [2026-06-25 20:36 UTC] ingest | raw/inbox/supplement-stack-update-2026-06-20.md
+- Pages: [[Supplement Stack Update 2026-06-20]], [[Supplement Stack]], [[Momentous]], [[Thorne]], [[Zinc Picolinate]], [[Collagen]], [[Vitamin D3]], [[Whey Protein Isolate]], [[Creatine Monohydrate]], [[Magnesium]]
+- Supplement Stack Update 2026-06-20 ingested: Oleg's current stack updated to Momentous (Protein Isolate, Creatine, Magnesium, Collagen, Omega-3) + Thorne (Vitamin D3 Drops, Zinc Picolinate 30mg); Collagen contradiction flagged (previously "not currently needed"); Alpha-GPC, L-Tyrosine, Sulforaphane, Apigenin, L-Theanin status now unclear; new entity pages for Momentous, Thorne, Zinc Picolinate created; Supplement Stack entity and source page updated.
+
+## [2026-06-25 20:38 UTC] ingest | raw/raw/Business/Cafe/Café Berlin — Partnership Hai.md
+- Pages: [[Café Berlin Co-Founder Venture]], [[Hai]], [[Co-Founder Café Modell]], [[Gaststättenrecht Berlin]], [[Café Berlin Partnership Hai Source Detail]]
+- Neue Quelle "Café Berlin — Partnership mit Hai" ingested: Entitätsseite für das Café-Berlin-Co-Founder-Venture (Oleg + Hai) erstellt, Quelldokument-Seite angelegt, Konzeptseite für Co-Founder-Café-Venture erstellt, Index aktualisiert.
+
+## [2026-06-25 20:43 UTC] ingest | raw/raw/Business/Cafe/cafe_masterplan_2026.md
+- Pages: [[GROVE Businessplan 2026 Source Detail]], [[GROVE Café]], [[GROVE TagNacht-Konzept]], [[KfW StartGeld ERP 067]], [[Vietnamese Coffee Phin-Filter]], [[Wagglz GmbH]]
+- GROVE Café Businessplan (Wagglz GmbH, Juni 2026) vollständig ingested: Source-Seite, Entity-Seiten für GROVE, Wagglz GmbH, Oleg Kober, Hai Tran sowie Konzept-Seiten für Café Tag/Nacht-Konzept und KfW StartGeld erstellt; Index erweitert.
+
+## [2026-06-25 20:46 UTC] ingest | raw/raw/Business/Fashion-Brand/Fashion Brand Suppliers.md
+- Pages: [[Fashion Brand Suppliers Source Detail]], [[Fashion Brand Lieferanten]], [[Mended]], [[AS Colour]], [[Stanley Stella]], [[Arsonists]], [[Mr. Socks]]
+- Neue Quelldatei "Fashion Brand Suppliers" ingested: Quelldokument-Seite erstellt, Entitätsseiten für Mended, AS Colour, Stanley/Stella, Arsonists und Mr. Socks erstellt, Konzeptseite "Fashion Brand Lieferanten" erstellt, Index aktualisiert.
+
+## [2026-06-25 20:47 UTC] ingest | raw/raw/Business/Fashion-Brand/README.md
+- Pages: [[Fashion Brand README Source Detail]], [[Fashion Brand]]
+- Neue Fashion-Brand-README-Quelldatei ingested: Source-Summary-Seite erstellt; Fashion Brand-Entität und Index aktualisiert. Keine Widersprüche mit bestehenden Wiki-Inhalten gefunden.
+
+## [2026-06-25 20:50 UTC] ingest | raw/raw/Business/MOC/MOC Strategie & Business.md
+- Pages: [[MOC Strategie und Business Source]], [[MOC Strategie und Business]], [[Café Berlin Partnership Hai]], [[Café Berlin Solo Analyse]], [[Cyprus Relocation]], [[DoktorLib Automation Pipeline]]
+- Ingested MOC Strategie & Business: created source summary page, entity pages for MOC Strategie und Business, Café Berlin Partnership Hai, Cyprus Relocation, DoktorLib Automation Pipeline; updated Fashion Brand entities to reflect discontinued status; confirmed Allianz Insurance Consolidation archival contradiction; updated index.
+
+## [2026-06-25 20:51 UTC] ingest | raw/raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md
+- Pages: [[OK Capital Finom 2026 Source Detail]], [[OK Capital Finom 2026]], [[OK Capital UG]]
+- Neue Quelldatei OK Capital Finom 2026 eingelesen: Quell-Zusammenfassungsseite erstellt, Entitätsseite für OK Capital Finom 2026 Konto erstellt, OK Capital UG-Seite als Stub aktualisiert, Index erweitert.
+
+## [2026-06-25 20:53 UTC] ingest | raw/raw/Business/OK-Capital/OK Capital UG — Finance Vault.md
+- Pages: [[OK Capital UG Finance Vault]], [[OK Capital UG]]
+- OK Capital UG (haftungsbeschränkt) ingested: Quell-Zusammenfassungsseite erstellt, Entitätsseite erstellt, bestehende Wagglz-Entität verlinkt, Index aktualisiert.
+
+## [2026-06-25 20:55 UTC] ingest | raw/raw/Business/OK-Capital/OK Capital UG.md
+- Pages: [[OK Capital UG]], [[OK Capital UG Source Detail]]
+- Neue Quelldatei OK Capital UG.md eingelesen — Entitätsseite für OK Capital UG erstellt, Entitätsseite für Oleg Personal Context als Holding-Kontext verknüpft, Index aktualisiert.
+
+## [2026-06-25 20:57 UTC] ingest | raw/raw/Business/OK-Capital/Rangrücktritt §15a InsO.md
+- Pages: [[Rangrücktritt §15a InsO Source Detail]], [[Rangrücktritt Insolvenzrecht]], [[Rangrücktritt §15a InsO Wagglz]]
+- Neue Seiten erstellt: Rangrücktritt §15a InsO (source + entity + concept) für Wagglz GmbH — Insolvenzrecht, Überschuldungsprüfung §19 InsO, Insolvenzantragspflicht §15a InsO, persönliche Strafbarkeit Oleg als GF; Verlinkung mit bestehenden Wagglz-Entitäten.
+
+## [2026-06-25 21:01 UTC] ingest | raw/raw/Business/PerformanceCafe/CLAUDE.md
+- Pages: [[Performance Coffee Brand CLAUDE Source Detail]], [[Performance Coffee Brand]], [[Oleg Personal Context]]
+- Neue Quelldatei `raw/Business/PerformanceCafe/CLAUDE.md` ingested: Performance Coffee Brand Projektkontext-Seite erstellt, Oleg Personal Context aktualisiert, Index erweitert.
+
+## [2026-06-25 21:03 UTC] ingest | raw/raw/Business/PerformanceCafe/README.md
+- Pages: [[Performance Cafe README Source Detail]], [[Performance Coffee Brand]]
+- Performance Café README.md ingested: Created source summary page and updated/created entity pages for Performance Coffee Brand (project setup), with critical blocker table, file structure, and workflow details linked to existing wiki entities.
+
+## [2026-06-25 21:07 UTC] ingest | raw/raw/Business/PerformanceCafe/TODO.md
+- Pages: [[Performance Coffee Brand TODO Source Detail]], [[Performance Coffee Brand]], [[Wagglz GmbH]], [[Performance Coffee Brand Roadmap]], [[NMN EU Novel Food Status]]
+- Performance Coffee Brand TODO.md ingested: Neue Source-Seite erstellt, Wagglz GmbH Entity aktualisiert, Performance Coffee Brand Entity aktualisiert, Budget-Übersicht und Phasen-Roadmap dokumentiert, Index erweitert.
+
+## [2026-06-25 21:12 UTC] ingest | raw/raw/Business/PerformanceCafe/brand/naming_brief.md
+- Pages: [[Performance Cafe Naming Brief]], [[Performance Coffee Naming Candidates]], [[Performance Coffee Brand Voice]], [[Performance Coffee Taglines]], [[Performance Coffee Packaging]]
+- Ingested Performance Café Naming Brief (Modul 7, 2026-06-14): created source page, updated Aevum Brand entity with packaging/positioning details, created new concept pages for Performance Coffee Brand Voice, Performance Coffee Taglines, and Performance Coffee Packaging; updated index.
+
+## [2026-06-25 21:16 UTC] ingest | raw/raw/Business/PerformanceCafe/brand/positioning.md
+- Pages: [[Performance Cafe Brand Positioning Source Detail]], [[Performance Coffee Brand Positioning]], [[Performance Coffee Brand Voice]], [[Performance Coffee Brand Zielgruppen]], [[Performance Coffee Brand Pricing]], [[Performance Coffee Brand Wettbewerbsmatrix]]
+- Brand Positioning für Performance Coffee Brand (positioning.md) eingelesen — neue Source-Seite erstellt, Performance Coffee Brand Entity aktualisiert, neue Konzeptseiten für Brand Voice, Zielgruppen-Segmente und Pricing-Story angelegt; index.md erweitert.
+
+## [2026-06-25 21:18 UTC] ingest | raw/raw/Business/PerformanceCafe/hai-fragen.md
+- Pages: [[Hai Fragen Performance Coffee Source Detail]], [[Hai (Co-Founder Kandidat)]]
+- Neue Quelldatei `raw/Business/PerformanceCafe/hai-fragen.md` ingested: Due-Diligence-Fragenkatalog für den potenziellen Co-Founder „Hai" der Performance Coffee Brand — deckt Produkt-Know-how, Netzwerk, operative Rolle, Kapital, Gesellschaftsstruktur und Produkt-Vision ab. Neue Quelldokument-Seite erstellt, Hai-Entitätsseite erstellt, Performance Coffee Brand-Entität aktualisiert, Index ergänzt.
+
+## [2026-06-25 21:20 UTC] ingest | raw/raw/Business/PerformanceCafe/hai-onepager.md
+- Pages: [[Hai Onepager Performance Coffee Brand Source Detail]], [[Performance Coffee Brand]]
+- Neue Quelldatei `raw/Business/PerformanceCafe/hai-onepager.md` ingested: Quelldokument-Seite erstellt, Performance Coffee Brand Entität aktualisiert (Budget, Gesellschaft, GTM, Namenskandidaten, Zielpreis, Contribution Margin, Break-Even), neue Konzeptseiten für Wagglz GmbH als Vehikel und Hyrox als GTM-Kanal verlinkt, Index erweitert.
+
+## [2026-06-25 21:23 UTC] ingest | raw/raw/Business/PerformanceCafe/legal/entity_structure.md
+- Pages: [[Performance Coffee Brand Gesellschaftsstruktur Source Detail]], [[Performance Coffee Brand Gesellschaftsstruktur]], [[OK Capital]], [[Hai]]
+- Neue Quelle `raw/Business/PerformanceCafe/legal/entity_structure.md` eingelesen: Gesellschaftsstruktur der Performance Coffee Brand (UG→GmbH-Pfad, 50/50 Oleg/Hai, Vesting, IP-Struktur via OK Capital, EUIPO-Anmeldung, AEVUM als Top-Namenskandidat) — neue Source-Seite, neue Entity-Seiten für OK Capital, Hai und Performance Coffee Brand Gesellschaftsstruktur erstellt; Index aktualisiert.
+
+## [2026-06-25 21:28 UTC] ingest | raw/raw/Business/PerformanceCafe/legal/ip_landscape.md
+- Pages: [[Performance Café IP Landscape Modul 8 Source]], [[Niagen Bioscience]], [[Performance Café EUIPO Markenschutz]], [[NMN EU-Status]]
+- IP-Landschaft Modul 8 für Performance Café ingested: neue Quellseite erstellt, bestehende Amazentis-Entität aktualisiert, neue Entitäten für Niagen Bioscience, EUIPO-Markenanmeldung, NMN EU-Status, IP-Risikoübersicht erstellt; Index aktualisiert.
+
+## [2026-06-25 21:32 UTC] ingest | raw/raw/Business/PerformanceCafe/ops/certification_roadmap.md
+- Pages: [[Zertifizierungs-Roadmap Performance Coffee]], [[Kölner Liste]], [[Informed Sport]], [[NSF Certified for Sport]], [[NEM-Konformität Performance Coffee]], [[EFSA Health Claims]]
+- Neue Quelle `certification_roadmap.md` eingelesen: Zertifizierungs-Roadmap für Performance Coffee Brand (Kölner Liste, Informed Sport, NSF Certified for Sport) sowie NEM-Konformität und EFSA-Werberichtlinien — neue Seiten für Quelldokument, Kölner Liste, Informed Sport, NSF Certified for Sport und NEM-Konformität erstellt; Performance Coffee Brand-Entität um Zertifizierungskontext erweitert.

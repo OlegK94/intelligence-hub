@@ -1,81 +1,113 @@
 ---
 title: Wagglz GmbH
 type: entity
-tags: [wagglz, gmbh, business, finanzen, geschäftsführer, 2025, 2026, auflösung, §17-estg, oleg-darlehen, kein-umsatz]
-sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
+tags: [wagglz, gmbh, unternehmen, performance-cafe, reaktivierung, umstrukturierung, oleg-kober, hai, gesellschaft, operative-einheit, geschäftskonto, finom, arag-versicherung, alg-i]
+sources: ["raw/Business/PerformanceCafe/TODO.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md", "raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
-updated: 2026-06-12
-summary: "Wagglz GmbH — Olegs Unternehmen ohne Umsatz seit Januar 2026; strategische Entscheidung erforderlich bis 2026-07-01: Weiterführen (mit Konzept) vs. Auflösung (§17 EStG Verlust); laufende Kosten ~120–255 €/Monat über Oleg-Darlehen"
+updated: 2026-06-15
+summary: Deutsche GmbH (aktuell: Wagglz — ursprüngliches Geschäftsfeld unklar aus vorliegenden Quellen); geplante Reaktivierung und Umstrukturierung als operative Einheit für die Performance Coffee Brand; Hai soll als 50% Gesellschafter eingetragen werden; ARAG-Versicherung (100,88 €/Quartal) läuft und muss ggf. gekündigt werden; Wagglz Finom 2026 als Geschäftskonto aktiv
 ---
 
 # Wagglz GmbH
 
 ## Überblick
 
-**Wagglz GmbH** ist ein Unternehmen, in dem [[Oleg Personal Context|Oleg]] als Geschäftsführer (GF) tätig ist (oder war). Stand Anfang 2026 hat das Unternehmen **seit Januar 2026 null Umsatz** und eine strategische Entscheidung ist bis **2026-07-01** erforderlich.
+**Wagglz GmbH** ist eine deutsche Gesellschaft mit beschränkter Haftung, die in Olegs finanziellem und unternehmerischem Kontext in mehreren Rollen auftritt:
 
-## Aktueller Stand (Stand Juni 2026)
+1. **Bisherige Rolle:** GmbH aus der Oleg Gehalt als Geschäftsführer bezog (2025); verknüpft mit [[ALG I 2025]] als Übergangsphase
+2. **Geplante Rolle:** Operative Einheit für die [[Performance Coffee Brand]] — vollständige Reaktivierung und Umstrukturierung geplant
+
+---
+
+## Aktuelle Situation (Stand 2026-06-15)
 
 | Parameter | Status |
 |---|---|
-| Umsatz seit Jan 2026 | **0 €** — kein Umsatz |
-| Insolvenzstatus | ⚠️ **Überschuldet §19 InsO** |
-| Fehlbetrag | **27.926,89 €** (bestätigt, Quelle: [[Wagglz GmbH Source Detail]]) |
-| [[Rangrücktritt §15a InsO]] | ⚠️ **Noch nicht unterschrieben** — P0 |
-| Laufende Kosten | ~120–255 €/Monat |
-| Kostenfinanzierung | [[Oleg-Darlehen]] (persönliches Gesellschafterdarlehen von Oleg) |
-| Frist strategische Entscheidung | **2026-07-01** |
+| **Rechtsstatus** | Aktiv (aber ggf. ruhend / umzustrukturieren) |
+| **Geschäftszweck (aktuell)** | Nicht explizit aus vorliegenden Quellen bekannt |
+| **Geschäftsführer** | Oleg Kober |
+| **Geschäftskonto** | [[Wagglz Finom 2026]] |
+| **Laufende Kosten** | [[ARAG Wagglz Versicherung]] — 100,88 €/Quartal (Kündigung bis 2026-06-30 geplant) |
 
-## Strategische Optionen
+---
 
-### Option A: Weiterführen (Continue)
-- Voraussetzung: konkretes Konzept / Businessplan
-- Laufende Kosten fallen weiterhin über das Oleg-Darlehen an
-- Risiko: weiterer Geldabfluss ohne Umsatz
-- Potenzial: falls das Konzept wiederbelebt werden kann
+## Geplante Umstrukturierung für Performance Coffee Brand
 
-### Option B: Auflösung (Dissolution)
-- Steuerlicher Vorteil: **§17 EStG Verlust** — Verlust aus der Veräußerung des GmbH-Anteils ist steuerlich absetzbar gegen andere Kapitaleinkünfte
-- Stoppt die laufenden monatlichen Kosten (~120–255 €/Monat)
-- Erfordert: formales Liquidationsverfahren
-- Siehe §17 EStG Hinweis unten
+Die TODO-Liste der [[Performance Coffee Brand]] (2026-06-15) sieht folgende Schritte vor:
 
-## §17 EStG — Steuerlicher Verlustausgleich bei Auflösung
+### Gesellschaftsrechtliche Änderungen
 
-Falls die Wagglz GmbH aufgelöst wird:
-- §17 EStG erlaubt Oleg, den **Verlust aus seinem GmbH-Anteil** als steuerlichen Verlust geltend zu machen
-- Dieser Verlust kann mit **Kapitalgewinnen und Kapitalerträgen** im gleichen oder in späteren Steuerjahren verrechnet werden
-- Der Verlustbetrag = eingebrachtes Kapital + nicht zurückgezahlte Gesellschafterdarlehen ([[Oleg-Darlehen]]-Saldo)
-- Dies ist ein bedeutender steuerlicher Gesichtspunkt — [[SP STB]] sollte den Vorteil berechnen
+| Aufgabe | Kosten | Zeitpunkt |
+|---|---|---|
+| Gesellschaftszweck anpassen (Lebensmittel / NEM) | — | Phase 2 (nach 500 Waitlist-Signups) |
+| Hai als 50% Gesellschafter eintragen | ~500 € (Notar) | Phase 2 |
+| Vesting-Vertrag Hai aufsetzen | ~500–1.000 € (RA) | Phase 2 |
+| IP-Struktur mit OK Capital klären | — (Steuerberater) | Phase 2 |
+| Neues Geschäftskonto eröffnen | 0 € | Phase 2 (Kontist oder Finom für Startups) |
 
-> ⚠️ **Annahme [A]:** Der genaue §17 EStG-Verlustbetrag hängt von Olegs ursprünglicher Kapitaleinlage und dem Gesamtsaldo des Oleg-Darlehens ab. Der bestätigte bilanzielle Fehlbetrag beträgt **27.926,89 €** (§19 InsO Überschuldung); der §17 EStG-relevante Veräußerungsverlust muss noch von [[SP STB]] aus Kapitaleinlage und nicht zurückgezahltem [[Oleg-Darlehen]] ermittelt werden.
+### Gesellschafterstruktur (nach Umstrukturierung)
 
-## Oleg-Darlehen
+| Gesellschafter | Anteil |
+|---|---|
+| Oleg Kober | 50% |
+| Hai | 50% |
 
-Das [[Oleg-Darlehen]] ist ein Gesellschafterdarlehen von Oleg persönlich an die Wagglz GmbH, das derzeit den laufenden Betrieb finanziert:
-- Monatliche Kostenspanne: **~120–255 €/Monat**
-- Dieser Darlehenssaldo würde bei einer Auflösung Teil der §17 EStG-Verlustberechnung sein
-- Die breite Spanne (120–255 €) deutet auf variable monatliche Kosten hin (z. B. Buchhaltung, Hosting, Versicherung)
+> ⚠️ **Vesting-Vertrag erforderlich:** Hai soll formal als Gesellschafter eingetragen werden, aber ein Vesting-Vertrag stellt sicher, dass Anteile an Meilensteine/Zeitraum geknüpft sind. Rechtsanwalt erforderlich.
 
-## Historische Einkommensreferenz
+---
 
-Siehe [[Wagglz GF-Gehalt 2025 Source Detail]] für die GF-Gehaltsdaten 2025. Oleg erhielt 2025 ein Geschäftsführergehalt von Wagglz, das:
-- Für die [[ESt 2025]] benötigt wird (Lohnsteuerbescheinigung 2025 — derzeit noch nicht verfügbar)
-- Wechselwirkungen mit dem [[ALG I Progressionsvorbehalt]] unterliegt
+## Laufende Kosten und Abwicklung
 
-## Status Lohnsteuerbescheinigung 2025
+### ARAG Wagglz Versicherung
 
-> ⚠️ **Blocker für ESt 2025:** Die Wagglz Lohnsteuerbescheinigung 2025 ist **noch nicht verfügbar** (Stand 2026-06-12). Oleg muss sie bei [[SP STB]] oder der Wagglz-Lohnbuchhaltung anfordern.
+- **[[ARAG Wagglz Versicherung]]:** 100,88 €/Quartal (= 403,52 €/Jahr)
+- **Kündigung fällig:** 2026-06-30
+- **Grund:** Nicht benötigt; bei Umstrukturierung auf Performance Coffee Brand ggf. ohnehin obsolet
+
+### Wagglz Finom Konto
+
+- **[[Wagglz Finom 2026]]:** Aktives Geschäftskonto
+- Abbuchungsquelle für laufende Wagglz-Kosten (inkl. ARAG)
+- Wird voraussichtlich für Performance Coffee Brand weitergenutzt oder durch neues Konto ersetzt
+
+---
+
+## Historischer Kontext
+
+Die Wagglz GmbH war 2025 die Gesellschaft, über die Oleg sein **Geschäftsführergehalt** bezog. Gemeinsam mit dem [[ALG I 2025]] (~8.400 € bis Juni 2025) bildet das GF-Gehalt die wesentliche Einkommensquelle für die [[ESt 2025]]. Details zum Gehalt: [[Wagglz GF-Gehalt 2025 Source Detail]].
+
+---
+
+## Strategische Rolle für Performance Coffee Brand
+
+Die Nutzung der bestehenden Wagglz GmbH (statt Neugründung) hat folgende Vorteile:
+
+| Vorteil | Detail |
+|---|---|
+| **Kosteneinsparung** | Keine Notarkosten für Neugründung (~1.000 €+); nur Änderungskosten |
+| **Sofortige Betriebsfähigkeit** | Bestehendes Bankkonto, USt-IdNr., HRB-Nummer |
+| **Zeitersparnis** | Gründungsprozess dauert 2–6 Wochen; Änderung schneller |
+| **Steuerliche Kontinuität** | Bestehende Steuernummer und Steuerberater-Beziehung ([[SP STB]]) |
+
+---
+
+## Offene Fragen
+
+- Aktueller Gesellschaftszweck der Wagglz GmbH (aus Quellen nicht klar erkennbar)
+- Bestehende Verbindlichkeiten oder Verträge der Wagglz GmbH (außer ARAG)
+- Klärung mit [[SP STB]] (Steuerberater): IP-Struktur und steuerliche Optimierung bei Umstrukturierung
+
+---
 
 ## Verwandte Seiten
 
-- [[P1 Diese Woche Source Detail]] — Aufgabenquelle
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltsdetails 2025
-- [[ESt 2025]] — Steuererklärung, für die die Lohnsteuerbescheinigung benötigt wird
-- [[ALG I 2025]] — weiterer Einkommensposten in 2025
-- [[ALG I Progressionsvorbehalt]] — steuerlicher Mechanismus
-- [[Oleg-Darlehen]] — Gesellschafterdarlehen zur Finanzierung der Wagglz-Kosten
+- [[Performance Coffee Brand]] — geplantes neues Geschäftsfeld
+- [[Performance Coffee Brand TODO Source Detail]] — Quelldokument mit Umstrukturierungs-Aufgaben
+- [[ARAG Wagglz Versicherung]] — laufende Versicherung; Kündigung bis 2026-06-30
+- [[Wagglz Finom 2026]] — aktives Geschäftskonto
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — historisches GF-Gehalt 2025
+- [[ALG I 2025]] — ALG I parallel zur GmbH-Tätigkeit 2025
+- [[ESt 2025]] — Steuererklärung mit GmbH-Einkommen
 - [[SP STB]] — Steuerberater
-- [[Oleg Business Entity Structure]] — übergeordneter Unternehmenskontext
-- [[MOC Finanzen]] — übergeordnetes Finanz-MOC
-- [[Oleg Personal Context]] — GF und Gesellschafter
+- [[Oleg Personal Context]] — Geschäftsführer
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC

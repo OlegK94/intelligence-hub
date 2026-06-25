@@ -1,79 +1,89 @@
 ---
 title: Hai
 type: entity
-tags: [person, co-founder, partner, performance-cafe, café-berlin, berlin, 50-50, vesting]
-sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md", "raw/01-Strategie-Business/Café Berlin — Partnership Hai.md", "raw/Business/PerformanceCafe/hai-onepager.md"]
+tags: [partner, co-founder, performance-cafe, partnerschaft, 50-50, vesting, netzwerk, operations, berlin]
+sources: ["raw/Business/PerformanceCafe/legal/entity_structure.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Hai ist Olegs Geschäftspartner in zwei parallelen Ventures — der Performance Coffee Brand (50/50, Berlin) und dem Café-Berlin-Partnership; bringt Kapital, Produkt-/Marktexpertise, Produktions- und Distributionsnetzwerk sowie operative Kapazität in beide Ventures ein
+summary: Hai — Co-Gründer und 50/50-Partner von Oleg Kober bei der Performance Coffee Brand; bringt Kapital, fachliches Wissen, Netzwerk (Produktion/Vertrieb/Investoren) und operative Rolle ein; Beitrag bestätigt 2026-06-15; Vesting-Struktur (4 Jahre, 1 Jahr Cliff) empfohlen
 ---
 
 # Hai
 
-## Übersicht
+## Überblick
 
-**Hai** ist [[Oleg Personal Context|Oleg Kobers]] Geschäftspartner in Berlin. Stand Juni 2026 ist Hai Mitgründer in **zwei parallelen Ventures** mit Oleg:
+**Hai** ist der Co-Gründer und **50/50-Partner** von [[Oleg Personal Context|Oleg Kober]] bei der [[Performance Coffee Brand]]. Seine Beteiligung und sein Beitrag wurden am 2026-06-15 bestätigt. Die geplante Gesellschaft wird als [[Performance Coffee Brand Gesellschaftsstruktur|UG (haftungsbeschränkt)]] gegründet, mit Hai als gleichberechtigtem Gesellschafter neben Oleg.
 
-1. **[[Performance Coffee Brand]]** — funktionale Kaffee-/Longevity-Produktmarke (50/50)
-2. **[[Café Berlin Partnership Hai]]** — Berliner Café-Mitgründungsvorhaben (Priorität 1)
+---
 
-## Bestätigte Beiträge (Performance Coffee Brand, 2026-06-15)
+## Beitrag (bestätigt 2026-06-15)
 
-| Beitrag | Detail |
+| Bereich | Details |
 |---|---|
-| **Kapital** | Co-Finanzierung der UG-Gründung |
-| **Wissen** | Produkt-/Marktexpertise |
-| **Netzwerk** | Kontakte zu Produktion, Distribution, Investoren |
-| **Operative Rolle** | Aktive tägliche Mitwirkung |
+| **Kapital** | Mitfinanzierung ab UG-Gründung |
+| **Wissen** | Fachliche Expertise (Produkt / Markt) |
+| **Netzwerk** | Kontakte für Produktion, Vertrieb oder Investoren |
+| **Operative Rolle** | Aktive Mitarbeit im Tagesgeschäft |
 
-Das 50/50-Split gilt auf Basis dieser gleichwertigen Beiträge als fair bestätigt.
+---
 
-## Rolle in der Performance Coffee Brand
+## Anteilsstruktur
 
-### Operative Verantwortungsbereiche
-- **Operations & Produktion** — Lead
-- **Produkt & Rezeptur** — Unterstützung (Oleg führt)
-- **Vertrieb & Marketing** — Unterstützung (Oleg führt)
-- **Regulatorik** — Geteilt
+- **Anteil:** 50% der Performance Coffee Brand UG/GmbH
+- **Gegenüber:** 50% Oleg Kober
+- **Holding:** Die Anteile liegen unterhalb von [[OK Capital]] als Dachgesellschaft; Hais Anteile sind direkt an der operativen Gesellschaft, nicht an der Holding
 
-### Rechtliche / Equity-Konditionen
-- **Anteil:** 50 % der Performance Coffee Brand UG/GmbH
-- **Vesting:** 4-jähriges Vesting mit 1-Jahr-Cliff (empfohlen, noch nicht formalisiert)
-- **Deadlock:** Mediation (60 Tage) → Buy-Sell-Klausel bei Nichteinigung
+---
 
-## Rolle im Café Berlin Partnership
+## Vesting-Struktur (empfohlen)
 
-Aus [[Café Berlin Partnership Hai — Planning Detail|Café Berlin Partnership Hai — Planungsdetail]]:
-- **Operatives, Konzept, Küchenlogik, Lieferanten** — operativer Lead
-- Oleg führt Strategie, Finance, Verhandlung
-- Planungssession durchgeführt am 2026-06-14
+| Parameter | Wert |
+|---|---|
+| Gesamtlaufzeit | 4 Jahre |
+| Cliff | 1 Jahr |
+| Nach Cliff | 25% gesichert |
+| Lineare Fortsetzung | 36 weitere Monate |
+| Austritt vor Cliff | 0 Anteile |
 
-## Hintergrund
+**Begründung:** Schutzmechanismus für beide Parteien — bei vorzeitigem Austritt vor dem Cliff erhält keiner der Gründer ungerechtfertigt Anteile.
 
-Hais konkreter beruflicher Hintergrund (Nationalität, frühere Berufstätigkeit) ist in den verfügbaren Quellen nicht dokumentiert. Die Quelldokumente bestätigen:
-- In Berlin ansässig (oder für Berliner Vorhaben erreichbar)
-- Verfügt über relevante Expertise für Café-Betrieb und funktionale Lebensmittel-/Getränkemärkte
-- Besitzt ein Netzwerk, das Produktion, Distribution und Investoren umfasst
-- Hat Kapital für eine Co-Investition
+---
 
-> ⚠️ **Lücke:** Hais vollständiger Hintergrund und seine Kapitalzusage sind im Café-Berlin-Planungsdokument als „Offene Fragen" vermerkt. Diese Details sollen nach der Planungssession (2026-06-14) ergänzt werden.
+## Geplante Aufgabenteilung
 
-## Hinweis zur parallelen Partnerschaft
+| Bereich | Hais Rolle |
+|---|---|
+| Produkt & Rezeptur | Support |
+| Vertrieb & Marketing | Support |
+| **Operations & Produktion** | **Lead** |
+| Finanzen | Support |
+| Regulatorik | Mitverantwortlich (gemeinsam mit Oleg) |
 
-Hai ist gleichzeitig in zwei Ventures mit Oleg involviert. Dies erzeugt:
-- **Konzentrationsrisiko** — zwei große Ventures hängen von derselben Partnerschaft ab
-- **Bedarf an Rollenklarheit** — die Rollenaufteilung in beiden Ventures muss klar definiert sein
-- **Vesting-Abstimmung** — beide Ventures sollten Vesting-Klauseln zum Schutz beider Parteien enthalten
+> ⚠️ **Status:** Aufgabenteilung laut Quelldokument noch zu klären / final zu bestätigen.
 
-Die Quelldokumente gehen nicht darauf ein, ob diese Ventures als komplementäre oder separate Geschäftsstränge gedacht sind.
+---
+
+## Deadlock-Schutz
+
+Bei unauflösbarem 50/50-Konflikt zwischen Hai und Oleg:
+1. **Option A:** Mediationsverfahren (60 Tage)
+2. **Option B:** Buy-Sell-Klausel (Russian Roulette)
+
+---
+
+## Nächste Schritte mit Hai
+
+- [ ] Vesting-Vertrag aufsetzen (RA-Kosten: ~500–1.000 €)
+- [ ] Aufgabenteilung finalisieren und schriftlich festhalten
+- [ ] UG-Gründung gemeinsam mit Notar durchführen
+
+---
 
 ## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — primäres Venture
-- [[Performance Coffee Brand Legal and Entity Structure|Performance Coffee Brand — Rechtliche und Gesellschaftsstruktur]] — Rechtsstruktur der Kaffee-Marke
-- [[Performance Coffee Brand Entity Structure Source Detail|Performance Coffee Brand — Quelldokument zur Gesellschaftsstruktur]] — Quelldokument
-- [[Café Berlin Partnership Hai]] — Café-Venture
-- [[Café Berlin Partnership Hai — Planning Detail|Café Berlin Partnership Hai — Planungsdetail]] — Café-Planungsquelle
-- [[Oleg Personal Context|Oleg Persönlicher Kontext]] — Mitgründer
-- [[OK Capital]] — Olegs Holding, die über der Performance Coffee Brand steht
-- [[Oleg Business Entity Structure|Oleg Unternehmensstruktur]] — Gesellschaftskontext
+- [[Performance Coffee Brand]] — gemeinsames Projekt
+- [[Performance Coffee Brand Gesellschaftsstruktur]] — Rechtsrahmen der Partnerschaft
+- [[Performance Coffee Brand Gesellschaftsstruktur Source Detail]] — Quelldokument
+- [[OK Capital]] — Olegs Holding (Dachgesellschaft)
+- [[Oleg Personal Context]] — Co-Gründer
+- [[Aevum Brand]] — Top-Namenskandidat für die gemeinsame Marke

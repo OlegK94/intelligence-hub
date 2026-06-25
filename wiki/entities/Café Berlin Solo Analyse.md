@@ -1,40 +1,46 @@
 ---
-title: Café Berlin Solo Analyse
+title: Café Berlin — Solo-Analyse (rejected)
 type: entity
-tags: [business, café, berlin, rejected, archive, solo-venture]
-sources: ["raw/00-MOC/MOC Strategie & Business.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Abgelehnte Solo-Analyse eines Berliner Café-Projekts — Vorläufer des Café Berlin Partnership Hai-Projekts; archiviert
+tags: [cafe, berlin, business, analyse, rejected, archiv, strategie]
+sources: ["raw/Business/MOC/MOC Strategie & Business.md"]
+created: 2026-06-20
+updated: 2026-06-20
+summary: Archiviertes, abgelehntes Projekt — Analyse einer eigenständigen Café-Eröffnung in Berlin ohne Partner; wurde zugunsten der Partnerschaftsvariante (Café Berlin Partnership Hai) abgelehnt
 ---
 
-# Café Berlin — Solo-Analyse (Abgelehnt)
+# Café Berlin — Solo-Analyse (rejected)
 
 ## Überblick
 
-Dieser Eintrag repräsentiert eine frühere strategische Analyse zur Eröffnung eines Cafés in Berlin als **Solo-Vorhaben** von [[Oleg Personal Context|Oleg]]. Die Analyse wurde letztendlich **abgelehnt** und das Projekt archiviert.
+**Café Berlin — Solo-Analyse** ist ein archiviertes Projekt, das in [[MOC Strategie und Business]] unter **Abgeschlossen / Archiv** als explizit **abgelehnt** (`rejected`) gelistet ist.
 
-## Kontext
+Es handelte sich um eine Analyse der Machbarkeit einer eigenständigen Café-Eröffnung in Berlin ohne Partner. Die Analyse führte zu einer **Ablehnungsentscheidung**, woraufhin das Konzept als Partnerschaft mit Hai weiterverfolgt wurde (→ [[Café Berlin Partnership Hai]]).
 
-Die Ablehnung des Solo-Café-Konzepts scheint dem aktuellen Projekt [[Café Berlin Partnership Hai]] vorausgegangen zu sein bzw. direkt dazu geführt zu haben. Dieses Projekt beinhaltet eine Mitgründung mit Partner [[Hai]] anstatt eines Alleingangs.
+---
 
-Dies deutet auf eine bewusste strategische Neuausrichtung hin:
-- Solo-Analyse → als nicht tragfähig oder unerwünscht eingestuft
-- Partnerschaftsmodell mit Hai → als bevorzugter Weg nach vorne gewählt
+## Projektstatus
 
-## Archivierungsstatus
+| Parameter | Wert |
+|---|---|
+| **Status** | Abgelehnt (rejected) |
+| **Archiviert** | Ja |
+| **Nachfolgeprojekt** | [[Café Berlin Partnership Hai]] |
 
-- **Status:** Abgelehnt / Archiviert
-- **Aufgeführt in:** [[MOC Strategie und Business]] unter Abgeschlossen / Archiv
-- **Nachfolgeprojekt:** [[Café Berlin Partnership Hai]]
+---
 
-## Strategische Implikation
+## Warum abgelehnt
 
-Die Existenz dieser früheren Solo-Analyse zeigt, dass Oleg eine sorgfältige Prüfung (Due Diligence) durchgeführt hat, bevor er sich für die Partnerschaftsstruktur entschieden hat. Das Partnerschaftsmodell (Priorität 1 ab Juni 2026) wurde gegenüber dem Solo-Modell bevorzugt.
+Die genauen Ablehnungsgründe sind aus dem MOC nicht ersichtlich. Mögliche Gründe (abgeleitet aus dem Kontext):
+
+- Zu hohes Einzelrisiko ohne Partner
+- Fehlende operative Kompetenz für Solo-Betrieb
+- Kapitalanforderungen für Solo-Finanzierung zu hoch
+- Partnerschaft mit Hai als bessere strategische Option bewertet
+
+---
 
 ## Verwandte Seiten
 
 - [[Café Berlin Partnership Hai]] — aktives Nachfolgeprojekt
-- [[Oleg Personal Context|Oleg Personal Context]] — Entscheidungsträger
-- [[MOC Strategie und Business]] — übergeordnete MOC
-- [[Hai]] — Mitgründer im Partnerschaftsmodell
+- [[MOC Strategie und Business]] — übergeordnetes MOC
+- [[Oleg Personal Context]] — Projektverantwortlicher

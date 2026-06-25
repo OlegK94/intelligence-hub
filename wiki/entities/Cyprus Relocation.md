@@ -1,63 +1,71 @@
 ---
-title: Zypern Relocation
+title: Cyprus Relocation
 type: entity
-tags: [cyprus, relocation, someday, auswandern, steuer, portugal, expat, finanzen, paused]
-sources: ["raw/inbox/Cyprus Relocation Tracker.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Someday/Paused Umzugsplan — Oleg erwägt Zypern statt Portugal aus steuerlichen Gründen (50 % Steuerbefreiung für Neuansässige); Budget ~4.100 €/Monat für Paar + Hund, Startkapital 30.000–35.000 €; kein aktives Projekt, Wiedervorlage in einigen Jahren
+tags: [relocation, cyprus, zypern, aktiv, strategie, steuer, wohnsitz, lifestyle, business]
+sources: ["raw/Business/MOC/MOC Strategie & Business.md"]
+created: 2026-06-20
+updated: 2026-06-20
+summary: Aktives Projekt — Relocation von Oleg nach Zypern; im MOC Strategie & Business als aktives Projekt gelistet; Details zu Zeitplan, Motivation (steuerlich/lifestyle) und Umsetzungsschritten noch aus weiteren Quellen zu ergänzen
 ---
 
-# Zypern Relocation
+# Cyprus Relocation
 
 ## Überblick
 
-**Zypern Relocation** ist ein pausierter Someday-Bucket-Umzugsplan für [[Oleg Personal Context|Oleg]]. Es handelt sich **nicht um ein aktives Projekt** (Stand Juni 2026) — die Datei dient als Referenz und erfordert kein aktives Tracking.
+**Cyprus Relocation** ist ein aktives Projekt von [[Oleg Personal Context|Oleg]], gelistet in [[MOC Strategie und Business]] unter **Aktive Projekte**. Es umfasst die Planung und Umsetzung einer Verlagerung des Wohnsitzes nach **Zypern**.
 
-> **Status: Pausiert.** Oleg plant, das Thema Relocation in einigen Jahren erneut aufzugreifen. Kein aktives Tracking erforderlich.
+---
 
-## Warum Zypern (statt Portugal)
+## Projektstatus
 
-Zypern wurde als Umzugsziel gegenüber Portugal vor allem aufgrund steuerlicher Vorteile bevorzugt:
-
-- **50 % Steuer-Exemption** für Neuansässige (Non-Dom-Status) — deutlich vorteilhafter als Portugals NHR-Regelung
-- Portugals NHR-Regelung wurde in ihrer ursprünglichen Form geändert bzw. abgeschafft, was ihre Attraktivität mindert
-
-## Budgetparameter
-
-| Parameter | Richtwert |
+| Parameter | Wert |
 |---|---|
-| Lebenshaltungskosten | ~4.100 €/Monat (Paar + Hund) |
-| Startkapital | 30.000–35.000 € |
+| **Status** | Aktiv |
+| **Zieldestination** | Zypern (Cyprus) |
+| **Typ** | Wohnsitzverlagerung / Relocation |
 
-Dies sind grobe Richtwerte aus der ersten Planungsphase — nicht gegen aktuelle Kosten auf Zypern validiert.
+---
 
-## Wann das Thema wieder relevant wird
+## Mögliche Motivationen (kontextuell abgeleitet)
 
-Wenn die Relocation erneut aufgegriffen wird:
-- **EOR (Employer of Record)**-Vereinbarungen prüfen — erforderlich, wenn ein Arbeitsverhältnis im Ausland fortgeführt werden soll
-- **Steuerberater**-Konsultation — Steuerwohnsitz Zypern, deutsche Wegzugsbesteuerung
-- **Zeitplan** — Lebensumstände und Geschäftssituation neu bewerten
-- Diese Datei reaktivieren oder einen neuen Tracker anlegen
+Zypern ist ein häufiges Ziel für EU-Bürger, die eine steuerlich und lifestyle-orientierte Verlagerung anstreben:
 
-## Strategische Spannungsfelder
+| Dimension | Relevanz |
+|---|---|
+| **Steuerliche Vorteile** | Zypern hat einen der niedrigsten Körperschaftsteuersätze in der EU (12,5 %) sowie günstige Regelungen für Non-Dom-Status |
+| **EU-Mitgliedschaft** | Vollständige EU-Freizügigkeit, keine Visumspflicht |
+| **Klima & Lebensqualität** | Mediterranes Klima, englischsprachige Infrastruktur |
+| **Business-Flexibilität** | Günstig für internationale Ventures und Remote-Arbeit |
+| **Relevanz für GmbH/UG** | Mögliche steuerliche Optimierung der Unternehmensstruktur |
 
-Dieser Plan steht in **direktem Widerspruch** zu [[Café Berlin Partnership Hai]], das seit Juni 2026 Priorität 1 hat und Olegs physische Präsenz in Berlin während des Phase-1-Aufbaus erfordert. Das Café-Vorhaben ist eine mehrjährige Verpflichtung, die eine Relocation weiter nach hinten verschiebt.
+> ⚠️ **Hinweis:** Dies sind kontextuell abgeleitete Möglichkeiten — die tatsächlichen Motivationen Olegs müssen aus weiteren Quelldokumenten entnommen werden.
 
-Siehe auch die im Entity-Artikel [[Café Berlin Partnership Hai]] vermerkte Spannung:
-> *„Priorität 1 ist ein Berliner Präsenzgeschäft; Priorität 3 ist, Berlin zu verlassen. Diese Ziele stehen derzeit im Widerspruch."*
+---
 
-## Einordnung in Olegs Strategie
+## Schnittstellen mit anderen Projekten
 
-- Im Paused/Someday-Bucket gelistet — nicht im aktiven Prioritätenstapel
-- Vor dem Café-Vorhaben hatte dieses Thema mehr Dringlichkeit; nun weiter de-priorisiert
-- Die 50 % Steuerbefreiung ist ein bedeutsamer finanzieller Hebel für [[Financial Independence]]-Ziele — relevant, wenn Geschäftseinkünfte skalieren
+- **[[ESt 2025]]:** Eine Wohnsitzverlagerung im laufenden oder kommenden Jahr hat erhebliche steuerliche Auswirkungen auf die deutsche Steuerpflicht
+- **[[Wagglz GmbH]]:** Unternehmensstruktur muss bei einer Verlagerung angepasst werden
+- **[[MOC Finanzen]]:** Finanzplanung für Relocation-Kosten
+
+---
+
+## Offene Informationen
+
+- [ ] Geplanter Zeitplan für die Verlagerung
+- [ ] Geplante Zielstadt auf Zypern (Limassol, Nikosia, Paphos?)
+- [ ] Steuerliche Strategie (Non-Dom-Status, GmbH-Sitz)
+- [ ] Wohnungssuche / Immobilien
+- [ ] Auswirkungen auf bestehende Versicherungen (Allianz, Barmenia, HEK)
+- [ ] Auswirkungen auf [[ESt 2025]] und Folgejahre
+
+---
 
 ## Verwandte Seiten
 
-- [[Oleg Personal Context]] — Person, auf die sich die Relocation bezieht
-- [[Café Berlin Partnership Hai]] — Priorität-1-Projekt, das strategische Spannungen erzeugt
-- [[Financial Independence]] — zugrundeliegende Motivation für steuereffiziente Relocation
-- [[MOC Strategie und Business]] — strategischer Überblick
-- [[MOC Finanzen]] — finanzplanerischer Kontext
-- [[Cyprus Relocation Tracker Source Detail]] — rohes Quelldokument
+- [[MOC Strategie und Business]] — übergeordnetes MOC
+- [[MOC Strategie und Business Source]] — Quelldokument
+- [[Wagglz GmbH]] — operative Gesellschaft, betroffen von Verlagerung
+- [[ESt 2025]] — steuerliche Implikationen
+- [[MOC Finanzen]] — Finanzplanung-Kontext
+- [[Oleg Personal Context]] — Projektverantwortlicher

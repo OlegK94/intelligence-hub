@@ -1,65 +1,79 @@
 ---
 title: Momentous
 type: entity
-tags: [supplement-brand, performance, huberman, evidence-based, whey, creatine, omega3, sleep-supplements]
-sources: ["raw/Privat/Performance/Supplement Stack.md", "02-Performance-Leben/Health Protocol — Master.md"]
-created: 2026-06-06
-updated: 2026-06-06
-summary: Premium-Supplement-Marke und offizieller Huberman-Lab-Partner — Hauptmarke für Olegs Supplement-Stack, mit Protein, Kreatin, Omega-3 und dem Complete Expert Stack Bundle
+tags: [supplement, brand, momentous, whey-protein, creatine, magnesium, collagen, omega-3, huberman, galpin, mcdaniel, performance, stack, 2026]
+sources: ["raw/inbox/supplement-stack-update-2026-06-20.md"]
+created: 2026-06-20
+updated: 2026-06-20
+summary: Momentous — US-amerikanische Premium-Supplement-Marke; Olegs primäre Supplement-Quelle 2026; wissenschaftlich beraten von Andrew Huberman, Andy Galpin und Brandon McDaniel; aktueller Stack umfasst Protein Isolate, Creatine, Magnesium, Collagen, Omega-3; Fokus auf klinisch validierte, saubere Formulierungen
 ---
 
 # Momentous
 
 ## Überblick
 
-**Momentous** ist ein Premium-Supplement-Unternehmen, bekannt für hochwertige, von Dritten getestete Produkte. Es ist der **offizielle Supplement-Partner des Huberman Lab Podcasts** ([[Andrew Huberman]]), was zu seiner Bekanntheit in evidenzbasierten Gesundheitsoptimierungs-Communities beiträgt.
+**Momentous** ist eine US-amerikanische Premium-Supplement-Marke mit Fokus auf klinisch validierte, transparente Formulierungen für Performance- und Longevity-Anwendungen. Momentous ist [[Oleg Personal Context|Olegs]] **primäre Supplement-Quelle** (Stand 2026-06-20) und bildet das Rückgrat des [[Supplement Stack]].
 
-Momentous ist die **Hauptmarke** in [[Oleg Personal Context|Olegs]] [[Supplement Stack]], die den Großteil seiner aktiven Supplemente abdeckt.
+Die Marke positioniert sich an der Schnittstelle zwischen Spitzensport und wissenschaftlicher Evidenz und arbeitet mit renommierten Wissenschaftlern und Coaches zusammen.
 
-## Verwendete Produkte (Olegs Stack)
+---
 
-| Produkt | Rolle im Stack |
-|---|---|
-| Complete Expert Stack | Gebündeltes Basissupplement-Paket (D3/K2, Magnesium L-Threonat, Apigenin, L-Theanin, etc.) |
-| Whey Protein Isolate (Unflavored) | Post-Workout-Protein (~40g) |
-| Omega-3 | Essentielle Fettsäuren |
-| Creatine | 5g täglich für Kraft und Kognition |
+## Olegs aktueller Momentous-Stack (Stand 2026-06-20)
 
-## Markenprinzipien
+| Produkt | Wirkstoff | Funktion |
+|---|---|---|
+| **Protein Isolat** | [[Whey Protein Isolate]] | Muskelproteinsynthese, Recovery |
+| **Creatin** | [[Creatine Monohydrate]] | Kraft, ATP-Resynthese, Kognition |
+| **Magnesium** | [[Magnesium]] | Muskel-/Nervenfunktion, Schlaf |
+| **Collagen** | [[Collagen]] | Gelenke, Bindegewebe |
+| **Omega-3** | [[Omega-3]] | EPA/DHA, Entzündungsbalance |
 
-- **Drittanbieter-geprüft:** NSF Certified for Sport und/oder Informed Sport
-- **Forschungsbasiert:** Formulierungen auf Basis von Peer-Review-Studien
-- **Saubere Formulierungen:** Keine unnötigen Zusatzstoffe
-- **Transparenz:** Klare Dosierungs- und Inhaltsstoffangaben
+---
 
-## Huberman-Lab-Verbindung
+## Scientific Advisory Board (soweit bekannt)
 
-Momentous ist der offizielle Supplement-Partner des Podcasts von [[Andrew Huberman]]. Diese Verbindung bedeutet:
-- Produkte werden auf Basis von Hubermans evidenzbasierten Protokollen formuliert
-- Der Complete Expert Stack spiegelt Hubermans empfohlenes Supplement-Regime wider
-- Die Dosierung basiert auf wissenschaftlicher Literatur, die in Podcast-Episoden referenziert wird
+| Advisor | Expertise | Relevanz |
+|---|---|---|
+| [[Andrew Huberman]] | Neurowissenschaft, Stanford | Supplement-Protokolle, Schlaf, Kognition |
+| [[Andy Galpin]] | Muskelphysiologie, CSU | Kraft, Ausdauer, metabolische Performance |
+| [[Brandon McDaniel]] | MLB VP of Player Performance | Athletik, Performance-Management |
 
-## Beschaffung
+Die Einbindung dieser Advisors ist ein wesentliches Qualitätsmerkmal der Marke — Produkte und Dosierungen werden von Experten mit nachgewiesener Praxiserfahrung mitgestaltet.
 
-- **Kanäle:** Momentous-Website (internationaler Versand) oder Amazon
-- **Hinweis:** Internationaler Versand nach Deutschland verfügbar
+---
 
-## Warum Momentous als Hauptmarke
+## Markenpositionierung
 
-Das Quelldokument des [[Supplement Stack]] nennt als Leitprinzip „Momentous-exklusiv" — Momentous wird bevorzugt, weil:
-1. Hohe Qualität / Drittanbieter-Teststandard
-2. Das Produktsortiment deckt die meisten benötigten Supplemente ab
-3. Übereinstimmung mit dem Huberman-Protokoll
-4. Vereinfachte Beschaffung aus einer Quelle (kein doppeltes Sourcing)
+- **Zertifizierungen:** Informed Sport / NSF Certified for Sport (sportler-relevant, Dopingtests)
+- **Transparenz:** Vollständige Inhaltsstoffangaben, keine proprietären Blends
+- **Zielgruppe:** Leistungsorientierte Athleten, Longevity-Interessierte, Performance-Optimierer
+- **Preissegment:** Premium
 
-Ausnahmen werden nur dann gemacht, wenn Momentous **kein gleichwertiges Produkt** anbietet — derzeit nur [[Sulforaphane]] (bezogen von [[Sunday Natural]]).
+---
+
+## Abgrenzung zu [[Thorne]]
+
+[[Thorne]] dient in Olegs Stack als sekundäre Marke für spezifische Mikronutrient-Produkte (Vitamin D3 Drops, Zinc Picolinate), bei denen Thornes klinische Orientierung und Formulierungstiefe (z.B. Picolinat-Form) den Ausschlag geben.
+
+| Marke | Stärke | Oleg-Einsatz |
+|---|---|---|
+| **Momentous** | Performance-Supplemente, Makronährstoffe | Protein, Creatine, Magnesium, Collagen, Omega-3 |
+| **Thorne** | Klinische Mikronutrients, spezifische Formen | Vitamin D3 Drops, Zinc Picolinate |
+
+---
 
 ## Verwandte Seiten
 
-- [[Supplement Stack]] — vollständiger Stack mit Momentous-Produkten
-- [[Supplement Stack Source Detail]] — Quelldokument
-- [[Andrew Huberman]] — Huberman-Lab-Partnerschaft
-- [[Health Protocol Master]] — Protokollkontext
-- [[Creatine]] — spezifisches Produkt
-- [[Sulforaphane]] — einzige Nicht-Momentous-Ausnahme
-- [[Oleg Personal Context]] — Endnutzer
+- [[Supplement Stack]] — Olegs aktueller Stack (Momentous als Primärmarke)
+- [[Supplement Stack Update 2026-06-20]] — Quelldokument
+- [[Thorne]] — Sekundärmarke
+- [[Andrew Huberman]] — Momentous Scientific Advisor
+- [[Andy Galpin]] — Momentous Scientific Advisor
+- [[Brandon McDaniel]] — Momentous Scientific Advisor
+- [[Whey Protein Isolate]] — Produkt
+- [[Creatine Monohydrate]] — Produkt
+- [[Magnesium]] — Produkt
+- [[Collagen]] — Produkt
+- [[Omega-3]] — Produkt
+- [[Health Protocol Master]] — übergeordnetes Protokoll
+- [[Oleg Personal Context]] — Nutzer

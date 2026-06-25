@@ -1,22 +1,26 @@
 ---
 title: OK Capital UG Quelldokument-Detail
 type: source
-tags: [holding, ug, ok-capital, wagglz, finanzen, bankkonten, finom, google-workspace, darlehen, kosten]
+tags: [unternehmen, holding, ok-capital, wagglz, finanzen, finom, westx, google-workspace, struktur, darlehen]
 sources: ["raw/Business/OK-Capital/OK Capital UG.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Quelldokument für die OK Capital UG — Holdingstruktur (100 % Oleg → UG → Wagglz GmbH), Finom-Bankkonto, 31,60 €/Monat Fixkosten (WestX + Google Workspace), 0,00 € Saldo Juni 2026, 100 € Gesellschafterdarlehen von Oleg
+summary: Quelldokument für OK Capital UG — Holding-Struktur (Oleg → OK Capital UG → Wagglz GmbH), Bankkonten (Finom WestX 23,50 €/Mo + Google 8,10 €/Mo), Saldo Juni 2026 = 0,00 €, Oleg-Darlehen 100 € vom 01.03.2026
 ---
 
 # OK Capital UG — Quelldokument-Detail
 
-## Übersicht
+## Überblick
 
-Dieses Quelldokument (raw/Business/OK-Capital/OK Capital UG.md, aktualisiert: 2026-06-12) erfasst die Struktur, Bankkonten und das Kostenprofil der [[OK Capital UG]], Olegs Holdinggesellschaft.
+Dieses Quelldokument (`raw/Business/OK-Capital/OK Capital UG.md`, aktualisiert: 2026-06-12) beschreibt die Holding-Struktur der [[OK Capital UG]] und enthält die wesentlichen Finanzeckdaten für 2026.
 
-> Für die Entitätszusammenfassung und Widerspruchshinweise siehe [[OK Capital UG]].
+> Für die Entitäts-Übersichtsseite mit vollständigem Kontext und Querverweisen siehe [[OK Capital UG]].
 
-## Struktur (wie dokumentiert)
+---
+
+## Inhalt (aus der Quelle)
+
+### Beteiligungsstruktur
 
 ```
 Oleg Kober (Privat)
@@ -26,30 +30,51 @@ OK Capital UG  ←── Holding
   Wagglz GmbH  ←── Operativ
 ```
 
-## Bankkonten
+### Bankkonten
 
-- **Finom:**
-  - WestX: 23,50 €/Mo
-  - Google: 8,10 €/Mo
-- **Saldo Jun 2026:** 0,00 €
-- **Darlehen:** Oleg → OK Capital UG: 100 € (01.03.2026)
-
-## Kosten 2026
-
-| Posten | Betrag/Mo |
+| Konto | Kosten |
 |---|---|
-| WestX | 23,50 € |
-| Google Workspace | 8,10 € |
-| **Gesamt** | ~31,60 € |
+| Finom: WestX | 23,50 €/Mo |
+| Google Workspace | 8,10 €/Mo |
+| Saldo Jun 2026 | **0,00 €** |
 
-## Quell-Tags aus der Rohdatei
+### Oleg-Darlehen an OK Capital
 
-- tags: [unternehmen, holding, ok-capital]
-- aktualisiert: 2026-06-12
+- **Betrag:** 100 €
+- **Datum:** 01.03.2026
+
+### Kosten 2026
+
+| Posten | Betrag |
+|---|---|
+| WestX | 23,50 €/Mo |
+| Google Workspace | 8,10 €/Mo |
+| **Gesamt** | **~31,60 €/Mo** |
+
+---
+
+## Aktualisierungen bestehender Wiki-Seiten
+
+Diese Quelle ist **neu** — es existierte bisher keine Wiki-Seite zu OK Capital UG. Die folgenden Seiten wurden erstellt oder referenziert:
+
+| Seite | Aktion |
+|---|---|
+| [[OK Capital UG]] | Neu erstellt (Entitätsseite) |
+| [[Wagglz GmbH]] | Referenziert (existiert bereits) |
+| [[Oleg Personal Context]] | Referenziert als Gesellschafter |
+
+---
+
+## Keine Widersprüche
+
+Das Quelldokument steht in keinem Widerspruch zu bestehenden Wiki-Inhalten. Die [[Wagglz GmbH]] war bereits als operatives Unternehmen von Oleg im Wiki vorhanden; die Holding-Struktur über OK Capital UG ergänzt und präzisiert den Kontext.
+
+---
 
 ## Verwandte Seiten
 
-- [[OK Capital UG]] — Entitätsseite
+- [[OK Capital UG]] — Entitätsseite (neu erstellt)
 - [[Wagglz GmbH]] — operative Tochtergesellschaft
-- [[Oleg Business Entity Structure|Oleg Business Entity Structure]] — übergeordneter Entitätskontext
-- [[Oleg Personal Context|Oleg Personal Context]] — Eigentümer
+- [[Oleg Personal Context]] — Alleingesellschafter
+- [[SP STB]] — Steuerberater
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC

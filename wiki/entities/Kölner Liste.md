@@ -1,84 +1,108 @@
 ---
 title: Kölner Liste
 type: entity
-tags: [certification, DACH, supplement, anti-doping, WADA, athletes, sports-nutrition, performance-cafe, regulatory]
+tags: [performance-cafe, certification, koelner-liste, wada, dach, athleten-supplement, gmp, ops, eurofins, fresenius, mvp]
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Deutscher Standard für Athleten-Supplemente — prüft ~1.400 verbotene WADA-Substanzen; DACH-Marktstandard für Sporternährung; Prioritäts-MVP-Zertifizierung für die Performance Coffee Brand; Kosten 1.500–2.500 €/SKU, Zeitrahmen 4–8 Wochen
+summary: Deutschlands Standard-Zertifizierung für Athleten-Supplemente — prüft auf ~1.400 verbotene WADA-Substanzen; Kosten 1.500–2.500 €/SKU; Listung nach 4–8 Wochen; kein ISO/GMP-Standard, aber DACH-Marktstandard; MVP-Priorität für die Performance Coffee Brand
 ---
 
 # Kölner Liste
 
 ## Überblick
 
-Die **Kölner Liste** ist Deutschlands Standardzertifizierung für athletenorientierte Nahrungsergänzungsmittel. Sie ist die **MVP-Priorität** (Stufe 1) im dreistufigen [[Certification Roadmap Performance Coffee Brand|Zertifizierungs-Roadmap]] der [[Performance Coffee Brand]].
+Die **Kölner Liste** ist Deutschlands etablierter Standard für Athleten-Supplemente im DACH-Markt. Sie prüft Produkte auf rund **1.400 verbotene WADA-Substanzen** und ist der de-facto-Marktstandard für seriöse Supplement-Marken in Deutschland, Österreich und der Schweiz. Für die [[Performance Coffee Brand]] hat sie **MVP-Priorität** (Stufe 1 in der Zertifizierungs-Roadmap).
 
-## Was geprüft wird
+---
 
-- Prüfung von Produkten auf **~1.400 verbotene Substanzen** der [[WADA Prohibited List]]
-- Schwerpunkt: Bestätigung, dass Produkte frei von Kontaminationen mit dopingrelevanten Substanzen sind
-- Kein GMP- oder ISO-Qualitätsmanagementsystem — ausschließlich ein Kontaminationsscreening
-- Durchgeführt von akkreditierten Laboratorien ([[Eurofins]], [[Fresenius]] und anderen)
-- Registrierung und Listung über **koelnerliste.de**
+## Eckdaten
 
-## Warum die Kölner Liste für die Performance Coffee Brand relevant ist
-
-| Dimension | Wert |
+| Parameter | Details |
 |---|---|
 | **Markt** | DACH (Deutschland, Österreich, Schweiz) |
-| **Zielkunde** | Athleten, CrossFit-Community, Hyrox-Teilnehmer |
-| **Vertrauenssignal** | Athleten achten beim Kauf von Supplementen auf die Kölner Liste |
-| **Händlerzugang** | Voraussetzung für viele deutsche Sportfachhändler und CrossFit-Boxen |
-| **Anti-Doping-Compliance** | Belegt die Produktsicherheit für Wettkampfsportler |
-
-## Zertifizierungsprozess
-
-1. Rezeptur abschließen + COA (Certificate of Analysis) vom CMO einholen
-2. Laboranalyse bei einem akkreditierten Labor (Eurofins, Fresenius)
-3. Registrierung über koelnerliste.de
-4. Zertifizierungsgebühr bezahlen
-5. Listung wird nach 4–8 Wochen veröffentlicht
-
-## Kosten und Zeitrahmen
-
-| Parameter | Wert |
-|---|---|
+| **Geprüfte Substanzen** | ~1.400 verbotene WADA-Substanzen |
 | **Kosten** | 1.500–2.500 € pro SKU |
-| **Zeitrahmen** | 4–8 Wochen nach Einreichung |
-| **Erneuerung** | Charge- oder periodische Nachtestung (keine kontinuierliche Chargentestung wie bei [[Informed Sport]]) |
+| **Timeline** | 4–8 Wochen nach Anmeldung |
+| **Priorität** | 🔴 MVP — sofort nach Pilotbatch |
+| **Website** | koelnerliste.de |
+| **Zertifizierungstyp** | Substanztest (kein ISO/GMP-Standard) |
 
-## CMO-Anforderungen
+---
 
-- CMO muss über eine **GMP-Zertifizierung** verfügen
-- Vollständige Zutatendeklaration vor der Testung erforderlich
-- Chargendokumentation erforderlich
-- Option: Verwendung von Kölner-Liste-zertifizierten Rohstofflieferanten ODER Einsendung von Proben an externe Labore
+## Was die Kölner Liste ist — und was nicht
+
+| Aspekt | Details |
+|---|---|
+| **Was sie prüft** | Reinheit des Produkts auf WADA-verbotene Substanzen |
+| **Was sie NICHT prüft** | Herstellungsprozess, GMP-Compliance, Wirksamkeit |
+| **ISO/GMP-Standard** | ❌ Kein ISO- oder GMP-Standard |
+| **DACH-Marktstandard** | ✅ De-facto-Standard im deutschsprachigen Raum |
+| **Zielgruppe** | Profisportler, ambitionierte Freizeitsportler, Fitness-Community |
+
+> **Wichtiger Hinweis:** Die Kölner Liste bestätigt nur die Abwesenheit verbotener Substanzen — nicht die Qualität des Herstellungsprozesses. Ein separater GMP-zertifizierter CMO ist Voraussetzung für den Antragsprozess, aber der GMP-Status des CMO wird durch die Kölner Liste selbst nicht zertifiziert.
+
+---
+
+## Prozess
+
+```
+Finale Rezeptur + COA vom CMO
+        ↓
+Laboranalyse (Eurofins oder Fresenius — akkreditierte Labore)
+        ↓
+Anmeldung über koelnerliste.de
+        ↓
+Prüfgebühr: 1.500–2.500 € pro Produkt
+        ↓
+Listung nach 4–8 Wochen
+```
+
+---
+
+## Voraussetzungen für den Antrag
+
+1. **Fester CMO** mit GMP-Zertifizierung
+2. **Vollständige Inhaltsstoffdeklaration** — alle Zutaten, Mengen, Hilfsstoffe
+3. **Charge-Dokumentation** — Produktionsdokumentation der Pilotcharge
+4. **CMO-Labor-Option:** CMO nutzt Kölner-Liste-zertifizierte Labore ODER sendet Proben an externe Labore (Eurofins, Fresenius)
+
+---
+
+## Relevanz für die Performance Coffee Brand
+
+Die Kölner Liste ist der erste Zertifizierungsschritt und schaltet den DACH-Markt vollständig frei:
+
+| Ohne Kölner Liste | Mit Kölner Liste |
+|---|---|
+| Vermarktung an Profisportler schwierig | Vertrauen von Profisportlern und Vereinen |
+| CrossFit-Boxen zurückhaltend | CrossFit-Boxen als B2B-Kanal offen |
+| Hyrox-Community skeptisch | [[Hyrox Competition]]-Community als Zielgruppe adressierbar |
+| Einzelhandel-Listings limitiert | Einzelhandel und Online-Shops zugänglich |
+
+### Timing
+
+**Sofort nach dem Pilotbatch** — sobald die finale Rezeptur fixiert und der CMO ausgewählt ist, sollte der Kölner-Liste-Prozess gestartet werden. Die 4–8 Wochen Wartezeit sollten eingeplant werden, bevor Marketing-Aktivitäten anlaufen.
+
+---
 
 ## Vergleich mit anderen Zertifizierungen
 
-| Merkmal | Kölner Liste | [[Informed Sport]] | [[NSF Certified for Sport]] |
-|---|---|---|---|
-| Markt | DACH | EU / International | USA |
-| Strenge | Standard | Strenger | Goldstandard |
-| Chargentestung | Pro Produkt | Jede Charge | Vollaudit + jede Charge |
-| Kosten/SKU | 1,5–2,5k € | 3–6k € Einrichtung | 5–10k € |
-| Zeitrahmen | 4–8 Wochen | 3–4 Monate | 4–6 Monate |
-| Priorität | 🔴 MVP | 🟡 Skalierung | 🟢 US-Expansion |
+| Zertifizierung | Markt | Kosten | Strenge | Timing |
+|---|---|---|---|---|
+| **Kölner Liste** | DACH | 1.500–2.500 €/SKU | Mittel | MVP |
+| [[Informed Sport]] | EU/International | 3.000–6.000 € Setup | Hoch (Batch-Testing) | Skalierung |
+| [[NSF Certified for Sport]] | USA | 5.000–10.000 € | Sehr hoch | US-Expansion |
 
-## Strategische Hinweise
-
-- Die Kölner Liste ist das **minimal viable Vertrauenssignal** für den DACH-Sporternährungsmarkt
-- Ohne sie ist der Vertrieb an Fitnessstudios, CrossFit-Boxen und Hyrox-Communities deutlich schwieriger
-- Die niedrigen Kosten und der kurze Zeitrahmen machen sie zur natürlichen ersten Zertifizierung vor der Skalierung
-- Sie ersetzt NICHT die [[NEM Konformität]] im Lebensmittelrecht — das ist ein separater, paralleler, verpflichtender Pfad
+---
 
 ## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — Projekt
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Quelldokument
-- [[Informed Sport]] — Stufe 2 (strenger, gesamteuropäisch)
-- [[NSF Certified for Sport]] — Stufe 3 (US-Goldstandard)
-- [[NEM Konformität]] — paralleler, verpflichtender Lebensmittelrechts-Pfad
-- [[CMO Sourcing Performance Coffee]] — CMO-Anforderungen
-- [[WADA Prohibited List]] — referenzierte Substanzliste
+- [[Zertifizierungs-Roadmap Performance Coffee]] — Quelldokument mit vollständiger Roadmap
+- [[Informed Sport]] — Stufe 2 (EU-Skalierung)
+- [[NSF Certified for Sport]] — Stufe 3 (US-Expansion)
+- [[Performance Coffee Brand]] — Hauptprojektentität
+- [[CMO Sourcing Performance Coffee]] — GMP-CMO als Voraussetzung
+- [[Aidea]] — CMO-Kandidat (GMP-zertifiziert)
+- [[NEM-Konformität Performance Coffee]] — parallel laufende Pflichtprüfungen
+- [[Hyrox Competition]] — Zielgruppe, die Kölner-Liste-zertifizierte Produkte bevorzugt

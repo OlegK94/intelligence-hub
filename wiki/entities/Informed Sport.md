@@ -1,81 +1,89 @@
 ---
 title: Informed Sport
 type: entity
-tags: [certification, EU, supplement, anti-doping, WADA, LGC-group, batch-testing, athletes, sports-nutrition, performance-cafe, regulatory, international]
+tags: [performance-cafe, certification, informed-sport, lgc-group, eu, batch-testing, crossfit, hyrox, ops, international]
 sources: ["raw/Business/PerformanceCafe/ops/certification_roadmap.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Paneuropäische Nahrungsergänzungsmittel-Zertifizierung durch die LGC Group — strenger als die Kölner Liste mit verpflichtendem Batch-Testing je Charge; Priorität Stufe 2 (Skalierungsphase) für die Performance Coffee Brand; Auslöser: 500+ verkaufte Einheiten; Kosten 3.000–6.000 € Einrichtung + 500–1.500 €/Charge
+summary: Pan-europäischer Supplement-Zertifizierungsstandard der LGC Group — strenger als Kölner Liste durch Batch-Testing jeder Charge; 3.000–6.000 € Setup + 500–1.500 € pro Charge; besonders relevant für CrossFit-Boxen und internationale Hyrox-Community; Zeitpunkt nach 500+ verkauften Boxen
 ---
 
 # Informed Sport
 
 ## Überblick
 
-**Informed Sport** ist ein paneuropäisches Zertifizierungsprogramm für Nahrungsergänzungsmittel, betrieben von der **LGC Group** (informedsport.com). Es stellt **Stufe 2** im Zertifizierungs-Roadmap der [[Performance Coffee Brand]] dar — strenger als die [[Kölner Liste]] und europaweit sowie international anerkannt.
+**Informed Sport** ist ein pan-europäischer Zertifizierungsstandard für Sporternährungsprodukte, betrieben von der **LGC Group** (UK). Er ist strenger als die [[Kölner Liste]], da nicht nur das Produkt einmalig, sondern **jede einzelne Charge** getestet wird (Batch-Testing). Für die [[Performance Coffee Brand]] ist Informed Sport die Stufe-2-Zertifizierung für die EU-Skalierung.
 
-## Was es strenger macht
+---
 
-Das entscheidende Unterscheidungsmerkmal gegenüber der [[Kölner Liste]] ist das **verpflichtende Batch-Testing je Charge**:
-- Jede Produktionscharge muss vor dem Verkauf unabhängig getestet werden
-- Rohstofflieferanten müssen selbst Informed Sport-zertifiziert sein
-- Schafft ein vollständiges System zur Kontaminationskontrolle entlang der Lieferkette
-- Die LGC Group betreibt die eigene Testlabor-Infrastruktur
+## Eckdaten
 
-## Relevanz für die Zielgruppen der Performance Coffee Brand
-
-Informed Sport wird insbesondere anerkannt von:
-- **CrossFit-Community** — CrossFit-Boxen fordern für gesponserte Athleten häufig Informed Sport
-- **Hyrox-Community** — die internationale Veranstaltungsstruktur macht eine EU-/internationale Zertifizierung wichtig
-- **Profisportlern** in ganz Europa
-- **Internationalem Einzelhandel** außerhalb des DACH-Raums
-
-Dies deckt sich direkt mit den Zielkundensegmenten der [[Performance Coffee Brand]].
-
-## Zertifizierungsprozess
-
-1. Registrierung bei der LGC Group unter informedsport.com
-2. Jede Produktionscharge wird separat getestet (Batch-Testing)
-3. Der CMO muss alle Rohstoffe ausschließlich von Informed Sport-zugelassenen Lieferanten beziehen
-4. Chargenergebnisse werden öffentlich auf der Informed Sport-Website veröffentlicht
-
-## Kosten und Zeitplan
-
-| Parameter | Wert |
+| Parameter | Details |
 |---|---|
-| **Einrichtungskosten** | 3.000–6.000 € pro SKU |
-| **Kosten pro Charge** | ~500–1.500 € je Produktionscharge |
-| **Zeitrahmen** | 3–4 Monate von der Registrierung bis zur ersten Listung |
+| **Betreiber** | LGC Group |
+| **Markt** | EU / International |
+| **Testansatz** | Batch-Testing (jede Charge separat) |
+| **Setup-Kosten** | 3.000–6.000 € |
+| **Laufende Kosten** | ~500–1.500 € pro Charge |
+| **Timeline** | 3–4 Monate |
+| **Priorität** | 🟡 Skalierung |
+| **Website** | informedsport.com |
 
-> ⚠️ **Hinweis zu laufenden Kosten:** Anders als bei der [[Kölner Liste]] (einmalig pro SKU) entstehen bei Informed Sport **wiederkehrende Kosten pro Charge**. Bei größerem Maßstab (z. B. 10 Chargen/Jahr) können die jährlichen Kosten allein für Testgebühren 5.000–15.000 €/SKU erreichen. Dies muss im COGS-Modell der [[Performance Coffee Brand]] berücksichtigt werden.
+---
 
-## Auslösebedingung
+## Was Informed Sport von der Kölner Liste unterscheidet
 
-Laut Quelldokument wird die Zertifizierung **nach 500+ verkauften Boxen UND positivem Phase-1-Feedback** ausgelöst. Dabei handelt es sich um einen meilensteinbasierten Ansatz — Informed Sport sollte nicht verfolgt werden, bevor die Produkt-Markt-Passung mit der [[Kölner Liste]] in Phase 1 nachgewiesen wurde.
+| Aspekt | Kölner Liste | Informed Sport |
+|---|---|---|
+| Testansatz | Einmalige Produktprüfung | Jede Charge einzeln getestet |
+| Anerkennungsbereich | DACH | EU + International |
+| Lieferantenpflichten | Keine speziellen Anforderungen | CMO muss Informed-Sport-Lieferanten nutzen |
+| Kosten | 1.500–2.500 €/SKU (einmalig) | 3.000–6.000 € Setup + 500–1.500 €/Charge |
+| Strenge | Mittel | Hoch |
+| Bekanntheitsgrad international | Mittel | Hoch |
 
-## CMO-Anforderungen
+---
 
-- Der CMO muss ausschließlich **Informed Sport-zugelassene Rohstofflieferanten** verwenden
-- Dies schränkt die CMO-Auswahl ein — nicht alle GMP-zertifizierten CMOs sind Informed Sport-fähig
-- Muss im Rahmen der Bewertung gemäß [[CMO Sourcing Performance Coffee]] geprüft werden
+## Prozess
 
-## Vergleich mit anderen Zertifizierungen
+1. Registrierung bei der LGC Group über informedsport.com
+2. Jede Produktionscharge wird separat eingesandt und getestet
+3. **CMO-Anforderung:** Der CMO muss bei allen Rohstoffen ausschließlich Informed-Sport-zugelassene Lieferanten verwenden — das ist eine wesentliche Supply-Chain-Anforderung
+4. Bei bestandenem Test: Batch-spezifisches Zertifikat + Logo-Nutzungsrecht
 
-| Merkmal | [[Kölner Liste]] | Informed Sport | [[NSF Certified for Sport]] |
-|---|---|---|---|
-| Betreiber | Regional (DE) | LGC Group (pan-EU) | NSF International (US) |
-| Batch-Testing | Nein | ✅ Jede Charge | ✅ Jede Charge |
-| Lieferkettenaudit | Nein | Teilweise (Lieferantenzulassung) | Vollständiges Audit |
-| Internationale Anerkennung | DACH | EU + International | USA (Goldstandard) |
-| Kosten/SKU Einrichtung | 1,5–2,5k € | 3–6k € | 5–10k € |
-| Laufende Kosten | Gering | Mittel (pro Charge) | Hoch (jährliche Rezertifizierung) |
+---
+
+## Zielgruppe und strategische Bedeutung
+
+Informed Sport ist besonders relevant für:
+
+| Zielgruppe | Warum |
+|---|---|
+| **CrossFit-Boxen** | Betreiber und Athleten kennen und fordern oft Informed Sport |
+| **Hyrox-Community** | Internationale Events; Athleten aus UK, Nordeuropa bevorzugen Informed Sport |
+| **Profisportler (EU)** | Vertrauensstandard außerhalb des US-Markts |
+| **Internationaler B2B** | Einzelhändler in UK, Skandinavien, Benelux verlangen oft Informed Sport |
+
+### Timing für die Performance Coffee Brand
+
+**Nach 500+ verkauften Boxen und positivem Feedback aus Phase 1.**
+
+Dies signalisiert einen bewusst agilen Ansatz: Erst den DACH-Markt mit [[Kölner Liste]] erschließen, Produkt-Market-Fit validieren, dann Informed Sport für die Skalierung in die breitere EU-Community hinzufügen.
+
+---
+
+## CMO-Implikation
+
+Die Anforderung, dass der CMO **Informed-Sport-zugelassene Lieferanten** für alle Rohstoffe verwendet, hat eine wichtige strategische Konsequenz: Der CMO-Auswahlprozess ([[CMO Sourcing Performance Coffee]]) sollte bereits in Phase 1 die Informed-Sport-Kompatibilität mitprüfen — ein CMO-Wechsel nach Phase 1 würde erheblichen Aufwand bedeuten.
+
+---
 
 ## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — Projekt
-- [[Performance Coffee Brand Certification Roadmap Source Detail]] — Quelldokument
-- [[Kölner Liste]] — Stufe-1-Vorgängerzertifizierung
-- [[NSF Certified for Sport]] — Stufe 3 (US-Goldstandard)
-- [[NEM Konformität]] — paralleler, verpflichtender lebensmittelrechtlicher Pfad
-- [[CMO Sourcing Performance Coffee]] — CMO-Lieferkettenanforderungen
-- [[LGC Group]] — Zertifizierungsstelle
+- [[Zertifizierungs-Roadmap Performance Coffee]] — Quelldokument
+- [[Kölner Liste]] — Stufe 1 (DACH MVP)
+- [[NSF Certified for Sport]] — Stufe 3 (US-Expansion)
+- [[Performance Coffee Brand]] — Hauptprojektentität
+- [[CMO Sourcing Performance Coffee]] — Supply-Chain-Implikation
+- [[Hyrox Competition]] — primäre Zielgruppe für Informed Sport
+- [[NEM-Konformität Performance Coffee]] — parallel laufende Pflichtprüfungen

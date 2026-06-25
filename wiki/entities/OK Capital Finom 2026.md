@@ -1,34 +1,61 @@
 ---
 title: OK Capital Finom 2026
 type: entity
-tags: [konto, finom, ok-capital, business-banking, 2026, finanzen]
-sources: ["raw/Privat/Finanzen/00 MOC Finanzen.md"]
+tags: [konten, ok-capital, finom, finanzen, business, kosten, darlehen, 2026, geschaeftskonto]
+sources: ["raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Geschäftskonto der OK Capital UG bei Finom (europäische Neobank für KMU) — im Finanzen-MOC referenziert; Kontostand und Transaktionsdetails aus aktueller Quelle nicht verfügbar
+summary: Geschäftskonto der OK Capital UG bei Finom (Stand Juni 2026) — Saldo 0,00 €; laufende Kosten 31,60 €/Monat (WestX 23,50 € + Google 8,10 €); Gesellschafterdarlehen von Oleg über 100 € (01.03.2026)
 ---
 
 # OK Capital Finom 2026
 
-## Übersicht
+## Überblick
 
-**OK Capital Finom 2026** bezeichnet das Geschäftskonto der [[OK Capital UG]] bei **Finom**, einer europäischen Neobank für KMU. Es wird zusammen mit [[Wagglz Finom 2026]] und [[Consorsbank Girokonto 0250120493]] als eines von drei aktiven Konten im [[MOC Finanzen Source Detail]] aufgeführt.
+**OK Capital Finom 2026** ist das Geschäftskonto der [[OK Capital UG]] beim Fintech-Anbieter **Finom**. Der aktuelle Kontostand beträgt 0,00 € (Stand: Juni 2026). Das Konto trägt laufende Betriebskosten für zwei Dienste und weist ein Gesellschafterdarlehen von [[Oleg Personal Context|Oleg]] aus.
 
-> ⚠️ **Annahme [A]:** Kontostand, IBAN und Transaktionsaktivität sind aus der aktuellen Quelle nicht verfügbar. Diese Seite wird erweitert, sobald das Quelldokument der OK Capital Finom eingelesen wurde.
+## Kontodaten
 
-## Kontokontext
-
-| Parameter | Detail |
+| Parameter | Wert |
 |---|---|
-| **Entität** | [[OK Capital UG]] |
-| **Bank** | Finom (EU-Neobank für KMU) |
-| **Jahresreferenz** | 2026 |
-| **Zweck** | Geschäftsbankverbindung der OK Capital UG |
+| **Kontoinhaber** | [[OK Capital UG]] |
+| **Anbieter** | Finom |
+| **Saldo (Jun 2026)** | 0,00 € |
+| **Aktualisiert** | 2026-06-12 |
+
+## Laufende Kosten
+
+| Dienst | Betrag/Monat | Betrag/Jahr |
+|---|---|---|
+| WestX | 23,50 € | 282,00 € |
+| Google | 8,10 € | 97,20 € |
+| **Gesamt** | **31,60 €** | **379,20 €** |
+
+Diese laufenden Kosten belasten das Konto monatlich, obwohl der aktuelle Saldo bei 0,00 € liegt. Die Liquidität muss entsprechend sichergestellt werden.
+
+## Gesellschafterdarlehen
+
+| Parameter | Wert |
+|---|---|
+| **Darlehensgeber** | [[Oleg Personal Context\|Oleg]] |
+| **Betrag** | 100,00 € |
+| **Datum** | 01.03.2026 |
+| **Art** | Gesellschafterdarlehen |
+
+Am 01.03.2026 gewährte Oleg der [[OK Capital UG]] ein Darlehen über 100 €. Dieses Darlehen ist bilanziell als Verbindlichkeit der UG gegenüber dem Gesellschafter zu erfassen.
+
+## Liquiditätshinweis
+
+Bei einem Saldo von 0,00 € und laufenden Kosten von 31,60 €/Monat besteht unmittelbarer Liquiditätsbedarf. Folgende Maßnahmen sind zu prüfen:
+
+- [ ] Einnahmen auf das Konto einzahlen / überweisen lassen
+- [ ] Relevanz der laufenden Dienste (WestX, Google) prüfen und ggf. kündigen
+- [ ] Darlehensrückführungsplan festlegen
 
 ## Verwandte Seiten
 
-- [[MOC Finanzen]] — übergeordneter Finanzen-MOC
-- [[OK Capital UG]] — kontoführende Entität
-- [[Wagglz Finom 2026]] — paralleles Finom-Konto für Wagglz
-- [[Consorsbank Girokonto 0250120493]] — Olegs persönliches Girokonto
-- [[Oleg Personal Context]] — Kontobetreiber
+- [[OK Capital Finom 2026 Source Detail]] — Quelldokument
+- [[OK Capital UG]] — Kontoinhaber
+- [[Oleg Personal Context]] — Gesellschafter und Darlehensgeber
+- [[Wagglz Finom 2026]] — paralleles Finom-Konto (Wagglz GmbH)
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC

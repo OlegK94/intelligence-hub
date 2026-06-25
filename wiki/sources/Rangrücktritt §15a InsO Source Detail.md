@@ -1,58 +1,60 @@
 ---
-title: Rangrücktritt §15a InsO Quelldokument
+title: Rangrücktritt §15a InsO Quelldokument-Detail
 type: source
-tags: [insolvenz, rechtlich, wagglz, rangrücktritt, §15a, §19, überschuldung, gesellschafterdarlehen, P0]
+tags: [wagglz, insolvenz, rangrücktritt, §15a-insO, §19-insO, rechtlich, P0, gesellschafterdarlehen, überschuldung, geschäftsführer, strafbarkeit, OK-Capital]
 sources: ["raw/Business/OK-Capital/Rangrücktritt §15a InsO.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: P0 Rechtsmaßnahme — Rangrücktrittserklärung von Oleg als Gesellschafter zur Nachrangigkeit seines Gesellschafterdarlehens, wodurch die §19 InsO Überschuldung (Fehlbetrag 27.926,89 €) beseitigt und die §15a InsO Insolvenzantragspflicht für die Wagglz GmbH aufgehoben wird; Unterzeichnung fällig bis 2026-06-15
+summary: Quelldokument zum Rangrücktritt für die Wagglz GmbH — Oleg als Gesellschafter erklärt sein Darlehen nachrangig gegenüber allen Gläubigern; hebt bilanziellen Fehlbetrag von 27.926,89 € auf; beseitigt Insolvenzantragspflicht nach §15a InsO; Dokument liegt bei SP STB vor; Unterschrift bis 2026-06-15 erforderlich (P0)
 ---
 
-# Rangrücktritt §15a InsO — Quelldokument
+# Rangrücktritt §15a InsO — Quelldokument-Detail
 
 ## Überblick
 
-Dieses Quelldokument (Priorität: P0, Status: ausstehend, aktualisiert: 2026-06-12) erfasst die kritische Rechtsmaßnahme, die erforderlich ist, um eine Pflicht zur Insolvenzantragsstellung für die [[Wagglz GmbH]] zu verhindern. Das Dokument liegt bei SP STB (Steuerberatung) vor und erfordert Olegs Unterschrift bis spätestens **2026-06-15**.
+Dieses Quelldokument (`raw/Business/OK-Capital/Rangrücktritt §15a InsO.md`, aktualisiert: 2026-06-12, Priorität: P0, Status: ausstehend) beschreibt den **Rangrücktritt** als rechtliches Instrument zur Abwendung der Insolvenzantragspflicht bei der [[Wagglz GmbH]].
 
-> Für die Entitätszusammenfassung und den strategischen Kontext siehe [[Rangrücktritt §15a InsO]].
+> Zur Konzeptseite mit vollständiger rechtlicher Erklärung siehe [[Rangrücktritt Insolvenzrecht]].
+> Zur Entitätsseite für den konkreten Wagglz-Vorgang siehe [[Rangrücktritt §15a InsO Wagglz]].
 
-## Was ist ein Rangrücktritt?
+---
 
-Ein **Rangrücktritt** ist eine vertragliche Erklärung von [[Oleg Personal Context|Oleg]] als Gesellschafter der [[Wagglz GmbH]], dass sein Gesellschafterdarlehen gegenüber allen anderen Gläubigern **nachrangig gestellt wird** (nachrangig gegenüber allen anderen Gläubigern).
+## Kernaussagen (aus der Quelle)
 
-## Rechtliche Wirkung
+### Was ist ein Rangrücktritt?
 
-| Wirkung | Detail |
-|---|---|
-| **§19 InsO Überschuldung** | Gesellschafterdarlehen wird aus der Haftungsberechnung ausgeschlossen → festgestellte Überschuldung (Fehlbetrag 27.926,89 €) entfällt |
-| **§15a InsO Antragspflicht** | Ohne Überschuldung besteht keine Pflicht zur Insolvenzantragsstellung |
-| **Strafbarkeit** | Ohne Rangrücktritt: Oleg ist als GF zur sofortigen Antragstellung verpflichtet; Unterlassen → **strafrechtliche Haftung** (§15a Abs. 4 InsO) |
-| **Zivilrechtliche Haftung** | Ohne Rangrücktritt: zivilrechtliche Haftung gegenüber Gläubigern |
+Ein **Rangrücktritt** ist eine **vertragliche Erklärung** von [[Oleg Personal Context|Oleg]] als Gesellschafter, dass sein Darlehen gegenüber **allen anderen Gläubigern nachrangig** ist.
 
-## Überschuldungsberechnung
+**Rechtliche Wirkung:**
+- Das Gesellschafterdarlehen wird bei der **Überschuldungsprüfung nach §19 InsO** nicht mehr als Verbindlichkeit gewertet
+- Dadurch entfällt die bilanziell festgestellte Überschuldung (Fehlbetrag: **27.926,89 €**)
+- Keine **Insolvenzantragspflicht** mehr nach **§15a InsO**
 
-- **Fehlbetrag:** 27.926,89 €
-- **Ursache des Fehlbetrags:** Gesellschafterdarlehen wird im Rahmen der §19 InsO-Prüfung als Verbindlichkeit gewertet
-- **Wirkung des Rangrücktritts:** Darlehen wird als nachrangig umqualifiziert → gilt nicht mehr als Verbindlichkeit in der §19-Prüfung → Überschuldung entfällt
+### Warum kritisch (P0)?
 
-## Rechtliche Grundlagen
+Ohne Rangrücktritt:
+- Oleg als GF ist verpflichtet, **sofort** Insolvenzantrag zu stellen
+- Verletzt er diese Pflicht → **persönliche Strafbarkeit** (§15a Abs. 4 InsO)
+- Zusätzlich: **zivilrechtliche Haftung** gegenüber Gläubigern
 
-- **§15a InsO:** Insolvenzantragspflicht — gesetzliche Pflicht zur Insolvenzantragsstellung; Verletzung = Straftat (Abs. 4)
-- **§19 InsO:** Überschuldungsprüfung — Insolvenztest für Gesellschaften; eine Gesellschaft gilt als überschuldet, wenn die Verbindlichkeiten das Vermögen übersteigen, sofern keine hinreichend wahrscheinliche Fortführung gegeben ist
-- **Rangrücktritt:** Etabliertes Instrument im deutschen Insolvenzrecht zum Ausschluss nachrangiger Gesellschafterdarlehen aus der §19-Berechnung
+---
 
-## Status
+## Status und offene Aufgabe
 
-- [x] Dokument liegt bei SP STB vor ✅
-- [ ] **Unterschrift leisten** 🔺 📅 2026-06-15 ← **KRITISCH**
+| Aufgabe | Status | Frist |
+|---|---|---|
+| Dokument liegt bei SP STB vor | ✅ Erledigt | — |
+| **Unterschrift leisten** | 🔺 **Ausstehend** | **2026-06-15** |
 
-## ⚠️ Prioritätshinweis
+> ⚠️ **P0 — Höchste Priorität:** Die Unterschrift muss bis spätestens **15. Juni 2026** geleistet werden, um die Insolvenzantragspflicht zu vermeiden und die persönliche Strafbarkeit nach §15a Abs. 4 InsO abzuwenden.
 
-Dies ist als **P0** eingestuft — die höchste Prioritätsstufe in Olegs System. Die Frist (2026-06-15) macht dies zeitkritisch: Eine versäumte Unterzeichnung begründet für Oleg als Geschäftsführer der [[Wagglz GmbH]] ein unmittelbares Risiko strafrechtlicher Haftung.
+---
 
-## Verwandte Seiten
+## Verknüpfte Seiten
 
-- [[Rangrücktritt §15a InsO]] — Entitätsseite
-- [[Wagglz GmbH]] — das betroffene Unternehmen
-- [[Oleg Personal Context|Olegs persönlicher Kontext]] — Oleg als GF und Gesellschafter
-- [[Oleg Business Entity Structure|Olegs Unternehmensstruktur]] — Kontext der Unternehmensstruktur
+- [[Rangrücktritt Insolvenzrecht]] — Konzeptseite (rechtliche Erklärung)
+- [[Rangrücktritt §15a InsO Wagglz]] — Entitätsseite (konkreter Wagglz-Vorgang)
+- [[Wagglz GmbH]] — betroffenes Unternehmen
+- [[SP STB]] — Steuerberater, bei dem das Dokument liegt
+- [[Oleg Personal Context]] — Gesellschafter und Geschäftsführer
+- [[P0 Sofort]] — Prioritätskategorie
