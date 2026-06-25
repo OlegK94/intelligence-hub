@@ -41,18 +41,18 @@ Alle Antworten sollen auf **Deutsch** verfasst sein, direkt und konkret mit Quel
 
 Der Brief ist in **9 Forschungsmodule** plus ein **Python-Modell** gegliedert:
 
-| Modul | Titel | Ausgabedatei |
-|---|---|---|
+| Modul   | Titel                  | Ausgabedatei                       |
+| ------- | ---------------------- | ---------------------------------- |
 | Modul 0 | Longevity-Wissenschaft | `research/01_longevity_science.md` |
-| Modul 1 | Ingredienzen Datenbank | `research/02_ingredienzen_db.md` |
-| Modul 2 | Kaffee-Spezifikation | `research/03_kaffee_specs.md` |
-| Modul 3 | Marktanalyse | `research/04_marktanalyse.md` |
-| Modul 4 | Prototyp-Partner | `research/05_prototyp_partner.md` |
-| Modul 5 | Regulatorik + IP | `research/06_regulatorik.md` |
-| Modul 6 | Business Case | `research/07_business_case.md` |
-| Modul 7 | Brand & Naming | `brand/naming_brief.md` |
-| Modul 8 | IP & Legal Entity | `legal/ip_landscape.md` |
-| — | Unit Economics Modell | `models/unit_economics.py` |
+| Modul 1 | Ingredienzen Datenbank | `research/02_ingredienzen_db.md`   |
+| Modul 2 | Kaffee-Spezifikation   | `research/03_kaffee_specs.md`      |
+| Modul 3 | Marktanalyse           | `research/04_marktanalyse.md`      |
+| Modul 4 | Prototyp-Partner       | `research/05_prototyp_partner.md`  |
+| Modul 5 | Regulatorik + IP       | `research/06_regulatorik.md`       |
+| Modul 6 | Business Case          | `research/07_business_case.md`     |
+| Modul 7 | Brand & Naming         | `brand/naming_brief.md`            |
+| Modul 8 | IP & Legal Entity      | `legal/ip_landscape.md`            |
+| —       | Unit Economics Modell  | `models/unit_economics.py`         |
 
 ---
 
