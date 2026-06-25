@@ -1,7 +1,7 @@
 ---
 title: Intelligence Hub — Wiki Index
 type: index
-updated: 2026-06-19
+updated: 2026-06-25
 ---
 
 # Intelligence Hub — Wiki Index
@@ -241,6 +241,7 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[CMO Erstkontakt Email Template]] — German-language CMO outreach email template for Performance Coffee Brand — initial contact and follow-up templates, 5 CMO candidates (updated 2026-06-15)
 - [[Café Berlin Partnership Hai Raw Source]] — Ursprüngliches Planungsdokument für Café Berlin Co-Founder-Projekt mit Hai — Agenda für Planning Session 14.06.2026 (updated 2026-06-16)
 - [[Café Berlin Partnership Hai — Planning Detail]] — Full planning document for the Café Berlin co-founder venture with Hai — covers capital structure, role split, legal entity, location economics, profitability model (updated 2026-06-14)
+- [[Claude Code Tutorials DE Clippings]] — Sammlung von 13 YouTube-Clippings zu Claude Code (DE/EN) — Tricks, Skills, App-Entwicklung, Automatisierung; Eingang Juni 2026 (updated 2026-06-25)
 - [[Claude Projects Setup Source Detail]] — Source document detailing Oleg's 7 Claude AI Projects — structure, roles, context-driven vs task-driven distinction, global preferences (updated 2026-06-07)
 - [[Claude Session Finanzen Template]] — Template für Claude Finance-Sessions — kompakter Kontext-Block + vier vordefinierte Session-Typen (updated 2026-06-16)
 - [[Claude Session Template Performance]] — Reusable Claude session template for Oleg's Performance & Leben domain — five session-type sub-templates (updated 2026-06-13)
@@ -312,6 +313,7 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Performance Coffee Brand Regulatorik Report]] — Modul 5 — EU Novel Food Status für alle Longevity-Stoffe (Stand Juni 2026), Health Claims Strategie, Zertifizierungs-Roadmap (updated 2026-06-16)
 - [[Performance Coffee Brand Supplier List]] — Operative Lieferantenliste — CMOs (DACH/EU), Rohstofflieferanten für funktionelle Inhaltsstoffe, Analyselabore und Flavoristen (updated 2026-06-16)
 - [[Performance Coffee Brand TODO Master]] — Master ToDo document for the Performance Coffee Brand — all phases from regulatory research through validation, MVP launch, and scaling (updated 2026-06-15)
+- [[Performance Coffee Brand Projektübersicht Source Detail]] — Frühe Projektübersicht vom 14.06.2026 — Pivot-Moment vom Café zu eCommerce-first Instant-Sachet; vier Ursprungs-Quelldateien (updated 2026-06-25)
 - [[Performance Overview Source Detail]] — Master performance overview document — body baseline (96.7 kg, 20.3% KFA, 77.1 kg lean mass), nutrition targets (2,800 kcal, 220 g protein), primary limitators (updated 2026-06-13)
 - [[Privacy and Tech Stack Source Detail]] — Raw source for Oleg's Privacy & Tech Stack — devices, browser rationale, full Proton ecosystem status table, domain/DNS config (updated 2026-06-16)
 - [[Privat Finanz-Übersicht Source Detail]] — Überblick Privatfinanzen — strukturelles Jahresdefizit −7.970 €, Kontostand −1.405 € Dispo, zwei Unternehmenseinheiten ohne Rückflüsse (updated 2026-06-16)
@@ -324,6 +326,7 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[VW Konsumkredit Source Detail]] — Quelldokument VW Bank Konsumkredit — Konditionen, Restschuld 18.858 € (Jun 2026), Sondertilgungsprüfung mit Q-Bonus (updated 2026-06-12)
 - [[Wagglz Finom 2026 Source Detail]] — Wagglz GmbH Finom-Konto 2026 — IBAN DE36100180000083465573; Saldo 0,00 €; finanziert durch Oleg-Gesellschafterdarlehen (updated 2026-06-16)
 - [[Wagglz GF-Gehalt 2025 Source Detail]] — Source document for Wagglz GmbH managing director salary 2025 — correctly taxed via SP STB; Lohnsteuerbescheinigung required for ESt 2025 filing (updated 2026-06-12)
+- [[Wagglz Figma Design Index Source Detail]] — Master-Katalog aller 10 aktiven Figma-Dateien für Wagglz/Wufflz — Wireframes, Pitch Decks, B2B Software; Export-Status 1/10 (updated 2026-06-25)
 - [[Wagglz GmbH Finance Vault]] — Finance Vault for Wagglz GmbH — capital transfer history, monthly Gesellschafterdarlehen payments ~357 €/Mo, open insolvency assessment, three strategic options (updated 2026-06-13)
 - [[Wagglz GmbH Source Detail]]
 - [[Wagglz Wettbewerber Source Detail]] — Marktüberblick DE Tierarzt- und Pet-Software — 13 Wettbewerber in 5 Kategorien; PMS, Tierhalter-App, KI, Booking, Directory (updated 2026-06-25) — Source document for Wagglz GmbH — company stammdaten, insolvency status (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), 2026 running costs (updated 2026-06-12)

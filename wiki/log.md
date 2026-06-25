@@ -2,6 +2,45 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-25 12:00] ingest | Bulk Raw Files — Café Berlin, OK Capital, Privat, Clippings, Wagglz Design
+
+### Quellen geprüft (alle Batches)
+
+**BATCH 1 — Café Berlin:**
+- `raw/Business/Cafe/Café Berlin — Partnership Hai.md` — bereits vollständig abgedeckt durch [[Café Berlin Partnership Hai]] entity + [[Café Berlin Partnership Hai Raw Source]] source
+- `raw/Business/Cafe/cafe_masterplan_2026.md` — bereits vollständig abgedeckt durch [[GROVE Businessplan Source Detail]] und alle GROVE-Entity-Seiten
+- `raw/raw/Business/Cafe/` — Duplikate von raw/Business/Cafe/, kein neuer Inhalt
+
+**BATCH 2 — OK Capital:**
+- `raw/Business/OK-Capital/OK Capital UG.md` — bereits abgedeckt durch [[OK Capital UG Source Detail]], [[OK Capital UG]], [[OK Capital Finom 2026]]
+- `raw/Business/OK-Capital/OK Capital UG — Finance Vault.md` — bereits abgedeckt durch [[OK Capital UG Finance Vault Source Detail]]
+- `raw/Business/OK-Capital/Finanzen/Konten/OK Capital Finom 2026.md` — bereits abgedeckt durch [[OK Capital Finom 2026]] (source)
+- `raw/Business/OK-Capital/Rangrücktritt §15a InsO.md` — bereits abgedeckt durch [[Rangrücktritt §15a InsO Source Detail]]
+
+**BATCH 3 — Wagglz Design:**
+- `raw/raw/Business/Wagglz/Design/figma-index.md` — NEU → [[Wagglz Figma Design Index Source Detail]] erstellt
+- `raw/raw/Business/Wagglz/Wagglz Wettbewerber.md` — bereits abgedeckt durch [[Wagglz Wettbewerber Source Detail]] (updated 2026-06-25)
+- `raw/raw/Business/Wagglz/Performance Coffee Brand/00 — Projektübersicht.md` — NEU → [[Performance Coffee Brand Projektübersicht Source Detail]] erstellt
+
+**BATCH 4 — Privat/Finanzen & Auswandern:**
+- `raw/Privat/Finanzen/00 Finanz-Übersicht.md` — bereits abgedeckt durch [[Finanz-Übersicht Source Detail]], [[MOC Finanzen Source Detail]], [[Finanzübersicht 2026]]
+- `raw/Privat/Finanzen/00 MOC Finanzen.md` — bereits abgedeckt durch [[MOC Finanzen Source Detail]]
+- `raw/Privat/Auswandern/Cyprus Relocation.md` — bereits abgedeckt durch [[Cyprus Relocation Detail]], [[Cyprus Relocation Source Detail]]
+- `raw/Privat/Auswandern/Cyprus Relocation Tracker.md` — bereits abgedeckt durch [[Cyprus Relocation Tracker Source Detail]], [[Cyprus Relocation Tracker Privat Source Detail]]
+
+**BATCH 5 — Clippings:**
+- Andrew Huberman, Rhonda Patrick, Jeff Cavaliere — bereits ingested (log 2026-06-13)
+- 13 Claude Code Tutorial Clippings (DE/EN) — NEU → [[Claude Code Tutorials DE Clippings]] erstellt (konsolidierte Quellseite)
+
+### Neu erstellt
+- [[Wagglz Figma Design Index Source Detail]] — Master-Katalog aller 10 Figma-Dateien Wagglz/Wufflz
+- [[Performance Coffee Brand Projektübersicht Source Detail]] — Pivot-Moment 14.06.2026, frühe Konzeptübersicht
+- [[Claude Code Tutorials DE Clippings]] — 13 YouTube-Clippings Claude Code (DE/EN), konsolidiert
+
+### index.md aktualisiert
+- 3 neue Quelldokument-Einträge eingefügt (alphabetisch korrekt)
+- updated: 2026-06-25
+
 ## [2026-06-21] query | Vetera + DACH Veterinär-Software-Markt
 
 - Kernfakt: Vetera (1989, Eltville am Rhein) = DACH-Marktführer mit 18.000+ Nutzern
