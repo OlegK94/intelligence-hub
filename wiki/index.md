@@ -42,7 +42,8 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Doctolib]] — Oleg's primary employer in 2026; net fixed salary of 3,638.82 €/month; sole confirmed income stream as of June 2026 (updated 2026-06-13)
 - [[Nordhealth]] — Oslo-listed (NORDH) Nordic health-tech group owning both Provet Cloud and Vetera — controls ~63% of European veterinary PIMS market; primary strategic threat to Wagglz (updated 2026-06-21)
 - [[Provet Cloud]] — EU veterinary practice management SaaS — #1 VetSoftwareHub ranking, 3,000+ clinics in 45 countries; owned by Nordhealth; AI Suite launched Aug 2025; does NOT support German GOT billing (updated 2026-06-21)
-- [[Vetera]] — DACH veterinary practice management market leader, 18,000+ users, founded 1989, acquired by Nordhealth €8.36M June 2022; GOT-native; VeteraSky cloud version in development (updated 2026-06-21)
+- [[Vetera]] — DACH veterinary practice management market leader
+- [[Voisa AI]] — KI-Telefonassistent für Tierarztpraxen — einziger dedizierter KI-Anbieter im DE Vet-Markt (updated 2026-06-25), 18,000+ users, founded 1989, acquired by Nordhealth €8.36M June 2022; GOT-native; VeteraSky cloud version in development (updated 2026-06-21)
 - [[Doctolib 2026]] — Oleg's employer Doctolib GmbH 2026 details — 6,300 € brutto/month + 364 € PKW-Sachbezug, Q1 bonus 8,533 € brutto; full-year projection ~105,568 € brutto (updated 2026-06-12)
 - [[DoktorLib]] — B2B SaaS company providing practice management software for medical practices; Oleg's employer (updated 2026-06-13)
 - [[DoktorLib Automation Pipeline]] — Active automation project at DoktorLib — end-to-end pipeline (Tally → Make → Salesforce/Notion → Dust Agent) to automate inbound lead onboarding for Arztpraxen (updated 2026-06-15)
@@ -324,7 +325,8 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Wagglz Finom 2026 Source Detail]] — Wagglz GmbH Finom-Konto 2026 — IBAN DE36100180000083465573; Saldo 0,00 €; finanziert durch Oleg-Gesellschafterdarlehen (updated 2026-06-16)
 - [[Wagglz GF-Gehalt 2025 Source Detail]] — Source document for Wagglz GmbH managing director salary 2025 — correctly taxed via SP STB; Lohnsteuerbescheinigung required for ESt 2025 filing (updated 2026-06-12)
 - [[Wagglz GmbH Finance Vault]] — Finance Vault for Wagglz GmbH — capital transfer history, monthly Gesellschafterdarlehen payments ~357 €/Mo, open insolvency assessment, three strategic options (updated 2026-06-13)
-- [[Wagglz GmbH Source Detail]] — Source document for Wagglz GmbH — company stammdaten, insolvency status (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), 2026 running costs (updated 2026-06-12)
+- [[Wagglz GmbH Source Detail]]
+- [[Wagglz Wettbewerber Source Detail]] — Marktüberblick DE Tierarzt- und Pet-Software — 13 Wettbewerber in 5 Kategorien; PMS, Tierhalter-App, KI, Booking, Directory (updated 2026-06-25) — Source document for Wagglz GmbH — company stammdaten, insolvency status (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), 2026 running costs (updated 2026-06-12)
 
 ---
 

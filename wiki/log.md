@@ -540,3 +540,15 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 - Supplement Stack: deutsche Übersetzung mit 2026-06-20-Update + Scientific-References-Tabelle (Galpin/Starrett/Sims/Garner/McDaniel) re-integriert nach Rebase-Verlust
 ## [2026-06-21] todo | Wagglz Setup
 - TODO: Supabase Projekt in Frankfurt (eu-west-1) erstellen + .env.local befüllen → App lokal testen
+
+## [2026-06-25 21:45] ingest | raw/raw/Business/Wagglz/ + raw/Business/Wagglz/ + Clippings/
+- Neue raw-Dateien von lokalem Mac gepusht (nach längerem git-Merge-Prozess)
+- Created: [[Wagglz Wettbewerber Source Detail]], [[Voisa AI]]
+- Updated: [[wiki/index.md]]
+- Neue Quellen vorhanden aber noch nicht vollständig ingested (API-Key fehlt in dieser Umgebung):
+  - raw/raw/Business/Wagglz/Design/ (Figma-Manifeste)
+  - raw/raw/Business/PerformanceCafe/ (vollständige Recherche)
+  - Clippings/ (17 Claude Code Tutorial-Videos)
+  - raw/Archiv/ + raw/Archiv Kopie/ (Screenshots)
+  - raw/Wagglz/ (Logomark, Presentation Templates)
+- Notes: raw/raw/ = alter Vault-Inhalt vor Reorganisation; vollständig verfügbar
