@@ -30,3 +30,4 @@ __pycache__/
 
 outputs/notes/*.log
 raw/Intelligence-Hub/
+*.zip
