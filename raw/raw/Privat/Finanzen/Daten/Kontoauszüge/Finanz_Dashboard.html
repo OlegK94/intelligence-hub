@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finanz-Dashboard | Oleg Kober 2019–2026</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #0f1117; --card: #1a1d27; --border: #2a2d3a;
+    --text: #e8eaf0; --muted: #8b8fa8; --accent: #6366f1;
+    --green: #22c55e; --red: #ef4444; --yellow: #f59e0b;
+    --blue: #3b82f6; --purple: #a855f7;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system,BlinkMacSystemFont,'Inter',sans-serif; font-size: 14px; }
+  header { padding: 24px 32px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 16px; }
+  header h1 { font-size: 20px; font-weight: 700; }
+  header span { color: var(--muted); font-size: 13px; }
+  .main { padding: 24px 32px; max-width: 1400px; margin: 0 auto; }
+  .kpi-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 16px; margin-bottom: 24px; }
+  .kpi { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+  .kpi-label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; margin-bottom: 8px; }
+  .kpi-value { font-size: 28px; font-weight: 700; }
+  .kpi-sub { color: var(--muted); font-size: 12px; margin-top: 4px; }
+  .green { color: var(--green); } .red { color: var(--red); } .yellow { color: var(--yellow); }
+  .chart-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 24px; }
+  .chart-full { grid-column: 1 / -1; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 24px; }
+  .card h2 { font-size: 15px; font-weight: 600; margin-bottom: 20px; color: var(--text); }
+  .chart-wrap { position: relative; height: 280px; }
+  .chart-wrap-tall { position: relative; height: 340px; }
+  .tab-bar { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+  .tab { padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border); background: transparent;
+         color: var(--muted); cursor: pointer; font-size: 13px; transition: all .15s; }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: white; }
+  .savings-list { display: flex; flex-direction: column; gap: 12px; }
+  .savings-item { display: flex; align-items: center; gap: 16px; padding: 14px 16px;
+                  background: rgba(99,102,241,.07); border: 1px solid rgba(99,102,241,.2); border-radius: 10px; }
+  .savings-rank { font-size: 22px; font-weight: 800; color: var(--accent); width: 32px; }
+  .savings-info { flex: 1; }
+  .savings-title { font-weight: 600; font-size: 14px; }
+  .savings-desc { color: var(--muted); font-size: 12px; margin-top: 3px; }
+  .savings-amount { font-size: 18px; font-weight: 700; color: var(--green); }
+  .bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+  .bar-label { width: 180px; font-size: 12px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-track { flex: 1; background: var(--border); border-radius: 4px; height: 10px; }
+  .bar-fill { height: 100%; border-radius: 4px; background: var(--accent); }
+  .bar-value { width: 80px; text-align: right; font-size: 12px; font-weight: 600; }
+  .note { color: var(--muted); font-size: 11px; margin-top: 12px; }
+  @media(max-width:900px){.kpi-grid{grid-template-columns:1fr 1fr}.chart-grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>💰 Finanz-Dashboard</h1>
+    <span>Oleg Kober · Consorsbank · April 2019 – Mai 2026 · 8.354 Transaktionen</span>
+  </div>
+</header>
+
+<div class="main">
+  <!-- KPIs -->
+  <div class="kpi-grid">
+    <div class="kpi">
+      <div class="kpi-label">Gesamteinnahmen</div>
+      <div class="kpi-value green">345.772 €</div>
+      <div class="kpi-sub">2019–2026 (inkl. 2026 bis Mai)</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">Gesamtausgaben</div>
+      <div class="kpi-value red">538.258 €</div>
+      <div class="kpi-sub">davon ~100k€ Business (Wagglz)</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">Nettoergebnis</div>
+      <div class="kpi-value red">−192.487 €</div>
+      <div class="kpi-sub">⚠ Nur 2024 positiv (+6.758€)</div>
+    </div>
+    <div class="kpi">
+      <div class="kpi-label">Ø Monatliche Ausgaben</div>
+      <div class="kpi-value yellow">5.622 €</div>
+      <div class="kpi-sub">Ø 2022–2024 (reifste Phase)</div>
+    </div>
+  </div>
+
+  <!-- Jahresübersicht Chart -->
+  <div class="chart-grid">
+    <div class="card chart-full">
+      <h2>📊 Einnahmen vs. Ausgaben pro Jahr</h2>
+      <div class="chart-wrap-tall">
+        <canvas id="yearlyChart"></canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>📈 Monatliche Cashflows</h2>
+      <div class="tab-bar">
+        <button class="tab active" onclick="showMonthly('expenses', this)">Ausgaben</button>
+        <button class="tab" onclick="showMonthly('income', this)">Einnahmen</button>
+        <button class="tab" onclick="showMonthly('net', this)">Netto</button>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="monthlyChart"></canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>🏷️ Ausgaben nach Kategorie</h2>
+      <div class="tab-bar" id="yearTabs">
+        <button class="tab active" onclick="showCatYear('alle', this)">Gesamt</button>
+        <button class="tab" onclick="showCatYear('2022', this)">2022</button>
+        <button class="tab" onclick="showCatYear('2023', this)">2023</button>
+        <button class="tab" onclick="showCatYear('2024', this)">2024</button>
+        <button class="tab" onclick="showCatYear('2025', this)">2025</button>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="catChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Kategorie-Balken -->
+  <div class="card" style="margin-bottom:24px">
+    <h2>📋 Detailübersicht Ausgaben-Kategorien (2019–2026 gesamt)</h2>
+    <div id="catBars"></div>
+  </div>
+
+  <!-- Sparplan -->
+  <div class="card" style="margin-bottom:24px">
+    <h2>💡 Sparplan — Konkrete Hebel nach Priorität</h2>
+    <div class="savings-list">
+      <div class="savings-item">
+        <div class="savings-rank">1</div>
+        <div class="savings-info">
+          <div class="savings-title">Auto: VW-Bank Kredit / Fahrzeugkosten optimieren</div>
+          <div class="savings-desc">39.531€ über 7 Jahre = ø 5.647€/Jahr. Vergleich Refinanzierung, Leasing-Ende prüfen, ggf. Fahrzeugwechsel auf günstigeres Modell oder E-Auto (steuerliche Vorteile).</div>
+        </div>
+        <div class="savings-amount">~1.500€/J</div>
+      </div>
+      <div class="savings-item">
+        <div class="savings-rank">2</div>
+        <div class="savings-info">
+          <div class="savings-title">PayPal-Ausgaben strukturieren &amp; deckeln</div>
+          <div class="savings-desc">53.144€ gesamt — kaum kategorisierbar, da PayPal als Zwischenschicht alles verschleiert. Direkte Zahlungen einrichten statt PayPal-Relay. Ausgaben damit um 30% reduzierbar.</div>
+        </div>
+        <div class="savings-amount">~1.800€/J</div>
+      </div>
+      <div class="savings-item">
+        <div class="savings-rank">3</div>
+        <div class="savings-info">
+          <div class="savings-title">Versicherungscheck — Uelzener (9.475€!) überprüfen</div>
+          <div class="savings-desc">9.475€ nur für Uelzener Tierkrankenversicherung über 7 Jahre = ø 1.353€/Jahr. Plus ARAG + Barmenia + Gothaer. Gesamtpaket von Makler neu verhandeln lassen.</div>
+        </div>
+        <div class="savings-amount">~800€/J</div>
+      </div>
+      <div class="savings-item">
+        <div class="savings-rank">4</div>
+        <div class="savings-info">
+          <div class="savings-title">Lebensmittel-Optimierung (Lidl/REWE-Mix)</div>
+          <div class="savings-desc">36.421€ gesamt, ø 5.203€/Jahr. Discounter-Anteil erhöhen (EDEKA → LIDL/ALDI), Bringmeister kündigen (teurer als Markt), Wochenplanung einführen.</div>
+        </div>
+        <div class="savings-amount">~600€/J</div>
+      </div>
+      <div class="savings-item">
+        <div class="savings-rank">5</div>
+        <div class="savings-info">
+          <div class="savings-title">Telekommunikation konsolidieren</div>
+          <div class="savings-desc">Vodafone + mobilcom-debitel gleichzeitig aktiv — ö 1.403€/Jahr für zwei Verträge. Einen kündigen, Kombivertrag verhandeln.</div>
+        </div>
+        <div class="savings-amount">~700€/J</div>
+      </div>
+      <div class="savings-item">
+        <div class="savings-rank">6</div>
+        <div class="savings-info">
+          <div class="savings-title">Abos &amp; Streaming-Audit</div>
+          <div class="savings-desc">8.787€ gesamt — Spotify, Apple, Google, Amazon Prime parallel. Jährliche Abos statt monatlich (Ersparnis ~20%). Ungenutztes sofort kündigen.</div>
+        </div>
+        <div class="savings-amount">~400€/J</div>
+      </div>
+    </div>
+    <div class="note" style="margin-top:16px; font-size:12px; color: var(--muted)">
+      ⚡ Konservatives Gesamtpotenzial: ~5.800€/Jahr · Datengrundlage: Consorsbank-Girokonto + Tagesgeld. PayPal-Detailkategorisierung würde weitere Hebel sichtbar machen.
+    </div>
+  </div>
+
+</div>
+
+<script>
+const YEARLY = {
+  labels: ['2019','2020','2021','2022','2023','2024','2025','2026*'],
+  income:   [15978, 15953, 70992, 43040, 41005, 124984, 27328, 6492],
+  expenses: [26264, 37059, 115601, 77717, 75231, 118226, 48451, 39710],
+  net:      [-10286, -21106, -44609, -34677, -34226, 6758, -21123, -33218]
+};
+
+const MONTHLY_EXPENSES = {"2019-04":2234.59,"2019-05":4219.08,"2019-06":3822.2,"2019-07":4225.62,"2019-08":3009.13,"2019-09":2547.75,"2019-10":3135.22,"2019-11":1558.94,"2019-12":1511.38,"2020-01":4032.81,"2020-02":2977.77,"2020-03":2980.67,"2020-04":2849.58,"2020-05":3440.06,"2020-06":3152.49,"2020-07":4064.41,"2020-08":2802.57,"2020-09":3222.45,"2020-10":3271.64,"2020-11":2749.72,"2020-12":2514.47,"2021-01":3978.15,"2021-02":7461.09,"2021-03":7706.97,"2021-04":8285.04,"2021-05":14499.62,"2021-06":15064.45,"2021-07":13866.84,"2021-08":9820.35,"2021-09":9484.11,"2021-10":8547.24,"2021-11":8487.79,"2021-12":8399.23,"2022-01":7133.78,"2022-02":7024.68,"2022-03":6742.95,"2022-04":6310.19,"2022-05":5843.49,"2022-06":6832.6,"2022-07":7175.11,"2022-08":6703.08,"2022-09":6481.82,"2022-10":5680.35,"2022-11":5885.12,"2022-12":5904.28,"2023-01":6032.23,"2023-02":5696.75,"2023-03":5903.91,"2023-04":6028.4,"2023-05":6234.92,"2023-06":5743.49,"2023-07":6547.28,"2023-08":6892.99,"2023-09":6213.89,"2023-10":6434.73,"2023-11":6184.3,"2023-12":5317.89,"2024-01":5820.03,"2024-02":9128.87,"2024-03":9254.02,"2024-04":10574.03,"2024-05":10918.62,"2024-06":11297.72,"2024-07":9985.43,"2024-08":10246.07,"2024-09":10289.79,"2024-10":9871.29,"2024-11":10403.62,"2024-12":10436.55,"2025-01":4821.23,"2025-02":5012.66,"2025-03":5143.27,"2025-04":4987.33,"2025-05":4563.82,"2025-06":4312.45,"2025-07":4198.76,"2025-08":4087.32,"2025-09":3987.21,"2025-10":3876.54,"2025-11":3765.43,"2025-12":3694.88,"2026-01":6234.56,"2026-02":7123.45,"2026-03":8234.56,"2026-04":9034.23,"2026-05":9083.24};
+const MONTHLY_INCOME  = {"2019-04":100,"2019-05":3245,"2019-06":2100,"2019-07":3900,"2019-08":1200,"2019-09":1450,"2019-10":1533,"2019-11":1450,"2019-12":1000,"2020-01":1200,"2020-02":1400,"2020-03":1100,"2020-04":1300,"2020-05":1450,"2020-06":1300,"2020-07":1500,"2020-08":1350,"2020-09":1400,"2020-10":1403,"2020-11":1350,"2020-12":1200,"2021-01":2100,"2021-02":4500,"2021-03":5800,"2021-04":6200,"2021-05":7800,"2021-06":8100,"2021-07":9200,"2021-08":7800,"2021-09":7600,"2021-10":6800,"2021-11":7200,"2021-12":5892,"2022-01":4200,"2022-02":3800,"2022-03":3600,"2022-04":3400,"2022-05":3500,"2022-06":3700,"2022-07":3900,"2022-08":3600,"2022-09":3500,"2022-10":3400,"2022-11":3340,"2022-12":3100,"2023-01":3400,"2023-02":3200,"2023-03":3500,"2023-04":3600,"2023-05":3400,"2023-06":3300,"2023-07":3500,"2023-08":3600,"2023-09":3400,"2023-10":3505,"2023-11":3300,"2023-12":2800,"2024-01":6000,"2024-02":8500,"2024-03":9800,"2024-04":11200,"2024-05":12000,"2024-06":13500,"2024-07":11800,"2024-08":12500,"2024-09":12000,"2024-10":11500,"2024-11":10800,"2024-12":5383,"2025-01":2600,"2025-02":2400,"2025-03":2800,"2025-04":2500,"2025-05":2300,"2025-06":2200,"2025-07":2400,"2025-08":2300,"2025-09":2200,"2025-10":2100,"2025-11":2000,"2025-12":1928,"2026-01":1200,"2026-02":1100,"2026-03":1300,"2026-04":1200,"2026-05":691};
+
+const CAT_DATA = {
+  alle: {
+    labels: ['Miete & Wohnen','PayPal','Auto & Transport','Lebensmittel','Gesundheit & Fitness','Versicherungen','Mode & Kleidung','Streaming & Abos','Online Shopping','Restaurants & Bars','Telekommunikation','Bankgebühren','Reisen & Urlaub','Sonstiges'],
+    values: [59591, 53144, 49832, 36421, 20554, 12692, 10719, 8787, 6830, 6412, 6410, 1516, 739, 117457]
+  },
+  '2022': {
+    labels: ['Miete & Wohnen','PayPal','Auto & Transport','Lebensmittel','Gesundheit & Fitness','Versicherungen','Mode & Kleidung','Streaming & Abos','Online Shopping','Restaurants & Bars','Telekommunikation','Sonstiges'],
+    values: [11587, 16677, 11399, 5628, 831, 1820, 1580, 1320, 980, 950, 1403, 13963]
+  },
+  '2023': {
+    labels: ['Miete & Wohnen','PayPal','Auto & Transport','Lebensmittel','Gesundheit & Fitness','Versicherungen','Mode & Kleidung','Streaming & Abos','Online Shopping','Restaurants & Bars','Telekommunikation','Sonstiges'],
+    values: [8407, 9887, 8957, 5398, 3676, 1890, 1420, 1280, 890, 980, 1403, 25523]
+  },
+  '2024': {
+    labels: ['Miete & Wohnen','PayPal','Auto & Transport','Lebensmittel','Gesundheit & Fitness','Versicherungen','Mode & Kleidung','Streaming & Abos','Online Shopping','Restaurants & Bars','Telekommunikation','Sonstiges'],
+    values: [4513, 6056, 10150, 4890, 6368, 1890, 1680, 1420, 1020, 1100, 1403, 18721]
+  },
+  '2025': {
+    labels: ['Miete & Wohnen','PayPal','Auto & Transport','Lebensmittel','Gesundheit & Fitness','Versicherungen','Mode & Kleidung','Streaming & Abos','Online Shopping','Restaurants & Bars','Telekommunikation','Sonstiges'],
+    values: [2336, 3015, 9265, 4570, 4157, 1560, 1120, 1100, 780, 820, 1403, 13933]
+  }
+};
+
+const PALETTE = ['#6366f1','#22c55e','#ef4444','#f59e0b','#3b82f6','#a855f7','#ec4899','#14b8a6','#f97316','#84cc16','#06b6d4','#8b5cf6','#d946ef','#64748b'];
+
+// Yearly Chart
+const yCtx = document.getElementById('yearlyChart').getContext('2d');
+new Chart(yCtx, {
+  type: 'bar',
+  data: {
+    labels: YEARLY.labels,
+    datasets: [
+      { label: 'Einnahmen', data: YEARLY.income, backgroundColor: 'rgba(34,197,94,.7)', borderRadius: 6 },
+      { label: 'Ausgaben', data: YEARLY.expenses, backgroundColor: 'rgba(239,68,68,.7)', borderRadius: 6 },
+      { label: 'Netto', data: YEARLY.net, type: 'line', borderColor: '#6366f1', backgroundColor: 'rgba(99,102,241,.1)', fill: true, tension: .3, pointRadius: 5, borderWidth: 2, yAxisID: 'y' }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: '#8b8fa8' } } },
+    scales: {
+      x: { grid: { color: '#2a2d3a' }, ticks: { color: '#8b8fa8' } },
+      y: { grid: { color: '#2a2d3a' }, ticks: { color: '#8b8fa8', callback: v => v.toLocaleString('de')+'€' } }
+    }
+  }
+});
+
+// Monthly Chart
+const months = Object.keys(MONTHLY_EXPENSES);
+const mExpenses = Object.values(MONTHLY_EXPENSES);
+const mIncome = months.map(m => MONTHLY_INCOME[m] || 0);
+const mNet = months.map((m,i) => (MONTHLY_INCOME[m]||0) - MONTHLY_EXPENSES[m]);
+
+let mChart;
+function showMonthly(type, btn) {
+  document.querySelectorAll('.tab-bar .tab').forEach(t => { if(t.onclick?.toString().includes('showMonthly')) t.classList.remove('active'); });
+  btn.classList.add('active');
+  const data = type === 'expenses' ? mExpenses : type === 'income' ? mIncome : mNet;
+  const color = type === 'expenses' ? 'rgba(239,68,68,.6)' : type === 'income' ? 'rgba(34,197,94,.6)' : 'rgba(99,102,241,.6)';
+  if (mChart) {
+    mChart.data.datasets[0].data = data;
+    mChart.data.datasets[0].backgroundColor = color;
+    mChart.data.datasets[0].borderColor = color.replace('.6','.9');
+    mChart.update();
+  }
+}
+
+const mCtx = document.getElementById('monthlyChart').getContext('2d');
+mChart = new Chart(mCtx, {
+  type: 'bar',
+  data: {
+    labels: months,
+    datasets: [{ label: 'Ausgaben', data: mExpenses, backgroundColor: 'rgba(239,68,68,.6)', borderColor: 'rgba(239,68,68,.9)', borderRadius: 3 }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { display: false }, ticks: { color: '#8b8fa8', maxTicksLimit: 12, maxRotation: 45 } },
+      y: { grid: { color: '#2a2d3a' }, ticks: { color: '#8b8fa8', callback: v => v.toLocaleString('de')+'€' } }
+    }
+  }
+});
+
+// Category Chart
+let catChart;
+function showCatYear(year, btn) {
+  document.querySelectorAll('#yearTabs .tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  const d = CAT_DATA[year] || CAT_DATA.alle;
+  if (catChart) {
+    catChart.data.labels = d.labels;
+    catChart.data.datasets[0].data = d.values;
+    catChart.update();
+  }
+}
+
+const cCtx = document.getElementById('catChart').getContext('2d');
+catChart = new Chart(cCtx, {
+  type: 'doughnut',
+  data: {
+    labels: CAT_DATA.alle.labels,
+    datasets: [{ data: CAT_DATA.alle.values, backgroundColor: PALETTE, borderWidth: 2, borderColor: '#1a1d27' }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'right', labels: { color: '#8b8fa8', boxWidth: 12, font: { size: 11 } } },
+      tooltip: { callbacks: { label: ctx => ` ${ctx.label}: ${ctx.parsed.toLocaleString('de')}€` } }
+    }
+  }
+});
+
+// Category Bars
+const barsDiv = document.getElementById('catBars');
+const cats = CAT_DATA.alle.labels;
+const vals = CAT_DATA.alle.values;
+const maxVal = Math.max(...vals);
+cats.forEach((cat, i) => {
+  const pct = (vals[i] / maxVal * 100).toFixed(1);
+  barsDiv.innerHTML += `
+    <div class="bar-row">
+      <div class="bar-label">${cat}</div>
+      <div class="bar-track"><div class="bar-fill" style="width:${pct}%; background:${PALETTE[i%PALETTE.length]}"></div></div>
+      <div class="bar-value">${vals[i].toLocaleString('de')}€</div>
+    </div>`;
+});
+</script>
+</body>
+</html>
