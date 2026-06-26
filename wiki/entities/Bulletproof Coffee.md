@@ -1,51 +1,60 @@
 ---
 title: Bulletproof Coffee
 type: entity
-tags: [functional-coffee, competitor, MCT, butter-coffee, keto, performance-cafe, dated-concept, US-EU, collagen, bulletproof]
+tags: [wettbewerber, functional-coffee, MCT, keto, butter-coffee, performance-cafe, veraltet]
 sources: ["raw/Business/PerformanceCafe/research/04_marktanalyse.md"]
 created: 2026-06-14
 updated: 2026-06-14
-summary: US/EU Functional-Coffee-Marke; MCT-Öl (C8) + Kaffee „Butter Coffee"-Konzept; Konzept hatte seinen Höhepunkt 2015–2018; kein NMN/NAD+/Urolithin A/Pilze; 2,50 $/Portion für Sticks; DACH-Marke kaum aktiv; kein ernstzunehmender aktueller Wettbewerber
+summary: Butter-Coffee-Pionier; MCT C8 (Brain Octane) + Ground Coffee + Collagen; Konzept Peak 2015–2018; ~$2,50/Portion (Sticks); kein NMN/NAD+/Urolithin A; hoher Kaloriengehalt; in DACH kaum aktiv; für Performance Café kein relevanter Wettbewerber
 ---
 
 # Bulletproof Coffee
 
 ## Überblick
 
-**Bulletproof Coffee** war Pionier des fettreichen „Butter Coffee"-Konzepts, das Kaffee mit MCT-Öl (Brain Octane C8) und optional Butter/Ghee kombiniert. Obwohl das Konzept 2015 bahnbrechend war, hat es sich seitdem nicht weiterentwickelt und gilt im Kontext moderner Longevity-Wissenschaft heute als **überholt**.
+**Bulletproof Coffee** (gegründet von Dave Asprey) ist der Pionier des „Butter Coffee"-Konzepts, das seinen Peak von ca. 2015–2018 hatte. Das Produkt kombiniert hochwertigen Kaffee mit MCT-Öl (C8) und optional Butter/Collagen.
 
 ## Eckdaten
 
 | Parameter | Wert |
 |---|---|
-| **Vertrieb** | USA und EU (begrenzt) |
-| **Höhepunkt** | 2015–2018 (Butter Coffee-Trend) |
-| **Kernprodukte** | Ground Coffee, Brain Octane Oil (MCT C8), Instamix, Collagen Protein |
-| **Preis/Portion** | Instamix (Sticks): ~$2,50; Ground Coffee: ~$16/340g |
-| **EU/DACH** | Marke im DACH-Raum kaum aktiv |
+| **Bekannt für** | Butter Coffee, MCT C8, ketogene Ausrichtung |
+| **Preis/Portion** | ~$2,50 (Instamix Sticks) |
+| **Preis Ground Coffee** | ~$16/340g |
+| **DACH-Präsenz** | Kaum aktiv |
 
-## Produktphilosophie
+## Produktportfolio
 
-**Stack:** Kaffee + MCT-Öl (C8) — das ist die zentrale These.
-**Longevity-Anspruch:** Minimal — ketogene Ausrichtung; mTOR-Suppression wird implizit als Longevity-Argument angeführt.
-**Tatsächlicher Longevity-Stack:** Keiner — kein NMN, NAD+, Urolithin A oder Pilzextrakte.
+| Produkt | Inhalt |
+|---|---|
+| Bulletproof Ground Coffee | Premium-Kaffee (Mykotoxin-getestet) |
+| Brain Octane Oil | MCT C8 — ketogener Fettbooster |
+| Instamix (Sticks) | Instant-Format mit MCT + Butter |
+| Collagen Protein | Ergänzungsprotein |
 
-## Wettbewerbliche Schwächen
+## Stack-Tiefe
 
-1. **Überholtes Konzept** — Butter Coffee hatte seinen Höhepunkt 2015–2018; seitdem keine nennenswerte Innovation
-2. **Kein Longevity-Stack** — nur MCT-Öl; die Kategorie hat sich weit darüber hinaus entwickelt
-3. **Hohe Kalorienlast** — MCT/Butter fügt ~100–300 kcal hinzu; nicht kompatibel mit Fettabbau-Protokollen
-4. **DACH inaktiv** — faktisch kein relevanter Faktor im deutschen Markt
-5. **Keine wissenschaftlichen Longevity-Aussagen** — mTOR-Suppression ist ein indirekter, schwach belegter Mechanismus
+| Dimension | Bewertung |
+|---|---|
+| Kaffee | Ja |
+| Longevity-Stack | **Nein** — MCT only |
+| Longevity-Aspekt | Minimal: ketogene Ausrichtung, mTOR-Suppression als implizites Argument |
+| NMN / NAD+ / Urolithin A | **Nein** |
+| Pilzextrakte | **Nein** |
+| Kaloriengehalt | **Hoch** (MCT + Butter) |
 
-## Bedeutung für das Performance Café
+## Relevanz für Performance Café
 
-Bulletproof repräsentiert die **erste Generation** von Functional Coffee — Kaffee plus eine funktionale Zutat (MCT). Der Markt hat sich seitdem erheblich weiterentwickelt. Der Longevity-Stack des Performance Café (NMN, Pilze, NAD+-Vorläufer) steht für die **dritte Generation** von Functional Coffee und überspringt die Mushroom-Coffee-Welle der zweiten Generation, um die Spitzenposition in der Longevity-Wissenschaft zu beanspruchen.
+Bulletproof ist für Performance Café **kein relevanter Wettbewerber** im engeren Sinne:
+- Das Konzept ist bereits 10+ Jahre alt und veraltet
+- In DACH kaum präsent
+- Kein Longevity-Stack
+- Hoher Kaloriengehalt konträr zu Performance Cafés Positionierung (clean, precision-dosed)
+
+Bulletproof belegt den PreisPunkt $2,50/Portion — Performance Café bei €3,49 liegt darüber und muss durch Longevity-Stack und Transparenz rechtfertigen.
 
 ## Verwandte Seiten
 
+- [[Performance Coffee Brand]] — Konkurrent
 - [[Performance Cafe Marktanalyse Source Detail]] — Quelldokument
-- [[Functional Coffee Competitive Landscape|Wettbewerbslandschaft Functional Coffee]] — vergleichende Analyse
-- [[Four Sigmatic]] — Wettbewerber der zweiten Generation
-- [[Performance Coffee Brand|Performance Coffee Marke]] — Konzept der dritten Generation
-- [[Functional Coffee White Space|Functional Coffee Marktlücke]] — Marktchance
+- [[Functional Coffee Competitor Comparison]] — Wettbewerbsvergleich

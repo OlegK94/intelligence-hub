@@ -1,168 +1,188 @@
 ---
-title: Performance Coffee Brand
+title: "Performance Coffee Brand"
 type: entity
-tags: [performance-cafe, startup, functional-coffee, longevity, instant-coffee, sachet, stick-pack, germany, biohacking, DTC, hyrox, wagglz, aevum, hai, founding, tier-1-stack, contribution-margin, break-even, GTM]
-sources: ["raw/Business/PerformanceCafe/hai-onepager.md", "raw/Business/PerformanceCafe/README.md", "raw/Business/PerformanceCafe/CLAUDE.md", "raw/Business/PerformanceCafe/research/04_marktanalyse.md", "raw/Business/PerformanceCafe/brand/naming_brief.md", "raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/legal/ip_landscape.md"]
+tags: [performance-coffee, kaffee, ecommerce, brand, functional-beverage, specialty-coffee, wagglz, shopify, berlin, pivot, aktiv, konzeptphase, longevity, supplement]
+sources: [
+  "raw/Business/Wagglz/Performance Coffee Brand/Kaffee mit Performance.md",
+  "raw/Business/PerformanceCafe/README.md",
+  "raw/Business/PerformanceCafe/CLAUDE.md",
+  "raw/Business/PerformanceCafe/research/04_marktanalyse.md",
+  "raw/Business/PerformanceCafe/hai-onepager.md",
+  "raw/Business/PerformanceCafe/brand/naming_brief.md",
+  "raw/Business/PerformanceCafe/ops/supplier_list.md",
+  "raw/Business/PerformanceCafe/legal/ip_landscape.md"
+]
 created: 2026-06-14
-updated: 2026-06-15
-summary: Instant-Kaffee-Sachet (8–12g Stick-Pack) mit wissenschaftlich fundiertem Longevity+Performance-Stack; Positionierung als „das Produkt, das Blueprint nicht macht"; Tier-1-Stack mit 7 Inhaltsstoffen; Zielpreis 3,49 €/Sachet, ~99 €/30er Box, ~77% Contribution Margin, Break-Even ~130 Boxen/Monat; GTM via Hyrox+CrossFit+DTC; Gesellschaft 50/50 Oleg+Hai über Wagglz GmbH; Budget Phase 0–1: ~5.700–7.700 €; Namenskandidaten AEVUM/KOLVR/ORVYN
+updated: 2026-06-14
+summary: eCommerce-first Kaffee-als-Performance-Tool Brand von Oleg (via Wagglz GmbH); Pivot 14.06.2026 von physischem Café zu Online; Positionierung zwischen Specialty Coffee und Functional Beverage; Markenname-Kandidat Aevum; 3-Phasen-Rollout; Verlustvortrag ~150.000 € als Asset; CMO-Outreach läuft; Empfohlener Stack: Longevity-Zutaten + Specialty Coffee
 ---
 
 # Performance Coffee Brand
 
 ## Überblick
 
-**Performance Coffee Brand** ist ein Startup-Projekt von [[Oleg Personal Context|Oleg]] und **Hai** (50/50-Partnership), das einen **Instant-Kaffee-Sachet** (Stick-Pack, 8–12g) mit einem wissenschaftlich fundierten Longevity- und Performance-Stack entwickelt und vermarktet. Das Produkt wird in heißes Wasser eingerührt und liefert gleichzeitig Energie und einen vollständigen Longevity-Stack.
+Die **Performance Coffee Brand** ist ein Projekt von [[Oleg Personal Context|Oleg]], das Kaffee als **Performance-Tool** positioniert — präzise, verlässlich, für den entscheidenden Moment. Die Brand befindet sich in der Konzeptphase (Stand: Juni 2026) und wird über [[Wagglz GmbH]] operiert.
 
-**Kernpositionierung:** *„Das Produkt, das [[Blueprint by Bryan Johnson|Blueprint]] nicht macht."*
+**Pivot-Entscheidung 14.06.2026:** Wechsel vom ursprünglichen physischen Café-Bar-Konzept (~165.000 € Kapital, Eröffnung Feb 2027) zu einer **eCommerce-first-Strategie**.
 
-Der Markenname steht noch aus (Kandidaten: **AEVUM** / KOLVR / ORVYN). [[Aevum Brand|AEVUM]] ist laut [[Performance Coffee Brand Naming]] das meistempfohlene Kandidat. Alle Seiten im Wiki verwenden vorläufig „Performance Coffee Brand".
+> *„Der verlässliche Partner für den Moment, wo man ihn braucht."*
 
 ---
 
-## Tier-1-Stack (sofort launchbar)
+## Strategischer Pivot (14.06.2026)
 
-| Inhaltsstoff | Dosis | Wirkung |
+| Dimension | Vorher | Nachher |
 |---|---|---|
-| Light Roast Instant Kaffee | — | Energie, Fokus, Chlorogensäure (Longevity) |
-| [[L-Theanin]] | 200mg | Ruhiger Fokus, kein Jittern |
-| [[Alpha-GPC]] | 300mg | Kognition, Acetylcholin |
-| [[Lion's Mane]] | 500mg | Neuroplastizität, NGF |
-| [[Ashwagandha KSM-66]] | 300mg | Cortisol ↓, Stressresistenz |
-| [[Kreatin]] | 2g | ATP, Muskeln, Kognition |
-| [[Taurin]] | 500mg | Mitochondrien, Longevity (Science 2023) |
+| Erstes Produkt | Physisches Café (Feb 2027) | eCommerce / Shopify (sofort) |
+| Kapital Phase 1 | ~165.000 € | Minimal |
+| Risiko | Mietbindung, Umbau, Fixkosten | Keine Fixkosten bis Proof of Concept |
+| Validierung | Nach Eröffnung | Vor physischer Expansion |
 
-> **Hinweis zu NMN:** NMN war in früheren Stack-Überlegungen enthalten, der EU-Status ist jedoch unklar (Novel Food-Frage). Offener Recherche-Schritt: NMN EU-Status klären. Siehe [[EU Novel Food Regulation]] und [[Chromadex Niagen Bioscience]].
+Siehe [[Performance Coffee Brand Phasenmodell]] für den vollständigen 3-Phasen-Rollout.
 
 ---
 
-## Markt & Wirtschaftlichkeit
+## Positionierung
 
-### Marktgröße
+- **Zwischen:** Specialty Coffee und Functional Beverage
+- **Nicht:** Energy Drinks / Wellness-Wohlfühl-Branding
+- **Kernthese:** Kaffee als präzises Performance-Tool, nicht als Genussmittel
+- **Slogan-Kandidat:** *„Perform now. Live longer."*
 
-| Markt | Größe | Wachstum |
+---
+
+## Produkt (Stand: offen)
+
+### Offene Produktfragen
+
+- Was verkaufen wir konkret? (Kaffeebohnen, Blends, Kapseln, Sachets, RTD?)
+- Eigenröstung oder Curation / White-Label von Spezialröstereien?
+- Funktionale Zusätze? ([[L-Theanin]], Adaptogene, [[Ashwagandha KSM-66]], [[Alpha-GPC]]) oder rein Specialty-Coffee?
+- Erster SKU: Was ist das eine Produkt das wir zuerst launchen?
+
+### Bekannte Stack-Komponenten (aus anderen Modulen)
+
+| Zutat | Zweck | Status |
 |---|---|---|
-| Functional Drinks Europa | 30 Mrd. € | CAGR 6,75% |
-| Deutschland Biohacking | 1,65 Mrd. € | **CAGR 18,8%** bis 2030 |
+| Specialty Coffee / Koffein | Energie, Fokus, Basis | Kern |
+| [[L-Theanin]] | Ruhige Energie | Tier-1-Kandidat |
+| [[Ashwagandha KSM-66]] | Cortisol-Dämpfung | Tier-1-Kandidat |
+| [[B-Vitamine Performance Coffee\|B-Vitamine]] | EU Health Claims, Energiestoffwechsel | Pflicht-Ergänzung |
+| [[Urolithin A]] / [[Amazentis]] | Longevity (IP-Blocker) | Komplex — Lizenz erforderlich |
 
-### Unit Economics (Tier-1)
+---
 
-| Kennzahl | Wert |
+## Marke
+
+### Markenname
+- **Aktuell offen** (Stand: 14.06.2026 Quelldokument)
+- **Empfohlener Kandidat:** [[Aevum Brand]] (Lateinisch „Lebenszeit"; 5-Sterne-IP-Bewertung EUIPO)
+- Weitere Kandidaten dokumentiert in [[Performance Cafe Naming Brief]]
+
+### Ästhetik (offen)
+- Option A: Performance / Athletic
+- Option B: Ritual / Mindful
+- Option C: Beides kombiniert
+
+---
+
+## Operative Assets
+
+| Asset | Detail |
 |---|---|
-| Zielpreis | **3,49 €/Sachet** |
-| 30er Box | **~99 €** |
-| Contribution Margin | **~77%** bei 3,49 € |
-| Break-Even | **~130 Boxen/Monat** |
+| Shopify-Account | Aktiv, via [[Wagglz GmbH]] |
+| GmbH-Struktur | Rechtsträger vorhanden |
+| Verlustvortrag | **~150.000 €** (steuerlich nutzbar bei zukünftigen Gewinnen) |
+| Restaurantfachmann-Ausbildung | Know-how Kaffee / Gastronomie |
+| Sales-Erfahrung | Direktvertrieb |
+| Berliner Café-Netzwerk | Acid Bakehouse, Bonanza als Qualitätsmaßstab; Kontakte vorhanden |
 
-Die hohe Contribution Margin (~77%) und der sehr niedrige Break-Even (~130 Boxen/Monat) machen das Modell auch für kleine Produktionsvolumen wirtschaftlich attraktiv.
-
----
-
-## Wettbewerbslandschaft
-
-| Wettbewerber | Problem / Lücke |
-|---|---|
-| Four Sigmatic, RYZE | Nur 2–6 Pilze, kein vollständiger Longevity-Stack |
-| [[Blueprint by Bryan Johnson]] | Kein Kaffee (persönliche Entscheidung Bryan Johnsons) |
-| Timeline Mitopure | Nur Urolithin A, kein Kaffee |
-| MUD\WTR | Anti-Kaffee-Positioning — falsches Segment |
-
-**Kernthese:** Niemand kombiniert echten Kaffee + vollständiger Longevity-Stack. Das ist die White Space.
+> ⚠️ **Strategischer Asset:** Der Verlustvortrag von ~150.000 € bedeutet, dass die ersten ~150.000 € Gewinn steuerlich nahezu frei sind. Dies verbessert die Eigenkapitalrendite in der Wachstumsphase erheblich.
 
 ---
 
-## GTM-Strategie
+## Rechtsträger (offen)
 
-### Phase 0: Validierung (vor Produktion)
-1. **Waitlist Landing Page** → 500 Signups = Go-Signal
-2. **[[Hyrox Competition|Hyrox]]-Events** (8.500 Teilnehmer/Event) — Sampling + QR-Code
-3. **CrossFit-Boxes Berlin/Hamburg** — Pilotpartner
+Zwei Optionen diskutiert:
+1. **[[Wagglz GmbH]] nutzen** — bestehende Struktur, Shopify-Account, Verlustvortrag
+2. **Neue GmbH gründen** — saubere Trennung, eigene Cap Table
 
-### Phase 1+: Skalierung
-4. **DTC Online** → Amazon DE → B2B Gyms/Coworking
-
-**Strategische Logik:** Hyrox-Events sind ideal für die Zielgruppe (Performance-orientierte Sportler, Biohacker-Community-Overlap). Niedrige CAC durch physisches Sampling bei hoher Eventdichte.
+> ⚠️ **Keine Entscheidung dokumentiert** (Stand 14.06.2026). Da der Shopify-Account und der Verlustvortrag bei Wagglz GmbH liegen, ist Wagglz GmbH der Weg des geringsten Widerstands für Phase 1.
 
 ---
 
-## Budget Phase 0–1
+## Marktpositionierung
 
-| Posten | Budget |
-|---|---|
-| Regulatory Check | 500–1.500 € |
-| EUIPO Marke ([[Aevum Brand]]) | ~1.000 € |
-| Landing Page | ~200 € |
-| CMO Erstkontakt + Sample | 0–500 € |
-| Wagglz reaktivieren + Vesting | ~1.000–1.500 € |
-| Hyrox-Stand (optional) | ~3.000 € |
-| **Gesamt Phase 0–1** | **~5.700–7.700 €** |
+### Primärer Benchmark: [[Blueprint by Bryan Johnson]]
+- Blueprint hat **keinen Kaffee** im Sortiment
+- Johnson persönlich trinkt keinen Kaffee (Schlafstörungen, Abhängigkeit)
+- Blueprints Community trinkt Kaffee → aktiver Bedarf nach Blueprint-kompatiblem Morgenprodukt
+- **White Space:** „Der Longevity-Kaffee, den Blueprint nicht herstellt"
 
----
-
-## Gesellschaftsstruktur
-
-| Parameter | Detail |
-|---|---|
-| **Vehikel** | [[Wagglz GmbH]] (bereits aktiv, kein Neugründungsaufwand) |
-| **Aufteilung** | 50/50 [[Oleg Personal Context\|Oleg]] + Hai |
-| **IP** | Marke + Rezeptur bei OK Capital Holding (steueroptimiert) |
-| **Vesting** | 4 Jahre / 1 Jahr Cliff (schützt beide) |
-
-Die Nutzung der bestehenden [[Wagglz GmbH]] eliminiert den Neugründungsaufwand und ermöglicht einen schnelleren Start.
+### Referenz-Brands
+- [[Momentous]] — eCommerce-first aus wissenschaftlichen Protokollen
+- AG1 / Athletic Greens — Community vor physischer Expansion
+- Acid Bakehouse, Bonanza — Berliner Specialty-Coffee Qualitätsmaßstab
 
 ---
 
-## IP-Landschaft (Überblick)
+## Eigenes Protokoll als Produktvalidierung
 
-Kritische IP-Themen für den Stack:
+Oleg ist selbst die Zielgruppe:
+- [[Alpha-GPC]] + L-Tyrosine vor dem Training
+- Kein Koffein die ersten 90 Min nach dem Aufwachen ([[Andrew Huberman]]-Protokoll)
+- Bewusster 1. Kaffee um 08:30 als Ritual
 
-| Zutat | IP-Status | Handlungsempfehlung |
+*„Wir sind selbst die Zielgruppe."*
+
+---
+
+## CMO-Outreach (parallel dokumentiert)
+
+| CMO-Kandidat | Priorität | Standort |
 |---|---|---|
-| [[Urolithin A]] | Amazentis-Patent (EP3087065B1), läuft ~2034–2036 aus | Granatapfelextrakt als Vorstufe (Patent-frei) für MVP |
-| NMN | EU Novel Food-Status unklar | NMN EU-Status recherchieren — offener Schritt |
-| [[Kreatin]], [[L-Theanin]], [[Taurin]] | Kein IP-Problem | Kommerziell frei verfügbar |
-| [[Ashwagandha KSM-66]] | Lizenziertes Marken-IP (Ixoreal) | Aktiv lizenzierbar — kein Blocker |
-| [[Lion's Mane]] | Keine IP-Barriere | Kommerziell frei verfügbar |
-| [[Alpha-GPC]] | Keine IP-Barriere | Kommerziell frei verfügbar |
+| [[Prinova]] | #1 | Düsseldorf |
+| [[Lehvoss Nutrition]] | #2 | Hamburg |
+| [[Nutri-Epitech]] | #3 | Italien |
+| [[Aidea]] | #4 | Mailand |
+| [[Herbafit]] | #5 | Deutschland |
 
-Vollständige Analyse: [[Performance Café IP Landscape Modul 8]] und [[Amazentis]].
-
----
-
-## Offene Schritte (Stand 2026-06-15)
-
-- [ ] Hai-Fragen klären (hai-fragen.md)
-- [ ] Namen entscheiden: **AEVUM** / KOLVR / ORVYN
-- [ ] NMN EU-Status recherchieren
-- [ ] Ersten CMO anschreiben (Template fertig — [[CMO Erstkontakt Email Template]])
-- [ ] Wagglz-Struktur für Partnership vorbereiten
+Siehe [[CMO Sourcing Performance Coffee]] für den vollständigen Evaluierungsrahmen.
 
 ---
 
-## Modulstruktur (Forschungsstand)
+## IP-Landschaft
 
-Das Projekt ist in Module strukturiert:
-- Modul 1–3: Marktanalyse
-- Modul 4: Wettbewerbsanalyse ([[Blueprint by Bryan Johnson]])
-- Modul 5–6: Stack-Entwicklung und Regulatory
-- Modul 7: Naming ([[Performance Coffee Brand Naming]])
-- Modul 8: IP-Landschaft ([[Performance Café IP Landscape Modul 8]])
-- Modul 9–10: CMO-Sourcing, Unit Economics
+Kritische IP-Blocker für Longevity-Zutaten:
+- [[Amazentis]] — Urolithin A (50+ Patente, Novel Food EU 2022)
+- [[Chromadex Niagen Bioscience]] — NR / NIAGEN
+
+Empfohlene MVP-Lösung: Granatapfelextrakt als natürliche Urolithin-A-Vorstufe (kein IP-Konflikt).
+
+---
+
+## Nächste Schritte (aus Quelldokument)
+
+- [ ] Produktidee konkretisieren: Was ist SKU #1?
+- [ ] Zielgruppe: 1 Persona gemeinsam aufschreiben
+- [ ] Markenname entwickeln / Entscheidung treffen
+- [ ] Rollenaufteilung festlegen (Strategie/Finance vs. Operatives/Produkt)
+- [ ] Shopify-Shop Struktur skizzieren
 
 ---
 
 ## Verwandte Seiten
 
-- [[Hai Onepager Performance Coffee Brand Source Detail]] — Quelldokument (dieser Onepager)
+- [[Performance Coffee Brand Phasenmodell]] — 3-Phasen-Rollout-Konzept
+- [[Kaffee mit Performance Source Detail]] — primäres Quelldokument (Pivot 14.06.2026)
 - [[Aevum Brand]] — empfohlener Markenname
-- [[Blueprint by Bryan Johnson]] — primärer Benchmark und White Space
-- [[Wagglz GmbH]] — Gesellschaftsvehikel
-- [[Hyrox Competition]] — primärer GTM-Kanal
-- [[L-Theanin]], [[Alpha-GPC]], [[Lion's Mane]], [[Ashwagandha KSM-66]], [[Kreatin]], [[Taurin]] — Tier-1-Stack
-- [[Amazentis]] — Urolithin-A-IP-Blocker
-- [[Chromadex Niagen Bioscience]] — NMN/NR-IP-Kontext
-- [[CMO Sourcing Performance Coffee]] — Contract Manufacturing
-- [[Performance Cafe Pricing Strategy]] — Preisgestaltung
-- [[EU Novel Food Regulation]] — regulatorischer Kontext
-- [[Oleg Personal Context]] — Gründer
-- [[MOC Strategie und Business]] — übergeordnete MOC
+- [[Performance Cafe Naming Brief]] — vollständiger Naming-Brief
+- [[Blueprint by Bryan Johnson]] — primärer Benchmark / White Space
+- [[Wagglz GmbH]] — Rechtsträger und operative Basis
+- [[CMO Sourcing Performance Coffee]] — Herstellersuche
+- [[Amazentis]] — IP-Blocker Urolithin A
+- [[Ashwagandha KSM-66]] — Tier-1-Stack-Kandidat
+- [[B-Vitamine Performance Coffee]] — Pflicht-Ergänzung
+- [[Andrew Huberman]] — Protokoll-Referenz
+- [[Momentous]] — Referenz-Brand
+- [[Oleg Personal Context]] — Projektverantwortlicher

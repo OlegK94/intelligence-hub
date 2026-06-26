@@ -1,52 +1,94 @@
 ---
-title: Wagglz GF-Gehalt 2025 Quelldokument-Detail
+title: "Wagglz GF-Gehalt 2025 Quelldokument-Detail"
 type: source
-tags: [wagglz, gehalt, einnahmen, gmbh, geschaeftsfuehrer, lohnsteuer, steuerberater, 2025, est-2025]
-sources: ["raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
+tags: [einnahmen, wagglz, gehalt, 2025, est-2025, steuerberater, lohnsteuerbescheinigung, finanzen]
+sources:
+  - "raw/Finanzdaten/Obsidian_Vault/Einnahmen/Wagglz GF-Gehalt 2025.md"
 created: 2026-06-12
-updated: 2026-06-12
-summary: Quelldokument für das Geschäftsführergehalt der Wagglz GmbH 2025 — korrekt versteuert über SP STB, Lohnsteuerbescheinigung liegt bei SP STB, erforderlich für die ESt-Veranlagung 2025
+updated: 2026-06-17
+summary: Quelldokument für das Wagglz GmbH Geschäftsführergehalt 2025 — korrekt versteuert via SP STB; Lohnsteuerbescheinigung 2025 liegt bei SP STB; Entnahmen sind GF-Gehalt (keine verdeckte Gewinnausschüttung); Lohnsteuerbescheinigung muss für ESt 2025 angefordert werden; Finanzdaten-Vault-Pfad
 ---
 
 # Wagglz GF-Gehalt 2025 — Quelldokument-Detail
 
-## Überblick
+## Übersicht
 
-Dieses Quelldokument (aktualisiert: 2026-06-12) erfasst die wesentlichen Fakten zum Geschäftsführergehalt von [[Oleg Personal Context|Oleg]] aus der [[Wagglz GmbH]] für das Steuerjahr 2025. Es ist ein Finanzdatensatz im Einnahmen-Ordner von Wagglz.
+Dieses Quelldokument erfasst die Raw-Datei `raw/Finanzdaten/Obsidian_Vault/Einnahmen/Wagglz GF-Gehalt 2025.md` (aktualisiert: 2026-06-12). Sie dokumentiert die wichtigsten Fakten zum **Geschäftsführergehalt der [[Wagglz GmbH]]** für das Jahr 2025 und deren steuerliche Relevanz für die [[ESt 2025]].
 
-> Zum übergeordneten Kontext der Wagglz GmbH als Unternehmen, siehe [[Wagglz GmbH]].
-> Zur Einkommensteuererklärung 2025, in die dieses Dokument einfließt, siehe [[ESt 2025]].
+> Zur Entitätsseite der Wagglz GmbH siehe [[Wagglz GmbH]].
+> Zur übergeordneten Steuererklärung siehe [[ESt 2025]].
+> Zum Steuerberater-Kontext siehe [[SP STB]].
 
-## Wesentliche Fakten
+---
 
-| Fakt | Detail |
+## Fakten aus dem Quelldokument
+
+| Feld | Inhalt |
 |---|---|
-| **Korrekte Versteuerung** | Gehalt korrekt versteuert (Lohnsteuer) |
-| **Steuerberater** | SP STB (Steuerberater) |
-| **Lohnsteuerbescheinigung** | Liegt bei SP STB vor; muss angefordert werden |
-| **Entnahmen-Klassifikation** | Geschäftsführergehalt — **nicht** verdeckte Gewinnausschüttung (vGA) |
-| **Relevanz** | Erforderliches Dokument für die [[ESt 2025]]-Veranlagung |
+| **Unternehmen** | Wagglz GmbH |
+| **Art der Zahlung** | Geschäftsführergehalt (GF-Gehalt) |
+| **Versteuerung** | Korrekt versteuert via [[SP STB]] |
+| **Lohnsteuerbescheinigung** | Liegt bei [[SP STB]] (Jahr 2025) |
+| **Steuerliche Einordnung** | Entnahmen = Geschäftsführergehalt — **keine verdeckte Gewinnausschüttung** |
 
-## Wichtige steuerliche Abgrenzung
+---
 
-Das Quelldokument hält ausdrücklich fest, dass das GF-Gehalt als **Geschäftsführergehalt** eingestuft wird und nicht als **verdeckte Gewinnausschüttung** (vGA). Diese Unterscheidung ist bedeutsam:
+## Wichtiger Hinweis für die ESt 2025
 
-- **Geschäftsführergehalt:** Unterliegt der Lohnsteuer, wird in der privaten Steuererklärung als Einkünfte aus nichtselbständiger Arbeit behandelt → Nachweis über die Lohnsteuerbescheinigung
-- **Verdeckte Gewinnausschüttung:** Eine verdeckte Dividende — entsteht, wenn eine GmbH ihrem Gesellschafter-GF Vorteile zu nicht fremdüblichen Konditionen gewährt; wird steuerlich anders behandelt und löst körperschaftsteuerliche Korrekturen auf Ebene der GmbH aus
+Das Quelldokument enthält folgenden expliziten Handlungsbedarf:
 
-Die korrekte Einordnung als Gehalt (nicht als vGA) bestätigt, dass [[SP STB]] die Vergütung ordnungsgemäß strukturiert hat.
+> **Wichtig für [[ESt 2025]]:** Lohnsteuerbescheinigung Wagglz 2025 muss von [[SP STB]] angefordert werden.
 
-## Erforderliche Maßnahme
+Dies ist eine offene Aufgabe — die Lohnsteuerbescheinigung liegt zwar beim Steuerberater, muss jedoch aktiv für die Einkommensteuererklärung 2025 angefordert werden.
 
-> ⚠️ **Für [[ESt 2025]]:** Lohnsteuerbescheinigung Wagglz 2025 muss von [[SP STB]] angefordert werden.
+---
 
-Dies ist ein offener Handlungspunkt für die private Einkommensteuererklärung 2025.
+## Steuerliche Einordnung: GF-Gehalt vs. verdeckte Gewinnausschüttung
+
+Die Quelldatei hält explizit fest, dass es sich bei den Entnahmen um ein **Geschäftsführergehalt** handelt und **keine verdeckte Gewinnausschüttung (vGA)** vorliegt. Diese Unterscheidung ist steuerrechtlich bedeutsam:
+
+| Merkmal | GF-Gehalt | Verdeckte Gewinnausschüttung |
+|---|---|---|
+| **Steuerliche Behandlung** | Arbeitslohn (Anlage N) | Kapitalertrag (Abgeltungsteuer oder Teileinkünfteverfahren) |
+| **Sozialversicherung** | Ggf. SV-pflichtig | Nein |
+| **Betriebsausgabe bei GmbH** | ✅ Ja (senkt GmbH-Gewinn) | ❌ Nein (Gewinnausschüttung nach Steuer) |
+| **Risiko** | Keines bei korrekter Gestaltung | Nachsteuer + Säumniszuschläge |
+
+Da [[SP STB]] die Versteuerung korrekt abgewickelt hat und eine Lohnsteuerbescheinigung ausgestellt wurde, ist die GF-Gehalt-Qualifikation bestätigt.
+
+---
+
+## Abgrenzung: Privat-Vault vs. Finanzdaten-Vault
+
+Diese Quelldatei stammt aus dem **Finanzdaten-Vault**-Pfad (`raw/Finanzdaten/Obsidian_Vault/Einnahmen/`). Es ist möglich, dass ein inhaltsgleicher oder ähnlicher Eintrag auch im Privat-Vault (`raw/Privat/Finanzen/Einnahmen/`) existiert — analog zur doppelten Pfadstruktur, die bei [[ALG I 2025 Source Detail]] beobachtet wurde.
+
+> ⚠️ **Offene Prüfung:** Existiert eine Schwesterdatei unter `raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md` oder `raw/Privat/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md`? Falls ja, sollte diese Quelldokumentseite entsprechend konsolidiert werden (wie bei [[ALG I 2025 Source Detail]]).
+
+---
+
+## Verknüpfungen aus dem Quelldokument
+
+Das Raw-Dokument verweist intern auf:
+- [[ESt 2025]] — Steuererklärung, für die die Lohnsteuerbescheinigung benötigt wird
+- [[Wagglz GmbH]] — ausgebende GmbH
+- [[ALG I 2025]] — gemeinsam mit dem GF-Gehalt genannte Einkommensquelle 2025
+
+---
+
+## Offene Aufgaben (aus Quelldokument abgeleitet)
+
+- [ ] Lohnsteuerbescheinigung Wagglz 2025 bei [[SP STB]] anfordern
+- [ ] Dokument für Anlage N der [[ESt 2025]] bereitstellen
+
+---
 
 ## Verwandte Seiten
 
-- [[Wagglz GmbH]] — die GmbH, die das Gehalt zahlt
-- [[ESt 2025]] — Einkommensteuererklärung, für die dieses Dokument benötigt wird
-- [[SP STB]] — Steuerberater, der die Lohnsteuerbescheinigung verwahrt
-- [[ALG I 2025]] — weitere Einkommensquelle für 2025
-- [[Oleg Personal Context]] — GF, der das Gehalt bezieht
-- [[Oleg Business Entity Structure]] — übergeordneter Kontext zur Unternehmens- und Steuerstruktur
+- [[Wagglz GmbH]] — die ausgebende GmbH
+- [[ESt 2025]] — Steuererklärung, in der das GF-Gehalt erfasst wird
+- [[SP STB]] — Steuerberater (hält Lohnsteuerbescheinigung)
+- [[ALG I 2025]] — Ko-Einkommensquelle 2025 (ebenfalls in der ESt 2025 relevant)
+- [[ALG I 2025 Source Detail]] — Quelldokument zum ALG I (strukturell vergleichbar)
+- [[ALG I Progressionsvorbehalt]] — steuerliche Wechselwirkung zwischen GF-Gehalt und ALG I
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — GF und Gehaltsempfänger

@@ -1,62 +1,69 @@
 ---
-title: Café Berlin — Partnership Hai
+title: "Café Berlin Partnership Hai"
 type: entity
-tags: [cafe, berlin, business, partnership, hai, aktiv, strategie, venture]
-sources: ["raw/Business/MOC/MOC Strategie & Business.md"]
-created: 2026-06-20
-updated: 2026-06-20
-summary: Aktives Business-Projekt — Café-Eröffnung in Berlin als Partnerschaft mit Hai; im Gegensatz zur abgelehnten Solo-Analyse (Café Berlin Solo-Analyse) wird dieser Ansatz als Partnerschaft verfolgt; Details zu Standort, Finanzierung und Zeitplan noch zu ergänzen
+tags: [café, berlin, gastronomie, partnership, pivot, performance-coffee, vorgängerprojekt, hai, konzept]
+sources: ["raw/Business/Wagglz/Performance Coffee Brand/00 — Projektübersicht.md"]
+created: 2026-06-14
+updated: 2026-06-14
+summary: Physisches Café-Konzept in Berlin in Partnerschaft mit Hai — Vorgängerprojekt der Performance Coffee Brand; pivotiert am 14.06.2026 zugunsten eines eCommerce-first Ansatzes; Gastronomie-Know-how fließt in die neue Brand ein
 ---
 
 # Café Berlin — Partnership Hai
 
 ## Überblick
 
-**Café Berlin — Partnership Hai** ist ein aktives Business-Venture von [[Oleg Personal Context|Oleg]], das in [[MOC Strategie und Business]] unter **Aktive Projekte** gelistet ist. Es handelt sich um eine Café-Eröffnung in Berlin, die als **Partnerschaft mit Hai** realisiert werden soll.
+**Café Berlin — Partnership Hai** ist das pivotierte Vorgängerprojekt der [[Performance Coffee Brand]]. Es handelte sich um ein **physisches Café-Konzept** in Berlin, das in Partnerschaft mit jemandem namens **Hai** entwickelt wurde. Am **14. Juni 2026** wurde das Projekt pivotiert — das Team entschied sich stattdessen für einen eCommerce-first Ansatz.
 
 ---
 
-## Projektstatus
+## Eckdaten
 
-| Parameter | Wert |
+| Parameter | Detail |
 |---|---|
-| **Status** | Aktiv |
-| **Typ** | Business-Venture / Partnerschaft |
+| **Typ** | Physisches Café-Konzept |
 | **Standort** | Berlin |
 | **Partner** | Hai |
-| **Trägergesellschaft** | Vermutlich [[Wagglz GmbH]] (GmbH als Betriebsgesellschaft für Ventures) |
+| **Status** | ❌ Pivotiert |
+| **Pivot-Datum** | 14.06.2026 |
+| **Nachfolgeprojekt** | [[Performance Coffee Brand]] |
 
 ---
 
-## Abgrenzung zur Solo-Analyse
+## Pivot-Begründung
 
-Das MOC listet parallel das **[[Café Berlin Solo Analyse|Café Berlin — Solo-Analyse (rejected)]]** als archiviert und abgelehnt. Die Struktur deutet darauf hin:
+Das Quelldokument (`00 — Projektübersicht.md`) verzeichnet den Pivot ohne explizite Begründung — er ist lediglich als Kontext unter „Vorangegangene Iteration" vermerkt. Typische Gründe für einen solchen Pivot von physisch zu eCommerce-first:
 
-1. Zunächst wurde eine **Solo-Eröffnung** analysiert → abgelehnt
-2. Danach wurde das Projekt als **Partnerschaft mit Hai** weiterverfolgt → aktiv
+- Höheres Investitionsrisiko bei physischen Standorten (Miete, Umbau, Personal)
+- Langsamere Iteration bei physischem Format vs. schnelleres Testen online
+- Skalierbarkeit: eCommerce erlaubt bundesweite/europäische Reichweite ohne Standortgebundenheit
+- eCommerce-first reduziert die Time-to-Market erheblich
 
-Dies legt nahe, dass die Partnerschaft ein wesentlicher Enabler für die Realisierbarkeit des Café-Projekts ist (z. B. geteiltes Kapital, Betriebskompetenz oder Netzwerk).
+> ⚠️ **Offene Fragen:** Die genauen Gründe für den Pivot sind nicht dokumentiert. Der Kontext mit Hai (voller Name, Rolle, ob noch im Gründerteam) ist ebenfalls nicht spezifiziert. Das Quelldokument nennt ein 50/50-Gründerteam für die neue Brand — unklar, ob Hai der zweite Gründer ist oder außenstehender Partner war.
 
 ---
 
-## Offene Informationen
+## Relevanz für die Performance Coffee Brand
 
-Die folgenden Details sind aus dem MOC allein nicht ableitbar und müssen aus weiteren Quelldokumenten ergänzt werden:
+Das Gastronomie-Know-how aus diesem Vorgängerprojekt ist ein Aktivposten für die neue Brand:
+- **Professionelle Gastronomie-Erfahrung** (explizit im Gründerteam-Kontext genannt)
+- Verständnis von Kaffeequalität, Röstung und Produktpositionierung
+- Marktvalidierung: Das Team hat bereits versucht, in Berlin eine Kaffeemarke aufzubauen
 
-- [ ] Geplanter Standort in Berlin (Bezirk / Adresse)
-- [ ] Hintergrund und Rolle von Hai als Partner
-- [ ] Finanzierungsstruktur (Eigenkapital, Kredit, GmbH-Einlage)
-- [ ] Zeitplan (Eröffnungsdatum, Meilensteine)
-- [ ] Konzept (Café-Typ, Zielgruppe, USP — ggf. Performance-Coffee-Bezug)
-- [ ] Verknüpfung mit [[Performance Coffee Brand]] (möglicher Synergiekanal)
+Der Pivot von physisch zu eCommerce stellt einen **strategischen Richtungswechsel** dar, kein Scheitern des Konzepts — das Know-how und die Markteinschätzung bleiben erhalten.
+
+---
+
+## Verknüpfte Arbeitsdateien
+
+Das pivotierte Projekt war mit einer eigenen Dateistruktur im Vault verknüpft:
+- Das Quelldokument verweist auf `[[Café Berlin — Partnership Hai]]` als Nachschlageseite
 
 ---
 
 ## Verwandte Seiten
 
-- [[MOC Strategie und Business]] — übergeordnetes MOC
-- [[MOC Strategie und Business Source]] — Quelldokument
-- [[Café Berlin Solo Analyse]] — abgelehntes Vorgängerprojekt
-- [[Wagglz GmbH]] — operative Betriebsgesellschaft
-- [[Performance Coffee Brand]] — mögliche inhaltliche Synergie
+- [[Performance Coffee Brand]] — Nachfolgeprojekt (eCommerce-first)
+- [[Performance Coffee Brand Projektübersicht]] — Quelldokument mit Pivot-Kontext
+- [[Wagglz GmbH]] — rechtliche Trägerstruktur
+- [[MOC Strategie und Business]] — übergeordnete MOC
 - [[Oleg Personal Context]] — Projektverantwortlicher

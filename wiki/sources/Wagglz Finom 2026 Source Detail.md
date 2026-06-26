@@ -1,20 +1,32 @@
 ---
-title: Wagglz Finom 2026 Source Detail
+title: "Wagglz Finom 2026 Source Detail"
 type: source
-tags: [wagglz, konto, finom, finanzen, unternehmen]
+tags: [wagglz, finom, konten, finanzen, geschäftskonto, ust, arag, claude-ai, godaddy, figma, oleg-darlehen]
 sources: ["raw/Business/Wagglz/Finanzen/Konten/Wagglz Finom 2026.md"]
-created: 2026-06-16
-updated: 2026-06-16
-summary: Wagglz GmbH Finom-Konto 2026 — IBAN DE36100180000083465573; Saldo 0,00 €; finanziert durch Oleg-Gesellschafterdarlehen; wesentliche Buchungen dokumentiert
+created: 2026-06-12
+updated: 2026-06-12
+summary: Quelldokument für das Wagglz Finom Geschäftskonto 2026 — IBAN DE36100180000083465573; Saldo Eröffnung Jan 2026 = 134,22 €, aktuell 0 €; wesentliche Buchungen: USt-Nachzahlung −790,68 €, ARAG SE −100,88 €, Claude.ai −18 €, GoDaddy −34,76 €, Figma −20 €/Mo; Konto wird durch Oleg-Gesellschafterdarlehen am Laufen gehalten
 ---
 
-Wagglz Finom 2026 ist das Stammdaten- und Transaktionsblatt für das Finom-Geschäftskonto der [[Wagglz GmbH]] im Jahr 2026. Das Konto weist einen Saldo von 0,00 € aus und wird ausschließlich durch Gesellschafterdarlehen von [[Oleg Personal Context]] am Laufen gehalten (source: [[Wagglz Finom 2026 Source Detail]]).
+# Wagglz Finom 2026 — Quelldokument Detail
+
+## Überblick
+
+Dieses Quelldokument (`raw/Business/Wagglz/Finanzen/Konten/Wagglz Finom 2026.md`, aktualisiert: 2026-06-12) erfasst den Stand und die wesentlichen Buchungen des [[Wagglz GmbH]]-Geschäftskontos bei Finom für das Jahr 2026.
+
+> Zur Entitätsseite des Kontos siehe [[Wagglz Finom 2026]].
+> Zur ARAG-Versicherung, die über dieses Konto abgebucht wird, siehe [[ARAG Wagglz Versicherung]].
 
 ## Kontostammdaten
 
-- **IBAN:** DE36 1001 8000 0083 4655 73
-- **Saldo Juni 2026:** 0,00 €
-- **Saldo Januar 2026 (Periodenstart):** 134,22 €
+| Feld | Wert |
+|---|---|
+| **Kontoinhaber** | Wagglz GmbH |
+| **Bank** | Finom |
+| **IBAN** | DE36100180000083465573 |
+| **Saldo Jan 2026 (Eröffnung Periode)** | 134,22 € |
+| **Saldo Jun 2026 (aktuell)** | 0,00 € |
+| **Finanzierung** | Oleg-Gesellschafterdarlehen |
 
 ## Wesentliche Buchungen 2026
 
@@ -24,19 +36,47 @@ Wagglz Finom 2026 ist das Stammdaten- und Transaktionsblatt für das Finom-Gesch
 | 02.04.2026 | ARAG SE (Beitrag 30.01.–07.05.2026) | −100,88 € |
 | 01.04.2026 | Claude.ai Subscription | −18,00 € |
 | laufend | GoDaddy | −34,76 € |
-| laufend | Figma | −20,00 €/Monat |
+| laufend | Figma | −20,00 €/Mo |
+| laufend | Miles for Business | variabel |
 
-## Kontext
+## Analyse der wesentlichen Buchungen
 
-Wagglz hat seit Sommer 2025 keine externen Einnahmen mehr (letzter bekannter Umsatz: Diana Apotheke Mai 2025). Die monatlichen Fixkosten von ~380–420 € (Google Workspace, GoDaddy, Figma, ARAG) werden vollständig durch Oleg-Gesellschafterdarlehen finanziert.
+### USt-Nachzahlung (−790,68 €)
+Die größte Einzelbuchung: Umsatzsteuer-Nachzahlung für Q1+Q2 2025 an das Finanzamt. Dies erklärt, warum der Saldo von 134,22 € (Januar) auf 0 € (Juni) gefallen ist — die USt-Nachzahlung allein übersteigt den Anfangssaldo um das rund Sechsfache. Das Konto konnte nur durch Olegs Gesellschafterdarlehen weitergeführt werden.
 
-Die Finom-Kontoentwicklung ist eng mit der [[Finanzielle Gesamtanalyse Oleg Kober 2025-2026]] dokumentiert (Finom-Saldo: 1.802 € Jan 2025 → 134 € Dez 2025 → 0 € Jun 2026).
+### ARAG SE (−100,88 €)
+Quartalsweise Versicherungsprämie für die [[ARAG Wagglz Versicherung]]. Laut [[P2 Diesen Monat Source Detail]] ist die Kündigung dieser Versicherung bis 2026-06-30 fällig, da sie nicht benötigt wird.
 
-Für Auswirkungen auf die Gesamtfinanzlage und den [[Rangrücktritt §15a InsO Source Detail]] siehe [[GESAMTANALYSE Archiv Source Detail]].
+### Claude.ai Subscription (−18 €)
+Monatliche Subscription für Claude.ai — ein KI-Assistent-Dienst. Operativer IT-Aufwand der Wagglz GmbH.
 
-## Verknüpfte Seiten
+### GoDaddy (−34,76 €)
+Domainregistrierung / Webhosting-Kosten. Laufende Infrastrukturkosten.
 
-- [[Wagglz GmbH Source Detail]] — Unternehmensstammdaten
-- [[Wagglz GmbH Finance Vault]] — Finance Vault mit Jahresübersicht
-- [[OK Capital Finom 2026]] — Finom-Konto der Holding
-- [[Finanz Rehabilitation Plan Source Detail]] — Gesamtrehabilitationsplan
+### Figma (−20 €/Mo)
+Monatliche Figma-Lizenz. Konsistent mit der aktiven Figma-Nutzung für [[Wufflz]]-Design (siehe [[Figma Index Wagglz]], [[25 Wufflz Wireframes Figma Manifest]], [[25 B2B Software Figma Manifest]]).
+
+### Miles for Business (variabel)
+Variabler Betrag — Geschäftsreise-/Mobilitätsdienst.
+
+## Kontextuelle Einordnung
+
+Das Konto wird durch ein **Oleg-Gesellschafterdarlehen** am Laufen gehalten. Dies bedeutet:
+- [[Oleg Personal Context|Oleg]] leiht der [[Wagglz GmbH]] Kapital als Gesellschafter
+- Das Unternehmen hat keinen ausreichenden eigenen Cashflow
+- Die laufenden SaaS-Kosten (Figma, GoDaddy, Claude.ai) werden auf Darlehens-Basis finanziert
+- Im Kontext einer möglichen GmbH-Schließung (referenziert in [[ARAG Wagglz Versicherung]]) sollte das Darlehen entsprechend berücksichtigt werden
+
+## Keine Widersprüche
+
+Die ARAG-Buchung (−100,88 € am 02.04.2026) stimmt exakt mit den Daten in [[ARAG Wagglz Versicherung]] überein, die den Betrag als 100,88 €/Quartal nennt.
+
+## Verwandte Seiten
+
+- [[Wagglz Finom 2026]] — Entitätsseite des Kontos
+- [[Wagglz GmbH]] — Kontoinhaber
+- [[ARAG Wagglz Versicherung]] — Versicherung die über dieses Konto läuft; Kündigung fällig
+- [[Oleg Personal Context]] — Gesellschafter-Darlehensgeber
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Figma Index Wagglz]] — Kontext zur Figma-Subscription
+- [[Wufflz]] — Produktlinie, für die Figma genutzt wird

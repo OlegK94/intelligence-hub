@@ -1,122 +1,162 @@
 ---
-title: P2 Diesen Monat Source Detail
+title: "P2 Diesen Monat — Quelldokument"
 type: source
-tags: [aufgaben, P2, finanzen, notfallfonds, sachbezug, kredit, versicherung, pkw, consorsbank, vw-kredit, arag, dzr, steamone]
-sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
+tags: [aufgaben, P2, finanzen, sachbezug, notfallfonds, kündigung, kredit, sondertilgung, pkw, consorsbank, dzr, arag, wagglz, steamone, vw-kredit]
+sources: ["raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Quelldokument für P2-Prioritätsaufgaben des laufenden Monats — umfasst PKW-Sachbezug-Optimierung, Notfallfonds-Aufbau, DZR GmbH Abrechnungsbestätigung, ARAG Wagglz Kündigung, Steamone Zahlungsklärung und VW-Kredit Sondertilgungsprüfung
+summary: P2-Prioritätsliste „Diesen Monat" — 6 offene Aufgaben mit Deadlines bis Ende Juli/August/September 2026; umfasst PKW-Sachbezug-Optimierung, Notfallfonds-Aufbau, DZR-Schlusserklärung, ARAG-Kündigung, Steamone-Klärung und VW-Kredit-Sondertilgungsprüfung
 ---
 
-# P2 – Diesen Monat (Source Detail)
+# P2 – Diesen Monat — Quelldokument
 
 ## Überblick
 
-Dieses Quelldokument (Priorität: P2, aktualisiert: 2026-06-12) listet [[Oleg Personal Context|Olegs]] mittelpriorisierte Finanzaufgaben auf, die im laufenden Monat (Juni–September 2026) fällig sind. Es handelt sich um Nachverfolgungs- und Optimierungsaufgaben — keine Notfälle, aber zeitkritisch.
+Dieses Quelldokument (`raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md`, aktualisiert: 2026-06-12) enthält die **P2-Prioritätsliste** für den laufenden Monat — mittelfristige Aufgaben mit konkreten Deadlines, die innerhalb von 1–3 Monaten erledigt werden müssen.
 
-> Für dringende P0-Aufgaben siehe [[P0 Sofortmaßnahmen]]. Für wöchentliche P1-Aufgaben siehe [[P1 Diese Woche Source Detail]].
-
----
-
-## Aufgaben
-
-### 1. Doctolib PKW-Sachbezug optimieren
-📅 Fällig: 2026-07-31
-
-- **Aktueller Sachbezug:** 364 €/Monat (1%-Regel, Listenpreis ~36.400 €)
-- **Aufgabe:** Fahrtenbuch vs. 1%-Regelung prüfen lassen (mit [[SP STB]])
-- **Potenzial:** Steuerersparnis wenn Fahrtenbuch günstiger als 1%-Regel
-
-**Kontext:** Die 1%-Regelung berechnet den monatlichen geldwerten Vorteil als 1 % des Brutto-Listenpreises des Fahrzeugs. Wenn der tatsächliche private Kilometeranteil gering ist, kann ein Fahrtenbuch zu einem niedrigeren geldwerten Vorteil führen. Dies erfordert eine sorgfältige Dokumentation, kann aber zu erheblichen Steuerersparnissen führen.
-
-> Siehe [[Doctolib PKW-Sachbezug]] für die vollständige Konzeptseite.
+> Für P1-Aufgaben (diese Woche) siehe [[P1 Diese Woche Source Detail]].
+> Für den übergeordneten Finanz-MOC siehe [[MOC Finanzen]].
 
 ---
 
-### 2. Notfallfonds aufbauen
-📅 Fällig: 2026-08-01
+## Aufgaben-Übersicht
 
-- **Konto:** Tagesgeld [[Consorsbank]] — ab 16.06.2026 → 1,00 % p.a. (automatisch)
-- **Ziel:** 3 × Netto = ~10.900 €
-- **Aktuell separiert:** 0 €
-- **Finanzierungsquelle:** Q2-Bonus (Juli 2026 erwartet)
-
-**Kontext:** Das Notfallfonds-Ziel von ~10.900 € impliziert ein monatliches Nettoeinkommen von ca. 3.633 €. Dies stimmt mit den Netto-Gehaltsschätzungen aus [[Doctolib 2026]] überein. Die aktuell separierten 0 € zeigen, dass kein dedizierter Notfallfonds existiert — eine erhebliche finanzielle Lücke.
-
-> ⚠️ **Widerspruchshinweis:** Die [[Fixkosten Übersicht]] und der [[MOC Finanzen Source Detail]] verweisen auf ein Consorsbank-Tagesgeldkonto. Diese Aufgabe bestätigt, dass das Konto existiert, aber derzeit für Notfallzwecke nicht befüllt ist.
-
----
-
-### 3. DZR GmbH – Bestätigung anfordern
-📅 Fällig: 2026-06-30
-
-- **Bezahlt:** 119 € (07.04.) + 244,20 € inkl. Verzugszins (28.04.)
-- **Aufgabe:** Quittung / Schlusserklärung von [[DZR GmbH]] schriftlich anfordern
-- **Kontext:** Überweisungsrückgabe vom 03.04 war Echtzeitüberw.-Problem (gelöst)
-
-**Kontext:** Die [[DZR GmbH]] scheint ein Gläubiger zu sein (möglicherweise ein Inkasso- oder Abrechnungsunternehmen). Die Überweisungsrückgabe vom 03.04 war ein technisches Problem bei der Echtzeitüberweisung, keine absichtliche Nichtzahlung. Gesamtbetrag bezahlt: 363,20 € inklusive Verzugszins. Die schriftliche Bestätigung (Schlusserklärung) wird benötigt, um diese Angelegenheit formell abzuschließen.
+| # | Aufgabe | Deadline | Status |
+|---|---|---|---|
+| 1 | Doctolib PKW-Sachbezug optimieren | 2026-07-31 | ☐ offen |
+| 2 | Notfallfonds aufbauen | 2026-08-01 | ☐ offen |
+| 3 | DZR GmbH – Bestätigung anfordern | 2026-06-30 | ☐ offen |
+| 4 | ARAG Wagglz – Vertrag kündigen | 2026-06-30 | ☐ offen |
+| 5 | Steamone 217,18 € (01.04.) klären | 2026-06-30 | ☐ offen |
+| 6 | VW-Kredit Sondertilgung prüfen | 2026-09-01 | ☐ offen |
 
 ---
 
-### 4. ARAG Wagglz – Vertrag kündigen
-📅 Fällig: 2026-06-30
+## Aufgabe 1: Doctolib PKW-Sachbezug optimieren
 
-- **Kosten:** 100,88 €/Quartal (abgebucht von [[Wagglz Finom 2026]] seit Apr 2026)
-- **Begründung:** Vertrag nicht benötigt
-- **Zusatzkontext:** [[Wagglz GmbH]] schließt evtl. sowieso → Kündigung jetzt einreichen
+**Deadline:** 2026-07-31
 
-**Kontext:** ARAG ist ein deutsches Rechts- und Versicherungsunternehmen. Das Produkt „ARAG Wagglz" scheint ein ARAG-Versicherungsprodukt zu sein, das mit dem Betrieb der [[Wagglz GmbH]] verbunden ist — möglicherweise eine Betriebshaftpflicht- oder Rechtsschutzversicherung. Da Wagglz möglicherweise aufgelöst wird, ist diese Kündigung doppelt gerechtfertigt.
+| Parameter | Wert |
+|---|---|
+| Aktueller Sachbezug | 364 €/Monat |
+| Regelung | 1%-Regel |
+| Fahrzeug-Listenpreis | ~36.400 € |
+| Nächste Aktion | Fahrtenbuch vs. 1%-Regelung mit STB prüfen |
 
-> Siehe [[Wagglz GmbH]]-Entitätsseite für den Auflösungskontext.
+**Kontext:** [[Oleg Personal Context|Oleg]] nutzt ein Firmenfahrzeug über [[Doctolib]] (Arbeitgeber). Die 1%-Regelung erzeugt einen monatlichen geldwerten Vorteil von 364 €. Wenn Oleg überwiegend privat wenig fährt, kann das Fahrtenbuch zu einer erheblichen Steuerersparnis führen.
 
----
-
-### 5. Steamone 217,18 € (01.04.) klären
-📅 Fällig: 2026-06-30
-
-- **Zahlung:** 217,18 € PayPal-Lastschrift (01.04.)
-- **Problem:** Hoher Betrag — unklar was gekauft wurde
-- **Aufgabe:** Kaufinhalt klären; ggf. Rückgabe prüfen
-
-**Kontext:** Steamone ist eine Marke für Heimtextilpflege- und Garment-Care-Geräte (Dampfbürsten, Dampfglätter). Die PayPal-Lastschrift über 217,18 € kann ein legitimer, aber vergessener Kauf sein oder ein möglicher Betrug/Fehler. Die Aufgabe, „Rückgabe zu prüfen", legt nahe, dass es sich um einen Impulskauf handeln könnte, der überprüft wird.
+> Für die ausführliche Entitätsseite und Berechnungsdetails siehe [[Doctolib PKW-Sachbezug]].
 
 ---
 
-### 6. VW-Kredit Sondertilgung prüfen
-📅 Fällig: 2026-09-01
+## Aufgabe 2: Notfallfonds aufbauen
 
-- **Restschuld:** 18.858 €
-- **Rate:** 681,57 €/Monat bis November 2028
-- **Mögliche Quelle:** Q-Bonus (8.250 € netto erwartet)
-- **Aufgabe:** Zinsersparnis vs. Tagesgeld 1% gegenrechnen
+**Deadline:** 2026-08-01
 
-**Kontext:** Der [[VW Konsumkredit]] ist ein Verbraucherkredit für ein Fahrzeug. Eine Sondertilgung mit dem Q2-Bonus würde die Restschuld von 18.858 € schneller reduzieren und Zinsen einsparen. Da das Tagesgeld jedoch nur 1 % p.a. beträgt und typische Verbraucherkreditzinsen bei 3–7 % liegen, ist eine vorzeitige Rückzahlung fast immer vorteilhaft — es sei denn, der Kreditvertrag sieht eine Vorfälligkeitsentschädigung vor.
+| Parameter | Wert |
+|---|---|
+| Ziel | 3 × Nettogehalt (~10.900 €) |
+| Aktuell separiert | 0 € |
+| Konto | Tagesgeld Consorsbank |
+| Zinssatz | 1,00 % p.a. (ab 16.06.2026) |
+| Finanzierungsquelle | Q2-Bonus (erwartet Juli 2026) |
 
-> Siehe [[VW Konsumkredit]] für vollständige Kreditdetails.
+**Kontext:** Ein Notfallfonds von 3 Monatsnettogehältern ist ein Standard-Finanzplanungsziel. Der Q2-Bonus ist die geplante Startfinanzierung.
+
+> Für die Entitätsseite siehe [[Notfallfonds Aufbau]].
 
 ---
 
-## In dieser Liste enthaltene Finanzentscheidungen
+## Aufgabe 3: DZR GmbH – Bestätigung anfordern
 
-| Entscheidung | Aufwand | Potenzieller Nutzen |
-|---|---|---|
-| Fahrtenbuch vs. 1%-Regel | Hoch (laufend) | Mehrere 100 €/Jahr Steuerersparnis |
-| Notfallfonds aus Q2-Bonus | Mittel | Finanzielle Sicherheit (10.900 €) |
-| ARAG Wagglz kündigen | Gering | 403,52 €/Jahr gespart |
-| VW Sondertilgung | Mittel | Zinsersparnis (abhängig von Rate) |
+**Deadline:** 2026-06-30
+
+| Parameter | Wert |
+|---|---|
+| Zahlung 1 | 119,00 € (07.04.) |
+| Zahlung 2 | 244,20 € inkl. Verzugszins (28.04.) |
+| Offen | Schriftliche Quittung / Schlusserklärung |
+| Hintergrund | Überweisungsrückgabe 03.04. war Echtzeit-Überweisungsproblem (gelöst) |
+
+**Kontext:** Eine Schlusserklärung von [[DZR GmbH]] wird benötigt, um die Zahlungen als vollständig abgeschlossen zu dokumentieren.
+
+> Für die Entitätsseite siehe [[DZR GmbH]].
+
+---
+
+## Aufgabe 4: ARAG Wagglz – Vertrag kündigen
+
+**Deadline:** 2026-06-30
+
+| Parameter | Wert |
+|---|---|
+| Kosten | 100,88 €/Quartal (seit April 2026) |
+| Abbuchungskonto | Wagglz Finom |
+| Grund | Vertrag nicht benötigt; Wagglz GmbH schließt evtl. |
+
+> Für die Entitätsseite mit vollständigem Kontext siehe [[ARAG Wagglz Versicherung]].
+> Verknüpft mit [[Wagglz GmbH]].
+
+---
+
+## Aufgabe 5: Steamone 217,18 € klären
+
+**Deadline:** 2026-06-30
+
+| Parameter | Wert |
+|---|---|
+| Betrag | 217,18 € |
+| Datum | 01.04. |
+| Kanal | PayPal-Lastschrift |
+| Problem | Ungeklärte hohe Zahlung |
+| Aktion | Herausfinden, was gekauft wurde; ggf. Rückgabe prüfen |
+
+> Für die Entitätsseite siehe [[Steamone Transaktion]].
+
+---
+
+## Aufgabe 6: VW-Kredit Sondertilgung prüfen
+
+**Deadline:** 2026-09-01
+
+| Parameter | Wert |
+|---|---|
+| Restschuld | 18.858 € |
+| Monatliche Rate | 681,57 € |
+| Laufzeit bis | November 2028 |
+| Potenzielle Quelle | Q-Bonus (~8.250 € netto) |
+| Entscheidungskriterium | Zinsersparnis vs. Tagesgeld 1 % p.a. |
+
+**Kontext:** Der Q2-Bonus (~8.250 € netto) könnte für eine Sondertilgung des [[VW Konsumkredit|VW-Kredits]] genutzt werden. Da das Tagesgeld nur 1 % bringt, ist die Sondertilgung finanziell sinnvoll, wenn der Kreditzins >1 % liegt (was bei Konsumkrediten typischerweise der Fall ist).
+
+> Für die Entitätsseite mit Zinsanalyse siehe [[VW Konsumkredit]].
+
+---
+
+## Querverweise und Abhängigkeiten
+
+| Aufgabe | Abhängigkeit |
+|---|---|
+| Notfallfonds | Wartet auf Q2-Bonus (Juli 2026) |
+| VW-Sondertilgung | Wartet auf Q2-Bonus; konkurriert mit Notfallfonds um dieselbe Bonusquelle |
+| ARAG Kündigung | Unabhängig — sofortige Aktion möglich |
+| DZR Bestätigung | Unabhängig — sofortige Aktion möglich |
+| Steamone | Unabhängig — sofortige Aktion möglich |
+| Doctolib Sachbezug | Termin mit STB erforderlich |
+
+> ⚠️ **Ressourcenkonflikt:** Sowohl [[Notfallfonds Aufbau]] als auch [[VW Konsumkredit]]-Sondertilgung wollen den Q2-Bonus von ~8.250 € netto nutzen. Bei einem Bonus von 8.250 € und einem Notfallfonds-Ziel von 10.900 € kann der Bonus nur eines der Ziele vollständig finanzieren. Empfehlung: Notfallfonds zuerst (Liquiditätspuffer), dann überschüssige Mittel zur Sondertilgung.
 
 ---
 
 ## Verwandte Seiten
 
-- [[P0 Sofortmaßnahmen]] — Aufgaben mit höherer Priorität
-- [[P1 Diese Woche Source Detail]] — P1-Aufgaben
-- [[Doctolib PKW-Sachbezug]] — PKW-Sachbezug-Optimierung
-- [[SP STB]] — Steuerberater für Sachbezug-Beratung
-- [[Notfallfonds]] — Konzeptseite Notfallfonds
-- [[Consorsbank Girokonto 0250120493]] — Hauptkonto bei der Consorsbank
-- [[DZR GmbH]] — Gläubiger, der eine Abschlussbestätigung benötigt
-- [[Wagglz GmbH]] — Unternehmen in Auflösung; ARAG-Vertrag zu kündigen
-- [[VW Konsumkredit]] — Kredit mit zu prüfender Sondertilgungsoption
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — Aufgabeninhaber
+- [[Doctolib PKW-Sachbezug]] — Entität zu Aufgabe 1
+- [[Notfallfonds Aufbau]] — Entität zu Aufgabe 2
+- [[DZR GmbH]] — Entität zu Aufgabe 3
+- [[ARAG Wagglz Versicherung]] — Entität zu Aufgabe 4
+- [[Steamone Transaktion]] — Entität zu Aufgabe 5
+- [[VW Konsumkredit]] — Entität zu Aufgabe 6
+- [[SP STB]] — Steuerberater für PKW-Sachbezug-Prüfung
+- [[Wagglz GmbH]] — im Kontext ARAG und Finom
+- [[MOC Finanzen]] — übergeordneter Finanz-MOC
+- [[Oleg Personal Context]] — verantwortliche Person

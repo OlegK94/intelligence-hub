@@ -1,24 +1,27 @@
 ---
-title: ESt 2025 Quelldokument-Detail
+title: "ESt 2025 Quelldokument-Detail"
 type: source
-tags: [steuern, est, einkommensteuer, 2025, alg-i, progressionsvorbehalt, pflichtveranlagung, wagglz, doctolib, finanzen, §46-estg, §32b-estg]
-sources: ["raw/Privat/Finanzen/Steuern/ESt 2025.md"]
+tags: [steuern, est, est-2025, einkommensteuer, pflichtveranlagung, progressionsvorbehalt, wagglz, alg-i, finanzen, 2025, sp-stb]
+sources:
+  - "raw/Finanzdaten/Obsidian_Vault/Steuern/ESt 2025.md"
 created: 2026-06-12
-updated: 2026-06-12
-summary: Quelldokument für die Einkommensteuer 2025 — GF-Gehalt ~30.000 €, ALG I ~8.400 € (Progressionsvorbehalt), Pflichtveranlagung §46 EStG, Checkliste der erforderlichen Unterlagen, geringe Erstattung erwartet
+updated: 2026-06-17
+summary: Rohes Quelldokument für die Einkommensteuer 2025 — erfasst Einnahmen (~30.000 € Wagglz-GF-Gehalt + ~8.400 € ALG I), zvE ~30.000–35.000 €, Pflichtveranlagung nach §46 EStG, vollständige Unterlagen-Checkliste mit Deadlines sowie erwartetes Ergebnis (kleine Erstattung möglich, keine Nachzahlung erwartet)
 ---
 
-# Einkommensteuer 2025 — Quelldokument-Detail
+# ESt 2025 — Quelldokument-Detail
 
 ## Überblick
 
-Dieses Quelldokument (`raw/Privat/Finanzen/Steuern/ESt 2025.md`, Status: in-vorbereitung, aktualisiert: 2026-06-12) ist das primäre Planungsdokument für [[Oleg Personal Context|Olegs]] Einkommensteuererklärung 2025. Es fasst Einkommenspositionen, gesetzliche Abgabepflichten, erforderliche Unterlagen und das erwartete Ergebnis zusammen.
+Dieses Quelldokument (`raw/Finanzdaten/Obsidian_Vault/Steuern/ESt 2025.md`, aktualisiert 2026-06-12, Status: in-vorbereitung) ist das primäre Planungsdokument für die Einkommensteuererklärung 2025 von [[Oleg Personal Context|Oleg]].
 
-> Die zusammenfassende Entitätsseite findest du unter [[ESt 2025]].
-> Zur steuerlichen Systematik des ALG I siehe [[ALG I Progressionsvorbehalt]].
-> Zu den Details des Wagglz GF-Gehalts siehe [[Wagglz GF-Gehalt 2025]].
+> Zur Entitätsseite mit Gesamtkontext und Verknüpfungen: [[ESt 2025]]
+> Zu den Einnahme-Quellen: [[Wagglz GF-Gehalt 2025]], [[ALG I 2025]]
+> Zum Progressionsvorbehalt-Mechanismus: [[ALG I Progressionsvorbehalt]]
 
-## Einnahmen 2025 (Einkommenspositionen)
+---
+
+## Einnahmen 2025 (aus Quelldokument)
 
 | Position | Betrag (ca.) | Steuerliche Behandlung |
 |---|---|---|
@@ -28,71 +31,70 @@ Dieses Quelldokument (`raw/Privat/Finanzen/Steuern/ESt 2025.md`, Status: in-vorb
 
 **Geschätztes zvE 2025:** ~30.000–35.000 €
 
-> **Hinweis zu Doctolib:** Das Quelldokument weist Doctolib ausdrücklich mit 0 € für 2025 aus und bestätigt damit, dass das Arbeitsverhältnis erst im Januar 2026 begann. Dies stimmt mit den Entitätsdaten in [[Doctolib 2026]] überein.
+---
 
 ## Pflichtveranlagung
 
 → **§46 EStG:** Pflichtveranlagung wegen ALG I > 410 €
 
-Mit ~8.400 € erhaltenem ALG I wird die Grenze von 410 € deutlich überschritten. Die Abgabe der Steuererklärung ist **verpflichtend**, nicht freiwillig. Zur vollständigen gesetzlichen Analyse siehe [[ALG I Progressionsvorbehalt]].
+Das ALG I von ~8.400 € überschreitet die Freigrenze von 410 €/Jahr deutlich — die Abgabe der Steuererklärung ist damit **verpflichtend**, keine Kür.
 
-## Checkliste Unterlagen
+---
 
-| Dokument | Quelle | Frist |
+## Unterlagen-Checkliste (aus Quelldokument)
+
+| Unterlage | Deadline | Priorität |
 |---|---|---|
-| Wagglz Lohnsteuerbescheinigung 2025 | SP STB anfragen | 📅 2026-06-30 |
-| ALG-I-Bescheinigung | Bundesagentur für Arbeit | 📅 2026-06-30 |
-| HEK / Barmenia KV-Nachweise | HEK + Barmenia | 📅 2026-06-30 |
-| Rentenversicherungsnachweis | DRV | 📅 2026-06-30 |
-| Spendenquittungen / Werbungskosten | Oleg | 📅 2026-06-30 |
-| Vollständigkeitserklärung SP STB unterschreiben | SP STB | 🔺 📅 2026-06-20 |
+| Wagglz Lohnsteuerbescheinigung 2025 (bei SP STB anfragen) | 2026-06-30 | normal |
+| ALG-I-Bescheinigung (Bundesagentur für Arbeit) | 2026-06-30 | normal |
+| HEK / Barmenia KV-Nachweise | 2026-06-30 | normal |
+| Rentenversicherungsnachweis | 2026-06-30 | normal |
+| Spendenquittungen / Werbungskosten | 2026-06-30 | normal |
+| Vollständigkeitserklärung SP STB unterschreiben | **2026-06-20** | 🔺 Hoch |
 
-> ⚠️ **Priorität:** Die Vollständigkeitserklärung für [[SP STB]] ist bis zum **2026-06-20** fällig — früher als alle anderen Unterlagen (2026-06-30). Dies ist als hochpriorisierte Aufgabe (🔺) markiert und wurde im Quelldokument unter [[P0 Sofort]] aufgeführt.
+> ⚠️ **Kritische Deadline:** Die Vollständigkeitserklärung bei [[SP STB]] ist bis **2026-06-20** zu unterschreiben — dies ist die dringlichste Einzelaufgabe in der ESt-2025-Vorbereitung.
 
-## Kontext KV-Nachweise
-
-Die Checkliste enthält **HEK / Barmenia KV-Nachweise** — dies bestätigt, dass sowohl [[HEK]] als auch [[Barmenia]] relevante KV-Anbieter für das Steuerjahr 2025 sind. Ihre Beitragsbescheinigungen sind als Sonderausgaben abzugsfähig und müssen in der Anlage Vorsorgeaufwand angegeben werden.
+---
 
 ## Erwartetes Ergebnis
 
-- **Keine Nachzahlung erwartet** — die Lohnsteuer wurde korrekt über [[SP STB]] einbehalten
-- **Mögliche kleine Erstattung** denkbar (insbesondere wenn Werbungskosten oder Sonderausgaben das zu versteuernde Einkommen mindern)
-- **ALG I Progressionsvorbehalt** könnte zu einer leichten steuerlichen Mehrbelastung führen (konsistent mit der Analyse in [[ALG I Progressionsvorbehalt]], die eine Mehrbelastung von ~2.000 € ausweist)
+- **Keine Nachzahlung erwartet** — Lohnsteuer wurde korrekt abgeführt
+- **Mögliche kleine Erstattung** — je nach absetzbaren Posten (Werbungskosten, Sonderausgaben)
+- **ALG I Progressionsvorbehalt** könnte eine **leichte Steuermehrbelastung** erzeugen — dies ist die wichtigste Unsicherheitsvariable
 
-> ⚠️ **Scheinbarer Widerspruch:** Das Quelldokument stellt gleichzeitig fest, dass „keine Nachzahlung erwartet" wird, und weist darauf hin, dass der Progressionsvorbehalt „eine leichte Steuermehrbelastung erzeugen könnte." Dies ist kein Widerspruch — es bedeutet, dass die bereits einbehaltene Lohnsteuer möglicherweise konservativ genug angesetzt wurde, um die Mehrbelastung durch den Progressionsvorbehalt aufzufangen. Das Nettoergebnis (Erstattung oder Nachzahlung) hängt von der tatsächlich einbehaltenen Lohnsteuer ab, die die Lohnsteuerbescheinigung bestätigen wird.
+---
 
-## Verknüpfungen (quelldokumentinterne Links)
+## Interne Verlinkungen (aus Quelldokument)
 
-Das Quelldokument verweist auf:
-- [[ALG I Progressionsvorbehalt]]
-- [[Wagglz GF-Gehalt 2025]]
-- P0 Sofort — Vollständigkeitserklärung (Prioritätsaufgabe)
-- P1 Diese Woche — Unterlagen sammeln
+Das Quelldokument verweist intern auf:
+- [[ALG I Progressionsvorbehalt]] — für den Berechnungsmechanismus
+- [[Wagglz GF-Gehalt 2025]] — primäre steuerpflichtige Einnahme
+- P0 Sofort / [[P1 Diese Woche]] — Aufgabenlisten-Einordnung
 
-## Konsistenz mit dem bestehenden Wiki
+---
 
-Diese Quelle ist **vollständig konsistent** mit den bestehenden Wiki-Seiten:
+## Bestehende Wiki-Abdeckung
 
-| Sachverhalt | Dieses Quelldokument | Bestehendes Wiki |
-|---|---|---|
-| ALG-I-Betrag | ~8.400 € | [[ALG I 2025]]: ~8.400 € ✅ |
-| ALG-I-Zeitraum | bis Jun 2025 | [[ALG I 2025]]: bis ca. Juni 2025 ✅ |
-| §46 EStG Auslöser | ALG I > 410 € | [[ALG I Progressionsvorbehalt]]: identisch ✅ |
-| §32b EStG Mechanismus | Progressionsvorbehalt | [[ALG I Progressionsvorbehalt]]: identisch ✅ |
-| Wagglz GF-Gehalt | ~30.000 € | [[Wagglz GF-Gehalt 2025]]: konsistent ✅ |
-| KV-Anbieter | HEK + Barmenia | [[Barmenia]] + [[HEK]]: konsistent ✅ |
+| Thema | Status |
+|---|---|
+| ALG I Fakten | ✅ vollständig — [[ALG I 2025]], [[ALG I 2025 Source Detail]] |
+| Progressionsvorbehalt | ✅ vollständig — [[ALG I Progressionsvorbehalt]], [[ALG I Progressionsvorbehalt Source Detail]] |
+| Wagglz GF-Gehalt | ✅ vorhanden — [[Wagglz GF-Gehalt 2025]] |
+| Doctolib 2026 | ⚠️ Neue Verlinkung — Entität noch nicht erstellt (0 € für 2025, erst ab 2026 relevant) |
+| SP STB | ✅ vorhanden — [[SP STB]] |
+| HEK | ✅ vorhanden — [[HEK]] |
+| Barmenia | ✅ vorhanden — [[Barmenia]] |
 
-Keine Widersprüche festgestellt.
+---
 
 ## Verwandte Seiten
 
-- [[ESt 2025]] — Entitätsseite
-- [[ALG I 2025]] — ALG-I-Einkommensposition
-- [[ALG I Progressionsvorbehalt]] — steuerlicher Mechanismus
-- [[Wagglz GF-Gehalt 2025]] — primäres zu versteuerndes Einkommen
-- [[Doctolib 2026]] — für 2025 mit 0 € bestätigt
-- [[SP STB]] — Steuerberater, der die Erklärung erstellt
-- [[HEK]] — KV-Anbieter, KV-Nachweis erforderlich
-- [[Barmenia]] — KV-Anbieter, KV-Nachweis erforderlich
+- [[ESt 2025]] — Entitätsseite (Gesamtübersicht)
+- [[ALG I 2025]] — ALG-I-Bezug als Einnahmequelle
+- [[ALG I Progressionsvorbehalt]] — Steuermechanismus
+- [[Wagglz GF-Gehalt 2025]] — primäre steuerpflichtige Einnahme
+- [[SP STB]] — Steuerberater (Vollständigkeitserklärung bis 2026-06-20)
+- [[HEK]] — KV-Anbieter (Nachweis bis 2026-06-30)
+- [[Barmenia]] — KV-Anbieter (Nachweis bis 2026-06-30)
 - [[MOC Finanzen]] — übergeordnete Finanz-MOC
 - [[Oleg Personal Context]] — Steuerpflichtiger

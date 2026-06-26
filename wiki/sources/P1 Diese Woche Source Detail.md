@@ -1,95 +1,115 @@
 ---
-title: P1 Diese Woche Source Detail
+title: "P1 Diese Woche — Quelldokument-Detail"
 type: source
-tags: [aufgaben, P1, finanzen, steuern, wagglz, fixkosten, 2026]
-sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md"]
+tags: [aufgaben, P1, wichtig, est-2025, wagglz, fixkosten, wochenziele, 2026-06]
+sources: ["raw/Finanzdaten/Obsidian_Vault/Aufgaben/P1 Diese Woche.md"]
 created: 2026-06-12
-updated: 2026-06-12
-summary: "Quelldokument für Olegs P1-Aufgabenliste (diese Woche) — drei Prioritätsmaßnahmen: ESt-2025-Belegsammlung, Wagglz-Strategieentscheidung und Überprüfung der Fixkostenoptimierung"
+updated: 2026-06-20
+summary: P1-Aufgabenliste für die laufende Woche (aktualisiert 2026-06-12) — drei Priorität-1-Aufgaben mit Deadlines bis 2026-06-30 bzw. 2026-07-01: ESt-2025-Unterlagen sammeln, Wagglz-Strategieentscheidung, Fixkosten-Optimierung; alle offen
 ---
 
-# P1 – Diese Woche (Source Detail)
+# P1 – Diese Woche — Quelldokument-Detail
 
 ## Übersicht
 
-Dieses Quelldokument (Priorität: P1, aktualisiert: 2026-06-12) erfasst die Aufgaben mit höchster Priorität von [[Oleg Personal Context|Oleg]] für die aktuelle Woche im Bereich Finanzen. Es sind drei Punkte aufgeführt, alle mit Fristen Ende Juni / Anfang Juli 2026.
-
-> Zum Kontext der einzelnen Punkte siehe: [[ESt 2025]], [[Wagglz GmbH]], [[Fixkosten Übersicht]].
+Dieses Quelldokument (`raw/Finanzdaten/Obsidian_Vault/Aufgaben/P1 Diese Woche.md`, aktualisiert: 2026-06-12) enthält die drei wichtigsten Priorität-1-Aufgaben der laufenden Woche für [[Oleg Personal Context|Oleg]]. Alle drei Aufgaben sind offen und haben kurzfristige Deadlines.
 
 ---
 
-## Aufgaben
+## Aufgabe 1 — ESt 2025 Unterlagen sammeln & an SP STB schicken
 
-### 1. ESt 2025 Unterlagen sammeln & an SP STB schicken
-- **Fälligkeit:** 2026-06-30 ⏫
-- **Status:** ☐ Offen
-- **Benötigte Unterlagen:**
-  - Wagglz Lohnsteuerbescheinigung 2025 — **noch nicht vorhanden → bei STB anfragen**
-  - ALG-I-Bescheinigung Bundesagentur (siehe [[ALG I 2025]])
-  - KV-Nachweise: [[HEK]] und [[Barmenia]]
-  - Rentenversicherungsnachweis
-  - Spendenquittungen / Werbungskosten-Belege
-- **Verknüpft:** [[ESt 2025]]
+- **Deadline:** 2026-06-30 ⏫
+- **Status:** Offen (☐)
+- **Verknüpfte Entität:** [[ESt 2025]]
 
-> ⚠️ **Hinweis:** Die Wagglz Lohnsteuerbescheinigung 2025 liegt Stand 2026-06-12 noch nicht vor. Oleg muss sie direkt beim [[SP STB]] anfordern. Dies stimmt mit [[Wagglz GF-Gehalt 2025 Source Detail]] überein, das zwar die Gehaltsdaten für 2025 enthält, die Bescheinigung aber möglicherweise noch nicht erstellt hat.
+### Benötigte Unterlagen
 
-### 2. Wagglz – Strategieentscheidung treffen
-- **Fälligkeit:** 2026-07-01 ⏫
-- **Status:** ☐ Offen
-- **Kontext:** Kein Umsatz seit Januar 2026
-- **Optionen:**
-  - Weiterführen (mit Konzept)
-  - Auflösung
-- **Steuerliche Relevanz der Auflösung:** §17 EStG Verlust steuerlich nutzbar
-- **Laufende Kosten:** ~120–255 €/Monat via [[Oleg-Darlehen]] (persönliches Darlehen von Oleg an die Gesellschaft)
-- **Verknüpft:** [[Wagglz GmbH]]
+| Dokument | Status / Hinweis |
+|---|---|
+| Wagglz Lohnsteuerbescheinigung 2025 | Noch nicht vorhanden → bei [[SP STB]] anfragen |
+| ALG-I-Bescheinigung (Bundesagentur für Arbeit) | Anzufordern |
+| KV-Nachweise [[HEK]] | Anzufordern |
+| KV-Nachweise [[Barmenia]] | Anzufordern |
+| Rentenversicherungsnachweis | Anzufordern |
+| Spendenquittungen / Werbungskosten-Belege | Zu sammeln |
 
-### 3. Fixkosten-Optimierung prüfen
-- **Fälligkeit:** 2026-07-01
-- **Status:** ☐ Offen
-- **Zu prüfende Posten:**
-  - Apple-Abos ~45 €/Monat (Nutzungsprüfung)
-  - YouTube Premium 23,99 €/Monat
-  - Uelzener Tierversicherung 132,48 €/Monat — Alternative prüfen
-- **Aktuelle Situation:** 61 % des Netto-Gehalts in Fixkosten
-- **Verknüpft:** [[Fixkosten Übersicht]]
+> ⚠️ **Hinweis:** Die Wagglz Lohnsteuerbescheinigung 2025 liegt noch nicht vor. Oleg muss diese bei [[SP STB]] anfordern.
 
 ---
 
-## Extrahierte Kerndaten
+## Aufgabe 2 — Wagglz Strategieentscheidung treffen
 
-| Posten | Wert | Hinweis |
+- **Deadline:** 2026-07-01 ⏫
+- **Status:** Offen (☐)
+- **Verknüpfte Entität:** [[Wagglz GmbH]]
+
+### Kontext
+
+| Parameter | Detail |
+|---|---|
+| Umsatzsituation | Kein Umsatz seit Januar 2026 |
+| Optionen | Weiterführen (mit neuem Konzept) **oder** Auflösung |
+| Bei Auflösung | §17 EStG Verlust steuerlich nutzbar |
+| Laufende Kosten | ~120–255 €/Monat via [[Oleg-Darlehen]] |
+
+### Steuerliche Relevanz einer Auflösung
+
+Ein **§17 EStG-Verlust** entsteht, wenn Oleg als GmbH-Gesellschafter Anteile mit Verlust veräußert oder die GmbH aufgelöst wird. Dieser Verlust ist anteilig (60 %) nach dem Teileinkünfteverfahren steuerlich absetzbar.
+
+> ⚠️ **Offene Fragen:**
+> - Wie hoch sind die Anschaffungskosten der Wagglz-Anteile (inkl. Stammkapital und Gesellschafterdarlehen)?
+> - Welche Verbindlichkeiten bestehen bei Auflösung?
+> - Welcher Steuervorteil ergibt sich konkret aus §17 EStG?
+
+---
+
+## Aufgabe 3 — Fixkosten-Optimierung prüfen
+
+- **Deadline:** 2026-07-01
+- **Status:** Offen (☐)
+- **Verknüpfte Entität:** [[Fixkosten Übersicht]]
+
+### Spezifische Optimierungspotenziale
+
+| Ausgabe | Monatsbetrag | Maßnahme |
 |---|---|---|
-| Wagglz Umsatz seit Jan. 2026 | 0 € | Kein Umsatz |
-| Wagglz laufende Kosten (Oleg-Darlehen) | ~120–255 €/Monat | Monatlicher Cashflow-Abfluss |
-| Apple Abos | ~45 €/Monat | Nutzung unklar |
-| YouTube Premium | 23,99 €/Monat | |
-| Uelzener Tierversicherung | 132,48 €/Monat | Größter diskretionärer Fixkostenposten |
-| Fixkosten in % des Netto | **61 %** | Hoch — Optimierung erforderlich |
+| Apple-Abos | ~45 €/Mo | Prüfen: Was wird wirklich genutzt? |
+| YouTube Premium | 23,99 €/Mo | Notwendigkeit prüfen |
+| [[Uelzener Tierversicherung]] | 132,48 €/Mo | Alternative Anbieter prüfen |
+
+### Gesamtkontext
+
+> **Aktuell: 61 % des Netto-Gehalts in Fixkosten** — dies ist der auslösende Kontext für die Prüfung.
+
+Fixkostenquote von 61 % des Nettolohns ist hoch. Ohne Wagglz-Gehalt (falls GmbH aufgelöst) wäre die Situation kritisch.
 
 ---
 
-## Bezug zu bestehenden Wiki-Seiten
+## Verbindungen zu anderen Aufgaben-Ebenen
 
-### ESt 2025
-Die Aufgabe löst direkt den [[ESt 2025]]-Workflow aus. Wichtige Ergänzung aus dieser Quelle: Die Wagglz Lohnsteuerbescheinigung 2025 liegt **noch nicht vor**, und Oleg muss sie anfordern. Dies ist weder auf der bestehenden [[ESt 2025]]- noch auf der [[Wagglz GF-Gehalt 2025 Source Detail]]-Seite erfasst.
+Dieses Dokument listet ausschließlich P1-Aufgaben (höchste Priorität, diese Woche). Verwandte P2-Aufgaben (diesen Monat) finden sich in [[P2 Diesen Monat Source Detail]].
 
-### Wagglz GmbH
-Die Entscheidungsfrist (2026-07-01) und die Option zur steuerlichen Verlustnutzung nach §17 EStG sind neue Details. Der laufende Kostenrahmen von 120–255 €/Monat über das Oleg-Darlehen bestätigt das fortlaufende Cash-Exposure.
+---
 
-### Fixkosten Übersicht
-Die Fixkostenquote von 61 % sowie die konkreten Einzelposten (Uelzener, Apple, YouTube) sind neue, granulare Daten.
+## Widersprüche / Ergänzungen
+
+- Die [[ESt 2025]]-Entitätsseite ist bereits vorhanden und dokumentiert den Kontext der Steuererklärung umfassend.
+- Die [[Wagglz GmbH]]-Entitätsseite existiert bereits und wird durch diese P1-Quelle um die Strategieentscheidung mit Deadline 2026-07-01 und den §17-EStG-Verlustkontext ergänzt.
+- Die [[Fixkosten Übersicht]]-Seite existiert bereits und wird durch diese Quelle um die konkreten drei Optimierungsziele (Apple, YouTube, Uelzener) sowie die 61 %-Kennzahl ergänzt.
 
 ---
 
 ## Verwandte Seiten
 
-- [[ESt 2025]] — Steuererklärungs-Aufgabe
-- [[SP STB]] — Steuerberater, der die Unterlagen erhält
-- [[ALG I 2025]] — Benötigter Beleg für die ESt 2025
+- [[ESt 2025]] — Steuererklärung 2025 (Aufgabe 1)
+- [[Wagglz GmbH]] — Strategieentscheidung (Aufgabe 2)
+- [[Fixkosten Übersicht]] — Fixkostenoptimierung (Aufgabe 3)
+- [[SP STB]] — Steuerberater (Empfänger der ESt-Unterlagen)
+- [[ALG I 2025]] — Einer der zu beschaffenden Belege
 - [[HEK]] — KV-Nachweis-Anbieter
 - [[Barmenia]] — KV-Nachweis-Anbieter
-- [[Wagglz GmbH]] — Gegenstand der Strategieentscheidung
-- [[Fixkosten Übersicht]] — Gegenstand der Kostenoptimierung
-- [[MOC Finanzen]] — übergeordnete Finanzen-MOC
-- [[Oleg Personal Context]] — Aufgabenverantwortlicher
+- [[Uelzener Tierversicherung]] — Fixkostenposten mit höchstem Optimierungspotenzial
+- [[Oleg-Darlehen]] — Laufende Kosten der Wagglz GmbH
+- [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — Aufgaben-Inhaber
+- [[P2 Diesen Monat Source Detail]] — nachrangige Aufgaben

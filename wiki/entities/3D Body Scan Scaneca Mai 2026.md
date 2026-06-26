@@ -2,10 +2,10 @@
 title: 3D Body Scan Scaneca Mai 2026
 type: entity
 tags: [body-composition, tracking, measurement, assessment, baseline, scaneca, labor-berlin, ffmi, posture, forward-head-posture, whr, bilateral-asymmetry, zone2, hyrox]
-sources: ["raw/00-MOC/MOC Performance & Leben.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Finanzen/Templates/Claude Session – Performance.md", "raw/Privat/Performance/_vault/Körper & Scan.md"]
+sources: ["raw/00-MOC/MOC Performance & Leben.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Finanzen/Templates/Claude Session – Performance.md", "raw/Privat/Performance/_vault/Körper & Scan.md", "raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Konkretes Scaneca-3D-Body-Scan-Event im Mai 2026 bei Labor Berlin, das Olegs Health-Protocol-Baseline etabliert — vollständige Messwerte, Interpretation und Zielwerte inkl. 15–17 % KFA-Ziel (Scan-Dokument) / 14–16 % KFA (Vault-Notiz), WHR-Ziel <0,86, bilaterale Asymmetrie, Einfluss von Forward Head Posture auf die Atmung, Zone 2 als Priorität bei viszeralem Fett
+summary: Konkretes Scaneca-3D-Body-Scan-Event im Mai 2026 bei Labor Berlin, das Olegs Health-Protocol-Baseline etabliert — vollständige Messwerte, Interpretation und Zielwerte inkl. 15–17 % KFA-Ziel (Scan-Dokument) / 14–16 % KFA (zwei unabhängige Vault-Planungsnotizen), WHR-Ziel <0,86, bilaterale Asymmetrie, Einfluss von Forward Head Posture auf die Atmung, Zone 2 als Priorität bei viszeralem Fett
 ---
 
 # 3D Body Scan — Scaneca Mai 2026
@@ -15,9 +15,10 @@ summary: Konkretes Scaneca-3D-Body-Scan-Event im Mai 2026 bei Labor Berlin, das 
 Diese Seite dokumentiert das konkrete Baseline-Assessment, das [[Oleg Personal Context|Oleg]] im Mai 2026 mit Scaneca-Technologie bei Labor Berlin durchgeführt hat. Es ist als **Baseline**-Eintrag im [[MOC Performance und Leben]] gelistet und dient als grundlegender Messpunkt für das [[Health Protocol Master]].
 
 > Zum allgemeinen Konzept der 3D-Body-Scan-Technologie siehe [[3D Body Scan]].
-> Zum Quelldokument mit allen Details siehe [[3D Body Scan Scaneca Mai 2026 Source Detail]].
+> Zum primären Quelldokument mit allen Details siehe [[3D Body Scan Scaneca Mai 2026 Source Detail]].
+> Zur Vault-Planungsnotiz (älterer Pfad) siehe [[Körper und Body Composition Scan Source Detail]].
+> Zur Vault-Planungsnotiz (Finanzdaten-Vault) siehe [[Körper und Body Composition Vault Finanzdaten Source]].
 > Zur Claude-Session-Vorlage, die diese Metriken unabhängig bestätigt, siehe [[Claude Session Template Performance]].
-> Zum strukturellen Vault-Dokument siehe [[Körper und Body Composition Scan Source Detail]].
 
 ## Veranstaltungsdetails
 
@@ -83,16 +84,14 @@ Diese Seite dokumentiert das konkrete Baseline-Assessment, das [[Oleg Personal C
 | Metrik | Ziel | Quelle | Zeitrahmen |
 |---|---|---|---|
 | Körperfett | **15–17 %** | Originales Scan-Dokument | 12–16 Wochen |
-| Körperfett (alternativ) | **14–16 %** | Vault-Planungsnotiz | 12–16 Wochen |
+| Körperfett (alternativ) | **14–16 %** | Zwei unabhängige Vault-Planungsnotizen | 12–16 Wochen |
 | Fettmasse | ~14 kg | Scan-Dokument | — |
-| Magermasse | ≥77 kg (halten) | Scan-Dokument | — |
+| Magermasse | ≥77,1 kg (halten) | Alle Quellen | — |
 | Taille | <90 cm | Scan-Dokument | — |
-| WHR | **<0,86** | [[Claude Session Template Performance]] + Vault-Notiz | 12 Wochen |
-| Gewicht | ~88–90 kg | Vault-Planungsnotiz | individuell |
+| WHR | **<0,86** | [[Claude Session Template Performance]] + Vault-Notizen | 12 Wochen |
+| Gewicht | ~88–90 kg | Vault-Planungsnotizen | individuell |
 
-> ⚠️ **Hinweis zum KFA-Ziel:** Das originale Scan-Dokument gibt **15–17 %** an. Eine nachfolgende Vault-Planungsnotiz gibt **14–16 %** an. Die Bereiche überschneiden sich bei 15–16 %. Der Bereich 15–17 % aus dem Scan-Dokument bleibt das primäre, maßgebliche Ziel; 14–16 % ist als angestrebtes Planungsziel vermerkt.
->
-> ⚠️ **Hinweis zum WHR-Ziel:** Das Ziel <0,86 stammt aus [[Claude Session Template Performance]] und wird in der Vault-Notiz bestätigt.
+> ⚠️ **Hinweis zum KFA-Ziel:** Das originale Scan-Dokument gibt **15–17 %** an. Zwei unabhängige Vault-Planungsnotizen (älterer Pfad `raw/Privat/Performance/_vault/Körper & Scan.md` und Finanzdaten-Vault `raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md`) geben übereinstimmend **14–16 %** an. Die Bereiche überschneiden sich bei 15–16 %. Der Bereich 15–17 % aus dem Scan-Dokument bleibt das primäre, maßgebliche Ziel; 14–16 % ist das ambitioniertere Planungsziel in beiden Vault-Notizen.
 
 ## Prioritätsmaßnahmen aus den strukturellen Befunden
 
@@ -123,10 +122,11 @@ Diese Seite dokumentiert das konkrete Baseline-Assessment, das [[Oleg Personal C
 
 ## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Quelldokument
-- [[Körper und Body Composition Scan Source Detail]] — strukturelles Vault-Dokument
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — primäres Scan-Quelldokument
+- [[Körper und Body Composition Scan Source Detail]] — Vault-Planungsnotiz (älterer Pfad)
+- [[Körper und Body Composition Vault Finanzdaten Source]] — Vault-Planungsnotiz (Finanzdaten-Vault) *(neu)*
 - [[3D Body Scan]] — Methodik und Technologiekonzept
-- [[Claude Session Template Performance]] — Vorlage zur Bestätigung der Metriken + WHR-Ziel und bilaterale Asymmetrie
+- [[Claude Session Template Performance]] — Vorlage zur Bestätigung der Metriken + WHR-Ziel
 - [[Health Protocol Master]] — Protokoll, das diese Baseline verwendet
 - [[MOC Performance und Leben]] — übergeordnete MOC
 - [[Oleg Personal Context]] — Person, die den Scan durchgeführt hat

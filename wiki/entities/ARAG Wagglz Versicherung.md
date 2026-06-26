@@ -1,11 +1,11 @@
 ---
 title: ARAG Wagglz Versicherung
 type: entity
-tags: [versicherung, arag, wagglz, finanzen, kündigung, laufende-kosten, finom]
-sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
+tags: [versicherung, arag, wagglz, finanzen, kündigung, laufende-kosten, finom, P2, 2026]
+sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md", "raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: ARAG-Versicherungsprodukt verknüpft mit der Wagglz GmbH — 100,88 €/Quartal werden seit April 2026 vom Wagglz Finom-Konto abgebucht; Vertrag wird nicht benötigt; Kündigung erforderlich bis 2026-06-30 aufgrund möglicher Schließung der Wagglz GmbH
+summary: ARAG-Versicherungsprodukt verknüpft mit der Wagglz GmbH — 100,88 €/Quartal werden seit April 2026 vom Wagglz Finom-Konto abgebucht; Vertrag wird nicht benötigt; Kündigung erforderlich bis 2026-06-30 aufgrund möglicher Schließung der Wagglz GmbH; zweite Quelle (Finanzdaten-Vault) bestätigt alle Angaben
 ---
 
 # ARAG Wagglz Versicherung
@@ -13,6 +13,8 @@ summary: ARAG-Versicherungsprodukt verknüpft mit der Wagglz GmbH — 100,88 €
 ## Übersicht
 
 **ARAG Wagglz** ist ein ARAG-Versicherungsprodukt, das mit dem Geschäftsbetrieb der [[Wagglz GmbH]] verbunden ist. Seit April 2026 werden 100,88 €/Quartal vom Geschäftskonto [[Wagglz Finom 2026]] abgebucht. Der Vertrag wird nicht benötigt und muss gekündigt werden.
+
+> ✅ Diese Seite wurde durch eine zweite Quelldatei (`raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md`) bestätigt — alle Angaben stimmen überein, keine Widersprüche.
 
 ## Vertragsdetails
 
@@ -41,7 +43,7 @@ summary: ARAG-Versicherungsprodukt verknüpft mit der Wagglz GmbH — 100,88 €
 
 - [[Wagglz GmbH]] — zugehöriges Unternehmen
 - [[Wagglz Finom 2026]] — belastetes Konto
-- [[P2 Diesen Monat Source Detail]] — Aufgabenquelle
+- [[P2 Diesen Monat Source Detail]] — Aufgabenquelle (Finanzdaten-Vault)
 - [[Fixkosten Übersicht]] — Kontext zur Fixkostenoptimierung
 - [[MOC Finanzen]] — übergeordnete Finanz-MOC
 - [[Oleg Personal Context]] — Vertragsinhaber

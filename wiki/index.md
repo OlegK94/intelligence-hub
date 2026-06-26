@@ -1,56 +1,134 @@
 # Wiki Index
 
+> Zuletzt aktualisiert: 2026-06-17
+> Sprache: Deutsch (Fachbegriffe auf Englisch)
+
+---
+
 ## Entities
 
-- [[Aevum Marke]] — Meistempfohlener Markenname für Performance Coffee Brand; Lateinisch „Lebenszeit"; 5-Sterne-EUIPO-IP-Bewertung
-- [[Aidea]] — Priority-4-CMO-Kandidat (Mailand); GMP+Halal-zertifiziert; Sachets/RTD-Spezialisierung
-- [[ALG I 2025]] — Arbeitslosengeld I ~8.400 € bis Juni 2025; Progressionsvorbehalt §32b EStG; Pflichtveranlagung §46 EStG
-- [[ARAG Wagglz Versicherung]] — 100,88 €/Quartal vom Wagglz Finom-Konto; Kündigung bis 2026-06-30
-- [[Amazentis]] — Schweizer Biotech; 50+ Patente + EU Novel Food-Zulassung für Urolithin A (MITOPURE); CHF 56M Series D
-- [[Andy Galpin]] — Ph.D., CSU-Professor, Momentous Scientific Advisor; Muskelphysiologie und Performance
-- [[Apple Passwords]] — Apples nativer Passwortmanager (iOS 18+/macOS 15+); Migrationsziel von Proton Pass
-- [[Arsonists]] — Individualtextilproduktion (Siebdruck, Stick, Konfektion); fashionbrand-Lieferant
-- [[AS Colour]] — Premium-Blanks-Anbieter (Jackets); fashionbrand-Lieferant
-- [[Allianz Versicherungskonsolidierung]] — 3 Policen zu Allianz für 20% Mitarbeiterrabatt; Risikolebensversicherung ausgeschlossen
-- [[3D Body Scan Scaneca Mai 2026]] — Baseline-Scan 29.05.2026, Labor Berlin; KFA 20,3%, WHR 0,92, FFMI 21,3
-- [[ALG I 2025]] — ALG I ~8.400 € bis Juni 2025; §32b EStG Progressionsvorbehalt
-- [[Barmenia]] — KV-Zusatz 33 €/Monat; einer von zwei KV-Anbietern für ESt 2025
-- [[Blutbild Panel]] — 24-Marker-Blutbiomarker-Panel; 4× quartalsweise; ApoB muss separat angefordert werden
-- [[Blueprint von Bryan Johnson]] — Longevity-Supplement-Brand; kein Kaffeeprodukt; White Space für Performance Coffee Brand
-- [[Brandon McDaniel]] — MLB VP of Player Performance; Momentous Scientific Advisor
-- [[Performance Coffee Brand]] — Functional Coffee + Longevity-Stack-Projekt; Sachet-Format; DACH-Markt
-- [[Kölner Liste]] — Deutschlands Athleten-Supplement-Standard; ~1.400 WADA-Substanzen; 1.500–2.500 €/SKU; MVP-Priorität
-- [[Informed Sport]] — Pan-europäischer Zertifizierungsstandard (LGC Group); Batch-Testing; 3.000–6.000 € Setup
-- [[NSF Certified for Sport]] — US-Goldstandard; Pflicht für US-Profisportler; öffnet Amazon US; 5.000–10.000 €
-- [[NEM-Konformität Performance Coffee]] — Pflichtprüfungen vor Launch: LMIV, Novel Food, Nährwertdeklaration, Verkehrsbezeichnung
+### Personen & Profile
+- [[Oleg Personal Context]] — Zentrales Profil; Unternehmer, Athlet, Projektverantwortlicher
+- [[Andrew Huberman]] — Stanford-Neurowissenschaftler; Huberman Lab Podcast; evidenzbasierte Protokolle
+- [[Andy Galpin]] — Ph.D., CSU-Professor, Momentous Scientific Advisor; Kraft- und Ausdauer-Experte
+- [[Bryan Johnson]] — Biohacker, Blueprint-Protokoll; Longevity-Referenz
+- [[Jeff Cavaliere]] — Trainingsexperte; Verletzungsprävention; korrekturbasiertes Training
+- [[Rhonda Patrick]] — Biochemikerin; Vitalitätsprotokolle; Supplement-Forschung
+
+### Unternehmen & Organisationen
+- [[Wagglz GmbH]] — Olegs GmbH; Hauptgeschäftseinheit 2025
+- [[Wufflz]] — B2B-Tierpflege-Plattform; Subprojekt von Wagglz GmbH
+- [[Amazentis]] — Schweizer Biotech; Urolithin-A-IP (MITOPURE); CHF 56M Series D 2024
+- [[Timeline Nutrition]] — Amazentis-Verbrauchermarke; B2B-Kontakt bd@timeline.as
+- [[Chromadex / Niagen Bioscience]] — IP-Inhaber NR/NIAGEN; zweiter IP-Blocker für Performance Coffee
+- [[Aidea]] — Priority-4-CMO-Kandidat; Mailand; funktionelle Getränke + Sachets; GMP + Halal
+- [[Prinova]] — Priority-1-CMO-Kandidat; Düsseldorf; functional ingredients
+- [[Lehvoss Nutrition]] — Priority-2-CMO-Kandidat; Hamburg; Custom Formulation
+- [[Nutri-Epitech]] — Priority-3-CMO-Kandidat; Italien; Longevity-Stack-Erfahrung
+- [[Herbafit]] — Priority-5-CMO-Kandidat; Deutschland; Pulver-Sachets; IFS Food
+
+### Versicherungen & Finanzen-Entities
+- [[ARAG Wagglz Versicherung]] — 100,88 €/Quartal; Wagglz Finom; Kündigung bis 2026-06-30
+- [[Allianz Insurance Consolidation]] — 5-Policen-Schwelle für 20% Rabatt; 3 Policen wechseln; RLV bleibt
+- [[Barmenia]] — KV-Zusatz 33 €/Mo; Ko-KV-Anbieter ESt 2025
+- [[Apple Passwords]] — Nativer Passwortmanager iOS 18/macOS 15; Migrationsziel von Proton Pass
+
+### Performance & Health Entities
+- [[3D Body Scan Scaneca Mai 2026]] — Baseline-Scan 29.05.2026; Labor Berlin; KFA 20,3%; FFMI 21,3; WHR 0,92
+- [[Hyrox Competition]] — Funktionelles Fitness-Wettkampfformat; Verletzungsrisikokontext
+
+### Steuern & Einnahmen-Entities
+- [[ALG I 2025]] — ~8.400 €; bis Juni 2025; §32b EStG Progressionsvorbehalt; §46 EStG Pflichtveranlagung
+- [[Wagglz GF-Gehalt 2025]] — ~30.000 €; Lohnsteuer via STB; Kerneinnahme ESt 2025
+- [[ESt 2025]] — Einkommensteuer 2025; zvE ~30.000–35.000 €; Pflichtveranlagung; Erstattung möglich
+
+### Fashion & Brand Entities
+- [[AS Colour]] — Premium-Blanks; Jackets; ascolour.eu; MOQ zu prüfen
+- [[Arsonists]] — Custom textile production; Siebdruck, Stick, Konfektion; arsonists.de
+- [[Stanley Stella]] — Sustainable Blanks; Fair Trade; höherer Preis
+- [[Mr. Socks]] — Accessories-Lieferant Fashion Brand
+- [[Mended]] — Brand-Plattform Fashion Brand-Projekt
+- [[Aevum Brand]] — Meistempfohlener Name für Performance Coffee Brand; Lateinisch „Lebenszeit"; ⭐⭐⭐⭐⭐ IP
+
+### Performance Coffee Entities
+- [[Performance Coffee Brand]] — Funktioneller Kaffee + Longevity-Stack; DACH-Markt; Sachet-Format
+- [[Performance Coffee Brand Naming]] — Naming-Brief Modul 7; 15 Kandidaten; Aevum empfohlen
+
+### Supplement Entities
+- [[Alpha-GPC]] — Cholinverbindung; Pre-Workout-Fokus; Acetylcholin-Vorläufer
+- [[Ashwagandha KSM-66]] — 300mg; Cortisolreduktion; Tier-1-Stack Performance Coffee
+- [[Momentous]] — Premium-Supplement-Marke; Huberman-Advisor-backed
+
+---
 
 ## Concepts
 
-- [[3D Körperscan]] — Fortgeschrittene Körperzusammensetzungsanalyse; Scaneca-Basisdaten; Follow-up-Protokoll
-- [[ALG I Progressionsvorbehalt]] — §32b EStG; ALG I steuerfrei aber erhöht Steuersatz; ~2.000 € Mehrbelastung
-- [[Alpha-GPC]] — Cholinverbindung; kognitive Verbesserung; Pre-Workout; zusammen mit L-Tyrosine
-- [[Apigenin]] — Pflanzliches Flavonoid (Kamille); Momentous Expert Stack; Huberman-Schlaf-Cocktail
-- [[Ashwagandha KSM-66]] — Markengebundener Extrakt 300mg; Cortisolreduktion; Synergie mit Kaffee
-- [[Biomarker Testing]] — Systematisches Blut-Biomarker-Testing; longevity-optimierte Referenzbereiche
-- [[BMR und TDEE]] — BMR 2.113 kcal, TDEE ~3.645 kcal; Kalorienziel 2.800 kcal; Defizit 845 kcal
-- [[Brick Training]] — Zwei Modalitäten ohne Pause; Übergangstraining; Hyrox-Vorbereitung
-- [[EFSA Health Claims]] — Zugelassene vs. verbotene Claims; Kreatin → Muskelleistung; kein „Anti-Aging"
-- [[NEM-Konformität]] — Nahrungsergänzungsmittel-Recht; LMIV; EU-Verordnung 1169/2011; Novel Food
+### Steuern & Recht
+- [[ALG I Progressionsvorbehalt]] — §32b EStG; ALG I erhöht Steuersatz; ~2.000 € Mehrbelastung 2025
+- [[EU Novel Food Regulation]] — Regulatorischer Rahmen für neuartige Lebensmittel in der EU
+
+### Gesundheit & Performance
+- [[3D Body Scan]] — 3D-Scantechnologie; Körperzusammensetzungsanalyse; Scaneca-Protokoll
+- [[Biomarker Testing]] — 24 Marker quartalsweise; longevity-optimierte Referenzbereiche; ApoB Priorität 1
+- [[BMR and TDEE]] — Basalstoffwechsel 2.113 kcal; TDEE ~3.645 kcal; Ziel 2.800 kcal; 845 kcal Defizit
+- [[Forward Head Posture]] — 30° Abweichung; Atemkapazität; Korrekturprotokoll
+- [[Corrective Exercise]] — Bilateral-Asymmetrie; funktionelle Schwäche; Verletzungsprävention
+- [[Zone 2 Training]] — Prioritäts-Cardio; viszerales Fett; WHR-Reduktion
+- [[FFMI]] — Fat-Free Mass Index; 21,3 (Olegs Baseline); Natural-Athlet-Referenzwert
+- [[Sleep Optimization]] — Zirkadiane Protokolle; Huberman-Framework
+
+### Supplements
+- [[Apigenin]] — Pflanzliches Flavonoid; Kamille; Einschlafförderung; Momentous
+- [[Arabica Kaffee]] — Coffea arabica; 1,1–1,7% Koffein; Geschmack; Specialty-Positionierung
+- [[B-Vitamine Performance Coffee]] — B6, B12, B5; NRV; EU Health Claims; Pflicht-Ergänzung
+- [[Urolithin A]] — Longevity-Zutat; Mitophagie; Amazentis-IP; Granatapfelextrakt-Alternative
+
+### Business & Design
+- [[Figma Index Wagglz]] — Master-Index aller Figma-Dateien Wagglz
+
+---
 
 ## Sources
 
-- [[3D Body Scan Scaneca Mai 2026 Quelldokument Detail]] — Primäres Messdokument Scaneca-Scan 29.05.2026
-- [[ALG I 2025 Quelldokument-Detail]] — ALG I ~8.400 €; §32b EStG; §46 EStG; Bescheinigung erforderlich
-- [[ALG I Progressionsvorbehalt Quellendetail]] — §32b EStG mit 2025-Rechenbeispiel; 30.000 € Basis; ~2.000 € Mehrbelastung
-- [[Allianz Versicherungskonsolidierung Detailquelle]] — 5-Policen-Schwelle; 3 zu wechselnde Policen; RLV ausgeschlossen
-- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Operatives Planungsdokument aus aktuellem Vault-Pfad
-- [[Andrew Huberman]] — Stanford-Neurowissenschaftler; Huberman Lab Podcast; evidenzbasierte Protokolle
-- [[Zertifizierungs-Roadmap Performance Coffee]] — 3-Stufen-Zertifizierungsplan (Kölner Liste → Informed Sport → NSF); NEM-Konformität
+### Steuern
+- [[ESt 2025 Source Detail]] — Raw-Quelldokument ESt 2025; Checkliste, zvE, Pflichtveranlagung
+- [[ALG I 2025 Source Detail]] — Zwei Vault-Pfade bestätigt; ~8.400 €; §32b + §46 EStG
+- [[ALG I Progressionsvorbehalt Source Detail]] — Berechnungsbeispiel 30.000 € Basis; ~2.000 € Mehrbelastung
+
+### Finanzen
+- [[Allianz Insurance Consolidation Detail]] — Quelldokument; offene Checkboxen; 2026-04-25
+- [[Allianz Versicherungskonsolidierung Privat Source Detail]] — Privat-Vault-Pfad; bestätigt Strategie
+
+### Performance & Health
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Primäres Scan-Dokument; alle Messwerte; Ziele 15–17% KFA
+- [[Andrew Huberman]] (Source) — Kanalweite Referenz; YouTube @hubermanlab
+
+### Design & Figma
+- [[25 B2B Software Figma Manifest]] — File Key NO7zf85jnhjIcJ13QGyESY; product/; ausstehend; 0 Frames
+- [[25 Wufflz Wireframes Figma Manifest]] — File Key 7RI3XqEc3RR6znirkakZcm; 18 Frames; B2B Account-Creation + Kalender
+- [[Ant Design System for Figma Preview]] — Drittanbieter-UI-Kit; kits/; niedrige Priorität; Referenz
+- [[Wagglz Wufflz Design README]] — Übergeordnetes README-Quelldokument
+
+### Business & Suppliers
+- [[Fashion Brand Suppliers Source Detail]] — Lieferantenliste Fashion Brand-Projekt
+
+### Performance Coffee
+- [[Performance Cafe Naming Brief]] — Modul 7; 15 Kandidaten; Aevum empfohlen
+- [[Performance Cafe Supplier List]] — CMO-Kandidaten; Priorisierungsliste
+
+---
 
 ## Syntheses
 
-*(noch keine Synthese-Seiten)*
+- [[Health Protocol Master]] — Master-Protokoll; Tagesstruktur; Supplement-Timing; Ernährung; Training
+- [[MOC Finanzen]] — Übergeordnete Finanz-MOC
+- [[MOC Performance und Leben]] — Übergeordnete Performance-MOC
+- [[MOC Strategie und Business]] — Übergeordnete Business-MOC
+
+---
 
 ## Comparisons
 
-*(noch keine Vergleichsseiten)*
+- [[Robusta vs Arabica Vergleich]] — Direktvergleich Kaffeebohnen; Performance-Positionierung
+- [[CMO Sourcing Performance Coffee]] — 5 CMO-Kandidaten im Vergleich; Priorisierungsrahmen
+- [[IP Risk Matrix Performance Café]] — Konsolidierte Risikobewertung für Longevity-Zutaten

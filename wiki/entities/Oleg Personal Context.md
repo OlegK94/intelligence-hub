@@ -1,50 +1,94 @@
 ---
-title: Oleg Personal Context
+title: "Oleg Personal Context"
 type: entity
-tags: [oleg, berlin, doctolib, hyrox, performance, biohacker, blueprint, longevity, performance-cafe, founder, sales, koerper-baseline, 188cm, 96kg, 20pct-kfa]
-sources: ["raw/Business/PerformanceCafe/CLAUDE.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Finanzen/Templates/Claude Session – Performance.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/00-MOC/🏠 Home.md"]
-created: 2026-06-06
-updated: 2026-06-15
-summary: Oleg Kober — Hauptperson des Wikis; lebt in Berlin; Sales bei Doctolib GmbH; Hyrox-Athlet (aerobe Kapazität als Hauptlimiter); Gründer Performance Coffee Brand; Körper-Baseline Mai 2026: 188cm, 96,7kg, 20,3% KFA, FFMI 21,3; Referenzrahmen Bryan Johnson, Huberman Lab, Peter Attia
+tags: [person, oleg-kober, berlin, doctolib, wagglz, ok-capital, finanzen, performance, rehabilitationsplan, sales, gf]
+sources: ["raw/Finanzdaten/ObsidianVault/Templates/Claude Session – Finanzen.md", "raw/Privat/Finanzen/Templates/Claude Session – Performance.md", "raw/00-MOC/🏠 Home.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
+created: 2026-06-13
+updated: 2026-06-13
+summary: Zentrales Personenprofil — Oleg Kober, 32, Berlin; Sales bei Doctolib GmbH; Netto-Fixgehalt 3.638,82 €/Mo + Quartals-Provision ~4.611 €; strukturelles Jahresdefizit −7.970 €; GF Wagglz GmbH und OK Capital UG (keine Rückflüsse, ~8.000 €/Jahr Belastung); aktiver Rehabilitationsplan Phase 1/2; Baseline-Scan 20,3% KFA, WHR 0,92
 ---
 
-# Oleg — Persönlicher Kontext
+# Oleg Personal Context
 
-## Überblick
+## Personendaten
 
-**Oleg Kober** ist die Hauptperson dieses Wikis. Er lebt in **Berlin** und ist im Sales bei der **Doctolib GmbH** tätig. Parallel dazu entwickelt er die [[Performance Coffee Brand]] als Startup-Projekt.
-
----
-
-## Beruflicher Kontext
-
-| Parameter | Details |
+| Parameter | Wert |
 |---|---|
 | **Name** | Oleg Kober |
+| **Alter** | 32 Jahre |
 | **Wohnort** | Berlin |
-| **Beruf** | Sales, Doctolib GmbH |
-| **Startup** | [[Performance Coffee Brand]] (Functional Coffee + Longevity Stack) |
+| **Arbeitgeber** | Doctolib GmbH |
+| **Rolle** | Sales |
 
 ---
 
-## Körper-Baseline (Mai 2026)
+## Finanzen — Privatbereich
 
-Quelle: [[3D Body Scan Scaneca Mai 2026]] (29.05.2026, Labor Berlin)
+### Einnahmen
+
+| Quelle | Betrag | Rhythmus |
+|---|---|---|
+| Netto-Fixgehalt (Doctolib) | 3.638,82 € | Monatlich |
+| Quartals-Provision | ~4.611 € netto | Jan / Apr / Jul / Okt |
+
+### Kontostand & Vermögen
+
+| Parameter | Wert |
+|---|---|
+| Kontostand | −1.405 € (Dispo) |
+| Ersparnisse | 1,10 € |
+| Depot / Investments | keines |
+| **Strukturelles Jahresdefizit** | **−7.970 €** |
+
+### Laufende Verbindlichkeiten
+
+| Posten | €/Mo | Details |
+|---|---|---|
+| VW-Bank Kredit | 681,57 € | Laufzeit bis 11/2028; ursprgl. Crypto-Investment → Wagglz geflossen |
+| Kieferorthopädie (Dr. Wiemann) | 176,53 € | Laufend |
+| Gesellschafterdarlehen | ~357 € | Privat → Unternehmen |
+
+---
+
+## Finanzen — Unternehmen
+
+| Unternehmen | Rolle | Jahresbelastung | Rückflüsse |
+|---|---|---|---|
+| [[Wagglz GmbH]] | Geschäftsführer | ~5.000 € (Jahresabschlüsse) | keine |
+| [[OK Capital UG]] | Geschäftsführer | ~5.000 € (Jahresabschlüsse) | keine |
+| **Gesamt** | — | **~8.000 €/Jahr** | **keine** |
+
+> **Kontext:** Der VW-Bank-Kredit (681,57 €/Mo) wurde ursprünglich für ein Crypto-Investment aufgenommen und ist in Wagglz geflossen — eine direkte Verbindung zwischen Privatverschuldung und Unternehmensengagement.
+
+---
+
+## Rehabilitationsplan
+
+- **Phase 1:** Stabilisierung (aktiv)
+- **Phase 2:** Juli-Reset (geplant)
+- **Schlüssel-Hebel:** Provisions-Allokation (~4.611 € im Juli)
+
+Für strukturierte Claude-Finanz-Sessions → [[Claude Session – Finanzen Template]]
+
+---
+
+## Performance & Gesundheit
+
+### Körperzusammensetzung (Baseline Mai 2026)
 
 | Metrik | Wert |
 |---|---|
-| Größe | 188 cm |
 | Gewicht | 96,7 kg |
-| Körperfettanteil | 20,3 % |
-| Fettmasse | 19,6 kg |
+| Körperfett | 20,3 % |
 | Magermasse | 77,1 kg |
 | FFMI | 21,3 |
-| BMI | 27,4 |
-| BMR | 2.113 kcal |
-| TDEE (geschätzt) | ~3.645 kcal |
 | WHR | 0,92 |
+| BMR | 2.113 kcal |
+| TDEE | ~3.645 kcal |
 
-### Zielwerte (nächster Scan ~September 2026)
+Vollständige Details: [[3D Body Scan Scaneca Mai 2026]]
+
+### Ziele (nächster Scan)
 
 | Metrik | Ziel |
 |---|---|
@@ -55,51 +99,25 @@ Quelle: [[3D Body Scan Scaneca Mai 2026]] (29.05.2026, Labor Berlin)
 
 ---
 
-## Sport & Fitness
-
-| Parameter | Details |
-|---|---|
-| **Hauptsport** | [[Hyrox Competition\|Hyrox]] (aktiv) |
-| **Hauptlimiter** | Aerobe Kapazität |
-| **Priorität-Cardio** | [[Zone 2 Training]] (viszerale Fettreduktion) |
-| **Training** | 6-Tage-Split |
-
----
-
-## Referenzrahmen / Einflüsse
-
-| Person | Einflussbereich |
-|---|---|
-| [[Bryan Johnson]] | Longevity-Protokoll, Blueprint-Community, Performance Coffee White Space |
-| [[Andrew Huberman]] | Supplement-Protokolle, Schlaf, NSDR, zirkadiane Rhythmik |
-| [[Peter Attia]] | Biomarker (ApoB), Longevity-Medizin, metabolische Gesundheit |
-
----
-
-## Gesundheits- & Performance-Protokolle
-
-- [[Health Protocol Master]] — vollständiges tägliches Protokoll
-- [[Supplement Stack]] — aktiver Supplementierungskontext (Momentous-primär)
-- [[Blutbild Panel]] — 24-Marker-Blutpanel, quartalsweise
-- [[BMR und TDEE]] — Stoffwechselkennzahlen und Kalorienstrategie
-
----
-
-## Finanzieller Kontext (2025/2026)
-
-- [[ALG I 2025]] — ~8.400€ ALG I bis ca. Juni 2025; Progressionsvorbehalt §32b EStG
-- [[Wagglz GmbH]] — frühere GmbH (2025 geschlossen)
-- [[ESt 2025]] — Steuererklärung 2025 (Pflichtveranlagung)
-- [[Fixkosten Übersicht]] — monatliche Fixkostenstruktur
-- [[Allianz Insurance Consolidation]] — Versicherungskonsolidierungsprojekt
-
----
-
 ## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026]] — Körper-Baseline-Event
-- [[Performance Coffee Brand]] — Startup-Projekt
-- [[Health Protocol Master]] — Tagesprotokoll
-- [[MOC Performance und Leben]] — übergeordnete Performance-MOC
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[MOC Strategie und Business]] — übergeordnete Business-MOC
+### Finanzen
+- [[Claude Session – Finanzen Template]] — Prompt-Template mit vollständigen Finanzdaten
+- [[MOC Finanzen]] — Übergeordnete Finanz-MOC
+- [[Rehabilitationsplan Finanzen]] — Phasen 1 & 2
+- [[Fixkosten Übersicht]] — Monatliche Fixkosten
+- [[Wagglz GmbH]] — Unternehmen 1
+- [[OK Capital UG]] — Unternehmen 2
+- [[ESt 2025]] — Steuererklärung 2025
+- [[ALG I 2025]] — ALG I bis Juni 2025
+
+### Performance
+- [[3D Body Scan Scaneca Mai 2026]] — Baseline-Scan
+- [[Health Protocol Master]] — Gesundheitsprotokoll
+- [[Supplement Stack]] — Aktiver Supplement-Stack
+- [[Claude Session Template Performance]] — Performance-Session-Template
+
+### Projekte
+- [[Wagglz GmbH]] — Startup (Wufflz)
+- [[OK Capital UG]] — Holding/Investment-Vehikel
+- [[Performance Coffee Brand]] — Neues Projekt

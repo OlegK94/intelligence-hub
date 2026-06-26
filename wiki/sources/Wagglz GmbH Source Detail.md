@@ -1,44 +1,51 @@
 ---
-title: Wagglz GmbH Quelldokument Detail
+title: "Wagglz GmbH Source Detail"
 type: source
-tags: [wagglz, gmbh, insolvenz, finanzen, gesellschafterdarlehen, überschuldung, insO, berlin, business]
+tags: [wagglz, gmbh, insolvenz, §19-inso, §15a-inso, rangrücktritt, gesellschafterdarlehen, fixkosten, überschuldung, ok-capital, oleg-kober, finom, steuer, sp-stb, arag]
 sources: ["raw/Business/Wagglz/Wagglz GmbH.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: Quelldokument für die Wagglz GmbH — Stammdaten, Insolvenzstatus (§19 InsO Überschuldung, Fehlbetrag 27.926,89 €), laufende Kosten 2026, Gesellschafterdarlehen von Oleg sowie strategische Optionen (Weiterführen vs. Auflösen)
+summary: Stammdaten, Insolvenzstatus §19 InsO (Überschuldung 27.926,89€, 0€ Umsatz seit Jan 2026), Gesellschafterdarlehen Oleg (~2.170€ in 2026), laufende Fixkosten und strategische Optionen (Weiterführen vs. Auflösen §17 EStG) der Wagglz GmbH
 ---
 
-# Wagglz GmbH — Quelldokument Detail
+# Wagglz GmbH — Source Detail
 
 ## Überblick
 
-Dieses Quelldokument (Status: kritisch, aktualisiert: 2026-06-12) erfasst die wesentlichen Unternehmensdaten, die finanzielle Lage und den strategischen Entscheidungspunkt für [[Wagglz GmbH]]. Es ist die primäre Referenz für den Insolvenzstatus und die laufende Kostenstruktur des Unternehmens per Juni 2026.
+Dieses Quelldokument (`raw/Business/Wagglz/Wagglz GmbH.md`, Stand: 2026-06-12) ist die primäre Stammdaten- und Statusquelle für die [[Wagglz GmbH]]. Es dokumentiert den kritischen Insolvenzstatus (§19 InsO Überschuldung), die Gesellschafterdarlehen und die offenen Sofortmaßnahmen.
 
-> Zur Entitätszusammenfassung siehe [[Wagglz GmbH]].
+> Zur Entitätsseite mit Kontext und Verlinkungen siehe [[Wagglz GmbH]].
+> Zu den Sofortmaßnahmen siehe [[P0 Sofort]] und [[Rangrücktritt §15a InsO]].
+> Zur strategischen Weiterentwicklung siehe [[P1 Diese Woche]].
 
-## Stammdaten
+---
+
+## Stammdaten (aus der Quelle)
 
 | Feld | Wert |
 |---|---|
 | **Rechtsform** | GmbH |
 | **Gesellschafter** | [[OK Capital UG]] (100%) |
-| **Geschäftsführer** | [[Oleg Personal Context\|Oleg Kober]] |
-| **Bankkonto 1** | Finom (DE36100180000083465573) |
-| **Bankkonto 2** | Deutsche Bank |
-| **Steuerberater** | [[SP STB]] |
+| **Geschäftsführer** | Oleg Kober |
+| **Bankkonten** | Finom (DE36100180000083465573), Deutsche Bank |
+| **Steuerberater** | SP STB |
+
+---
 
 ## Aktueller Status (Jun 2026)
 
-| | |
+| Feld | Wert |
 |---|---|
 | **Umsatz 2026** | **0 €** (seit Januar 2026) |
 | **Insolvenzstatus** | ⚠️ Überschuldet §19 InsO |
 | **Fehlbetrag** | 27.926,89 € |
-| **[[Rangrücktritt §15a InsO]]** | ⚠️ Noch nicht unterschrieben |
+| **Rangrücktritt §15a InsO** | ⚠️ Noch nicht unterschrieben |
 | **FA-Schulden** | ✅ Bezahlt |
 | **ARAG-Versicherung** | 100,88 €/Quartal (seit Apr 2026) |
 
-## Finanzierung durch Oleg (Gesellschafterdarlehen)
+---
+
+## Finanzierung durch Oleg (Gesellschafterdarlehen 2026)
 
 Oleg überweist monatlich Beträge zur Deckung der Fixkosten:
 
@@ -49,46 +56,54 @@ Oleg überweist monatlich Beträge zur Deckung der Fixkosten:
 | Mär 2026 | ~270 € |
 | Apr 2026 | 100 € + 200 € = 300 € |
 | Mai 2026 | ~500 € |
+| **Gesamt 2026 (geschätzt)** | **~2.170 €** |
 
-**Gesamt 2026 (geschätzt):** ~2.170 €
-
-> ⚠️ **Annahme [A]:** Diese Überweisungen werden als Gesellschafterdarlehen eingestuft. Angesichts der §19 InsO Überschuldung ist der Rangrücktritt (Nachrangigkeitserklärung) gesetzlich vorgeschrieben, damit diese Darlehen nicht als Verbindlichkeiten zählen. Solange der Rangrücktritt nicht unterzeichnet ist, können die Darlehen den ausgewiesenen Fehlbetrag erhöhen, anstatt ihn zu beheben.
+---
 
 ## Laufende Kosten 2026
 
-| Kosten | Betrag |
+| Kostenart | Betrag |
 |---|---|
-| Finom Konto | Gebühren (Betrag nicht angegeben) |
+| Finom Konto | Gebühren (variabel) |
 | Claude.ai Subscription | 18 €/Mo |
 | GoDaddy | 34,76 € |
 | Figma | 20 €/Mo |
 | Miles for Business | variabel |
 | ARAG | 100,88 €/Quartal |
 
-**Geschätzte monatliche Fixkosten (ohne Miles):** ~72–75 €/Monat
+---
 
-## Sofortmaßnahmen
+## Strategische Optionen
 
-Das Quelldokument verweist auf [[P0 Sofort]] und [[Rangrücktritt §15a InsO]] als die unmittelbaren Aktionsseiten.
+Die Quelle listet zwei strategische Optionen:
 
-## Strategische Entscheidung
+| Option | Beschreibung |
+|---|---|
+| **Weiterführen** | Konzept überarbeiten, Finanzierung sichern, Umsatz generieren |
+| **Auflösen** | §17 EStG: GmbH-Verlust steuerlich nutzbar (Oleg als Gesellschafter) |
 
-Zwei Optionen sind dokumentiert:
+> **Steuerlicher Hinweis §17 EStG:** Bei Auflösung kann Oleg als Gesellschafter den Verlust aus der GmbH-Beteiligung steuerlich geltend machen (Verlust aus der Veräußerung/Auflösung von Anteilen an Kapitalgesellschaften). Dies kann die steuerliche Gesamtsituation verbessern — relevant für [[SP STB]] und [[ESt 2025]] / Folgejahre.
 
-1. **Weiterführen** — Konzept entwickeln, Finanzierung sichern, Umsatz aufbauen — ab wann?
-2. **Auflösen** — §17 EStG: GmbH-Verlust steuerlich nutzbar (Oleg als Gesellschafter kann den GmbH-Verlust für die Einkommensteuer geltend machen)
+---
 
-> ⚠️ **Hinweis zu §17 EStG:** Nach §17 EStG kann ein Gesellschafter, der ≥1 % an einer GmbH hält, bei Auflösung einen Kapitalverlust einkommensteuerlich geltend machen. Für Oleg (100 % Gesellschafter über [[OK Capital UG]]) würde die Auflösung einen abzugsfähigen Verlust in Höhe des eingesetzten Kapitals abzüglich etwaiger Rückflüsse freisetzen. Dies ist potenziell bedeutsam für [[ESt 2025]] und künftige Steuererklärungen.
+## Sofortmaßnahmen (referenziert)
 
-## Verwandte Seiten
+→ [[P0 Sofort]] und [[Rangrücktritt §15a InsO]] — beide aus der Quelle direkt verlinkt.
 
-- [[Wagglz GmbH]] — Entitätszusammenfassung
-- [[OK Capital UG]] — 100 % Gesellschafter
-- [[Oleg Personal Context]] — Geschäftsführer und alleiniger wirtschaftlich Berechtigter
+Die kritischste offene Maßnahme: Der **Rangrücktritt §15a InsO ist noch nicht unterschrieben**. Ohne diesen besteht eine Insolvenzantragspflicht nach §15a InsO.
+
+---
+
+## Verknüpfte Seiten
+
+- [[Wagglz GmbH]] — Entitätsseite (vollständige Verlinkung)
+- [[OK Capital UG]] — 100%-Gesellschafter
+- [[Rangrücktritt §15a InsO]] — kritische ausstehende Maßnahme
+- [[P0 Sofort]] — Sofortmaßnahmen
+- [[P1 Diese Woche]] — strategische Folgeentscheidungen
+- [[ARAG Wagglz Versicherung]] — laufende Kosten, Kündigung fällig
+- [[Wagglz Finom 2026]] — Geschäftskonto
 - [[SP STB]] — Steuerberater
-- [[Rangrücktritt §15a InsO]] — dringende offene Maßnahme
-- [[P0 Sofort]] — sofortige Aktionsliste
-- [[P1 Diese Woche]] — wöchentliche Prioritäten
-- [[ALG I 2025]] — Einkommenskontext (Oleg, 2025)
-- [[ESt 2025]] — Kontext der Steuererklärung
-- [[Oleg Business Entity Structure]] — Übersicht der Unternehmensstruktur
+- [[ESt 2025]] — steuerliche Auswirkungen (§17 EStG)
+- [[Oleg Personal Context]] — Geschäftsführer und Gesellschafter (via OK Capital UG)
+- [[Wufflz]] — Subprojekt der Wagglz GmbH

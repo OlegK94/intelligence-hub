@@ -1,42 +1,44 @@
 ---
 title: Lehvoss Nutrition
 type: entity
-tags: [performance-cafe, CMO, contract-manufacturing, Hamburg, ISO-22000, custom-formulation, ops, Priority-2]
+tags: [performance-cafe, CMO, contract-manufacturing, Germany, Hamburg, ISO-22000, bulk, custom-formulation, ops, Priority-2]
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md", "raw/Business/PerformanceCafe/ops/cmo-email-template.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Priorität-2-CMO-Kandidat für die Performance Coffee Brand — Hamburger Spezialist für maßgeschneiderte Formulierungen; ISO 22000 zertifiziert; Entwicklung von Bulk- und Individualrezepturen
+summary: Priority-2-CMO-Kandidat für die Performance Coffee Brand — Hamburg; Bulk- und Custom-Formulation-Experte; ISO 22000-zertifiziert; direkt erreichbar aus Hamburg
 ---
 
 # Lehvoss Nutrition
 
-## Übersicht
+## Überblick
 
-**Lehvoss Nutrition** ist ein [[Performance Coffee Brand|Performance Coffee Brand]] **Priorität-2-CMO-Kandidat** mit Sitz in Hamburg, Deutschland. Das Unternehmen ist auf die Entwicklung individueller Formulierungen spezialisiert und damit gut geeignet für das maßgeschneiderte Performance Coffee Sachets-Konzept.
+**Lehvoss Nutrition** ist ein Hamburger Unternehmen für Bulk-Zutaten und Custom Formulation. Im Rahmen der [[Performance Coffee Brand]] ist Lehvoss als **Priority-2-CMO-Kandidat** eingestuft.
 
 ## Eckdaten
 
-| Parameter | Detail |
+| Parameter | Details |
 |---|---|
 | **Land** | Deutschland (Hamburg) |
-| **Spezialisierung** | Bulk + Individualrezeptur |
+| **Spezialisierung** | Bulk + Custom Formulation |
 | **Zertifizierungen** | ISO 22000 |
 | **Website** | lehvoss.de |
 | **CMO-Priorität** | **#2** |
 
-## Warum Priorität 2
+## Relevanz für Performance Coffee Brand
 
-- **Spezialist für individuelle Formulierungen** — direkt relevant für komplexe Mehr-Zutaten-Sachets
-- Deutschlandbasiert → Vertrautheit mit [[NEM Konformität]]
-- Zertifizierung nach ISO 22000 Lebensmittelsicherheitsmanagementsystem
-- Standort Hamburg (einfache Logistik für norddeutsche Lieferkette)
-- Stark in der Entwicklung von Individualrezepturen, bei denen die Beschaffung von Standardzutaten zweitrangig ist
+Lehvoss Nutrition positioniert sich ähnlich wie [[Prinova]] als Dual-Anbieter (Rohstoffe + Formulation), jedoch mit stärkerem Fokus auf Bulk-Zutaten. Der Hamburger Standort bietet außerdem Synergien mit den Kaffee-Rohstofflieferanten [[Neumann Kaffee Gruppe]] und [[Sievert Storey]], die ebenfalls in Hamburg ansässig sind.
+
+## Status
+
+- [ ] Erstkontakt-E-Mail versenden (Priorität #2)
+- [ ] Antwort abwarten
+- [ ] Videocall vereinbaren
 
 ## Verwandte Seiten
 
-- [[CMO Sourcing Performance Coffee]] — Bewertungsrahmen
-- [[CMO Erstkontakt Email Template]] — Kontaktvorlage
-- [[Performance Cafe Supplier List|Performance Cafe Lieferantenliste]] — Quelldokument
-- [[Prinova]] — Priorität-1-CMO-Kandidat
-- [[Nutri-Epitech]] — Priorität-3-CMO-Kandidat
+- [[Performance Cafe Supplier List Source Detail]] — Quelldokument
+- [[CMO Sourcing Performance Coffee]] — Evaluierungsrahmen
 - [[Performance Coffee Brand]] — Projektentität
+- [[Prinova]] — Priority-1-CMO
+- [[Nutri-Epitech]] — Priority-3-CMO
+- [[Neumann Kaffee Gruppe]] — Kaffee-Rohstofflieferant (Hamburg)

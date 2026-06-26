@@ -1,176 +1,144 @@
 ---
-title: GROVE Café
+title: "GROVE Café"
 type: entity
-tags: [grove, café, berlin, wagglz, specialty-coffee, bar, dj, events, live-streaming, vietnamese-coffee, nama-schokolade, friedrichshain, schöneberg, prenzlauer-berg, opening-2027, brand, restaurant, gmbh]
-sources: ["raw/Business/Cafe/cafe_masterplan_2026.md"]
-created: 2026-06-01
-updated: 2026-06-01
-summary: GROVE — Specialty-Coffee-Bar in Berlin (Wagglz GmbH); Hybridkonzept Tag/Nacht mit DJ-Events und Live-Streaming; Vietnamese Coffee + ROYCE' Nama Schokolade als Signature; 165.000 € Kapital; Break-even Monat 4; Soft Opening Feb 2027; Gründer Oleg Kober (60%) + Hai Tran (40%)
+tags: [grove, café, berlin, wagglz, specialty-coffee, bar, dj, opening-2027, friedrichshain, prenzlauer-berg, schöneberg, kfw, equity, oleg-kober, hai-tran, vietnamese-coffee, royce, nama-schokolade, grove-radio, grove-sessions, movement]
+sources: ["raw/Business/Wagglz/Performance Coffee Brand/Cafe/cafe_masterplan_2026.md"]
+created: 2026-06-27
+updated: 2026-06-27
+summary: GROVE — geplantes Specialty-Coffee-Café-Bar in Berlin (Opening Feb 2027); Betriebsvehikel Wagglz GmbH (→ GROVE GmbH); 165.000 € Kapital; drei Dimensionen: physisches Café + externe Sessions + GROVE Radio; Signature-Produkte Vietnamese Coffee + ROYCE' Nama Schokolade; Break-even M4
 ---
 
 # GROVE Café
 
 ## Überblick
 
-**GROVE** ist ein geplantes Specialty-Coffee-Café mit vollwertiger Bar, DJ-Events und Live-Streaming in Berlin — geplant für Soft Opening **Februar 2027** und Grand Opening **März 2027**. Rechtsträger ist die [[Wagglz GmbH]] (wird zu GROVE GmbH umbenannt). Das Konzept verbindet Specialty-Coffee-Handwerk am Tag mit Bar- und DJ-Kultur am Abend.
+**GROVE** ist ein geplantes Specialty-Coffee-Café-Bar-Konzept in Berlin, betrieben durch die [[Wagglz GmbH]] (Umbenennung in GROVE GmbH geplant). Gründer sind [[Oleg Kober]] (60 %) und [[Hai Tran]] (40 %). Das Soft Opening ist für **Februar 2027** geplant, das Grand Opening für **März 2027**.
 
-**Kernpositionierung:** *„Vietnamese Coffee. Japanese Chocolate. Berlin Music."*
+GROVE positioniert sich an der Schnittstelle zwischen Specialty-Coffee-Handwerk (Tag), Bar + Musik + Community (Abend) und vietnamesischer Kaffeekultur + japanischer Schokoladenkultur + Berliner DJ-Kultur.
 
----
-
-## Identität
-
-| Feld | Wert |
-|---|---|
-| Marke | GROVE |
-| Rechtsträger | [[Wagglz GmbH]] → GROVE GmbH |
-| Gründer | [[Oleg Kober]] (60 %) + [[Hai Tran]] (40 %) |
-| Standort | Berlin: Friedrichshain / Schöneberg (primär) |
-| Öffnungszeiten | 08:00–00:00 (Fr/Sa länger) |
-| Fläche | ~60 qm |
-| Zieleröffnung | Feb 2027 (Soft) · Mar 2027 (Grand) |
-| Status (Stand Jun 2026) | Planungsphase — KfW-Antrag ausstehend |
+> Details zu Finanzen: [[GROVE Finanzplan]] | Betrieb & Produkte: [[GROVE Betriebskonzept]] | Marke: [[GROVE Brand]] | Quelldokument: [[GROVE Café Masterplan 2026 Source]]
 
 ---
 
-## Das Konzept
+## Kernkonzept
 
-→ Ausführlich beschrieben unter [[GROVE Tag/Nacht-Konzept]].
+> *„Ein Ort der sich wie eine zweite Wohnung anfühlt — von 8 Uhr morgens bis Mitternacht."*
 
-Das Café operiert in vier Phasen täglich:
-
-| Phase | Zeit | Atmosphäre |
+| Phase | Zeit | Angebot |
 |---|---|---|
-| Morning | 08:00–12:00 | Ruhig, Specialty Coffee, Croissants |
-| Midday | 12:00–16:00 | Entspannt, Gespräche |
-| Afternoon | 16:00–19:00 | Musik lauter, erste Drinks |
-| Evening | 19:00–00:00 | Bar, Cocktails, Naturwein, DJ |
+| Morning | 08:00–12:00 | Specialty Coffee, Croissants, Backwaren |
+| Midday | 12:00–16:00 | Coffee, Backwaren |
+| Afternoon | 16:00–19:00 | Coffee, erste Drinks |
+| Evening | 19:00–00:00 (Fr/Sa länger) | Cocktails, Naturwein, Craftbier, DJ |
 
-**DJ-Events:** Fr + Sa ab 20:00 Uhr, aufstrebende DJs, kostenlos oder Revenue-Share, Live-Stream auf YouTube/Twitch.
+**DJ & Events:** Fr + Sa ab 20:00 Uhr; aufstrebende DJs; kostenlos oder Revenue-Share; Live-Stream via YouTube/Twitch.
 
 ---
 
-## Kapitalstruktur & Finanzen
+## Die drei Dimensionen von GROVE
 
-→ Details unter [[KfW StartGeld ERP 067]] und [[GROVE Businessplan 2026 Source Detail]].
+| Dimension | Beschreibung | Status |
+|---|---|---|
+| **1. Ein Ort** | Physisches Café-Bar in Berlin (Heimat der Community) | Opening Feb 2027 |
+| **2. Eine Bewegung** | GROVE Sessions in anderen Berliner Cafés (externe Events) | Sofort startbar |
+| **3. Ein Kanal** | GROVE Radio auf YouTube/Twitch/Web | Sofort startbar |
+
+Die externe GROVE Sessions-Strategie erlaubt Community-Aufbau **vor** dem Café-Opening — das Opening wird damit kein Kaltstart, sondern ein „Umzug ins neue Zuhause".
+
+---
+
+## Positionierungslücke in Berlin
+
+| Wettbewerber | Stärke | Lücke für GROVE |
+|---|---|---|
+| Acid Bakehouse (Mitte) | Marke, Ästhetik, Qualität | Kein Abend-/Bar-Konzept |
+| Five Elephant (Kreuzberg/PB) | Kaffeequalität, Community | Kein Abendgeschäft |
+| Bonanza Coffee (PB) | Brand, Loyalität | Wenig Atmosphäre abends |
+| Berliner Bars (FHain) | Abendpublikum | Kein Specialty-Coffee |
+
+**Zusammenfassung:** Morgens Café, abends Bar, immer Musik — in dieser Qualitätskombination nicht vorhanden in Berlin.
+
+---
+
+## Standort
+
+- **Zielkieze:** Friedrichshain (Fokus), Schöneberg, Prenzlauer Berg
+- **Größe:** 60–80 qm EG
+- **Mietobergrenze:** max. 40 €/qm in FHain, max. 50 €/qm in PB
+- **Mietvertrag:** mind. 5 Jahre + 5-Jahres-Verlängerungsoption; 4–6 mietfreie Aufbaumonate anstreben
+- **Ablöse-Warnung:** PB-Objekte mit 85.000–135.000 € Ablöse sprengen das gesamte Budget → nur Objekte ohne Ablöse oder < 30.000 €
+
+---
+
+## Kapitalstruktur
 
 | Quelle | Betrag |
 |---|---|
 | Eigenkapital Oleg | 20.000 € |
-| Einlage Hai Tran | 20.000 € |
+| Partner-Einlage (Hai Tran) | 20.000 € |
 | [[KfW StartGeld ERP 067]] | 125.000 € |
 | **Gesamt** | **165.000 €** |
 
-**Break-even:** Monat 4 (Juni 2027, +77 € operativer Cashflow)
-**Tiefpunkt Basisplan:** Januar 2028 mit 40.924 € Kassenstand (2,6× Monatskosten — sicher)
-**Tiefpunkt Stress-25%:** Januar 2028 mit 4.049 € — Insolvenzgefahr ohne Gegenmaßnahmen
+**Investition:** ~102.400 € Aufbau; Reserve nach Setup: 62.600 €.
 
-### Persönliches Einkommen (phasiert)
+---
 
-| Phase | Brutto je Person | Netto je Person |
-|---|---|---|
-| Feb–Apr 2027 | 2.000 € | ~1.430 € |
-| Mai–Jul 2027 | 3.000 € | ~2.100 € |
-| ab Aug 2027 | 4.000 € | ~2.600 € |
+## Equity & Governance
+
+- **Oleg Kober:** 60 % (GF allein; Gründer-Premium für Restaurantfachmann-Qualifikation + Konzept + GmbH-Struktur)
+- **Hai Tran:** 40 % (operativ Vollzeit; ohne Einzelvertretung)
+- Gesellschaftervertrag: notariell, Vesting 3 Jahre / 1-Jahr-Cliff, Good/Bad Leaver, Drag-along
+- SV-Prüfung erforderlich: Hai als 40%-Gesellschafter ggf. SV-pflichtig → +~800 €/Monat AG-Kosten
+
+> ⚠️ **Equity-Inkonsistenz im Quelldokument:** Executive Summary nennt 50/50, operative Planung und Schluss nennen 60/40. Die 60/40-Aufteilung ist die operative Planung.
 
 ---
 
 ## Signature-Produkte
 
-### Phase 1 — Opening
+### Vietnamese Coffee (Phase 1)
+- **Cà Phê Sữa Đá** (Phin-Filter, Robusta, Milchmädchen-Kondensmilch, Eis) — 7,00 € — Signature-Drink
+- Referenzmodell: Hanoi Drip Coffee (Vancouver)
+- GROVE Signature Blend (Robusta) + GROVE Smooth Blend (Arabica) als Eigenmarke
+- Phin-Filter als sichtbares Ritual am Tresen → Content-Gold
 
-| Produkt | Preis | Marge |
-|---|---|---|
-| Cà Phê Sữa Đá (Signature) | 7,00 € | ~78 % |
-| Espresso / Cappuccino | 3,00–4,50 € | 78–88 % |
-| Cocktail Signature | 14–17 € | 78–82 % |
-| Naturwein (Glas) | 9–13 € | 65–72 % |
-| GROVE Kaffeebohnen 250g | 16–20 € | 58–65 % |
-| Tote Bag | 18–28 € | ~72 % |
+### ROYCE' Nama Schokolade (Phase 2 — ab Monat 6)
+- Japanische Premium-Schokolade aus Hokkaido; Textur velvet-smooth; max. 10°C Lagerung
+- Import über EU-Händler oder ROYCE'-Lizenzpartner-Bewerbung (Phase 2)
+- Pairing: „Tokyo × Hanoi" (Cà Phê Sữa Đá + 2 Nama-Würfel) — 11,50 €
 
-### Phase 2 — Ab Monat 6
-
-- **ROYCE' Nama Schokolade** (Import EU-Händler; Kühlvitrine; 2,50–3,50 €/Stück)
-- „Tokyo × Hanoi" Pairing: Cà Phê Sữa Đá + 2 Nama-Würfel = 11,50 €
-- Gift-Box GROVE: Kaffeebohnen + Nama-Box + Sticker = 42–55 €
+### GROVE Positionierungssatz
+> *„Vietnamese Coffee. Japanese Chocolate. Berlin Music."*
 
 ---
 
-## GROVE als Bewegung — Drei Ebenen
+## Team & Schichtmodell
 
-1. **Ort** — physisches Café-Bar in Berlin (ab Feb 2027)
-2. **Bewegung** — externe GROVE Sessions in anderen Berliner Cafés (ab sofort möglich)
-3. **Kanal** — GROVE Radio auf YouTube/Twitch/Website
-
-**Sofort-Aktionsplan (vor Opening):**
-- Instagram + YouTube aufsetzen
-- 3 Berliner Cafés für externe Sessions ansprechen (Five Elephant, Fjord, 19grams)
-- Erste GROVE Session Aug 2026 (Free Entry, 50–80 Gäste, Stream-Test)
-- Vietnamesischen Coffee + Nama Schokolade als „Pre-Launch" servieren
-
----
-
-## Brand & Visual Identity
-
-- **Name:** GROVE — Hain/Wäldchen; Musik-Label-Vibes; international skalierbar
-- **Domains:** grove.cafe + grove.berlin prüfen
-- **Marke:** DPMA Anmeldung Klassen 43 + 25
-- **Farben:** Olivgrün + Creme + Dunkelbraun
-- **Typografie:** Serif (edel) + Grotesque (clean)
-- **Licht:** Ausschließlich warmweiß, max. 2.700 K, vollständig dimmbar
-- **Pflanzen:** Viele, groß, echt — Monstera, Ficus, Philodendren (Budget: 2.000–5.000 €)
-- **Tonalität:** Ruhig, selbstbewusst, keine forced positivity
-
----
-
-## Team & Rollenverteilung
-
-| Bereich | [[Oleg Kober]] | [[Hai Tran]] |
-|---|---|---|
-| Geschäftsführung | ✅ Alleinige GF | Gesellschafter ohne Einzelvertretung |
-| Strategie & Finanzen | ✅ federführend | Mitsprache |
-| Kaffee & Bar | ✅ Restaurantfachmann | operativ |
-| Brand & Social Media | ✅ Gesicht der Marke | unterstützend |
-| Tages-Operations | ✅ Vollzeit | Vollzeit |
-| Equity | 60 % | 40 % |
-
-**Erster Mitarbeiter:** Midijob, 20h/Woche, ~1.100 € AG-Kosten; Einsatz Abende + Wochenende.
-
----
-
-## Schlüsselrisiken
-
-| Risiko | Gegenmaßnahme |
+| Zeit | Besetzung |
 |---|---|
-| KfW nicht bewilligt | Zwei Hausbanken parallel ansprechen |
-| Standort mit hoher Ablöse | Nur Objekte ohne Ablöse oder <30k berücksichtigen |
-| Lärmschutz sperrt DJ-Events | Schallgutachter vor Mietvertrag beauftragen |
-| Stress-Szenario −25 % | Cashflow-Trigger-System + frühzeitige Gehaltsreduktion |
-| Partnerschaftskonflikt | Gesellschaftervertrag notariell (1.000–2.000 €, nicht verhandelbar) |
+| Mo–Fr 08:00–14:00 | Oleg |
+| Mo–Fr 14:00–18:00 | Oleg oder Partner |
+| Fr–Sa 18:00–00:00 | Beide + 1 Mitarbeiter (Midijob) |
+| So 10:00–18:00 | Partner oder Mitarbeiter |
 
 ---
 
-## Timeline (komprimiert)
+## Erfolgswahrscheinlichkeit
 
-| Phase | Zeitraum | Schwerpunkt |
-|---|---|---|
-| Fundament | Jun–Aug 2026 | Steuerberater, KfW vorbereiten, Gesellschaftervertrag, Namen entscheiden |
-| Standort & Brand | Aug–Okt 2026 | Standortsuche, Brand-Designer, Mietvertrag |
-| Ausbau & Behörden | Okt 2026–Jan 2027 | Renovation, Gaststättenerlaubnis, Equipment, GEMA |
-| Soft Opening | Feb 2027 | Friends & Network Pre-Opening, erste DJ-Abende |
-| Grand Opening | Mar 2027 | Presse, Launch-Event mit DJ + Stream |
+**65–70 %** (Branchendurchschnitt für Gastronomie: 30–40 %)
 
-**Kündigung Doctolib (Oleg):** November 2026 — erst nach KfW-Zusage + Mietvertrag.
+Wichtigste Risiken: KfW-Ablehnung, Standort mit hoher Ablöse, Partnerschaftskonflikt, −25%-Umsatzszenario.
 
 ---
 
 ## Verwandte Seiten
 
-- [[GROVE Businessplan 2026 Source Detail]] — vollständiges Quelldokument
-- [[GROVE Tag/Nacht-Konzept]] — Konzept-Details
-- [[KfW StartGeld ERP 067]] — Finanzierungskonzept
-- [[Vietnamese Coffee Phin-Filter]] — Signature-Produktkonzept
-- [[Oleg Kober]] — Mitgründer und GF
-- [[Hai Tran]] — Mitgründer
+- [[GROVE Finanzplan]] — vollständiger Liquiditätsplan und Rentabilitätsvorschau
+- [[GROVE Brand]] — Visual Identity, Naming, Marketing
+- [[GROVE Betriebskonzept]] — Tageskonzept, Events, Vietnamese Coffee, GROVE Radio
+- [[GROVE Café Masterplan 2026 Source]] — vollständiges Quelldokument
+- [[Oleg Kober]] — Gründer (60 %)
+- [[Hai Tran]] — Mitgründer (40 %)
 - [[Wagglz GmbH]] — Rechtsträger
-- [[Oleg Personal Context]] — persönlicher Kontext (Doctolib-Job, Berliner Wohnsitz)
+- [[KfW StartGeld ERP 067]] — Förderkredit
+- [[Performance Coffee Brand]] — separates Projekt unter gleichem Dach

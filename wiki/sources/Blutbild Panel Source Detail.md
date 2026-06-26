@@ -1,34 +1,27 @@
 ---
-title: Blutbild Panel Quelldokument-Detail
+title: "Blutbild Panel Source Detail"
 type: source
-tags: [biomarkers, blood-panel, longevity, performance, gesundheit, ApoB, HbA1c, hsCRP, testosterone, cortisol, insulin, vitamin-d, IGF-1, TSH, tracking, quarterly, supplement]
-sources: ["raw/Privat/Performance/_vault/Blutbild Panel.md"]
+tags: [performance, blutbild, longevity, gesundheit, biomarker, apob, hba1c, hscrp, testosteron, vitamine, supplement, quartalsweise]
+sources: ["raw/Finanzdaten/ObsidianVault/Performance/Blutbild Panel.md"]
 created: 2026-06-13
 updated: 2026-06-13
-summary: Quelldokument für Olegs 24-Marker-Blutbild-Panel — longevity-optimierte Zielbereiche, 4 quartalsweise Nüchternblutabnahmen, Aufteilung in Priorität 1/2-Marker und Basis-Supplementierungsprotokoll; PDF-Version bereits erstellt; ApoB muss separat angefordert werden
+summary: Quelldokument für Olegs 24-Marker-Longevity-Blutpanel — vier quartalsweise Abnahmezeitpunkte (nüchtern 12h); 11 Priorität-1-Kernmarker (u.a. ApoB <70 mg/dL, hsCRP <0,5 mg/L, HbA1c <5,2%); 13 Priorität-2-Marker; Basisprotokoll mit 5 Supplementen (Vitamin D3/K2, Magnesium Glycinat, Omega-3, Kreatin); PDF-Version bereits erstellt; ApoB muss explizit separat angefordert werden
 ---
 
-# Blutbild Panel — Quelldokument-Detail
+# Blutbild Panel — Quelldokument Detail
 
-## Überblick
+## Übersicht
 
-Dieses Quelldokument (`raw/Privat/Performance/_vault/Blutbild Panel.md`, Status: pdf-erstellt, erstellt: 2026-06-13) definiert das 24-Marker-Blutbiomarker-Panel von [[Oleg Personal Context|Oleg]] mit longevity-optimierten Zielbereichen und einem quartalsweisen Messplan.
+Dieses Quelldokument (`raw/Finanzdaten/ObsidianVault/Performance/Blutbild Panel.md`, erstellt: 2026-06-13, Status: pdf-erstellt) ist das primäre Planungsdokument für [[Oleg Personal Context|Olegs]] Longevity-optimiertes Blutbildpanel mit 24 Markern. Es definiert Abnahmezeitplan, Zielbereiche und ein begleitendes Supplement-Basisprotokoll.
 
-> Die Entitäts-Übersichtsseite mit vollständigem Kontext und Integrationshinweisen findest du unter [[Blutbild Panel]].
-
-## Metadaten
-
-| Feld | Wert |
-|---|---|---|
-| Status | pdf-erstellt (PDF bereits generiert) |
-| Tags | performance, blutbild, longevity, gesundheit |
-| Erstellt | 2026-06-13 |
-| Markeranzahl | 24 gesamt |
-| Zeitpunkte | 4 pro Jahr |
+> Für die Konzeptseite mit Einordnung und Methodik siehe [[Blutbild Panel]].
+> Für das übergeordnete Biomarker-Tracking-Konzept siehe [[Biomarker Testing]].
 
 ---
 
-## Abnahme-Zeitplan (aus Quelle)
+## Abnahme-Zeitplan
+
+Vier Zeitpunkte pro Jahr, jeweils 12h nüchtern:
 
 | Zeitpunkt | Quartal | Nüchtern |
 |---|---|---|
@@ -39,7 +32,7 @@ Dieses Quelldokument (`raw/Privat/Performance/_vault/Blutbild Panel.md`, Status:
 
 ---
 
-## Priorität 1 — Kernmarker (aus Quelle)
+## Priority 1 — Kernmarker
 
 | Marker | Optimaler Zielbereich | Warum |
 |---|---|---|
@@ -55,14 +48,9 @@ Dieses Quelldokument (`raw/Privat/Performance/_vault/Blutbild Panel.md`, Status:
 | TSH | 1,0–2,0 mIU/L | Schilddrüsenfunktion |
 | Vitamin D (25-OH) | 50–80 ng/mL | Immunfunktion, Performance |
 
-### Wichtiger Hinweis aus der Quelle (wörtlich)
-
-> [!important] ApoB separat anfordern
-> ApoB ist **nicht** in Standard-Blutpanels enthalten. Explizit beim Arzt anfordern. Wichtiger kardiovaskulärer Marker als LDL-C — misst die tatsächliche Partikelzahl.
-
 ---
 
-## Priorität 2 — Erweitertes Panel (aus Quelle)
+## Priority 2 — Erweitertes Panel
 
 | Marker | Zielbereich | Warum |
 |---|---|---|
@@ -83,7 +71,15 @@ Dieses Quelldokument (`raw/Privat/Performance/_vault/Blutbild Panel.md`, Status:
 
 ---
 
-## Supplementierung Basisprotokoll (aus Quelle)
+## Wichtiger praktischer Hinweis: ApoB
+
+> ⚠️ **ApoB separat anfordern:** ApoB ist **nicht** in Standard-Blutpanels enthalten. Muss explizit beim Arzt angefordert werden. Es ist der wichtigste kardiovaskuläre Marker im Panel — er misst die tatsächliche Lipoprotein-Partikelzahl, was aussagekräftiger als LDL-C ist.
+
+---
+
+## Supplement-Basisprotokoll
+
+Basierend auf typischen Defiziten — individuell anzupassen nach T1-Ergebnis:
 
 | Supplement | Dosis | Timing |
 |---|---|---|
@@ -93,43 +89,32 @@ Dieses Quelldokument (`raw/Privat/Performance/_vault/Blutbild Panel.md`, Status:
 | Omega-3 (EPA+DHA) | 2–4 g | Mit Mahlzeit |
 | Kreatin | 5 g | Täglich, Timing egal |
 
-Quellenhinweis: *„Basierend auf typischen Defiziten bei diesem Profil — individuell anzupassen nach T1-Ergebnis"*
+> **Hinweis:** Dieses Basisprotokoll ergänzt den bestehenden [[Supplement Stack]] und wird nach T1-Blutbildergebnis individuell angepasst.
 
 ---
 
-## Aktualisierungen des bestehenden Wikis
+## Widersprüche / Ergänzungen zu bestehenden Wiki-Seiten
 
-Diese Quelle **löst den Stub-Status** der bisherigen [[Blutbild Panel]]-Entitätsseite vollständig auf, die folgenden Hinweis trug:
-> *„⚠️ Stub-Seite: Diese Entität wird in [[Performance Overview Source Detail]] referenziert, das Quelldokument mit den vollständigen Panel-Details wurde jedoch noch nicht eingelesen."*
+### Ergänzung zu [[Biomarker Testing]]
+Das Quelldokument konkretisiert die bereits auf der Konzeptseite dokumentierten Prinzipien:
+- 24 Marker (11 Priorität 1 + 13 Priorität 2) — konsistent mit bestehender Seite
+- Quartalsweise (4× pro Jahr) — konsistent
+- ApoB-Hinweis — bestätigt und präzisiert
 
-Alle bisher unbekannten Details sind nun befüllt:
-- Vollständige 24-Marker-Liste mit longevity-optimierten Zielbereichen ✅
-- Quartalsplan mit 12h-Nüchternprotokoll ✅
-- Aufteilung in Priorität 1 / Priorität 2 ✅
-- Basis-Supplementierungsprotokoll ✅
-- Hinweis zur separaten Anforderung von ApoB ✅
+### Ergänzung zu [[Supplement Stack]]
+Das Basisprotokoll definiert 5 neue Basisergänzungen (D3, K2, Magnesium Glycinat, Omega-3, Kreatin), die speziell auf typische Defizite bei diesem Profil ausgerichtet sind und nach T1-Ergebnis angepasst werden. Diese ergänzen, aber ersetzen nicht den bestehenden Momentous/Huberman-Protokoll-Stack.
 
-## Keine Widersprüche gefunden
-
-Diese Quelle ist vollständig konsistent mit den bestehenden Wiki-Inhalten:
-- Die Betonung von ApoB stimmt mit dem [[Peter Attia]]-Framework überein, das bereits im Wiki vorhanden ist
-- Supplement-Dosierungen (Vitamin D3, Magnesium Glycinat, Omega-3, Kreatin) sind konsistent mit den Einträgen im [[Supplement Stack]]
-- Das Cortisol-Monitoring stimmt mit dem HPA-Achsen-Management im [[Health Protocol Master]] überein
-- Der Quartalstakt ist konsistent mit den Longevity-Tracking-Protokollen, die im [[Health Protocol Master]] referenziert werden
-
-### Kleiner Hinweis: Zeilenanzahl Priorität 2
-Die Quelltabelle bezeichnet diesen Abschnitt als „Erweitertes Panel" und gibt die Gesamtzahl mit 24 Markern an. Priorität 1 umfasst 11 Marker + Priorität 2 hat 14 Zeilen (inkl. Cortisol) = 25 Zeilen. Die Abweichung von 1 könnte darauf hindeuten, dass Cortisol unterschiedlich gezählt wird, oder auf eine geringfügige Inkonsistenz in der Quelle zurückzuführen ist. Die Entitätsseite vermerkt dies.
+### Kein Widerspruch zu [[Health Protocol Master]]
+Das Supplement-Basisprotokoll ist additiv zum bestehenden Stack aus dem Health Protocol Master.
 
 ---
 
 ## Verwandte Seiten
 
-- [[Blutbild Panel]] — Entitätsseite (vom Stub aufgewertet)
-- [[Performance Overview]] — übergeordnetes Dokument
-- [[Performance Overview Source Detail]] — vorheriger Verweis auf dieses Panel
-- [[Health Protocol Master]] — übergeordneter Protokollkontext
-- [[3D Body Scan Scaneca Mai 2026]] — begleitende Körperzusammensetzungs-Baseline
-- [[Peter Attia]] — ApoB und kardiovaskuläres Risikoframework
-- [[Supplement Stack]] — Supplementierungskontext
+- [[Blutbild Panel]] — Konzeptseite mit vollständiger Einordnung
+- [[Biomarker Testing]] — übergeordnetes Tracking-Konzept
+- [[Supplement Stack]] — bestehender Stack; Basisprotokoll ergänzt diesen
+- [[Health Protocol Master]] — übergeordnetes Protokoll
 - [[MOC Performance und Leben]] — übergeordnete MOC
-- [[Oleg Personal Context]] — betreffende Person
+- [[Oleg Personal Context]] — Person des Panels
+- [[3D Body Scan Scaneca Mai 2026]] — ergänzendes Körperzusammensetzungs-Tracking

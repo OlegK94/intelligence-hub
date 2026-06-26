@@ -1,79 +1,131 @@
 ---
 title: Zone 2 Training
 type: concept
-tags: [training, cardio, zone2, aerobic, visceral-fat, metabolic-health, longevity, performance, hyrox]
-sources: ["raw/Privat/Performance/_vault/Körper & Scan.md"]
+tags: [zone2, ausdauer, aerob, training, hyrox, vo2max, viszeral, fett, performance, herz, mitochondrien]
+sources: ["raw/Finanzdaten/ObsidianVault/Performance/Hyrox Prep.md", "raw/Privat/Performance/_vault/Körper & Scan.md", "raw/Privat/Performance/_vault/00 Performance-Übersicht.md", "02-Performance-Leben/Health Protocol — Master.md"]
 created: 2026-06-13
-updated: 2026-06-13
-summary: Aerobes Training mit niedriger bis moderater Intensität im Zone-2-Herzfrequenzbereich — primäre Maßnahme zur viszeral-selektiven Fettreduktion in Olegs Performance-Protokoll; grundlegend für metabolische Gesundheit und die aerobe Hyrox-Basis
+updated: 2026-06-20
+summary: Zone 2 Training — aerobe Basisarbeit bei 60–70% HFmax / Nasenatemtest; Fundament der Hyrox-Vorbereitung und prioritäre Intervention gegen viszerales Fett (WHR-Reduktion); 3–4×/Woche, 30–60 Min, wöchentliche Progression +5 Min
 ---
 
 # Zone 2 Training
 
 ## Überblick
 
-**Zone 2 Training** ist dauerhaftes aerobes Training bei niedriger bis moderater Intensität, bei der der Körper primär Fett als Energiequelle nutzt und minimale Laktatmengen produziert. Es wird in der Longevity- und Leistungsmedizin (insbesondere von [[Peter Attia]]) weithin als die wichtigste einzelne Trainingsform für langfristige metabolische Gesundheit empfohlen.
+**Zone 2 Training** bezeichnet Ausdauertraining im aeroben Grundlagenbereich — die Intensität, bei der der Körper primär Fett als Energiequelle verbrennt und die Mitochondrien effizient arbeiten. In [[Oleg Personal Context|Olegs]] Kontext ist Zone 2 gleichzeitig:
+1. Das **Fundament der [[Hyrox Competition|Hyrox]]-Vorbereitung** (aerobes Kapazitätstraining)
+2. Die **primäre Intervention zur WHR-Reduktion** (viszeralem Fett, WHR 0,92 → Ziel <0,86)
 
-## Definition
+> **Kern-Prinzip aus dem Hyrox-Protokoll:** *„Zone 2 ist die Hyrox-Basis — nicht überspringen."*
 
-- **Herzfrequenzzone:** Typischerweise ~60–70 % der maximalen Herzfrequenz, oder die höchste Intensität, bei der man noch ein vollständiges Gespräch ohne angestrengte Atmung führen kann
-- **Laktat:** Bleibt unter ~2 mmol/L (Fettoxidation dominiert)
-- **Dauer:** Mindestens 30–45 Min. pro Einheit für eine sinnvolle Anpassung; 45–90 Min. optimal
-- **Häufigkeit:** 3–4x/Woche empfohlen für einen wirksamen Trainingsreiz
+---
 
-## Warum Zone 2 für viszerales Fett
+## Intensitätsdefinition
 
-Zone 2 ist einzigartig wirksam für die **Reduktion von viszeral em (intraabdominalem) Fett**, weil:
-
-1. **Fettoxidation:** Bei Zone-2-Intensität ist Fett das primäre Brennstoffsubstrat — maximale Fettmobilisierung aus den metabolisch aktiven viszeralen Depots
-2. **Hormonelles Umfeld:** Zone 2 erhöht den Kortisolspiegel im Gegensatz zu intensiveren Trainingsformen nicht signifikant — Kortisol fördert die viszerale Fettansammlung
-3. **Mitochondriale Biogenese:** Zone 2 ist der primäre Stimulus für neue Mitochondrien in der Skelettmuskulatur — verbessert die Kapazität der Muskeln, Fett in Ruhe und während des Trainings zu oxidieren
-4. **Insulinsensitivität:** Chronisches Zone-2-Training verbessert die Insulinsensitivität erheblich und reduziert das Nüchterninsulin — einen der Haupttreiber der viszeralen Fettansammlung
-5. **Selektivität:** Viszerales Fett reagiert auf aerobe Steady-State-Belastungen metabolisch stärker als subkutanes Fett
-
-## Anwendung in Olegs Protokoll
-
-Zone 2 ist als **Prioritätsmaßnahme** in den Strukturbefunden aus [[3D Body Scan Scaneca Mai 2026]] ausgewiesen:
-
-- **Ziel:** WHR von 0,92 → <0,86 reduzieren (12-Wochen-Ziel)
-- **Mechanismus:** Viszeral-selektiver Fettabbau (visceral-selective fat loss)
-- **Kombiniert mit:** Ernährungsprotokoll (2.800 kcal / ~845 kcal Defizit)
-- **Zielwert:** Gesamtkörperfettanteil von 20,3 % → 14–17 % reduzieren
-
-Siehe [[Körper und Body Composition Scan Source Detail]] für das Strukturbefunddokument.
-
-## Zone 2 und Hyrox
-
-Zone 2 Training baut außerdem die **aerobe Basis** auf, die für die [[Hyrox Competition|Hyrox-Wettkampf]]-Leistung erforderlich ist:
-- Die Laufsegmente zwischen den Hyrox-Stationen werden von den meisten Athleten auf dem Sub-Elite-Niveau nahe der Zone-2-Intensität absolviert
-- Eine stärkere aerobe Basis bedeutet schnellere Erholung zwischen den hochintensiven Stationen
-- Zone 2 ergänzt das [[Brick Training]] und die hochintensiven Hyrox-spezifischen Einheiten
-
-## Zone-2-Modalitäten
-
-| Modalität | Hinweise |
+| Parameter | Wert |
 |---|---|
-| Laufen (lockeres Tempo) | Am direktesten auf Hyrox übertragbar |
-| Radfahren | Geringere Belastung; nützlich an Erholungstagen |
-| Rudern | Ganzkörper; relevant für SkiErg/Row Erg bei Hyrox |
-| Schwimmen | Kreuztraining-Option |
-| Gehen (Steigung) | Zugänglicher Einstiegspunkt |
+| **HFmax-Bereich** | 60–70% der maximalen Herzfrequenz |
+| **Praktischer Test** | Nasenatemtest: Nasenatmung ohne Probleme möglich |
+| **Sprachtest** | Vollständige Sätze sprechen möglich |
+| **Charakter** | „Komfortabel unbequem" — aerob, nicht anaerob |
 
-## Wechselwirkung mit dem Supplement-Stack
+**Abgrenzung nach oben:** Sobald Mundatmung notwendig wird oder vollständige Sätze nicht mehr möglich sind → oberhalb Zone 2.
 
-- **[[Kreatin]]:** Beeinträchtigt die Zone-2-Anpassung nicht; unterstützt die Kraftleistung an den Hyrox-Stationen
-- **[[Omega-3]]:** Reduziert Entzündungen — unterstützt das Zone-2-Trainingsvolumen
-- **Koffein:** Kann die Herzfrequenz leicht erhöhen; bei der Zone-2-Kalibrierung berücksichtigen
+---
+
+## Olegs Zone-2-Protokoll
+
+| Parameter | Detail |
+|---|---|
+| **Frequenz** | 3–4×/Woche |
+| **Dauer** | 30–60 Min pro Einheit |
+| **Progression** | Wöchentlich +5 Min, sobald die Einheit stabil absolviert wird |
+| **Startpunkt** | 30 Min @ Zone 2 → Aufbau auf 45–60 Min |
+| **Priorität** | Vor Intensität — Zone 2 wird nie zugunsten von HIIT geopfert |
+
+---
+
+## Physiologische Wirkungen
+
+### Mitochondriale Anpassungen
+Zone 2 ist das effektivste Training für die **mitochondriale Dichte und Effizienz**:
+- Erhöhte Anzahl von Mitochondrien in Muskelzellen
+- Verbesserte Fettoxidation (Fettverbrennung als Primärquelle)
+- Höhere aerobe Kapazität (VO2max-Verbesserung)
+- Bessere Laktatpufferkapazität (verschiebt die anaerobe Schwelle)
+
+### Kardiovaskuläre Anpassungen
+- Schlavolumenerhöhung (Herzmuskel wird effizienter)
+- Reduzierte Ruheherzfrequenz
+- Verbesserte Kapillarisierung der Muskulatur
+
+### Metabolische Anpassungen (WHR-Reduktion)
+Zone 2 ist besonders effektiv für die Reduktion von **viszeralem Fett**:
+- Fettverbrennung bei moderater Intensität bevorzugt viszerale Fettdepots
+- Insulinsensitivität steigt
+- Direkter Mechanismus zur WHR-Reduktion von 0,92 → <0,86
+
+---
+
+## Zone 2 im Hyrox-Kontext
+
+Hyrox ist ein primär **aerob dominierter** Wettkampf — die 8 km Laufen plus 8 Stationen ohne Erholungspausen erfordern eine starke aerobe Basis. Ohne Zone-2-Fundament führt jede Intensität zu frühzeitiger Erschöpfung:
+
+| Aerobes Fundament | Konsequenz im Wettkampf |
+|---|---|
+| Schwach | Frühe Laktatakkumulation → Tempo erzwungenermaßen reduziert |
+| Stark | Stationen können mit höherer Intensität absolviert werden |
+| Sehr stark | Konstantes Race-Pace-Niveau über alle 8 Stationen |
+
+---
+
+## Periodisierung mit anderen Trainingsformen
+
+| Trainingsform | Verhältnis zu Zone 2 |
+|---|---|
+| **Kraft + Conditioning** | Immer nach Zone 2 priorisiert; 2×/Woche zusätzlich |
+| **HIIT / Race-Pace** | Erst ab Woche 10–12 (nach Zone-2-Fundament) |
+| **Hyrox-Stationen** | Ab Woche 7 integriert, auf Zone-2-Basis |
+| **Haltungskorrektur** | Täglich, parallel zu Zone 2 |
+
+**Wichtige Regel:** Kein Cold Exposure direkt nach Krafttraining (hemmt Hypertrophie). Cold Exposure erlaubt: nach Zone 2 oder an trainingsfreien Tagen.
+
+---
+
+## Verhältnis zu Biomarkern
+
+Zone 2 Training hat messbare Auswirkungen auf mehrere Marker im [[Biomarker Testing]]-Panel:
+
+| Biomarker | Erwartete Veränderung |
+|---|---|
+| Nüchtern-Glucose | Sinkt (verbesserte Insulinsensitivität) |
+| Nüchtern-Insulin | Sinkt |
+| Triglyzeride | Sinken |
+| HDL-C | Steigt |
+| hsCRP | Sinkt (Entzündungsreduktion) |
+
+---
+
+## Abgrenzung zu anderen Zonen
+
+| Zone | % HFmax | Energiequelle | Zweck |
+|---|---|---|---|
+| Zone 1 | <60% | Fett (sehr niedrig) | Aktive Erholung |
+| **Zone 2** | **60–70%** | **Fett (primär)** | **Aerobe Basis, Mitochondrien** |
+| Zone 3 | 70–80% | Fett + Kohlenhydrate | Aerob-anaerober Übergang |
+| Zone 4 | 80–90% | Kohlenhydrate (primär) | Laktatschwelle |
+| Zone 5 | >90% | Kohlenhydrate (fast ausschl.) | VO2max, HIIT |
+
+---
 
 ## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026]] — WHR-Zielwert, der die Zone-2-Priorität ausgelöst hat
-- [[Körper und Body Composition Scan Source Detail]] — Quelldokument
-- [[Hyrox Competition]] — sekundäre Zone-2-Anwendung (aerobe Basis)
-- [[Brick Training]] — ergänzende Hyrox-Trainingsmodalität
+- [[Hyrox Competition]] — primäre Wettkampfanwendung
+- [[Hyrox Vorbereitung Source]] — vollständiges Trainingsprotokoll
+- [[3D Body Scan Scaneca Mai 2026]] — WHR 0,92, Zone 2 als WHR-Interventionsstrategie
+- [[Forward Head Posture]] — struktureller Blocker, Atemkapazität
+- [[Corrective Exercise]] — parallele Strukturintervention
+- [[Biomarker Testing]] — messbare metabolische Auswirkungen
 - [[BMR and TDEE]] — metabolischer Kontext
-- [[Health Protocol Master]] — Masterprotokoll
-- [[Peter Attia]] — Zone-2-Framework-Referenz
-- [[Corrective Exercise]] — parallele Prioritätsmaßnahme (bilaterale Asymmetrie)
-- [[Forward Head Posture]] — paralleler Strukturbefund
-- [[Oleg Personal Context]] — Betroffener
+- [[Health Protocol Master]] — übergeordnetes Protokoll
+- [[Oleg Personal Context]] — Athlet

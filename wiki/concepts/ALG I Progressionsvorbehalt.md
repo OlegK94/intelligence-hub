@@ -1,11 +1,16 @@
 ---
-title: ALG I Progressionsvorbehalt
+title: "ALG I Progressionsvorbehalt"
 type: concept
 tags: [steuern, alg-i, progressionsvorbehalt, einkommensteuer, §32b-estg, §46-estg, finanzen, 2025, lohnersatzleistung]
-sources: ["raw/Privat/Finanzen/00 MOC Finanzen.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md", "raw/Privat/Finanzen/Einnahmen/ALG I 2025.md", "raw/Privat/Finanzen/Steuern/ALG I Progressionsvorbehalt.md"]
+sources:
+  - "raw/Privat/Finanzen/00 MOC Finanzen.md"
+  - "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"
+  - "raw/Privat/Finanzen/Einnahmen/ALG I 2025.md"
+  - "raw/Privat/Finanzen/Steuern/ALG I Progressionsvorbehalt.md"
+  - "raw/Finanzdaten/Obsidian_Vault/Steuern/ALG I Progressionsvorbehalt.md"
 created: 2026-06-12
-updated: 2026-06-12
-summary: Deutsches Steuerprinzip — ALG I ist steuerfrei, erhöht aber den anzuwendenden Steuersatz auf alle übrigen steuerpflichtigen Einkünfte (§32b EStG); erhöht Olegs Steuerlast 2025 spürbar; bei ~8.400 € ALG I und Wagglz-GF-Gehalt beträgt die Mehrbelastung ~2.000 €; Pflichtveranlagung wird durch §46 EStG ausgelöst; genaue Berechnung durch SP STB
+updated: 2026-06-14
+summary: Deutsches Steuerprinzip — ALG I ist steuerfrei, erhöht aber den anzuwendenden Steuersatz auf alle übrigen steuerpflichtigen Einkünfte (§32b EStG); erhöht Olegs Steuerlast 2025 spürbar; bei ~8.400 € ALG I und Wagglz-GF-Gehalt beträgt die Mehrbelastung ~2.000 €; Pflichtveranlagung wird durch §46 EStG ausgelöst; genaue Berechnung durch SP STB; zweiter Vault-Pfad (Finanzdaten/Obsidian_Vault/Steuern/) bestätigt alle Angaben
 ---
 
 # ALG I Progressionsvorbehalt
@@ -37,7 +42,7 @@ Der Steuerpflichtige zahlt **mehr Steuer auf sein Arbeitseinkommen**, als er ohn
 
 ## Größenordnung für Oleg (2025)
 
-Mit der nun bekannten Zahl von **~8.400 € ALG I** (bis ca. Juni 2025):
+Mit der bekannten Zahl von **~8.400 € ALG I** (bis ca. Juni 2025):
 
 | Szenario | Steuerpflichtiges Einkommen | ALG I | Steuersatz-Basis | Gezahlte Steuer |
 |---|---|---|---|---|
@@ -48,7 +53,7 @@ Mit der nun bekannten Zahl von **~8.400 € ALG I** (bis ca. Juni 2025):
 
 ## Berechnungsbeispiele
 
-Zwei illustrative Beispiele wurden dokumentiert (beide schematisch — nicht Olegs genaue Zahlen):
+Zwei illustrative Beispiele wurden aus den Quelldokumenten dokumentiert (beide schematisch — nicht Olegs genaue Zahlen):
 
 ### Beispiel A — Konzeptseite (Einkommensbasis 50.000 €)
 
@@ -58,7 +63,7 @@ Zwei illustrative Beispiele wurden dokumentiert (beide schematisch — nicht Ole
 | Mit ALG I | 50.000 € | +8.400 € | ~34% (auf 58.400 €) | ~17.000 € |
 | **Differenz** | — | — | +4% | **+2.000 €** |
 
-### Beispiel B — Quelldokument (Einkommensbasis 30.000 €, 2025)
+### Beispiel B — Beide Quelldokumente (Einkommensbasis 30.000 €, 2025)
 
 | | |
 |---|---|
@@ -70,7 +75,7 @@ Zwei illustrative Beispiele wurden dokumentiert (beide schematisch — nicht Ole
 | vs. ohne Progressionsvorbehalt | ~5.500 € |
 | **Mehrbelastung ca.** | **~2.000 €** |
 
-*Quelle: [[ALG I Progressionsvorbehalt Source Detail]]. Beide Beispiele sind nur zur Veranschaulichung — genaue Berechnung durch [[SP STB]].*
+*Beide Quellen (`raw/Privat/Finanzen/Steuern/` und `raw/Finanzdaten/Obsidian_Vault/Steuern/`) liefern identische Zahlen. Genaue Berechnung durch [[SP STB]].*
 
 ## Konsequenzen für die Steuererklärung
 
@@ -80,13 +85,21 @@ Zwei illustrative Beispiele wurden dokumentiert (beide schematisch — nicht Ole
 - Fehlerhafte Handhabung ist ein häufiger Fehler bei der Steuererklärung — Unter- oder Nichtangabe des ALG I
 - §46 EStG macht die Abgabe **verpflichtend** (Pflichtveranlagung)
 
+## Quellenbestätigung
+
+Das Konzept und das Berechnungsbeispiel werden durch zwei unabhängige Vault-Pfade bestätigt:
+- `raw/Privat/Finanzen/Steuern/ALG I Progressionsvorbehalt.md` — Primärquelle
+- `raw/Finanzdaten/Obsidian_Vault/Steuern/ALG I Progressionsvorbehalt.md` — Bestätigung; identischer Inhalt
+
+Keine Widersprüche zwischen den Quellen.
+
 ## Verwandte Seiten
 
-- [[ALG I Progressionsvorbehalt Source Detail]] — Quelldokument mit ausgearbeitetem 2025-Beispiel
+- [[ALG I Progressionsvorbehalt Source Detail]] — Quelldokument (beide Vault-Pfade konsolidiert)
 - [[ALG I 2025]] — der ALG-I-Bezug, der diesen Mechanismus auslöst
 - [[ALG I 2025 Source Detail]] — Quelldokument zu den ALG-I-Fakten
 - [[ESt 2025]] — Steuererklärung, in der dies relevant ist
 - [[Wagglz GF-Gehalt 2025]] — steuerpflichtiges Einkommen, das vom höheren Steuersatz betroffen ist
 - [[SP STB]] — Steuerberater, der die Erklärung erstellt
 - [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context|Persönlicher Kontext Oleg]] — Steuerpflichtiger
+- [[Oleg Personal Context]] — Steuerpflichtiger

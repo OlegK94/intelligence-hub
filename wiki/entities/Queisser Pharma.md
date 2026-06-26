@@ -1,39 +1,54 @@
 ---
 title: Queisser Pharma
 type: entity
-tags: [performance-cafe, CMO, contract-manufacturing, Flensburg, GMP, ISO-22000, NEM, sachets, ops]
+tags: [performance-cafe, CMO, contract-manufacturing, Germany, Flensburg, GMP, ISO-22000, NEM, sachets, pulver, ops]
 sources: ["raw/Business/PerformanceCafe/ops/supplier_list.md"]
 created: 2026-06-15
 updated: 2026-06-15
-summary: Deutscher CMO (Flensburg) auf der Lieferantenliste der Performance Coffee Brand — NEM-, Sachet- und Pulverspezialist; ISO 22000 + GMP zertifiziert; nicht in der Top-5-Prioritätsliste für die erste E-Mail-Kontaktaufnahme
+summary: Deutscher CMO-Kandidat für die Performance Coffee Brand — Flensburg; spezialisiert auf Nahrungsergänzungsmittel (NEM), Sachets und Pulver; ISO 22000 und GMP-zertifiziert; in der Supplier List unter „Sofort kontaktieren" gelistet
 ---
 
 # Queisser Pharma
 
 ## Überblick
 
-**Queisser Pharma** ist ein deutscher Lohnhersteller (CMO) mit Sitz in Flensburg, der in der [[Performance Coffee Brand]] [[Performance Cafe Supplier List|Lieferantenliste]] unter „sofort kontaktieren" aufgeführt ist. Das Unternehmen ist spezialisiert auf NEM (Nahrungsergänzungsmittel), Sachets und Pulverformate und verfügt sowohl über eine ISO 22000- als auch eine GMP-Zertifizierung.
+**Queisser Pharma** ist ein deutscher Pharmahersteller mit Sitz in Flensburg, der Nahrungsergänzungsmittel (NEM), Sachets und Pulver-Produkte als Contract Manufacturer (CMO) produziert. Im Rahmen der [[Performance Coffee Brand]] ist Queisser in der operativen Lieferantenliste unter „Sofort kontaktieren" gelistet.
 
 ## Eckdaten
 
-| Parameter | Detail |
+| Parameter | Details |
 |---|---|
 | **Land** | Deutschland (Flensburg) |
 | **Spezialisierung** | NEM, Sachets, Pulver |
 | **Zertifizierungen** | ISO 22000, GMP |
 | **Website** | queisser.de |
-| **CMO-Priorität** | Nicht in der Top-5-E-Mail-Liste |
+| **Kategorie** | Contract Manufacturer (CMO) |
 
-## Zertifizierungsstärke
+## Relevanz für Performance Coffee Brand
 
-Queisser verfügt über **sowohl ISO 22000 als auch GMP** — die stärkste Zertifizierungskombination in der Lieferantenliste, gleichauf mit [[Aidea]] (GMP + Halal). Damit ist Queisser einer der am besten positionierten CMOs für den [[Kölner Liste]]-Weg.
+Queisser Pharma erfüllt mehrere kritische CMO-Anforderungen der [[Performance Coffee Brand]]:
 
-> ⚠️ **Hinweis:** Trotz starker Zertifizierungen und direkter Formatrelevanz (NEM + Sachets) erscheint Queisser Pharma nicht in der Prioritätsliste mit 5 Kandidaten des [[CMO Erstkontakt Email Template]]. Mögliche Erklärungen: (a) Standort Flensburg (Norddeutschland — weniger günstig als Düsseldorf/Hamburg); (b) primär pharmazeutischer/NEM-Fokus statt Functional Food/Kaffee; (c) höhere MOQs für Pilotchargen. Diese Lücke sollte untersucht werden — Queissers doppelte GMP + ISO 22000 Zertifizierung könnte es rechtfertigen, das Unternehmen in die Kontaktaufnahme aufzunehmen.
+| Anforderung | Queisser-Eignung |
+|---|---|
+| Stick-Pack/Sachet-Abfüllung (8–12g) | ✅ Spezialisierung auf Sachets |
+| GMP-Zertifizierung | ✅ GMP-zertifiziert |
+| Kölner-Liste-readiness | Zu klären — GMP ist Voraussetzung |
+| Schutzgas-Versiegelung (N₂) | Zu klären |
+| NAC-Geruchsmaskierung / Flavoristen-Netzwerk | Zu klären |
+| Kaffee-Instant + Functional Ingredients | Zu klären (Schwerpunkt NEM) |
+
+## Status
+
+- [ ] Erstkontakt-E-Mail versenden
+- [ ] Antwort abwarten
+- [ ] Anforderungen (Sachet-Format, Kaffee-Basis, N₂-Versiegelung) klären
+- [ ] Videocall vereinbaren
 
 ## Verwandte Seiten
 
-- [[Performance Cafe Supplier List|Lieferantenliste]] — Quelldokument
-- [[CMO Sourcing Performance Coffee]] — CMO-Bewertung
-- [[CMO Erstkontakt Email Template]] — Outreach-Liste (Queisser nicht enthalten — siehe Hinweis)
-- [[Kölner Liste]] — Zertifizierung, die Queissers GMP unterstützt
-- [[Performance Coffee Brand]] — Projekteinheit
+- [[Performance Cafe Supplier List Source Detail]] — Quelldokument
+- [[CMO Sourcing Performance Coffee]] — Evaluierungsrahmen
+- [[Performance Coffee Brand]] — Projektentität
+- [[Prinova]] — Priority-1-CMO-Kandidat
+- [[Herbafit]] — weiterer DACH-CMO-Kandidat
+- [[Lehvoss Nutrition]] — weiterer DACH-CMO-Kandidat

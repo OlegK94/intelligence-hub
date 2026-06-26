@@ -1,177 +1,165 @@
 ---
-title: Claude Session Template Performance
+title: "Claude Session Template Performance"
 type: source
-tags: [template, claude, performance, training, nutrition, hyrox, longevity, supplement, blutbild, oleg]
-sources: ["raw/Privat/Finanzen/Templates/Claude Session – Performance.md"]
+tags: [template, claude, performance, training, ernährung, longevity, hyrox, zone-2, oleg, body-composition, whrs, protein, kalorien]
+sources: ["raw/Finanzdaten/ObsidianVault/Templates/Claude Session – Performance.md"]
 created: 2026-06-13
-updated: 2026-06-13
-summary: Wiederverwendbares Claude-Session-Template für Olegs Performance & Leben Domain — enthält einen persistenten Kontextblock mit Körperkennzahlen sowie fünf Session-Typ-Subtemplates für Trainingspläne, Ernährungs-Tracking, Supplement-Checks, Blutbild-Interpretation und Hyrox-spezifische Blöcke
+updated: 2026-06-20
+summary: Wiederverwendbare KI-Vorlage für Claude-Sessions zu Training, Ernährung, Körper und Longevity — enthält festen Kontext-Block mit Olegs aktuellen Körperdaten (Scan 29.05.2026, 96,7 kg, 20,3% KFA, WHR 0,92, Ziel <0,86, Protein ~220 g/Tag, 2.800 kcal) sowie fünf Session-Typen: Trainingsplan, Ernährungs-Tracking, Supplement-Check, Blutbild-Interpretation, Hyrox-spezifisch
 ---
 
 # Claude Session Template — Performance
 
 ## Überblick
 
-Dieses Quelldokument ist ein wiederverwendbares Prompt-Template für [[Oleg Personal Context|Olegs]] **Performance & Leben** Claude-Projekt (siehe [[Claude Projects Setup]]). Es ist so konzipiert, dass neue Sessions stets mit einem persistenten Kontextblock beginnen — wodurch das wiederholte Erklären von Basiskennzahlen entfällt — gefolgt von einem spezifischen Session-Typ-Template.
+Dieses Quelldokument erfasst die wiederverwendbare KI-Vorlage (Claude-Session-Template) für alle Gespräche zu Training, Ernährung, Körper und Longevity im Vault von [[Oleg Personal Context|Oleg]]. Die Vorlage enthält einen **festen Kontext-Block**, der bei jeder neuen Session eingefügt wird, und fünf **Session-Typen** für strukturierte Anfragen.
 
-Das Template ist gespeichert unter `raw/Privat/Finanzen/Templates/Claude Session – Performance.md` (Hinweis: abgelegt unter Finanzen/Templates, obwohl der Inhalt zur Performance-Domain gehört).
-
-> Zur übergeordneten Claude-Projects-Architektur siehe [[Claude Projects Setup]] und [[Claude Projects Setup Source Detail]].
+Die Seite war im Wiki bereits als referenziertes Konzept bekannt (in [[3D Body Scan Scaneca Mai 2026]] und [[BMR and TDEE]] verlinkt). Diese Ingestion ergänzt die fehlende Source-Seite mit vollständigem Quelldokument-Inhalt.
 
 ---
 
-## Persistenter Kontextblock
+## Kontext-Block (unveränderlich)
 
-Der folgende Kontextblock ist dafür vorgesehen, am Anfang jeder neuen Konversation eingefügt zu werden:
+Der Kontext-Block enthält Olegs aktuelle Körperdaten und wird bei jeder Session eingefügt:
 
-```
-KONTEXT — NICHT NEU ERKLÄREN
-
-Person: Oleg Kober, 32 J., Berlin. 188 cm, 96,7 kg.
-Scan: 29.05.2026, Scaneca/Labor Berlin.
-
-Körperdaten:
-- Körperfett: 20,3 % | Lean Mass: 77,1 kg
-- Taille: 97,2 cm | Taille-Hüfte-Ratio: 0,92 (Ziel: <0,86)
-- Grundumsatz: 2.113 kcal
-- Zielkalorien: ~2.800 kcal/Tag | Protein: ~220 g/Tag
-
-Strukturelle Befunde:
-- Ausgeprägte Kopfvorneigung (~30°)
-- Körperschwerpunkt rechts verschoben (bilaterale Asymmetrie)
-- Viszeral-Fettverteilung (WHR 0,92)
-
-Ziele: Körperfett reduzieren, Oberkörper aufbauen, Hyrox-Performance, Longevity.
-Hauptlimitor Hyrox: Aerobe Kapazität.
-
-Referenzrahmen: Huberman, Attia, Bryan Johnson. Evidenzbasiert.
-Ton: Direkt, konkret, kein Wellness-Bullshit. Deutsch.
-```
-
----
-
-## Durch diese Quelle bestätigte Schlüsselkennzahlen
-
-Dieses Template bestätigt unabhängig die folgenden Kennzahlen, konsistent mit [[3D Body Scan Scaneca Mai 2026]]:
-
-| Kennzahl | Wert | Konsistent mit Scan? |
-|---|---|---|
-| Alter | 32 Jahre | ✅ |
-| Standort | Berlin | ✅ |
-| Größe | 188 cm | ✅ |
-| Gewicht | 96,7 kg | ✅ |
-| Körperfett | 20,3 % | ✅ |
-| Lean Mass | 77,1 kg | ✅ |
-| Taillenumfang | 97,2 cm | ✅ |
-| Taille-Hüfte-Ratio | 0,92 | ✅ (konsistent mit Taille 97,2 / Hüfte 105,5 = 0,922) |
-| Grundumsatz | 2.113 kcal | ✅ |
-| Tägliches Kalorienziel | ~2.800 kcal | ✅ |
-| Kopfvorneigung | ~30° | ✅ |
-| Scan-Datum | 29.05.2026 | ✅ |
-
-### ⚠️ Kleinere Abweichung: Protein-Zielwert
-
-Dieses Template gibt **~220 g/Tag** als Proteinziel an. Die Entitätsseite [[3D Body Scan Scaneca Mai 2026]] nennt **195–200 g/Tag**, und [[BMR and TDEE]] verwendet denselben aus dem Scan-Dokument abgeleiteten Wert von 195–200 g.
-
-> ⚠️ **Widerspruch festgestellt:** Abweichung beim Proteinziel — Scan- und Protokollseiten nennen 195–200 g/Tag; dieses Template gibt ~220 g/Tag an. Das Template repräsentiert möglicherweise ein aktualisiertes oder aufgerundetes Ziel (eventuell nach dem Scan festgelegt) oder eine andere Berechnungsmethode (z. B. 2,3 g pro kg Körpergewicht × 96,7 kg ≈ 222 g gegenüber der Lean-Mass-basierten Berechnung von ~2,6 g/kg Lean Mass × 77,1 kg ≈ 200 g). Der 220-g-Wert basiert auf dem Körpergewicht; 195–200 g basieren auf der Lean Mass. **Beide Ansätze sind valide.** Der 220-g-Wert des Templates sollte als operativ genutztes Ziel in Claude-Sessions vermerkt werden.
-
-### ⚠️ Neue Datenpunkte: WHR-Ziel und bilaterale Asymmetrie
-
-Dieses Template ergänzt zwei Datenpunkte, die **bisher nicht im Wiki erfasst** waren:
-
-1. **WHR-Ziel: <0,86** — Die Scan-Seiten dokumentieren WHR = 0,92, nennen aber keinen Ziel-WHR. Dieses Template fügt das Ziel hinzu: **<0,86**.
-2. **Bilaterale Asymmetrie / Körperschwerpunkt nach rechts verschoben** — Dieser strukturelle Befund ist weder auf der Seite [[3D Body Scan Scaneca Mai 2026]] noch auf [[3D Body Scan]] enthalten. Er sollte dort ergänzt werden.
-3. **Viszeral-Fettverteilung explizit benannt** (nicht nur aus dem WHR abgeleitet) — ergänzt die klinische Einordnung.
-4. **Hauptlimitor Hyrox: Aerobe Kapazität** — benennt die aerobe Kapazität explizit als primären limitierenden Faktor für [[Hyrox Competition]], konsistent mit [[Hyrox 10-Week Training]], aber bisher nicht so explizit im Wiki formuliert.
-5. **Peter Attia als Referenz ergänzt** — Das Template listet Huberman, Attia, Bryan Johnson. [[Peter Attia]] taucht im Wiki als Referenzperson auf, doch dieses Template bestätigt seine explizite Aufnahme in Olegs Performance-Referenzrahmen neben [[Andrew Huberman]] und [[Bryan Johnson]].
-
----
-
-## Fünf Session-Typ-Templates
-
-### 1. Trainingsplan erstellen
-
-**Erforderliche Variablen:**
-- Verfügbare Trainingstage (Trainingstage pro Woche)
-- Sedentäre Zeit (Arbeitskontext: Büro / Homeoffice / gemischt)
-- Schlaf-Routine (Schlafplan: Einschlaf- und Aufwachzeit)
-- Equipment (Fitnessstudio / zu Hause / beides)
-
-**Angeforderter Output:** Wochenprotokoll mit Zone 2, Kraft, Hyrox-Stationen und Haltungskorrektur.
-
-Dies entspricht der Trainingsstruktur aus [[Health Protocol Master]]: Die vier Komponenten (Zone 2, Kraft, Hyrox-spezifische Stationen, Haltungskorrektur) sind genau die Bausteine von Olegs aktuellem Trainings-Split.
-
-### 2. Ernährungs-Tracking
-
-**Erforderliche Variablen:**
-- Beschreibung der an diesem Tag gegessenen Mahlzeiten
-
-**Angeforderter Output:** Analyse der Proteinzielerreichung, Kalorienbilanz, Timing-Optimierungen.
-
-Dies unterstützt die tägliche Ausführungsebene des [[BMR and TDEE]]-Frameworks (2.800-kcal-Ziel, ~220 g Protein).
-
-### 3. Supplement-Check
-
-**Erforderliche Variablen:**
-- Aktuelle Supplement-Liste
-- Blutbefunde (falls vorhanden)
-
-**Angeforderter Output:** Lücken, Redundanzen und Optimierungsmöglichkeiten identifizieren.
-
-Dieses Template unterstützt direkt [[Supplement Stack]]-Review-Sessions und blutbildgestützte Protokollanpassungen.
-
-### 4. Blutbild-Interpretation
-
-**Erforderliche Variablen:**
-- Datum der Blutabnahme
-- Laborwerte
-
-**Angeforderter Output:** Interpretation anhand **Longevity-optimaler Referenzbereiche** (nicht nur anhand der Standardlabor-Referenzbereiche); priorisierte Interventionsliste.
-
-> **Wesentliche Unterscheidung:** Das Template fordert explizit eine Interpretation anhand Longevity-optimaler Benchmarks, nicht anhand klinischer Standardbereiche. Dies ist konsistent mit dem Referenzrahmen aus [[Oleg Personal Context]] (Attia, Huberman, Johnson), bei dem sich Longevity-optimale Bereiche häufig erheblich von klinischen Referenzbereichen unterscheiden (z. B. ApoB <60 mg/dL für Longevity gegenüber <130 mg/dL als klinischer Normwert).
-
-### 5. Hyrox-Spezifisch
-
-**Erforderliche Variablen:**
-- Wettkampfdatum / Zieldatum
-- Aktuelle Schwachstellen (Stationen / aerobe Ausdauer / spezifisch)
-
-**Angeforderter Output:** Spezifischer Trainingsblock für X Wochen bis zum Wettkampf.
-
-Dieses Template unterstützt die Planung von [[Hyrox 10-Week Training]] sowie zukünftige wettkampfspezifische Blöcke.
-
----
-
-## Integration in die Claude-Projects-Architektur
-
-Dieses Template ist für die Verwendung im kontextgesteuerten Projekt **Performance & Leben** konzipiert (siehe [[Claude Projects Setup]]):
-
-| Template-Element | Ausrichtung auf Claude Projects |
+| Feld | Wert |
 |---|---|
-| Persistenter Kontextblock | Ergänzung des kontextgesteuerten Projektgedächtnisses |
-| Direkter Ton, kein Wellness-Bullshit | Globale Präferenz: direkt, präzise |
-| Deutschsprachiger Output | Globale Präferenz: immer Deutsch |
-| Evidenzbasiertes Framework | Projektrolle: Elite Performance Coach |
-| Sofort umsetzbare Ergebnisse | Globale Präferenz: sofort verwendbar |
+| **Person** | Oleg Kober, 32 J., Berlin |
+| **Körpergröße** | 188 cm |
+| **Gewicht** | 96,7 kg |
+| **Scan-Datum** | 29.05.2026, Scaneca / Labor Berlin |
+| **Körperfett** | 20,3% |
+| **Lean Mass** | 77,1 kg |
+| **Taille** | 97,2 cm |
+| **Taille-Hüfte-Ratio (WHR)** | 0,92 |
+| **WHR-Ziel** | <0,86 |
+| **Grundumsatz (BMR)** | 2.113 kcal |
+| **Zielkalorien** | ~2.800 kcal/Tag |
+| **Protein-Ziel** | ~220 g/Tag |
 
-Der Kontextblock fungiert als **manueller Kontext-Inject** — er kompensiert die Einschränkungen beim sitzungsübergreifenden Gedächtnis, indem er sicherstellt, dass die KI stets mit genauen Basisdaten startet.
+### Strukturelle Befunde (Kontext-Block)
+
+| Befund | Detail |
+|---|---|
+| **Kopfvorneigung** | ~30° (Forward Head Posture) |
+| **Körperschwerpunkt** | rechts verschoben (bilaterale Asymmetrie) |
+| **Fettverteilung** | viszeral (WHR 0,92) |
+
+### Ziele und Referenzrahmen
+
+- **Ziele:** Körperfett reduzieren, Oberkörper aufbauen, [[Hyrox Competition|Hyrox]]-Performance, [[Longevity]]
+- **Hauptlimitor Hyrox:** Aerobe Kapazität
+- **Referenzrahmen:** [[Andrew Huberman]], [[Peter Attia]], [[Bryan Johnson]]; evidenzbasiert
+- **Ton:** Direkt, konkret, kein Wellness-Bullshit. Deutsch.
+
+---
+
+## Session-Typen
+
+### 1 — Trainingsplan erstellen
+
+```
+[Kontext-Block oben]
+
+Verfügbare Trainingstage: [X Tage/Woche]
+Sedentäre Zeit: [Büro / Home-Office / gemischt]
+Schlaf-Routine: [Einschlaf: XX:00 | Aufwach: XX:00]
+Equipment: [Gym / Home / beides]
+
+Erstelle wöchentliches Protokoll: Zone 2 + Kraft + Hyrox-Stationen + Haltung.
+```
+
+### 2 — Ernährungs-Tracking
+
+```
+[Kontext-Block oben]
+
+Ich esse heute: [Mahlzeiten beschreiben]
+Analysiere: Protein-Zielerreichung, Kalorienbalance, Timing-Optimierungen.
+```
+
+### 3 — Supplement-Check
+
+```
+[Kontext-Block oben]
+
+Aktuelle Supplemente: [Liste]
+Blutbild-Ergebnis: [Werte einfügen wenn vorhanden]
+Frage: [Was fehlt / was ist überflüssig / Optimierungen?]
+```
+
+### 4 — Blutbild-Interpretation
+
+```
+[Kontext-Block oben]
+
+Meine aktuellen Blutwerte (Abnahme: [Datum]):
+[Werte einfügen]
+
+Interpretiere gegen Longevity-Optimal-Bereiche (nicht nur Laborreferenzwerte).
+Prioritäre Interventionen: was ändere ich zuerst?
+```
+
+### 5 — Hyrox-Spezifisch
+
+```
+[Kontext-Block oben]
+
+Wettkampf: [Datum / Zieldatum]
+Aktuelle Schwächen: [Stationen / aerobe Ausdauer / spezifisches]
+Erstelle: Spezifischen Trainingsblock für [X Wochen] bis Wettkampf.
+```
+
+---
+
+## Bestätigte Werte aus anderen Quellen
+
+Dieses Template dient als **dritte unabhängige Bestätigung** der Körperdaten aus dem [[3D Body Scan Scaneca Mai 2026]]:
+
+| Metrik | Wert in Template | Wert im Scan-Dokument | Übereinstimmung |
+|---|---|---|---|
+| Gewicht | 96,7 kg | 96,7 kg | ✅ |
+| Körperfett | 20,3% | 20,3% | ✅ |
+| Lean Mass | 77,1 kg | 77,1 kg | ✅ |
+| Taille | 97,2 cm | 97,2 cm | ✅ |
+| WHR | 0,92 | 0,92 | ✅ |
+| BMR | 2.113 kcal | 2.113 kcal | ✅ |
+
+### Geringfügige Abweichungen
+
+| Metrik | Template | Scan-Dokument / Health Protocol | Anmerkung |
+|---|---|---|---|
+| **Protein-Ziel** | ~220 g/Tag | ~195–200 g/Tag (aus Magermasse) | Unterschied in der Berechnungsmethode (körpergewichtsbasiert vs. magermasse-basiert) — beide gültig |
+| **WHR-Ziel** | <0,86 | <0,86 | ✅ übereinstimmend |
+
+> ⚠️ **Diskrepanz beim Protein-Ziel:** Das Template verwendet ~220 g/Tag als operatives Ziel (körpergewichtsbasiert: ~2,3 g/kg × 96,7 kg). Das Scan-Dokument und [[Health Protocol Master]] verwenden 195–200 g/Tag (magermasse-basiert: ~2,6 g/kg × 77,1 kg). Das Template-Ziel von 220 g/Tag ist das täglich eingesetzte operative Ziel im KI-Tracking. Kein fundamentaler Widerspruch — unterschiedliche Berechnungsbasen.
+
+---
+
+## Verwendungskontext
+
+Das Template fungiert als **Betriebsanleitung für KI-gestütztes Performance-Coaching**:
+
+- Stellt sicher, dass bei jeder neuen Claude-Session keine erneute Kontextbereitstellung erforderlich ist
+- Standardisiert den Ton (direkt, evidenzbasiert, kein Wellness-Bullshit)
+- Referenzrahmen (Huberman, Attia, Bryan Johnson) verhindert generische Antworten
+- Longevity-Optimal-Interpretation bei Blutbildwerten (nicht nur klinische Referenzbereiche — entspricht [[Biomarker Testing]])
 
 ---
 
 ## Verwandte Seiten
 
-- [[Claude Projects Setup]] — übergeordnete KI-Projektarchitektur
-- [[Claude Projects Setup Source Detail]] — vollständige Claude-Projektkonfiguration
-- [[3D Body Scan Scaneca Mai 2026]] — Quelle aller Körperkennzahlen im Kontextblock
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Rohdaten des Scans
-- [[Health Protocol Master]] — Protokoll, das durch diese Session-Templates unterstützt wird
-- [[Supplement Stack]] — Ziel des Supplement-Check-Templates
-- [[BMR and TDEE]] — metabolische Baseline, auf die im Ernährungs-Template verwiesen wird
-- [[Hyrox 10-Week Training]] — Anwendung des Hyrox-spezifischen Templates
-- [[Hyrox Competition]] — Wettkampfziel
+- [[Oleg Personal Context]] — Person, für die das Template gilt
+- [[3D Body Scan Scaneca Mai 2026]] — Scan-Event, dessen Daten im Template stehen
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — primäres Scan-Quelldokument
+- [[BMR and TDEE]] — metabolische Metriken aus dem Kontext-Block
+- [[Health Protocol Master]] — übergeordnetes Protokoll
+- [[Hyrox Competition]] — Wettkampfziel (Session-Typ 5)
+- [[Zone 2 Training]] — Trainingsmodalität (Session-Typ 1)
+- [[Forward Head Posture]] — struktureller Befund im Kontext-Block
+- [[Biomarker Testing]] — Blutbild-Interpretation (Session-Typ 4)
+- [[Supplement Stack]] — Supplement-Check (Session-Typ 3)
 - [[Andrew Huberman]] — Referenzrahmen
+- [[Peter Attia]] — Referenzrahmen (als „Attia" im Template)
 - [[Bryan Johnson]] — Referenzrahmen
-- [[Peter Attia]] — Referenzrahmen (durch diese Quelle ergänzt)
-- [[Forward Head Posture]] — struktureller Befund, auf den im Kontextblock verwiesen wird
-- [[Oleg Personal Context]] — Subjekt aller Templates
 - [[MOC Performance und Leben]] — übergeordnete MOC

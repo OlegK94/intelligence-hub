@@ -1,113 +1,87 @@
 ---
-title: Wagglz GmbH
+title: "Wagglz GmbH"
 type: entity
-tags: [wagglz, gmbh, unternehmen, performance-cafe, reaktivierung, umstrukturierung, oleg-kober, hai, gesellschaft, operative-einheit, geschäftskonto, finom, arag-versicherung, alg-i]
-sources: ["raw/Business/PerformanceCafe/TODO.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md", "raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
+tags: [wagglz, gmbh, unternehmen, wufflz, tier, b2b-software, finanzen, strategie, auflösung, §17-estg, oleg-darlehen, p1, 2026]
+sources: ["raw/Finanzdaten/Obsidian_Vault/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md", "raw/Business/Wagglz/Design/README.md", "raw/Business/Wagglz/Design/Figma-Manifest-25-b2b-software.md"]
 created: 2026-06-12
-updated: 2026-06-15
-summary: Deutsche GmbH (aktuell: Wagglz — ursprüngliches Geschäftsfeld unklar aus vorliegenden Quellen); geplante Reaktivierung und Umstrukturierung als operative Einheit für die Performance Coffee Brand; Hai soll als 50% Gesellschafter eingetragen werden; ARAG-Versicherung (100,88 €/Quartal) läuft und muss ggf. gekündigt werden; Wagglz Finom 2026 als Geschäftskonto aktiv
+updated: 2026-06-20
+summary: Wagglz GmbH — Olegs Unternehmen; kein Umsatz seit Januar 2026; Strategieentscheidung (Weiterführen vs. Auflösung) fällig bis 2026-07-01; laufende Kosten ~120–255 €/Mo via Oleg-Darlehen; bei Auflösung §17 EStG-Verlust steuerlich nutzbar; Produkt: Wufflz (B2B-Tierpflege-Software)
 ---
 
 # Wagglz GmbH
 
 ## Überblick
 
-**Wagglz GmbH** ist eine deutsche Gesellschaft mit beschränkter Haftung, die in Olegs finanziellem und unternehmerischem Kontext in mehreren Rollen auftritt:
-
-1. **Bisherige Rolle:** GmbH aus der Oleg Gehalt als Geschäftsführer bezog (2025); verknüpft mit [[ALG I 2025]] als Übergangsphase
-2. **Geplante Rolle:** Operative Einheit für die [[Performance Coffee Brand]] — vollständige Reaktivierung und Umstrukturierung geplant
+**Wagglz GmbH** ist [[Oleg Personal Context|Olegs]] Unternehmen, das die B2B-Tierpflege-Software [[Wufflz]] entwickelt. Seit Januar 2026 erzielt die GmbH **keinen Umsatz mehr**. Bis **2026-07-01** muss eine Strategieentscheidung getroffen werden: Weiterführen mit neuem Konzept oder geordnete Auflösung.
 
 ---
 
-## Aktuelle Situation (Stand 2026-06-15)
+## Aktuelle Situation (Stand: Juni 2026)
 
 | Parameter | Status |
 |---|---|
-| **Rechtsstatus** | Aktiv (aber ggf. ruhend / umzustrukturieren) |
-| **Geschäftszweck (aktuell)** | Nicht explizit aus vorliegenden Quellen bekannt |
-| **Geschäftsführer** | Oleg Kober |
-| **Geschäftskonto** | [[Wagglz Finom 2026]] |
-| **Laufende Kosten** | [[ARAG Wagglz Versicherung]] — 100,88 €/Quartal (Kündigung bis 2026-06-30 geplant) |
+| **Umsatz** | Kein Umsatz seit Januar 2026 |
+| **Laufende Kosten** | ~120–255 €/Monat via [[Oleg-Darlehen]] |
+| **Strategieentscheidung** | ⏳ Offen — Deadline 2026-07-01 (P1) |
+| **Produkt (aktiv)** | [[Wufflz]] — B2B-Tierpflege-Software |
+| **Design-Status** | Wireframes exportiert; 18 Frames ([[25 Wufflz Wireframes Figma Manifest]]) |
 
 ---
 
-## Geplante Umstrukturierung für Performance Coffee Brand
+## Strategieoptionen
 
-Die TODO-Liste der [[Performance Coffee Brand]] (2026-06-15) sieht folgende Schritte vor:
+### Option A: Weiterführen (mit neuem Konzept)
+- Erfordert ein überarbeitetes Geschäftskonzept
+- Weitere Investitionen (Oleg-Darlehen)
+- Sinnvoll nur, wenn ein klarer Weg zu Umsatz/Kunden erkennbar ist
 
-### Gesellschaftsrechtliche Änderungen
+### Option B: Auflösung
+- **§17 EStG-Verlust** steuerlich nutzbar (anteilig 60 % nach Teileinkünfteverfahren)
+- Einstellung aller laufenden Kosten (~120–255 €/Mo)
+- Zugehörige Versicherungen ([[ARAG Wagglz Versicherung]] — 100,88 €/Quartal) ebenfalls kündigen
+- Voraussetzung: Klärung der Verbindlichkeiten, Abwicklung der GmbH formal
 
-| Aufgabe | Kosten | Zeitpunkt |
+> ⚠️ **§17 EStG-Verlustnutzung:** Die Höhe des steuerlich nutzbaren Verlustes hängt ab von:
+> 1. Anschaffungskosten der Wagglz-Anteile (Stammkapital + eingezahlte Gesellschafterdarlehen)
+> 2. Verbleibendem Liquidationserlös (wahrscheinlich 0 bei keinem Umsatz)
+> 3. Berechnung durch [[SP STB]]
+
+---
+
+## Produkt: Wufflz
+
+[[Wufflz]] ist die B2B-Tierpflege-Software-Plattform der Wagglz GmbH. Die wichtigsten Design-Artefakte sind dokumentiert:
+
+| Artefakt | Status |
+|---|---|
+| [[25 Wufflz Wireframes Figma Manifest]] | 18 Frames exportiert; 9-stufiger B2B-Onboarding-Flow |
+| [[25 B2B Software Figma Manifest]] | Export ausstehend |
+| [[Wagglz Wufflz Design README]] | Dokumentiert |
+
+---
+
+## Finanzielle Verbindungen
+
+| Posten | Betrag | Kontext |
 |---|---|---|
-| Gesellschaftszweck anpassen (Lebensmittel / NEM) | — | Phase 2 (nach 500 Waitlist-Signups) |
-| Hai als 50% Gesellschafter eintragen | ~500 € (Notar) | Phase 2 |
-| Vesting-Vertrag Hai aufsetzen | ~500–1.000 € (RA) | Phase 2 |
-| IP-Struktur mit OK Capital klären | — (Steuerberater) | Phase 2 |
-| Neues Geschäftskonto eröffnen | 0 € | Phase 2 (Kontist oder Finom für Startups) |
-
-### Gesellschafterstruktur (nach Umstrukturierung)
-
-| Gesellschafter | Anteil |
-|---|---|
-| Oleg Kober | 50% |
-| Hai | 50% |
-
-> ⚠️ **Vesting-Vertrag erforderlich:** Hai soll formal als Gesellschafter eingetragen werden, aber ein Vesting-Vertrag stellt sicher, dass Anteile an Meilensteine/Zeitraum geknüpft sind. Rechtsanwalt erforderlich.
-
----
-
-## Laufende Kosten und Abwicklung
-
-### ARAG Wagglz Versicherung
-
-- **[[ARAG Wagglz Versicherung]]:** 100,88 €/Quartal (= 403,52 €/Jahr)
-- **Kündigung fällig:** 2026-06-30
-- **Grund:** Nicht benötigt; bei Umstrukturierung auf Performance Coffee Brand ggf. ohnehin obsolet
-
-### Wagglz Finom Konto
-
-- **[[Wagglz Finom 2026]]:** Aktives Geschäftskonto
-- Abbuchungsquelle für laufende Wagglz-Kosten (inkl. ARAG)
-- Wird voraussichtlich für Performance Coffee Brand weitergenutzt oder durch neues Konto ersetzt
-
----
-
-## Historischer Kontext
-
-Die Wagglz GmbH war 2025 die Gesellschaft, über die Oleg sein **Geschäftsführergehalt** bezog. Gemeinsam mit dem [[ALG I 2025]] (~8.400 € bis Juni 2025) bildet das GF-Gehalt die wesentliche Einkommensquelle für die [[ESt 2025]]. Details zum Gehalt: [[Wagglz GF-Gehalt 2025 Source Detail]].
-
----
-
-## Strategische Rolle für Performance Coffee Brand
-
-Die Nutzung der bestehenden Wagglz GmbH (statt Neugründung) hat folgende Vorteile:
-
-| Vorteil | Detail |
-|---|---|
-| **Kosteneinsparung** | Keine Notarkosten für Neugründung (~1.000 €+); nur Änderungskosten |
-| **Sofortige Betriebsfähigkeit** | Bestehendes Bankkonto, USt-IdNr., HRB-Nummer |
-| **Zeitersparnis** | Gründungsprozess dauert 2–6 Wochen; Änderung schneller |
-| **Steuerliche Kontinuität** | Bestehende Steuernummer und Steuerberater-Beziehung ([[SP STB]]) |
-
----
-
-## Offene Fragen
-
-- Aktueller Gesellschaftszweck der Wagglz GmbH (aus Quellen nicht klar erkennbar)
-- Bestehende Verbindlichkeiten oder Verträge der Wagglz GmbH (außer ARAG)
-- Klärung mit [[SP STB]] (Steuerberater): IP-Struktur und steuerliche Optimierung bei Umstrukturierung
+| Laufende Kosten | ~120–255 €/Mo | Finanziert via [[Oleg-Darlehen]] |
+| [[ARAG Wagglz Versicherung]] | 100,88 €/Quartal | Vom [[Wagglz Finom 2026]]-Konto |
+| GF-Gehalt 2025 | Siehe [[Wagglz GF-Gehalt 2025 Source Detail]] | Für ESt 2025 relevant |
 
 ---
 
 ## Verwandte Seiten
 
-- [[Performance Coffee Brand]] — geplantes neues Geschäftsfeld
-- [[Performance Coffee Brand TODO Source Detail]] — Quelldokument mit Umstrukturierungs-Aufgaben
-- [[ARAG Wagglz Versicherung]] — laufende Versicherung; Kündigung bis 2026-06-30
-- [[Wagglz Finom 2026]] — aktives Geschäftskonto
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — historisches GF-Gehalt 2025
-- [[ALG I 2025]] — ALG I parallel zur GmbH-Tätigkeit 2025
-- [[ESt 2025]] — Steuererklärung mit GmbH-Einkommen
-- [[SP STB]] — Steuerberater
-- [[Oleg Personal Context]] — Geschäftsführer
+- [[Wufflz]] — Hauptprodukt der GmbH
+- [[ESt 2025]] — Steuererklärung; Wagglz-GF-Gehalt 2025 relevant
+- [[ALG I 2025]] — Gemeinsam mit GF-Gehalt als Einkommensquellen 2025
+- [[Oleg-Darlehen]] — Finanzierung laufender GmbH-Kosten
+- [[ARAG Wagglz Versicherung]] — Zugehörige Versicherung (Kündigung fällig)
+- [[Wagglz Finom 2026]] — Geschäftskonto
+- [[SP STB]] — Steuerberater; zuständig für §17 EStG-Berechnung
+- [[25 Wufflz Wireframes Figma Manifest]] — Design-Artefakt
+- [[25 B2B Software Figma Manifest]] — Design-Artefakt
+- [[P1 Diese Woche Source Detail]] — Aufgabenquelle
+- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltsdetails 2025
 - [[MOC Finanzen]] — übergeordnete Finanz-MOC
+- [[Oleg Personal Context]] — GF und Gesellschafter

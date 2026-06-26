@@ -671,3 +671,303 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-25 21:32 UTC] ingest | raw/raw/Business/PerformanceCafe/ops/certification_roadmap.md
 - Pages: [[Zertifizierungs-Roadmap Performance Coffee]], [[Kölner Liste]], [[Informed Sport]], [[NSF Certified for Sport]], [[NEM-Konformität Performance Coffee]], [[EFSA Health Claims]]
 - Neue Quelle `certification_roadmap.md` eingelesen: Zertifizierungs-Roadmap für Performance Coffee Brand (Kölner Liste, Informed Sport, NSF Certified for Sport) sowie NEM-Konformität und EFSA-Werberichtlinien — neue Seiten für Quelldokument, Kölner Liste, Informed Sport, NSF Certified for Sport und NEM-Konformität erstellt; Performance Coffee Brand-Entität um Zertifizierungskontext erweitert.
+
+## [2026-06-26 07:11 UTC] ingest | raw/raw/Business/PerformanceCafe/ops/cmo-email-template.md
+- Pages: [[CMO Erstkontakt Email Template]], [[Prinova]], [[Lehvoss Nutrition]], [[Nutri-Epitech]], [[Herbafit]], [[Aidea]], [[NAC]], [[CMO Kandidaten Vergleich]]
+- Neue Quelldatei `cmo-email-template.md` eingelesen: E-Mail-Vorlage für CMO-Erstkontakt mit Priorisierungsliste (Prinova, Lehvoss, Nutri-Epitech, Aidea, Herbafit) — NAC-Stack-Hinweis neu, bestehende Aidea-Seite aktualisiert, neue Seiten für Prinova, Lehvoss Nutrition, Nutri-Epitech und Herbafit erstellt, CMO Erstkontakt Email Template als Source-Seite angelegt.
+
+## [2026-06-26 07:15 UTC] ingest | raw/raw/Business/PerformanceCafe/ops/supplier_list.md
+- Pages: [[Performance Cafe Supplier List Source Detail]], [[NAC Geruchsmaskierung]], [[Queisser Pharma]], [[Herbafit]], [[Prinova]], [[Lehvoss Nutrition]], [[Nutri-Epitech]], [[ESB Naturkost]], [[Neumann Kaffee Gruppe]], [[Sievert Storey]], [[Coffee Circle B2B]], [[Trung Nguyen Export]]
+- Neue Quelldatei `raw/Business/PerformanceCafe/ops/supplier_list.md` ingested: Lieferantenliste Performance Coffee Brand mit CMOs (DACH+EU), Rohstoff-Lieferanten (Kaffee-Basis + funktionelle Inhaltsstoffe + Packaging), Analyse-Labore und Flavoristen. Neue Entitäts-Seiten für alle noch nicht im Wiki erfassten Lieferanten erstellt; bestehende Seiten (Aidea) aktualisiert; Konzeptseite für NAC-Maskierung und Überblicksseite für die Supplier List als Source-Seite angelegt.
+
+## [2026-06-26 07:18 UTC] ingest | raw/raw/Business/PerformanceCafe/research/00_master_brief.md
+- Pages: [[Performance Coffee Master Research Brief Source]], [[Performance Coffee Master Research Brief]], [[Performance Coffee Brand]]
+- Master Research Prompt für Performance Café (00_master_brief.md) eingelesen — neue Source-Seite erstellt; Performance Coffee Brand Entity und relevante Konzept-Seiten aktualisiert/erstellt; Index erweitert.
+
+## [2026-06-26 07:23 UTC] ingest | raw/raw/Business/PerformanceCafe/research/01_longevity_science.md
+- Pages: [[Longevity Science Source Detail]], [[Longevity Science Grundlagen]], [[Hallmarks of Aging]], [[Chlorogensäure]], [[Trigonellin]]
+- Neue Quelle `raw/Business/PerformanceCafe/research/01_longevity_science.md` aufgenommen: Longevity Science Grundlagen für die Performance Coffee Brand — 12 Hallmarks of Aging, Chlorogensäure, Trigonellin/NAD+-Pathway, Cafestol/Kahweol, Epidemiologie Kaffee/Mortalität, Biomarker-Profil und DACH-DTC-Testanbieter. Neue Seiten: Source-Zusammenfassung, Konzeptseiten für Hallmarks of Aging, Chlorogensäure, Trigonellin, Cafestol/Kahweol, Inflammaging; Entitätsseiten für Cerascreen und Longevity Science Grundlagen; Index aktualisiert.
+
+## [2026-06-26 07:28 UTC] ingest | raw/raw/Business/PerformanceCafe/research/02_ingredienzen_db.md
+- Pages: [[Performance Café Ingredienzen Datenbank Source Detail]]
+- Ingredienzen-Datenbank für Performance Café (Modul 1) ingested: 40+ Inhaltsstoffe mit EU-Status, Hitzestabilität, COGS und Blueprint-Status; 3 SKU-Varianten dokumentiert; neue Entity-Seiten für Kerninhaltsstoffe (Taurin, L-Theanin, Kreatin, Spermidine, Lion's Mane, Cordyceps, Reishi, NMN, Urolithin A, Quercetin, Fisetin, Curcumin, NAC, Trigonellin) sowie Konzeptseiten für Koffein-Theanin-Ratio, Ashwagandha KSM-66 vs. Sensoril Vergleich, Hitzestabilität-Klassifikation; Master Stack Top 10 und SKU-Übersicht als Synthese; Index erweitert.
+
+## [2026-06-26 07:33 UTC] ingest | raw/raw/Business/PerformanceCafe/research/03_kaffee_specs.md
+- Pages: [[Performance Cafe Kaffee Spezifikation Source Detail]], [[Chlorogensäure]], [[Trigonellin]]
+- Neue Quelldatei 03_kaffee_specs.md für Performance Coffee Brand ingested: Kaffee-Spezifikationsseite erstellt (Robusta vs. Arabica, Vietnamesischer Robusta S18, Röstgrade, Instant-Extraktionsverfahren, Blend-Empfehlung 60/40, Sourcing-Kontakte DACH/EU), plus neue Entitäten für Chlorogensäure, Trigonellin, Vietnamesischer Robusta S18, Freeze-Dried Instant Coffee, und ergänzende Sourcing-Entitäten (Vietnam Rohkaffee Berlin, Bernhard Rothfos, Sucafina, Kaffeekraftwerk Berlin, The Barn Coffee Roasters).
+
+## [2026-06-26 07:38 UTC] ingest | raw/raw/Business/PerformanceCafe/research/04_marktanalyse.md
+- Pages: [[Performance Cafe Marktanalyse Source Detail]], [[Blueprint by Bryan Johnson]], [[Four Sigmatic]], [[RYZE Mushroom Coffee]], [[MUDWTR]], [[Clevr Blends]], [[Bulletproof Coffee]]
+- Marktanalyse Performance Café (Modul 3) vollständig integriert: Neue Source-Seite erstellt, Blueprint-Entität aktualisiert, neue Entitäten für Wettbewerber (Four Sigmatic, RYZE, MUD\WTR, Clevr Blends, Bulletproof, Timeline Nutrition, Tru Niagen, Purovitalis, DoNotAge, Qualia Senolytic) angelegt, neue Konzeptseiten für Functional Coffee White Space, Pricing Strategy und Marktgröße erstellt, Index erweitert.
+
+## [2026-06-26 07:43 UTC] ingest | raw/raw/Business/PerformanceCafe/research/05_prototyp_partner.md
+- Pages: [[Performance Café Prototyp Partner Source Detail]], [[OH!S]], [[Goerlich Pharma GmbH]], [[sanotact GmbH]], [[SternMaid GmbH]], [[Döhler GmbH]], [[Hawlik BioImport GmbH]]
+- Neue Quelle "Prototyp-Partner Performance Café" (Modul 4) eingelesen: CMO-Strategie (OH!S, Goerlich Pharma, sanotact, SternMaid, Döhler), Analytik-Labore (Eurofins, SGS Fresenius, CePreDo/Kölner Liste), Pilzextrakt-Lieferanten (Hawlik BioImport, Functional Mushrooms EU, MUSHEEZ) und 4 Formulierungsherausforderungen (NAC-Geruch, Curcumin-Löslichkeit, NMN/NR-Oxidation, Pilzextrakt-Qualität) mit konkreten Lösungen und Partnern (IFF/NovaSOL, Indena/Meriva, MoleQlar, Symrise) erfasst; 12 neue Wiki-Seiten erstellt/erweitert.
+
+## [2026-06-26 07:48 UTC] ingest | raw/raw/Business/PerformanceCafe/research/06_regulatorik.md
+- Pages: [[Performance Cafe Regulatorik Source Detail]], [[Performance Cafe Regulatorischer Pfad]], [[Novel Food Status Vergleich Performance Cafe]]
+- Regulatorik-Report für Performance Café (Modul 5, 2026-06-14) eingespeist: Novel Food Status (NMN, Urolithin A, Spermidine, NR, Fisetin, Huperzin A), Patent-Landschaft (Amazentis, ChromaDex/Niagen Bioscience, NMN), Zertifizierungs-Roadmap (Kölner Liste, Informed Sport), EFSA Health Claims und kritischer regulatorischer Pfad für EU/DACH-Launch.
+
+## [2026-06-26 07:53 UTC] ingest | raw/raw/Business/PerformanceCafe/research/07_business_case.md
+- Pages: [[Performance Coffee Business Case Source Detail]], [[Hai Partner Performance Café]], [[Performance Coffee Business Case]], [[COGS Performance Café]]
+- Business Case Performance Café (Modul 6) ingested: Neue Source-Seite, neue/aktualisierte Entity-Seiten für Performance Coffee Business Case, Hai (Partner), Funding DACH, Gesellschaftsstruktur; Index erweitert.
+
+## [2026-06-26 07:54 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-25-b2b-software.md
+- Pages: [[25 B2B Software Figma Manifest]]
+- Neue Quellseite erstellt: Figma-Manifest 25 B2B Software (Wagglz/Wufflz Design-Datei, Figma-Key NO7zf85jnhjIcJ13QGyESY, Status: Fehler/ausstehend, keine Frames exportiert); Index aktualisiert unter Wagglz/Design-Bereich.
+
+## [2026-06-26 07:56 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-25-wufflz-wireframes.md
+- Pages: [[25 Wufflz Wireframes Figma Manifest]]
+- Neue Quellseite "25 Wufflz Wireframes Figma Manifest" erstellt; bestehende Wagglz/Wufflz-Entitäten verlinkt; Index aktualisiert.
+
+## [2026-06-26 07:57 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-pitch-deck-investoren-v1.md
+- Pages: [[Pitch Deck Investoren v1 Figma Manifest]]
+- Neue Quelldatei "Pitch Deck Investoren v1" (Figma, File Key 5Fp2RQjupexSkR1eFe638X) ingested: Source-Seite erstellt, Wagglz-Entität und Index aktualisiert.
+
+## [2026-06-26 07:58 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-pitch-deck-investoren-v2.md
+- Pages: [[Pitch Deck Investoren v2 Figma Manifest]]
+- Neue Quellseite "Pitch Deck Investoren v2 Figma Manifest" erstellt und Index aktualisiert — Figma-Datei FnhmUL3cHzDIM2HOFF2306, Kategorie pitch, API-Fehler 403, keine Frames exportiert.
+
+## [2026-06-26 07:59 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-pitch-deck-investoren-v3.md
+- Pages: [[Pitch Deck Investoren v3 Figma Manifest]]
+- Neue Quelldatei "Pitch Deck Investoren v3 Figma Manifest" für Wagglz/Wufflz ingested — Quellseite erstellt und Index aktualisiert; keine Widersprüche zu bestehenden Seiten.
+
+## [2026-06-26 08:01 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-pitch-deck-wufflz-gmbh-editor-banken.md
+- Pages: [[Pitch Deck Wufflz GmbH Editor Banken Figma Manifest]]
+- Neue Quellseite für Pitch Deck Wufflz GmbH Editor Banken (Figma File Key X9DzUUoJwilVPOlkqLiI2b) angelegt — API-Fehler 403, keine Frames exportiert, canonical in 10-Dateien-Migrationsliste; Index aktualisiert.
+
+## [2026-06-26 08:02 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-proto-txernzeob.md
+- Pages: [[Proto TXErnZeob Figma Manifest]]
+- Neue Quellseite für Proto TXErnZeob Figma Manifest erstellt; Index um Wagglz-Design-Eintrag ergänzt.
+
+## [2026-06-26 08:03 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-wufflz-cvs.md
+- Pages: [[Wufflz CVs Figma Manifest]]
+- Neue Quellseite für Wufflz CVs Figma Manifest (NmlKQIeKhRJiPzIMTDmCN3) erstellt; Index um Eintrag unter Sources/Wagglz-Design erweitert.
+
+## [2026-06-26 08:04 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-wufflz-pitchdeck-template.md
+- Pages: [[Wufflz PitchDeck Template Figma Manifest]]
+- Neue Quellseite für Wufflz PitchDeck Template Figma-Manifest erstellt; Index aktualisiert.
+
+## [2026-06-26 08:06 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-wufflz-website-design-copy.md
+- Pages: [[Wufflz Website Design Copy Figma Manifest]]
+- Neue Quellseite für Wufflz Website Design (Copy) Figma-Duplikat erstellt; Index aktualisiert mit neuem Eintrag unter Sources/Wagglz-Design.
+
+## [2026-06-26 08:08 UTC] ingest | raw/raw/Business/Wagglz/Design/Figma-Manifest-wufflz-website-design-dogwalking.md
+- Pages: [[Wufflz Website Design Dogwalking Figma Manifest]]
+- Neue Quelldatei "Wufflz Website Design Dogwalking Figma Manifest" (File Key r8locNzgmU9mw67i5xBiRT) ingested — Quelldokumentseite erstellt; Index aktualisiert; verknüpft mit Wagglz GmbH, Wufflz und bestehenden Figma-Manifestseiten.
+
+## [2026-06-26 08:10 UTC] ingest | raw/raw/Business/Wagglz/Design/README.md
+- Pages: [[Wagglz Wufflz Design README]], [[Wufflz Website Design]], [[Wufflz Pitch Deck Banken]], [[Wufflz Pitch Investoren]], [[25 Wufflz Wireframes Figma Manifest]]
+- Wagglz/Wufflz Design README ingested: Neue Source-Seite erstellt; Wufflz Website Design, Pitch Deck Banken und Pitch Investoren v1–v3 als Entitäten angelegt; bestehende 25 Wufflz Wireframes-Seite um README-Kontext ergänzt; Index aktualisiert.
+
+## [2026-06-26 08:13 UTC] ingest | raw/raw/Business/Wagglz/Design/figma-index.md
+- Pages: [[Figma Index Wagglz Source]], [[Figma Migration Wagglz]]
+- Wagglz/Wufflz Figma Master Index ingested — neue Source-Seite erstellt, bestehende Manifest-Seiten verlinkt, Figma-Katalog-Übersicht als Konzeptseite hinzugefügt, Index aktualisiert.
+
+## [2026-06-26 08:14 UTC] ingest | raw/raw/Business/Wagglz/Design/kits/Figma-Manifest-ant-design-system-for-figma-preview.md
+- Pages: [[Ant Design System for Figma Preview]]
+- Neue Quellseite für Ant Design System for Figma (Preview) erstellt — Drittanbieter-UI-Kit im Wagglz/Wufflz-Design-Kontext, File Key faSohMPNaRaWIimPAQAlCA, kein vollständiger Export erforderlich, Status ausstehend; Index aktualisiert.
+
+## [2026-06-26 08:15 UTC] ingest | raw/raw/Business/Wagglz/Design/kits/Figma-Manifest-nucleus-plus.md
+- Pages: [[Nucleus Plus Figma Manifest]]
+- Neue Quellseite für „Nucleus Plus — Figma Export 2026-06-13" erstellt (Drittanbieter-UI-Kit, File Key wzKhS5oRrI1FgK3cIRfCiP, kits/-Ordner, niedrige Priorität, Status ausstehend); Index um Eintrag ergänzt.
+
+## [2026-06-26 08:17 UTC] ingest | raw/raw/Business/Wagglz/Design/kits/Figma-Manifest-theprojekts-design-system-v2.md
+- Pages: [[theProjekts Design System V2 Figma Manifest]]
+- Neue Quellseite für theProjekts Design System V2 (Figma UI-Kit, File Key YCUvHIoaxSoQSPveySgTLP) erstellt; Index um Wagglz-Design-Quelleintrag ergänzt.
+
+## [2026-06-26 08:18 UTC] ingest | raw/raw/Business/Wagglz/Design/kits/README.md
+- Pages: [[Wagglz UI-Kits README]], [[Ant Design System for Figma Preview]], [[Nucleus Plus Figma Kit]], [[theProjekts Design System V2]]
+- Neue Quellseite "Wagglz UI-Kits README" erstellt; bestehende Seiten "Ant Design System for Figma Preview" und "Figma Index Wagglz" aktualisiert um Nucleus Plus und theProjekts Design System V2; Index erweitert.
+
+## [2026-06-26 08:20 UTC] ingest | raw/raw/Business/Wagglz/Design/legacy-wagglz/Figma-Manifest-my-rex-copy.md
+- Pages: [[My Rex Copy Figma Manifest]]
+- Neue Quellseite für das Figma-Manifest „My Rex (Copy)" (File Key 7yBGOpEg0ETNXR3cQ4bOl4) erstellt; Index um den Eintrag erweitert; Figma Index Wagglz als verwandte Seite referenziert.
+
+## [2026-06-26 08:21 UTC] ingest | raw/raw/Business/Wagglz/Design/legacy-wagglz/Figma-Manifest-wagglz-app-dogwalking.md
+- Pages: [[Wagglz App Dogwalking Figma Manifest]]
+- Neue Quellseite erstellt: Wagglz App Dogwalking Figma Manifest (File Key MUvsIoZBIT0kOdIQjdn0s9) — Dogwalking-Design-Datei im wagglz/-Ordner; Status ausstehend, keine Frames exportiert; index.md aktualisiert.
+
+## [2026-06-26 08:22 UTC] ingest | raw/raw/Business/Wagglz/Design/legacy-wagglz/Figma-Manifest-wagglz-dogwalking.md
+- Pages: [[Wagglz Dogwalking Figma Manifest]]
+- Neue Quellseite für Wagglz Dogwalking Figma Manifest (legacy, File Key JjJ4CgJCqURgjohhbvcOrZ) erstellt; in Index eingetragen; liegt im wagglz/-Ordner (nicht wufflz/); Status ausstehend; noch keine Frames exportiert.
+
+## [2026-06-26 08:24 UTC] ingest | raw/raw/Business/Wagglz/Design/legacy-wagglz/Figma-Manifest-wagglz-research-dogwalking.md
+- Pages: [[Wagglz Research Dogwalking Figma Manifest]]
+- Neue Quellseite für Wagglz Research Dogwalking Figma Manifest (File Key 23wUJ3p6E7Y6Om6qo5GF5w) erstellt — Design/Research-Datei im legacy-wagglz/-Ordner; Status ausstehend; keine Frames exportiert; in Figma-Index-Kontext eingeordnet.
+
+## [2026-06-26 08:25 UTC] ingest | raw/raw/Business/Wagglz/Design/legacy-wagglz/Figma-Manifest-wufflz-app-market-research.md
+- Pages: [[Wufflz App Market Research Figma Manifest]]
+- Neue Quellseite "Wufflz App Market Research Figma Manifest" erstellt — FigJam-Board (File Key IXxrNkPjBIPGi8QbNgpdea) im legacy-Ordner wagglz/; API-Fehler 403 beim Abruf; keine Frames exportiert; Status error; in 10-Dateien-Migrationsliste; Index aktualisiert.
+
+## [2026-06-26 08:27 UTC] ingest | raw/raw/Business/Wagglz/Design/legacy-wagglz/README.md
+- Pages: [[Wagglz Legacy Design README]], [[Figma Manifest Wagglz Dogwalking]], [[Figma Manifest Wagglz App Dogwalking]], [[Figma Manifest Wagglz Research Dogwalking]], [[Figma Manifest My Rex Copy]]
+- Added Wagglz Legacy Design README source page documenting 4 Figma files (Wagglz Dogwalking, Wagglz App Dogwalking, Wagglz Research, My Rex Copy) with their file keys; created stub entity pages for each; updated index.md.
+
+## [2026-06-26 08:28 UTC] ingest | raw/raw/Business/Wagglz/Design/product/Figma-Manifest-25-b2b-software.md
+- Pages: [[25 B2B Software Figma Manifest]]
+- Aktualisiert: Wiki-Quellseite "25 B2B Software Figma Manifest" mit neuem Pfad (`product/` statt `wufflz/`), aktualisiertem Migration-Status (`ausstehend` statt `error`) und neuem Export-Befehl aus der Raw-Quelle.
+
+## [2026-06-26 08:30 UTC] ingest | raw/raw/Business/Wagglz/Design/workshop/Figma-Manifest-co-founders-workshop.md
+- Pages: [[Co-Founders Workshop Figma Manifest]]
+- Neue Quellseite für das Co-Founders Workshop Figma-Manifest (FigJam, File Key VmWAOTBCe1hSspmmQY6S14) erstellt; in Index eingetragen; bestehende Vergleichstabelle auf Wagglz-Figma-Entitätsseiten verlinkt.
+
+## [2026-06-26 08:31 UTC] ingest | raw/raw/Business/Wagglz/Design/workshop/README.md
+- Pages: [[Co-Founders Workshop FigJam]]
+- Neue Quellseite für das Co-Founders Workshop FigJam-Board (Key VmWAOTBCe1hSspmmQY6S14) erstellt; Index um den Eintrag erweitert.
+
+## [2026-06-26 08:33 UTC] ingest | raw/raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md
+- Pages: [[Wagglz GF-Gehalt 2025 Source Detail]], [[Wagglz GF-Gehalt 2025]]
+- Neue Quelldatei `Wagglz GF-Gehalt 2025` ingested: Source-Seite erstellt, bestehende Entity-Seite `ALG I 2025` aktualisiert (Wagglz-GF-Gehalt-Quelle war bereits referenziert), neue Entity-Seite `Wagglz GF-Gehalt 2025` erstellt.
+
+## [2026-06-26 08:34 UTC] ingest | raw/raw/Business/Wagglz/Finanzen/Konten/Wagglz Finom 2026.md
+- Pages: [[Wagglz Finom 2026 Source Detail]], [[Wagglz Finom 2026]]
+- Neue Quelldatei Wagglz Finom 2026 ingested: Quelldokument erstellt, Entitätsseite Wagglz Finom 2026 erstellt (IBAN DE36100180000083465573, Saldo Jan 0 €, wesentliche Buchungen 2026 inkl. USt-Nachzahlung, ARAG, Claude.ai, GoDaddy, Figma), Index aktualisiert.
+
+## [2026-06-26 08:37 UTC] ingest | raw/raw/Business/Wagglz/Performance Coffee Brand/00 — Projektübersicht.md
+- Pages: [[Performance Coffee Brand Projektübersicht]], [[Café Berlin Partnership Hai]], [[Performance Coffee Brand]]
+- Neue Quelldatei "Performance Coffee Brand — Projektübersicht" ingested: Projektübersicht-Seite für die Performance Coffee Brand erstellt, Entität "Café Berlin Partnership Hai" als pivotiertes Vorgängerprojekt angelegt, und Index aktualisiert.
+
+## [2026-06-26 08:42 UTC] ingest | raw/raw/Business/Wagglz/Performance Coffee Brand/Cafe/cafe_masterplan_2026.md
+- Pages: [[GROVE Café Masterplan 2026 Source]], [[GROVE Café]], [[Oleg Kober]], [[Hai Tran]], [[GROVE Brand]], [[GROVE Finanzplan]]
+- GROVE Café Masterplan 2026/2027 (Wagglz GmbH) vollständig aufgenommen: 1 Source-Seite + 7 Entity/Concept-Seiten erstellt (GROVE Café, Oleg Kober, Hai Tran, GROVE Brand, KfW StartGeld, GROVE Finanzplan, GROVE Betriebskonzept) + Index aktualisiert.
+
+## [2026-06-26 08:46 UTC] ingest | raw/raw/Business/Wagglz/Performance Coffee Brand/Inhaltsstoffe — Datenbank.md
+- Pages: [[Inhaltsstoffe Datenbank Performance Coffee]], [[Koffein Performance Coffee]], [[L-Theanin Performance Coffee]], [[L-Tyrosin Performance Coffee]], [[Rhodiola Rosea Performance Coffee]], [[Lion's Mane Performance Coffee]], [[B-Vitamine Performance Coffee]]
+- Neue Quelldatei "Inhaltsstoffe — Datenbank" (Performance Coffee Brand) ingested: Quelldokument-Seite erstellt, bestehende Alpha-GPC-Entität aktualisiert, neue Konzept-Seiten für L-Theanin, L-Tyrosin, Rhodiola Rosea, Lion's Mane, B-Vitamine Performance und Supplement Stacks Performance Coffee erstellt; Index um alle neuen Seiten erweitert.
+
+## [2026-06-26 08:49 UTC] ingest | raw/raw/Business/Wagglz/Performance Coffee Brand/Kaffee mit Performance.md
+- Pages: [[Kaffee mit Performance Source Detail]], [[Performance Coffee Brand Phasenmodell]], [[Performance Coffee Brand]]
+- Neue Quellseite für Performance Coffee Brand eCommerce-Pivot-Entscheidung (14.06.2026) erstellt; Konzeptseite Performance Coffee Brand Phasenmodell angelegt; bestehende Performance Coffee Brand Entity-Seite aktualisiert mit Pivot-Details, Verlustvortrag und offenen Fragen; Index erweitert.
+
+## [2026-06-26 08:53 UTC] ingest | raw/raw/Business/Wagglz/Performance Coffee Brand/Kaffee — Rohstoffanalyse.md
+- Pages: [[Kaffee Rohstoffanalyse Source]], [[Robusta vs Arabica Vergleich]], [[Robusta Kaffee]], [[Arabica Kaffee]], [[Vietnamesischer Kaffee]], [[Kaffee Röstgrade]], [[Zusatzstoffe Kombinierbarkeit Kaffee]]
+- Neue Quelle ingested: Kaffee Rohstoffanalyse für Performance Coffee Brand — Robusta vs. Arabica Vergleich, Vietnam-Fokus, 3 Blend-Optionen, Röstgrade, Zusatzstoff-Kombinierbarkeit und EU-Rösterei-Beschaffung; neue Seiten erstellt für Quelle, Konzepte (Robusta, Arabica, Vietnamesischer Kaffee, Röstgrade, Beschaffung) und Entitäten (drei Blend-Optionen); Index erweitert.
+
+## [2026-06-26 08:56 UTC] ingest | raw/raw/Business/Wagglz/Performance Coffee Brand/Prototyp — Hersteller & Prompt.md
+- Pages: [[Prototyp Hersteller Research Performance Coffee]], [[Lohnhersteller Performance Coffee]], [[Pure Flavour GmbH]], [[Döhler GmbH]], [[Wonnda]], [[Prinova Europe]]
+- Neue Seiten erstellt: Prototyp Hersteller Research (Source), Lohnhersteller Performance Coffee (Concept), Pure Flavour GmbH (Entity), Döhler GmbH (Entity), Wonnda (Entity), Prinova Europe (Entity); Index aktualisiert.
+
+## [2026-06-26 08:58 UTC] ingest | raw/raw/Business/Wagglz/Wagglz GmbH — Finance Vault.md
+- Pages: [[Wagglz GmbH Finance Vault]], [[Wagglz GmbH]]
+- Neue Quelldatei "Wagglz GmbH — Finance Vault" ingested: Wagglz GmbH Finance-Seite erstellt/aktualisiert mit Insolvenzprüfung, Kapitaltransfer-Historie, Stammdaten und strategischen Optionen; Index aktualisiert.
+
+## [2026-06-26 09:01 UTC] ingest | raw/raw/Business/Wagglz/Wagglz GmbH.md
+- Pages: [[Wagglz GmbH Source Detail]], [[Wagglz GmbH]]
+- Neue Quelldatei "Wagglz GmbH.md" ingested: Entitätsseite für Wagglz GmbH aktualisiert (Stammdaten, Insolvenzstatus §19 InsO, Gesellschafterdarlehen, Fixkosten, strategische Optionen); neue Quellseite erstellt; Index ergänzt.
+
+## [2026-06-26 09:04 UTC] ingest | raw/raw/Business/Wagglz/Wagglz Wettbewerber.md
+- Pages: [[Wagglz Wettbewerber Source]], [[Wagglz Wettbewerber]], [[VetPraxis]], [[Vetera]], [[easyVET Vetz]], [[Nordhealth]], [[Provet]], [[Vetnio]], [[Manta Vet]], [[Voisa AI]], [[VetPal]], [[PetsXL]], [[Tierärzteatlas]], [[Petleo]], [[Vetstoria]]
+- Neue Quelldatei "Wagglz Wettbewerber" ingested: Quelldokument erstellt, Entitätsseiten für Wagglz GmbH und Wufflz verlinkt, 13 Wettbewerber-Entitäten als Kurzstubs angelegt, Index aktualisiert.
+
+## [2026-06-26 09:09 UTC] ingest | raw/raw/Finanzdaten/GESAMTANALYSE_Oleg_Kober_2025-2026.md
+- Pages: [[GESAMTANALYSE Oleg Kober 2025–2026]], [[Doctolib GmbH]], [[OK Capital UG]], [[Oleg Kober Vermögensübersicht]], [[ESt 2025]], [[ESt 2024]], [[ESt 2026]]
+- Neue Gesamtfinanzanalyse Oleg Kober 2025–2026 ingested: Doctolib-Gehalt, Wagglz-Überschuldung, OK Capital UG Holding-Struktur, private Fixkosten, Consorsbank-Konten, ESt-2025-Schätzung und offene Maßnahmen (Rangrücktritt, ESt-Beauftragung) vollständig erfasst; neue Seiten für Doctolib GmbH, OK Capital UG, Oleg Kober Vermögensübersicht, ESt 2025 (aktualisiert), ALG I 2025 (aktualisiert), Wagglz GmbH (aktualisiert), Oleg Personal Context (aktualisiert), Consorsbank-Konten, VW Kredit, Rangrücktritt-Konzept und Gesamtanalyse-Source erstellt.
+
+## [2026-06-26 09:11 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Finance/00 Finanz-Übersicht.md
+- Pages: [[Finanz-Übersicht Source]], [[OK Capital UG]], [[Finanzielle Rehabilitation]]
+- Neue Quellseite "Finanz-Übersicht" erstellt; Entitäten Wagglz GmbH und OK Capital UG ergänzt/verlinkt; Oleg Personal Context Finanzlage dokumentiert; MOC Finanzen und Rehabilitation Plan als Konzeptseiten verlinkt; Index aktualisiert.
+
+## [2026-06-26 09:14 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Finance/Master Prompt – Gesamtanalyse.md
+- Pages: [[Master Prompt Gesamtfinanzanalyse]], [[Gesamtfinanzanalyse Methodik]], [[Insolvenzprüfung GmbH]]
+- Neue Quellseite `Master Prompt Gesamtfinanzanalyse` erstellt; Entitätsseite `Oleg Personal Context` aktualisiert (Kontext zur Gesamtfinanzanalyse ergänzt); Konzeptseite `Gesamtfinanzanalyse Methodik` neu erstellt; Index erweitert.
+
+## [2026-06-26 09:16 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Finance/OK Capital UG.md
+- Pages: [[OK Capital UG Source Detail]], [[OK Capital UG]]
+- Neue Quellseite für OK Capital UG erstellt; Entitätsseite erstellt; Wagglz GmbH Entität verlinkt; Index aktualisiert.
+
+## [2026-06-26 09:18 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Finance/Rehabilitation Plan.md
+- Pages: [[Finanz-Rehabilitation Plan Source]], [[Finanz-Rehabilitation Plan]], [[Strukturelles Defizit]]
+- Neue Quellseite „Finanz-Rehabilitation Plan" erstellt; Entitätsseiten für Wagglz GmbH und OK Capital UG mit Rehabilitationsplan-Kontext verlinkt/aktualisiert; Konzeptseite „Strukturelles Defizit" erstellt; Index aktualisiert.
+
+## [2026-06-26 09:20 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Finance/Wagglz GmbH.md
+- Pages: [[Wagglz GmbH Finance Source Detail]], [[Wagglz GmbH]]
+- Neue Quellseite `Wagglz GmbH Finance Source Detail` erstellt; Entitätsseite `Wagglz GmbH` erstellt mit vollständiger Dokumentation der Kapitaltransferhistorie, Insolvenzprüfung und strategischen Optionen; Index um beide Einträge erweitert.
+
+## [2026-06-26 09:22 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Home.md
+- Pages: [[Oleg Command Center Home]], [[Oleg Personal Context]]
+- Neue Quelldatei `raw/raw/Finanzdaten/ObsidianVault/Home.md` (Oleg Kober Command Center Dashboard) ingested: Quelldokument-Seite erstellt, Entität `Oleg Personal Context` mit kritischen Finanzkennzahlen aktualisiert, Index erweitert.
+
+## [2026-06-26 09:24 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Performance/00 Performance-Übersicht.md
+- Pages: [[Performance Übersicht Source Detail]], [[Performance Übersicht]]
+- Neue Seite "Performance Übersicht" (Quelle + Entitätsaktualisierungen) erstellt; Verlinkungen zu bestehenden Seiten (3D Body Scan, Hyrox, Zone 2, Biomarker Testing) hergestellt; Index um Performance-Einträge ergänzt.
+
+## [2026-06-26 09:26 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Performance/Blutbild Panel.md
+- Pages: [[Blutbild Panel Source Detail]], [[Blutbild Panel]], [[Supplement Stack Basisprotokoll]]
+- Neues Blutbild Panel (24 Marker, Longevity-Zielbereiche, quartalsweise) als Source- und Konzeptseiten angelegt; Biomarker-Testing-Konzeptseite aktualisiert; index.md ergänzt.
+
+## [2026-06-26 09:29 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Performance/Hyrox Prep.md
+- Pages: [[Hyrox Vorbereitung Source]], [[Hyrox Competition]], [[Zone 2 Training]]
+- Neue Seiten erstellt: Hyrox Vorbereitung (Source), Hyrox Competition (Entity), Zone 2 Training (Concept); bestehende Seiten [[3D Body Scan Scaneca Mai 2026]] und [[Biomarker Testing]] bereits verlinkt; Index aktualisiert.
+
+## [2026-06-26 09:31 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md
+- Pages: [[Körper und Body Composition Vault Finanzdaten Source]], [[3D Body Scan Scaneca Mai 2026]]
+- Neue Source-Seite für `raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md` erstellt — identifiziert als die bereits in [[3D Body Scan Scaneca Mai 2026]] referenzierte „Vault-Planungsnotiz" (KFA-Ziel 14–16%, WHR-Ziel <0,86, Gewichtsziel 88–90 kg); Entity-Seite mit korrekter Quellenverknüpfung aktualisiert; keine neuen Widersprüche — bestätigt bestehende Diskrepanz 15–17% vs. 14–16% KFA.
+
+## [2026-06-26 09:34 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Templates/Claude Session – Finanzen.md
+- Pages: [[Claude Session – Finanzen Template]], [[Oleg Personal Context]], [[MOC Finanzen]]
+- Neue Quellseite `Claude Session – Finanzen Template` erstellt; Entitätsseite `Oleg Personal Context` aktualisiert (Finanzdaten ergänzt); `MOC Finanzen` aktualisiert; Index erweitert.
+
+## [2026-06-26 09:35 UTC] ingest | raw/raw/Finanzdaten/ObsidianVault/Templates/Claude Session – Performance.md
+- Pages: [[Claude Session Template Performance]]
+- New source page created for Claude Session Performance Template; entity page for Claude Session Template Performance updated with new source path; BMR and TDEE concept page updated to reflect confirmed 220g protein target; index updated.
+
+## [2026-06-26 09:38 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/00 MOC Finanzen.md
+- Pages: [[MOC Finanzen Source Detail]], [[MOC Finanzen]]
+- Neue Quelldatei "00 MOC Finanzen.md" (Finanz-Dashboard Oleg Kober, Stand Juni 2026) ingested — MOC Finanzen Source Detail erstellt; MOC Finanzen Entität aktualisiert; Index erweitert.
+
+## [2026-06-26 09:40 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Archiv/GESAMTANALYSE Archiv.md
+- Pages: [[GESAMTANALYSE Archiv Source]]
+- Archiv-Quelldokument GESAMTANALYSE Archiv ingested — minimale Quelldaten (nur Metaverweise auf externe Dateien); Source-Seite erstellt und Index aktualisiert.
+
+## [2026-06-26 09:42 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Aufgaben/P0 Sofort.md
+- Pages: [[P0 Sofortmaßnahmen Source]], [[Rangrücktritt §15a InsO]]
+- Neue Source-Seite `P0 Sofortmaßnahmen` erstellt; Entities `Wagglz GmbH` und `Rangrücktritt §15a InsO` als Wikilinks referenziert; `Consorsbank 260809254` als erledigtes Item dokumentiert; Index aktualisiert.
+
+## [2026-06-26 09:45 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Aufgaben/P1 Diese Woche.md
+- Pages: [[P1 Diese Woche Source Detail]], [[ESt 2025]], [[Wagglz GmbH]], [[Fixkosten Übersicht]]
+- Neue Quellseite „P1 Diese Woche Source Detail" angelegt; Entitätsseiten für ESt 2025, Wagglz GmbH und Fixkosten Übersicht aktualisiert/erstellt; Index erweitert.
+
+## [2026-06-26 09:48 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md
+- Pages: [[P2 Diesen Monat Source Detail]], [[Doctolib PKW-Sachbezug]], [[Notfallfonds Aufbau]], [[DZR GmbH]], [[ARAG Wagglz Versicherung]], [[Steamone Transaktion]], [[VW Konsumkredit]]
+- P2-Aufgabenliste (Diesen Monat) ingested: Source-Seite erstellt; Entitäten für Doctolib PKW-Sachbezug, Notfallfonds, DZR GmbH, VW Konsumkredit aktualisiert/erstellt; ARAG Wagglz Versicherung-Entität aktualisiert; Steamone-Transaktion als neue Entität erfasst; Index erweitert.
+
+## [2026-06-26 09:50 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Ausgaben/Fixkosten Übersicht.md
+- Pages: [[Fixkosten Übersicht Source Detail]], [[Fixkosten Übersicht]]
+- Neue Seite "Fixkosten Übersicht" erstellt (source + entity): monatliche Fixkosten ~2.120–2.420 €, Doctolib-Netto 3.638,82 €, VW-Kredit, Versicherungen, Streaming-Abos; Verbindungen zu Wagglz GmbH, VW Konsumkredit, Uelzener Tierversicherung, Allianz, Barmenia, Oleg Personal Context.
+
+## [2026-06-26 09:51 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Ausgaben/VW Konsumkredit.md
+- Pages: [[VW Konsumkredit]], [[VW Konsumkredit Source]]
+- Neue Seite erstellt: VW Konsumkredit (Entität + Source) — 18.858 € Restschuld, 681,57 €/Monat, Laufzeit bis November 2028; Sondertilgungsoption mit Q-Bonus verknüpft; Index aktualisiert.
+
+## [2026-06-26 09:53 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Einnahmen/ALG I 2025.md
+- Pages: [[ALG I 2025 Source Detail]]
+- Neue Quelldatei `raw/Finanzdaten/Obsidian_Vault/Einnahmen/ALG I 2025.md` ingested — bestätigt alle Eckdaten der bestehenden Wiki-Seiten (Betrag ~8.400 €, Zeitraum bis ca. Juni 2025, §32b/§46 EStG, Pflichtveranlagung, Bescheinigung für ESt 2025); keine Widersprüche; `ALG I 2025 Source Detail` wird um zweite Quell-Pfad-Referenz erweitert.
+
+## [2026-06-26 09:55 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Einnahmen/Doctolib 2026.md
+- Pages: [[Doctolib Gehalt 2026 Source]], [[Doctolib GmbH]], [[PKW-Sachbezug 1%-Regel]]
+- Neue Quelle "Doctolib 2026.md" integriert: Source-Seite erstellt, Entity-Seite für Doctolib GmbH erstellt/aktualisiert, Concept-Seite für PKW-Sachbezug 1%-Regel erstellt, Index um alle neuen Einträge erweitert.
+
+## [2026-06-26 09:56 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Einnahmen/Wagglz GF-Gehalt 2025.md
+- Pages: [[Wagglz GF-Gehalt 2025 Source Detail]]
+- Neue Quellseite `Wagglz GF-Gehalt 2025 Source Detail` erstellt; bestehende Entität `Wagglz GF-Gehalt 2025` aktualisiert (zweiter Vault-Pfad `raw/Finanzdaten/Obsidian_Vault/Einnahmen/` ergänzt); Index um neuen Eintrag erweitert.
+
+## [2026-06-26 09:57 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Konten/Consorsbank Girokonto 0250120493.md
+- Pages: [[Consorsbank Girokonto 0250120493 Source]], [[Consorsbank Girokonto 0250120493]]
+- Neue Seite erstellt: Consorsbank Girokonto 0250120493 (Source + Entity); Index aktualisiert mit Finanzkonto-Eintrag.
+
+## [2026-06-26 09:59 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Konten/OK Capital Finom 2026.md
+- Pages: [[OK Capital Finom 2026 Source]], [[OK Capital UG]]
+- Neue Quelldatei "OK Capital Finom 2026" ingested: Konto-Entity für OK Capital UG (Finom-Konto), Saldo 0 €, laufende Kosten 31,60 €/Mo (WestX + Google), Oleg-Darlehen 100 € (März 2026); Source-Seite und Entity-Seite erstellt; Index aktualisiert.
+
+## [2026-06-26 10:01 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Konten/Wagglz Finom 2026.md
+- Pages: [[Wagglz Finom 2026 Source]], [[Wagglz Finom 2026]]
+- Neue Quelldatei "Wagglz Finom 2026" ingested: Kontoseite für Wagglz GmbH Finom-Konto (IBAN DE36100180000083465573) — Saldo Jun 2026 = 0 €, wesentliche Buchungen 2026 dokumentiert; Entitätsseite erstellt und Index aktualisiert.
+
+## [2026-06-26 10:03 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Steuern/ALG I Progressionsvorbehalt.md
+- Pages: [[ALG I Progressionsvorbehalt Source Detail]], [[ALG I Progressionsvorbehalt]]
+- Neue Quellseite `ALG I Progressionsvorbehalt Source Detail` aus `raw/Finanzdaten/Obsidian_Vault/Steuern/ALG I Progressionsvorbehalt.md` ingested — bestätigt bestehendes Quelldokument vollständig; zweiter Vault-Pfad hinzugefügt; keine Widersprüche; bestehende Konzept- und Quellseiten aktualisiert.
+
+## [2026-06-26 10:05 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Steuern/ESt 2025.md
+- Pages: [[ESt 2025 Source Detail]], [[ESt 2025]]
+- Neue Source-Seite `ESt 2025 Source Detail` erstellt; Entity-Seite `ESt 2025` erstellt (Steuererklärung 2025 mit Wagglz-Gehalt, ALG I, Pflichtveranlagung, Checkliste und erwartetem Ergebnis); Index um ESt-2025-Einträge erweitert.

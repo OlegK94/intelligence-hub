@@ -1,83 +1,91 @@
 ---
-title: VW Konsumkredit
+title: "VW Konsumkredit"
 type: entity
-tags: [kredit, schulden, finanzen, vw-bank, konsumkredit, ausgaben, sondertilgung, check24]
-sources: ["raw/Privat/Finanzen/Ausgaben/VW Konsumkredit.md"]
+tags: [finanzen, kredit, vw, schulden, konsumkredit, ausgaben, sondertilgung, laufende-kosten]
+sources: ["raw/Finanzdaten/Obsidian_Vault/Ausgaben/VW Konsumkredit.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: VW Bank Konsumkredit — 50.000 € Darlehen, 84 Monate Laufzeit (Nov 2021–Nov 2028), Rate 681,57 €/Monat, Restschuld 18.858 € per Jun 2026; kein Autokredit; Sondertilgung aus Q-Bonus prüfen
+summary: VW Bank Konsumkredit (kein Autokredit) — ursprünglich 50.000 €, Restschuld 18.858 € (Stand Jun 2026), 681,57 €/Monat, Laufzeit bis November 2028; vermittelt über CHECK24; Sondertilgungsoption mit Q-Bonus (8.250 € netto) bis Sep 2026 zu prüfen
 ---
 
 # VW Konsumkredit
 
-## Overview
+## Überblick
 
-Der **VW Bank Konsumkredit** ist ein allgemeiner Konsumkredit (kein Autokredit) bei der [[VW Bank GmbH]], vermittelt über CHECK24. Er zählt zu den laufenden Verbindlichkeiten von [[Oleg Personal Context|Oleg]] und erscheint in der [[Fixkosten Übersicht]] als monatliche Belastung.
+Der **VW Bank Konsumkredit** ist ein allgemeiner Konsumkredit bei der **VW Bank GmbH** — ausdrücklich **kein Autokredit**. Er wurde im November 2021 über [[CHECK24]] vermittelt und läuft 84 Monate bis November 2028. Stand Juni 2026 beträgt die Restschuld **18.858 €** bei einer monatlichen Rate von **681,57 €**.
 
-> ⚠️ Kein Autokredit — allgemeiner Konsumkredit.
+> ⚠️ *Kein Autokredit — allgemeiner Konsumkredit* (gemäß Quelldokument).
+
+---
 
 ## Konditionen
 
 | Parameter | Wert |
 |---|---|
-| **Darlehensbetrag** | 50.000 € |
+| **Darlehensbetrag (ursprünglich)** | 50.000 € |
 | **Laufzeit** | 84 Monate |
 | **Beginn** | November 2021 |
 | **Ende** | November 2028 |
 | **Rate** | 681,57 €/Monat |
 | **Restschuld (Jun 2026)** | **18.858 €** |
+| **Verbleibende Monate** | ~28 |
+| **Abbuchungstag** | 16. des Monats |
 | **Vermittlung** | CHECK24 |
 | **Gläubiger** | VW Bank GmbH |
 | **IBAN Gläubiger** | DE39270200000096123711 |
-| **Abbuchung** | 16. des Monats |
 
-## Restlaufzeit (Stand Jun 2026)
+---
 
-- **Monate verbleibend:** ~28 (bis Nov 2028)
-- **Verbleibende Zahllast:** ~28 × 681,57 € = **~19.084 €** (nominal)
-- **Restschuld:** 18.858 € → impliziert noch ~226 € Zinsen über Restlaufzeit
+## Rückzahlungsstand (Jun 2026)
 
-> ⚠️ **Assumption [A]:** Die genaue Zinsstruktur (Effektivzins, verbleibende Zinslast) ist aus der Quelle nicht ersichtlich. Der Effektivzins wurde bei Abschluss November 2021 vereinbart — in einer Niedrigzinsphase. Der tatsächliche Zinsaufwand der Restlaufzeit muss aus dem Kreditvertrag entnommen werden.
-
-## Sondertilgung — Entscheidungsanalyse
-
-### Hintergrund
-
-Als offene Aufgabe ist dokumentiert, den **Q-Bonus (8.250 € netto)** als mögliche Teilrückzahlung zu prüfen.
-
-### Entscheidungskriterien
-
-| Faktor | Analyse |
+| Zeitpunkt | Wert |
 |---|---|
-| **Sondertilgungsklausel** | Muss im Vertrag geprüft werden — nicht alle Konsumkredite erlauben vorzeitige Rückzahlung ohne Vorfälligkeitsentschädigung |
-| **Zinsersparnis** | Abhängig vom Effektivzins des Kredits vs. Alternativrendite (Tagesgeld 1%) |
-| **Tagesgeld-Vergleich** | Bei Kreditkosten > 1% p.a. Effektivzins → Sondertilgung ist besser als Tagesgeld |
-| **Liquiditätspuffer** | Q-Bonus als Vollrückzahlung würde Liquidität reduzieren — Teilrückzahlung sinnvoller |
+| Kreditstart | Nov 2021 |
+| Stand Jun 2026 | ~56 Monate bezahlt |
+| Bereits getilgt (geschätzt) | ~31.142 € |
+| Restschuld | **18.858 €** |
+| Verbleibende Monate | ~28 |
+| Verbleibende Ratensumme (rechnerisch) | ~19.084 € |
 
-### Empfohlene Vorgehensweise
+---
 
-- [ ] Kreditvertrag auf Sondertilgungsklausel prüfen
-- [ ] Effektivzins mit Tagesgeld (1%) vergleichen
-- [ ] Entscheidung: Q-Bonus (8.250 €) als Sondertilgung oder Tagesgeld/Investition?
-- [ ] **Deadline Prüfung:** 2026-09-01
+## Sondertilgung — Prüfung
 
-> **Kontext:** Der [[Q-Bonus Doctolib]] beträgt 8.250 € netto. Bei einer Restschuld von 18.858 € würde eine Sondertilgung von 8.250 € die Restschuld auf ~10.608 € reduzieren — mit entsprechend gekürzter Restlaufzeit oder reduzierter Monatsrate (je nach Vertragsbedingungen).
+Eine offene Aufgabe bis **2026-09-01** lautet:
 
-## Einordnung in Gesamtfinanzen
+- [ ] Sondertilgungsoption mit VW Bank prüfen
+  - **Q-Bonus (8.250 € netto)** als Teilrückzahlung einsetzen?
+  - Zinsersparnis vs. Tagesgeld (1%) vergleichen
+  - Vertrag auf Sondertilgungsklausel prüfen
 
-| Kontext | Wert |
-|---|---|
-| Monatliche Rate in [[Fixkosten Übersicht]] | 681,57 €/Mo |
-| Anteil an Fixkosten gesamt | Einer der größten Einzelposten |
-| Restschuld vs. Liquide Mittel | Restschuld 18.858 € >> Consorsbank Saldo 971,67 € |
-| Tilgungsende | November 2028 |
+### Überlegungsrahmen
 
-## Related Pages
+| Option | Vorteil | Risiko |
+|---|---|---|
+| Sondertilgung mit Q-Bonus | Zinseinsparung auf Restschuld | Liquiditätsverlust; ggf. Vorfälligkeitsentschädigung |
+| Tagesgeld (1%) | Liquidität erhalten | Zinskosten übersteigen Tagesgeldzins (netto negativ) |
 
-- [[VW Konsumkredit Source Detail]] — Quelldokument
-- [[Fixkosten Übersicht]] — Monatsrate in Fixkostenplanung
-- [[MOC Finanzen]] — übergeordneter Finanz-MOC
-- [[Q-Bonus Doctolib]] — mögliche Sondertilgungsquelle
-- [[Consorsbank Girokonto 0250120493]] — Hauptkonto (Abbuchungsquelle unklar)
-- [[Schulden Übersicht]] — Gesamtschuldenkontext
+> ⚠️ **Handlungsbedarf:** Vor einer Entscheidung muss der Kreditvertrag auf Sondertilgungsklauseln und mögliche Vorfälligkeitsentschädigungen geprüft werden. VW Bank direkt kontaktieren.
+
+---
+
+## Einordnung in die Gesamtfinanzen
+
+Der VW Konsumkredit ist eine der relevanten Verbindlichkeiten in [[Oleg Personal Context|Olegs]] Finanzstruktur:
+
+| Verbindlichkeit | Monatliche Rate | Restschuld | Laufzeit Ende |
+|---|---|---|---|
+| **VW Konsumkredit** | **681,57 €** | **18.858 €** | **Nov 2028** |
+| *(weitere Kredite ggf. zu ergänzen)* | — | — | — |
+
+Die monatliche Rate von **681,57 €** ist ein signifikanter Posten in den Fixkosten und sollte in der [[Fixkosten Übersicht]] erfasst sein.
+
+---
+
+## Verwandte Seiten
+
+- [[VW Konsumkredit Source]] — Quelldokument
+- [[Fixkosten Übersicht]] — Übergeordnete Fixkostenübersicht
+- [[MOC Finanzen]] — Übergeordnete Finanz-MOC
 - [[Oleg Personal Context]] — Kreditnehmer
+- [[ESt 2025]] — Zinsen ggf. steuerlich relevant (Werbungskosten bei gewerblicher Nutzung, ansonsten nicht absetzbar)

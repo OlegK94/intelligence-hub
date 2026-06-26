@@ -1,109 +1,109 @@
 ---
-title: Hyrox Wettkampf
+title: Hyrox Competition
 type: entity
-tags: [hyrox, competition, fitness, hybrid-fitness, aerobic, conditioning, zone2, race, performance]
-sources: ["raw/Privat/Performance/_vault/Hyrox Prep.md", "raw/Privat/Performance/Hyrox — 10-Week Training.md"]
+tags: [hyrox, wettkampf, performance, ausdauer, kraft, zone2, training, athlet]
+sources: ["raw/Finanzdaten/ObsidianVault/Performance/Hyrox Prep.md", "raw/Privat/Performance/_vault/Körper & Scan.md", "raw/Privat/Performance/_vault/00 Performance-Übersicht.md"]
 created: 2026-06-13
-updated: 2026-06-13
-summary: Hyrox Functional-Fitness-Wettkampfformat — Oleg ist aktiver Wettkampfteilnehmer; primärer Leistungsbegrenzer ist die aerobe Kapazität; 12-Wochen-Vorbereitungsprotokoll aufgebaut auf Zone 2-Fundament mit progressiver Hyrox-Stationsintegration
+updated: 2026-06-20
+summary: Hyrox — globales Fitness-Wettkampfformat (8 km Laufen + 8 Stationen); Oleg ist aktiver Wettkampfteilnehmer; Hauptlimitor aerobe Kapazität; strukturelle Blocker WHR 0,92, Forward Head, bilaterale Asymmetrie; 12-Wochen-Vorbereitungsprotokoll mit Zone 2 als Fundament
 ---
 
-# Hyrox Wettkampf
+# Hyrox Competition
 
 ## Überblick
 
-**Hyrox** ist ein globales Indoor-Functional-Fitness-Wettkampfformat, das Laufen mit acht standardisierten Workout-Stationen kombiniert. [[Oleg Personal Context|Oleg]] ist ein **aktiver Hyrox-Wettkampfteilnehmer**. Die Vorbereitung ist eines der zentralen Leistungsprojekte innerhalb der [[Performance Overview|Performance-Übersicht]].
+**Hyrox** ist ein globales Fitness-Wettkampfformat, das Laufen mit funktionellen Fitness-Stationen kombiniert. [[Oleg Personal Context|Oleg]] ist aktiver Hyrox-Wettkampfteilnehmer. Der identifizierte **Hauptlimitor** ist die aerobe Kapazität — bestätigt durch Selbsteinschätzung und den [[3D Body Scan Scaneca Mai 2026|Scaneca-Scan]].
 
-## Wettkampfformat
+---
 
-Ein Standard-Hyrox-Rennen besteht aus:
-- **8 × 1-km-Läufen** im Wechsel mit
-- **8 funktionellen Workout-Stationen:**
-  1. SkiErg — 1.000 m
-  2. Sled Push — 50 m (102 kg Männer / 82 kg Frauen)
-  3. Sled Pull — 50 m
-  4. Burpee Broad Jump — 80 m
-  5. Rowing — 1.000 m
-  6. Farmers Carry — 200 m
-  7. Sandbag Lunges — 100 m
-  8. Wall Balls — 100 Wiederholungen
+## Wettkampf-Format
 
-## Olegs aktueller Status
+Hyrox besteht aus:
+- **8 km Laufen** (aufgeteilt in 8 × 1 km zwischen den Stationen)
+- **8 Fitness-Stationen:**
+  1. SkiErg (1.000m)
+  2. Sled Push
+  3. Sled Pull
+  4. Burpee Broad Jumps (80m)
+  5. Rowing (1.000m)
+  6. Farmers Carry (200m)
+  7. Sandbag Lunges (100m)
+  8. Wall Balls (100 Wiederholungen)
 
-| Parameter | Detail |
+---
+
+## Olegs Ausgangslage
+
+| Parameter | Status |
 |---|---|
-| Wettkampfstatus | Aktiver Wettkampfteilnehmer |
-| Primärer Leistungsbegrenzer | Aerobe Kapazität (selbst identifiziert + bestätigt durch [[3D Body Scan Scaneca Mai 2026]]) |
-| Strukturelle Blockaden | WHR 0.92 + [[Forward Head Posture]] (30°) + beidseitige Asymmetrie |
+| **Rolle** | Aktiver Wettkampfteilnehmer |
+| **Hauptlimitor** | Aerobe Kapazität |
+| **WHR** | 0,92 (Ziel: <0,86) |
+| **Forward Head** | 30° Abweichung (Atemkapazität betroffen) |
+| **Asymmetrie** | Körperschwerpunkt nach rechts verschoben |
+| **Vorbereitungsplan** | 12-Wochen-Protokoll aktiv |
+
+### Warum aerobe Kapazität der Hauptlimitor ist
+
+Hyrox ist primär ein Ausdauerevent — die Stationen werden kontinuierlich absolviert, ohne signifikante Pausen. Eine schwache aerobe Basis bedeutet:
+- Höhere relative Intensität bei den Laufpassagen
+- Längere Erholungszeit zwischen den Stationen
+- Frühere Erschöpfung bei den Workstation-Elementen
+
+---
+
+## Strukturelle Blocker
+
+Die drei strukturellen Blocker aus dem Scan haben direkten Einfluss auf die Hyrox-Performance:
+
+| Befund | Auswirkung auf Hyrox | Intervention |
+|---|---|---|
+| **WHR 0,92** | Erhöhtes metabolisches Risiko, reduzierte VO2max-Kapazität | [[Zone 2 Training]] + Ernährung |
+| **Forward Head 30°** | Reduzierte Lungenkapazität durch Zwerchfellkompression | [[Forward Head Posture]]-Protokoll |
+| **Bilaterale Asymmetrie** | Erhöhtes Verletzungsrisiko bei Sled Push/Pull, Lunges | [[Corrective Exercise]] |
+
+---
 
 ## Vorbereitungsstrategie
 
-Das Vorbereitungsframework ist in [[Hyrox Prep Source Detail]] dokumentiert (12-Wochen-Plan). Die zentrale strategische Logik:
+Das vollständige Vorbereitungsprotokoll ist in [[Hyrox Vorbereitung Source]] dokumentiert.
 
-> **Zone 2 ist das Hyrox-Fundament — niemals auslassen.**
+### Kern-Prinzip
+> **Zone 2 kommt vor Intensität — immer.**
 
-### Dreilagige Trainingsstruktur
+### Trainingsstruktur
 
-| Ebene | Häufigkeit | Fokus |
+| Trainingstyp | Frequenz | Inhalt |
 |---|---|---|
-| [[Zone 2 Training]] | 3–4×/Woche, 30–60 Min. | Aerobes Fundament (primärer Begrenzer) |
-| Kraft + Conditioning | 2×/Woche | Oberkörper-Hypertrophie + Hyrox-Stationen |
-| Haltungskorrektur | Täglich, 10–15 Min. | Haltung + Atemkapazität |
+| [[Zone 2 Training]] | 3–4×/Woche | 30–60 Min, 60–70% HFmax |
+| Kraft + Conditioning | 2×/Woche | Oberkörper + Hyrox-Stationen |
+| Haltungskorrektur | Täglich | 10–15 Min, Chin Tucks, Dead Hangs |
 
-### 12-Wochen-Progression
+### 12-Wochen-Meilensteine
 
-| Phase | Wochen | Meilenstein |
+| Wochen | Fokus | Erfolgskriterium |
 |---|---|---|
-| Fundament | 1–3 | 45 Min. Zone 2 ohne Herzfrequenz-Drift |
-| Parallele Entwicklung | 4–6 | Sled Push/Pull-Gewichte steigen progressiv |
-| Stationsintegration | 7–9 | Kombinationseinheiten (Brick-Stil) |
-| Wettkampfsimulation | 10–12 | Vollständige Hyrox-Simulation |
+| 1–3 | Zone 2 Fundament | 45 Min @ Zone 2 ohne Drift |
+| 4–6 | Kraft + Zone 2 parallel | Sled-Gewicht steigt |
+| 7–9 | Hyrox-Stationen integrieren | Kombinationseinheiten möglich |
+| 10–12 | Race-Pace Training | Vollständige Hyrox-Simulation |
 
-Siehe [[Brick Training]] für die Methodik der Kombinationseinheiten in Wochen 7–9.
+---
 
-## Wichtige Protokolle
+## Kälteanwendung (Protokollregel)
 
-### Cold Exposure-Timing
-Cold Exposure (Eisbad / kalte Dusche) darf NICHT nach Krafttraining folgen — es dämpft das hypertrophe Signaling. Erlaubt nach Zone 2-Einheiten oder an Ruhetagen.
+> Kein Cold Exposure direkt nach Krafttraining — hemmt die Hypertrophie-Response. Kälteanwendung nur an trainingsfreien Tagen oder nach Zone 2.
 
-### Zone 2-Intensitätsmessung
-- 60–70 % HFmax
-- Praktischer Feldtest: Nasenatemtest (Nasenatmung kann durchgehend aufrechterhalten werden)
-- Progression: +5 Min./Woche bei stabiler Leistung
-
-### Korrekturarbeit
-- Chin Tucks + Dead Hangs + Thorax-Extension täglich
-- Unilaterale Übungen bevorzugt (adressiert rechtsseitige Asymmetrie aus dem Scan)
-- Direkter Effekt: erhöhte Atemkapazität
-
-## Strukturelle Blockaden (aus dem Scan)
-
-Alle drei Blockaden sind durch [[3D Body Scan Scaneca Mai 2026]] bestätigt:
-
-1. **WHR 0.92** → Viszeralfett reduziert die Zwerchfellexkursion und aerobe Effizienz; Ziel <0.86
-2. **Forward Head Posture (30°)** → verringert das thorakale Volumen und die Atemkapazität; wird durch tägliches Haltungsprotokoll korrigiert
-3. **Beidseitige Asymmetrie** (rechtsseitige Schwerpunktverlagerung) → erzeugt kompensatorische Bewegungsmuster unter Hyrox-Belastung; wird durch unilaterales Training adressiert
-
-## Trainingsplan-Referenzen
-
-| Plan | Dauer | Status |
-|---|---|---|
-| [[Hyrox Prep Source Detail]] | 12 Wochen | Aktiv (Protokoll ausstehend) |
-| [[Hyrox 10-Week Training]] | 10 Wochen | Vorherig / verwandt |
-
-> ⚠️ **Widerspruch:** Es existieren zwei Trainingsplan-Dauern — 10 Wochen und 12 Wochen. Der 12-Wochen-Plan (erstellt 2026-06-13) scheint die aktuelle/übergeordnete Version zu sein. Beide sind Teil von Olegs Vorbereitungskontext.
+---
 
 ## Verwandte Seiten
 
-- [[Hyrox Prep Source Detail]] — vollständiges 12-Wochen-Vorbereitungsquelldokument
-- [[Hyrox 10-Week Training]] — 10-Wochen-Trainingsplan (Vorgänger oder Alternative)
-- [[Zone 2 Training]] — zentrales aerobes Konzept
-- [[Brick Training]] — Methodik der Kombinationseinheiten
-- [[Forward Head Posture]] — strukturelle Blockade
-- [[3D Body Scan Scaneca Mai 2026]] — Ausgangsbefund zur Bestätigung der Leistungsbegrenzer
-- [[Corrective Exercise]] — Haltungs-/Asymmetrie-Korrektur
-- [[Cold Exposure Protocols]] — Timing-Einschränkung für Kältetherapie
-- [[Health Protocol Master]] — übergeordneter Protokollkontext
-- [[Performance Overview|Performance-Übersicht]] — übergeordnetes Leistungsdokument
+- [[Hyrox Vorbereitung Source]] — vollständiges Quelldokument
+- [[Zone 2 Training]] — aerobe Basis, Hauptfokus der Vorbereitung
+- [[Forward Head Posture]] — struktureller Blocker, Atemkapazität
+- [[Corrective Exercise]] — Asymmetrie-Intervention, Verletzungsprävention
+- [[3D Body Scan Scaneca Mai 2026]] — Baseline, strukturelle Befunde (WHR, Forward Head, Asymmetrie)
+- [[Health Protocol Master]] — übergeordnetes Gesundheitsprotokoll
+- [[Supplement Stack]] — Supplementierung im Trainingskontext
 - [[Oleg Personal Context]] — Athlet
-- [[MOC Performance und Leben]] — übergeordnete MOC
+- [[Biomarker Testing]] — ergänzendes Tracking
