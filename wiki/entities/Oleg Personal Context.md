@@ -1,123 +1,139 @@
 ---
-title: "Oleg Personal Context"
+title: "Oleg Kober — Personal Context"
 type: entity
-tags: [person, oleg-kober, berlin, doctolib, wagglz, ok-capital, finanzen, performance, rehabilitationsplan, sales, gf]
-sources: ["raw/Finanzdaten/ObsidianVault/Templates/Claude Session – Finanzen.md", "raw/Privat/Finanzen/Templates/Claude Session – Performance.md", "raw/00-MOC/🏠 Home.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Zentrales Personenprofil — Oleg Kober, 32, Berlin; Sales bei Doctolib GmbH; Netto-Fixgehalt 3.638,82 €/Mo + Quartals-Provision ~4.611 €; strukturelles Jahresdefizit −7.970 €; GF Wagglz GmbH und OK Capital UG (keine Rückflüsse, ~8.000 €/Jahr Belastung); aktiver Rehabilitationsplan Phase 1/2; Baseline-Scan 20,3% KFA, WHR 0,92
+tags: [personal, oleg-kober, job, finance, business, training, goals, location]
+sources: ["raw/raw/_archiv/legacy-numbered-folders/00-MOC/🏠 Home.md"]
+created: 2026-06-14
+updated: 2026-06-14
+summary: Oleg Kober — B2B SaaS Sales (DoktorLib), GmbH/UG operator (Wagglz, OK Capital), partner with separate business, training 6-day split + Hyrox prep, daily Zone-2 cardio, goals Financial Independence + Cyprus relocation by 2027
 ---
 
-# Oleg Personal Context
+# Oleg Kober — Personal Context
 
-## Personendaten
+## Identity & Current Role
 
-| Parameter | Wert |
-|---|---|
-| **Name** | Oleg Kober |
-| **Alter** | 32 Jahre |
-| **Wohnort** | Berlin |
-| **Arbeitgeber** | Doctolib GmbH |
-| **Rolle** | Sales |
+- **Job:** B2B SaaS Sales — [[DoktorLib]] (medical practice software, DACH region)
+- **Title/Level:** Sales professional; commission-based variable income component
+- **Office:** Monday & Wednesday in Berlin; rest remote
+- **Companies:** 
+  - **[[Wagglz GmbH]]** — Active; GF (Geschäftsführer); capital consumption without returns
+  - **[[OK Capital UG]]** — Dormant; GF; capital consumption without returns
+- **Partner:** Kosmetik industry PM; separate business venture
 
 ---
 
-## Finanzen — Privatbereich
+## Financial Situation
 
-### Einnahmen
+### Income
+- **Fixgehalt netto:** ~€3.639/month (DoktorLib base)
+- **Provision netto:** ~€4.611/quarter (Jan/Apr/Jul/Okt); ~€1.537/month average
+- **Total monthly average:** ~€5.176 (salary + 1/3 provision) + vehicle value (€348 brutto)
+- **Estimated netto monthly:** ~€5.200
 
-| Quelle | Betrag | Rhythmus |
+### Fixed Obligations
+- **VW-Bank Kredit:** €681.57/month
+- **Kieferorthopädie (Dr. Wiemann):** €176.53/month
+- **Gesellschafterdarlehen (Unternehmenskapital):** ~€357/month
+- **Known monthly fixed:** ~€1.215
+
+### Capital Status
+- **Dispo:** €-1.405 (negative)
+- **Ersparnisse:** €1.10 (effectively zero)
+- **Investments/Depot:** None
+
+### Structural Deficit
+- **Annual shortfall (known costs alone):** ~€-7.970
+- **Underutilized income source:** Commission (€4.611/quarter) is immediately absorbed by deficit
+- **Company burden:** Jahresabschlüsse (€5.000 current, €2.500 next year per company) = €7.500+ annually
+
+---
+
+## Performance & Health Goals
+
+### Training Program
+- **Structure:** 6-day split (strength + hypertrophy focused)
+- **Primary Objective:** [[Hyrox Prep]] — 10-week competition preparation
+- **Cardio:** Daily Zone-2 aerobic base building (dog walking + structured sessions)
+- **Dog Integration:** Pet functions as daily Zone-2 cardio partner
+
+### Performance Baseline (29.05.2026)
+- **Body Fat:** 20.3% → Goal 14–16%
+- **Lean Mass:** 77.1 kg (to maintain during deficit)
+- **Waist:** 97.2 cm → Goal <90 cm
+- **Waist-to-Hip Ratio:** 0.92 → Goal <0.86
+- **Forward Head Posture:** ~30° (requires corrective attention)
+- **Estimated TDEE:** ~3.645 kcal/day
+- **Target Caloric Intake:** ~2.800 kcal/day (−845 kcal moderate deficit)
+- **Protein Target:** 220 g/day (28% calories, muscle preservation during deficit)
+
+### Key Limiters
+1. **Aerobic Capacity** (PRIMARY LIMITER for Hyrox) — VO₂-max and endurance underdeveloped
+2. **Visceral Fat Distribution** (WHR 0.92 → <0.86) — metabolic risk elevated
+3. **Bilateral Asymmetry** — body weight shifted right; injury risk + performance imbalance
+4. **Forward Head Position** — breathing efficiency compromised; postural correction needed
+
+---
+
+## Longevity & Health Interests
+
+- **Reference Framework:** [[Huberman]], [[Attia]], [[Bryan Johnson]]-inspired biohacking
+- **Key Focus:** Zone-2 training as unified lever for aerobic capacity + posture + metabolism
+- **Protocol Integration:** Health Protocol Master combining training, nutrition, sleep, and Longevity elements
+- **Assessment:** Scaneca 3D body scans (baseline 29.05.2026; follow-up 12 weeks ~ mid-September 2026)
+
+---
+
+## Business & Entrepreneurial Direction
+
+### Performance Coffee Brand
+- **Role:** Co-founder (50%), Strategy + Brand lead
+- **Partner:** [[Hai — Co-Founder Performance Coffee|Hai]] (50%, Operations lead)
+- **Launch Target:** Q3–Q4 2026
+- **Positioning:** Premium performance coffee with Longevity wirkstoffe; "Perform Now. Live Longer."
+- **Zielmarkt:** DACH (primary), EU (secondary); biohacker + fitness enthusiast community
+- **See:** [[00 Auftragsbrief Performance Coffee]] for full project scope
+
+### Financial Independence & Cyprus Strategy
+- **Goal:** Financial Independence + Location Freedom by 2027
+- **Relocation Target:** Cyprus (tax planning + lifestyle)
+- **Dependency:** Rehabilitation plan (3 phases) + Performance Coffee cash flow + Sales commission optimization
+- **Status:** 🔴 Blockiert until EOR (Employer of Record) and Steuerberater coordination complete
+
+---
+
+## Key Relationships
+
+- **Steuerberater (SP STB):** Financial advisor; entity structure, tax optimization, banker network
+- **Partner (Kosmetik PM):** Separate business; not directly involved in Performance Coffee or Wagglz
+- **Hai:** Café Berlin partnership history; now Performance Coffee co-founder (Operations)
+- **DoktorLib:** Current employer; income dependency; potential exit/transition (long-term)
+
+---
+
+## Decision Gates & Next Steps (June 2026)
+
+| Priority | Entscheidung | Status |
 |---|---|---|
-| Netto-Fixgehalt (Doctolib) | 3.638,82 € | Monatlich |
-| Quartals-Provision | ~4.611 € netto | Jan / Apr / Jul / Okt |
-
-### Kontostand & Vermögen
-
-| Parameter | Wert |
-|---|---|
-| Kontostand | −1.405 € (Dispo) |
-| Ersparnisse | 1,10 € |
-| Depot / Investments | keines |
-| **Strukturelles Jahresdefizit** | **−7.970 €** |
-
-### Laufende Verbindlichkeiten
-
-| Posten | €/Mo | Details |
-|---|---|---|
-| VW-Bank Kredit | 681,57 € | Laufzeit bis 11/2028; ursprgl. Crypto-Investment → Wagglz geflossen |
-| Kieferorthopädie (Dr. Wiemann) | 176,53 € | Laufend |
-| Gesellschafterdarlehen | ~357 € | Privat → Unternehmen |
+| **1** | Café Berlin Partnership [[Hai]] | 🟡 Planning Session 14.06.2026 |
+| **2** | DoktorLib Automation Pipeline (Tally/Dust Agent) | 🟡 In Bau |
+| **3** | Cyprus Relocation EOR + Steuerberater | 🔴 Blockiert |
+| **4** | [[Hyrox — 10-Week Training]] | 🟢 Aktiv (weekly progress) |
+| **5** | Password Manager Migration | ⚪ Offen (decision ausstehend) |
+| **6** | [[Allianz Insurance Consolidation]] (3 policies) | ⚪ Offen |
 
 ---
 
-## Finanzen — Unternehmen
+## Related Pages
 
-| Unternehmen | Rolle | Jahresbelastung | Rückflüsse |
-|---|---|---|---|
-| [[Wagglz GmbH]] | Geschäftsführer | ~5.000 € (Jahresabschlüsse) | keine |
-| [[OK Capital UG]] | Geschäftsführer | ~5.000 € (Jahresabschlüsse) | keine |
-| **Gesamt** | — | **~8.000 €/Jahr** | **keine** |
-
-> **Kontext:** Der VW-Bank-Kredit (681,57 €/Mo) wurde ursprünglich für ein Crypto-Investment aufgenommen und ist in Wagglz geflossen — eine direkte Verbindung zwischen Privatverschuldung und Unternehmensengagement.
-
----
-
-## Rehabilitationsplan
-
-- **Phase 1:** Stabilisierung (aktiv)
-- **Phase 2:** Juli-Reset (geplant)
-- **Schlüssel-Hebel:** Provisions-Allokation (~4.611 € im Juli)
-
-Für strukturierte Claude-Finanz-Sessions → [[Claude Session – Finanzen Template]]
-
----
-
-## Performance & Gesundheit
-
-### Körperzusammensetzung (Baseline Mai 2026)
-
-| Metrik | Wert |
-|---|---|
-| Gewicht | 96,7 kg |
-| Körperfett | 20,3 % |
-| Magermasse | 77,1 kg |
-| FFMI | 21,3 |
-| WHR | 0,92 |
-| BMR | 2.113 kcal |
-| TDEE | ~3.645 kcal |
-
-Vollständige Details: [[3D Body Scan Scaneca Mai 2026]]
-
-### Ziele (nächster Scan)
-
-| Metrik | Ziel |
-|---|---|
-| Körperfett | 15–17 % |
-| Taille | <90 cm |
-| WHR | <0,86 |
-| Gewicht | ~88–90 kg |
-
----
-
-## Verwandte Seiten
-
-### Finanzen
-- [[Claude Session – Finanzen Template]] — Prompt-Template mit vollständigen Finanzdaten
-- [[MOC Finanzen]] — Übergeordnete Finanz-MOC
-- [[Rehabilitationsplan Finanzen]] — Phasen 1 & 2
-- [[Fixkosten Übersicht]] — Monatliche Fixkosten
-- [[Wagglz GmbH]] — Unternehmen 1
-- [[OK Capital UG]] — Unternehmen 2
-- [[ESt 2025]] — Steuererklärung 2025
-- [[ALG I 2025]] — ALG I bis Juni 2025
-
-### Performance
-- [[3D Body Scan Scaneca Mai 2026]] — Baseline-Scan
-- [[Health Protocol Master]] — Gesundheitsprotokoll
-- [[Supplement Stack]] — Aktiver Supplement-Stack
-- [[Claude Session Template Performance]] — Performance-Session-Template
-
-### Projekte
-- [[Wagglz GmbH]] — Startup (Wufflz)
-- [[OK Capital UG]] — Holding/Investment-Vehikel
-- [[Performance Coffee Brand]] — Neues Projekt
+- [[00 Finanz-Übersicht]] — Detailed financial overview & rehabilitation plan
+- [[00 Performance-Übersicht]] — Training & health protocol baseline
+- [[Rehabilitation Plan]] — 3-phase financial recovery strategy
+- [[Wagglz GmbH]] — Operating company
+- [[OK Capital UG]] — Dormant company
+- [[DoktorLib]] — Current employer
+- [[Performance Coffee Brand]] — Co-founder project
+- [[Hai — Co-Founder Performance Coffee]] — Business partner
+- [[Hyrox Prep]] — 10-week training program
+- [[Health Protocol Master]] — Integrative health framework
+- [[MOC Strategie & Business]] — Strategy & business operations map
+- [[MOC Performance & Leben]] — Health & performance map

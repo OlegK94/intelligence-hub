@@ -1,140 +1,120 @@
 ---
-title: Brick Training
+title: "Brick Training"
 type: concept
-tags: [transition-training, hybrid-fitness, metabolic-conditioning, hyrox, triathlon]
-sources: ["raw/Privat/Performance/Hyrox — 10-Week Training.md"]
-created: 2024-12-19
-updated: 2024-12-19
-summary: Trainingsmethode, die zwei verschiedene Bewegungsmodalitäten direkt hintereinander ohne Pause kombiniert, um Übergänge zu verbessern
+tags: [training, brick-training, functional-fitness, anaerobic-aerobic, gear-switch, hyrox, station-run]
+sources: ["raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/Hyrox — 10-Week Training.md"]
+created: 2026-06-17
+updated: 2026-06-17
+summary: Brick Training ist eine Trainings-Methode, bei der direkt nach einer anaeroben Station (z.B. Sled, Burpee) in einen Ausdauer-Lauf übergegangen wird — ohne Stop oder Erholung. Trainiert den "Gear Switch" von anaerob zu aerob, kritisch für Hyrox und Multi-Discipline-Wettkämpfe.
 ---
 
 # Brick Training
 
 ## Überblick
 
-[[Brick Training]] ist eine Trainingsmethodik, bei der zwei verschiedene Bewegungsmodalitäten direkt hintereinander ohne Pause oder Erholungsphase ausgeführt werden. Der Begriff stammt aus dem Triathlon-Training, lässt sich jedoch auf jede Sportart anwenden, die schnelle Übergänge zwischen verschiedenen Energiesystemen oder Bewegungsmustern erfordert.
+**Brick Training** ist eine spezialisierte Trainings-Methode, die den **Übergang von anaeroben (Station-) zu aeroben (Lauf-) Aktivitäten trainiert** — ohne Pause, ohne Reset, ohne aktive Erholung. Das Format ist besonders wertvoll für Multi-Discipline-Wettkämpfe wie [[Hyrox]], bei denen Athleten direkt nach hochintensiven Kraft-Stationen in längere Lauf-Segmente übergehen müssen.
 
-## Kernkonzept
+## Struktur
 
-### „Gang-Wechsel"-Training
-Brick Training zielt gezielt auf die physiologische und neuromuskuläre Herausforderung ab, von einer Bewegungsmodalität zur anderen zu wechseln – insbesondere:
-- **Anaerob → Aerob:** Hochintensive Stationsarbeit direkt in gleichmäßiges Laufen
-- **Kraft → Ausdauer:** Kraftbasierte Bewegungen mit Übergang zu kardiovaskulären Anforderungen
-- **Unterschiedliche Bewegungsmuster:** Wechsel zwischen verschiedenen neuromuskulären Mustern
+### Klassisches Brick-Pattern
+```
+[1] Anaerobe Station (z.B. Sled Push, Wall Balls, Burpee Broad Jump)
+    ↓
+[2] DIREKT → Lauf ohne Stop (z.B. 200m oder 1 km)
+    ↓
+[3] Nächste Station
+    ↓
+[Repeat]
+```
 
-### No-Pause-Protokoll
-- **Direkter Übergang:** Sofortiger Wechsel von der ersten zur zweiten Übung
-- **Keine Resetphase:** Keine Pause zum Erholen, Anpassen oder mentalen Vorbereiten
-- **Wettkampfsimulation:** Spiegelt die tatsächlichen Wettkampfbedingungen exakt wider
-- **Metabolische Herausforderung:** Erzwingt schnelle Anpassung zwischen den Energiesystemen
+**Schlüssel:** Kein Reset, kein Atmen, kein "Shake It Out". Der Körper muss **sofort vom anaeroben in den aeroben Zustand wechseln** — das ist die zentrale Trainings-Reiz.
 
-## Physiologische Anpassungen
+## Physiologische Rationale
 
-### Metabolisches Umschalten
-- **Laktatabbau:** Verbesserte Fähigkeit, anaerobe Stoffwechselprodukte zu verarbeiten, während die aerobe Arbeit fortgesetzt wird
-- **Energiesystemübergang:** Gesteigerte Kapazität, zwischen Phosphokreatin-, glykolytischen und oxidativen Systemen zu wechseln
-- **Sauerstoffaufnahmekinetik:** Schnellere VO2-Reaktion beim Übergang zu aeroben Anforderungen
-- **Substratverwertung:** Besseres Umschalten zwischen Fett und Kohlenhydraten als Brennstoff unter Belastung
+### Der "Gear Switch"
 
-### Neuromuskuläre Anpassung
-- **Motorisches Musterwechseln:** Verbesserte Fähigkeit, Bewegungsmuster schnell zu ändern
-- **Koordination unter Ermüdung:** Technikerhalt beim Übergang zwischen Übungen
-- **Muskelaktivierungsmuster:** Rascher Wechsel von kraftbasierter zu ausdauerbasierter Muskelrekrutierung
-- **Propriozeptive Anpassung:** Schnelle Anpassung an unterschiedliche Bewegungsanforderungen
+Nach intensiver anaerober Arbeit (z.B. 30 Sekunden Sled Push, hohe Laktat-Akkumulation) ist der Körper in einem **lokalen Ermüdungs-Zustand**:
+- Muskuläre Laktat-Akkumulation (lokal in Quadriceps, Brust, Armen)
+- CNS-Belastung (neuronale Ermüdung)
+- Dyspnoe (Atemlosigkeit)
 
-## Anwendung im Hyrox-Training
+**Sofortiger Lauf zwingt den Körper, diesen Zustand schnell zu überwinden:**
+- VO₂-Zapfung wird maximal (Übergang zu aeroben Pathways)
+- Laktat-Clearance beschleunigt sich (durch den Lauf selbst)
+- CNS-Resilienz wird trainiert (Toleranz für Unwohlsein)
 
-### Schrittweise Einführung
+### Training-Effekt
+Brick Training erhöht die **Toleranz für schnelle Intensitäts-Übergänge** — genau das, was in Hyrox oder CrossFit-Workouts erforderlich ist. Athleten, die nicht Brick-trainieren, erleben typischerweise einen "Dead Leg"-Effekt oder massiven Leistungs-Drop bei den Übergängen.
 
-#### Phase 2: Einführung (Wochen 4–6)
-- **Format:** Stationsarbeit → 200m Lauf → nächste Station
-- **Zweck:** Erste Anpassung an Übergangangsanforderungen
-- **Fokus:** Technikerhalt während der Übergänge
-- **Umfang:** Kürzere Distanzen zum Aufbau des Musters
+## Anwendung in Hyrox Prep
 
-#### Phase 3: Vollständige Simulation (Wochen 7–9)
-- **Format:** Stationsarbeit → 1km Lauf → nächste Station
-- **Zweck:** Wettkampfspezifische Vorbereitung
-- **Fokus:** Tempostrategie und Energiemanagement
-- **Umfang:** Simulation über die volle Wettkampfdistanz
+Aus [[Hyrox — 10-Week Training Plan]]:
 
-### Stationsspezifische Anwendungen
+### Phase 2 — Wochen 4–6: Spezifisches Conditioning
+> **Brick Training einführen:** Station → 200m Run → Station
+> - Lauftempo progressiv steigern
+> - Sled-Gewichte auf Wettkampfgewicht (102 kg ♂)
 
-#### Hochintensiv zu Laufen
-- **Sled Push (102kg) → 1km Lauf:** Übergang von Kraftausdauer zur Aerobarbeit
-- **Burpee Broad Jump → 1km Lauf:** Übergang von Explosivkraft zu gleichmäßigem Laufen
-- **Wall Balls → 1km Lauf:** Übergang von Muskelausdauer zu kardiovaskulärer Belastung
+Das bedeutet:
+1. Komplette Station absolvieren (z.B. 102 kg Sled Push)
+2. **Direkt danach** 200m schnell laufen (kein Stop)
+3. Nächste Station beginnen (z.B. Sled Pull 78 kg)
+4. Repeat
 
-#### Metabolisch zu Laufen
-- **Ski Erg → 1km Lauf:** Oberkörper-Cardio zu Ganzkörper-Laufen
-- **Rowing → 1km Lauf:** Sitzende Cardioarbeit zu aufrechter Laufmechanik
+### Phase 3 — Wochen 7–9: Race Simulation
+> **Vollständige Hyrox-Simulation 1× pro Woche**
+> - Wettkampftempo üben (konstant, nicht zu schnell starten)
+> - Laufstrecken auf 1 km verlängern
 
-## Trainingsvorteile
+Im Kontext von Hyrox wird Brick Training zum **1 km Lauf zwischen Stationen**:
+- Station → 1 km Lauf → nächste Station
+- Der 1 km Lauf ist das "Brick"-Element
+- Kein Equipment-Wechsel, keine lange Erholung
 
-### Wettkampfspezifische Vorteile
-- **Rennsimulation:** Exakte Nachbildung der Wettkampfanforderungen
-- **Übergangeffizienz:** Weniger Zeitverlust beim Wechsel der Modalitäten
-- **Tempostrategie:** Optimale Intensitätsverteilung über Übergänge erlernen
-- **Mentale Vorbereitung:** Entscheidungsfindung unter Übergangsstress trainieren
+## Variationen
 
-### Physiologische Verbesserungen
-- **Verbesserter Erholung:** Besserer Laktatabbau während aerober Abschnitte
-- **Gesteigerte Effizienz:** Weniger Energieverschwendung bei Übergängen
-- **Ermüdungswiderstand:** Leistungsqualität unter akkumulierendem Stress aufrechterhalten
-- **Metabolische Flexibilität:** Bessere Anpassung an wechselnde Energieanforderungen
+### Kurz-Bricks (200–400 m)
+- Fokus: Anaerobe Erholung trainieren
+- Verwendet: Phase 2 Conditioning
+- Intensität: Mittel (kann nach jeder Station kontrolliert werden)
 
-## Umsetzungsrichtlinien
+### Mittel-Bricks (500–800 m)
+- Fokus: Anaerobic Threshold + Aerobe Übertragung
+- Verwendet: Phase 2–3 Transitional
+- Intensität: Hoch (Gear Switch wird echte Challenge)
 
-### Trainingshäufigkeit
-- **Spezifische Einheiten:** 1–2x pro Woche in spezifischen Vorbereitungsphasen
-- **Progressiver Umfang:** Mit kürzeren Übergängen beginnen, bis zur vollen Distanz aufbauen
-- **Erholungsberücksichtigung:** Höherer Stress als isolierte Trainingsmodalitäten
-- **Periodisierung:** Häufigkeit vor dem Wettkampf steigern
+### Lang-Bricks (1–2 km)
+- Fokus: Hyrox-ähnliche volle Simulation
+- Verwendet: Phase 3 Race Simulation
+- Intensität: Sehr Hoch (VO₂-max + Lactate Threshold + Mentale Resilienz)
 
-### Intensitätssteuerung
-- **Submaximaler Einstieg:** Unterhalb des Wettkampftempos beginnen, um Muster zu etablieren
-- **Progressive Intensität:** Über Wochen auf Wettkampfintensität steigern
-- **Qualitätsfokus:** Technikerhalt zunächst wichtiger als Geschwindigkeit
-- **Volle Intensität:** Wettkampftempo-Simulation in den letzten Vorbereitungswochen
+## Unterschied zu "Active Recovery"
 
-## Anwendungen über Hyrox hinaus
+| Aspekt | Brick Training | Active Recovery |
+|---|---|---|
+| **Intensität** | Mittel–Hoch | Niedrig (Zone 1–2) |
+| **Ziel** | Gear Switch trainieren | Blutfluss erhöhen, Laktat-Clearance |
+| **Dauer** | 200m–1km schnell | 30 min+ easy |
+| **Timing** | Nach intensiven Sessions | Zwischen Trainings-Tagen |
+| **CNS-Impact** | Hoch (zusätzliche Belastung) | Niedrig (regenerativ) |
 
-### Triathlon-Training
-- **Schwimmen zu Radfahren:** Übergänge vom Becken/Freiwasser zum Radfahren
-- **Radfahren zu Laufen:** Vom Radfahren zum Laufen (klassisches „Brick"-Workout)
-- **Mehrfache Übergänge:** Vollständiges Rennsimulations-Training
+**Brick = Hard Transition | Active Recovery = Easy Continuation**
 
-### Allgemeine Fitness
-- **Kraft zu Cardio:** Krafttraining direkt in Cardioarbeit
-- **HIIT-Übergänge:** Verschiedene hochintensive Modalitäten direkt hintereinander
-- **Sportspezifisch:** Jede Sportart, die schnelle Aktivitätswechsel erfordert
+## Integration mit Zone 2 Training
 
-### Militär-/Taktisches Training
-- **Kampfanwendungen:** Verschiedene körperliche Aufgaben unter Stress
-- **Ausrüstungsübergänge:** Ausrüstungswechsel bei gleichzeitiger körperlicher Leistung
-- **Multi-Domain-Training:** Verschiedene körperliche Herausforderungen in Sequenz
+[[Zone 2 Training]] bildet die **aerobe Basis** für erfolgreiches Brick Training:
+- Ohne stabile Zone-2-Kapazität ist der Lauf nach der Station einfach zu hart
+- Mit guter Zone-2-Base kann der Athlet den Lauf "easy" halten und trotzdem den Gear-Switch-Reiz bekommen
 
-## Programmierungsaspekte
+→ **Protokoll-Sequenz:**
+1. Phase 1 (Wochen 1–3): Zone-2-Base aufbauen, keine Bricks
+2. Phase 2 (Wochen 4–6): Bricks mit 200m einführen, Zone-2-Pacing beibehalten
+3. Phase 3 (Wochen 7–9): Bricks auf 1 km verlängern, Tempo progressiv steigern
 
-### Erholungsmanagement
-- **Höherer Stress:** Brick-Einheiten anspruchsvoller als isoliertes Training
-- **Ausreichende Ruhe:** Genügend Erholung zwischen Brick-Einheiten sicherstellen
-- **Belastungsüberwachung:** Auf Übertrainingszeichen durch Übergangsstress achten
-- **Anpassungszeit:** Mehrere Wochen für neuromuskuläre Anpassung einplanen
+## Verwandte Seiten
 
-### Individuelle Anpassung
-- **Kraft- vs. Ausdauerhintergrund:** Verschiedene Athleten haben Schwierigkeiten mit unterschiedlichen Übergängen
-- **Spezifische Schwächen:** Individuelle Übergangsprobleme gezielt angehen
-- **Progressive Überlastung:** Übergangsschwierigkeit schrittweise steigern
-- **Kompetenzentwicklung:** Technik vor Intensität fokussieren
-
-## Verwandte Trainingskonzepte
-
-- [[Metabolic Conditioning|Metabolisches Konditionieren]] – Energiesystementwicklung
-- [[Hyrox Competition|Hyrox-Wettkampf]] – primärer Anwendungskontext
-- [[Transition Training|Überganstraining]] – übergeordnete Kategorie der Kompetenzentwicklung
-- [[Lactate Threshold Training|Laktatschwellentraining]] – physiologische Grundlage
-- [[Competition Simulation|Wettkampfsimulation]] – Rennvorbereitungsmethodik
-- [[Hybrid Training|Hybrides Training]] – Kombination verschiedener Trainingsmodalitäten
-
-Brick Training ist ein entscheidender Bestandteil der Vorbereitung auf Wettkämpfe wie den [[Hyrox Competition|Hyrox-Wettkampf]], bei dem die Fähigkeit, schnell zwischen verschiedenen körperlichen Anforderungen zu wechseln, häufig über den Wettkampferfolg entscheidet.
+- [[Hyrox — 10-Week Training Plan]] — Konkretes Trainings-Programm mit Brick-Integration
+- [[Hyrox]] — Wettkampf-Format, für das Brick Training optimiert ist
+- [[Zone 2 Training]] — Aerobe Basis für Brick Training
+- [[Functional Fitness]] — Übergeordnete Trainings-Philosophie
+- [[Health Protocol Master]] — Integratives Trainings-Rahmen-Werk

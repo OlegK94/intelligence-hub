@@ -1,67 +1,110 @@
 ---
-title: Apple Passwords
+title: "Apple Passwords"
 type: entity
-tags: [tool, password-manager, apple, ios, macos, tech-stack, autofill]
-sources: ["raw/Privat/Tech/Password Manager Migration.md"]
-created: 2026-06-09
-updated: 2026-06-09
-summary: Apples nativer Passwortmanager (iOS 18+ / macOS 15+ als eigenständige App) — unterstützt Benutzername/Passwort/TOTP/Passkeys, verfügt aber nicht über benutzerdefinierte Felder, mehrere URLs, Tresorstruktur, Kreditkarten- und Identitätseinträge; Ziel von Olegs Migrationsauswertung von Proton Pass
+tags: [password-manager, apple, native-macos, autofill, biometric, icloud-sync, face-id, touch-id, limited-fields]
+sources: ["raw/raw/_archiv/legacy-numbered-folders/03-Tech-Setup/Password Manager Migration.md"]
+created: 2026-06-14
+updated: 2026-06-14
+summary: Apple Passwords — Native Password Manager in macOS/iOS (seit 2024); Tight Integration mit Safari/Chrome/Firefox Autofill, Face ID/Touch ID Biometric Unlock, iCloud Sync; limitierte Feldunterstützung (kein Custom Fields, Single URL, keine Identities, keine Secure Notes, keine Vault-Struktur); Import aus CSV möglich (US-Standard-Delimiter erforderlich)
 ---
 
 # Apple Passwords
 
 ## Überblick
 
-**Apple Passwords** ist Apples native Passwortverwaltungsanwendung, die als eigenständige App in iOS 18 und macOS 15 (Sequoia) eingeführt wurde. Sie ist das **Ziel** einer möglichen Migration von [[Oleg Personal Context|Oleg]] von [[Proton Pass]], im Rahmen der Vereinfachung des Tech-Stacks und der Integration in das Apple-Ökosystem.
+[[Apple Passwords]] ist Apples **Native Password Manager** in macOS 15+/iOS 18+ (eingeführt 2024), mit dem Ziel einer **seamless, privacy-first Passwort-Verwaltung** im Apple-Ökosystem.
 
-## Funktionsumfang
+---
 
-| Funktion | Unterstützt |
+## Kernfeatures
+
+| Feature | Status |
 |---|---|
-| Benutzername + Passwort | ✅ |
-| Einzelne URL pro Eintrag | ✅ |
-| TOTP / OTPAuth | ✅ (manuelles Re-Enrollment beim Import erforderlich) |
-| Passkeys | ✅ (manuelles Re-Enrollment beim Import erforderlich) |
-| Benutzerdefinierte Felder | ❌ |
-| Mehrere URLs pro Eintrag | ❌ |
-| Kreditkarteneinträge | ❌ (werden separat über Apple Wallet verwaltet) |
-| Identitätseinträge | ❌ |
-| Sichere Notizen | ❌ |
-| Tresor-/Ordnerstruktur | ❌ |
+| **Grundlagen** | |
+| Passwort-Speicherung & Verschlüsselung | ✅ iCloud Keychain (E2EE) |
+| Passwort-Generator | ✅ |
+| Autofill (Safari, Chrome, Firefox) | ✅ Seamless via Extension |
+| Vault-Struktur | ❌ Flat List (keine Ordner) |
+| **Erweiterte Felder** | |
+| Custom Fields | ❌ |
+| Mehrere URLs pro Eintrag | ❌ (Single URL Only) |
+| Kreditkarten-Speicherung | ❌ (separat in Apple Wallet) |
+| Identity-Einträge | ❌ |
+| Secure Notes | ❌ |
+| **Authentifizierung** | |
+| TOTP/OTPAuth | ⚠️ Unterstützt, aber manuell re-enroll erforderlich |
+| Passkeys | ⚠️ Unterstützt, aber manuell re-enroll erforderlich |
+| **Sicherheit** | |
+| End-to-End Encryption | ✅ iCloud Keychain (E2EE) |
+| Biometric Unlock | ✅ Face ID / Touch ID |
+| iCloud Sync | ✅ |
 
-## Import-Einschränkungen
+---
 
-- **CSV-Import:** Unterstützt, erfordert jedoch kommagetrennte CSV-Dateien
-- **Problem mit deutschem Gebietsschema:** Proton Pass exportiert auf deutschen Systemen semikolongetrennte CSV-Dateien → Import schlägt fehl
-- **Datenverlust:** Alle Proton-Pass-Daten in nicht unterstützten Feldern werden beim Import **still verworfen**
-- **TOTP-Re-Enrollment:** TOTP-Secrets werden nicht per CSV übertragen — müssen manuell neu eingescannt/eingetragen werden
+## Feldunterstützung (Limitiert)
 
-## Vorteile
+Apple Passwords speichert per Eintrag:
+- **Username / Email**
+- **Password**
+- **URL** (einzeln, nicht mehrfach)
+- **Notes** (einfache Freitext, nicht verschlüsselt auf Cloud)
 
-- **Keine zusätzlichen Kosten** — im Apple-Ökosystem enthalten
-- **Nahtloses Autofill** — native Integration mit Safari, iOS, macOS
-- **iCloud-Synchronisation** — automatisch auf allen Apple-Geräten
-- **Passkey-Unterstützung** — integriert und eng verzahnt
-- **Einfachheit** — reduzierte Komplexität für Benutzername+Passwort+TOTP-Workflows
+**Nicht unterstützt:**
+- Custom Fields (z.B. Admin-PIN, Sicherheitsfragen)
+- Multi-URL-Speicherung
+- Identities (persönliche Daten-Einträge)
+- Secure Notes (verschlüsselte Notizen)
+- Vault-Struktur / Ordner-Kategorisierung
 
-## Einschränkungen gegenüber Proton Pass
+---
 
-- Keine benutzerdefinierten Felder (PIN-Codes, Kontonummern usw.)
-- Keine mehreren URLs pro Eintrag
-- Keine sicheren Notizen
-- Keine Tresor-/Ordnerorganisation
-- Kein nativer plattformübergreifender Support (Android, Windows)
-- Keine datenschutzorientierte Architektur (iCloud-Synchronisation, Abhängigkeit vom Apple-Ökosystem)
+## Import aus CSV
 
-## Migrationsstatus
+Apple Passwords akzeptiert CSV-Import mit:
+- **US-Standard CSV** (Komma-Trennzeichen)
+- **Spalten:** Username, Password, URL, Notes
 
-Die Migration ist **ausstehend** — blockiert durch die Bewertung der Feldinkompatibilität. Siehe [[Password Manager Migration]] für den Entscheidungsrahmen und die erforderliche Prüfung.
+**Problem bei Migration von [[Proton Pass]]:**
+Proton-Export mit deutschem Locale verwendet Semikolon-Trennzeichen → Fehler beim Import.
+
+**Lösung:** Siehe [[Password Manager Migration]] — CSV-Delimiter-Fix erforderlich.
+
+---
+
+## Post-TOTP-Migration
+
+Wenn Proton Pass TOTP-Codes speichert, sind diese **nicht direkt exportierbar**. Nach Apple Passwords Migration ist erforderlich:
+
+1. **TOTP-Secrets auslesen** aus Proton Pass (bzw. aus ursprünglichen 2FA-Setup-QR-Codes)
+2. **Manuell re-enroll** in Apple Passwords oder Authenticator-App (z.B. Microsoft Authenticator, Google Authenticator)
+
+---
+
+## Apple Wallet (separate App)
+
+Für Kreditkarten-Speicherung von Proton Pass müssen diese manuell zu **Apple Wallet** migiert werden:
+1. Apple Wallet öffnen
+2. "Karte hinzufügen" → manuell eingeben
+3. Nicht ideal für Migration in Batch
+
+---
+
+## Use Cases
+
+- **Optimal für** Benutzer, die zu 80%+ einfache Login + Passwort + TOTP-Workflows nutzen
+- **Optimal für** Apple-Only-Nutzer (MacBook + iPhone + iPad) ohne Windows/Linux-Anforderung
+- **Nicht geeignet für** Komplexe Konto-Management-Anforderungen (Banking mit Admin-Panels, Multi-URL-Einträge)
+
+---
+
+## Vergleich mit [[Proton Pass]]
+
+Siehe [[Password Manager Migration]] — Kompatibilitäts-Matrix.
+
+---
 
 ## Verwandte Seiten
 
-- [[Password Manager Migration]] — Migrations-Entität
-- [[Password Manager Migration Source Detail]] — technische Details
-- [[Proton Pass]] — aktueller Passwortmanager
-- [[Privacy and Tech Stack]] — übergeordneter Tech-Stack-Kontext
-- [[MOC Tech und Setup]] — übergeordnete MOC
-- [[Oleg Personal Context]] — Bewerter
+- **[[Proton Pass]]** — Alternativer Password Manager
+- **[[Password Manager Migration]]** — Entscheidungsrahmen für Wechsel
+- **[[Tech Stack & Security Decisions]]** — Übergeordnetes Framework

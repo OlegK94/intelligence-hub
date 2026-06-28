@@ -1,107 +1,89 @@
 ---
-title: "Körper & Body Composition — Vault Finanzdaten Quelldokument"
+title: "Körper und Body Composition — Finanzdaten-Vault-Quelle"
 type: source
-tags: [performance, scan, koerper, body-composition, baseline, scaneca, labor-berlin, zone2, hyrox, asymmetrie, forward-head-posture, whr, ziele]
+tags: [body-composition, vault, finanzdaten, performance, obsidian, measurement]
 sources: ["raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Vault-Planungsnotiz (Finanzdaten-Vault) zum Scaneca-Scan vom 29.05.2026 — bestätigt Kernmessungen (96,7 kg, KFA 20,3%, Lean Mass 77,1 kg, BMR 2.113 kcal, WHR 0,92); legt KFA-Ziel 14–16% (abweichend von 15–17% im Originaldokument), WHR-Ziel <0,86, Gewichtsziel ~88–90 kg fest; dokumentiert strukturelle Befunde (Viszeralfett, bilaterale Asymmetrie, Forward Head 30°)
+created: 2026-06-06
+updated: 2026-06-17
+summary: "Vault-Eintrag aus Finanzdaten/ObsidianVault-Zweig; dokumentiert Körperzusammensetzungs-Baseline und Zielwerte parallel zum älterer Performance-Vault-Pfad; beide Vault-Quellen bestätigen identische Messwerte 20.3 % KFA, FFMI 21.3, WHR 0.92; 14–16 % KFA-Zielspanne (konsistent mit älterer Vault-Notiz)"
 ---
 
-# Körper & Body Composition — Vault Finanzdaten Quelldokument
+# Körper und Body Composition — Finanzdaten-Vault-Quelle
 
 ## Überblick
 
-Dieses Quelldokument (`raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md`, Scan-Datum: 2026-05-29, erstellt: 2026-06-13) ist die **Vault-Planungsnotiz** aus dem Finanzdaten-Vault, die den Scaneca-Scan vom 29. Mai 2026 dokumentiert. Sie war bereits in der Entitätsseite [[3D Body Scan Scaneca Mai 2026]] als „Vault-Planungsnotiz" referenziert — dieses Dokument ist genau diese Quelle.
+Dieses Quelldokument (`raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md`) ist der **zweite Vault-Pfad** zur Körperzusammensetzungs-Dokumentation von [[Oleg Personal Context|Oleg]]. Es wurde am 2026-06-06 erstellt und bestätigt vollständig die Messwerte und Zielwerte aus der älteren Vault-Quelle (`raw/Privat/Performance/_vault/Körper & Scan.md`).
 
-> Für die Entitätszusammenfassung und alle nachgelagerten Protokollimplikationen siehe [[3D Body Scan Scaneca Mai 2026]].
-> Für das primäre Scan-Quelldokument (mit 15–17% KFA-Ziel) siehe [[3D Body Scan Scaneca Mai 2026 Source Detail]].
-> Für das allgemeine Konzept der 3D-Scan-Technologie siehe [[3D Body Scan]].
+> Für die **Konsolidierung beider Vault-Quellen** siehe [[Körper und Body Composition Scan Source Detail]].
+> Für die **offizielle Scaneca-Baseline** siehe [[3D Body Scan Scaneca Mai 2026 Source Detail]].
+> Für die **Entitäts-Zusammenfassung** siehe [[3D Body Scan Scaneca Mai 2026]].
 
----
+## Status & Quellenkohärenz
 
-## Scan-Ergebnis (29.05.2026)
-
-**Labor:** Scaneca / Labor Berlin
-
-| Messung | Wert |
+| Aspekt | Wert |
 |---|---|
-| Gewicht | 96,7 kg |
-| Körperfett | 20,3 % |
-| Körperfettmasse | ~19,6 kg |
-| Lean Mass | 77,1 kg |
-| Grundumsatz (BMR) | 2.113 kcal |
+| **Pfad** | `raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md` |
+| **Erstellt** | 2026-06-06 |
+| **Aktualisiert** | 2026-06-17 (bei Ingestion) |
+| **Vault-Typ** | Finanzdaten/ObsidianVault (separater Archiv-Pfad) |
+| **Kohärenz mit älterem Vault** | ✅ 100 % konsistent |
+
+Die Existenz zweier unabhängiger Vault-Quellen mit identischen Messwerten bedeutet:
+- Die Daten sind **redundant dokumentiert** (gute Praktis für wichtige Baselines)
+- Es gibt **keine Widersprüche**
+- Die KFA-Zielspanne 14–16 % ist in beiden Vault-Pfaden etabliert
+
+## Gemessene Schlüsselwerte (identisch mit älterem Vault)
+
+| Metrik | Wert |
+|---|---|
+| Körperfettanteil | 20,3 % |
+| Fettmasse | 19,6 kg |
+| Magermasse | 77,1 kg |
+| FFMI | 21,3 |
 | Taille | 97,2 cm |
-| Taille-Hüfte-Ratio | **0,92** |
+| WHR | 0,92 |
 
-> ✅ **Konsistenz:** Alle Kernmessungen stimmen mit [[3D Body Scan Scaneca Mai 2026 Source Detail]] überein.
+## Zielwerte (identisch mit älterem Vault)
 
----
-
-## Strukturelle Befunde
-
-### 1. Viszeral-Fettverteilung
-- Taille-Hüfte-Ratio 0,92 liegt über dem Zielwert <0,86
-- Metabolisch relevanter als Körperfett-% allein
-- **Prioritätsmaßnahme:** [[Zone 2 Training]] + Ernährung → viszeral-selektiver Fettabbau
-
-### 2. Bilaterale Asymmetrie
-- Körperschwerpunkt nach rechts verschoben
-- Hüftasymmetrie bilateral
-- **Implikation:** Funktionelle Schwäche, erhöhtes Verletzungsrisiko bei [[Hyrox Competition|Hyrox]]-Belastungen
-- **Maßnahme:** Siehe [[Corrective Exercise]]
-
-### 3. Forward Head Position (~30°)
-- Ausgeprägte [[Forward Head Posture|Kopfvorneigung]]
-- Direkte Auswirkung auf Atemeffizienz (Zwerchfellkompression, verringerte Lungenkapazität)
-- **Maßnahme:** Tägliches Haltungsprotokoll = direkte Kapazitätssteigerung
-
----
-
-## Zieldefinition
-
-| Metrik | Aktuell | Ziel | Zeitrahmen |
-|---|---|---|---|
-| Körperfett | 20,3 % | **14–16 %** | 12–16 Wochen |
-| Lean Mass | 77,1 kg | ≥77,1 kg | halten |
-| Taille-Hüfte-Ratio | 0,92 | <0,86 | 12 Wochen |
-| Gewicht | 96,7 kg | ~88–90 kg | individuell |
-
----
-
-## ⚠️ Widerspruch: KFA-Ziel 14–16 % vs. 15–17 %
-
-Dieses Dokument gibt **14–16 %** als KFA-Ziel an.
-
-Das primäre Scan-Quelldokument [[3D Body Scan Scaneca Mai 2026 Source Detail]] gibt **15–17 %** als Ziel an.
-
-| Quelle | KFA-Ziel |
+| Metrik | Ziel |
 |---|---|
-| [[3D Body Scan Scaneca Mai 2026 Source Detail]] | 15–17 % |
-| **Dieses Dokument (Finanzdaten-Vault)** | **14–16 %** |
-| [[3D Body Scan Scaneca Mai 2026]] (Entität) | Beide vermerkt; 15–17 % als primär/maßgeblich |
+| Körperfett | **14–16 %** |
+| Taille | <90 cm |
+| Magermasse | ≥77,1 kg |
 
-**Auflösung:** Die Bereiche überschneiden sich bei 15–16 %. Der Wert 15–17 % aus dem Originaldokument bleibt das primäre, maßgebliche Ziel. Der Wert 14–16 % aus dieser Planungsnotiz reflektiert ein etwas ambitionierteres Planungsziel. Kein sachlicher Widerspruch — unterschiedliche Dokumenttypen (Messbericht vs. Planungsnotiz).
+## Vergleich Finanzdaten-Vault vs. älterer Performance-Vault
 
----
+| Element | Performance-Vault | Finanzdaten-Vault | Abweichung |
+|---|---|---|---|
+| **Messwerte** | 20.3 % KFA, FFMI 21.3, WHR 0.92 | 20.3 % KFA, FFMI 21.3, WHR 0.92 | ✅ Identisch |
+| **KFA-Ziel** | 14–16 % | 14–16 % | ✅ Identisch |
+| **Aktualisierungsdatum** | 2026-06-06 | 2026-06-06 | Gleicher Tag |
+| **Dokumentation-Tiefe** | Planungsnotiz | Planungsnotiz | Ähnlich |
 
-## Wiederhol-Scan
+## Vergleich mit Scaneca-Originaldokument
 
-- **Nächster Scan empfohlen:** 12 Wochen nach Protokollstart
-- **Labor:** Scaneca/Labor Berlin (gleiche Bedingungen: gleiche Tageszeit, nüchtern)
+| Quelle | KFA-Baseline | KFA-Ziel |
+|---|---|---|
+| **Finanzdaten-Vault** | 20,3 % | 14–16 % |
+| **Performance-Vault** (älter) | 20,3 % | 14–16 % |
+| **Scaneca-Originals** ([[3D Body Scan Scaneca Mai 2026 Source Detail]]) | 20,3 % | 15–17 % |
 
----
+> ⚠️ **KFA-Ziel-Varianz:** Die zwei Vault-Quellen geben einheitlich **14–16 %** an; das offizielle Scaneca-Dokument spezifiziert **15–17 %**. Die Bereiche überschneiden sich bei 15–16 %. Die **primär maßgebliche Spanne** bleibt die 15–17 % aus dem Scaneca-Originaldokument.
+
+## Funktion dieses Vault-Pfads
+
+Die Existenz dieses separaten Finanzdaten-Vault-Eintrags deutet auf eine **Archivierung oder Duplikation** hin — wahrscheinlich:
+- Backup-Redundanz der Gesundheits-Baselines in Finanz-Vault
+- Historische Dokumentation (älterer Vault-Pfad wurde später dupliziert)
+- Keine Änderung an den tatsächlichen Daten oder Zielen
 
 ## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026]] — Entitätsseite mit vollständiger Interpretation
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — primäres Scan-Quelldokument (15–17% KFA-Ziel)
-- [[3D Body Scan]] — Methodik und Technologiekonzept
+- [[Körper und Body Composition Scan Source Detail]] — Konsolidierung beider Vault-Quellen
+- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Offizielles Scaneca-Quelldokument
+- [[3D Body Scan Scaneca Mai 2026]] — Entitäts-Zusammenfassung
+- [[3D Body Scan]] — Konzept und Technologie-Übersicht
 - [[Health Protocol Master]] — Protokoll, das diese Baseline verwendet
-- [[MOC Performance und Leben]] — übergeordnete MOC
-- [[Oleg Personal Context]] — Person des Scans
-- [[Zone 2 Training]] — Prioritätsmaßnahme für WHR-Reduktion
-- [[Hyrox Competition]] — Verletzungsrisikokontext (bilaterale Asymmetrie)
-- [[Forward Head Posture]] — Haltungsbefund
-- [[Corrective Exercise]] — Intervention bei bilateraler Asymmetrie
-- [[BMR and TDEE]] — metabolische Kennzahlen aus diesem Scan
+- [[MOC Performance Leben]] — Übergeordnete Performance-MOC
+- [[Oleg Personal Context]] — Gemessene Person

@@ -1,138 +1,129 @@
 ---
 title: "Fixkosten Übersicht"
 type: entity
-tags: [ausgaben, fixkosten, monatlich, finanzen, versicherung, streaming, kredit, doctolib, wagglz, optimierung]
-sources: ["raw/Finanzdaten/Obsidian_Vault/Ausgaben/Fixkosten Übersicht.md"]
+tags: [fixkosten, ausgaben, monatlich, miete, kredite, versicherungen, streaming, optimierungspotenzial, 2026]
+sources: ["raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md"]
 created: 2026-06-12
-updated: 2026-06-12
-summary: Monatliche Fixkosten von Oleg (Stand Jun 2026) — Gesamtfixkosten ~2.120 € (ohne Wagglz-Darlehen) bzw. ~2.220–2.420 € (inkl. variablem Wagglz-Darlehen); entspricht 58 % des Doctolib-Nettoeinkommens von 3.638,82 €; größte Posten sind Miete (991 €), VW-Kredit (682 €) und Uelzener Tierversicherung (132 €)
+updated: 2026-06-14
+summary: Monatliche Fixkosten Übersicht Juni 2026 — €2.120–2.420 gesamt (Miete €991, VW-Kredit €681,57, Versicherungen €187, Streaming €~155, Wagglz-Darlehen €100–300); 58% des Netto-Doctolib-Gehalts (€3.638,82); Optimierungspotenzial: Apple-Abos €45/Mo (Audit), Uelzener €132 (Vergleich), YouTube Premium €24 (Notwendigkeit), ARAG €403/Jahr (Kündigung bis 2026-06-30)
 ---
 
 # Fixkosten Übersicht
 
 ## Überblick
 
-Diese Seite fasst [[Oleg Personal Context|Olegs]] monatliche Fixkosten zusammen (Stand: Juni 2026). Die Gesamtfixkosten liegen bei **~2.120 €/Monat** (ohne variables Wagglz-Darlehen) bzw. **~2.220–2.420 €/Monat** inklusive des variablen [[Wagglz GmbH]]-Darlehens. Dies entspricht **58 % des Doctolib-Nettoeinkommens** von 3.638,82 €.
+Die **Fixkosten Übersicht** dokumentiert alle wiederkehrenden monatlichen Ausgaben für [[Oleg Personal Context|Oleg]] mit Stand Juni 2026. Sie bildet einen zentralen Bestandteil der [[00 Finanz-Übersicht]] und wird als Grundlage für den [[Rehabilitation Plan]] verwendet.
 
-> Vollständige Quelldaten und Anmerkungen: [[Fixkosten Übersicht Source Detail]]
-
----
-
-## Kostenstruktur
+## Monatliche Fixkosten (Gesamt ~€2.120–2.420)
 
 ### Wohnen & Transport
-
-| Kategorie | €/Monat | Anmerkung |
+| Kategorie | Betrag/Monat | Anmerkung |
 |---|---|---|
-| Miete (GSW Immobilien) | 991,09 € | §536 BGB Vorbehalt in Buchung |
-| [[VW Konsumkredit]] | 681,57 € | Restschuld 18.858 €, Laufzeit bis Nov 2028 |
-| Vattenfall Strom | 79,00 € | Auerstr. 29, Abschlag |
-| **Summe** | **~1.751 €** | |
+| 🏠 Miete (GSW Immobilien) | €991,09 | §536 BGB Vorbehalt in Buchung |
+| 🚗 [[VW Konsumkredit]] | €681,57 | Restschuld €18.858, bis Nov 2028 |
 
-### Versicherungen
+**Subtotal Wohnen/Transport:** €1.672,66 (75% der Fixkosten)
 
-| Kategorie | €/Monat | Anmerkung |
+### Versicherungen & Gesundheit
+| Kategorie | Betrag/Monat | Anmerkung |
 |---|---|---|
-| [[Uelzener Tierversicherung]] | 132,48 € | Hund; Optimierungspotenzial |
-| Allianz RLV | 31,55 € | Risikolebensversicherung |
-| [[Barmenia]] KV | 33,00 € | KV-Zusatz |
-| Allianz PKV | 22,62 € | Private KV-Zusatz |
-| **Summe** | **~220 €** | |
+| ⚡ Vattenfall Strom | €79,00 | Auerstr. 29, Abschlag |
+| 🐾 [[Uelzener Tierversicherung]] | €132,48 | Hund, Optimierungsziel |
+| ❤️ [[Allianz RLV]] | €31,55 | Risikolebensversicherung |
+| 🏥 [[Allianz PKV]] | €22,62 | Private KV-Zusatz |
+| 🏥 [[Barmenia KV]] | €33,00 | KV-Zusatz |
 
-### Sport & Fitness
+**Subtotal Versicherungen/Nebenkosten:** €298,65
 
-| Kategorie | €/Monat | Anmerkung |
+### Fitness & Gesundheit
+| Kategorie | Betrag/Monat | Anmerkung |
 |---|---|---|
-| RSG / John Reed | 40,00 € | 24 Monate, bis ~Apr 2028 |
+| 🏋️ [[RSG / John Reed Fitnessvertrag]] | €40,00 | 24 Monate, bis ~Apr 2028 |
 
-### Digitale Abonnements
+**Subtotal Fitness:** €40,00
 
-| Kategorie | €/Monat | Anmerkung |
+### Digitale Dienste & Streaming
+| Kategorie | Betrag/Monat | Optimierungsstatus |
 |---|---|---|
-| Apple / iTunes | ~45,00 € | Verschiedene Dienste; Optimierungspotenzial |
-| Spotify | 21,99 € | |
-| Netflix | 19,99 € | |
-| Proton (VPN/Mail) | 12,99 € | |
-| Google Workspace | 10,58 € | OK-Holding |
-| **Summe** | **~110 €** | |
+| 📱 Apple / iTunes Abos | ~€45,00 | ⚠️ Audit erforderlich (Deadline 2026-07-01) |
+| 🎵 Spotify | €21,99 | Aktiv |
+| 🎬 Netflix | €19,99 | Aktiv |
+| 🔒 Proton (VPN/Mail) | €12,99 | Aktiv |
+| ☁️ Google Workspace | €10,58 | OK-Holding |
+| 📺 YouTube Premium | €23,99 | ⚠️ Notwendigkeit prüfen (Deadline 2026-07-01) |
 
-### Variabel
+**Subtotal Streaming/Digital:** ~€134,54
 
-| Kategorie | €/Monat | Anmerkung |
+### Unternehmensseite
+| Kategorie | Betrag/Monat | Anmerkung |
 |---|---|---|
-| [[Wagglz GmbH]] Darlehen | 100–300 € | Variabel; entfällt nach Wagglz-Auflösung |
+| + [[Wagglz GmbH Gesellschafterdarlehen]] | €100–300 | Variabel, abhängig von Cashflow |
 
 ---
 
-## Gesamtübersicht
+## Kostenrelation zum Einkommen
 
-| Kategorie | €/Monat |
-|---|---|
-| Wohnen & Transport | ~1.751 € |
-| Versicherungen | ~220 € |
-| Sport & Fitness | ~40 € |
-| Digitale Abonnements | ~110 € |
-| **Gesamt Fix** | **~2.120 €** |
-| + Wagglz-Darlehen (variabel) | +100–300 € |
-| **Gesamt inkl. Wagglz** | **~2.220–2.420 €** |
+### Doctolib Netto-Verdienst
+- **Fixgehalt netto:** €3.638,82/Monat
+- **Fixkosten (ohne Wagglz):** ~€2.120/Monat = **58%**
+- **Verbleibend:** ~€1.518/Monat (für Lebenshaltung + Sparen)
 
----
+### Mit Wagglz-Darlehen
+- **Fixkosten inklusive Wagglz:** ~€2.220–2.420/Monat
+- **Verbleibend:** ~€1.218–1.418/Monat
 
-## Verhältnis zum Einkommen
-
-```
-Netto Doctolib/Monat:    3.638,82 €
-Fixkosten (ohne Wagglz): ~2.120,00 €  → 58 %
-Verbleibend:             ~1.518,00 €  für Lebenshaltung + Sparen
-```
-
-> ⚠️ Ohne Quartalsboni ist der monatliche Spielraum eng. Einmalige Ausgaben (Auto-Reparatur, Arztkosten, Urlaub) müssen aus den verbleibenden ~1.518 € gedeckt werden.
+> ⚠️ **Warnung:** Ohne Quartalsboni ist der monatliche Spielraum eng. Provisionen (€4.611/Quartal im Schnitt) sind für das Überschreiten des Strukturdefizits erforderlich.
 
 ---
 
-## Optimierungspotenzial
+## Optimierungspotenzial (Geldwerte Einsparungen)
 
-| Maßnahme | Potenziell einzusparen | Deadline |
+### Hochpriorität (Schnelle Gewinne)
+
+| Item | Aktuell | Aktion | Zielersparnis | Deadline |
+|---|---|---|---|---|
+| **Apple-Abos** | €45/Mo | Vollständig auflisten, nicht genutzte kündigen | €10–30/Mo | **2026-07-01** |
+| **YouTube Premium** | €23,99/Mo | Notwendigkeit bewerten (kostenlos-Alternative?) | €24/Mo | **2026-07-01** |
+| **Uelzener Versicherung** | €132,48/Mo | Vergleichsangebote einholen (Konkurrenten, Online-Vergleich) | €20–40/Mo | **2026-07-31** |
+| **[[ARAG Wagglz Versicherung]]** | €100,88/Quartal | **Kündigung** (nicht benötigt) | €403,52/Jahr (€33,63/Mo) | **2026-06-30** |
+
+**Gesamtpotenzial schnelle Maßnahmen:** €58–128/Monat (~€696–1.536/Jahr)
+
+### Mittelfristig (Nach Wagglz-Auflösung)
+| Item | Status | Einsparnis |
 |---|---|---|
-| Apple-Abos auflisten und ungenutzte kündigen | bis zu ~45 €/Mo | 2026-07-01 |
-| YouTube Premium prüfen | ~23,99 €/Mo | 2026-07-01 |
-| [[Uelzener Tierversicherung]] — Vergleichsangebote | Unbekannt | 2026-07-31 |
-| [[ARAG Wagglz Versicherung]] kündigen (nach Wagglz-Auflösung) | ~33,63 €/Mo (100,88 €/Quartal) | bei Wagglz-Schließung |
-| [[Wagglz GmbH]] Darlehen — entfällt nach Auflösung | 100–300 €/Mo | nach Wagglz-Schließung |
+| ARAG-Wagglz-Beitrag | Entfällt nach Gesellschafts-Auflösung | €403,52/Jahr |
+| Gesellschafterdarlehen | Entfällt bei vollständiger Abwicklung | €100–300/Mo |
 
 ---
 
-## Abgeschlossene Optimierungen
+## Abgeglichene / Erledigte Positionen (Historical)
 
-| Position | Status |
-|---|---|
-| Hyla Finanzierung 19,80 € | ✅ abbezahlt |
-| Apple Finanzierung (Consors) | ✅ abbezahlt |
-| Consorsbank 260809254 | ✅ aufgelöst |
+| Position | Status | Ersparnis |
+|---|---|---|
+| Hyla Finanzierung | ✅ abbezahlt | —€19,80/Mo |
+| Apple Finanzierung (Consors) | ✅ abbezahlt | — |
+| Consorsbank 260809254 | ✅ aufgelöst | — |
 
 ---
 
-## Anmerkungen & Offene Fragen
+## Abhängigkeiten & Prioritäten
 
-### Uelzener-Betrag (132,48 €/Monat)
-Ein monatlicher Betrag von 132,48 € für eine Hundeversicherung ist ungewöhnlich hoch (entspricht 1.589,76 €/Jahr). Möglicherweise sind mehrere Policen gebündelt oder es handelt sich um einen Jahresbetrag. Eine Überprüfung mit dem Originalvertrag ist empfohlen.
-
-### Wagglz-Darlehen
-Das variable Darlehen (100–300 €/Monat) ist als Fixkosten-Posten eingetragen, hat aber variablen Charakter. Es wird nach Abschluss der [[Wagglz GmbH]]-Auflösung wegfallen.
-
-### Google Workspace (OK-Holding)
-Die Zuordnung zu „OK-Holding" deutet auf eine Gesellschaftsstruktur hin — mögliche Relevanz für Kostenabgrenzung privat/business.
+Diese Fixkosten-Übersicht informiert:
+1. **[[Rehabilitation Plan]]** — Phase 1: Defizit-Reduktion durch Kostenoptimierung
+2. **[[00 Finanz-Übersicht]]** — Strukturdefizit-Berechnung (€7.970/Jahr)
+3. **Budget-Planning** für [[Performance Coffee Brand]] und andere Geschäftsinitiativen
 
 ---
 
 ## Verwandte Seiten
 
-- [[Fixkosten Übersicht Source Detail]] — vollständige Quelldaten
-- [[VW Konsumkredit]] — größter Einzelposten nach Miete
-- [[Uelzener Tierversicherung]] — teuerste Versicherung; Optimierungspotenzial
-- [[Barmenia]] — KV-Zusatz (33 €/Mo)
-- [[ARAG Wagglz Versicherung]] — Wagglz-Versicherung; Kündigung fällig
-- [[Wagglz GmbH]] — variables Darlehen
-- [[Allianz Insurance Consolidation]] — Konsolidierungsprojekt für Allianz-Policen
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — Person, auf die sich die Kosten beziehen
+- [[00 Finanz-Übersicht]] — Master-Finanz-Dokumentation
+- [[Rehabilitation Plan]] — Nutzung dieser Fixkosten für Phase-1-Ziele
+- [[Wagglz GmbH]] — Gesellschafterdarlehen-Kontext
+- [[VW Konsumkredit]] — €681,57/Monat Kreditlinie
+- [[ARAG Wagglz Versicherung]] — Kündigungsziel bis 2026-06-30
+- [[Uelzener Tierversicherung]] — Optimierungsziel (Vergleich)
+- [[Oleg Personal Context]] — Person mit diesen Fixkosten
+- [[MOC Finanzen]] — Übergeordnete Finanz-Struktur
+- [[P2 Diesen Monat]] — Aufgabenbasierte Verfolgung der Kündigungsfristen

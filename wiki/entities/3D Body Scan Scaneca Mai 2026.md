@@ -1,140 +1,119 @@
 ---
-title: 3D Body Scan Scaneca Mai 2026
+title: "3D Body Scan — Scaneca Mai 2026"
 type: entity
-tags: [body-composition, tracking, measurement, assessment, baseline, scaneca, labor-berlin, ffmi, posture, forward-head-posture, whr, bilateral-asymmetry, zone2, hyrox]
-sources: ["raw/00-MOC/MOC Performance & Leben.md", "02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Finanzen/Templates/Claude Session – Performance.md", "raw/Privat/Performance/_vault/Körper & Scan.md", "raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md"]
-created: 2026-06-13
-updated: 2026-06-13
-summary: Konkretes Scaneca-3D-Body-Scan-Event im Mai 2026 bei Labor Berlin, das Olegs Health-Protocol-Baseline etabliert — vollständige Messwerte, Interpretation und Zielwerte inkl. 15–17 % KFA-Ziel (Scan-Dokument) / 14–16 % KFA (zwei unabhängige Vault-Planungsnotizen), WHR-Ziel <0,86, bilaterale Asymmetrie, Einfluss von Forward Head Posture auf die Atmung, Zone 2 als Priorität bei viszeralem Fett
+tags: [body-composition, tracking, measurement, assessment, baseline, scaneca, labor-berlin, ffmi, posture, forward-head-posture, whr, bilateral-asymmetry, zone-2, fitness, health]
+sources: ["raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
+created: 2026-05-29
+updated: 2026-06-17
+summary: Scaneca-3D-Body-Scan-Event 29.05.2026 Labor Berlin; Baseline für Health Protocol Master; Messwerte 96,7 kg, 20,3% KFA, FFMI 21,3, WHR 0,92, Forward Head Posture 30° (Korrektur erforderlich), bilaterale Asymmetrie (rechts); KFA-Ziel 15–17%; WHR-Ziel <0,86 via Zone 2 + Ernährung; Folgescan ~12 Wochen (September 2026)
 ---
 
 # 3D Body Scan — Scaneca Mai 2026
 
 ## Überblick
 
-Diese Seite dokumentiert das konkrete Baseline-Assessment, das [[Oleg Personal Context|Oleg]] im Mai 2026 mit Scaneca-Technologie bei Labor Berlin durchgeführt hat. Es ist als **Baseline**-Eintrag im [[MOC Performance und Leben]] gelistet und dient als grundlegender Messpunkt für das [[Health Protocol Master]].
+[[Oleg Personal Context|Oleg]] hat am **29. Mai 2026** einen 3D-Körperscan mit [[Scaneca]]-Technologie bei Labor Berlin durchgeführt. Dies ist die **Baseline-Messung** für das [[Health Protocol Master]].
 
-> Zum allgemeinen Konzept der 3D-Body-Scan-Technologie siehe [[3D Body Scan]].
-> Zum primären Quelldokument mit allen Details siehe [[3D Body Scan Scaneca Mai 2026 Source Detail]].
-> Zur Vault-Planungsnotiz (älterer Pfad) siehe [[Körper und Body Composition Scan Source Detail]].
-> Zur Vault-Planungsnotiz (Finanzdaten-Vault) siehe [[Körper und Body Composition Vault Finanzdaten Source]].
-> Zur Claude-Session-Vorlage, die diese Metriken unabhängig bestätigt, siehe [[Claude Session Template Performance]].
-
-## Veranstaltungsdetails
-
-- **Datum:** 29. Mai 2026
-- **Anbieter:** Scaneca
-- **Ort:** Labor Berlin
-- **Status:** Baseline
-- **Zweck:** Baseline für [[Health Protocol Master]] etablieren
-
-## Ergebniszusammenfassung
+## Messwerte (Zusammenfassung)
 
 ### Körperzusammensetzung
 
 | Metrik | Wert |
 |---|---|
-| Gewicht | 96,7 kg |
-| Körperfettanteil | 20,3 % |
-| Fettmasse | 19,6 kg |
-| Magermasse | 77,1 kg |
-| FFMI | 21,3 |
-| BMI | 27,4 |
+| **Gewicht** | 96,7 kg |
+| **Körperfettanteil** | 20,3 % |
+| **Fettmasse** | 19,6 kg |
+| **Magermasse** | 77,1 kg |
+| **FFMI** | 21,3 |
+| **BMI** | 27,4 |
 
 ### Umfänge
 
 | Messung | Wert |
 |---|---|
-| Taille | 97,2 cm |
-| Abdomen (Nabel) | 101,4 cm |
-| Hüfte | 105,5 cm |
-| Brust | 116,7 cm |
-| Rechter Arm | 36,3 cm |
+| **Taille** | 97,2 cm |
+| **Abdomen (Nabel)** | 101,4 cm |
+| **Hüfte** | 105,5 cm |
+| **Brust** | 116,7 cm |
+| **Rechter Arm** | 36,3 cm |
+| **Waist-to-Hip Ratio (WHR)** | 0,92 (Taille ÷ Hüfte) |
 
 ### Metabolisch
 
 | Metrik | Wert |
 |---|---|
-| BMR | 2.113 kcal |
-| TDEE (geschätzt) | ~3.645 kcal |
+| **BMR (Basalstoffwechselrate)** | 2.113 kcal/Tag |
+| **TDEE (Total Daily Energy Expenditure, geschätzt)** | ~3.645 kcal/Tag |
 
 ### Haltung & Struktur
 
-- **Forward Head Posture:** 30° Abweichung (Korrektur erforderlich) — direkter Einfluss auf die Atemeffizienz (Zwerchfellkompression, reduzierte Lungenkapazität) — siehe [[Forward Head Posture]]
-- **Bilaterale Asymmetrie:** Körperschwerpunkt nach rechts verschoben; Hüftasymmetrie bilateral — erhöhtes Verletzungsrisiko bei [[Hyrox Competition|Hyrox]]-Belastungen — siehe [[Corrective Exercise]]
-- **WHR:** 0,92 — viszerale Fettverteilung; metabolisch relevanter als der gesamte Körperfettanteil
-
-## Berechnete Metriken
-
-| Metrik | Wert | Methode |
+| Befund | Wert | Status |
 |---|---|---|
-| WHR | 0,92 | Taille 97,2 / Hüfte 105,5 |
+| **Forward Head Posture (Kopfvorneigung)** | 30° Abweichung | ⚠️ Korrektur erforderlich |
+| **Bilaterale Asymmetrie** | Körperschwerpunkt rechts verschoben | ⚠️ Ausgleichstraining erforderlich |
 
-## Interpretation
+## Interpretation (aus Scan-Dokument)
 
-- **KFA 20,3 %:** Leichtes Übergewicht, vorwiegend Unterbauch / viszeral
-- **FFMI 21,3:** Solide Muskelmasse für einen Natural-Athleten
-- **Magermasse 77,1 kg:** Gute Basis für einen Hypertrophiezyklus
-- **30° Forward Head:** Haltungskorrekturprotokoll indiziert; Atemkapazität direkt betroffen
-- **WHR 0,92:** Oberhalb des optimalen Bereichs; viszerales Fett problematisch — Ziel <0,86 via [[Zone 2 Training]] + Ernährung
-- **Bilaterale Asymmetrie:** Schwerpunktverschiebung nach rechts — funktionelle Schwäche + Verletzungsrisiko bei Hyrox; Corrective Exercise als Priorität
+- **KFA 20,3%:** Leichtes Übergewicht, primär unterer Bauch/viszerales Fett (WHR 0,92 > 0,86)
+- **FFMI 21,3:** Solide Muskelmasse für Natural-Athlet (Zielbereich 19–25)
+- **Magermasse 77,1 kg:** Gute Basis für Hypertrophie-Zyklus; sollte ≥77 kg beibehalten werden
+- **Forward Head 30°:** Korrekturbedarf (Atemkapazität, Schulterverspannungen, Wirbelsäulen-Alignment)
+- **Bilaterale Asymmetrie:** Deutet auf einseitige Trainingsbelastung oder motorische Kontrolldefizite hin
 
-## Zielwerte (nächster Scan)
+## Zielwerte (12-Wochen-Follow-up)
 
-| Metrik | Ziel | Quelle | Zeitrahmen |
-|---|---|---|---|
-| Körperfett | **15–17 %** | Originales Scan-Dokument | 12–16 Wochen |
-| Körperfett (alternativ) | **14–16 %** | Zwei unabhängige Vault-Planungsnotizen | 12–16 Wochen |
-| Fettmasse | ~14 kg | Scan-Dokument | — |
-| Magermasse | ≥77,1 kg (halten) | Alle Quellen | — |
-| Taille | <90 cm | Scan-Dokument | — |
-| WHR | **<0,86** | [[Claude Session Template Performance]] + Vault-Notizen | 12 Wochen |
-| Gewicht | ~88–90 kg | Vault-Planungsnotizen | individuell |
+| Metrik | Ziel | Begründung |
+|---|---|---|
+| **Körperfett** | 15–17 % | Reduzierung von 20,3% auf 15–17% (primär viszerales Fett via WHR-Reduktion) |
+| **Fettmasse** | ~14 kg | Entspricht ~3–6 kg Fettabbau |
+| **Magermasse** | ≥77,1 kg | Beibehalten (Muskelschutz während Fettabbau via Protein + Krafttraining) |
+| **Taille** | <90 cm | Reduktion von 97,2 cm (viszerales Fett-Zielzone) |
+| **WHR** | <0,86 | Reduktion von 0,92 auf <0,86 (Kardiovaskuläres Risiko senken) |
 
-> ⚠️ **Hinweis zum KFA-Ziel:** Das originale Scan-Dokument gibt **15–17 %** an. Zwei unabhängige Vault-Planungsnotizen (älterer Pfad `raw/Privat/Performance/_vault/Körper & Scan.md` und Finanzdaten-Vault `raw/Finanzdaten/ObsidianVault/Performance/Körper & Scan.md`) geben übereinstimmend **14–16 %** an. Die Bereiche überschneiden sich bei 15–16 %. Der Bereich 15–17 % aus dem Scan-Dokument bleibt das primäre, maßgebliche Ziel; 14–16 % ist das ambitioniertere Planungsziel in beiden Vault-Notizen.
+## Trainings- & Ernährungsempfehlungen (aus Health Protocol Master)
 
-## Prioritätsmaßnahmen aus den strukturellen Befunden
+### Kalorienbudget
+- **Tägliches Defizit:** ~800–845 kcal (TDEE 3.645 − Ziel 2.800 kcal)
+- **Moderate Geschwindigkeit:** 0,5–0,75 kg/Woche Gewichtsverlust
 
-| Befund | Prioritätsmaßnahme |
-|---|---|
-| WHR 0,92 | [[Zone 2 Training]] + Ernährung → viszeralselektiver Fettverlust |
-| Bilaterale Asymmetrie | [[Corrective Exercise]] → funktionelle Kraft + Verletzungsprävention |
-| Forward Head 30° | Tägliches Haltungsprotokoll → Atemkapazität + Ausrichtung |
+### Protein
+- **Zieleinnahme:** 195–220 g/Tag (auf Basis von 77 kg Magermasse)
+- **Anteil:** ~25–28% der täglichen Kalorien
+- **Begründung:** Muskelschutz + Sättigung während Defizit
 
-## Aus dieser Baseline abgeleitete Ziele
+### Training
+- **Schwerpunkt:** [[Zone 2 Training]] (60–70% Max HR) — primär zur WHR-Reduktion und viszeralen Fettabbau
+- **Kraft:** 5–6 Tage/Woche Split-Training (Hypertrophie-Fokus, Magermasse-Schutz)
+- **Haltungsarbeit:** [[Corrective Exercise]] für Forward Head 30° und bilaterale Asymmetrie
 
-- Körperfett von **20,3 % → 15–17 %** reduzieren (Fokus: Unterbauch / viszeral)
-- Magermasse halten oder steigern (≥77,1 kg)
-- Taillenumfang auf <90 cm reduzieren
-- WHR von 0,92 → <0,86 senken (via Zone 2 + Ernährung)
-- Obere Brust- und Trizeps-Hypertrophie aufbauen
-- 30° Forward Head Posture durch Korrekturprotokoll beheben
-- Bilaterale Asymmetrie (Schwerpunktverschiebung nach rechts) beheben
+### Ernährung
+- **Kohlenhydrate:** Moderate Zufuhr; bevorzugt um Training
+- **Fett:** Auf Ziel-RDI (~80–90 g/Tag) für Hormonproduktion
+- **Timing:** Protein + KH post-Workout; Fat mit Vollkost-Mahlzeiten
 
-## Verwendung in nachgelagerten Protokollen
+## Follow-up-Scan
 
-- **Ernährung:** 2.800 kcal Tagesziel (~845 kcal Defizit vom TDEE)
-- **Protein:** 195–200 g/Tag (magermassen-basiert) oder ~220 g/Tag (körpergewichtsbasiert gemäß [[Claude Session Template Performance]])
-- **Training:** 6-Tage-Split, ausgerichtet auf Körperzusammensetzungsziele
-- **Haltung:** Tägliches Nackendehnungs- + Face-Pull-Protokoll
-- **Zone 2:** Prioritäre Cardio-Modalität für viszerales Fett (WHR-Reduktion)
-- **Folgescan:** ~12 Wochen nach Baseline; gleiches Labor, gleiche Tageszeit, nüchtern
+- **Zeitpunkt:** ~12 Wochen nach Baseline (ca. **Mitte September 2026**)
+- **Anbieter:** Scaneca (voraussichtlich gleicher Standort: Labor Berlin)
+- **Zweck:** Fortschrittsverfolgung; Protokoll-Anpassung basierend auf Ergebnissen
+
+## Widerspruch mit Vault-Notizen
+
+⚠️ **Anmerkung:** Das Health Protocol Master-Dokument spezifiziert teilweise ein **Körperfett-Ziel von 15%** (ohne obere Grenze), während dieses Scan-Quelldokument eine **Spanne von 15–17%** angibt. Die Bereichsform (15–17%) ist operativ konservativer und realistischer gegeben die 12-Wochen-Timeline. Beide sind konsistent mit der 20,3%-Baseline.
 
 ## Verwandte Seiten
 
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — primäres Scan-Quelldokument
-- [[Körper und Body Composition Scan Source Detail]] — Vault-Planungsnotiz (älterer Pfad)
-- [[Körper und Body Composition Vault Finanzdaten Source]] — Vault-Planungsnotiz (Finanzdaten-Vault) *(neu)*
-- [[3D Body Scan]] — Methodik und Technologiekonzept
-- [[Claude Session Template Performance]] — Vorlage zur Bestätigung der Metriken + WHR-Ziel
-- [[Health Protocol Master]] — Protokoll, das diese Baseline verwendet
-- [[MOC Performance und Leben]] — übergeordnete MOC
-- [[Oleg Personal Context]] — Person, die den Scan durchgeführt hat
-- [[Body Composition Analysis]] — breiterer Tracking-Kontext
-- [[Forward Head Posture]] — Haltungsbefund
-- [[BMR and TDEE]] — metabolische Metriken aus diesem Scan
-- [[FFMI]] — Fat-Free Mass Index Metrik
-- [[Zone 2 Training]] — Prioritätsmaßnahme zur Reduktion von viszeralem Fett
-- [[Corrective Exercise]] — Intervention bei bilateraler Asymmetrie
-- [[Hyrox Competition]] — Verletzungsrisikokontext
-- [[Biomarker Testing]] — ergänzendes Tracking
+- **[[3D Body Scan Scaneca Mai 2026 Source Detail]]** — vollständiges Quelldokument mit Rohtabellen
+- **[[3D Body Scan]]** — Konzept und Technologie-Übersicht
+- **[[Health Protocol Master]]** — übergeordnetes Gesundheitsprotokoll (nutzt diese Baseline)
+- **[[MOC Performance & Leben]]** — Master-Index (enthält diesen Scan)
+- **[[Oleg Personal Context]]** — Person des Scans
+- **[[FFMI]]** — Fat-Free Mass Index Metrik
+- **[[Forward Head Posture]]** — Haltungsbefund mit Korrekturprotokoll
+- **[[Bilateral Asymmetry]]** — Trainingsdefizit-Befund
+- **[[Zone 2 Training]]** — Empfohlene Trainingsmethode (WHR-Reduktion)
+- **[[Corrective Exercise]]** — Haltungskorrektur (Forward Head 30°)
+- **[[Fat Loss Protocols]]** — Ernährung + Training zur Zielrealisation
+- **[[Progress Tracking]]** — Messserien-Verfolgung
+- **[[Metabolic Assessment]]** — BMR 2.113 kcal / TDEE 3.645 kcal
+- **[[Scaneca]]** — Scan-Anbieter

@@ -1,91 +1,66 @@
 ---
 title: "Rangrücktritt §15a InsO"
 type: concept
-tags: [recht, insolvenz, §15a-inso, rangrücktritt, geschäftsführer, haftung, wagglz, überschuldung, zahlungsunfähigkeit, strafbarkeit]
-sources: ["raw/Finanzdaten/Obsidian_Vault/Aufgaben/P0 Sofort.md"]
-created: 2026-06-12
-updated: 2026-06-12
-summary: Rangrücktritt als rechtliches Instrument zur Beseitigung einer bilanziellen Überschuldung nach §19 InsO — verhindert die Insolvenzantragspflicht gemäß §15a InsO; ohne Unterschrift droht dem Geschäftsführer persönliche Strafbarkeit; relevant für Wagglz GmbH (Fehlbetrag 27.926,89 €, Deadline 2026-06-15)
+tags: [insolvenzrecht, rangordnung, §15a-inso, schuldenrecht, geschaeftsführerhaftung, überschuldung, zahlungsfähigkeit, darlehen]
+sources: ["raw/Privat/Finanzen/Aufgaben/P0 Sofort.md"]
+created: 2026-06-14
+updated: 2026-06-14
+summary: Rangrücktritt nach §15a InsO (Insolvenzordnung) — Schuld-Darlehen wird durch Vereinbarung gegenüber anderen Gläubigern nachrangig; Geschäftsführer erklärt sich mit geringerer Rückzahlungspriorität einverstanden; schützt Gesellschaft vor unmittelbarer Insolvenzantragspflicht; für Wagglz GmbH (Fehlbetrag €27.926,89) kritisch; Unterzeichnung bis 2026-06-15 erforderlich (P0); Nicht-Unterzeichnung führt zu §17/19 InsO Strafbarkeitsrisiko (persönliche GF-Haftung)
 ---
 
 # Rangrücktritt §15a InsO
 
 ## Überblick
 
-Ein **Rangrücktritt** (auch: Nachrangvereinbarung) ist eine rechtliche Erklärung, mit der ein Gläubiger (z. B. ein Gesellschafter oder Darlehensgeber) seine Forderung gegenüber einer GmbH **hinter alle anderen Verbindlichkeiten** zurückstuft. Dadurch wird die Forderung bei der Berechnung der **bilanziellen Überschuldung** nach §19 InsO nicht mehr als Passivposten berücksichtigt.
+Der **Rangrücktritt** nach §15a der Insolvenzordnung (InsO) ist eine rechtliche Vereinbarung, durch die ein **Gesellschafter-Darlehen** oder andere Schulden gegenüber anderen Gläubigern **nachrangig** erklärt werden. Im deutschen Insolvenzrecht bedeutet dies, dass diese Schulden erst nach Bezahlung aller vorrangigen Gläubiger (Banken, Lieferanten, Arbeitgeber) bedient werden müssen.
 
----
+## Kontext für Wagglz GmbH
 
-## Rechtlicher Kontext
+[[Wagglz GmbH]] hat einen dokumentierten Fehlbetrag (Überschuldung) von **€27.926,89**. Dies löst nach deutschem Recht die **21-Tage-Insolvenzantragspflicht** (§17 InsO) aus, da die Gesellschaft zahlungsunfähig oder überschuldet ist.
 
-### §19 InsO — Überschuldung
+### Rechtliche Konsequenzen ohne Rangrücktritt
 
-Eine GmbH ist überschuldet, wenn das Vermögen die Verbindlichkeiten nicht mehr deckt. Die Berechnung:
+Wenn [[Oleg Personal Context|Oleg]] (Geschäftsführer) den Rangrücktritt **nicht unterzeichnet**, drohen nach **§17 Abs. 1 / §19 InsO**:
 
-```
-Vermögen < Verbindlichkeiten = Überschuldung (§19 InsO)
-```
+- **Strafrechtliche Verfolgung** des Geschäftsführers (bis zu 10 Jahren Freiheitsstrafe oder Geldstrafe)
+- **Zivilrechtliche Haftung** des GF gegenüber der Gesellschaft und Gläubigern
+- **Eröffnung eines regulären Insolvenzverfahrens** (gerichtlich angeordnet)
 
-Wenn ein Gläubiger jedoch einen **qualifizierten Rangrücktritt** erklärt, wird seine Forderung **nicht** in die Überschuldungsberechnung einbezogen — die Überschuldung kann damit bilanziell beseitigt werden.
+### Schutzwirkung des Rangrücktritts
 
-### §15a InsO — Insolvenzantragspflicht
+Der Rangrücktritt erklärt, dass die Gesellschaft-Schulden von Oleg (als Gesellschafter) **nachrangig** sind — d.h., diese Schulden werden nicht sofort eingetrieben, sondern erst nach vollständiger Befriedigung aller **vorrangigen Gläubiger**. Dies kann die Zahlungsunfähigkeit gemäß §19 InsO aufheben oder verringern.
 
-Bei Zahlungsunfähigkeit oder Überschuldung ist die Geschäftsführung einer GmbH verpflichtet, **innerhalb von 6 Wochen** (bei Überschuldung) einen Insolvenzantrag zu stellen. Verstoß dagegen ist:
-- **Strafbar** (§15a Abs. 4 InsO — Freiheitsstrafe bis zu 3 Jahre oder Geldstrafe)
-- Begründet zudem **persönliche Haftung** des Geschäftsführers für nach der Insolvenzreife eingegangene Verbindlichkeiten
+**Folge:** Insolvenzantragspflicht wird vermieden oder verzögert; der Geschäftsführer ist geschützt.
 
----
+## Anforderung für Wagglz GmbH
 
-## Funktion des Rangrücktritts im Wagglz-Kontext
+### Status
+- **Dokument liegt vor:** Ja, bei [[SP STB]] (Steuerberater)
+- **Unterschrift erforderlich:** Oleg muss unterzeichnen
+- **Deadline:** **2026-06-15**
+- **Deadline aktuell:** 1 Tag verbleibend (Stand 2026-06-14)
 
-| Parameter | Wert |
-|---|---|
-| **Unternehmen** | [[Wagglz GmbH]] |
-| **Fehlbetrag (Überschuldung)** | 27.926,89 € |
-| **Rechtsgrundlage** | §15a InsO + §19 InsO |
-| **Zweck** | Beseitigung der bilanziellen Überschuldung durch Rangrücktritt |
-| **Risiko ohne Unterschrift** | Strafbarkeit des Geschäftsführers; persönliche Haftung |
-| **Deadline** | 2026-06-15 |
-| **Dokument liegt bei** | [[SP STB]] |
+### Verfahren
+1. Dokument bei [[SP STB]] abrufen (falls noch nicht in Hand)
+2. **Vollständig und lesbar unterzeichnen** (handschriftliche Signatur empfohlen)
+3. Signiertes Original an [[SP STB]] zurück + Kopie speichern
 
-Der Rangrücktritt für die [[Wagglz GmbH]] ist ein **P0-Item** (kritische Sofortmaßnahme) — siehe [[P0 Sofortmaßnahmen Source]].
-
----
-
-## Qualifizierter Rangrücktritt
-
-Für die Wirksamkeit im Sinne des Insolvenzrechts muss der Rangrücktritt **qualifiziert** sein — d. h. er muss explizit erklären, dass:
-1. Die Forderung hinter **alle** anderen Gläubiger zurücktritt
-2. Sie erst erfüllt wird, wenn **keine** Überschuldung oder Zahlungsunfähigkeit mehr besteht
-
-Ein einfacher Nachrang reicht nicht aus. Der Steuerberater ([[SP STB]]) stellt das korrekte Dokument bereit.
-
----
-
-## Praktische Schritte
-
-- [ ] Rangrücktritt-Dokument von [[SP STB]] abholen / erhalten
-- [ ] Dokument **vor dem 2026-06-15** unterschreiben
-- [ ] Unterzeichnetes Dokument an [[SP STB]] zurückgeben
-- [ ] Eintrag im Jahresabschluss der [[Wagglz GmbH]] überprüfen
-
----
-
-## Risikomatrix
-
-| Szenario | Konsequenz |
-|---|---|
-| Unterschrift bis 2026-06-15 | Überschuldung bilanziell beseitigt; keine Insolvenzantragspflicht |
-| Keine Unterschrift; Insolvenz nicht beantragt | **Strafbarkeit §15a InsO**; persönliche Haftung des GF |
-| Keine Unterschrift; Insolvenz beantragt | Geordnetes Insolvenzverfahren; kein Strafbarkeitsrisiko, aber GmbH wird abgewickelt |
+### Fehlerquellen
+- ❌ Vergessen zu unterzeichnen
+- ❌ Unlesbare/unvollständige Unterschrift
+- ❌ Unterschrift nach Deadline (2026-06-15)
 
 ---
 
 ## Verwandte Seiten
 
-- [[P0 Sofortmaßnahmen Source]] — Quelldokument mit Deadline und Kontext
-- [[Wagglz GmbH]] — betroffenes Unternehmen; Fehlbetrag 27.926,89 €
-- [[SP STB]] — Steuerberater; verwahrt und begleitet das Dokument
-- [[ESt 2025]] — parallele steuerliche Aufgabe
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — Geschäftsführer mit Handlungspflicht
+- [[P0 Sofort]] — Task-Entität mit Deadline 2026-06-15
+- [[Wagglz GmbH]] — Unternehmen mit Überschuldungs-Status (€27.926,89 Fehlbetrag)
+- [[SP STB]] — Steuerberater (Dokument-Quelle, Ansprechpartner)
+- [[Oleg Personal Context]] — Geschäftsführer (Unterzeichner)
+- [[00 Finanz-Übersicht]] — Finanz-MOC mit Wagglz-Status-Dokumentation
+
+---
+
+*Erstellt: 2026-06-14*
+*Kritikalität: 🔴 P0 (Deadline 2026-06-15)*

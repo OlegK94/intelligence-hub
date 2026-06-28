@@ -1,71 +1,99 @@
 ---
-title: "OK Capital UG"
+title: OK Capital UG
 type: entity
-tags: [holding, ug, ok-capital, finom, finanzen, konten, laufende-kosten, darlehen, 2026]
-sources: ["raw/Finanzdaten/Obsidian_Vault/Konten/OK Capital Finom 2026.md"]
-created: 2026-06-20
-updated: 2026-06-20
-summary: OK Capital UG — Olegs Holding-UG; Finom-Geschäftskonto mit 0 € Saldo (Jun 2026); laufende monatliche Kosten 31,60 € (WestX 23,50 € + Google 8,10 €); internes Darlehen von Oleg (100 €, 01.03.2026)
+tags: [unternehmen, holding, ok-capital, finom, finanzen, struktur, 2026]
+sources: ["raw/Finanzdaten/Obsidian_Vault/Unternehmen/OK Capital UG.md"]
+created: 2026-06-12
+updated: 2026-06-16
+summary: Holding-Struktur (100% Oleg Kober Privat), hält 100% Wagglz GmbH; Finom-Geschäftskonto mit 0,00 € Saldo (Jun 2026); 100 € Darlehen von Oleg an OK Capital (01.03.2026); monatliche Fixkosten ~31,60 € (WestX 23,50 + Google Workspace 8,10)
 ---
 
-# OK Capital UG
+# OK Capital UG – Holding
 
-## Überblick
+## Übersicht
 
-**OK Capital UG** ist [[Oleg Personal Context|Olegs]] Unternehmergesellschaft (UG, haftungsbeschränkt), die als Holding oder Verwaltungsgesellschaft fungiert. Das Finom-Geschäftskonto der UG weist zum Stand Juni 2026 einen Saldo von 0,00 € auf.
+**OK Capital UG** ist eine Unternehmergesellschaft (haftungsbeschränkt), die als **Holding-Struktur** für [[Oleg Personal Context|Olegs]] Geschäftsaktivitäten fungiert. Sie wird zu 100% von [[Oleg Personal Context|Oleg Kober]] privat gehalten und hält wiederum 100% der operativen Gesellschaft [[Wagglz GmbH]].
 
----
+Diese Struktur ist eine gängige deutsche Holding-Form für die Trennung von privater und geschäftlicher Ebene bei mehreren Beteiligungen oder Geschäftszweigen.
 
-## Kontodaten (Finom)
+## Struktur
 
-| Feld | Wert |
-|---|---|
-| **Konto** | Finom (Geschäftskonto) |
-| **Saldo (Jun 2026)** | 0,00 € |
-| **Stand** | 2026-06-12 |
+```
+Oleg Kober (Privat)
+      ↓ 100%
+OK Capital UG  ←── Holding
+      ↓ 100%
+  Wagglz GmbH  ←── Operativ
+```
 
----
+## Bankkonten
 
-## Laufende Kosten
-
-| Posten | Betrag/Mo | Betrag/Jahr |
+| Konto | Anbieter | Status |
 |---|---|---|
-| WestX | 23,50 € | 282,00 € |
-| Google | 8,10 € | 97,20 € |
-| **Gesamt** | **31,60 €** | **379,20 €** |
+| Geschäftskonto | Finom | Aktiv |
 
-Die laufenden Kosten von **31,60 €/Monat** laufen trotz eines Nullsaldos auf dem Konto. Dies deutet darauf hin, dass die Abbuchungen entweder aus einem anderen Konto bedient werden oder der Saldo regelmäßig auf null fällt.
+### Finom Saldo
+- **Juni 2026:** 0,00 €
+- **Status:** Minimal/keine liquiden Rücklagen in der Holding selbst
 
----
-
-## Darlehen
-
-- **Darlehensgeber:** [[Oleg Personal Context|Oleg]]
-- **Betrag:** 100,00 €
+### Darlehensverhältnis
+- **Darlehen Oleg → OK Capital:** 100,00 €
 - **Datum:** 01.03.2026
+- **Status:** Ausstehend (unklar ob formalisiert oder privat)
 
----
+> ⚠️ **Hinweis:** Das 100-€-Darlehen ist möglicherweise eine private Liquiditätshilfe oder eine formalisierte Betriebsmittelvorschuss. Für die [[ESt 2025]] und Bilanzierung relevant, falls die OK Capital UG in diesem Jahr bilanzierungspflichtig wird.
 
-## Einordnung im Unternehmens-Portfolio
+## Fixkosten 2026
 
-Die OK Capital UG ist von der [[Wagglz GmbH]] (Olegs operativem Startup im Tier-Bereich) zu unterscheiden. Die Kontostruktur legt nahe:
-
-| Unternehmen | Kontobank | Funktion |
+| Kostenposition | Betrag | Rhythmus |
 |---|---|---|
-| **OK Capital UG** | Finom | Holding / Verwaltung |
-| [[Wagglz GmbH]] | Finom | Operatives Startup (Tier-Bereich) |
+| WestX (Finom) | 23,50 € | monatlich |
+| Google Workspace | 8,10 € | monatlich |
+| **Gesamt** | **~31,60 €** | **monatlich** |
+| **Jahresbasis** | **~379,20 €** | **jährlich** |
 
-> ⚠️ **Offene Fragen:**
-> - Was ist der genaue Gesellschaftszweck der OK Capital UG?
-> - Für welche Produkte/Dienste stehen WestX (23,50 €/Mo) und Google (8,10 €/Mo)?
-> - Ist das Oleg-Darlehen (100 €, 01.03.2026) bereits zurückgezahlt?
-> - Warum ist der Saldo 0 €? Wird das Konto aktiv bewirtschaftet?
+Diese sind die einzigen direkt zuordenbaren Fixkosten der Holding (über OK Capital/Finom). Wagglz-spezifische Kosten (z. B. [[ARAG Wagglz Versicherung]] 100,88 €/Quartal) werden über das [[Wagglz Finom 2026]]-Konto abgewickelt.
 
----
+## Bankkonten-Details
+
+### Finom WestX (OK Capital UG)
+- **Dienst:** WestX-Kontomodell
+- **Kosten:** 23,50 €/Monat (Business Banking)
+- **Status:** Aktiv, Saldo 0,00 € (Jun 2026)
+
+### Google Workspace
+- **Gebühr:** 8,10 €/Monat (Einzelnutzer oder Business-Plan)
+- **Zuordnung:** OK Capital UG oder Wagglz GmbH (Quelldokument unklar)
+- **Status:** Aktiv
+
+> ⚠️ **Klarifikation erforderlich:** Ob Google Workspace als Holding oder Wagglz-Kosten eingeordnet ist — dies beeinflusst die Betriebskostenkalkulation und die Bilanzierung.
+
+## Verhältnis zu Wagglz GmbH
+
+| Aspekt | OK Capital UG | Wagglz GmbH |
+|---|---|---|
+| **Rolle** | Holding | Operative Gesellschaft |
+| **Ownership** | 100% von Oleg | 100% von OK Capital |
+| **Funktion** | Dachgesellschaft, Vermögensschutz | Geschäftsbetrieb |
+| **Konto** | Finom WestX, 0,00 € | Finom Wagglz, Saldo ausstehend |
+| **Kosten** | ~31,60 €/Mo (WestX, Google) | ARAG, weitere Betriebs-Kosten |
+
+## Geplante Veränderungen
+
+Laut [[Allianz Insurance Consolidation Detail]] und verwandten Dokumenten gibt es Überlegungen zur **möglichen Schließung der Wagglz GmbH**. Dies hätte Auswirkungen auf:
+- Die Holding-Struktur selbst (bleibt erhalten oder wird aufgelöst)
+- Die Weitergabe von IP/Assets an andere Strukturen (z. B. [[Performance Coffee Brand]])
+- Die Abwicklung von Verbindlichkeiten (z. B. [[ARAG Wagglz Versicherung]] Kündigung bis 2026-06-30)
+
+Keine konkrete Entscheidung dokumentiert — dies bleibt offen.
 
 ## Verwandte Seiten
 
-- [[OK Capital Finom 2026 Source]] — Quelldokument mit Rohdaten
-- [[Wagglz GmbH]] — operatives Schwesterunternehmen
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — Gesellschafter und Darlehensgeber
+- [[Wagglz GmbH]] — 100% Tochter, operative Gesellschaft
+- [[Wagglz Finom 2026]] — Geschäftskonto der Wagglz GmbH (separate Kostenübersicht)
+- [[Oleg Personal Context]] — 100% Eigentümer
+- [[Fixkosten Übersicht]] — Übergeordnete Kostenkonsolidierung (privat + Holding + Wagglz)
+- [[ARAG Wagglz Versicherung]] — Wagglz-spezifische Versicherung (separate Buchung)
+- [[Allianz Insurance Consolidation]] — Verwandtes Optimierungsprojekt
+- [[ESt 2025]] — Steuererklärung (OK Capital UG möglicherweise bilanzierungspflichtig)
+- [[MOC Finanzen]] — Finanzielle Planung und Struktur

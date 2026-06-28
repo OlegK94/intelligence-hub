@@ -1,83 +1,83 @@
----
-title: 3D Körperscan
-type: concept
-tags: [body-composition, tracking, measurement, assessment]
-sources: ["02-Performance-Leben/Health Protocol — Master.md", "raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md"]
-created: 2024-12-19
-updated: 2026-06-06
-summary: Fortgeschrittene Körperzusammensetzungsanalyse mittels 3D-Scantechnologie zur präzisen Fitnessverfolgung — einschließlich Scaneca-Basisdaten und Follow-up-Protokoll
----
+SUMMARY: Fortgeschrittene Körperzusammensetzungs-Analysetechnologie; umfasst KFA, Magermasse, Umfänge, Haltungsbeurteilung (Forward Head Posture, bilaterale Asymmetrie), Metabolik (BMR, TDEE); 12-Wochen-Follow-up-Protokoll
+CREATED: 2024-12-19
+UPDATED: 2026-06-17
+SOURCES: ["raw/Privat/Performance/_vault/3D Body Scan — Scaneca Mai 2026.md", "raw/Privat/Performance/00 Performance-Übersicht.md"]
+TAGS: [body-composition, measurement, assessment, fitness, baseline, 3d-scan, scaneca, anthropometrie, metabolik]
 
-# 3D Körperscan
+# 3D Körperscan — Konzept
 
 ## Überblick
 
-3D-Körperscantechnologie liefert eine umfassende Analyse der Körperzusammensetzung, einschließlich präziser Messungen des Körperfettanteils, der Magermasse, Körperumfänge und einer Haltungsbeurteilung.
+**3D-Körperscan-Technologie** liefert eine umfassende und präzise Analyse der Körperzusammensetzung — weit über Standard-Waagen oder Caliper hinaus. Die Technologie wird verwendet zur:
+- Baseline-Etablierung
+- Fortschrittsverfolgung über 12-Wochen-Zyklen
+- Haltungsbeurteilung und motorischer Kontrolle
+- Metabolik-Schätzung (BMR, TDEE)
+- Visuelle Körperveränderungs-Dokumentation (3D-Vergleich)
 
-## Scaneca-Protokoll
-
-Baseline-Messung durchgeführt am 29. Mai 2026:
-- **Anbieter:** Scaneca
-- **Standort:** Labor Berlin
-- **Zweck:** Umfassende Baseline für [[Health Protocol Master]] etablieren
-- **Follow-up:** Empfohlen in ~12 Wochen (Mitte September 2026)
-
-> Den vollständigen Messbericht und die Auswertung findest du unter [[3D Body Scan Scaneca Mai 2026]] und [[3D Body Scan Scaneca Mai 2026 Source Detail]].
-
-## Gemessene Schlüsselwerte
+## Gemessene Metriken
 
 ### Körperzusammensetzung
-- Gewicht: 96,7 kg
-- Körperfett: 20,3 %
-- Fettmasse: 19,6 kg
-- Magermasse: 77,1 kg
-- FFMI (Fettfreier Masseindex): 21,3
-- BMI: 27,4
+- **Körperfettanteil (KFA / BF%)** — Prozentsatz des Körpergewichts, das Fett ist
+- **Fettmasse** — Absolute kg Körperfett
+- **Magermasse / Lean Mass** — Muskeln + Knochen + Organe + Wasser (kg)
+- **FFMI (Fat-Free Mass Index)** — Magermasse normalisiert nach Körpergröße (kg/m²)
 
-### Umfangsmessungen
-- Taille: 97,2 cm
-- Bauch (Nabel): 101,4 cm
-- Hüfte: 105,5 cm
-- Brust: 116,7 cm
-- Rechter Arm: 36,3 cm
+### Anthropometrische Umfänge
+- **Taille (Waist)** — Standardisierte Messung auf Nabelhöhe
+- **Hüfte (Hip)** — Messung auf breitestem Gluteal-Punkt
+- **WHR (Waist-to-Hip Ratio)** — Taille ÷ Hüfte; Kardiovaskuläres Risiko-Indikator (Zielbereich <0,86 für präventive Gesundheit)
+- **Brust, Arme, Oberschenkel** — Segmentale Umfänge
 
-### Stoffwechseldaten
-- BMR (Basalstoffwechselrate): 2.113 kcal
-- TDEE (Gesamter täglicher Energieverbrauch): ~3.645 kcal
+### Haltungsanalyse
+- **Forward Head Posture (FHP)** — Grad der Kopfvorneigung relativ zur neutralen Wirbelsäule
+- **Bilaterale Asymmetrie** — Seitliche Ungleichgewichte (z.B. Körperschwerpunkt nach rechts verschoben)
 
-### Haltungsbeurteilung
-- Vorwärtsneigung des Kopfes: 30° Abweichung
+### Metabolische Schätzungen
+- **BMR (Basal Metabolic Rate)** — Ruhestoffwechsel in kcal/Tag
+- **TDEE (Total Daily Energy Expenditure)** — BMR × Aktivitätsfaktor; Gesamttages-Energieverbrauch
 
-## Zielwerte (aus dem Quell-Scan)
+## Vorteile vs. Alternative Methoden
 
-| Messgröße | Ziel |
-|---|---|
-| Körperfett | 15–17 % |
-| Fettmasse | ~14 kg |
-| Magermasse | ≥77 kg |
-| Taille | <90 cm |
+| Methode | Genauigkeit | Umfang | Reproduzierbarkeit | Kosten |
+|---|---|---|---|---|
+| **3D-Scan** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | €100–200 |
+| **DEXA** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | €200–400 |
+| **Bioimpedanz (BIA)** | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | €50–150 |
+| **Skinfold-Caliper** | ⭐⭐ | ⭐ | ⭐ | €10–50 |
 
-## Vorteile gegenüber traditionellen Methoden
+## 12-Wochen-Follow-up-Protokoll
 
-- **Präzision:** Genauer als DEXA oder Bioimpedanz
-- **Umfassend:** Vollständige Körperzusammensetzungs- und Haltungsanalyse
-- **Visuell:** 3D-Modell zur Verfolgung von Veränderungen
-- **Reproduzierbar:** Konsistente Messprotokoll
-- **Nicht-invasiv:** Keine Strahlenbelastung
+| Woche | Action | Ziel |
+|---|---|---|
+| **W0** | Baseline-Scan durchführen | Ausgangsmessungen fest |
+| **W4** | Check-in (optional, manuelle Messungen) | Early Feedback |
+| **W8** | Check-in (optional) | Mid-Protocol Anpassung |
+| **W12** | Follow-up-Scan durchführen | Vergleich mit Baseline |
 
-## Anwendungen in der Optimierung
+**Output:** 3D-Modell-Vergleich (Baseline vs. W12); Prozentuale Veränderungen aller Metriken; Haltungs-Verbesserung oder -Rückgang.
 
-- Baseline-Etablierung für [[Fat Loss Protocols]]
-- Fortschrittsverfolgung bei der Körperrekompensation
-- Haltungsbeurteilung für [[Corrective Exercise]]
-- Berechnung der Stoffwechselrate für die Ernährungsplanung
-- Visuelle Dokumentation von Körperveränderungen
+## Anwendungen in Optimierungsprotokollen
 
-## Verwandte Tracking-Methoden
+1. **Baseline-Etablierung** — exakte Ausgangswerte vor Trainings-/Ernährungs-Intervention
+2. **Krafttrainings-Validierung** — Bestätigung von Magermasse-Erhalt während Fettabbau
+3. **Haltungs-Korrektur-Tracking** — FHP-Verbesserung, Asymmetrie-Reduktion
+4. **Ernährungs-Kalibrierung** — BMR/TDEE-Schätzungen für Kaloriebudget
+5. **Körperrekomposition-Zielverteilung** — Fettabbau + Muskelaufbau parallel
 
-- [[Biomarker Testing]]
-- [[Body Composition Analysis]]
-- [[Progress Tracking]]
-- [[Metabolic Assessment]]
-- [[3D Body Scan Scaneca Mai 2026]] — spezifisches Baseline-Ereignis
-- [[3D Body Scan Scaneca Mai 2026 Source Detail]] — Rohdatenquelle
+## Technologie-Anbieter
+
+- **[[Scaneca]]** — 3D-Body-Composition-Scanner (verwendet in dieser Wiki, Baseline 29.05.2026)
+- **InBody** (Korea) — Bioimpedanz-basiert; weniger genau aber schneller
+- **Styku** (USA) — 3D-Scanner; ähnlich zu Scaneca
+- **MyndBody / similar** — Integrierte Fitnessplan-Plattformen mit Body-Scan
+
+## Verknüpfungen
+
+- **[[3D Body Scan Scaneca Mai 2026]]** — Spezifisches Baseline-Event (29.05.2026)
+- **[[00 Performance-Übersicht]]** — Baseline-Messungen + Ziele
+- **[[Health Protocol Master]]** — Integratives Protokoll
+- **[[Zone 2 Training]]** — Trainingsmethode (VO₂-max-Aufbau)
+- **[[Corrective Exercise]]** — Haltungstherapie (FHP, Asymmetrie)
+- **[[Fat Loss Protocols]]** — Körperrekomposition
+- **[[Progress Tracking]]** — Messserien-Verwaltung

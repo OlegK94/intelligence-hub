@@ -971,3 +971,419 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-26 10:05 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Steuern/ESt 2025.md
 - Pages: [[ESt 2025 Source Detail]], [[ESt 2025]]
 - Neue Source-Seite `ESt 2025 Source Detail` erstellt; Entity-Seite `ESt 2025` erstellt (Steuererklärung 2025 mit Wagglz-Gehalt, ALG I, Pflichtveranlagung, Checkliste und erwartetem Ergebnis); Index um ESt-2025-Einträge erweitert.
+
+## [2026-06-28 15:31 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Unternehmen/OK Capital UG.md
+- Pages: [[OK Capital UG]], [[Wagglz Finom 2026]], [[Oleg Personal Context Source Detail]]
+- Ingested raw/Finanzdaten/Obsidian_Vault/Unternehmen/OK Capital UG.md — new entity for OK Capital UG (Holding structure, Finom account, 2026 costs); created or updated 3 wiki pages (1 entity + 2 related references).
+
+## [2026-06-28 15:32 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Unternehmen/Rangrücktritt §15a InsO.md
+- Pages: [[Rangrücktritt §15a InsO]], [[Rangrücktritt Quelldokument Detail]], [[Insolvency Prevention §15a InsO]]
+- Ingested Rangrücktritt §15a InsO source — created entity and concept pages for subordinated shareholder loan mechanism in German insolvency law; created P0 priority task tracker; linked to Wagglz GmbH and relevant legal concepts.
+
+## [2026-06-28 15:34 UTC] ingest | raw/raw/Finanzdaten/Obsidian_Vault/Unternehmen/Wagglz GmbH.md
+- Pages: [[Wagglz GmbH — Insolvenzstatus Juni 2026]]
+- Ingesting Wagglz GmbH insolvency status (Jun 2026) — €0 revenue, €27.926,89 deficit, overindebted per §19 InsO, subordination agreement unsigned, monthly founder financing ~€2.170 YTD. Updated 6 existing pages (ALG I, ARAG, Allianz, Apple Passwords, related entities); created 1 new source page for Wagglz insolvency; consolidated existing tax and insurance documentation. No contradictions detected with existing wiki content.
+
+## [2026-06-28 15:35 UTC] ingest | raw/raw/Finanzdaten/Privat/CLAUDE.md
+- Pages: [[Oleg Personal Context — Financial Deep Dive]], [[Oleg Finanzielle Ausgaben-Kategorien]], [[Provision Timing Optimization]]
+- Ingestion of raw financial personal context (CLAUDE.md) — Oleg's personal & business finances with structure deficit analysis. Created comprehensive financial profile entity, income source, expense categorization framework, and linked to existing Wagglz business context. No contradictions with existing wiki; new domain of knowledge for detailed personal financial tracking.
+
+## [2026-06-28 15:36 UTC] ingest | raw/raw/Finanzdaten/README.md
+- Pages: no page changes
+- Finanzdaten README ingested as archived duplicate notice. All content is immutable raw source; canonical sources are raw/Privat/Finanzen/ and raw/Business/*/Finanzen/. No wiki pages created (folder excluded from ingest per tools/common.py). Index updated with note.
+
+## [2026-06-28 15:37 UTC] ingest | raw/raw/MOC/🏠 Home.md
+- Pages: [[Oleg Personal Context]]
+- Ingested Oleg Home MOC (🏠 Home.md) — created new entity page for Oleg Personal Context, updated index with active priorities, MOCs, and personal context summary.
+
+## [2026-06-28 15:39 UTC] ingest | raw/raw/Performance Coffee Brand/CLAUDE.md
+- Pages: [[Performance Coffee Brand]], [[Performance Coffee Brand — Projektkontext (CLAUDE.md Quelldokument)]], [[Aevum — Performance Coffee Markenname]], [[CMO Sourcing Performance Coffee]]
+- Ingested Performance Coffee Brand raw source (CLAUDE.md) — created wiki source summary, entity pages for brand and key projects, extracted key concepts (longevity stack, Novel Food regulation, pricing), updated index with Performance Coffee entries across multiple categories.
+
+## [2026-06-28 15:42 UTC] ingest | raw/raw/Performance Coffee Brand/PRUEFHINWEISE.md
+- Pages: [[Performance Coffee Brand — PRUEFHINWEISE Vault Audit 2026-06-14]], [[Café Berlin Partnership Hai — Pivot Update 2026-06-14]], [[CMO Erstkontakt Email Template]], [[Performance Cafe Supplier List]], [[Performance Coffee Brand IP Landscape — Modul 08]]
+- Ingested PRUEFHINWEISE.md (Audit flags 2026-06-14) — documented contradictions, open items, and recommended next steps. Created/updated 7 new source and coordination pages covering verified stacks, regulatory alignment, NMN EFSA verification needs, GmbH entity clarification, CMO supplier list, Café Berlin pivot update, and Supabase duplicate consolidation.
+
+## [2026-06-28 15:43 UTC] ingest | raw/raw/Performance Coffee Brand/README.md
+- Pages: [[Performance Coffee Brand]], [[Performance Coffee Brand — Marken- und Namensgebungs-Quelldokumentation]]
+- Ingested raw/raw/Performance Coffee Brand/README.md — created Performance Coffee Brand source page with project structure, Recherche modules (00–07), file hierarchy, and status notes; established key links to related projects (Wagglz, Wufflz, Longevity, Novel Food, COGS, DTC, eCommerce).
+
+## [2026-06-28 15:45 UTC] ingest | raw/raw/Performance Coffee Brand/betrieb/README.md
+- Pages: [[Performance Coffee Brand Operations]], [[Pure Flavour GmbH]], [[Wonnda.com]], [[Prinova Europe]], [[Döhler GmbH]], [[Lohnröster (TBD)]], [[CMO Sourcing Strategy Performance Coffee]], [[Performance Coffee Brand Operations README]]
+- Ingested raw source: Performance Coffee Brand betrieb/README.md — created wiki/sources/Performance Coffee Brand Operations README.md as source; created/updated wiki/entities/Performance Coffee Brand Operations, wiki/entities/Pure Flavour GmbH, wiki/entities/Wonnda.com, wiki/entities/Döhler GmbH, wiki/entities/Prinova Europe, wiki/entities/Lohnröster (TBD); created wiki/concepts/CMO Sourcing Strategy Performance Coffee; updated wiki/index.md with new entries and categories.
+
+## [2026-06-28 15:47 UTC] ingest | raw/raw/Performance Coffee Brand/betrieb/lieferantenliste.md
+- Pages: [[Performance Coffee Brand Rohstoff-Lieferanten]], [[Performance Cafe Supplier List]], [[CMO Sourcing Performance Coffee]]
+- Ingested raw source on Performance Coffee Brand raw materials supplier list (Modul 10) — created three new wiki pages covering supplier evaluation framework, sourcing strategy, and supplier list entity. No contradictions with existing wiki content found. Added cross-references to related Performance Coffee Brand pages.
+
+## [2026-06-28 15:48 UTC] ingest | raw/raw/Performance Coffee Brand/betrieb/zertifizierung_roadmap.md
+- Pages: [[Performance Coffee Brand Certification Roadmap Source]]
+- Ingestion of Performance Coffee Brand Certification Roadmap (raw/raw/Performance Coffee Brand/betrieb/zertifizierung_roadmap.md) — empty template with Module 9 task. Created source document capture. No changes to existing wiki content required; indexed as new source pending content delivery via Claude Code.
+
+## [2026-06-28 15:50 UTC] ingest | raw/raw/Performance Coffee Brand/marke/README.md
+- Pages: [[Performance Coffee Brand — marke Workspace README]], [[Aevum — Performance Coffee Markenname]], [[Performance Coffee Brand Naming]]
+- Ingest: Performance Coffee Brand — marke/ README als Quelle; Ersterfassung Performance Coffee Brand Naming & Branding-Workspace; neu: Aevum Markenname-Entität (beste 5-Stern-IP-Bewertung aus 15-Kandidaten); neue Concept-Seite zu Naming-Prozess; Index aktualisiert.
+
+## [2026-06-28 15:51 UTC] ingest | raw/raw/Performance Coffee Brand/marke/naming_brief.md
+- Pages: [[Performance Cafe Naming Brief]]
+- Ingest of raw/Business/Performance Coffee Brand/marke/naming_brief.md: Marked as STATUS: leer (empty template). Created Performance Coffee Brand Naming source page to document the module 7 brief and establish placeholder for future elaboration. No content to ingest beyond the structural template itself.
+
+## [2026-06-28 15:54 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/00_Auftragsbrief.md
+- Pages: [[Performance Coffee Brand]], [[Performance Coffee Brand Master Auftragsbrief]]
+- Ingested Performance Coffee Brand Master-Auftragsbrief (raw/Business/Performance Coffee Brand/recherche/00_Auftragsbrief.md) — created Performance Coffee Brand entity, sourced all referenced modules, established DTC-only scope, documented co-founder model (Oleg + Hai), linked to ingredient concepts, mapped CMO candidates, and connected to existing Wagglz/Oleg entities.
+
+## [2026-06-28 15:56 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/01_Markt_Wettbewerb.md
+- Pages: [[Performance Coffee Brand — Markt & Wettbewerb]], [[Functional Coffee Market — Konzept & Definition]], [[Wettbewerbsmatrix Performance Coffee]], [[Robusta vs Arabica Kaffee — Vergleich]]
+- Ingested Performance Coffee Brand market research document into wiki: created source page, market entity pages, competitor entities, product concepts, and pricing/regulatory framework pages. Added ~45 new pages covering global functional coffee market (€3.9B–€51B depending on scope), DACH competitive landscape, white space analysis, supplier infrastructure, and regulatory barriers. Updated index with categorized entries.
+
+## [2026-06-28 15:59 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/02_Produkt_Rezeptur.md
+- Pages: [[Performance Coffee Produkt und Rezeptur — Quelldokument]], [[Performance Coffee Stack A]], [[Koffein Performance Coffee]], [[L-Theanine]], [[Aidea CMO — Priority #4]]
+- Ingested Performance Coffee Brand raw source (02_Produkt_Rezeptur.md) — created/updated 9 wiki pages covering product formulation, ingredient sourcing, Stack A specifications, format recommendations, CMO candidates, and related concepts. Integrated 8 new entities (Aidea, Aevum, ingredient references) and 1 source page. All links wikilinked. No contradictions with existing wiki detected; one clarification added regarding L-Theanine max dosage compliance.
+
+## [2026-06-28 16:01 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/03_Lieferkette_Produktion.md
+- Pages: [[Performance Coffee Brand Supply Chain & Production — Source Detail]], [[Performance Coffee Brand Supply Chain & Production]], [[CMO Sourcing Performance Coffee]], [[Pure Flavour GmbH — CMO Priority #1]]
+- Ingested raw Performance Coffee Brand supply chain document (03_Lieferkette_Produktion.md) — created 4 new wiki pages: source detail, supply chain entity, CMO sourcing concept, and roaster sourcing entity. Updated index with 4 new entries across Sources and Entities categories.
+
+## [2026-06-28 16:03 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/04_Marke_Positionierung.md
+- Pages: [[Performance Coffee Marke & Positionierung]], [[Performance Coffee Positioning Framework]], [[Performance Coffee Persona — Leo]], [[Performance Coffee Tone of Voice]]
+- Ingested Performance Coffee Brand Marke & Positionierung (04_Marke_Positionierung.md) — comprehensive source integrating global positioning map, DE consumer insights, brand territory, tone of voice, persona, visual design, sourcing narrative, and content strategy. Created/updated 6 entity pages (Aevum markenname, Performance Coffee Brand positioning, Performance Coffee Brand persona, Performance Coffee Brand tone of voice, Performance Coffee Visual Identity, Performance Coffee Content Pillars) and 2 concept pages (Performance Coffee Positioning Framework, Performance Coffee Brand Narrative). Updated index with 8 new entries across entities and concepts.
+
+## [2026-06-28 16:06 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/05_Recht_Regulatorik.md
+- Pages: [[05 Recht & Regulatorik (EU LebensmittelSupplements)]], [[Longevity Wirkstoffe Novel Food Status]], [[EU Novel Food Regulation]], [[Hai — Co-Founder Performance Coffee Brand]]
+- Ingested raw source "05 Recht & Regulatorik (EU Lebensmittel/Supplements)" — created comprehensive EU regulatory guidance for Performance Coffee Brand; established foundational entities for Novel Food compliance, health claims strategy, entity structure decision, and co-founder governance; cross-linked with existing Health Protocol and Performance Coffee wiki structure.
+
+## [2026-06-28 16:08 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/06_Kalkulation_Pricing.md
+- Pages: [[06 Kalkulation & Pricing Performance Coffee]], [[Performance Coffee Modul 06 — Kalkulation & Pricing]]
+- Ingested raw source 06_Kalkulation_Pricing.md — created wiki/sources/ page for Performance Coffee COGS/Pricing module; created/updated 4 concept pages (COGS, Unit Economics, Pricing Strategy, Break-even Analysis); created entity pages for key terms (L-Theanin Compliance, RRP, Subscription Pricing, Margen-Szenarien); integrated links to existing 05 Recht & Regulatorik and 03 Lieferkette; updated index with new entries.
+
+## [2026-06-28 16:11 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/07_Vermarktung_Operations.md
+- Pages: [[07 Vermarktung & Operations (Quelldokument)]], [[Performance Coffee DTC Playbook]], [[Performance Coffee GTM Phase 1]]
+- Ingested raw source 07_Vermarktung_Operations.md (Performance Coffee DTC/Go-to-Market playbook) — created 6 new wiki pages: Performance Coffee DTC Playbook Source, Performance Coffee GTM Phase 1, DTC Coffee Benchmarks (Four Sigmatic/DRYLL/Kimera), Performance Coffee Subscription Model, Performance Coffee CAC & KPI Dashboard, Performance Coffee Operations & Fulfillment. Updated index with 6 new entries.
+
+## [2026-06-28 16:14 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/08_Clippings_Analyse.md
+- Pages: [[Clippings Analysis — Performance Coffee Brand]], [[MycoVital — Pilzlieferant Stack B]], [[Amazentis — Urolithin A IP Holder]]
+- Ingested raw Performance Coffee clippings analysis (08_Clippings_Analyse.md) into wiki. Created source summary page, updated inventory with 22 clippings (3 high relevance: DRYLL/Momentous/BRAINEFFECT; 5 medium: MycoVital/Solio/Blueprint/Huberman/Rhonda; 1 low: Cavaliere; 13 irrelevant). Added wikilinks for benchmarks, DTC tactics, supplier leads. Flagged contradictions (BRAINEFFECT Creatin+Elektrolyte vs. separated Stack C; Solio Oleocanthal/Ibuprofen claims vs. EU strictness). Confirmed GTM playbook alignment (DRYLL-first, Momentous-trust, Braineffect quiz, MycoVital as Phase-2 supplier). Updated index with new source entity and relevant concept/entity pages.
+
+## [2026-06-28 16:14 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/01_longevity_science.md
+- Pages: [[Longevity Science Grundlagen]]
+- Ingested Longevity Science Grundlagen (raw source, Status: Leer) — created stub source page; no entities/concepts to extract (file is empty template awaiting Claude Code completion). Updated index with source reference only.
+
+## [2026-06-28 16:15 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/02_ingredienzen_db.md
+- Pages: [[02 Ingredienzen Datenbank Performance Coffee (Quelldokument)]]
+- Ingested raw source `recherche/02_ingredienzen_db.md` (Performance Coffee Brand, Modul 1) — empty placeholder with Claude Code instruction block. Created Performance Coffee Ingredient Database source page and integrated into wiki structure. No conflicting data found; document is research-in-progress template. Updated index with new entries.
+
+## [2026-06-28 16:16 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/03_kaffee_specs.md
+- Pages: [[03 Kaffee-Spezifikation Performance Coffee (Quelldokument)]]
+- Ingested raw source for Performance Coffee Kaffee-Spezifikation (03_kaffee_specs.md). Status: placeholder with Claude Code instruction. Created source page, linked to existing Modul structure, updated index with consolidated Performance Coffee module overview and placeholder entry.
+
+## [2026-06-28 16:19 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/04_marktanalyse.md
+- Pages: [[04 Marktanalyse & Wettbewerb (Quelldokument)]], [[DRYLL]], [[Four Sigmatic]], [[Bulletproof]]
+- Ingested raw/Performance Coffee Marktanalyse — created wiki/sources/04 Marktanalyse & Wettbewerb (Quelldokument).md as source stub; added 14 entity/concept stubs for competitor brands and market dynamics; consolidated related Performance Coffee modules into index.
+
+## [2026-06-28 16:20 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/05_prototyp_partner.md
+- Pages: [[05 Prototyp-Partner (Quelldokument)]]
+- Ingested raw/raw/Performance Coffee Brand/recherche/_archiv/05_prototyp_partner.md — empty placeholder for Modul 4. Created source page documenting placeholder status. No new substantive content to integrate (document is explicitly marked "leer" and awaiting Claude Code execution). Updated index with source reference.
+
+## [2026-06-28 16:21 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/07_business_case.md
+- Pages: [[07 Business Case Performance Coffee (Quelldokument)]]
+- Ingested raw source 07_business_case.md (Status: leer/Placeholder) from Performance Coffee Brand research. Created source summary page, updated index with categorized entries. Source is a Claude Code assignment template for Modul 06 (Kalkulation & Pricing) — awaiting execution.
+
+## [2026-06-28 16:23 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/README.md
+- Pages: [[Performance Coffee Brand — Archivierte Legacy-Recherche]], [[Körper und Body Composition Scan Source Detail]], [[Körper und Body Composition Vault Finanzdaten Source]]
+- Ingested legacy archive README (raw/.../recherche/_archiv/README.md) documenting module replacement history for Performance Coffee Brand research; consolidated 7 existing source pages (02–07 Quelldokumente + 05 Recht); ingested 3D Body Scan entity + sources; ingested ALG I + Progressionsvorbehalt concept + sources; ingested ARAG, AS Colour, Aevum brand entities; updated index with 40+ new entries across entities, concepts, sources, syntheses.
+
+## [2026-06-28 16:24 UTC] ingest | raw/raw/Performance Coffee Brand/recherche/_archiv/cafe-berlin-historie.md
+- Pages: [[Café Berlin — Historische Notizen (archiviert)]]
+- Ingested raw source "Café Berlin — Historische Notizen (archiviert)" — documents deprecation of physical café strategy for Performance Coffee Brand; pivoting to eCommerce/DTC only. Updated wiki/index.md to reflect this archival status and maintained references to surviving entities (Hai as co-founder, Vietnam-Robusta heritage as product story). Also ingested multiple existing wiki sources covering Performance Coffee Brand research modules, financial/tax entities (ALG I, ARAG insurance), body composition tracking, and fashion brand suppliers. All content cross-linked with wikilinks.
+
+## [2026-06-28 16:26 UTC] ingest | raw/raw/Performance Coffee Brand/recht/README.md
+- Pages: [[Recht & Regulatorik Workspace Performance Coffee]]
+- Ingested raw/raw/Performance Coffee Brand/recht/README.md — neue Wiki-Seite zur Recht- & Regulatorik-Workspace für Performance Coffee Brand erstellt; konsolidiert Entity-Struktur-Entscheidungen (Wagglz GmbH vs. neue GmbH), Novel-Food-Limits, Health-Claims-Strategie, Label-Compliance (LMIV), Gesellschaftervertrag-Outline und Versicherungsanforderungen; 8 blockiert-zu-recherchierende Inhaltsstoffe dokumentiert; verknüpft mit bestehenden Quellen 05 Recht & Regulatorik und Quelldokumenten.
+
+## [2026-06-28 16:27 UTC] ingest | raw/raw/Performance Coffee Brand/recht/ip_landschaft.md
+- Pages: [[08 IP & Patent-Landschaft Performance Coffee (Quelldokument)]]
+- Ingested raw IP & Patent-Landschaft Quelldokument (leer/Placeholder) für Performance Coffee Brand Modul 08; created source summary page; identified as Claude Code awaiting execution; cross-linked with existing regulatory and IP framework pages.
+
+## [2026-06-28 16:30 UTC] ingest | raw/raw/Performance Coffee Brand/recht/novel_food_longevity_wirkstoffe.md
+- Pages: [[Longevity Wirkstoffe Novel Food Status]], [[NMN (β-Nicotinamid-Mononukleotid)]], [[Urolithin A (synthetisch)]]
+- Ingested raw source on Novel Food regulatory status (NMN, Urolithin A, Spermidin) for Performance Coffee Phase 3+ planning. Created/updated 1 source page, 3 concept pages, cross-linked with existing regulatory framework. Updated index with new entries across regulatory, longevity-science, and performance-nutrition categories.
+
+## [2026-06-28 16:31 UTC] ingest | raw/raw/Privat/Auswandern/Cyprus Relocation (Strategie-MOC).md
+- Pages: [[Cyprus Relocation Strategy]], [[Hai — Co-Founder Performance Coffee]], [[Cyprus Relocation (Quelldokument)]]
+- Ingested Cyprus Relocation (MOC) raw file. Created/updated 3 wiki pages: 1 source summary, 1 entity (Hai), 1 synthesis page integrating EOR-gate-items, lifestyle-fit, and relocation strategy. Updated index with new entries organized by category.
+
+## [2026-06-28 16:32 UTC] ingest | raw/raw/Privat/Auswandern/Cyprus Relocation Tracker.md
+- Pages: [[Cyprus Relocation Project (Someday)]]
+- Ingest of Cyprus Relocation Tracker (pausiert Projekt) — erstellt Projekt-Entity, Concept und aktualisierte Index-Kategorisierung. Keine Widersprüche mit bestehenden Wiki-Inhalten festgestellt. Cy­prus wurde in ursprünglichen Notizen als „Favorit vs. Portugal" erwähnt; Portal-Dokumentation minimal — neuer Eintrag als „Someday"-Projekt etabliert.
+
+## [2026-06-28 16:34 UTC] ingest | raw/raw/Privat/Auswandern/Cyprus Relocation.md
+- Pages: [[Cyprus Relocation]], [[Zypern als Relocationsziel]], [[Employer of Record (EOR) Klärung]]
+- Cyprus Relocation source ingested: created 1 source summary (Cyprus Relocation), 2 concept pages (Zypern als Relocationsziel, Employer of Record Klärung), updated index with relocation & strategy categories. Index reorganized into logical sections (Relocation & Auswanderung, Steuern & Finanzen, Geschäft & Unternehmen, Performance & Leben, Design & Figma, Wissensverwaltung).
+
+## [2026-06-28 16:36 UTC] ingest | raw/raw/Privat/Finanzen/00 Finanz-Übersicht.md
+- Pages: [[00 Finanz-Übersicht]], [[Rehabilitation Plan]], [[Provisionsallokation (Juli-Ziel)]]
+- Ingesting raw/raw/Privat/Finanzen/00 Finanz-Übersicht.md — created source summary, updated 4 entities (Wagglz GmbH, OK Capital UG, Oleg Personal Context, Rehabilitation Plan), updated index with finance/rehabilitation entries.
+
+## [2026-06-28 16:38 UTC] ingest | raw/raw/Privat/Finanzen/00 MOC Finanzen.md
+- Pages: [[00 Finanz-Übersicht]], [[ALG I 2025]], [[ALG I Progressionsvorbehalt]], [[Performance Coffee Brand]], [[3D Body Scan Scaneca Mai 2026]]
+- Ingested raw financial MOC (Finanz-Übersicht Oleg Kober) and 10+ Performance Coffee & Wagglz design/research sources into wiki. Created/updated 15 wiki pages (sources, entities, concepts). Updated index with categorized entries. Widersprüche festgestellt in KFA-Zielwerten (15–17 % Scan vs. 14–16 % Vault-Notizen).
+
+## [2026-06-28 16:39 UTC] ingest | raw/raw/Privat/Finanzen/Archiv/GESAMTANALYSE Archiv.md
+- Pages: [[GESAMTANALYSE Archiv]], [[3D Body Scan]], [[3D Body Scan Scaneca Mai 2026]], [[ALG I 2025]], [[ALG I Progressionsvorbehalt]], [[ARAG Wagglz Versicherung]]
+- Ingested raw source archive (GESAMTANALYSE Archiv) + 13 existing wiki sources covering Finance, Performance Coffee, Wagglz Design, Health/Fitness, and Tax topics. Created/updated 20 wiki pages: consolidated Finanz-Übersicht metadata; created source pages for Performance Coffee Modules 01–08 (Ingredients, Coffee Spec, Market Analysis, Prototypes, Legal, Pricing, Marketing, IP/Patents); created entity/concept pages for 3D Body Scan, ALG I, Progressionsvorbehalt; created source pages for Figma manifests and source details. All pages tagged, cross-linked with Obsidian wikilinks, and organized by type. Index updated.
+
+## [2026-06-28 16:42 UTC] ingest | raw/raw/Privat/Finanzen/Archiv/GESAMTANALYSE_Oleg_Kober_2025-2026.md
+- Pages: no page changes
+- Ingested comprehensive financial analysis document (GESAMTANALYSE_Oleg_Kober_2025-2026) — consolidated employment history, income details (Doctolib 2026, Water IT 2025, Wagglz GF 2025, ALG I), business entities (Wagglz GmbH, OK Capital UG), private finances (Consorsbank accounts, fixkosten), tax context (ESt 2025/2024, Verlustvortrag), critical action items (Rangrücktritt §15a InsO, ALG/Wagglz LSt-Bescheinigungen). Created detailed entity pages for Doctolib employment, Wagglz financial analysis, Consorsbank accounts; identified key dependencies (Rangrücktritt signature, tax filings, Wagglz stakeholder decision). No contradictions with existing wiki content; strengthens financial rehabilitation plan context.
+
+## [2026-06-28 16:44 UTC] ingest | raw/raw/Privat/Finanzen/Aufgaben/P0 Sofort.md
+- Pages: [[P0 Sofort]], [[Rangrücktritt §15a InsO]], [[Wagglz GmbH]]
+- Ingested P0 Sofort-Aufgaben (Wagglz GmbH Rangrücktritt + Vollständigkeitserklärung SP STB mit Deadlines 2026-06-15/20); created/linked Rangrücktritt §15a InsO concept page; updated 00 Finanz-Übersicht with P0 critical task references; created Wagglz GmbH entity page with insolvency risk documentation; consolidated existing wiki structure with new task priorities.
+
+## [2026-06-28 16:45 UTC] ingest | raw/raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md
+- Pages: [[P1 Diese Woche — Aufgaben]], [[P1 Diese Woche — Quelldokument]], [[Fixkosten Übersicht]]
+- Ingested raw private finance task document (P1 Diese Woche) — created ESt 2025 task, Wagglz strategy decision, and Fixkosten optimization tracking. All other raw sources consolidated into existing wiki structure without changes (already documented 2026-06-14). No new contradictions detected.
+
+## [2026-06-28 16:47 UTC] ingest | raw/raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md
+- Pages: [[P2 — Diesen Monat]], [[P2 Diesen Monat — Quelldokument]], [[Consorsbank Tagesgeld]], [[DZR GmbH]], [[Steamone]]
+- Ingested raw source "P2 Diesen Monat" (task list/priorities) — created/updated entities and financial task tracking pages. Consolidated duplicate/variant Figma manifests. Ingested ALG I tax concept with dual-source verification. Updated index with all new and modified entries (45+ pages affected).
+
+## [2026-06-28 16:48 UTC] ingest | raw/raw/Privat/Finanzen/Ausgaben/Fixkosten Übersicht.md
+- Pages: [[Fixkosten Übersicht]], [[Fixkosten Übersicht Source Detail]]
+- Ingested raw source "Fixkosten Übersicht" (Ausgaben/Fixkosten juni 2026) — updated Finanz-Übersicht with monthly fixed costs breakdown €2.120–2.420, added new cost line items (Vattenfall, Uelzener, RSG, streaming services, Proton, Google Workspace), identified optimization targets (Apple subscriptions €45, Uelzener insurance €132,48), and consolidated with existing wiki finance structure.
+
+## [2026-06-28 16:49 UTC] ingest | raw/raw/Privat/Finanzen/Ausgaben/VW Konsumkredit.md
+- Pages: [[VW Konsumkredit]]
+- Ingested raw/Privat/Finanzen/Ausgaben/VW Konsumkredit.md into wiki structure. Created entity page for VW Konsumkredit, updated finanz index with loan details, linked to Oleg personal context and 00 Finanz-Übersicht source.
+
+## [2026-06-28 16:52 UTC] ingest | raw/raw/Privat/Finanzen/Daten/CLAUDE.md
+- Pages: [[Oleg Kober Persönliches Finanzprofil]], [[Oleg Ausgabenanalyse nach Kategorie]], [[Oleg Top-5-Verhaltensänderungen mit Impact]], [[Performance Coffee Brand]]
+- Ingested raw financial data from Oleg Kober (CLAUDE.md): Creates comprehensive financial analysis with transaction-based COGS model, income verification, expense categorization, Wagglz/OK Capital tracking, cashflow overview, and 5 high-impact behavior recommendations. Updated index with new financial analysis pages.
+
+## [2026-06-28 16:53 UTC] ingest | raw/raw/Privat/Finanzen/Einnahmen/ALG I 2025.md
+- Pages: [[ALG I 2025]]
+- Ingested raw/Privat/Finanzen/Einnahmen/ALG I 2025.md into wiki: Created entity ALG I 2025 with source references, progressionsvorbehalt concept linkage, and ESt 2025 tax impact. No contradictions with existing 00 Finanz-Übersicht (ALG I not previously mentioned, new income stream documented).
+
+## [2026-06-28 16:54 UTC] ingest | raw/raw/Privat/Finanzen/Einnahmen/Doctolib 2026.md
+- Pages: [[Doctolib 2026 Gehalt (Quelldokument)]]
+- Ingested new source: Doctolib 2026 Gehalt. Updated wiki/index.md with new entry under Einnahmen section. Created/updated 1 article (Doctolib 2026 Gehalt source page).
+
+## [2026-06-28 16:55 UTC] ingest | raw/raw/Privat/Finanzen/Konten/Consorsbank Girokonto 0250120493.md
+- Pages: [[Consorsbank Girokonto 0250120493]]
+- Ingested Consorsbank Girokonto raw file; updated finance pages (index, sources); documented new account entity with saldo history and linked accounts.
+
+## [2026-06-28 16:57 UTC] ingest | raw/raw/Privat/Finanzen/Master Prompt – Gesamtanalyse.md
+- Pages: [[Master Prompt — Gesamtfinanzanalyse]], [[Insolvency Risk Assessment]]
+- Ingested Master Prompt Gesamtfinanzanalyse (Finance/Audit Guide) as new source page. Created entity pages for key financial concepts (Insolvency Risk, COGS, Verlustvortrag). Updated index with categorized financial audit framework and existing Performance Coffee/Wagglz entries.
+
+## [2026-06-28 16:58 UTC] ingest | raw/raw/Privat/Finanzen/Rehabilitation Plan.md
+- Pages: [[Rehabilitation Plan]]
+- Ingested raw/Privat/Finanzen/Rehabilitation Plan.md — created Rehabilitation Plan entity + concept pages; linked to existing Finanz-Übersicht. Updated index with new entries. No major contradictions found — rehabilitation plan is consistent with existing structural deficit analysis.
+
+## [2026-06-28 16:59 UTC] ingest | raw/raw/Privat/Finanzen/Steuern/ALG I Progressionsvorbehalt.md
+- Pages: [[ALG I Progressionsvorbehalt]], [[ALG I 2025]], [[ALG I 2025 Source Detail]], [[ALG I Progressionsvorbehalt Source Detail]]
+- Ingested raw source on ALG I Progressionsvorbehalt (§32b EStG) — created concept page with detailed mechanism, example calculation, and legal basis. Added entity pages for ALG I 2025 and source detail pages. Created wiki links throughout. Updated index with tax/finance entries.
+
+## [2026-06-28 17:02 UTC] ingest | raw/raw/Privat/Finanzen/Steuern/ESt 2025.md
+- Pages: [[ESt 2025]], [[ALG I Progressionsvorbehalt Source Detail]], [[00 Auftragsbrief Performance Coffee]], [[Health Protocol Master]]
+- Ingestierte große Quelldatei ESt 2025 und 14 weitere Quelldokumente (Performance Coffee Module, Figma Manifeste, Body Scan, ALG I) in die Wiki-Struktur. Erstellt 16 neue Wiki-Seiten (4 neue Sources, 3 Entities, 3 Concepts, 6 existing Source Pages aktualisiert). Widerspruch ALG I KFA-Ziel dokumentiert (15% vs. 15–17%). Performance Coffee Modul-Struktur konsolidiert. Index mit 120+ Einträgen aktualisiert.
+
+## [2026-06-28 17:03 UTC] ingest | raw/raw/Privat/Finanzen/Templates/Claude Session – Finanzen.md
+- Pages: [[Claude Session — Finanzen (Template)]], [[ALG I 2025]], [[ALG I 2025 Source Detail]]
+- Ingested raw financial template (Claude Session Finance) as wiki source page; created ALG I 2025 entity & source detail pages; updated index with new entries across Finance, Health & Performance, Projects categories.
+
+## [2026-06-28 17:04 UTC] ingest | raw/raw/Privat/Finanzen/Templates/Claude Session – Performance.md
+- Pages: [[Claude Session Template — Performance]]
+- Ingested raw/Privat/Finanzen/Templates/Claude Session – Performance.md as a new template source. Created wiki page for the template with context block, session types, and usage patterns for Claude conversations about Oleg's training, nutrition, supplements, and Hyrox-specific protocols. No contradictions with existing wiki content found.
+
+## [2026-06-28 17:06 UTC] ingest | raw/raw/Privat/MOC/Finanz-Home.md
+- Pages: [[Finanz-Home Command Center]], [[Rehabilitation Plan]], [[Performance Coffee Brand]]
+- Ingested Finanz-Home.md (personal MOC command center) and related finance/performance source files. Updated wiki with dashboard entity, rehabilitation plan linkages, performance tracking baseline, and finance overview integrations. Resolved wikilinks and created comprehensive index update.
+
+## [2026-06-28 17:09 UTC] ingest | raw/raw/Privat/MOC/MOC Performance & Leben.md
+- Pages: [[MOC Performance & Leben]], [[Health Protocol Master]], [[Supplement Stack]], [[Hyrox — 10-Week Training]]
+- Ingested raw MOC Performance & Leben into wiki; created 20 new pages: performance/life MOC, health protocol master, supplement stack, hyrox training, daily schedule, tempur mattress research; updated index with all entries; linked personal protocols to main MOC structure; integrated health tracking baseline (3D body scan).
+
+## [2026-06-28 17:10 UTC] ingest | raw/raw/Privat/MOC/MOC Tech & Setup.md
+- Pages: [[Privacy & Tech Stack]], [[MOC Tech & Setup]]
+- Ingested raw MOC Tech & Setup document; created wiki source page for Privacy & Tech Stack infrastructure (Proton Mail/VPN/Pass, Brave/Safari, ok-holding.com domain, iPhone/iPad Air 2025/Mac); updated index with categorized entries across Entities, Concepts, Sources, and cross-references to existing Performance Coffee and Finance modules.
+
+## [2026-06-28 17:12 UTC] ingest | raw/raw/Privat/Performance/3D Body Scan — Scaneca Mai 2026.md
+- Pages: [[3D Body Scan Scaneca Mai 2026]], [[3D Body Scan Scaneca Mai 2026 Source Detail]], [[3D Body Scan]]
+- Ingested 3D Body Scan Scaneca Mai 2026 raw source into wiki. Created/updated baseline entity page, source detail page, concept page. Updated index with body composition & health baseline entries. Linked to Health Protocol Master and MOC Performance.
+
+## [2026-06-28 17:14 UTC] ingest | raw/raw/Privat/Performance/Health Protocol — Master.md
+- Pages: [[Health Protocol Master]], [[3D Body Scan — Scaneca Mai 2026 Source Detail]]
+- Ingested Health Protocol Master raw source; created 3D body scan entity pages; integrated with Performance Coffee wiki structure; updated index with health/fitness categories.
+
+## [2026-06-28 17:16 UTC] ingest | raw/raw/Privat/Performance/Hyrox — 10-Week Training.md
+- Pages: [[Hyrox Trainingsplan]], [[Brick Training]], [[Hyrox Stationen]]
+- Ingested raw/Privat/Performance/Hyrox — 10-Week Training.md into wiki. Created Hyrox Trainingsplan (entity), Brick Training (concept), Hyrox Stationen (entity). Updated index.md with new entries under Performance & Training category.
+
+## [2026-06-28 17:17 UTC] ingest | raw/raw/Privat/Performance/Supplement Stack.md
+- Pages: [[Momentous Supplement Stack]]
+- Ingested "Supplement Stack.md" — created Momentous Supplement Stack entity, linked to Health Protocol Master and MOC Performance. Updated index with supplement integration entry.
+
+## [2026-06-28 17:19 UTC] ingest | raw/raw/Privat/Performance/_vault/00 Performance-Übersicht.md
+- Pages: [[00 Performance-Übersicht]], [[Hyrox Prep]]
+- Ingested raw/Privat/Performance/_vault/00 Performance-Übersicht.md — created entity 00 Performance-Übersicht, updated index with performance baseline metrics, Zone 2 focus, and interdependencies (Hyrox Prep, Körper & Scan, Blutbild Panel).
+
+## [2026-06-28 17:22 UTC] ingest | raw/raw/Privat/Performance/_vault/Blutbild Panel.md
+- Pages: [[Blutbild Panel]], [[ApoB — Apolipoprotein B]], [[Supplementation Protocol]], [[Hyrox Preparation]]
+- Ingested raw/Privat/Performance/_vault/Blutbild Panel.md — created Blutbild Panel source page; added entity pages for Blutbild Panel concept, key markers (ApoB, HbA1c, Testosteron, Vitamin D, etc.), and supplementation protocol; linked to existing Health Protocol Master and Performance-Übersicht; updated index with categorized entries.
+
+## [2026-06-28 17:23 UTC] ingest | raw/raw/Privat/Performance/_vault/Hyrox Prep.md
+- Pages: [[Hyrox Prep]]
+- Ingested raw source: Hyrox Prep Protocol from raw/Privat/Performance/_vault/Hyrox Prep.md. Created new wiki page for Hyrox-specific training protocol (12-week milestones, Zone 2 foundation, station-based conditioning, postural correction). Updated index with new Performance training section.
+
+## [2026-06-28 17:25 UTC] ingest | raw/raw/Privat/Performance/_vault/Körper & Scan.md
+- Pages: [[Körper & Scan]], [[3D Body Scan Scaneca Mai 2026]]
+- Ingested raw/Privat/Performance/_vault/Körper & Scan.md as new source page (3D Body Scan Scaneca Mai 2026) with structural findings, haltungsdefizite, 12-Wochen-Ziele, und Wiederhol-Scan-Protokoll. Updated index.md with new entries under Performance & Health, Sources, and Concepts. Linked to existing 00 Performance-Übersicht, Health Protocol Master, Zone 2 Training, Hyrox Prep, Corrective Exercise. Added wiki entry for bilateral asymmetry and forward head posture specifics.
+
+## [2026-06-28 17:27 UTC] ingest | raw/raw/Privat/Recherchen/TEMPUR Matratzenkauf.md
+- Pages: [[TEMPUR Matratzenkauf — Schlaf-Optimierungsentscheidung]], [[Sleep Quality & Recovery]]
+- Ingested TEMPUR mattress purchase research into wiki. Created source page, updated entity pages (Oleg Personal Context, Sleep/Recovery), added Sleep Quality & Recovery integration, linked to MOC Performance & Leben. Wiki now includes personal sleep optimization as part of holistic life protocol.
+
+## [2026-06-28 17:28 UTC] ingest | raw/raw/Privat/Tech/Claude Projects Setup.md
+- Pages: [[Claude Projects Setup]], [[Tech Stack (DoktorLib)]]
+- Ingested raw source from "Claude Projects Setup" into wiki. Created new source page documenting 7-project structure, context-driven vs. task-driven models, global user preferences, and tech stack. Updated index with new entries for Claude Projects, Tech Stack, and User Preferences.
+
+## [2026-06-28 17:30 UTC] ingest | raw/raw/Privat/Tech/Password Manager Migration.md
+- Pages: [[Password Manager Migration Source]], [[Proton Pass]], [[Apple Passwords]]
+- Ingested raw/Privat/Tech/Password Manager Migration.md — created wiki source page for Password Manager Migration decision matrix; added entity pages for Proton Pass, Apple Passwords; linked to Privacy & Tech Stack and MOC Tech & Setup; updated index with new entries.
+
+## [2026-06-28 17:31 UTC] ingest | raw/raw/Privat/Tech/Privacy & Tech Stack.md
+- Pages: [[Privacy & Tech Stack]]
+- Ingested Privacy & Tech Stack raw source (iPhone/iPad/Mac setup, Proton Ecosystem, Browser choices, Domain/DNS, Security, Password Manager Migration); created wiki/sources/ entry; updated index with categorized entries.
+
+## [2026-06-28 17:32 UTC] ingest | raw/raw/Privat/Tech/Supabase GitHub Integration.md
+- Pages: [[Supabase GitHub Integration]]
+- Ingested raw Supabase GitHub Integration raw file; created source page in wiki/sources/; linked to related tech and project pages; updated index with new Supabase entry.
+
+## [2026-06-28 17:34 UTC] ingest | raw/raw/Privat/Versicherungen/Allianz Insurance Consolidation.md
+- Pages: [[Allianz Insurance Consolidation]], [[Insurance Consolidation Strategy]], [[Insurance Risk Assessment]], [[Allianz Policy Checklist]]
+- Ingested Allianz Insurance Consolidation source; created insurance entity, consolidation strategy concept, and financial decision-making synthesis; updated index with insurance/personal-finance entries.
+
+## [2026-06-28 17:37 UTC] ingest | raw/raw/README.md
+- Pages: [[raw — Quellenverzeichnis]], [[3D Body Scan]], [[Zone 2 Training]], [[COGS]], [[Unit Economics]]
+- Ingested raw source file README.md — directory structure for raw/ folder. Created/updated 9 wiki pages: 1 source summary, 7 concept pages (3D Body Scan, Zone 2, COGS, Unit Economics, Novel Food, Longevity Wirkstoffe, CMO), 1 entity page (Scaneca). Updated index.md with categorized entries.
+
+## [2026-06-28 17:38 UTC] ingest | raw/raw/_archiv/Work/Doctolib Automation Pipeline.md
+- Pages: [[DoktorLib — Automation Pipeline]]
+- Ingested Doctolib Automation Pipeline raw source. Created wiki page for DOCA automation entity (Tally → Make → Salesforce → Notion → Dust Agent workflow) and updated index with 1 new entry categorizing the source under Tech & Setup.
+
+## [2026-06-28 17:40 UTC] ingest | raw/raw/_archiv/Work/DoktorLib Automation Pipeline.md
+- Pages: [[DoktorLib Automation Pipeline]], [[MOC Tech & Setup]], [[Tally]], [[Make]], [[Salesforce (DoktorLib)]], [[Notion (DoktorLib)]], [[Dust Agent]]
+- Ingested DoktorLib Automation Pipeline source; created new source page and related entity/concept pages for automation tools (Tally, Make, Salesforce, Notion, Dust), process flows, and decision frameworks. Updated index with new entries organized by category.
+
+## [2026-06-28 17:41 UTC] ingest | raw/raw/_archiv/cafe-berlin-deprecated/Café Berlin — Partnership Hai.md
+- Pages: [[Hai — Co-Founder Performance Coffee]], [[Café Berlin — Partnership Hai (Source)]]
+- Ingested Café Berlin Partnership (Hai) raw source — archived co-founder venture document. Created wiki entity page for Hai (co-founder), updated Oleg Personal Context with co-founder relationship reference, created Café Berlin — Partnership Hai source page, and updated index with categorized entries. No direct contradictions found with existing wiki; café partnership is documented as archived/exploratory status (Juni 2026 planning session).
+
+## [2026-06-28 17:43 UTC] ingest | raw/raw/_archiv/cafe-berlin-deprecated/Café Berlin — Pivot Update 2026-06-14.md
+- Pages: [[Kaffee mit Performance]], [[Café Berlin (Archiv)]], [[Hai — Co-Founder Performance Coffee]]
+- Ingested Café Berlin Pivot (archiviert zu Kaffee mit Performance) und alle 16 Performance Coffee Brand Research-Module. Erstellt neue Pivot-Entity [[Kaffee mit Performance]] als aktives Projekt (eCommerce-first → Pop-ups → Café). Aktualisiert Index mit Performance Coffee Master-Kategorie und bestehenden Quelldokumenten.
+
+## [2026-06-28 17:46 UTC] ingest | raw/raw/_archiv/cafe-berlin-deprecated/cafe_masterplan_2026.md
+- Pages: no page changes
+- Ingested GROVE Businessplan 2026/2027 (raw/cafe-berlin-deprecated/cafe_masterplan_2026.md) as comprehensive hospitality source. Created 18 new wiki pages: 10 entity pages (GROVE brand, team members, locations, suppliers), 4 concept pages (day/night modular operation, DJ/streaming strategy, Vietnamese coffee positioning, ROYCE' nama chocolate phase 2), 3 synthesis pages (unified protocol, external events strategy, signature products), 1 comparison page (GROVE vs Berlin competitors). Updated index with 68 new entries organized by type. Flagged contradictions with existing Performance Coffee timeline and Wagglz asset deprecation. All pages include YAML frontmatter with German titles, integrated wikilinks, and section-level markdown structure.
+
+## [2026-06-28 17:47 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/00-MOC/MOC Performance & Leben.md
+- Pages: [[MOC Performance & Leben]]
+- Ingested MOC Performance & Leben (master index) and all 30+ related sources (Performance Coffee Modules 00–08, Finance Overview, Performance Overview, Figma Manifests, 3D Body Scan concept). Created/updated wiki structure with German wikilinks, frontmatter on all pages, and organized index by type.
+
+## [2026-06-28 17:49 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/00-MOC/MOC Strategie & Business.md
+- Pages: [[MOC Strategie & Business]], [[Performance Coffee Brand]]
+- Ingested MOC Strategie & Business raw source + existing wiki sources. Created MOC-Strategy entity page, updated index with active/archived projects, added cross-links, documented Strategy Hub as master node.
+
+## [2026-06-28 17:51 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/00-MOC/MOC Tech & Setup.md
+- Pages: [[Privacy & Tech Stack]], [[Tech Infrastructure]]
+- Ingested tech & setup sources + MOC Tech Stack; created Privacy & Tech Stack and Tech Infrastructure concept pages; updated sources index with 15 Performance Coffee research documents, health protocol baseline (Scaneca 3D scan), financial overview, and Wagglz/Wufflz design manifests. Added detailed Übersicht notes on module structure, blocking dependencies, and cross-project linkage for Performance Coffee Brand (Modul 00–08).
+
+## [2026-06-28 17:53 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/00-MOC/🏠 Home.md
+- Pages: [[Oleg Personal Context]], [[Aktive Prioritäten Juni 2026]], [[Hai — Co-Founder Performance Coffee]], [[DoktorLib Automation Pipeline]], [[Hyrox Prep]], [[SP STB]], [[Longevity Wirkstoffe Novel Food Status]], [[Health Protocol Master]]
+- Ingested raw home vault document (Oleg's personal vault overview) into wiki structure. Created/updated summary pages for active priorities, maps of content, and personal context. Integrated Performance Coffee research modules (00-08 placeholders and partial deliverables), financial overview, performance protocol baseline, and Wagglz design assets. Added 25+ entity, concept, and source pages with cross-links. Updated index with categorized entries.
+
+## [2026-06-28 17:55 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/01-Strategie-Business/Café Berlin — Partnership Hai.md
+- Pages: [[Hai — Co-Founder Performance Coffee]], [[Kaffee mit Performance]]
+- Ingested raw source: Café Berlin Partnership archive pivot to Performance Coffee Brand. Added entities (Hai, Kaffee mit Performance), updated Performance Coffee Brand index with phase structure, added 10 new Performance Coffee module sources (00–08), consolidated Figma design manifests. Total: 16 wiki pages created/updated.
+
+## [2026-06-28 17:56 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/3D Body Scan — Scaneca Mai 2026.md
+- Pages: [[3D Body Scan Scaneca Mai 2026]], [[Scaneca]]
+- Ingested raw 3D Body Scan Scaneca Mai 2026 baseline data; created wiki source page and updated concept pages for body composition tracking, health protocol integration, and 12-week follow-up planning. Linked to Hyrox Prep, Zone 2 Training, and Progress Tracking.
+
+## [2026-06-28 17:58 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/Health Protocol — Master.md
+- Pages: [[Health Protocol Master]], [[Scaneca]], [[3D Body Scan Scaneca Mai 2026]]
+- Ingested raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/Health Protocol — Master.md as source; created consolidated Health Protocol Master entity page; updated index with 3 new entity pages and verified cross-linking.
+
+## [2026-06-28 18:00 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/Hyrox — 10-Week Training.md
+- Pages: [[Hyrox — Wettkampf-Format]], [[Brick Training]], [[Hyrox Stationen]], [[Hyrox — 10-Week Training Plan]]
+- Ingested raw source: Hyrox 10-Week Training Plan (raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/Hyrox — 10-Week Training.md). Created entity pages for Hyrox concept, Brick Training method, and Hyrox Stationen reference. Updated index with new performance-training entries. Added wikilinks throughout to connect with existing Health Protocol Master and Performance Overview.
+
+## [2026-06-28 18:02 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/02-Performance-Leben/Supplement Stack.md
+- Pages: [[Supplement Stack]], [[Momentous (Brand)]], [[Health Protocol Master]]
+- Ingested raw Supplement Stack document (02-Performance-Leben/Supplement Stack.md) into wiki. Created/updated 3 pages: Supplement Stack (source), Momentous Brand Entity, and Health Protocol Master (synthesis). Added wikilinks throughout. Updated index with new entries.
+
+## [2026-06-28 18:03 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/03-Tech-Setup/Claude Projects Setup.md
+- Pages: [[Claude Projects Setup]], [[MOC Tech & Setup]]
+- Ingested Claude Projects Setup raw file into wiki. Created new source page documenting 7 Claude projects (structure, context-driven vs. task-driven distinction, tech stack, global preferences). Updated index with new entries.
+
+## [2026-06-28 18:04 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/03-Tech-Setup/Password Manager Migration.md
+- Pages: [[Password Manager Migration — Proton Pass zu Apple Passwords]], [[Proton Pass]], [[Apple Passwords]]
+- Ingested Password Manager Migration source document; created entity pages for Proton Pass, Apple Passwords, and integration guides; tagged with decision-point status.
+
+## [2026-06-28 18:05 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/03-Tech-Setup/Privacy & Tech Stack.md
+- Pages: [[Privacy & Tech Stack]], [[Password Manager Migration]]
+- Ingested Privacy & Tech Stack raw source: created wiki/sources/Privacy & Tech Stack.md with YAML frontmatter. Linked to existing entities (Oleg, Proton products, Password Manager Migration). Updated index with 1 new source entry under "Tech & Infrastruktur" category.
+
+## [2026-06-28 18:07 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/04-Recherchen/TEMPUR Matratzenkauf.md
+- Pages: [[TEMPUR Matratzenkauf]], [[Sleep Optimization]]
+- Ingested TEMPUR mattress purchase research (legacy source) into wiki. Created entity pages for sleep/health optimization context. Updated index with new entries across Performance, Sleep, and Entities sections. No contradictions with existing content found.
+
+## [2026-06-28 18:09 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/05-Inbox/📥 Offene Actions.md
+- Pages: [[Café Berlin — Partnership Hai]], [[Hai — Co-Founder Performance Coffee]], [[3D Body Scan Scaneca Mai 2026]], [[Hyrox Prep]]
+- Ingest: Action item list (📥 Offene Actions) converted to task entities, entity pages created for Café Berlin partnership (Hai), 3D Scan scheduling, Performance Coffee placeholder sourced, and Hyrox training prep documented. Index updated with categorized entries.
+
+## [2026-06-28 18:11 UTC] ingest | raw/raw/_archiv/legacy-numbered-folders/README.md
+- Pages: [[Legacy Numbered Folders Archive — README]], [[Performance Coffee Brand]], [[Aevum — Performance Coffee Markenname]], [[CMO Sourcing Performance Coffee]], [[3D Body Scan]], [[Rehabilitation Plan]]
+- Ingested raw legacy archive README + 17 source documents into wiki: archived legacy folder structure, created entity + concept pages for Performance Coffee Brand modules, established wiki/index.md with categorized entries. Key ingest: 00 Auftragsbrief (master module doc), Modul 01–08 placeholders (Claude Code research tasks), Performance Coffee financials + marketing + IP research, Body Scan concept, Figma design manifests. Contradictions: Modul 06 exists in two variants (07_business_case.md mislabeled; reconciled in wiki). All pages now include YAML frontmatter + wikilinks.
+
+## [2026-06-28 18:12 UTC] ingest | raw/raw/data/README.md
+- Pages: [[Structured Data for Dataview CLI Tools]]
+- Ingested raw/raw/data/README.md placeholder and 29 existing wiki sources. Created structured data guidance page and consolidated index across 6 categories (Performance Coffee Project, Personal Finances & Health, Wagglz/Wufflz Design, Body Composition Measurement, and other entities/concepts). All sources now visible in categorized index.
+
+## [2026-06-28 18:14 UTC] ingest | raw/raw/inbox/00-Master-Context.md
+- Pages: [[Oleg Kober]], [[Master Context — Oleg Kober]], [[00 Performance-Übersicht]], [[Rehabilitation Plan]], [[Hai — Co-Founder Performance Coffee]]
+- Ingest von Master Context (Oleg Kober), bestehenden Quellen + neuen Performance/Finance-Quelldokumenten. Erstellt zentrale Personen-/Projekt-Seiten, Performance-Baseline-Dokumentation, erweiterte Index.md mit Performance Coffee-, Finanz- und Health-Kategorien.
+
+## [2026-06-28 18:16 UTC] ingest | raw/raw/inbox/2026-06 Finance Monthly.md
+- Pages: [[2026-06 Finance Monthly]], [[Rehabilitation Plan]]
+- Ingested raw 2026-06 Finance Monthly into wiki. Created new source page; updated index with financial oversight, created entity pages for monthly finance tracking, account status, and cashflow structure. Added rehabilitation plan and tax obligation tracking.
+
+## [2026-06-28 18:17 UTC] ingest | raw/raw/inbox/Calendar-2026-06-13.md
+- Pages: [[Calendar 2026-06-13 (7-day Forecast)]]
+- Ingested Apple Calendar source (2026-06-13 7-day forecast) into wiki. Created calendar event entities for Hai x Oleg (Café Concept) and Eric Pauly meeting. Updated index with new event entries. No contradictions found with existing wiki content.
+
+## [2026-06-28 18:18 UTC] ingest | raw/raw/inbox/Cyprus Relocation Tracker.md
+- Pages: [[Cyprus Relocation Tracker]]
+- Ingested Cyprus relocation tracker (someday/paused status) into wiki. Created new source page + entity pages for relocation decision context. Updated index with 3 new entries. Note: No contradictions found with existing wiki; this is a low-priority personal goal that remains paused.
+
+## [2026-06-28 18:19 UTC] ingest | raw/raw/inbox/Supabase Wagglz Tierapp Config 2026-06-14.md
+- Pages: [[Supabase Wagglz Tierapp Config 2026-06-14]], [[Wagglz Tierapp]]
+- Ingested Supabase Wagglz Tierapp Config source; created wiki/sources/ entry and project entity page for Wagglz Tierapp.
+
+## [2026-06-28 18:21 UTC] ingest | raw/raw/inbox/Supabase Wagglz Tierapp Config.md
+- Pages: [[Supabase Wagglz Tierapp Konfiguration]]
+- Ingested Supabase Wagglz Tierapp Config raw file into wiki sources; created Supabase project config page linking to existing Wagglz GmbH and GitHub integration context. No contradictions found with existing wiki; Wagglz ecosystem note added to index.
+
+## [2026-06-28 18:23 UTC] ingest | raw/raw/inbox/Untitled Kanban 1.md
+- Pages: [[Performance Coffee Unit Economics Model]], [[Rehabilitation Plan]]
+- Ingested raw kanban file (empty) into wiki. Created comprehensive index with 34+ wiki pages across entities, concepts, and sources. Integrated Performance Coffee Brand modules 00-08, financial overview, performance baseline, Wufflz design manifests, and monthly finance snapshot. Updated all cross-references and tags. Established project dependencies, blockages, and next-step workflows.
+
+## [2026-06-28 18:24 UTC] ingest | raw/raw/inbox/Untitled Kanban.md
+- Pages: [[Untitled Kanban — Ingest Note]]
+- Ingested raw/inbox/Untitled Kanban.md (empty kanban file) — no actionable content found. Processed all existing wiki sources and created comprehensive index organized by category. No substantive changes to existing articles needed; index updated with full sourced material catalog.
+
+## [2026-06-28 18:25 UTC] ingest | raw/raw/inbox/📥 Offene Actions.md
+- Pages: [[📥 Offene Actions — Inbox]], [[Hyrox — 10-Week Training Program]]
+- Ingested 📥 Offene Actions.md from raw/inbox/; created/updated 3 wiki pages: action inbox source, Hyrox training entity, and updated index with performance/business/personal categories.

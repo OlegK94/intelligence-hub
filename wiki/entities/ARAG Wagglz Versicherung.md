@@ -1,11 +1,11 @@
 ---
-title: ARAG Wagglz Versicherung
+title: "ARAG Wagglz Versicherung"
 type: entity
-tags: [versicherung, arag, wagglz, finanzen, kündigung, laufende-kosten, finom, P2, 2026]
-sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md", "raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md"]
+tags: [versicherung, arag, wagglz, finanzen, kündigung, laufende-kosten, finom, 2026, fixkosten]
+sources: ["raw/Privat/Finanzen/Aufgaben/P2 Diesen Monat.md"]
 created: 2026-06-12
 updated: 2026-06-12
-summary: ARAG-Versicherungsprodukt verknüpft mit der Wagglz GmbH — 100,88 €/Quartal werden seit April 2026 vom Wagglz Finom-Konto abgebucht; Vertrag wird nicht benötigt; Kündigung erforderlich bis 2026-06-30 aufgrund möglicher Schließung der Wagglz GmbH; zweite Quelle (Finanzdaten-Vault) bestätigt alle Angaben
+summary: ARAG-Versicherungsprodukt Wagglz GmbH — 100,88 €/Quartal seit April 2026 vom Wagglz Finom-Konto abgebucht; wird nicht benötigt; Kündigung erforderlich bis 2026-06-30; Kostenersparnis 403,52 €/Jahr
 ---
 
 # ARAG Wagglz Versicherung
@@ -14,36 +14,36 @@ summary: ARAG-Versicherungsprodukt verknüpft mit der Wagglz GmbH — 100,88 €
 
 **ARAG Wagglz** ist ein ARAG-Versicherungsprodukt, das mit dem Geschäftsbetrieb der [[Wagglz GmbH]] verbunden ist. Seit April 2026 werden 100,88 €/Quartal vom Geschäftskonto [[Wagglz Finom 2026]] abgebucht. Der Vertrag wird nicht benötigt und muss gekündigt werden.
 
-> ✅ Diese Seite wurde durch eine zweite Quelldatei (`raw/Finanzdaten/Obsidian_Vault/Aufgaben/P2 Diesen Monat.md`) bestätigt — alle Angaben stimmen überein, keine Widersprüche.
-
 ## Vertragsdetails
 
 | Parameter | Wert |
 |---|---|
 | **Anbieter** | ARAG Versicherung |
 | **Produkt** | Wagglz (ARAG-branded) |
-| **Kosten** | 100,88 €/Quartal = 403,52 €/Jahr |
+| **Kosten** | 100,88 €/Quartal = **403,52 €/Jahr** |
 | **Abbuchung seit** | April 2026 |
 | **Abbuchungskonto** | [[Wagglz Finom 2026]] |
-| **Kündigung fällig** | 2026-06-30 |
+| **Kündigungsfrist** | **2026-06-30** |
 
 ## Kündigungsbegründung
 
-1. **Nicht benötigt** — Der Vertrag bietet keinen notwendigen Versicherungsschutz
-2. **Wagglz GmbH schließt evtl.** — Sollte die [[Wagglz GmbH]] abgewickelt werden, wird die zugehörige Versicherung noch überflüssiger
-3. **Kosten sparen** — 403,52 €/Jahr werden aus den Fixkosten gestrichen
+1. **Nicht benötigt** — Der Versicherungsvertrag bietet keinen notwendigen Schutz
+2. **Wagglz GmbH-Kontext** — Falls [[Wagglz GmbH]] abgewickelt werden sollte, wird die zugehörige Versicherung hinfällig
+3. **Fixkosteneinsparung** — 403,52 €/Jahr sind eine unmittelbare Kostenreduktion
 
 ## Erforderliche Maßnahmen
 
-- [ ] Kündigung bei ARAG einreichen (schriftlich/online)
-- [ ] Deadline: 2026-06-30
-- [ ] Bestätigung über Wagglz Finom einholen, dass die Abbuchungen eingestellt werden
+| Aktion | Status | Deadline |
+|---|---|---|
+| Kündigung schriftlich/online bei ARAG einreichen | ⏳ Ausstehend | **2026-06-30** |
+| Bestätigung der Kündigungseingänge durch ARAG einholen | ⏳ Ausstehend | Nach Kündigung |
+| Wagglz Finom-Konto auf End der Abbuchungen prüfen | ⏳ Ausstehend | Nach Kündigungsbestätigung |
 
 ## Verwandte Seiten
 
 - [[Wagglz GmbH]] — zugehöriges Unternehmen
-- [[Wagglz Finom 2026]] — belastetes Konto
-- [[P2 Diesen Monat Source Detail]] — Aufgabenquelle (Finanzdaten-Vault)
+- [[Wagglz Finom 2026]] — Geschäftskonto, von dem Kosten abgebucht werden
+- [[P2 Diesen Monat Source Detail]] — Aufgabenquelle und Deadline-Dokumentation
 - [[Fixkosten Übersicht]] — Kontext zur Fixkostenoptimierung
 - [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — Vertragsinhaber
+- [[Oleg Personal Context]] — Vertragsinhaber/Geschäftsführer

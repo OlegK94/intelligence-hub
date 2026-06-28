@@ -1,85 +1,72 @@
----
-title: "Pure Flavour GmbH"
-type: entity
-tags: [performance-cafe, hersteller, lohnfertigung, contract-manufacturer, münchen, ifs, nahrungsergänzungsmittel, prototyp, erstempfehlung]
-sources: ["raw/Business/Wagglz/Performance Coffee Brand/Prototyp — Hersteller & Prompt.md"]
-created: 2026-06-14
-updated: 2026-06-14
-summary: Pure Flavour GmbH (München) — Erstempfehlung als Lohnhersteller für die Performance Coffee Brand; spezialisiert auf funktionelle Ernährung, Nahrungsergänzungsmittel und Getränke; 1.700+ Kunden; IFS-zertifiziert; Kleinmengen-Prototyping möglich; EU-konform; Direktanfrage mit Briefing als nächster Schritt
+tags: [cmo, supplier, functional-products, contract-manufacturing, performance-cafe, supplier-list, outreach-pending]
+sources: ["raw/Business/PerformanceCafe/betrieb/README.md"]
+created: 2026-06-15
+updated: 2026-06-15
+summary: CMO-Kandidat für Performance Coffee Brand — spezialisiert auf funktionale Produkte; Status recherche_noetig; Stack-A-Briefing per Email ausstehend; aufgelistet in betrieb/Lieferanten-Shortlist
 ---
 
 # Pure Flavour GmbH
 
 ## Überblick
 
-**Pure Flavour GmbH** (München) ist die **Erstempfehlung** als Lohnhersteller / Contract Manufacturer für die [[Performance Coffee Brand]]. Das Unternehmen ist auf funktionelle Ernährung, Nahrungsergänzungsmittel und Getränke spezialisiert und wird als einziger Hersteller auf der initialen Shortlist mit einem ⭐-Rating bewertet.
+**Pure Flavour GmbH** ist ein Candidat für die Rolle des [[Performance Coffee Brand|Performance Coffee Brand]] **Contract Manufacturer (CMO)** mit Spezialisierung auf **funktionale Produkte** (functional drinks, supplements).
 
 ---
 
 ## Eckdaten
 
-| Parameter | Detail |
+| Parameter | Details |
 |---|---|
-| **Standort** | München, Deutschland |
-| **Spezialisierung** | Funktionelle Ernährung, Nahrungsergänzungsmittel, Getränke |
-| **Kundenanzahl** | 1.700+ (Brands, Händler, Großhandel) |
-| **Zertifizierung** | IFS (International Food Standard) |
-| **Website** | pureflavour.de |
-| **Kontakt-Weg** | Direktanfrage mit Briefing |
+| **Unternehmen** | Pure Flavour GmbH |
+| **Fokus** | Funktionale Produkte, Drinks, Formulierungen |
+| **Status** | `recherche_noetig` |
+| **Nächster Schritt** | Stack-A-Briefing per Email versenden |
 
 ---
 
-## Stärken im Performance-Coffee-Kontext
+## Position in der CMO-Auswahl
 
-1. **Kleinmengen-Prototyping** — kritisch für MOQ-Ziel < 500 Einheiten
-2. **Flexible Formulierung** — kann Custom-Blends mit funktionellen Inhaltsstoffen entwickeln
-3. **EU-konform / IFS-zertifiziert** — sichert regulatorische Compliance
-4. **Breite Kundenbasis** (1.700+) — belegt Erfahrung mit verschiedenen Produktkategorien
-5. **München-Standort** — kurze Distanz für Produktionsbesuche aus dem DACH-Raum
+Pure Flavour wird als **spezialisierter funktionaler CMO** positioniert — im Kontext einer Lieferanten-Shortlist mit fünf Kandidaten:
 
----
+| Priorität | CMO | Fokus |
+|---|---|---|
+| #1 | [[Prinova Europe]] | Inhaltsstoffe + funktionale Getränke |
+| #2 | [[Lehvoss Nutrition]] | Custom Formulation |
+| #3 | [[Nutri-Epitech]] | Longevity-Stack |
+| #4 | [[Aidea]] | Sachets + RTD-Format |
+| #5 | [[Herbafit]] | Pulver-Sachets |
 
-## Relevante Inhaltsstoffe (kompatibel)
-
-Pure Flavour ist in der Lage, Produkte mit folgenden Inhaltsstoffen herzustellen, die für die Performance Coffee Brand relevant sind:
-
-- [[L-Theanin]]
-- [[L-Tyrosin]]
-- [[B-Vitamine Performance Coffee]] (B6, B12, B5)
-- Elektrolyte
-- Weitere funktionelle Zutaten nach Briefing
+**Pure Flavour ist primär eine Kontaktmöglichkeit für Stack-A-Formulierungsfragen**, nicht eine der Top-5-Prioritäten auf der formalen Liste. Die Rolle deutet jedoch auf tiefgehendes Verständnis für funktionale Produkte hin.
 
 ---
 
 ## Nächste Schritte
 
-- [ ] Produktformat festlegen ([[Lohnhersteller Performance Coffee]])
-- [ ] Inhaltsstoff-Stack spezifizieren → [[Inhaltsstoffe Datenbank Performance Coffee]]
-- [ ] Kaffee-Blend-Anforderungen klären → [[Kaffee Rohstoffanalyse Source]]
-- [ ] Briefing-Dokument (1 Seite) erstellen → [[Prototyp Briefing Template]]
-- [ ] Direktanfrage an pureflavour.de senden
+- [ ] **Email an Pure Flavour versenden** mit [[CMO Erstkontakt Email Template]] + Stack-A-Briefing
+- [ ] Warten auf Rückmeldung (Nachfass nach 1 Woche)
+- [ ] Videocall zur Evaluierung vereinbaren
 
 ---
 
-## Positionierung vs. andere Hersteller
+## Recherche-Anfragen (offen)
 
-| Kriterium | Pure Flavour | [[Döhler GmbH]] | Plattform [[Wonnda]] |
-|---|---|---|---|
-| Prototyp MOQ | Klein (< 500) | Höher (Serien) | Variiert |
-| Direktkontakt | ✅ Ja | ✅ Ja | ❌ Vermittlung |
-| Zertifizierung | IFS | Eigenständig | — |
-| Spezialisierung | Funktionell + NEM + Getränke | Ingredients + Extrakte | Matching |
-| Empfehlung Phase 1 | ⭐ **Erstempfehlung** | Phase 2+ | Recherche |
+- [ ] Website scouting & Produktportfolio
+- [ ] Zertifizierungen prüfen (GMP, ISO, Kölner Liste-ready?)
+- [ ] MOQ (Minimum Order Quantity) für Pilot-Batch
+- [ ] Preisstruktur für Sachet-Format
+- [ ] Flavoristen-Netzwerk für NAC-Geruchsmaskierung
+- [ ] Erfahrung mit longevity-bezogenen Inhaltsstoffen (Urolithin A, NMN, Resveratrol)
 
 ---
 
 ## Verwandte Seiten
 
-- [[Prototyp Hersteller Research Performance Coffee]] — Quelldokument
-- [[Lohnhersteller Performance Coffee]] — Konzeptseite (Gesamtlandschaft)
-- [[Döhler GmbH]] — Alternative für Serienproduktion
-- [[Wonnda]] — Plattform für Marktüberblick
+- [[Performance Coffee Brand Operations]] — Quelldokument (betrieb/README)
+- [[CMO Erstkontakt Email Template]] — Email-Vorlage
+- [[CMO Sourcing Strategy Performance Coffee]] — Evaluierungsrahmen
 - [[Performance Coffee Brand]] — übergeordnetes Projekt
-- [[Inhaltsstoffe Datenbank Performance Coffee]] — Stack-Details für Briefing
-- [[CMO Sourcing Performance Coffee]] — parallele CMO-Evaluierungsliste
+- [[Prinova Europe]] — Priority #1 (für Vergleich)
+- [[Lehvoss Nutrition]] — Priority #2 (für Vergleich)
+- [[Aidea]] — Priority #4 (Sachets-Spezialist)
+- [[NAC]] — Technische Herausforderung (Schwefelgeruch bei N-Acetylcystein)
 - [[Oleg Personal Context]] — Projektverantwortlicher

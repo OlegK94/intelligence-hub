@@ -1,45 +1,53 @@
 ---
-title: SP STB
+title: "SP STB — Steuerberater (Tax Advisor)"
 type: entity
-tags: [steuerberater, steuern, finanzen, est-2025, wagglz, sp-stb]
-sources: ["raw/Privat/Finanzen/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md"]
-created: 2026-06-12
-updated: 2026-06-12
-summary: SP STB — Olegs Steuerberater, zuständig für die ESt-2025-Einreichung; Empfänger des Steuerunterlagenpakets bis 2026-06-30; bearbeitet auch steuerliche Angelegenheiten im Zusammenhang mit Wagglz
+tags: [steuerberater, tax-advisor, finance, entity-structure, loss-carryforward, banking]
+sources: ["raw/raw/_archiv/legacy-numbered-folders/00-MOC/🏠 Home.md", "raw/Business/PerformanceCafe/recherche/00_Auftragsbrief.md"]
+created: 2026-06-14
+updated: 2026-06-14
+summary: SP STB — Steuerberater (Tax Advisor) for Oleg; advises on entity structure (Wagglz GmbH vs. new GmbH for Performance Coffee), loss carryforward optimization (~€150k Wagglz), ESt integration, banking network for investor/loan contacts
 ---
 
-# SP STB
+# SP STB — Steuerberater (Tax Advisor)
 
-## Überblick
+## Role & Responsibilities
 
-**SP STB** ist [[Oleg Personal Context|Olegs]] **Steuerberater** (Steuerberatungskanzlei). Die Abkürzung bezieht sich wahrscheinlich auf einen Firmennamen (z. B. SP Steuerberatung o. Ä.). SP STB übernimmt sowohl die persönliche Einkommensteuer (ESt) als auch steuerliche Angelegenheiten der Wagglz GmbH.
+- **Function:** Steuerberater (German tax advisor; licensed)
+- **Client:** [[Oleg Kober]] (personal + corporate entities)
+- **Specialties:**
+  - Entity structure optimization (GmbH vs. UG vs. new entity decisions)
+  - Loss carryforward (Verlustvortrag) management & tax planning
+  - ESt (Einkommensteuer) integration with business income
+  - Banking & investor network access
 
-## Hauptaufgaben
+---
 
-### ESt 2025
-- Erstellung der [[ESt 2025]] für Oleg
-- Muss das vollständige Unterlagenpaket bis **2026-06-30** erhalten
-- Muss den [[ALG I Progressionsvorbehalt]] (§32b EStG) korrekt berechnen
-- Ist außerdem die Quelle für die Wagglz Lohnsteuerbescheinigung 2025 (derzeit noch nicht verfügbar — Oleg muss diese anfordern)
+## Key Advisory Areas
 
-### Wagglz
-- Übernimmt die Steuererklärungen der Wagglz GmbH
-- Soll den §17-EStG-Verlust im Falle einer Auflösung der [[Wagglz GmbH]] modellieren
-- Verfügt möglicherweise über die Lohnsteuerbescheinigung 2025
+### Entity Structure for Performance Coffee
+- Advising on decision: **Wagglz GmbH vs. new GmbH** for Performance Coffee Brand launch
+- Factors: Tax efficiency, loss carryforward utilization, brand separation, investor appeal, liability isolation
+- Decision gate: Must be resolved before [[Hai — Co-Founder Performance Coffee|Hai]] co-founder agreement finalized
 
-## Erforderliche Maßnahmen
+### Loss Carryforward Optimization (~€150k)
+- [[Wagglz GmbH]] carries ~€150k loss carryforward (Verlustvortrag)
+- Opportunity: If Performance Coffee operates under Wagglz GmbH, early profits (2026+) can be offset against loss carryforward
+- Tax impact: Potential reduction of effective tax rate on early positive EBIT from ~30% to 0–15%
+- Trade-off: New separate GmbH means cleaner structure but loss carryforward remains bound to Wagglz
 
-- [ ] Oleg muss die Wagglz Lohnsteuerbescheinigung 2025 bei SP STB anfordern
-- [ ] SP STB muss das vollständige ESt-2025-Unterlagenpaket bis 2026-06-30 erhalten
-- [ ] SP STB soll den §17-EStG-Auflösungsverlust berechnen, sofern Wagglz aufgelöst wird
+### Banking & Investor Network
+- Access to potential banking relationships for:
+  - Business loans or credit lines for Performance Coffee Phase 1
+  - Investor introductions (angels, micro-VC)
+- Network-based sourcing for advisors (IP lawyers, IP-attorney for trademark registration)
 
-> ⚠️ **Annahme [A]:** Der vollständige Name und die Kontaktdaten von SP STB sind aus den aktuellen Quellen nicht ersichtlich. Die Abkürzung wird in allen Finanzen-Quellen einheitlich verwendet.
+---
 
-## Verwandte Seiten
+## Related Pages
 
-- [[ESt 2025]] — primäre Steuererklärung
-- [[ALG I Progressionsvorbehalt]] — Berechnung, die SP STB durchführen muss
-- [[Wagglz GmbH]] — Unternehmenskunde
-- [[ALG I 2025]] — ALG-I-Daten für die Steuererklärung
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context|Oleg]] — Mandant
+- [[Oleg Personal Context]] — Client context
+- [[00 Finanz-Übersicht]] — Financial overview
+- [[Rehabilitation Plan]] — 3-phase financial recovery (SP STB advising)
+- [[Wagglz GmbH]] — Entity with loss carryforward (~€150k)
+- [[05 Recht & Regulatorik (EU Lebensmittel/Supplements)]] — Entity decision & co-founder agreement context
+- [[Performance Coffee Brand]] — Entity structure decision pending

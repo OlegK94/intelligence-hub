@@ -1,69 +1,64 @@
----
-title: "Döhler GmbH"
-type: entity
-tags: [performance-cafe, hersteller, lohnfertigung, contract-manufacturer, darmstadt, kaffee-extrakte, getränke-systeme, serienproduktion]
-sources: ["raw/Business/Wagglz/Performance Coffee Brand/Prototyp — Hersteller & Prompt.md"]
-created: 2026-06-14
-updated: 2026-06-14
-summary: Döhler GmbH (Darmstadt) — großer Spieler für funktionelle Ingredienzien, Kaffee-Extrakte und Getränke-Systeme; bietet vollständige Formulierungsberatung; für spätere Serienproduktion geeignet; höhere Mindestmengen als für Prototyp-Phase empfohlen
+tags: [cmo, supplier, scale-production, contract-manufacturing, performance-cafe, supplier-list, status-zurückgestellt]
+sources: ["raw/Business/PerformanceCafe/betrieb/README.md"]
+created: 2026-06-15
+updated: 2026-06-15
+summary: CMO-Kandidat Döhler GmbH — Scale-Production spezialisiert; Status zurückgestellt (nicht in aktuelle Priority-Phase); Backup-Option für später
 ---
 
 # Döhler GmbH
 
 ## Überblick
 
-**Döhler GmbH** (Darmstadt) ist ein etablierter, großer Anbieter von funktionellen Ingredienzien, Kaffee-Extrakten und Getränke-Systemen. Im Kontext der [[Performance Coffee Brand]] ist Döhler für die **spätere Serienproduktion** relevant — nicht für den initialen Prototyp aufgrund höherer Mindestmengen.
+**Döhler GmbH** ist ein CMO-Kandidat für die [[Performance Coffee Brand]], spezialisiert auf **Scale-Production** für größere Mengen. Sein Status ist derzeit **`zurückgestellt`** — nicht in der aktiven Priority-Phase.
 
 ---
 
 ## Eckdaten
 
-| Parameter | Detail |
+| Parameter | Wert |
 |---|---|
-| **Standort** | Darmstadt, Deutschland |
-| **Spezialisierung** | Funktionelle Ingredienzien, Kaffee-Extrakte, Getränke-Systeme |
-| **Unternehmensgröße** | Großer Spieler (internationales Unternehmen) |
-| **Website** | doehler.com |
-| **Stärken** | Vollständige Formulierungsberatung, breites Portfolio |
-| **Nachteil** | Höhere Mindestmengen — eher für Serienproduktion |
+| **Unternehmen** | Döhler GmbH |
+| **Fokus** | Scale-Produktion, Großmengen |
+| **Status** | `zurückgestellt` |
+| **Phase** | Später, nach Pilot-Batch-Phase |
 
 ---
 
-## Relevanz für die Performance Coffee Brand
+## Rolle in der CMO-Strategie
 
-### Phase 1 (Prototyp)
-**Nicht empfohlen** — Döhler setzt voraussichtlich höhere MOQ voraus, die für einen Prototyp mit < 500 Einheiten nicht geeignet sind.
+Döhler ist ein **Scale-Up-Partner**, nicht ein MVP-/Pilot-Partner:
 
-### Phase 2+ (Serienproduktion)
-**Empfohlen** — Döhlers Erfahrung mit Kaffee-Extrakten und Getränke-Systemen macht das Unternehmen zu einem strategischen Partner für die Skalierung.
-
----
-
-## Besonderheiten
-
-- **Kaffee-Extrakte:** Döhler produziert eigene Kaffee-Extrakte und -Aromen, was für Instant- oder Konzentrat-Formate relevant ist
-- **Getränke-Systeme:** Systemkompetenz von der Ingredienz bis zum fertigformatierten Produkt
-- **Formulierungsberatung:** Kann bei der Produktentwicklung begleitend beraten — wertvoll für komplexe Stacks
-
----
-
-## Positionierung im Ökosystem
-
-| Kriterium | Döhler GmbH | [[Pure Flavour GmbH]] |
+| Phase | CMO | Zweck |
 |---|---|---|
-| Unternehmensgröße | Groß (international) | Mittel |
-| MOQ | Höher | Klein (< 500) |
-| Kaffee-Kompetenz | Hoch (Extrakte, Systeme) | Mittel |
-| Formulierungsberatung | Vollständig | Flexibel |
-| Empfehlung Phase 1 | ❌ | ⭐ |
-| Empfehlung Phase 2 | ✅ | Parallel |
+| **Phase 1: Pilot (aktiv)** | Prinova, Lehvoss, etc. | 1.000–2.000 Sachets, Formulierung |
+| **Phase 2: Early Scale (später)** | Döhler? | 10.000–50.000/Monat |
+
+Döhler wird erst relevant, wenn der Marktfit validiert ist und größere Produktionsläufe geplant werden.
+
+---
+
+## Begründung für "Zurückgestellt"
+
+- Große CMOs wie Döhler haben höhere MOQs und weniger Flexibilität bei Pilot-Batches
+- Bessere Kostenkalkulation erst nach Formulierung-Finalisierung möglich
+- Priorisierung liegt auf schneller MVP-Validierung mit kleineren, flexibleren Partners
+
+---
+
+## Nächster Schritt
+
+- [ ] **Reservieren für Phase 2** (nach erfolgreichem Pilot)
+- [ ] Döhler-Kontaktinformationen sammeln
+- [ ] Später (Monat 2–3) RFQ versenden mit finalisiertem Rezept
 
 ---
 
 ## Verwandte Seiten
 
-- [[Prototyp Hersteller Research Performance Coffee]] — Quelldokument
-- [[Lohnhersteller Performance Coffee]] — Konzeptseite
-- [[Pure Flavour GmbH]] — Erstempfehlung für Prototyp
+- [[Performance Coffee Brand Operations]] — Quelldokument (betrieb/README)
+- [[CMO Sourcing Strategy Performance Coffee]] — Gesamte CMO-Strategie
+- [[Prinova Europe]] — Priority #1 (aktiv)
+- [[Lehvoss Nutrition]] — Priority #2 (aktiv)
+- [[Aidea]] — Priority #4 (aktiv)
 - [[Performance Coffee Brand]] — übergeordnetes Projekt
-- [[CMO Sourcing Performance Coffee]] — parallele CMO-Evaluierungsliste
+- [[Oleg Personal Context]] — Projektverantwortlicher

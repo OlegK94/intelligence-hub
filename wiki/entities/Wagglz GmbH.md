@@ -1,87 +1,81 @@
 ---
 title: "Wagglz GmbH"
 type: entity
-tags: [wagglz, gmbh, unternehmen, wufflz, tier, b2b-software, finanzen, strategie, auflösung, §17-estg, oleg-darlehen, p1, 2026]
-sources: ["raw/Finanzdaten/Obsidian_Vault/Aufgaben/P1 Diese Woche.md", "raw/Business/Wagglz/Finanzen/Einnahmen/Wagglz GF-Gehalt 2025.md", "raw/Business/Wagglz/Design/README.md", "raw/Business/Wagglz/Design/Figma-Manifest-25-b2b-software.md"]
-created: 2026-06-12
-updated: 2026-06-20
-summary: Wagglz GmbH — Olegs Unternehmen; kein Umsatz seit Januar 2026; Strategieentscheidung (Weiterführen vs. Auflösung) fällig bis 2026-07-01; laufende Kosten ~120–255 €/Mo via Oleg-Darlehen; bei Auflösung §17 EStG-Verlust steuerlich nutzbar; Produkt: Wufflz (B2B-Tierpflege-Software)
+tags: [unternehmen, gmbh, gesellschafter, geschaeftsführer, strukturdefizit, insolvenzrisiko, kapitalverzehr, jahresabschluss, steuer, sp-stb, rangrücktritt, überschuldung, kapitalkonsum]
+sources: ["raw/Privat/Finanzen/00 MOC Finanzen.md", "raw/Privat/Finanzen/Aufgaben/P0 Sofort.md"]
+created: 2026-06-14
+updated: 2026-06-14
+summary: Wagglz GmbH — Gesellschafter/Geschäftsführer: Oleg; Status: Strukturdefizit mit Kapitalverzehr (Fehlbetrag €27.926,89); Insolvenzrisiko dokumentiert; Jahresabschluss-Kosten €5.000 (2025) / €2.500 (ab 2026); keine erkennbaren Rückflüsse; Rangrücktritt-Unterzeichnung erforderlich bis 2026-06-15 (P0, §15a InsO); Vollständigkeitserklärung SP STB bis 2026-06-20 (P0); Jahresabschluss blockiert bis Erklärung unterschrieben
 ---
 
 # Wagglz GmbH
 
 ## Überblick
 
-**Wagglz GmbH** ist [[Oleg Personal Context|Olegs]] Unternehmen, das die B2B-Tierpflege-Software [[Wufflz]] entwickelt. Seit Januar 2026 erzielt die GmbH **keinen Umsatz mehr**. Bis **2026-07-01** muss eine Strategieentscheidung getroffen werden: Weiterführen mit neuem Konzept oder geordnete Auflösung.
+**Wagglz GmbH** ist eine Kapitalgesellschaft (GmbH), deren Geschäftsführer und primärer Gesellschafter [[Oleg Personal Context|Oleg]] ist. Das Unternehmen weist ein **strukturelles Defizit mit kontinuierlichem Kapitalverzehr** auf und steht unter erheblichem **Insolvenzrisiko**.
 
----
+## Strukturdaten
 
-## Aktuelle Situation (Stand: Juni 2026)
-
-| Parameter | Status |
+| Parameter | Wert |
 |---|---|
-| **Umsatz** | Kein Umsatz seit Januar 2026 |
-| **Laufende Kosten** | ~120–255 €/Monat via [[Oleg-Darlehen]] |
-| **Strategieentscheidung** | ⏳ Offen — Deadline 2026-07-01 (P1) |
-| **Produkt (aktiv)** | [[Wufflz]] — B2B-Tierpflege-Software |
-| **Design-Status** | Wireframes exportiert; 18 Frames ([[25 Wufflz Wireframes Figma Manifest]]) |
+| **Rechtsform** | GmbH (Gesellschaft mit beschränkter Haftung) |
+| **Gesellschafter/GF** | [[Oleg Personal Context|Oleg]] |
+| **Status** | Strukturdefizit; Kapitalverzehr |
+| **Fehlbetrag (aktuell)** | **€27.926,89** |
+| **Rückflüsse** | Keine erkennbaren |
+| **Jahresabschluss-Kosten 2025** | €5.000 |
+| **Jahresabschluss-Kosten ab 2026** | €2.500 |
 
----
+## Finanzielle Situation
 
-## Strategieoptionen
+### Vermögensverzehr
+Das Unternehmen konsumiert kontinuierlich Kapital ohne erkennbare operationale Rückflüsse. Dies deutet darauf hin, dass:
+1. Einnahmen Null oder minimal sind
+2. Fixkosten laufen (Jahresabschluss-Gebühren mindestens)
+3. Keine Geschäftstätigkeit stattfindet oder nicht profitabel ist
 
-### Option A: Weiterführen (mit neuem Konzept)
-- Erfordert ein überarbeitetes Geschäftskonzept
-- Weitere Investitionen (Oleg-Darlehen)
-- Sinnvoll nur, wenn ein klarer Weg zu Umsatz/Kunden erkennbar ist
+### Insolvenzrisiko
+- **Überschuldung:** Fehlbetrag von €27.926,89 definiert Überschuldungsstatus nach §19 InsO
+- **Zahlungsunfähigkeit:** Wahrscheinlich auch nach §17 InsO vorliegend
+- **21-Tage-Antragspflicht:** Der Geschäftsführer muss nach Feststellung der Insolvenzreife innerhalb von 21 Tagen einen Insolvenzantrag stellen (oder [[Rangrücktritt §15a InsO]] unterschreiben, um dies zu vermeiden)
 
-### Option B: Auflösung
-- **§17 EStG-Verlust** steuerlich nutzbar (anteilig 60 % nach Teileinkünfteverfahren)
-- Einstellung aller laufenden Kosten (~120–255 €/Mo)
-- Zugehörige Versicherungen ([[ARAG Wagglz Versicherung]] — 100,88 €/Quartal) ebenfalls kündigen
-- Voraussetzung: Klärung der Verbindlichkeiten, Abwicklung der GmbH formal
+## Kritische P0-Aufgaben
 
-> ⚠️ **§17 EStG-Verlustnutzung:** Die Höhe des steuerlich nutzbaren Verlustes hängt ab von:
-> 1. Anschaffungskosten der Wagglz-Anteile (Stammkapital + eingezahlte Gesellschafterdarlehen)
-> 2. Verbleibendem Liquidationserlös (wahrscheinlich 0 bei keinem Umsatz)
-> 3. Berechnung durch [[SP STB]]
+| Aufgabe | Deadline | Status | Konsequenz |
+|---|---|---|---|
+| **[[Rangrücktritt §15a InsO]] unterzeichnen** | **2026-06-15** | ⏳ Ausstehend | Persönliche GF-Haftung nach §17/19 InsO bei Verzögerung |
+| **[[Vollständigkeitserklärung SP STB]] unterzeichnen** | **2026-06-20** | ⏳ Ausstehend | Jahresabschluss bleibt blockiert |
 
----
+Siehe [[P0 Sofort]] für Details.
 
-## Produkt: Wufflz
+## Jahresabschluss & Steuer
 
-[[Wufflz]] ist die B2B-Tierpflege-Software-Plattform der Wagglz GmbH. Die wichtigsten Design-Artefakte sind dokumentiert:
+- **Steuerberater:** [[SP STB]]
+- **Status:** Jahresabschluss 2025 blockiert bis Vollständigkeitserklärung unterschrieben
+- **Kosten 2025:** €5.000
+- **Kosten ab 2026:** €2.500 (Reduktion wahrscheinlich nach Vereinfachung)
 
-| Artefakt | Status |
-|---|---|
-| [[25 Wufflz Wireframes Figma Manifest]] | 18 Frames exportiert; 9-stufiger B2B-Onboarding-Flow |
-| [[25 B2B Software Figma Manifest]] | Export ausstehend |
-| [[Wagglz Wufflz Design README]] | Dokumentiert |
+## Konten & Finanzen
 
----
+- **Geschäftskonto:** [[Wagglz Finom 2026]] (Finom Bank)
+- **Laufende Versicherung:** [[ARAG Wagglz Versicherung]] (100,88 €/Quartal; Kündigung bis 2026-06-30)
 
-## Finanzielle Verbindungen
+## Relatierte Entität
 
-| Posten | Betrag | Kontext |
-|---|---|---|
-| Laufende Kosten | ~120–255 €/Mo | Finanziert via [[Oleg-Darlehen]] |
-| [[ARAG Wagglz Versicherung]] | 100,88 €/Quartal | Vom [[Wagglz Finom 2026]]-Konto |
-| GF-Gehalt 2025 | Siehe [[Wagglz GF-Gehalt 2025 Source Detail]] | Für ESt 2025 relevant |
-
----
+- **[[OK Capital UG]]** — Parallele Unternehmenseinheit (ebenfalls Oleg als GF); gleiches Kapitalverzehr-Muster
 
 ## Verwandte Seiten
 
-- [[Wufflz]] — Hauptprodukt der GmbH
-- [[ESt 2025]] — Steuererklärung; Wagglz-GF-Gehalt 2025 relevant
-- [[ALG I 2025]] — Gemeinsam mit GF-Gehalt als Einkommensquellen 2025
-- [[Oleg-Darlehen]] — Finanzierung laufender GmbH-Kosten
-- [[ARAG Wagglz Versicherung]] — Zugehörige Versicherung (Kündigung fällig)
+- [[P0 Sofort]] — P0-Aufgaben mit Deadlines
+- [[Rangrücktritt §15a InsO]] — Rechtskontext Rangrücktritt
+- [[00 Finanz-Übersicht]] — Finanz-MOC mit Wagglz-Status-Dokumentation
+- [[SP STB]] — Steuerberater (Ansprechpartner für Jahresabschluss)
 - [[Wagglz Finom 2026]] — Geschäftskonto
-- [[SP STB]] — Steuerberater; zuständig für §17 EStG-Berechnung
-- [[25 Wufflz Wireframes Figma Manifest]] — Design-Artefakt
-- [[25 B2B Software Figma Manifest]] — Design-Artefakt
-- [[P1 Diese Woche Source Detail]] — Aufgabenquelle
-- [[Wagglz GF-Gehalt 2025 Source Detail]] — Gehaltsdetails 2025
-- [[MOC Finanzen]] — übergeordnete Finanz-MOC
-- [[Oleg Personal Context]] — GF und Gesellschafter
+- [[ARAG Wagglz Versicherung]] — Versicherung (Kündigungspflicht)
+- [[Oleg Personal Context]] — Geschäftsführer
+- [[Rehabilitation Plan]] — Finanz-Rehabilitations-Planung (Wagglz-Kontext)
+
+---
+
+*Erstellt: 2026-06-14*
+*Status: Kritisch (Insolvenzrisiko, P0-Aufgaben ausstehend)*
