@@ -6,21 +6,22 @@ This vault follows [Andrej Karpathy's LLM Wiki pattern](https://gist.github.com/
 
 Personal knowledge base spanning:
 
-- **Strategie & Business (privat)** — OK Capital, Wagglz, Café Berlin, Versicherungen
+- **Strategie & Business (privat)** — OK Capital, Wagglz, Cafe Berlin, Versicherungen
 - **Performance & Leben** — health protocols, Hyrox, supplements, body composition
 - **Tech & Setup (privat)** — tooling, privacy stack
 - **Finanzen (privat)** — accounts, taxes, cash flow, company structures
 - **Recherchen** — ad-hoc research threads
 
-**Nicht in diesem Vault:** Doctolib-Arbeit, Firmen-Automations, aktive Relocation (Someday in paar Jahren).
+**Nicht in diesem Vault:** Doctolib-Arbeit, Firmen-Automations, aktive Relocation (Someday).
 
 ## Directory layout
 
 ```
-raw/          Immutable source documents (never modify — read only)
+raw/          Immutable source documents (never modify)
 wiki/         LLM-generated, interlinked knowledge (you maintain this)
 outputs/      Derived artifacts from queries (notes, slides, charts)
 tools/        CLI scripts the LLM can shell out to
+templates/    Obsidian Templater templates
 ```
 
 ### raw/ conventions
@@ -30,18 +31,11 @@ raw/
   inbox/       Drop zone for new sources awaiting ingest
   assets/      Images and attachments
   data/        Structured exports (CSV, wearable data)
-  MOC/         Vault home & navigation
-  Privat/      Personal — Performance, Tech, Finanzen, Versicherungen, Recherchen, Auswandern
+  MOC/         Vault home & navigation (dashboard.md)
+  Privat/      Personal
   Business/    Wagglz/, Cafe/, OK-Capital/
-  _archiv/     Excluded topics (e.g. work automations) — low ingest priority
+  _archiv/     Excluded topics
 ```
-
-- Sources are **immutable after ingest**. One-time vault migrations update paths in `.ingest_manifest.json`.
-- Drop new material in `raw/inbox/`, or the relevant `Privat/` / `Business/` subfolder.
-- Images and attachments live in `raw/assets/`.
-- Web clippings from Obsidian Web Clipper go to `Clippings/` or `raw/inbox/`.
-- Supported ingest types: `.md`, `.txt`, `.pdf` (text extracted if possible).
-- **Nicht ingesten:** `_archiv/Work/` (Firmen-Automations), bulk PDF-Kontoauszüge — nur Monatsübersichten.
 
 ### wiki/ conventions
 
@@ -73,118 +67,92 @@ summary: One-line description for the index
 ```
 
 Body rules:
-
 - Wikipedia-style prose: lead paragraph, then sections.
 - Heavy use of Obsidian wikilinks: `[[Page Name]]`.
 - Cite raw sources inline: `(source: [[Source Page Name]])`.
-- When new data contradicts old claims, add a `## Contradictions / Updates` section — do not silently overwrite.
-
-#### index.md rules
-
-Organize by category (Entities, Concepts, Sources, Syntheses, Comparisons). Each entry:
-
-```
-- [[Page Name]] — one-line summary (updated YYYY-MM-DD)
-```
-
-#### log.md rules
-
-Append-only. Every operation gets one entry:
-
-```
-## [YYYY-MM-DD HH:MM] ingest | raw/path/to/file.md
-- Created/updated: [[Page A]], [[Page B]]
-- Notes: brief summary of what changed
-
-## [YYYY-MM-DD HH:MM] query | "user question"
-- Output: outputs/notes/2026-06-13-topic.md
-- Filed back: [[New Synthesis Page]]
-
-## [YYYY-MM-DD HH:MM] lint
-- Found 3 orphan pages, 1 contradiction, 2 missing entity pages
-```
+- When new data contradicts old claims, add `## Contradictions / Updates` — do not silently overwrite.
 
 ## Operations
 
 ### 1. Ingest
 
-When the user adds a source or says "ingest":
-
-1. Read the raw file(s) — do not modify them.
-2. Read `wiki/index.md` and scan existing wiki pages for overlap.
-3. Create or update:
-   - A `wiki/sources/` page summarizing the raw document
-   - Relevant `wiki/entities/` and `wiki/concepts/` pages
-   - Cross-links across the wiki
-4. Update `wiki/index.md`.
-5. Append to `wiki/log.md`.
-6. Record the source in `wiki/.ingest_manifest.json` (via CLI).
-
-CLI (preferred for automation):
-
 ```bash
-python3 tools/ingest.py                          # process raw/inbox/
-python3 tools/ingest.py --file raw/path/to.md    # single file
-python3 tools/ingest.py --scope clippings        # process Clippings/
-python3 tools/ingest.py --scope raw            # all un-ingested under raw/
+python3 tools/ingest.py                       # process raw/inbox/
+python3 tools/ingest.py --file raw/path/to.md # single file
+python3 tools/ingest.py --scope clippings     # process Clippings/
+python3 tools/ingest.py --scope raw           # all un-ingested under raw/
 ```
-
-Or ask the agent to ingest conversationally — same workflow, same outputs.
 
 ### 2. Query
 
-When the user asks a question:
-
-1. Read `wiki/index.md` first to locate relevant pages.
-2. Run `python3 tools/search.py "query"` (QMD hybrid search across wiki/raw/outputs; BM25 fallback).
-3. Read the top-matching pages (use `qmd get <path>` for full excerpts when QMD is installed).
-4. Synthesize an answer with citations to `[[wiki pages]]`.
-4. Write output to `outputs/notes/`, `outputs/slides/` (Marp), or `outputs/charts/` (matplotlib).
-5. **File valuable answers back into the wiki** as new synthesis/comparison pages.
-6. Append to `wiki/log.md`.
-
-CLI:
-
 ```bash
-python3 tools/query.py "How do my health protocols relate to Hyrox training?"
+python3 tools/query.py "How do my health protocols relate to Hyrox?"
 python3 tools/query.py "Compare OK Capital vs Wagglz tax structure" --output slides
 ```
 
-### 3. Lint
+### 3. Research Sprint (Power Research)
 
-Periodically (or on request) health-check the wiki:
-
-- Contradictions between pages
-- Stale claims superseded by newer sources
-- Orphan pages (no inbound links)
-- Concepts mentioned but lacking dedicated pages
-- Missing cross-references
-- Gaps fillable via web search
-
-CLI:
+Fuer tiefgruendige Recherchen mit Primaerquellen, Gegenpositionen und Konfidenz-Scores:
 
 ```bash
-python3 tools/lint.py
-python3 tools/lint.py --fix   # let LLM propose and apply fixes
+# Neue Frage - volles Research-Protokoll
+python3 tools/research_sprint.py "Was ist der beste NAD+-Precursor fuer den EU-Markt?"
+
+# Vergleich zweier Optionen
+python3 tools/research_sprint.py "NR vs NMN vs Trigonellin" --type comparison
+
+# Deep Dive mit Slides-Output
+python3 tools/research_sprint.py "Koelner Liste Zertifizierungsprozess" --output slides
 ```
+
+**Research Sprint Qualitaetsstandard:**
+- Jeder Claim: Quelle + Konfidenz (HOCH/MITTEL/NIEDRIG)
+- Aktiv Gegenpositionen suchen - nicht nur bestaetigen
+- Regulatory-Kontext bei allem, was EU/DE-Markt betrifft
+- Ergebnis immer in `wiki/syntheses/` oder `wiki/comparisons/` ablegen
+
+**Konfidenz-Skala:**
+- HOCH: Meta-Analyse, RCT, repliziert, offizielle Behoerde
+- MITTEL: 1-2 Studien, Expert-Konsens, Industriestandard
+- NIEDRIG: Anekdote, Tier-Studie, vorlaeufig, eine Quelle
 
 ### 4. Search
 
-Hybrid local search via [QMD](https://github.com/tobi/qmd) (BM25 + vectors + reranking). Falls back to naive wiki BM25 if QMD is not installed.
-
 ```bash
-python3 tools/search.py "supplement stack"              # hybrid (best)
-python3 tools/search.py "Wagglz" -c hub-business       # business only
-python3 tools/search.py "Hyrox" -c hub-privat          # personal only
-python3 tools/search.py "health" --engine bm25         # legacy wiki-only
-
-# QMD setup (once) + re-index after ingest
-bash scripts/qmd-setup.sh
-bash scripts/qmd-setup.sh --embed   # download models + semantic search
-bash scripts/qmd-sync.sh            # after ingest / wiki edits
+python3 tools/search.py "supplement stack"
+python3 tools/search.py "Wagglz" -c hub-business
+python3 tools/search.py "Hyrox" -c hub-privat
 ```
 
-QMD collections: `hub-wiki`, `hub-privat`, `hub-business`, `hub-outputs`. Index lives in `~/.cache/qmd/` (not in git).
+### 5. Lint
+
+```bash
+python3 tools/lint.py
+python3 tools/lint.py --fix
+```
+
+### 6. Status
+
+```bash
+python3 tools/status.py
+```
+
+## Visualisierung
+
+```bash
+# Dashboard in Obsidian oeffnen
+# -> raw/MOC/dashboard.md (Dataview Live-Abfragen)
+
+# Slides aus Research generieren
+python3 tools/research_sprint.py "Thema" --output slides
+# -> outputs/slides/YYYY-MM-DD-slug.md (Marp-Format)
+
+# Template fuer neue Research Sprints
+# -> templates/research-sprint.md (Templater)
+
+# Template fuer Praesentationen
+# -> templates/marp-slide-deck.md
+```
 
 ## outputs/ conventions
 
@@ -195,16 +163,14 @@ outputs/
   charts/    Matplotlib images (.png)
 ```
 
-Filename pattern: `YYYY-MM-DD-short-slug.md` or `.png`.
-
 Good outputs get filed back into `wiki/syntheses/` or `wiki/comparisons/`.
 
 ## Obsidian setup
 
 - Vault root = this directory.
 - Attachment folder: `raw/assets/`
-- Hotkey: "Download attachments for current file" after web clipping.
-- Plugins already installed: Dataview, Templater, Excalidraw, Kanban.
+- Plugins enabled: Dataview, Templater, Excalidraw, Kanban, Tasks, Marp, Obsidian Git, Periodic Notes, Terminal.
+- Dashboard: `raw/MOC/dashboard.md`
 - View the wiki graph to see connections and orphan hubs.
 
 ## Agent behavior
@@ -214,6 +180,7 @@ Good outputs get filed back into `wiki/syntheses/` or `wiki/comparisons/`.
 - **Compound knowledge.** Every ingest and query should make the wiki richer.
 - **Read index first.** On every query, start with `wiki/index.md`.
 - **Prefer filing over chat.** Answers worth keeping become wiki pages or `outputs/`.
+- **Research standard:** Immer Konfidenz-Score, immer Gegenpositionen, immer Quellen.
 - **Co-evolve this schema.** Update CLAUDE.md when conventions change.
 
 ## Environment
