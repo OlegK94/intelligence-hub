@@ -2,6 +2,16 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-28 22:30] ingest | raw/Archiv/ + raw/Archiv Kopie/ (113 Screenshots)
+- Vollständige Inventur ALLER Wettbewerber-Screenshots (5 parallele Analyse-Durchläufe, jeder Screenshot einzeln gelesen)
+- Aufschlüsselung: ~94 Provet Cloud, 10 Vetera, 9 persönlich/irrelevant
+- Highlight: Provet Cloud **In-App Produkt-Tour** (10 echte App-Screens) — Dashboard „Recent consultations", Kalender (Vet-Spalten), 3-Spalten-Konsultation, AI Scribe, AI History Summary, AI Discharge, Vitals, Digital Whiteboard
+- Provet Marketing vollständig erfasst: Lifecycle-Narrativ, Clinical-AI, Provet Pay (Pay-by-Link/Split/Recurring), Security (ISO/SOC2/GDPR/Passwordless/AI-Governance), Pricing (Core/Pro/Enterprise + AI £30/Provet Pay £0), Integrations (150+/Open API), Pilot-Angebot
+- Vetera: Marketing-Site (Software-Funktionen, Für-wen-Segmente, Filialsysteme)
+- Erstellt: [[Provet Cloud + Vetera Screenshots 2026-06]] (source) — 19 priorisierte Wagglz-Learnings
+- Neue Modul-Lücken identifiziert: Inventory/Lager (Auto-Reorder), Labor-Integration (IDEXX), PACS/Imaging, Digital Whiteboard/Treatment Sheets, Health Plans, Video-Sprechstunde
+- Bestätigt: [[Provet Cloud]] + [[Vetera]] Entity-Daten (Pricing, AI Suite, Features)
+
 ## [2026-06-28 21:55] ingest | raw/raw/Doctolib /IMG_3279–3325.JPG (47 Screenshots)
 - Quelle: Doctolib-Praxissoftware-Demo-Account (Oleg Kober, intern) — vom origin/main Branch geholt
 - Erstellt: [[Doctolib Software Screenshots 2026-06]] (source) — vollständige UX-Modul-Inventur
