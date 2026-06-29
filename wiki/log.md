@@ -2,6 +2,14 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-29 00:10] ingest | PetLeo App (2 Screenshots, User-Upload)
+- Erkenntnis: petrol/türkise Mobile-Screenshots = PetLeo Tierhalter-App, NICHT Doctolib — waren im Kamera-Ordner gemischt, aber NICHT ins Repo gesynct
+- Verifiziert: alle 47 Dateien in raw/raw/Doctolib/ sind 5712×4284 Querformat (reine Doctolib-Desktop-Fotos); kein PetLeo-Bild in irgendeinem Branch
+- 2 analysierte Screens: (1) Digitale Patienten-Aufnahme mit granularem DSGVO-Consent (Folgebehandlung / Datenweitergabe Labore+Verrechnungsstellen), (2) EU-Heimtierausweis/Impfpass-Scan-Onboarding
+- Erstellt: [[PetLeo App Screenshots 2026-06]] (source) — direkte UX-Referenz für Wagglz Tierhalter-Portal + E-Pet-Pass
+- Top-Learnings: EU-Pass-Scan→Auto-Import, mobile Pre-Visit-Aufnahme-Wizard, granulare Consent-Checkboxen
+- OFFEN: vollständige PetLeo-Serie muss noch gepusht werden (User-Hinweis)
+
 ## [2026-06-28 22:30] ingest | raw/Archiv/ + raw/Archiv Kopie/ (113 Screenshots)
 - Vollständige Inventur ALLER Wettbewerber-Screenshots (5 parallele Analyse-Durchläufe, jeder Screenshot einzeln gelesen)
 - Aufschlüsselung: ~94 Provet Cloud, 10 Vetera, 9 persönlich/irrelevant
