@@ -336,6 +336,7 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Certification Roadmap Performance Coffee Brand]] — Synthesis of the three-tier certification strategy for Performance Coffee Brand — Kölner Liste (DACH MVP) → Informed Sport (EU scale) → NSF (US expansion) — plus mandatory NEM/LMIV compliance (updated 2026-06-15)
 - [[Oleg Business Entity Structure]] — Synthesis of Oleg's German legal entity structure — active GmbH, dormant UG, discontinued fashion brand, and open question of which entity to use for Café Berlin (updated 2026-06-14)
 - [[Oleg Financial Overview Synthesis]] — Cross-cutting synthesis of Oleg's complete financial picture — structural private deficit, two capital-consuming companies, insolvency risk, Rehabilitation Plan, linkage to strategic goals (updated 2026-06-14)
+- [[Wagglz UX Playbook — Adopt & Optimize]] — Konsolidiertes Build-Playbook aus 162 Wettbewerber-Screenshots (Doctolib/Provet/Vetera/PetLeo) — pro Modul ADOPT/OPTIMIZE/DIFFERENZIEREN, gemappt auf Wagglz-Features; 7 höchstpriorisierte Wetten (updated 2026-06-29)
 - [[Oleg Health & Performance Synthesis]] — Cross-cutting synthesis of Oleg's entire health and performance system — body baseline, training splits, Hyrox prep, supplement stack, expert frameworks (Huberman/Patrick/Cavaliere), identified gaps (updated 2026-06-14)
 
 ---
