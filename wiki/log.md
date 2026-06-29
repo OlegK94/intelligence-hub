@@ -2,6 +2,15 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-28 21:55] ingest | raw/raw/Doctolib /IMG_3279–3325.JPG (47 Screenshots)
+- Quelle: Doctolib-Praxissoftware-Demo-Account (Oleg Kober, intern) — vom origin/main Branch geholt
+- Erstellt: [[Doctolib Software Screenshots 2026-06]] (source) — vollständige UX-Modul-Inventur
+- 11 Kernmodule analysiert: Login/PIN, Terminkalender (Tag/Woche/Monat + Auslastung), Patientennavigator (Raum-Kanban), Aufgaben, Patientennachrichten + KI-Telefonassistent, Patientenmanagement, Dokumentenimport, Abrechnung (GKV/Privat/GOÄ), Patientenkarte/EHR, KI-Sprechstundenassistent (AI Scribe), KI-Abrechnungsvorschläge
+- Admin-Konsole erfasst: Vorlagen, Ziffernketten/Leistungsbündel, USt-ID, Diagnosen-Kodierregelwerk, Geräte/Labor-Schnittstellen (GDT/LDT), Auto-Dublettenmerge
+- 22 priorisierte Wagglz-Build-Learnings abgeleitet (GENAU-SO / KI-Differenziatoren / fehlende Module)
+- Hinweis: 207MB Roh-Bilder bleiben auf origin/main (nicht auf optimistic-cannon dupliziert)
+- Offen: „PetLeo"-Screenshots vom User erwähnt, aber NICHT im Repo auffindbar (nur Text-Entity [[Petleo]] vorhanden) — User muss Ordner noch pushen
+
 ## [2026-06-21] query | Vetera + DACH Veterinär-Software-Markt
 
 - Kernfakt: Vetera (1989, Eltville am Rhein) = DACH-Marktführer mit 18.000+ Nutzern
