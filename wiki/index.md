@@ -1,12 +1,12 @@
 ---
 title: Intelligence Hub — Wiki Index
 type: index
-updated: 2026-06-19
+updated: 2026-06-30
 ---
 
 # Intelligence Hub — Wiki Index
 
-Complete catalog of all wiki pages. Organized by category and subcategory. Updated after lint cleanup 2026-06-19.
+Complete catalog of all wiki pages. Organized by category and subcategory. Updated 2026-06-30: Wagglz Wireframes + VetSoftwareHub Ranking ingested; raw/ Ordnerstruktur bereinigt (raw/raw/ → raw/Doctolib/, raw/Business/AppDev/).
 
 ---
 
@@ -251,7 +251,9 @@ Complete catalog of all wiki pages. Organized by category and subcategory. Updat
 - [[Doctolib 2026 Source Detail]] — Source document for Doctolib GmbH salary 2026 — 6,300 € brutto/month + 364 € PKW-Sachbezug, 3,638.82 € netto; Q1 bonus 8,533 € brutto (updated 2026-06-12)
 - [[PetLeo App Screenshots 2026-06]] — PetLeo Tierhalter-App (mobile, petrol/türkis): digitale Patienten-Aufnahme mit DSGVO-Consent + EU-Heimtierausweis-Scan — direkte UX-Referenz für Wagglz' Tierhalter-Portal + E-Pet-Pass; Serie unvollständig (nur 2 Screens, Rest noch nicht gepusht) (updated 2026-06-29)
 - [[Provet Cloud + Vetera Screenshots 2026-06]] — Vollständiger Katalog der 113 Wettbewerber-Screenshots (Provet Cloud In-App-Produkt-Tour + Marketing + Pricing, Vetera Website) — jeder einzeln analysiert; bestätigt Provet/Vetera-Entities + 19 neue Wagglz-Learnings (Inventory, Labor/PACS, AI Scribe, Pay-by-Link, Pay-per-Vet) (updated 2026-06-28)
-- [[Doctolib Software Screenshots 2026-06]] — 47 Screenshots aus Olegs Doctolib-Demo-Account — vollständige UX-Modul-Inventur (Kalender, Patientennavigator-Raum-Kanban, KI-Telefonassistent, EHR, AI Scribe, GOÄ-Abrechnung, Settings) als direkte Wettbewerber-Referenz für Wagglz; 22 priorisierte Build-Learnings (updated 2026-06-28)
+- [[Doctolib Software Screenshots 2026-06]]
+- [[VetSoftwareHub Ranking LinkedIn 2026-06]] — LinkedIn-Post Adam Wysocki — Top-10 Suchanfragen VetSoftwareHub: Provet #1, Vetsource #2, Covetrus #3; Markt-Intelligenz für Wagglz-Positionierung (updated 2026-06-30)
+- [[Wagglz App Wireframes 2025]] — Frühe Wagglz-Wireframes (19 Assets): Onboarding-Wizard 6 Schritte, Marketing-Landing + Demo-Form, Kalender-Wireframe Feb 2025 + Referenzscreenshots (Fantastical, Defcon/Linear) (updated 2026-06-30) — 47 Screenshots aus Olegs Doctolib-Demo-Account — vollständige UX-Modul-Inventur (Kalender, Patientennavigator-Raum-Kanban, KI-Telefonassistent, EHR, AI Scribe, GOÄ-Abrechnung, Settings) als direkte Wettbewerber-Referenz für Wagglz; 22 priorisierte Build-Learnings (updated 2026-06-28)
 - [[DoktorLib Automation Pipeline Source Detail]] — Full source document for the DoktorLib Automation Pipeline — end-to-end automation of inbound lead Discovery & Onboarding (updated 2026-06-15)
 - [[ESt 2025 Source Detail]] — Source document for Einkommensteuer 2025 — GF-Gehalt ~30,000 €, ALG I ~8,400 € (Progressionsvorbehalt), Pflichtveranlagung §46 EStG (updated 2026-06-12)
 - [[Finance Monthly 2026-06 Source Detail]] — Erste Monatsübersicht Juni 2026 — strukturelles Jahresdefizit ~7.970 €, Fixkosten ~1.215 €/Mo, Consorsbank im Dispo (−1.405 €) (updated 2026-06-13)

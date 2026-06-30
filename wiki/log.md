@@ -2,6 +2,14 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-30] cleanup + ingest | raw/ Ordnerbereinigung + Wagglz Wireframes + VetSoftwareHub
+- **Cleanup raw/:** raw/raw/Doctolib/ → raw/Doctolib/, raw/raw/Business/AppDev/ → raw/Business/AppDev/, nested raw/raw/ entfernt
+- IMG_3342–3344 (LinkedIn-Screenshots) sortiert: IMG_3342 → raw/Business/Wagglz/Screenshots/ (VetSoftwareHub-Ranking), IMG_3343/3344 → raw/Privat/Performance/LinkedIn/ (Peptid-Post, performance-privat)
+- **Erstellt:** [[Wagglz App Wireframes 2025]] (source) — 19 Assets analysiert: Onboarding-Wizard (6 Schritte, Praxis/Klinik), Marketing-Landing + Demo-Form, Kalender-Wireframe Feb 2025 „Martin Musterman", Fantastical-Referenz (Sidebar-Inspiration bestätigt), Defcon-Kalender (Behandler-Spalten-Referenz)
+- **Erstellt:** [[VetSoftwareHub Ranking LinkedIn 2026-06]] (source) — Provet #1, Vetsource #2, ezyVet #5, PetDesk #8; Vetera fehlt (kein anglophoner Footprint); Wagglz DACH-Nische bestätigt
+- AppDev-Screenshots (raw/Business/AppDev/): 4 Doctolib-interne Ramp-up-Folien — nicht wiki-relevant, nur archiviert
+- **Index updated:** 2 neue Source-Einträge, Datum 2026-06-30
+
 ## [2026-06-29 00:10] ingest | PetLeo App (2 Screenshots, User-Upload)
 - Erkenntnis: petrol/türkise Mobile-Screenshots = PetLeo Tierhalter-App, NICHT Doctolib — waren im Kamera-Ordner gemischt, aber NICHT ins Repo gesynct
 - Verifiziert: alle 47 Dateien in raw/raw/Doctolib/ sind 5712×4284 Querformat (reine Doctolib-Desktop-Fotos); kein PetLeo-Bild in irgendeinem Branch
