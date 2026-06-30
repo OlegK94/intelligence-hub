@@ -1387,3 +1387,6 @@ Index updated with new Finance section entries (Finanz Rehabilitation Plan, OK C
 ## [2026-06-28 18:25 UTC] ingest | raw/raw/inbox/📥 Offene Actions.md
 - Pages: [[📥 Offene Actions — Inbox]], [[Hyrox — 10-Week Training Program]]
 - Ingested 📥 Offene Actions.md from raw/inbox/; created/updated 3 wiki pages: action inbox source, Hyrox training entity, and updated index with performance/business/personal categories.
+
+## 2026-06-30
+- **Diligence v1: Wagglz Markt- & Wettbewerbsanalyse** erstellt (`outputs/2026-06-30-wagglz-marktanalyse.html` + Notiz). Web-Recherche: DE 10.428 Praxen, EU-Markt $483M→$987M (CAGR 12,7%), TAM DE ~€31M / SAM ~€16M / SOM 3J €0,16–0,49M ARR. Pricing-Benchmark 6 Anbieter (Provet €99–159/Vet, VetPraxis €139 flat). Befund: White-Space-These "PMS+App+KI integriert" teilweise widerlegt (VetPraxis+Provet). Verdikt: kein Re-Invest vor 3 Go-Kriterien; nächster Schritt 5 Praxis-Gespräche statt Code.

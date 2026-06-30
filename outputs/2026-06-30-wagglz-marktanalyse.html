@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wagglz — Markt- & Wettbewerbsanalyse DE Vet-Software</title>
+<style>
+  :root {
+    --bg: #F5F5F7;
+    --card: #FFFFFF;
+    --ink: #1D1D1F;
+    --muted: #6E6E73;
+    --accent: #0071E3;
+    --green: #34C759;
+    --amber: #FF9F0A;
+    --red: #FF3B30;
+    --line: #E5E5EA;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 64px 32px 96px; }
+  .eyebrow { color: var(--accent); font-weight: 600; font-size: 15px; letter-spacing: .02em; text-transform: uppercase; }
+  h1 { font-size: 48px; font-weight: 700; letter-spacing: -0.02em; margin: 10px 0 8px; line-height: 1.08; }
+  .sub { color: var(--muted); font-size: 19px; max-width: 640px; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 16px; }
+  section { margin-top: 56px; }
+  h2 { font-size: 13px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 18px; }
+  .card { background: var(--card); border-radius: 20px; padding: 32px; box-shadow: 0 1px 3px rgba(0,0,0,.04); }
+  .banner { background: linear-gradient(135deg,#FFF4F3,#FFEAE8); border: 1px solid #FFD4CF; border-radius: 20px; padding: 28px 32px; }
+  .banner .tag { display:inline-block; background: var(--red); color:#fff; font-size:12px; font-weight:700; padding:4px 12px; border-radius:999px; letter-spacing:.04em; }
+  .banner h3 { font-size: 22px; font-weight: 700; margin: 14px 0 8px; }
+  .banner p { color:#5a3a37; font-size:16px; max-width: 760px; }
+  .grid3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 20px; }
+  .grid2 { display: grid; grid-template-columns: repeat(2,1fr); gap: 20px; }
+  .stat .big { font-size: 52px; font-weight: 700; letter-spacing: -0.03em; }
+  .stat .lbl { color: var(--muted); font-size: 15px; margin-top: 4px; }
+  .stat .note { color: var(--muted); font-size: 13px; margin-top: 10px; }
+  .accent { color: var(--accent); }
+  .funnel { display:flex; flex-direction:column; gap:12px; }
+  .funnel .row { display:flex; align-items:center; gap:20px; }
+  .funnel .bar { height: 64px; border-radius: 14px; display:flex; align-items:center; padding: 0 24px; color:#fff; font-weight:600; }
+  .funnel .desc { color: var(--muted); font-size: 14px; flex:1; }
+  table { width:100%; border-collapse: collapse; font-size: 14.5px; }
+  th, td { text-align:left; padding: 13px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); font-weight:600; }
+  tr:last-child td { border-bottom: none; }
+  .pill { display:inline-block; font-size:12px; font-weight:600; padding:3px 10px; border-radius:999px; }
+  .p-pms { background:#E8F0FE; color:#1a56db; }
+  .p-app { background:#E6F7EC; color:#0a7d33; }
+  .p-ai  { background:#F3E8FF; color:#7e22ce; }
+  .p-book{ background:#FFF4E0; color:#b45309; }
+  .dot { font-weight:700; }
+  .g { color: var(--green); } .a { color: var(--amber); } .r { color: var(--red); }
+  .matrix td.s { text-align:center; font-weight:700; font-size:16px; }
+  .takeaway { background: #F0F7FF; border-left: 4px solid var(--accent); border-radius: 0 12px 12px 0; padding: 18px 22px; margin-top: 18px; font-size: 15.5px; }
+  .verdict { background: #1D1D1F; color:#fff; border-radius: 24px; padding: 40px; }
+  .verdict h3 { font-size: 26px; font-weight:700; margin-bottom: 16px; letter-spacing:-0.01em; }
+  .verdict ul { list-style:none; display:flex; flex-direction:column; gap:14px; margin-top: 8px; }
+  .verdict li { display:flex; gap:14px; font-size:16px; color:#D1D1D6; }
+  .verdict li b { color:#fff; }
+  .verdict .num { color: var(--accent); font-weight:700; min-width: 28px; }
+  .src { font-size: 12.5px; color: var(--muted); }
+  .src a { color: var(--muted); }
+  ul.clean { list-style:none; display:flex; flex-direction:column; gap:10px; }
+  ul.clean li { padding-left: 22px; position:relative; font-size:15px; }
+  ul.clean li:before { content:"›"; position:absolute; left:0; color:var(--accent); font-weight:700; }
+  @media (max-width: 760px){ .grid3,.grid2{grid-template-columns:1fr;} h1{font-size:34px;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow">Investment-Grade Diligence · Intelligence Hub</div>
+  <h1>Wagglz — Markt &amp; Wettbewerb</h1>
+  <p class="sub">Deutscher Veterinär-Software-Markt. Markt-Sizing, Pricing-Benchmark und White-Space-Analyse als Entscheidungsgrundlage für Fortführung vs. Liquidation.</p>
+  <p class="meta">Stichtag 30. Juni 2026 · Quellen: BTK 2025, Grand View / Wissen Research, Anbieter-Websites, Provet-Produkttour (113 Screenshots) · Status: Datenstand v1, vor Primärinterviews</p>
+
+  <!-- GATING -->
+  <section>
+    <div class="banner">
+      <span class="tag">GATING-ISSUE</span>
+      <h3>Die Analyse läuft gegen eine überschuldete Bilanz</h3>
+      <p>Wagglz GmbH ist nach §19 InsO überschuldet (Fehlbetrag €27.926,89, <b>€0 Umsatz seit Januar 2026</b>, Rangrücktritt §15a InsO unsigniert). Diese Marktanalyse ist daher kein Produkt-Briefing, sondern die Faktenbasis für eine Kapitalallokations-Entscheidung. Jede Zahl unten ist gegen die Frage zu lesen: <i>Rechtfertigt der Markt weiteres Eigenkapital?</i></p>
+    </div>
+  </section>
+
+  <!-- MARKT SIZING -->
+  <section>
+    <h2>1 · Markt-Sizing — Deutschland Vet-PMS</h2>
+    <div class="card">
+      <div class="funnel">
+        <div class="row">
+          <div class="bar" style="background:#0071E3; width:100%;">TAM · ~€31 Mio./Jahr</div>
+          <div class="desc"><b>Total Addressable Market.</b> 10.428 Tierarztpraxen DE × ø €250/Praxis/Monat. Entspricht ~11 % des EU-PMS-Markts.</div>
+        </div>
+        <div class="row">
+          <div class="bar" style="background:#3491E8; width:64%;">SAM · ~€16 Mio./Jahr</div>
+          <div class="desc"><b>Serviceable.</b> 5.402 Kleintier-Praxen (51,8 %) — das realistisch adressierbare Segment für eine cloud-/KI-Lösung.</div>
+        </div>
+        <div class="row">
+          <div class="bar" style="background:#7DB8F0; width:30%;">SOM · €0,16–0,49 Mio. ARR</div>
+          <div class="desc"><b>Obtainable (3 Jahre).</b> 1–3 % der SAM = 54–162 Praxen. Das ist die <i>obere</i> Kante gegen drei etablierte Marktführer.</div>
+        </div>
+      </div>
+      <div class="grid3" style="margin-top:28px;">
+        <div class="stat"><div class="big">€987M</div><div class="lbl">EU-Vet-Software-Markt 2030</div><div class="note">von $483M (2024), <span class="accent">CAGR 12,7 %</span></div></div>
+        <div class="stat"><div class="big">10.428</div><div class="lbl">Tierarztpraxen Deutschland</div><div class="note">Niedergelassene rückläufig (11.216)</div></div>
+        <div class="stat"><div class="big">66,7%</div><div class="lbl">des Markts ist PMS</div><div class="note">größtes Software-Segment</div></div>
+      </div>
+      <div class="takeaway"><b>Befund:</b> Der Markt <b>wächst zweistellig</b>, ist aber in DE absolut <b>klein</b> (~€31M TAM) und konsolidiert. Selbst ein Erfolgsszenario (3 % SAM) bringt nur ~€0,5M ARR — genug für ein Lifestyle-/Bootstrap-Business, zu klein für eine kapitalintensive VC-Story.</div>
+    </div>
+  </section>
+
+  <!-- WETTBEWERB -->
+  <section>
+    <h2>2 · Wettbewerbs- &amp; Pricing-Benchmark</h2>
+    <div class="card">
+      <table>
+        <thead><tr><th>Anbieter</th><th>Segment</th><th>Pricing</th><th>Stärke / Stellung</th></tr></thead>
+        <tbody>
+          <tr><td><b>easyVET</b> (VetZ)</td><td><span class="pill p-pms">PMS</span></td><td>Auf Anfrage<br><span class="src">kaufen/mieten/leasen</span></td><td><b>DACH-Marktführer.</b> 31 J., 114.000 Nutzer, 24/7-Support</td></tr>
+          <tr><td><b>Vetera</b> (Nordhealth)</td><td><span class="pill p-pms">PMS</span></td><td>Auf Anfrage<br><span class="src">pro Arbeitsplatz-Lizenz</span></td><td>DACH-etabliert, Vor-Ort-Schulung, PACS, Labor</td></tr>
+          <tr><td><b>Provet Cloud</b> (Nordhealth)</td><td><span class="pill p-pms">PMS</span> <span class="pill p-ai">KI</span></td><td><b>€99–159</b>/Vet/Mo<br><span class="src">+ Plattformgebühr</span></td><td><b>EU #1.</b> 2.900 Kliniken, AI Scribe, Discharge, Triage</td></tr>
+          <tr><td><b>VetPraxis</b></td><td><span class="pill p-pms">PMS</span> <span class="pill p-app">Tierhalter-App</span> <span class="pill p-book">Booking</span></td><td><b>€139</b>/Praxis/Mo flat<br><span class="src">App inklusive</span></td><td><b>Bündelt bereits PMS+App+Wartezimmer+Chat+Zahlung</b></td></tr>
+          <tr><td><b>Voisa AI</b></td><td><span class="pill p-ai">KI</span></td><td><b>€59–299</b>/Mo</td><td>Einziger dedizierter KI-Telefonassistent DE</td></tr>
+          <tr><td><b>Vetnio</b></td><td><span class="pill p-pms">PMS</span> <span class="pill p-ai">KI</span></td><td>Auf Anfrage</td><td>KI-Doku, integriert mit Provet</td></tr>
+          <tr><td>easyVET · Vetstoria · Petleo · PetsXL · VetPal · Manta · Tierärzteatlas</td><td colspan="3"><span class="src">Weitere 7 Anbieter in Booking / Tierhalter-App / Directory — siehe Wiki „Wagglz Wettbewerber" (13 gesamt).</span></td></tr>
+        </tbody>
+      </table>
+      <div class="takeaway"><b>Strukturbefund:</b> Nordhealth konsolidiert (Vetera + Provet + Vetstoria = 3 der 13). KI-Scribe ist als globaler Markt bereits da (<span class="src">12 Tools, $40–450/Mo</span>) — also <b>kein dauerhafter Wagglz-Burggraben</b>, sondern ein Feature, das Provet/Vetnio schon liefern.</div>
+    </div>
+  </section>
+
+  <!-- WHITE SPACE -->
+  <section>
+    <h2>3 · White-Space — wo ist die echte Lücke?</h2>
+    <div class="card">
+      <table class="matrix">
+        <thead><tr><th>Fähigkeit</th><th>easyVET</th><th>Vetera</th><th>Provet</th><th>VetPraxis</th><th>Wagglz</th></tr></thead>
+        <tbody>
+          <tr><td>PMS-Kern (Kalender, Akte, GOT)</td><td class="s g">✓</td><td class="s g">✓</td><td class="s g">✓</td><td class="s g">✓</td><td class="s g">✓</td></tr>
+          <tr><td>Tierhalter-App / Portal</td><td class="s a">~</td><td class="s r">✕</td><td class="s a">~</td><td class="s g">✓</td><td class="s g">✓</td></tr>
+          <tr><td>Digitales Wartezimmer</td><td class="s r">✕</td><td class="s r">✕</td><td class="s g">✓</td><td class="s g">✓</td><td class="s g">✓</td></tr>
+          <tr><td>KI-Scribe → SOAP</td><td class="s r">✕</td><td class="s r">✕</td><td class="s g">✓</td><td class="s r">✕</td><td class="s g">✓</td></tr>
+          <tr><td>KI-Entlassungsbrief</td><td class="s r">✕</td><td class="s r">✕</td><td class="s g">✓</td><td class="s r">✕</td><td class="s g">✓</td></tr>
+          <tr><td>Modernes UX / Cloud-nativ</td><td class="s a">~</td><td class="s a">~</td><td class="s g">✓</td><td class="s g">✓</td><td class="s g">✓</td></tr>
+          <tr><td>DE-nativ + DSGVO/TÄHAV/GOT</td><td class="s g">✓</td><td class="s g">✓</td><td class="s a">~</td><td class="s g">✓</td><td class="s g">✓</td></tr>
+          <tr><td>Etablierung / Support / Trust</td><td class="s g">✓</td><td class="s g">✓</td><td class="s g">✓</td><td class="s a">~</td><td class="s r">✕</td></tr>
+        </tbody>
+      </table>
+      <div class="takeaway"><b>Die ehrliche Korrektur:</b> Die im Vault angenommene Lücke „kein Anbieter integriert PMS+App+KI" stimmt <b>nicht ganz</b> — <b>VetPraxis</b> bündelt PMS+App+Wartezimmer für €139 flat, <b>Provet</b> liefert die komplette KI-Suite. Wagglz' einzig verteidigbare Restnische: <b>„DE-natives, modernes Bündel aus Tierhalter-App + voller KI-Suite zum Flat-Preis"</b> — eine Kombination, die heute keiner <i>exakt</i> hat, die aber jeder Wettbewerber in 6–12 Monaten schließen kann. Der fehlende Faktor ist nicht Technik, sondern <b>Etablierung/Vertrauen (rotes ✕)</b>.</div>
+    </div>
+  </section>
+
+  <!-- USP -->
+  <section>
+    <h2>4 · USP-These (belegbar) vs. Realität</h2>
+    <div class="grid2">
+      <div class="card">
+        <h3 style="font-size:18px;margin-bottom:14px;">Verteidigbare USP-Kandidaten</h3>
+        <ul class="clean">
+          <li><b>DE-natives KI-Bündel:</b> Tierhalter-App + Scribe + Entlassungsbrief, GOT/TÄHAV-konform, Frankfurt-Hosting — als <i>integriertes</i> Flat-Produkt.</li>
+          <li><b>Preis-Transparenz:</b> Marktführer verstecken Preise („auf Anfrage"). Öffentliche Flat-Rate wäre echtes Differenzierungssignal (wie VetPraxis €139).</li>
+          <li><b>UX-Vorsprung:</b> Personio/Sportina-Designsprache vs. legacy easyVET/Vetera.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3 style="font-size:18px;margin-bottom:14px;">Warum das (noch) kein Burggraben ist</h3>
+        <ul class="clean">
+          <li><b>Kein Daten-/Netzwerk-Effekt:</b> nichts, was mit Nutzerzahl schwerer kopierbar wird.</li>
+          <li><b>KI ist Commodity:</b> Scribe gibt es ab $40/Mo von 12 Anbietern.</li>
+          <li><b>Switching-Kosten schützen die Gegner:</b> Praxen wechseln PMS ungern — das hält <i>Wagglz draußen</i>, nicht drin.</li>
+          <li><b>Vertrieb &gt; Produkt:</b> easyVET gewinnt mit 24/7-Support &amp; 31 J. Vertrauen, nicht mit Features.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- VERDICT -->
+  <section>
+    <h2>5 · Verdikt &amp; Go/No-Go-Kriterien</h2>
+    <div class="verdict">
+      <h3>Investment-These: „Gutes Produkt, kleiner Markt, kein Beweis — noch kein Re-Invest."</h3>
+      <p style="color:#D1D1D6; max-width:760px;">Der Markt wächst, ist aber klein und von etablierten DACH-Anbietern besetzt. Wagglz hat ~70 % Produktreife, aber <b style="color:#fff;">0 % Markt-Validierung und eine insolvente Hülle</b>. Weiteres Kapital ist erst gerechtfertigt, wenn drei Schwellen <i>fremdvalidiert</i> erreicht sind:</p>
+      <ul>
+        <li><span class="num">1</span><span><b>Nachfrage-Beweis:</b> ≥ 3 von 5 angesprochenen Praxen sagen verbindlich „würde wechseln/pilotieren". <i>Sonst → Liquidation prüfen (§17 EStG).</i></span></li>
+        <li><span class="num">2</span><span><b>Zahlungsbereitschaft:</b> ≥ 1 Praxis akzeptiert €100–150/Mo schriftlich (LOI / Pilot-Vertrag).</span></li>
+        <li><span class="num">3</span><span><b>Kapital-Klärung:</b> Rangrücktritt §15a InsO unterschrieben <b style="color:#fff;">oder</b> bewusste Liquidations-Entscheidung — bevor weitere Gesellschafterdarlehen fließen.</span></li>
+      </ul>
+      <p style="color:#86868B; font-size:13.5px; margin-top:22px;">Nächster Schritt ist <b style="color:#fff;">kein Code</b>, sondern 5 Praxis-Gespräche. Das ist der billigste Test der teuersten Unsicherheit.</p>
+    </div>
+  </section>
+
+  <!-- SOURCES -->
+  <section>
+    <h2>Quellen</h2>
+    <p class="src">
+      Bundestierärztekammer Statistik 2025 · Grand View Research „Europe Veterinary Software Market" · Wissen Research (CAGR 8–12,7 %) · vetera.net · vetz.de (easyVET) · vetpraxis.de (€139 flat) · provet.com Pricing &amp; Produkttour (113 Screenshots, raw/Archiv) · voisa.ai · vetsoftwarehub.com (AI-Scribe-Pricing 2026) · Vault: <i>Wagglz Wettbewerber</i>, <i>Wagglz GmbH Insolvenzstatus Juni 2026</i>.
+    </p>
+  </section>
+
+</div>
+</body>
+</html>
