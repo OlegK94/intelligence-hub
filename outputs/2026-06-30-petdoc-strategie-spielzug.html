@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PetDoc — Was es für uns bedeutet & wie Wagglz gewinnt</title>
+<style>
+  :root{
+    --bg:#F5F5F7; --card:#fff; --ink:#1D1D1F; --muted:#6E6E73; --accent:#0071E3;
+    --green:#34C759; --amber:#FF9F0A; --red:#FF3B30; --purple:#7E57F0; --line:#E5E5EA;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","SF Pro Text","Helvetica Neue",Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1100px;margin:0 auto;padding:64px 32px 100px;}
+  .eyebrow{color:var(--accent);font-weight:600;font-size:15px;letter-spacing:.02em;text-transform:uppercase;}
+  h1{font-size:46px;font-weight:700;letter-spacing:-0.02em;margin:10px 0 10px;line-height:1.08;}
+  .sub{color:var(--muted);font-size:20px;max-width:720px;}
+  .meta{color:var(--muted);font-size:13px;margin-top:16px;}
+  section{margin-top:60px;}
+  h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:20px;}
+  .card{background:var(--card);border-radius:20px;padding:30px;box-shadow:0 1px 3px rgba(0,0,0,.04);}
+  .lead{background:#1D1D1F;color:#fff;border-radius:24px;padding:40px;}
+  .lead h3{font-size:28px;font-weight:700;letter-spacing:-0.01em;margin-bottom:14px;line-height:1.2;}
+  .lead p{color:#D1D1D6;font-size:17px;max-width:820px;}
+  .lead .hl{color:#fff;font-weight:600;}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;}
+  .stat .big{font-size:46px;font-weight:700;letter-spacing:-0.03em;}
+  .stat .lbl{color:var(--muted);font-size:14.5px;margin-top:4px;}
+  .stat .note{color:var(--muted);font-size:13px;margin-top:10px;}
+  .accent{color:var(--accent);} .pur{color:var(--purple);}
+  .funnel{display:flex;flex-direction:column;gap:12px;}
+  .funnel .row{display:flex;align-items:center;gap:20px;}
+  .funnel .bar{height:62px;border-radius:14px;display:flex;align-items:center;padding:0 22px;color:#fff;font-weight:600;font-size:15px;}
+  .funnel .desc{color:var(--muted);font-size:14px;flex:1;}
+  .move{display:flex;gap:22px;align-items:flex-start;padding:24px 0;border-bottom:1px solid var(--line);}
+  .move:last-child{border-bottom:none;}
+  .move .n{flex:none;width:48px;height:48px;border-radius:14px;background:var(--accent);color:#fff;font-size:22px;font-weight:700;display:flex;align-items:center;justify-content:center;}
+  .move .n.p2{background:var(--purple);} .move .n.p3{background:var(--green);} .move .n.p4{background:#1D1D1F;}
+  .move h4{font-size:19px;font-weight:700;margin-bottom:6px;}
+  .move p{color:var(--muted);font-size:15px;}
+  .move .tag{display:inline-block;font-size:11.5px;font-weight:600;padding:3px 10px;border-radius:999px;background:#F0F7FF;color:var(--accent);margin-top:10px;}
+  table{width:100%;border-collapse:collapse;font-size:14.5px;}
+  th,td{text-align:left;padding:13px 14px;border-bottom:1px solid var(--line);vertical-align:top;}
+  th{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);font-weight:600;}
+  tr:last-child td{border-bottom:none;}
+  td.r{text-align:right;font-weight:600;}
+  .shopcard{background:linear-gradient(135deg,#F3EEFF,#EDE6FF);border:1px solid #E0D4FF;border-radius:20px;padding:30px;}
+  .shopcard .tag{display:inline-block;background:var(--purple);color:#fff;font-size:12px;font-weight:700;padding:4px 12px;border-radius:999px;letter-spacing:.03em;}
+  .shopcard h3{font-size:22px;font-weight:700;margin:14px 0 8px;}
+  ul.clean{list-style:none;display:flex;flex-direction:column;gap:11px;}
+  ul.clean li{padding-left:24px;position:relative;font-size:15px;}
+  ul.clean li:before{content:"›";position:absolute;left:0;color:var(--accent);font-weight:700;}
+  ul.clean.pur li:before{color:var(--purple);}
+  ul.warn li:before{content:"!";color:var(--red);font-weight:700;}
+  .takeaway{background:#F0F7FF;border-left:4px solid var(--accent);border-radius:0 12px 12px 0;padding:18px 22px;margin-top:20px;font-size:15.5px;}
+  .warnbox{background:#FFF4F3;border-left:4px solid var(--red);border-radius:0 12px 12px 0;padding:18px 22px;margin-top:20px;font-size:15px;color:#5a3a37;}
+  .gates{display:flex;flex-direction:column;gap:14px;}
+  .gate{display:flex;gap:16px;align-items:flex-start;}
+  .gate .num{color:var(--accent);font-weight:700;font-size:20px;min-width:30px;}
+  .gate b{display:block;font-size:16px;}
+  .gate span{color:var(--muted);font-size:14.5px;}
+  @media(max-width:780px){.grid3,.grid2{grid-template-columns:1fr;}h1{font-size:32px;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="eyebrow">Strategie-Synthese · Intelligence Hub</div>
+  <h1>Was es für uns bedeutet — und wie Wagglz gewinnt</h1>
+  <p class="sub">Aus der Marktanalyse abgeleitet: der eine strategische Schluss, der Spielzug in 4 Zügen, und was der geplante In-App-Shop verändert.</p>
+  <p class="meta">30. Juni 2026 · Basis: PetDoc-Strategiedokument (kanonisch) · Tonalität: ungeschönt</p>
+
+  <!-- LEAD -->
+  <section>
+    <div class="lead">
+      <h3>Wir bauen kein €31-Mio.-Software-Tool. Wir bauen das Betriebssystem, das die €-Ströme des Haustiermarkts besteuert.</h3>
+      <p>Der reine Vet-Software-Markt in DE ist klein (<span class="hl">~€31 Mio. TAM</span>) — als Software-Verkäufer bleiben wir Nischen-Anbieter gegen etablierte Gegner. Der Hebel ist ein anderer: Wer das <span class="hl">System-of-Record</span> der Praxis besitzt (Akte + Kalender + Telefonie) und den Halter über die App koppelt, sitzt an der Schaltstelle für Behandlung, Diagnostik, <span class="hl">Apotheke/Shop</span>, Telemedizin und Versicherung — Ströme im <span class="hl">Milliarden-Bereich</span>. Der In-App-Shop ist genau die Brücke vom kleinen Software-Topf in den großen Konsumgüter-Topf.</p>
+    </div>
+  </section>
+
+  <!-- ZWEI TÖPFE -->
+  <section>
+    <h2>1 · Was es bedeutet — die zwei Geldtöpfe</h2>
+    <div class="card">
+      <div class="grid3">
+        <div class="stat"><div class="big">€31M</div><div class="lbl">Vet-Software-TAM (DE/Jahr)</div><div class="note">unser „kleiner" Topf — hart umkämpft</div></div>
+        <div class="stat"><div class="big accent">€7 Mrd.</div><div class="lbl">Heimtiermarkt (Futter/Zubehör)</div><div class="note">der „große" Topf — Shop-Brücke</div></div>
+        <div class="stat"><div class="big pur">34,3M</div><div class="lbl">Heimtiere · 43 % der Haushalte</div><div class="note">B2C-Reichweite über die Praxen</div></div>
+      </div>
+      <div class="takeaway"><b>Die Erkenntnis:</b> Software allein ist die <i>Eintrittskarte</i>, nicht das Geschäft. Das Geschäft ist, als vertrauenswürdige Schaltstelle einen kleinen Prozentsatz der wiederkehrenden €-Ströme (Shop, Telemedizin, Versicherung, Diagnostik) zu nehmen — etwas, das nur funktioniert, <b>wenn man Praxis UND Halter auf einem Daten-Graphen besitzt.</b></div>
+    </div>
+  </section>
+
+  <!-- SPIELZUG -->
+  <section>
+    <h2>2 · Wie Wagglz gewinnt — der Spielzug in 4 Zügen</h2>
+    <div class="card">
+      <div class="move">
+        <div class="n">1</div>
+        <div>
+          <h4>Beachhead: KI-Telefonie als trojanisches Pferd</h4>
+          <p>Nicht „besseres PMS" verkaufen (zu schwach gegen Wechselangst), sondern den autarken, sofort spürbaren ROI der KI-Telefonassistenz: <b>~90 Min TFA-Zeit/Tag (~€700/Mo) + zurückgewonnene Termine.</b> Läuft parallel zum Altsystem — kein riskanter Umzug. Der Arzt kauft Entlastung, nicht ein Versprechen.</p>
+          <span class="tag">Öffnet die Tür · ROI ab Tag 1</span>
+        </div>
+      </div>
+      <div class="move">
+        <div class="n p2">2</div>
+        <div>
+          <h4>Kopplung: Praxis bringt ihre Halter in die App</h4>
+          <p>Sobald die Praxis das System nutzt, schickt sie ihre <b>bestehenden</b> Kunden per SMS/Checkout in die B2C-App (Buchung, digitale Akte, Befunde). Die Ärzte holen die B2C-Nutzer <b>kostenlos</b> auf die Plattform — €0 Cold-Marketing. Das ist der Henne-Ei-Knack.</p>
+          <span class="tag">Land-and-Expand · Netzwerk füllt sich</span>
+        </div>
+      </div>
+      <div class="move">
+        <div class="n p3">3</div>
+        <div>
+          <h4>Lock-in: das System-of-Record schließt sich</h4>
+          <p>Volle Praxissteuerung (Finanzen, Apotheke, Akten, Telefonie) + Halter auf <b>einem</b> Daten-Graphen → zwei-seitiger Netzwerkeffekt, den keine reine Marktplatz-App kopieren kann. Native KI lernt die Behandlungsmuster des Arztes → Wechsel wird teurer mit jedem Tag.</p>
+          <span class="tag">Moat · strukturell niedriger Churn</span>
+        </div>
+      </div>
+      <div class="move">
+        <div class="n p4">4</div>
+        <div>
+          <h4>Monetarisierung der Ströme: Shop, Telemedizin, Versicherung</h4>
+          <p>Erst jetzt — mit Praxis- und Halter-Vertrauen — werden die €-Ströme angezapft: <b>In-App-Shop</b> (Futter, Parasitenschutz, vom Arzt empfohlene Produkte, Auto-Nachbestellung), Telemedizin-Provision, Versicherungs-Integration. Das hebt uns vom €31M-Software- in den Mrd.-Konsumgüter-Topf.</p>
+          <span class="tag">Vom Tool zum Ökosystem</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SHOP -->
+  <section>
+    <h2>3 · Der In-App-Shop — strategisch eingeordnet</h2>
+    <div class="shopcard">
+      <span class="tag">GEPLANTES FEATURE</span>
+      <h3>Warum der Shop mehr ist als ein Add-on — er ist die Brücke in den großen Topf</h3>
+      <div class="grid2" style="margin-top:18px;">
+        <div>
+          <ul class="clean pur">
+            <li><b>Löst das B2C-Retention-Problem.</b> Der Tierarztbesuch ist 1–2×/Jahr — zu selten. Wiederkehrende Nachbestellung (Futter, Zecken-/Wurmschutz) macht aus der „Jahres-App" eine <b>monatlich genutzte</b> Utility.</li>
+            <li><b>Dritte Umsatzsäule.</b> Neben B2B-SaaS (Engine) und B2C-Premium kommt Produktmarge / Marktplatz-Take-Rate — wiederkehrend, skaliert mit aktiven Tieren.</li>
+            <li><b>Nutzt das Dispensierrecht.</b> Über die Praxis verkaufte, tierärztlich empfohlene oder verschreibungspflichtige Produkte (Parasitika, Diätfutter) — ein Kanal, den Amazon/Zooplus <b>nicht</b> haben.</li>
+          </ul>
+        </div>
+        <div>
+          <ul class="clean warn">
+            <li><b>Nicht gegen Zooplus/Fressnapf/Amazon auf Commodity kämpfen.</b> Bei Standard-Trockenfutter verlieren wir auf Preis & Logistik. Margen brutal, Fulfillment kapitalintensiv.</li>
+            <li><b>Gewinnen über den Vertrauens-Kanal:</b> „Dr. X empfiehlt dieses Produkt für Bello" + Auto-Reorder + direkt in der Akte verknüpft. Verschreibungsgebunden statt Preiskampf.</li>
+            <li><b>Reihenfolge beachten:</b> Shop ist <b>Zug 4</b>, nicht Zug 1. Ohne Praxis-/Halter-Basis ist er ein leerer Marktplatz.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="warnbox"><b>Ungeschönt:</b> Der Shop ist ein exzellenter <i>Verstärker</i> des Moats und der Retention — aber <b>kein eigenständiger Beachhead</b>. Wer mit dem Shop startet, baut einen leeren Laden. Zuerst die Infrastruktur (Zug 1–3), dann der Shop als Monetarisierung des bereits gewonnenen Vertrauens.</div>
+    </div>
+  </section>
+
+  <!-- REVENUE STACK -->
+  <section>
+    <h2>4 · Die Umsatz-Architektur (3 Säulen)</h2>
+    <div class="card">
+      <table>
+        <thead><tr><th>Säule</th><th>Modell</th><th>Funktion</th><th class="r">Charakter</th></tr></thead>
+        <tbody>
+          <tr><td><b>B2B-SaaS</b> (PMS + KI)</td><td>€149–249/Mo Base + KI-Telefonie €99 + Doku €49/Arzt</td><td>Die <b>Engine</b> — vorhersagbare MRR, trägt die Firma</td><td class="r accent">planbar</td></tr>
+          <tr><td><b>B2C</b> (Premium + Telemed)</td><td>Freemium → €4,99/Mo + 15–20 % Telemedizin-Provision</td><td>Der <b>Moat</b> + billige Akquise, nicht Hauptumsatz</td><td class="r pur">bindend</td></tr>
+          <tr><td><b>Ökosystem-Ströme</b> (Shop, Versicherung)</td><td>Produktmarge / Take-Rate + Versicherungs-Vermittlung</td><td>Der <b>Skalen-Hebel</b> — Zugang zum €7-Mrd.-Topf</td><td class="r" style="color:var(--green)">skalierend</td></tr>
+        </tbody>
+      </table>
+      <div class="takeaway"><b>Logik:</b> B2B finanziert die Existenz, B2C bindet, das Ökosystem (Shop) skaliert den Wert pro aktivem Tier. Jede Säule ist nur möglich, weil die vorige existiert — <b>keine ist als kalter Start tragfähig.</b></div>
+    </div>
+  </section>
+
+  <!-- REALITAET -->
+  <section>
+    <h2>5 · Was wahr sein muss (der ehrliche Teil)</h2>
+    <div class="grid2">
+      <div class="card">
+        <h4 style="font-size:18px;margin-bottom:14px;">Unsere Startvorteile</h4>
+        <ul class="clean">
+          <li><b>~70 % gebaut:</b> PMS, Wartezimmer, KI-Scribe, Discharge, Portal, Compliance (GOT/DSGVO/Frankfurt) stehen.</li>
+          <li><b>Compliance-Fundament</b> (GoBD-Logik, Soft-Delete, RLS, Human-in-Loop) — seltener Vorsprung vs. Greenfield.</li>
+          <li><b>Klarer, präziser White Space:</b> native KI + PMS + gekoppelte B2C — diese Integration hat heute niemand.</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h4 style="font-size:18px;margin-bottom:14px;">Die brutale Gegenseite</h4>
+        <ul class="clean warn">
+          <li><b>Beachhead fehlt:</b> die KI-Telefonie — Zug 1 — ist <b>noch nicht gebaut</b> und in DE bereits umkämpft (Voisa, Manta, VetFox).</li>
+          <li><b>Insolvente Hülle:</b> Wagglz GmbH §19 InsO, €0 Umsatz — keine Kapitalbasis für einen 3-Fronten-Krieg.</li>
+          <li><b>12–18-Monats-Fenster:</b> Nordhealth & IDEXX können den Stack zusammenbauen. Der Moat ist <b>Ausführungstempo</b>, keine leere Nische.</li>
+          <li><b>Vertrieb schlägt Produkt:</b> easyVET gewinnt mit 31 J. Vertrauen + 24/7-Support, nicht mit Features.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEXT -->
+  <section>
+    <h2>6 · Der nächste Schritt — kein Code</h2>
+    <div class="lead">
+      <h3>Bevor ein Euro in KI-Telefonie oder Shop fließt: drei Gates.</h3>
+      <div class="gates" style="margin-top:22px;">
+        <div class="gate"><span class="num">1</span><div><b>Nachfrage-Beweis</b><span>5 Praxis-Gespräche: Bewegt der native KI-Telefonie→Kalender-ROI sie zum Pilotieren? ≥ 3/5 „ja, verbindlich" — sonst Liquidation prüfen.</span></div></div>
+        <div class="gate"><span class="num">2</span><div><b>Zahlungsbereitschaft</b><span>≥ 1 Praxis akzeptiert €150–250/Mo schriftlich (LOI/Pilot) — der Realitätstest gegen „nettes Feedback".</span></div></div>
+        <div class="gate"><span class="num">3</span><div><b>Kapital-/Insolvenz-Klärung</b><span>Rangrücktritt §15a InsO unterschrieben <b>oder</b> bewusste Liquidation — bevor weiteres Eigenkapital fließt.</span></div></div>
+      </div>
+      <p style="color:#86868B;font-size:13.5px;margin-top:24px;">Diese drei Gates testen die teuerste Annahme (will der Markt das + zahlt er?) für <b style="color:#fff;">€0</b>. Erst bei Grün: KI-Telefonie nativ bauen (Beachhead), dann koppeln, dann Shop.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="meta">Quelle: PetDoc-Strategiedokument (kanonisch, faktenkorrigiert) · outputs/notes/2026-06-30-petdoc-strategiedokument-final.md · Marktdaten: ZZF/IVH, BTK, GOT 2022, Grand View/Wissen Research, Anbieter-Recherche.</p>
+  </section>
+
+</div>
+</body>
+</html>
