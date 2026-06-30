@@ -1,29 +1,44 @@
 # raw/ — Quellen (immutable nach Ingest)
 
+## ⬇️ NEU ABLEGEN → `inbox/`
+
+Alles was du analysieren oder ins Wiki aufnehmen willst kommt in **`inbox/`**.
+Claude verteilt es dann automatisch in die richtige Unterstruktur.
+
+---
+
+## Struktur nach dem Ingest
+
 ```
 raw/
-├── inbox/              # Neue Notizen → hier ablegen, dann ingest
-├── assets/             # Bilder & Anhänge
-├── data/               # CSV/Exports (Wearables, etc.)
-├── MOC/                # Vault-Home
+├── 📥 inbox/           ← EINGANG — hier alles reinwerfen
 │
-├── Privat/             # Alles Persönliche
-│   ├── MOC/
-│   ├── Performance/    # Health, Hyrox, Supplements, Scans
+├── Business/
+│   ├── Wagglz/         # GmbH, Finanzen, Screenshots, Wireframes
+│   ├── Cafe/           # Café Berlin, Masterplan
+│   ├── PerformanceCafe/ # Performance Coffee Brand (vollständig)
+│   └── OK-Capital/     # UG, Finanzen, Rangrücktritt
+│
+├── Privat/
+│   ├── Finanzen/       # Konten, Steuern, Fixkosten, Archiv
+│   ├── Performance/    # Health, Hyrox, Supplements, Scans, LinkedIn
 │   ├── Tech/           # Tools, Privacy, Password Manager
-│   ├── Finanzen/       # Privatkonten, Steuern, Fixkosten
 │   ├── Versicherungen/
 │   ├── Recherchen/
 │   └── Auswandern/     # Someday (pausiert)
 │
-├── Business/
-│   ├── MOC/
-│   ├── Wagglz/         # GmbH, Finanzen, BWAs
-│   ├── Cafe/           # Café Berlin, Masterplan, Decks
-│   └── OK-Capital/     # UG, Finanzen
-│
-└── _archiv/            # Work-Themen, nicht aktiv ingesten
-    └── Work/           # z.B. Doctolib/DoktorLib
+├── Doctolib/           # 47 Demo-Account Screenshots (JPG)
+├── assets/             # Wagglz Wireframes, Bilder, Logos
+├── articles/           # Archivierte Web-Artikel
+├── data/               # CSV/Exports (Wearables, etc.)
+└── _archiv/            # Inaktive Themen
 ```
 
-**Workflow:** Datei in `inbox/` → `python3 tools/ingest.py` → Wiki wächst in `wiki/`.
+## Workflow
+
+```bash
+# Eingang verarbeiten
+python3 tools/ingest.py                    # alles in inbox/
+python3 tools/ingest.py --scope clippings  # Clippings/ Ordner
+python3 tools/ingest.py --scope raw        # alle nicht-ingestierten Dateien
+```
