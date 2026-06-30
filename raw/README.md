@@ -1,45 +1,58 @@
 # raw/ — Quellen (immutable nach Ingest)
 
-## ⬇️ NEU ABLEGEN → `inbox/`
-
-Alles was du analysieren oder ins Wiki aufnehmen willst kommt in **`inbox/`**.
-Claude verteilt es dann automatisch in die richtige Unterstruktur.
+> Rohdaten — niemals bearbeiten. Claude liest hier, schreibt in `wiki/`.
 
 ---
 
-## Struktur nach dem Ingest
+## ⬇️ NEU ABLEGEN → `inbox/`
+
+Alles was analysiert oder ins Wiki soll kommt in **`inbox/`** — Claude verteilt es automatisch.
+
+---
+
+## Vollständige Struktur
 
 ```
 raw/
-├── 📥 inbox/           ← EINGANG — hier alles reinwerfen
 │
-├── Business/
-│   ├── Wagglz/         # GmbH, Finanzen, Screenshots, Wireframes
-│   ├── Cafe/           # Café Berlin, Masterplan
-│   ├── PerformanceCafe/ # Performance Coffee Brand (vollständig)
-│   └── OK-Capital/     # UG, Finanzen, Rangrücktritt
+├── 📥 inbox/                  ← EINGANG — hier alles reinwerfen
 │
-├── Privat/
-│   ├── Finanzen/       # Konten, Steuern, Fixkosten, Archiv
-│   ├── Performance/    # Health, Hyrox, Supplements, Scans, LinkedIn
-│   ├── Tech/           # Tools, Privacy, Password Manager
-│   ├── Versicherungen/
-│   ├── Recherchen/
-│   └── Auswandern/     # Someday (pausiert)
+├── Business/                  ← Alle Unternehmens- & Berufsinhalte
+│   ├── Wagglz/                # Wagglz GmbH — Docs, Finanzen, Screenshots, Wireframes
+│   ├── Doctolib/              # Doctolib Demo-Account — 47 App-Screenshots (JPG)
+│   ├── PerformanceCafe/       # Performance Coffee Brand — vollständiges Projekt
+│   ├── Cafe/                  # Café Berlin — Masterplan, Partnership Hai
+│   ├── OK-Capital/            # OK Capital UG — Finanzen, Rangrücktritt
+│   └── AppDev/                # App-Entwicklung — Referenz-Screenshots
 │
-├── Business/
-│   ├── Doctolib/       # 47 Demo-Account Screenshots (JPG)
-├── assets/             # Wagglz Wireframes, Bilder, Logos
-├── articles/           # Archivierte Web-Artikel
-├── data/               # CSV/Exports (Wearables, etc.)
-└── _archiv/            # Inaktive Themen
+├── Privat/                    ← Persönliche Inhalte
+│   ├── Finanzen/              # Konten, Steuern, Fixkosten, Rehab-Plan
+│   ├── Performance/           # Health, Hyrox, Supplements, Scans, LinkedIn
+│   ├── Tech/                  # Tools, Privacy Stack, Password Manager
+│   ├── Versicherungen/        # Allianz, Uelzener, ARAG
+│   ├── Recherchen/            # Ad-hoc Recherchen (Matratze etc.)
+│   ├── MOC/                   # Maps of Content — Übersichten
+│   └── Auswandern/            # Someday/Maybe — Cyprus (pausiert)
+│
+├── Clippings/                 ← Web-Clips & Artikel (Safari, Obsidian Web Clipper)
+├── Excalidraw/                ← Zeichnungen & Diagramme (nur Referenz)
+├── assets/                    ← Bilder, Logos, Wireframes (wagglz-tier/)
+├── articles/                  ← Archivierte Artikel
+├── data/                      ← CSV-Exporte, Wearable-Daten
+└── Claude Memory/             ← Claude Projektkontexte (gitignored, nur lokal)
 ```
 
-## Workflow
+---
 
-```bash
-# Eingang verarbeiten
-python3 tools/ingest.py                    # alles in inbox/
-python3 tools/ingest.py --scope clippings  # Clippings/ Ordner
-python3 tools/ingest.py --scope raw        # alle nicht-ingestierten Dateien
+## LLM Wiki Workflow
+
 ```
+raw/inbox/     →   python3 tools/ingest.py          →   wiki/sources/
+raw/Clippings/ →   python3 tools/ingest.py --scope clippings
+raw/ (gesamt)  →   python3 tools/ingest.py --scope raw
+```
+
+Nach dem Ingest landet alles strukturiert in:
+- `wiki/sources/` — eine Seite pro Quelldokument
+- `wiki/entities/` — Personen, Firmen, Produkte
+- `wiki/syntheses/` — übergreifende Analysen
