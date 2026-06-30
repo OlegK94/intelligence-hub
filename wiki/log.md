@@ -2,6 +2,15 @@
 
 Append-only timeline of ingests, queries, and lint passes.
 
+## [2026-06-30] inbox sortiert | 4 Dateien sortiert, 5 gelöscht
+
+- `00-Master-Context.md` → `raw/Privat/MOC/` (Oleg Kober Master-Profil: Ziele, Prioritäten, Deadlines)
+- `2026-06 Finance Monthly.md` → `raw/Privat/Finanzen/` (Cashflow-Schätzung Jun 2026, Konten-Snapshot, Risiken)
+- `supplement-stack-update-2026-06-20.md` → `raw/Privat/Performance/` (Stack-Update Momentous/Thorne, Collagen neu inkl.)
+- `📥 Offene Actions.md` → `raw/Privat/` (offene To-do-Liste privat/business)
+- Gelöscht: `2026-06-13.md` (leer), `Cyprus Relocation Tracker.md` (Duplikat in Auswandern/), `Unbenannt.base` / `Unbenannt 1.base` / `Unbenannt 2.base` (leere Obsidian-Dateien)
+- Inbox ist jetzt leer ✅
+
 ## [2026-06-30] cleanup + ingest | raw/ Ordnerbereinigung + Wagglz Wireframes + VetSoftwareHub
 - **Cleanup raw/:** raw/raw/Doctolib/ → raw/Doctolib/, raw/raw/Business/AppDev/ → raw/Business/AppDev/, nested raw/raw/ entfernt
 - IMG_3342–3344 (LinkedIn-Screenshots) sortiert: IMG_3342 → raw/Business/Wagglz/Screenshots/ (VetSoftwareHub-Ranking), IMG_3343/3344 → raw/Privat/Performance/LinkedIn/ (Peptid-Post, performance-privat)
