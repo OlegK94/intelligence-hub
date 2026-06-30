@@ -27,7 +27,8 @@ raw/
 │   ├── Recherchen/
 │   └── Auswandern/     # Someday (pausiert)
 │
-├── Doctolib/           # 47 Demo-Account Screenshots (JPG)
+├── Business/
+│   ├── Doctolib/       # 47 Demo-Account Screenshots (JPG)
 ├── assets/             # Wagglz Wireframes, Bilder, Logos
 ├── articles/           # Archivierte Web-Artikel
 ├── data/               # CSV/Exports (Wearables, etc.)
